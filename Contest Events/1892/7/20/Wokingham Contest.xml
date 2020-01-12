@@ -1,0 +1,57 @@
+<contest-event id="18196">
+  <event-date date="1892-7-20">July 20, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wokingham Contest</name>
+  <contest id="3855">
+    <name>Wokingham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wokingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2322">The Champion (Grand Fantasia)</test-piece>
+  </test-piece>
+
+  <venue id="3067">Matthews Green Park, Wokingham</venue>
+  <notes>Promoted by Wokingham Town Band to celebrate their 21st anniversary
+Prizes: £8 10s and a cornet, £2 10s and a trombone, £5 5s
+Quickstep: 1. Reading, 2. Crowthorne.
+8 bands entered , 4 competed.</notes>
+
+  <created>Feb. 13, 2013, 5:44 p.m.</created>
+  <last-modified>May 29, 2019, 7:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="137213">
+      <result code="1">1</result>
+      <band id="6702">Reading Temperance</band>
+      <conductor id="301107">W. Farr</conductor>
+    </result>
+    
+    <result id="137212">
+      <result code="2">2</result>
+      <band id="7912">Staines Town</band>
+      <conductor id="301085">J. Fane</conductor>
+    </result>
+    
+    <result id="137211">
+      <result code="3">3</result>
+      <band id="10445">Crowthorne</band>
+      <conductor id="310191">T. Taylor</conductor>
+    </result>
+    
+    <result id="137210">
+      <result code="4">4</result>
+      <band id="7316">Redhill Town</band>
+      <conductor id="297589">Walter Bashford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

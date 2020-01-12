@@ -1,0 +1,48 @@
+<contest-event id="26455">
+  <event-date date="1950-5-29">May 29, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SCABA Spring Contest (Second Section)</name>
+  <contest id="95">
+    <name>SCABA Spring Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="8">SCABA Spring Contest</group>
+    <slug>scaba-spring-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="159">Indian Summer</test-piece>
+  </test-piece>
+
+  <venue id="4475">Lewes, Sussex</venue>
+  <notes>March contest - 1st Crowborough, 2nd Seaford.</notes>
+
+  <created>Feb. 20, 2014, 10:50 a.m.</created>
+  <last-modified>Feb. 20, 2014, 11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="191855">
+      <result code="1">1</result>
+      <band id="10449">Seaford British Legion</band>
+      <conductor id="301451">A. Fowler</conductor>
+    </result>
+    
+    <result id="191856">
+      <result code="2">2</result>
+      <band id="8142">Crowborough Silver</band>
+      <conductor id="301201">W. Fermor</conductor>
+    </result>
+    
+    <result id="191857">
+      <result code="3">3</result>
+      <band id="3962">West Chiltington Silver Band</band>
+      <conductor id="299249">C. M. Chatfield</conductor>
+    </result>
+    
+  </results>
+</contest-event>

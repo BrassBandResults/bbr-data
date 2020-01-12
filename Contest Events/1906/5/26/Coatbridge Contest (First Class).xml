@@ -1,0 +1,48 @@
+<contest-event id="10638">
+  <event-date date="1906-5-26">May 26, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coatbridge Contest (First Class)</name>
+  <contest id="2076">
+    <name>Coatbridge Contest (First Class)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="241">Coatbridge Contest</group>
+    <slug>coatbridge-contest-first-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2793">Souvenir de Meyerbeer [arr. Swift]</test-piece>
+  </test-piece>
+
+  <venue id="3586">Dunbeth Park, Coatbridge, Lanarkshire</venue>
+  <notes></notes>
+
+  <created>Feb. 25, 2012, 1:01 p.m.</created>
+  <last-modified>Oct. 18, 2014, 9:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="89033">
+      <result code="1">1</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="89034">
+      <result code="2">2</result>
+      <band id="5503">Glasgow Co-op Bakery</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="89035">
+      <result code="3">3</result>
+      <band id="6997">Motherwell Town</band>
+      <conductor id="311327">Albert Wharmby</conductor>
+    </result>
+    
+  </results>
+</contest-event>

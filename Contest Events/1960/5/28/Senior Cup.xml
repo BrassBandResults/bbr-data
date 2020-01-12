@@ -1,0 +1,54 @@
+<contest-event id="6564">
+  <event-date date="1960-5-28">May 28, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Senior Cup</name>
+  <contest id="26">
+    <name>British Open Spring Festival (Senior Cup)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="108">British Open Spring Festival</group>
+    <slug>senior-cup</slug>
+    
+    <notes>This section not held from 1983 to 2000.</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="24">Sunset Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="516">Belle Vue (Exhibition Hall), Manchester, Greater Manchester, England, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>June 18, 2011, 5:01 p.m.</created>
+  <last-modified>May 12, 2015, 11:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="57709">
+      <result code="1">1</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="306837">Harvey Nuttall</conductor>
+    </result>
+    
+    <result id="57710">
+      <result code="2">2</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="304357">George Kaye</conductor>
+    </result>
+    
+    <result id="57711">
+      <result code="3">3</result>
+      <band id="1376">55th Old Boys Association Silver Band</band>
+      <conductor id="301380">A. Forbes</conductor>
+    </result>
+    
+    <result id="57712">
+      <result code="4">4</result>
+      <band id="237">Laganvale Band</band>
+      <conductor id="309998">R. Swann</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="6322">
+  <event-date date="1990-12-8">Dec. 8, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Championship Division)</name>
+  <contest id="274">
+    <name>Dutch Nationals (Championship Division)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="101">Of Men and Mountains</test-piece>
+  </test-piece>
+
+  <venue id="127">De Lawei, Drachten, Friesland, Netherlands</venue>
+  <notes>10th Edition</notes>
+
+  <created>June 6, 2011, 3:29 p.m.</created>
+  <last-modified>May 3, 2017, 6:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="56062">
+      <result code="1">1</result>
+      <band id="989">Brass Band De Wâldsang</band>
+      <conductor id="312215">Rieks van der Velde</conductor>
+    </result>
+    
+    <result id="129175">
+      <result code="2">2</result>
+      <band id="30">Soli Brass</band>
+      <conductor id="313076">Jan de Haan</conductor>
+    </result>
+    
+    <result id="129176">
+      <result code="3">3</result>
+      <band id="240">Brass Band Rijnmond</band>
+      <conductor id="297074">Anno Appelo</conductor>
+    </result>
+    
+    <result id="129177">
+      <result code="4">4</result>
+      <band id="1223">Provinciale Brass Band Groningen</band>
+      <conductor id="310615">Luuk Tuinstra</conductor>
+    </result>
+    
+    <result id="129178">
+      <result code="5">5</result>
+      <band id="772">De Bazuin Oenkerk</band>
+      <conductor id="312216">Klaas van der Woude</conductor>
+    </result>
+    
+    <result id="129179">
+      <result code="6">6</result>
+      <band id="1220">Brass Band Limburg</band>
+      <conductor id="302478">Maurice Hamers</conductor>
+    </result>
+    
+  </results>
+</contest-event>

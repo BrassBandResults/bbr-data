@@ -1,0 +1,67 @@
+<contest-event id="35574">
+  <event-date date="1949-6-18">June 18, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chippenham Contest</name>
+  <contest id="5385">
+    <name>Chippenham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chippenham-contest-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1375">Recollections of Beethoven [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="4315">Chippenham, Wiltshire, England, UK</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £12, 3rd £6, 4th £2.
+9 bands competed.</notes>
+
+  <created>June 30, 2016, 6:58 a.m.</created>
+  <last-modified>Feb. 26, 2019, 10:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="258286">
+      <result code="1">1</result>
+      <band id="10192">Bristol Aeroplane Company</band>
+      <conductor id="308914">Herbert Sevier</conductor>
+    </result>
+    
+    <result id="258287">
+      <result code="2">2</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="299388">Sydney Clarke</conductor>
+    </result>
+    
+    <result id="258288">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="258289">
+      <result code="4">4</result>
+      <band id="5778">Paulton Silver</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="258295">
+      <result code="">Unknown Result</result>
+      <band id="367">Bath Spa Band</band>
+      <conductor id="303430">W. Horler</conductor>
+    </result>
+    
+    <result id="258296">
+      <result code="">Unknown Result</result>
+      <band id="8618">Portsmouth City Fire Brigade</band>
+      <conductor id="299699">Tim Cooper</conductor>
+    </result>
+    
+  </results>
+</contest-event>

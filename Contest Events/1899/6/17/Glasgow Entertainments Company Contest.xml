@@ -1,0 +1,56 @@
+<contest-event id="37109">
+  <event-date date="1899-6-17">June 17, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glasgow Entertainments Company Contest</name>
+  <contest id="6099">
+    <name>Glasgow Entertainments Company Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>glasgow-entertainments-company-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1887">La Fille de Madame Angot</test-piece>
+  </test-piece>
+
+  <venue id="6414">Eastern Pavilion, Glasgow</venue>
+  <notes>Several other bands had entered but, as there was a disagreement between the organising company and the Scottish Amateur Bands Association, the SABA associated bands were instructed to withdraw, leaving only four entries of which only two turned up.
+
+1st prize £15</notes>
+
+  <created>Feb. 12, 2017, 11:09 p.m.</created>
+  <last-modified>Feb. 12, 2017, 11:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="269428">
+      <result code="1">1</result>
+      <band id="5551">Kilsyth Miners&#39; Welfare</band>
+      <conductor id="314271">E. Sutton</conductor>
+    </result>
+    
+    <result id="269429">
+      <result code="2">2</result>
+      <band id="4981">Crofthead Brass Band</band>
+      <conductor id="307270">George Peacock</conductor>
+    </result>
+    
+    <result id="269430">
+      <result code="W">Withdrawn</result>
+      <band id="6764">Quarter Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="269431">
+      <result code="W">Withdrawn</result>
+      <band id="5516">Skinflats</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

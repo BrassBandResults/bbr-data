@@ -1,0 +1,56 @@
+<contest-event id="35325">
+  <event-date date="1960-4-18">April 18, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="24">Sunset Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="3766">Toowoomba, Queensland, Australia</venue>
+  <notes>Street March points listed under Stage March
+
+</notes>
+
+  <created>May 15, 2016, 12:25 a.m.</created>
+  <last-modified>March 13, 2018, 5:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="254180">
+      <result code="1">1</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="317784">Bill Bellett</conductor>
+    </result>
+    
+    <result id="254181">
+      <result code="2">2</result>
+      <band id="11228">Ipswich Model</band>
+      <conductor id="302625">Horace Harper</conductor>
+    </result>
+    
+    <result id="254182">
+      <result code="3">3</result>
+      <band id="6432">Maryborough Excelsior [Queensland]</band>
+      <conductor id="299595">Alexander Connors</conductor>
+    </result>
+    
+    <result id="254183">
+      <result code="4">4</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="298273">Fred Bowers</conductor>
+    </result>
+    
+  </results>
+</contest-event>

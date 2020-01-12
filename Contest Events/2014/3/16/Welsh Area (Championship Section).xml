@@ -1,0 +1,87 @@
+<contest-event id="24046">
+  <event-date date="2014-3-16">March 16, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="20">St. Magnus</test-piece>
+  </test-piece>
+
+  <venue id="2453">Venue Cymru, Llandudno, Conwy, Wales, UK</venue>
+  <notes>Best Instrumentalist: Martyn Patterson (euphonium) - Cory
+
+Pre-qualified for finals: Cory, Tredegar
+Additional qualifiers: Burry Port, Tongwynlais</notes>
+
+  <created>Sept. 25, 2013, 3:34 p.m.</created>
+  <last-modified>March 17, 2014, 10:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="186607">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302630">Philip Harper</conductor>
+    </result>
+    
+    <result id="186609">
+      <result code="2">2</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="307609">Ian Porthouse</conductor>
+    </result>
+    
+    <result id="186610">
+      <result code="3">3</result>
+      <band id="48">Burry Port Town</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+    <result id="186608">
+      <result code="4">4</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="310035">Steve Sykes</conductor>
+    </result>
+    
+    <result id="186615">
+      <result code="5">5</result>
+      <band id="320">Tylorstown Band</band>
+      <conductor id="300157">Gary Davies</conductor>
+    </result>
+    
+    <result id="186612">
+      <result code="6">6</result>
+      <band id="288">Northop Band</band>
+      <conductor id="312088">Thomas Wyss</conductor>
+    </result>
+    
+    <result id="186614">
+      <result code="7">7</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="308253">Gareth Ritter</conductor>
+    </result>
+    
+    <result id="186611">
+      <result code="W">Withdrawn</result>
+      <band id="121">Beaumaris Band</band>
+      <conductor id="300993">Gwyn Evans</conductor>
+    </result>
+    
+    <result id="186613">
+      <result code="W">Withdrawn</result>
+      <band id="18">BTM Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

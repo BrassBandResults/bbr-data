@@ -1,0 +1,67 @@
+<contest-event id="40721">
+  <event-date date="1923-3-28">March 28, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1298">The Mountain Sylph</test-piece>
+  </test-piece>
+
+  <venue id="330">Brisbane, Queensland, Australia</venue>
+  <notes>
+</notes>
+
+  <created>Oct. 15, 2018, 5:19 a.m.</created>
+  <last-modified>Oct. 15, 2018, 5:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296186">
+      <result code="1">1</result>
+      <band id="17436">Brisbane Hibernian  (Qld)</band>
+      <conductor id="302934">J. Henry</conductor>
+    </result>
+    
+    <result id="296187">
+      <result code="2">2</result>
+      <band id="17437">Brisbane A N A Excelsior  (Qld)</band>
+      <conductor id="300860">R. H. Elliott</conductor>
+    </result>
+    
+    <result id="296182">
+      <result code="3">3</result>
+      <band id="17438">Innisfail Town   (Qld)</band>
+      <conductor id="311195">Fred Webb</conductor>
+    </result>
+    
+    <result id="296189">
+      <result code="4">4</result>
+      <band id="17439">Brisbane Citizens  (Qld)</band>
+      <conductor id="318517">Albert Kaeser</conductor>
+    </result>
+    
+    <result id="296185">
+      <result code="W">Withdrawn</result>
+      <band id="2316">Gladstone Municipal Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296184">
+      <result code="W">Withdrawn</result>
+      <band id="17271">Rockhampton Railway</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

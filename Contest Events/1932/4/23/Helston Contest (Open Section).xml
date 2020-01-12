@@ -1,0 +1,62 @@
+<contest-event id="25829">
+  <event-date date="1932-4-23">April 23, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Helston Contest (Open Section)</name>
+  <contest id="4750">
+    <name>Helston Contest (Open Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="483">Helston Contest</group>
+    <slug>helston-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2316">Il Bravo [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1807">Helston, Cornwall</venue>
+  <notes>Prizes - 1st £25 and cup, 2nd £15, 3rd £8, 4th £4.
+March: 1st Falmouth, 2nd Penzance.
+5 bands competed.</notes>
+
+  <created>Jan. 12, 2014, 10:11 p.m.</created>
+  <last-modified>Dec. 7, 2016, 11:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187243">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="187244">
+      <result code="2">2</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="299173">Thomas Chainey</conductor>
+    </result>
+    
+    <result id="187245">
+      <result code="3">3</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="187246">
+      <result code="4">4</result>
+      <band id="4496">Truro City</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="265261">
+      <result code="5">5</result>
+      <band id="2459">St Ives Town</band>
+      <conductor id="310090">John Tanner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

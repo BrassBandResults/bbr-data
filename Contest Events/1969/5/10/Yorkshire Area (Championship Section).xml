@@ -1,0 +1,66 @@
+<contest-event id="8867">
+  <event-date date="1969-5-10">May 10, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Area (Championship Section)</name>
+  <contest id="9">
+    <name>Yorkshire Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="378">Diadem of Gold</test-piece>
+  </test-piece>
+
+  <venue id="634">Leeds Town Hall, Leeds, West Yorkshire, England, UK</venue>
+  <notes>Prizes; 1st; £30  2nd; £15 3rd;  £10</notes>
+
+  <created>Dec. 12, 2011, 3:50 p.m.</created>
+  <last-modified>Nov. 25, 2014, 1:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="77409">
+      <result code="1">1</result>
+      <band id="25">Hammonds Saltaire</band>
+      <conductor id="311453">Geoffrey Whitham</conductor>
+    </result>
+    
+    <result id="77410">
+      <result code="2">2</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="77411">
+      <result code="3">3</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="298362">Geoffrey Brand</conductor>
+    </result>
+    
+    <result id="77413">
+      <result code="">Unknown Result</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="311945">Ernest Woodhouse</conductor>
+    </result>
+    
+    <result id="77414">
+      <result code="">Unknown Result</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="310960">Trevor Walmsley</conductor>
+    </result>
+    
+    <result id="77412">
+      <result code="">Unknown Result</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="297205">Jack Atherton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

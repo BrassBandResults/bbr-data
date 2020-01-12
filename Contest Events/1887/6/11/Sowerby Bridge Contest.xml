@@ -1,0 +1,92 @@
+<contest-event id="17514">
+  <event-date date="1887-6-11">June 11, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sowerby Bridge Contest</name>
+  <contest id="2711">
+    <name>Sowerby Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sowerby-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2326">Victory [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1169">Sowerby Bridge, West Yorkshire, England, UK</venue>
+  <notes>Promoted by Sowerby Bridge Brass Band
+Prizes - 1st £12, 2nd £7, 3rd £4, 4th £2.
+7 bands competed</notes>
+
+  <created>Jan. 21, 2013, 5:28 p.m.</created>
+  <last-modified>May 10, 2019, 10:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="133117">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="133118">
+      <result code="2">2</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="133119">
+      <result code="3">3</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="317257">Thomas Mitchell</conductor>
+    </result>
+    
+    <result id="133120">
+      <result code="4">4</result>
+      <band id="18129">Sowerby Subscription</band>
+      <conductor id="314123">Booth Sharpe</conductor>
+    </result>
+    
+    <result id="281621">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="281622">
+      <result code="">Unknown Result</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="309166">James Simpson</conductor>
+    </result>
+    
+    <result id="281623">
+      <result code="">Unknown Result</result>
+      <band id="6149">Halifax Corporation</band>
+      <conductor id="317296">J. Viney</conductor>
+    </result>
+    
+    <result id="281625">
+      <result code="W">Withdrawn</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281626">
+      <result code="W">Withdrawn</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281624">
+      <result code="W">Withdrawn</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

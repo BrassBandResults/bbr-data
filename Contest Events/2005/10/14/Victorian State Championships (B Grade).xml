@@ -1,0 +1,48 @@
+<contest-event id="39087">
+  <event-date date="2005-10-14">Oct. 14, 2005<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="683">Evocations</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 4, 2018, 1:06 a.m.</created>
+  <last-modified>March 6, 2018, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284299">
+      <result code="1">1</result>
+      <band id="2145">Boroondara Brass</band>
+      <conductor id="307599">Wally Pope</conductor>
+    </result>
+    
+    <result id="284300">
+      <result code="2">2</result>
+      <band id="16064">City of Dandenong   (Vic)</band>
+      <conductor id="305268">Colin Lord</conductor>
+    </result>
+    
+    <result id="284301">
+      <result code="3">3</result>
+      <band id="7855">Wonthaggi Citizens</band>
+      <conductor id="317607">Ben Stein</conductor>
+    </result>
+    
+  </results>
+</contest-event>

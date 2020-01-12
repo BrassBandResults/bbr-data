@@ -1,0 +1,58 @@
+<contest-event id="30064">
+  <event-date date="2012-1-1">Jan. 1, 2012<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Lithuanian Championships (Youth, A)</name>
+  <contest id="5324">
+    <name>Lithuanian Championships (Youth, A)</name>
+    <order>110</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="541">Lithuanian Championships</group>
+    <slug>lithuanian-championships-youth-a</slug>
+    
+    <notes>None</notes>
+    <region id="25">Lithuania</region>
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6479">Panevezys School of Music, Panev. County, Lithuania</venue>
+  <notes>5 Bands.
+Set Work: &#39;Beethoven Forever&#39;
+
+Best Conductor: Bronislovas Vilimas, Pavoverės Brass Band
+Best Set Work: Pavoverės Brass Band</notes>
+
+  <created>Nov. 2, 2014, 3:22 p.m.</created>
+  <last-modified>April 17, 2018, 9:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="212981">
+      <result code="1">1</result>
+      <band id="12396">Pavoverės Brass Band</band>
+      <conductor id="310812">Bronislovas Vilimas</conductor>
+    </result>
+    
+    <result id="212982">
+      <result code="2">2</result>
+      <band id="12137">Pajiešmeniai Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212983">
+      <result code="3">3</result>
+      <band id="12136">Panevezys Paistrio Kulturos Centro &#39;Dudesys&#39;</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="251856">
+      <result code="4">4</result>
+      <band id="13574">Brass Band &quot;Remmangalen&quot;</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

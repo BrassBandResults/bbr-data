@@ -1,0 +1,48 @@
+<contest-event id="39038">
+  <event-date date="2006-10-14">Oct. 14, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="485">Princethorpe Variations</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 17, 2018, 12:07 a.m.</created>
+  <last-modified>Feb. 3, 2018, 10:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283948">
+      <result code="1">1</result>
+      <band id="2145">Boroondara Brass</band>
+      <conductor id="297840">Daniel van Bergen</conductor>
+    </result>
+    
+    <result id="283949">
+      <result code="2">2</result>
+      <band id="2242">Box Hill City Band</band>
+      <conductor id="301116">David Farrell</conductor>
+    </result>
+    
+    <result id="283950">
+      <result code="3">3</result>
+      <band id="2281">Diamond Valley Brass Band</band>
+      <conductor id="303584">Dean Hughes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="26952">
+  <event-date date="1993-4-12">April 12, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins Hemsby (First Section)</name>
+  <contest id="5178">
+    <name>Pontins Hemsby (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="103">Pontins (Hemsby) - Qualifiers</group>
+    <slug>pontins-hemsby-first-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="281">Endeavour [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="4588">Hemsby Holiday Centre (Ballroom), Norfolk</venue>
+  <notes>1st prize: £600, Challenge Cup, Pontin&#39;s Certificate, £250 Pontin&#39;s Holiday Voucher.
+2nd prize: £375, Pontin&#39;s Certificate, £150 Pontin&#39;s Holiday Voucher.
+[3rd prize: £275, Pontin&#39;s Certificate, £100 Pontin&#39;s Holiday Voucher.]
+
+Draw 1 pm, commence 2 pm.
+
+Three bands to qualify for the finals - but only two played.</notes>
+
+  <created>April 6, 2014, 2:43 p.m.</created>
+  <last-modified>April 6, 2014, 2:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194727">
+      <result code="1">1</result>
+      <band id="504">Ireland Colliery Chesterfield Band</band>
+      <conductor id="310978">Roy Walters</conductor>
+    </result>
+    
+    <result id="194731">
+      <result code="2">2</result>
+      <band id="431">Towcester Studio Band</band>
+      <conductor id="298270">Vaughan Bower</conductor>
+    </result>
+    
+    <result id="194728">
+      <result code="W">Withdrawn</result>
+      <band id="819">Luton Band</band>
+      <conductor id="306348">Lyn Morgan</conductor>
+    </result>
+    
+    <result id="194729">
+      <result code="W">Withdrawn</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="304091">Ian Johnson</conductor>
+    </result>
+    
+    <result id="194730">
+      <result code="W">Withdrawn</result>
+      <band id="611">Tilbury</band>
+      <conductor id="300097">Colin Darley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

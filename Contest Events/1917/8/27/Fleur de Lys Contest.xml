@@ -1,0 +1,54 @@
+<contest-event id="40600">
+  <event-date date="1917-8-27">Aug. 27, 1917<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fleur de Lys Contest</name>
+  <contest id="6369">
+    <name>Fleur de Lys Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>fleur-de-lys-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1646">Recollections of Flotow</test-piece>
+  </test-piece>
+
+  <venue id="6942">Fleur-de-Lis, Monmouthsjire</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Oct. 8, 2018, 1 p.m.</created>
+  <last-modified>Oct. 8, 2018, 1:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295413">
+      <result code="1">1</result>
+      <band id="7570">Bargoed</band>
+      <conductor id="318461">W. H. Bosanko</conductor>
+    </result>
+    
+    <result id="295412">
+      <result code="3">3</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="298560">J. Broom</conductor>
+    </result>
+    
+    <result id="295415">
+      <result code="3">3</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="303517">Robert Samuel Howells</conductor>
+    </result>
+    
+    <result id="295414">
+      <result code="4">4</result>
+      <band id="17410">Aberbargoed</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

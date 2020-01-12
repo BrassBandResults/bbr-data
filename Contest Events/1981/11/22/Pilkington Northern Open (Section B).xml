@@ -1,0 +1,54 @@
+<contest-event id="9891">
+  <event-date date="1981-11-22">Nov. 22, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pilkington Northern Open (Section B)</name>
+  <contest id="268">
+    <name>Northern Open (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="49">Northern Open</group>
+    <slug>wilkinson-northern-open-section-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="64">Theatre Royal, St. Helens</venue>
+  <notes></notes>
+
+  <created>Feb. 3, 2012, 10:59 a.m.</created>
+  <last-modified>Nov. 24, 2016, 8:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84367">
+      <result code="1">1</result>
+      <band id="397">Hesketh Bank Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="203190">
+      <result code="2">2</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="203191">
+      <result code="3">3</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="308996">G. T. Shawcross</conductor>
+    </result>
+    
+    <result id="279646">
+      <result code="">Unknown Result</result>
+      <band id="198">Formby Band</band>
+      <conductor id="309293">T. M. Smallwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

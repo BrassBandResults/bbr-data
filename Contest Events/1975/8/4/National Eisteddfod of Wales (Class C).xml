@@ -1,0 +1,54 @@
+<contest-event id="21413">
+  <event-date date="1975-8-4">Aug. 4, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class C)</name>
+  <contest id="3281">
+    <name>National Eisteddfod of Wales (Class C)</name>
+    <order>120</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1037">Rufford Abbey</test-piece>
+  </test-piece>
+
+  <venue id="3520">Criccieth, Caernarvonshire</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>May 15, 2013, 12:23 p.m.</created>
+  <last-modified>July 16, 2015, 6:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="157605">
+      <result code="1">1</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="157606">
+      <result code="2">2</result>
+      <band id="258">Point of Ayr Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157607">
+      <result code="3">3</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="161475">
+      <result code="">Unknown Result</result>
+      <band id="18">BTM Band</band>
+      <conductor id="304181">Cynon Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

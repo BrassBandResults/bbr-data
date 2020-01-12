@@ -1,0 +1,48 @@
+<contest-event id="42792">
+  <event-date date="1980-9-28">Sept. 28, 1980<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (D Grade Brass)</name>
+  <contest id="3037">
+    <name>Tasmanian Band Championships (D Grade Brass)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-d-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1408">Contrasts in Brass</test-piece>
+  </test-piece>
+
+  <venue id="7207">Burnie Civic Centre  ,  Tasmania, Australia</venue>
+  <notes>Bands required to also play a Hymn &amp; Popular Number  ( Not counted in championship)</notes>
+
+  <created>Nov. 5, 2019, 3:06 a.m.</created>
+  <last-modified>Nov. 5, 2019, 3:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="313420">
+      <result code="1">1</result>
+      <band id="13389">Launceston City Band</band>
+      <conductor id="311345">Noel Wheeler</conductor>
+    </result>
+    
+    <result id="313421">
+      <result code="2">2</result>
+      <band id="9278">West Tamar Municipal Band</band>
+      <conductor id="319728">J. Hawkey</conductor>
+    </result>
+    
+    <result id="313422">
+      <result code="3">3</result>
+      <band id="12362">Smithton High</band>
+      <conductor id="307847">Peter Quigley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

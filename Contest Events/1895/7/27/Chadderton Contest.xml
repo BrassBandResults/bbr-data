@@ -1,0 +1,68 @@
+<contest-event id="12559">
+  <event-date date="1895-7-27">July 27, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chadderton Contest</name>
+  <contest id="2606">
+    <name>Chadderton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chadderton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1954">Chadderton</venue>
+  <notes>1st annual contest promoted by Chadderton band.
+Prizes: £23, £12, £7, £4, £2 10s, £1 10s.
+12 bands competed</notes>
+
+  <created>April 16, 2012, 4:54 p.m.</created>
+  <last-modified>June 17, 2019, 9:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100297">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="100298">
+      <result code="2">2</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="100299">
+      <result code="3">3</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="100300">
+      <result code="4">4</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="100301">
+      <result code="5">5</result>
+      <band id="2770">Heywood Old Prize</band>
+      <conductor id="301337">R. K. Fletcher</conductor>
+    </result>
+    
+    <result id="100302">
+      <result code="6">6</result>
+      <band id="7593">Onward Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

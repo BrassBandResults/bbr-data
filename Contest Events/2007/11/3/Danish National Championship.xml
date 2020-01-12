@@ -1,0 +1,66 @@
+<contest-event id="2644">
+  <event-date date="2007-11-3">Nov. 3, 2007<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Danish National Championship</name>
+  <contest id="559">
+    <name>Danish National Championship (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="84">Danish National Championship</group>
+    <slug>danish-national-championship-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="22">Denmark</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="11">Vienna Nights</test-piece>
+  </test-piece>
+
+  <venue id="270">Lyngby, Capital, Denmark</venue>
+  <notes></notes>
+
+  <created>Sept. 26, 2010, 9:55 p.m.</created>
+  <last-modified>Nov. 2, 2010, 9:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="27764">
+      <result code="1">1</result>
+      <band id="714">Lyngby-Taarbaek Brass Band</band>
+      <conductor id="308782">Christian Schmiedescamp</conductor>
+    </result>
+    
+    <result id="27765">
+      <result code="2">2</result>
+      <band id="3293">Århus Brass Band</band>
+      <conductor id="304818">Jacob Vilhelm Larsen</conductor>
+    </result>
+    
+    <result id="27766">
+      <result code="3">3</result>
+      <band id="1225">Concord Brass Band</band>
+      <conductor id="310407">Kasper Thorup</conductor>
+    </result>
+    
+    <result id="27767">
+      <result code="4">4</result>
+      <band id="1262">Nordvestjysk Brass Band</band>
+      <conductor id="310054">Jesper Busk Sørensen</conductor>
+    </result>
+    
+    <result id="27768">
+      <result code="5">5</result>
+      <band id="1206">Silkeborg Blaeserne</band>
+      <conductor id="299309">Preben Nørgaard Christensen</conductor>
+    </result>
+    
+    <result id="27769">
+      <result code="6">6</result>
+      <band id="2045">Peder Most Gardens Brass Band</band>
+      <conductor id="302777">Gert Skovlod Hattesen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

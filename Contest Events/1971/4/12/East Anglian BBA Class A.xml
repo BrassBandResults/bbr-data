@@ -1,0 +1,55 @@
+<contest-event id="20656">
+  <event-date date="1971-4-12">April 12, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class A</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1037">Rufford Abbey</test-piece>
+  </test-piece>
+
+  <venue id="3266">Secondary Modern School, Thetford, Norfolk</venue>
+  <notes>  Hymn tune contest - 1st March Railway, 2nd Lowestoft, 3rd Aylsham and District.
+33rd annual contest</notes>
+
+  <created>April 19, 2013, 11:13 p.m.</created>
+  <last-modified>Dec. 10, 2014, 4:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="153092">
+      <result code="1">1</result>
+      <band id="4214">March Brass 2000</band>
+      <conductor id="317102">William Grogan</conductor>
+    </result>
+    
+    <result id="153093">
+      <result code="2">2</result>
+      <band id="2881">Gunton Hall Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="153094">
+      <result code="3">3</result>
+      <band id="1768">Chatteris Town Brass</band>
+      <conductor id="309063">Roy Shilling</conductor>
+    </result>
+    
+    <result id="153095">
+      <result code="">Unknown Result</result>
+      <band id="3877">Aylsham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

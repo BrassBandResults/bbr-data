@@ -1,0 +1,85 @@
+<contest-event id="23016">
+  <event-date date="1958-5-10">May 10, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Second Section)</name>
+  <contest id="49">
+    <name>West of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1015">Venus and Adonis</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes>
+  9 bands competed.</notes>
+
+  <created>Aug. 17, 2013, 8:14 a.m.</created>
+  <last-modified>Aug. 17, 2013, 8:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169605">
+      <result code="1">1</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="169607">
+      <result code="2">2</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="311281">Joseph Welsh</conductor>
+    </result>
+    
+    <result id="169608">
+      <result code="3">3</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="297521">Neville Barnett</conductor>
+    </result>
+    
+    <result id="169611">
+      <result code="">Unknown Result</result>
+      <band id="2082">383 Royal Artillery (TA) (Portsmouth)</band>
+      <conductor id="300133">A. Davies</conductor>
+    </result>
+    
+    <result id="169604">
+      <result code="">Unknown Result</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="299936">George Crossland</conductor>
+    </result>
+    
+    <result id="169606">
+      <result code="">Unknown Result</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="299224">Cecil Chappell</conductor>
+    </result>
+    
+    <result id="169609">
+      <result code="">Unknown Result</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="298418">C. E. Brewer</conductor>
+    </result>
+    
+    <result id="169610">
+      <result code="">Unknown Result</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="308802">Wilfrid Scholes</conductor>
+    </result>
+    
+    <result id="169612">
+      <result code="">Unknown Result</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="299388">Sydney Clarke</conductor>
+    </result>
+    
+  </results>
+</contest-event>

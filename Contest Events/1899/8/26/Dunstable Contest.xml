@@ -1,0 +1,70 @@
+<contest-event id="12645">
+  <event-date date="1899-8-26">Aug. 26, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dunstable Contest</name>
+  <contest id="1966">
+    <name>Dunstable Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>dunstable-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1398">Dunstable, Bedfordshire, England, UK</venue>
+  <notes>1st prize value £15.9s.
+  2nd prize value £10.7s.
+  3rd prize £3.
+  4th prize £1.
+ March contest  1st (£1) Luton Red Cross,  2nd (10s.) Apsley Mills.
+5 bands competed.</notes>
+
+  <created>April 18, 2012, 5:21 p.m.</created>
+  <last-modified>July 28, 2019, 2:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100802">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="100803">
+      <result code="2">2</result>
+      <band id="4798">Dunstable Excelsior</band>
+      <conductor id="300471">H. W. Dolman</conductor>
+      <test-piece id="1738">Songs of the Sea</test-piece>
+    </result>
+    
+    <result id="100804">
+      <result code="3">3</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100805">
+      <result code="4">4</result>
+      <band id="7772">St. Pancras Midland Railway</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100806">
+      <result code="">Unknown Result</result>
+      <band id="4528">Luton Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

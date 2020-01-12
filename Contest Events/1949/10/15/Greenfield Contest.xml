@@ -1,0 +1,54 @@
+<contest-event id="16750">
+  <event-date date="1949-10-15">Oct. 15, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Greenfield Contest</name>
+  <contest id="2628">
+    <name>Greenfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>greenfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1979">Greenfield</venue>
+  <notes>3rd annual contest</notes>
+
+  <created>Dec. 4, 2012, 11:17 a.m.</created>
+  <last-modified>March 1, 2019, 4:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="128291">
+      <result code="1">1</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258338">
+      <result code="2">2</result>
+      <band id="394">Brindle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="128292">
+      <result code="2">2</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="191007">
+      <result code="">Unknown Result</result>
+      <band id="4644">North Manchester</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

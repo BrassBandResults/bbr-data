@@ -1,0 +1,48 @@
+<contest-event id="31312">
+  <event-date date="1994-5-1">May 1, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class B)</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="635">Second Suite in F</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes></notes>
+
+  <created>March 9, 2015, 12:25 p.m.</created>
+  <last-modified>March 9, 2015, 12:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="222839">
+      <result code="1">1</result>
+      <band id="1344">Boxted Methodist Silver</band>
+      <conductor id="307044">A. Page</conductor>
+    </result>
+    
+    <result id="222840">
+      <result code="2">2</result>
+      <band id="621">Woodbridge Excelsior</band>
+      <conductor id="303564">Peter Hudson</conductor>
+    </result>
+    
+    <result id="222841">
+      <result code="3">3</result>
+      <band id="3892">Leiston RBL Band</band>
+      <conductor id="309168">L. W. Simpson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

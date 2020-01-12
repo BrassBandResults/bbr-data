@@ -1,0 +1,67 @@
+<contest-event id="34843">
+  <event-date date="2018-5-12">May 12, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deutsche Brass Band Meisterschaft (1st Division)</name>
+  <contest id="5666">
+    <name>Deutsche Brass Band Meisterschaft (1st Division)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="24">Deutsche Brass Band Meisterschaft</group>
+    <slug>deutsche-brass-band-meisterschaft-1st-division</slug>
+    
+    <notes></notes>
+    <region id="23">Germany</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="153">Spectrum [Vinter]</test-piece>
+  </test-piece>
+
+  <venue id="4666">Regentenbau (Max Littmann-Saal), Bad Kissingen, Bavaria, Germany</venue>
+  <notes>Set Work: Friday / Own Choice: Saturday
+
+Best Horn Solo: Nordbayerische Brass Band</notes>
+
+  <created>March 29, 2016, 9:06 a.m.</created>
+  <last-modified>June 1, 2018, 4:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287156">
+      <result code="1">1</result>
+      <band id="7415">Badische Brass Band</band>
+      <conductor id="304653">Dominik Koch</conductor>
+      <test-piece id="5497">Mystic Echoes</test-piece>
+    </result>
+    
+    <result id="287157">
+      <result code="2">2</result>
+      <band id="953">Brass Band Regensburg</band>
+      <conductor id="302735">Christine Hartmann</conductor>
+      <test-piece id="56">The Essence of Time</test-piece>
+    </result>
+    
+    <result id="287153">
+      <result code="3">3</result>
+      <band id="10929">Nordbayerische Brass Band</band>
+      <conductor id="311245">Mathias Wehr</conductor>
+      <test-piece id="46">Harmony Music</test-piece>
+    </result>
+    
+    <result id="287154">
+      <result code="4">4</result>
+      <band id="955">Brass Band Schwaben</band>
+      <conductor id="305590">Benjamin Markl</conductor>
+      <test-piece id="280">Excalibur</test-piece>
+    </result>
+    
+    <result id="287155">
+      <result code="5">5</result>
+      <band id="952">Cologne Concert Brass</band>
+      <conductor id="308778">Heinrich Schmidt</conductor>
+      <test-piece id="2445">Of Distant Memories</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

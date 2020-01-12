@@ -1,0 +1,65 @@
+<contest-event id="34526">
+  <event-date date="1994-4-2">April 2, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior B Grade)</name>
+  <contest id="91">
+    <name>Australian Championships (Junior B Grade)</name>
+    <order>120</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-b-grade</slug>
+    
+    <notes>First contest in grade 1985</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="10">Set Test and Entertainments Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3601">Three Times A Tune</test-piece>
+  </test-piece>
+
+  <venue id="336">Melbourne, Victoria, Australia</venue>
+  <notes>MUSIC   ,Test  and entertainment item.</notes>
+
+  <created>March 14, 2016, 5 a.m.</created>
+  <last-modified>June 19, 2017, 12:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="249263">
+      <result code="1">1</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="808">Suite for Brass [Davis]</test-piece>
+    </result>
+    
+    <result id="249264">
+      <result code="2">2</result>
+      <band id="2342">Hyde Street Youth</band>
+      <conductor id="305987">Jason Mears</conductor>
+      <test-piece id="712">Free World Fantasy</test-piece>
+    </result>
+    
+    <result id="249265">
+      <result code="3">3</result>
+      <band id="13609">Toronto &amp; District Juniors</band>
+      <conductor id="297746">Michael Bell</conductor>
+      <test-piece id="2835">Kaleidoscope [Johnson]</test-piece>
+    </result>
+    
+    <result id="249266">
+      <result code="4">4</result>
+      <band id="13335">City of Traralgon Juniors</band>
+      <conductor id="308856">Martin Scrimshaw</conductor>
+      <test-piece id="687">Spiritual Moments</test-piece>
+    </result>
+    
+    <result id="249267">
+      <result code="5">5</result>
+      <band id="10047">Kew Juniors</band>
+      <conductor id="297983">Gary Bishop</conductor>
+      <test-piece id="1589">Amaranth</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

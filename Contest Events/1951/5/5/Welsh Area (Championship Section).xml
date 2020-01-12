@@ -1,0 +1,84 @@
+<contest-event id="17038">
+  <event-date date="1951-5-5">May 5, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1190">Atlantic [Wright]</test-piece>
+  </test-piece>
+
+  <venue id="3084">Welfare Hall, Gwaun-cae-Gurwen</venue>
+  <notes>9 bands competed.</notes>
+
+  <created>Dec. 14, 2012, 4:31 p.m.</created>
+  <last-modified>July 7, 2016, 10:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="129738">
+      <result code="1">1</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306836">Harry Nuttall</conductor>
+    </result>
+    
+    <result id="192875">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+    <result id="192876">
+      <result code="3">3</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="306390">Haydn Morris</conductor>
+    </result>
+    
+    <result id="192882">
+      <result code="4">4</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="311687">W. J. Williams</conductor>
+    </result>
+    
+    <result id="192879">
+      <result code="">Unknown Result</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="311623">Haydn Williams</conductor>
+    </result>
+    
+    <result id="192877">
+      <result code="">Unknown Result</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="192878">
+      <result code="">Unknown Result</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+    <result id="192881">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="311649">Lewis Williams</conductor>
+    </result>
+    
+    <result id="192880">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">T. C. White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

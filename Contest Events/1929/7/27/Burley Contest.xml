@@ -1,0 +1,68 @@
+<contest-event id="24440">
+  <event-date date="1929-7-27">July 27, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burley Contest</name>
+  <contest id="4540">
+    <name>Burley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>burley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4116">Recreation Ground, Burley-in-Wharfedale, Yorkshire</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £5, 3rd £2.10s.
+  March contest (own choice) - 1st Bullcroft, 2nd Harrogate, 3rd Ripon.
+  6 bands competed.</notes>
+
+  <created>Oct. 9, 2013, 4:21 p.m.</created>
+  <last-modified>Dec. 1, 2018, 7:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="178435">
+      <result code="1">1</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="307097">W. Park</conductor>
+    </result>
+    
+    <result id="178436">
+      <result code="2">2</result>
+      <band id="8530">Harrogate Silver</band>
+      <conductor id="309126">Nathan Sidebottom</conductor>
+    </result>
+    
+    <result id="178437">
+      <result code="3">3</result>
+      <band id="445">Yeadon Old Band</band>
+      <conductor id="303883">Walter Jackson</conductor>
+    </result>
+    
+    <result id="178438">
+      <result code="">Unknown Result</result>
+      <band id="340">Ripon City Band</band>
+      <conductor id="303091">Harry W. Hill</conductor>
+    </result>
+    
+    <result id="178440">
+      <result code="">Unknown Result</result>
+      <band id="2614">Horsforth Subscription</band>
+      <conductor id="301228">H. B. Fieldhouse</conductor>
+    </result>
+    
+    <result id="178439">
+      <result code="">Unknown Result</result>
+      <band id="3144">Black Dyke Mills Junior</band>
+      <conductor id="302953">Hubert Hepworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

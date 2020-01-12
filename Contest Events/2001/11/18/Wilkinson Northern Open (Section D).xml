@@ -1,0 +1,55 @@
+<contest-event id="25227">
+  <event-date date="2001-11-18">Nov. 18, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wilkinson Northern Open (Section D)</name>
+  <contest id="270">
+    <name>Northern Open (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="49">Northern Open</group>
+    <slug>wilkinson-northern-open-section-d</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="31">The Seasons [Wilby]</test-piece>
+  </test-piece>
+
+  <venue id="64">Theatre Royal, St. Helens</venue>
+  <notes>21st annual contest.
+4 bands competed.</notes>
+
+  <created>Nov. 21, 2013, 10:16 a.m.</created>
+  <last-modified>June 29, 2016, 11:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="201722">
+      <result code="1">1</result>
+      <band id="202">Trinity Girls Band</band>
+      <conductor id="297581">Stuart Barton</conductor>
+    </result>
+    
+    <result id="236814">
+      <result code="2">2</result>
+      <band id="208">Pemberton Old Wigan DW &#39;B&#39; Band</band>
+      <conductor id="297152">Peter Ashley</conductor>
+    </result>
+    
+    <result id="236815">
+      <result code="3">3</result>
+      <band id="930">Burneside Brass</band>
+      <conductor id="305115">Roger Lincoln</conductor>
+    </result>
+    
+    <result id="251300">
+      <result code="4">4</result>
+      <band id="2708">St. Helens Brass</band>
+      <conductor id="312123">A. Young</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="12750">
+  <event-date date="1909-3-6">March 6, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Port Glasgow Contest</name>
+  <contest id="2674">
+    <name>Port Glasgow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>port-glasgow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2016">Port Glasgow, Inverclyde, Scotland, UK</venue>
+  <notes>March contest 1st Renton, 2nd St John&#39;s Port Glasgow.
+4 bands competed.</notes>
+
+  <created>April 19, 2012, 10:35 p.m.</created>
+  <last-modified>Sept. 3, 2016, 7:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101427">
+      <result code="1">1</result>
+      <band id="6889">Renton</band>
+      <conductor id="305900">D. McGregor</conductor>
+    </result>
+    
+    <result id="101428">
+      <result code="2">2</result>
+      <band id="2106">St John&#39;s (Port Glasgow)</band>
+      <conductor id="309464">W. Smith</conductor>
+    </result>
+    
+    <result id="101429">
+      <result code="3">3</result>
+      <band id="6557">Springburn Public</band>
+      <conductor id="307727">A. Prime</conductor>
+    </result>
+    
+    <result id="101430">
+      <result code="4">4</result>
+      <band id="5510">Clydebank RC</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,49 @@
+<contest-event id="21501">
+  <event-date date="1976-4-17">April 17, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins Brean Sands (Third Section)</name>
+  <contest id="551">
+    <name>Pontins Brean Sands (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="83">Pontins (Brean Sands) - Qualifiers</group>
+    <slug>pontins-brean-sands-third-section</slug>
+    <qualifies-for id="74">Pontins (Third Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="383">Sinfonietta [Wilson]</test-piece>
+  </test-piece>
+
+  <venue id="2462">Pontins Holiday Camp, Brean Sands, Somerset</venue>
+  <notes>
+  Prizes - 1st £200, 2nd £80, 3rd £60.</notes>
+
+  <created>May 20, 2013, 6:49 a.m.</created>
+  <last-modified>May 20, 2013, 7:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="158102">
+      <result code="1">1</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="307594">H. A. Pope</conductor>
+    </result>
+    
+    <result id="158103">
+      <result code="2">2</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="311659">R. D. Williams</conductor>
+    </result>
+    
+    <result id="158104">
+      <result code="3">3</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="302331">Mal Guy</conductor>
+    </result>
+    
+  </results>
+</contest-event>

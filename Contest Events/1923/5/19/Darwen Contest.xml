@@ -1,0 +1,93 @@
+<contest-event id="26912">
+  <event-date date="1923-5-19">May 19, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darwen Contest</name>
+  <contest id="1766">
+    <name>Darwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="2408">Bold Venture Park, Darwen</venue>
+  <notes>Prizes: 15 guineas, £10, £6.10s., £2.10s., £1.10s.
+March: 1. Lowerhouse Mills, 2nd Eccles
+10 bands competed.
+</notes>
+
+  <created>April 4, 2014, 7:22 p.m.</created>
+  <last-modified>Oct. 17, 2018, 12:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194515">
+      <result code="1">1</result>
+      <band id="1714">Lowerhouse Mills Burnley</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="194516">
+      <result code="2">2</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="240465">
+      <result code="3">3</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="300519">James Dow</conductor>
+    </result>
+    
+    <result id="240097">
+      <result code="4">4</result>
+      <band id="3850">Blackrod Public</band>
+      <conductor id="298733">Percy Bullough</conductor>
+    </result>
+    
+    <result id="240098">
+      <result code="5">5</result>
+      <band id="1447">Blackburn&#39;s Steel Works Band</band>
+      <conductor id="297969">J. Birkett</conductor>
+    </result>
+    
+    <result id="296415">
+      <result code="">Unknown Result</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296414">
+      <result code="">Unknown Result</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296416">
+      <result code="">Unknown Result</result>
+      <band id="8194">Blackburn Coronation</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296417">
+      <result code="">Unknown Result</result>
+      <band id="3616">Read and Simonstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240099">
+      <result code="">Unknown Result</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

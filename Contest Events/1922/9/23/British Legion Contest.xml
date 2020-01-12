@@ -1,0 +1,50 @@
+<contest-event id="26908">
+  <event-date date="1922-9-23">Sept. 23, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>British Legion Contest</name>
+  <contest id="2880">
+    <name>British Legion Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>british-legion-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2908">Samson and Delilah</test-piece>
+  </test-piece>
+
+  <venue id="390">Southport, Merseyside, England, UK</venue>
+  <notes>Contest for British Legion Bands
+
+Prizes: £25, £15, £10</notes>
+
+  <created>April 4, 2014, 5:41 p.m.</created>
+  <last-modified>April 4, 2014, 5:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194488">
+      <result code="1">1</result>
+      <band id="11936">Darlington British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194489">
+      <result code="2">2</result>
+      <band id="10847">Southport British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194490">
+      <result code="3">3</result>
+      <band id="11941">Allerton Bywater Comrades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

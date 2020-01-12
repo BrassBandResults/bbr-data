@@ -1,0 +1,65 @@
+<contest-event id="34830">
+  <event-date date="1974-4-12">April 12, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="848">American Sketches</test-piece>
+  </test-piece>
+
+  <venue id="325">Hobart, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>March 29, 2016, 2:56 a.m.</created>
+  <last-modified>April 2, 2016, 1:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="251598">
+      <result code="1">1</result>
+      <band id="9275">City of Devonport Brass Band</band>
+      <conductor id="308659">J. Saint</conductor>
+      <test-piece id="1072">Homage to Pharaoh</test-piece>
+    </result>
+    
+    <result id="251599">
+      <result code="2">2</result>
+      <band id="2283">Sutherland Shire Brass</band>
+      <conductor id="305902">Frank McGuinness</conductor>
+      <test-piece id="345">Devon Fantasy</test-piece>
+    </result>
+    
+    <result id="251600">
+      <result code="3">3</result>
+      <band id="13490">De La Salle Kingsgrove</band>
+      <conductor id="302546">Jack Hansen</conductor>
+      <test-piece id="159">Indian Summer</test-piece>
+    </result>
+    
+    <result id="251601">
+      <result code="4">4</result>
+      <band id="13389">Launceston City Band</band>
+      <conductor id="298183">Ron Booth</conductor>
+      <test-piece id="1035">The Young in Heart</test-piece>
+    </result>
+    
+    <result id="251602">
+      <result code="5">5</result>
+      <band id="13488">Tasmanian Youth Brass</band>
+      <conductor id="305466">Dudley Maddern</conductor>
+      <test-piece id="1185">Neapolitan Suite</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

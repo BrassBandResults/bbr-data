@@ -1,0 +1,48 @@
+<contest-event id="32345">
+  <event-date date="1965-12-12">Dec. 12, 1965<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Contest (Championship Section)</name>
+  <contest id="1103">
+    <name>NWABBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="142">NWABBA Contest</group>
+    <slug>nwabba-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1343">Wuthering Heights</test-piece>
+  </test-piece>
+
+  <venue id="617">Parr Hall, Warrington, Cheshire, England, UK</venue>
+  <notes></notes>
+
+  <created>July 24, 2015, 6:41 a.m.</created>
+  <last-modified>July 24, 2015, 6:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="231807">
+      <result code="1">1</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="231808">
+      <result code="2">2</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="231809">
+      <result code="3">3</result>
+      <band id="929">Ulverston Town Band [Cumbria]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

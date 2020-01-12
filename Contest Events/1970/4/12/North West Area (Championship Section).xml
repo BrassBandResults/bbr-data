@@ -1,0 +1,72 @@
+<contest-event id="3742">
+  <event-date date="1970-4-12">April 12, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Championship Section)</name>
+  <contest id="21">
+    <name>North West Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="397">The Corsair</test-piece>
+  </test-piece>
+
+  <venue id="383">Public Hall, Preston</venue>
+  <notes></notes>
+
+  <created>Feb. 6, 2011, 3:20 a.m.</created>
+  <last-modified>Feb. 6, 2011, 3:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="34523">
+      <result code="1">1</result>
+      <band id="1698">Cammell Laird</band>
+      <conductor id="308843">James Scott</conductor>
+    </result>
+    
+    <result id="34524">
+      <result code="2">2</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="303911">David James</conductor>
+    </result>
+    
+    <result id="34525">
+      <result code="3">3</result>
+      <band id="1000">Greenway Selectus Band</band>
+      <conductor id="302077">Edward Gray</conductor>
+    </result>
+    
+    <result id="34526">
+      <result code="4">4</result>
+      <band id="2012">Mirrlees Works Band</band>
+      <conductor id="297205">Jack Atherton</conductor>
+    </result>
+    
+    <result id="34527">
+      <result code="">Unknown Result</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="300087">W. M. Daniels</conductor>
+    </result>
+    
+    <result id="34528">
+      <result code="">Unknown Result</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="306885">Harry Oakes</conductor>
+    </result>
+    
+    <result id="34529">
+      <result code="">Unknown Result</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="303699">H. Hurst</conductor>
+    </result>
+    
+  </results>
+</contest-event>

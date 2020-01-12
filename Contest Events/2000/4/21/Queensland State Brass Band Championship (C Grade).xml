@@ -1,0 +1,65 @@
+<contest-event id="42544">
+  <event-date date="2000-4-21">April 21, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (C Grade)</name>
+  <contest id="1709">
+    <name>Queensland State Brass Band Championship (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="262">Glasshouse Sketches</test-piece>
+  </test-piece>
+
+  <venue id="7164">Rockhampton Pilbeam Theatre Concert Hall,  Queensland Australia</venue>
+  <notes></notes>
+
+  <created>Sept. 17, 2019, 6:07 a.m.</created>
+  <last-modified>Sept. 17, 2019, 6:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="312121">
+      <result code="1">1</result>
+      <band id="2306">Cairns Brass No. 2</band>
+      <conductor id="301148">Bob Favell</conductor>
+      <test-piece id="3278">Gallipoli</test-piece>
+    </result>
+    
+    <result id="312122">
+      <result code="2">2</result>
+      <band id="17837">Nambour &amp; Maroochy District  - Sunshine Brass  (Qld)</band>
+      <conductor id="309837">Peter Stonehouse</conductor>
+      <test-piece id="220">Music for a Festival</test-piece>
+    </result>
+    
+    <result id="312124">
+      <result code="3">3</result>
+      <band id="737">Gunnedah Shire Band</band>
+      <conductor id="304346">Jason Katsikaris</conductor>
+      <test-piece id="162">Mexican Fiesta</test-piece>
+    </result>
+    
+    <result id="312123">
+      <result code="3">3</result>
+      <band id="18274">Walkers Engineering  - Maryborough</band>
+      <conductor id="319465">Ken Hodgkinson</conductor>
+      <test-piece id="169">Triptych [Sparke]</test-piece>
+    </result>
+    
+    <result id="312125">
+      <result code="5">5</result>
+      <band id="17733">Rockhampton City  (42nd Battalion)</band>
+      <conductor id="307153">Brent Parry</conductor>
+      <test-piece id="973">The Pacemakers</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

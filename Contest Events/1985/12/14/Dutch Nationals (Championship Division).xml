@@ -1,0 +1,51 @@
+<contest-event id="6328">
+  <event-date date="1985-12-14">Dec. 14, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Championship Division)</name>
+  <contest id="274">
+    <name>Dutch Nationals (Championship Division)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1135">Circles</test-piece>
+  </test-piece>
+
+  <venue id="129">De Hanzehof, Zutphen, Gelderland, Netherlands</venue>
+  <notes></notes>
+
+  <created>June 6, 2011, 3:36 p.m.</created>
+  <last-modified>Dec. 11, 2013, 10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="56078">
+      <result code="1">1</result>
+      <band id="30">Soli Brass</band>
+      <conductor id="313076">Jan de Haan</conductor>
+      <test-piece id="50">Dances and Arias</test-piece>
+    </result>
+    
+    <result id="125040">
+      <result code="2">2</result>
+      <band id="240">Brass Band Rijnmond</band>
+      <conductor id="306750">Lambert Niesten</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+    <result id="125041">
+      <result code="3">3</result>
+      <band id="772">De Bazuin Oenkerk</band>
+      <conductor id="303768">Bienze Ijlstra</conductor>
+      <test-piece id="223">Un Vie de Matelot (A Sailor&#39;s Life)</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

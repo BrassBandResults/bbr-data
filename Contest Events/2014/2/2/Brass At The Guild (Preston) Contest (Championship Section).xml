@@ -1,0 +1,70 @@
+<contest-event id="24238">
+  <event-date date="2014-2-2">Feb. 2, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass At The Guild (Preston) Contest (Championship Section)</name>
+  <contest id="209">
+    <name>Brass At The Guild (Preston) Contest (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="8">Own Choice from a Specified List</contest-type>
+    <group id="34">Brass at the Guild (Preston)</group>
+    <slug>brass-at-the-guild-preston-contest-championship</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="20">St. Magnus</test-piece>
+  </test-piece>
+
+  <venue id="29">Guild Hall, Preston, Lancashire, England, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 2, 2013, 8:38 p.m.</created>
+  <last-modified>Feb. 6, 2014, 3:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187522">
+      <result code="1">1</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="302421">Martin Hall</conductor>
+      <test-piece id="20">St. Magnus</test-piece>
+    </result>
+    
+    <result id="187523">
+      <result code="2">2</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="306577">Stig Mærsk</conductor>
+      <test-piece id="20">St. Magnus</test-piece>
+    </result>
+    
+    <result id="187526">
+      <result code="3">3</result>
+      <band id="171">Blackburn and Darwen Band</band>
+      <conductor id="309042">Nick Sheppard</conductor>
+      <test-piece id="20">St. Magnus</test-piece>
+    </result>
+    
+    <result id="187524">
+      <result code="4">4</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="299544">Peter Collins</conductor>
+      <test-piece id="20">St. Magnus</test-piece>
+    </result>
+    
+    <result id="187525">
+      <result code="W">Withdrawn</result>
+      <band id="309">Felling Band</band>
+      <conductor id="305514">Steve Malcolm</conductor>
+    </result>
+    
+    <result id="190164">
+      <result code="W">Withdrawn</result>
+      <band id="282">Harrogate Band</band>
+      <conductor id="307925">Craig Ratcliffe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

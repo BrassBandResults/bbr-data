@@ -1,0 +1,83 @@
+<contest-event id="12433">
+  <event-date date="1899-7-15">July 15, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class B)</name>
+  <contest id="2568">
+    <name>Pontypridd Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3743">Taff Vale Park, Pontypridd</venue>
+  <notes>  1st prize £12.
+  2nd prize £7.
+  3rd prize £4 and 4th prize £2 divided between Mountain Ash and Cwmtawe.
+10 bands entered, 8 bands competed.
+Best cornet &amp; euph: Burry Port.
+9th annual South Wales and Monmouth Contest.</notes>
+
+  <created>April 14, 2012, 1:59 p.m.</created>
+  <last-modified>Aug. 27, 2018, 7:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99394">
+      <result code="1">1</result>
+      <band id="12297">Burry Port Town</band>
+      <conductor id="301339">Rufus Fletcher</conductor>
+    </result>
+    
+    <result id="99395">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">P. Ambler</conductor>
+    </result>
+    
+    <result id="99396">
+      <result code="3">3</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="99397">
+      <result code="3">3</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="99398">
+      <result code="">Unknown Result</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="99399">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="167054">
+      <result code="">Unknown Result</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="302535">George Hannay</conductor>
+    </result>
+    
+    <result id="99400">
+      <result code="">Unknown Result</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="23904">
+  <event-date date="1933-7-8">July 8, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Seven Sisters Contest (Class B)</name>
+  <contest id="2833">
+    <name>Seven Sisters Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="446">Seven Sisters Contest</group>
+    <slug>seven-sisters-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4000">Memorial Hall, Seven Sisters, Neath, Glamorgan</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Sept. 16, 2013, 9:57 a.m.</created>
+  <last-modified>May 6, 2019, 12:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="174626">
+      <result code="1">1</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+    <result id="174627">
+      <result code="2">2</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="308018">H. Rees</conductor>
+    </result>
+    
+    <result id="174628">
+      <result code="3">3</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="299098">A. Casey</conductor>
+    </result>
+    
+    <result id="308219">
+      <result code="W">Withdrawn</result>
+      <band id="11146">Clydach</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="174629">
+      <result code="W">Withdrawn</result>
+      <band id="6257">Swansea Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

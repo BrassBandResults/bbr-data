@@ -1,0 +1,67 @@
+<contest-event id="23235">
+  <event-date date="1950-12-23">Dec. 23, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coatbridge Contest</name>
+  <contest id="2221">
+    <name>Coatbridge Contest</name>
+    <order>5</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="241">Coatbridge Contest</group>
+    <slug>coatbridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1513">Town Hall, Coatbridge, Lanarkshire</venue>
+  <notes>13 bands competed.
+Promoted by Gartsherrie Silver band.</notes>
+
+  <created>Aug. 22, 2013, 7:51 p.m.</created>
+  <last-modified>March 11, 2019, 1:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170852">
+      <result code="1">1</result>
+      <band id="13">Kirkintilloch Band</band>
+      <conductor id="301382">Hugh Forbes</conductor>
+    </result>
+    
+    <result id="170853">
+      <result code="2">2</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="306996">William Oughton</conductor>
+    </result>
+    
+    <result id="170854">
+      <result code="3">3</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="297251">A. Auld</conductor>
+    </result>
+    
+    <result id="170855">
+      <result code="4">4</result>
+      <band id="5011">1st Renfrew and Dumbarton Artillery Volunteers</band>
+      <conductor id="305438">J. Macdonald</conductor>
+    </result>
+    
+    <result id="170856">
+      <result code="4">4</result>
+      <band id="5484">Larkhall Silver</band>
+      <conductor id="310210">Charles Telfer</conductor>
+    </result>
+    
+    <result id="305421">
+      <result code="W">Withdrawn</result>
+      <band id="5543">Glasgow Transport</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

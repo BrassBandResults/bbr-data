@@ -1,0 +1,82 @@
+<contest-event id="10029">
+  <event-date date="1905-5-27">May 27, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackburn Contest (Open Section)</name>
+  <contest id="1836">
+    <name>Blackburn Contest (Open Section)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="270">Blackburn Contest</group>
+    <slug>blackburn-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1584">La Cenerentola</test-piece>
+  </test-piece>
+
+  <venue id="3553">Blackburn Rovers F.C., Ewood Park, Blackburn, Lancashire</venue>
+  <notes>  1st prize £25 and shield.
+  2nd prize £15.
+  3rd prize £10 and 4th prize divided between Crooke and Goodshaw.
+
+  8 bands competed.</notes>
+
+  <created>Feb. 6, 2012, 4:32 p.m.</created>
+  <last-modified>Sept. 5, 2013, 5:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84992">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="84993">
+      <result code="2">2</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="84995">
+      <result code="3">3</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="84994">
+      <result code="3">3</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="84996">
+      <result code="">Unknown Result</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84997">
+      <result code="">Unknown Result</result>
+      <band id="6638">Darwen Borough Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84998">
+      <result code="">Unknown Result</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84999">
+      <result code="">Unknown Result</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,58 @@
+<contest-event id="40639">
+  <event-date date="1918-6-22">June 22, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swansea Contest (Class B)</name>
+  <contest id="2319">
+    <name>Swansea Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swansea-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1249">Swansea, Swansea County, Wales, UK</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Oct. 11, 2018, 9:54 a.m.</created>
+  <last-modified>Oct. 11, 2018, 10:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295648">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+      <test-piece id="2161">The Barber of Seville - selection</test-piece>
+    </result>
+    
+    <result id="295649">
+      <result code="2">2</result>
+      <band id="9506">Calfaria Clydach</band>
+      <conductor id="304288">T. J. Jones</conductor>
+      <test-piece id="3064">La Juive</test-piece>
+    </result>
+    
+    <result id="295646">
+      <result code="3">3</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+      <test-piece id="1174">Crispino [arr. Round]</test-piece>
+    </result>
+    
+    <result id="295647">
+      <result code="3">3</result>
+      <band id="6969">Waunarlwydd</band>
+      <conductor id="308020">T. J. Rees</conductor>
+      <test-piece id="2161">The Barber of Seville - selection</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

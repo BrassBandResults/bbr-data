@@ -1,0 +1,44 @@
+<contest-event id="563">
+  <event-date date="2009-5-16">May 16, 2009<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deutsche Brass Band Meisterschaft (Mittelstufe)</name>
+  <contest id="147">
+    <name>Deutsche Brass Band Meisterschaft (Mittelstufe)</name>
+    <order>6</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="24">Deutsche Brass Band Meisterschaft</group>
+    <slug>deutsche-brass-band-meisterschaft-mittelstufe</slug>
+    
+    <notes></notes>
+    <region id="23">Germany</region>
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1628">Stadttheater, Ingolstadt, Bavaria, Germany</venue>
+  <notes></notes>
+
+  <created>May 19, 2009, 11:08 a.m.</created>
+  <last-modified>May 8, 2016, 1:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="6912">
+      <result code="1">1</result>
+      <band id="955">Brass Band Schwaben</band>
+      <conductor id="309109">Robert Sibich</conductor>
+      <test-piece id="130">Partita [Gregson]</test-piece>
+    </result>
+    
+    <result id="6913">
+      <result code="2">2</result>
+      <band id="956">EsBrassivo</band>
+      <conductor id="305400">Peter Lüttig</conductor>
+      <test-piece id="198">Valerius Variations</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

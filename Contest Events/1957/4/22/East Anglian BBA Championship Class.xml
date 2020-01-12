@@ -1,0 +1,48 @@
+<contest-event id="22698">
+  <event-date date="1957-4-22">April 22, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Championship Class</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2568">Themes from Greig Piano Concerto</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>  7 bands competed.</notes>
+
+  <created>Aug. 12, 2013, 4:17 p.m.</created>
+  <last-modified>Aug. 12, 2013, 4:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="167808">
+      <result code="1">1</result>
+      <band id="296">Soham Comrades Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167809">
+      <result code="2">2</result>
+      <band id="2112">Castleton Brass [Suffolk]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167810">
+      <result code="3">3</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

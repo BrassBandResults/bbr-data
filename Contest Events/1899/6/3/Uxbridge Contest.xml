@@ -1,0 +1,76 @@
+<contest-event id="7001">
+  <event-date date="1899-6-3">June 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Uxbridge Contest</name>
+  <contest id="1209">
+    <name>Uxbridge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>uxbridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  
+  <notes>1st prize £20.
+  2nd prize £6.
+  3rd prize £4.
+  4th prize £2.
+  5th prize £1
+
+March contest held same day:
+
+1. (£1.5s.) Luton Red Cross
+2. (15s.) Feltham
+3. (10s.) Yiewsley</notes>
+
+  <created>Aug. 13, 2011, 11:31 a.m.</created>
+  <last-modified>April 13, 2012, 8:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="61820">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="61821">
+      <result code="2">2</result>
+      <band id="5199">Feltham</band>
+      <conductor id="309056">W. J. Douglas Sherriff</conductor>
+    </result>
+    
+    <result id="61822">
+      <result code="3">3</result>
+      <band id="10618">London Silver</band>
+      <conductor id="301849">Walter Gilyatt</conductor>
+    </result>
+    
+    <result id="61823">
+      <result code="4">4</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="297425">H. S. Banghen</conductor>
+    </result>
+    
+    <result id="61824">
+      <result code="5">5</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="61825">
+      <result code="">Unknown Result</result>
+      <band id="601">Yiewsley and West Drayton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

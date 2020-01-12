@@ -1,0 +1,48 @@
+<contest-event id="24863">
+  <event-date date="1944-8-12">Aug. 12, 1944<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bishop Auckland Contest</name>
+  <contest id="2144">
+    <name>Bishop Auckland Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="354">Bishop Auckland Contest</group>
+    <slug>bishop-auckland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4080">Bishop&#39;s Park, Bishop Auckland</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Nov. 4, 2013, 1:26 p.m.</created>
+  <last-modified>Feb. 2, 2019, 4:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181599">
+      <result code="1">1</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="253755">
+      <result code="2">2</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181600">
+      <result code="3">3</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

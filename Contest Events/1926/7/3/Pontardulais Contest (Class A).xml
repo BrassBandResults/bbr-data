@@ -1,0 +1,61 @@
+<contest-event id="41235">
+  <event-date date="1926-7-3">July 3, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontardulais Contest (Class A)</name>
+  <contest id="6371">
+    <name>Pontardulais Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontardulais-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1749">Eroica Symphony</test-piece>
+  </test-piece>
+
+  <venue id="6947">Belle Vue Grounds, Pontardulais, Glamorgan, Wales</venue>
+  <notes>Prizes - 1st £20,  2nd £10, 3rd £5.
+5 bands competed.</notes>
+
+  <created>Nov. 10, 2018, 4:57 p.m.</created>
+  <last-modified>Nov. 11, 2018, 4 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299600">
+      <result code="1">1</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="299601">
+      <result code="2">2</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="299602">
+      <result code="3">3</result>
+      <band id="9837">Port Talbot and Taibach</band>
+      <conductor id="300940">T. Entwistle</conductor>
+    </result>
+    
+    <result id="299603">
+      <result code="3">3</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="303413">J. Hopkins</conductor>
+    </result>
+    
+    <result id="299604">
+      <result code="5">5</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

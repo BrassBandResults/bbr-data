@@ -1,0 +1,54 @@
+<contest-event id="4579">
+  <event-date date="1983-2-5">Feb. 5, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yeovil Entertainment</name>
+  <contest id="69">
+    <name>Yeovil Entertainment</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="384">Yeovil Entertainment Contest</group>
+    <slug>yeovil-entertainment</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="39">Octagon Theatre, Yeovil, Somerset, England, UK</venue>
+  <notes>Best soloist - Huw Williams (Bass) Parc and Dare.</notes>
+
+  <created>March 5, 2011, 1:04 p.m.</created>
+  <last-modified>July 6, 2014, 5:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="39750">
+      <result code="1">1</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="299221">Albert Chappell</conductor>
+    </result>
+    
+    <result id="39751">
+      <result code="2">2</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="309728">Denzil Stephens</conductor>
+    </result>
+    
+    <result id="39752">
+      <result code="3">3</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306342">Ieuan Morgan</conductor>
+    </result>
+    
+    <result id="206494">
+      <result code="4">4</result>
+      <band id="450">Rogerstone Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

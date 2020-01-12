@@ -1,0 +1,61 @@
+<contest-event id="41671">
+  <event-date date="1936-8-15">Aug. 15, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Winsford Contest</name>
+  <contest id="3334">
+    <name>Winsford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>winsford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="6">March &amp; Hymn Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5860">March: Impregnable</test-piece>
+  </test-piece>
+
+  <venue id="2560">Winsford, Cheshire</venue>
+  <notes>Hymn tune contest - 1st Alderley Edge, 2nd Middlewich Centenary.
+5 bands competed.</notes>
+
+  <created>Jan. 14, 2019, 4:09 p.m.</created>
+  <last-modified>Jan. 14, 2019, 4:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="303393">
+      <result code="1">1</result>
+      <band id="2684">Alderley Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303394">
+      <result code="2">2</result>
+      <band id="3180">Middlewich Centenary Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303395">
+      <result code="3">3</result>
+      <band id="1798">Kidsgrove Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303396">
+      <result code="">Unknown Result</result>
+      <band id="2602">Crewe Steam Shed Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303397">
+      <result code="">Unknown Result</result>
+      <band id="3829">Salt Union Ltd. (Winsford)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="26460">
+  <event-date date="1950-6-3">June 3, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bedlington Contest</name>
+  <contest id="2802">
+    <name>Bedlington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bedlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="213">Bedlington, Northumberland</venue>
+  <notes>March contest - 1st Bedlington, 2nd Blyth, 3rd Newbiggin.
+4 bands competed.</notes>
+
+  <created>Feb. 20, 2014, 12:19 p.m.</created>
+  <last-modified>March 8, 2019, 11:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="191875">
+      <result code="1">1</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="299032">John Carr</conductor>
+      <test-piece id="534">Themes from Symphony No. 5 [Beethoven]</test-piece>
+    </result>
+    
+    <result id="191876">
+      <result code="2">2</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="310159">J. W. Taylor</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+    <result id="191877">
+      <result code="3">3</result>
+      <band id="1676">Blyth LNER</band>
+      <conductor id="304899">Harold Laycock</conductor>
+    </result>
+    
+    <result id="191878">
+      <result code="4">4</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="312043">George Wright</conductor>
+    </result>
+    
+  </results>
+</contest-event>

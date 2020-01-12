@@ -1,0 +1,48 @@
+<contest-event id="6202">
+  <event-date date="1952-3-1">March 1, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO Yorkshire (Championship Section)</name>
+  <contest id="670">
+    <name>CISWO Yorkshire (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1115">Themes from Tschaikowsky</test-piece>
+  </test-piece>
+
+  <venue id="3258">City Hall, Sheffield</venue>
+  <notes></notes>
+
+  <created>May 27, 2011, 9:27 a.m.</created>
+  <last-modified>June 8, 2014, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="54651">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="306421">Alex Mortimer</conductor>
+    </result>
+    
+    <result id="138351">
+      <result code="2">2</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="138352">
+      <result code="3">3</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="298123">Jack Boddice</conductor>
+    </result>
+    
+  </results>
+</contest-event>

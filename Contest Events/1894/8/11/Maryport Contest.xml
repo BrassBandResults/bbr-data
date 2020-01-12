@@ -1,0 +1,55 @@
+<contest-event id="12274">
+  <event-date date="1894-8-11">Aug. 11, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Maryport Contest</name>
+  <contest id="2514">
+    <name>Maryport Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="499">Maryport Contest</group>
+    <slug>maryport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="4215">Maryport, Cumbria, England, UK</venue>
+  <notes>March contest: 1. Holborn Hill
+</notes>
+
+  <created>April 11, 2012, 4:48 p.m.</created>
+  <last-modified>June 14, 2019, 9:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98382">
+      <result code="1">1</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="98383">
+      <result code="2">2</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="98384">
+      <result code="3">3</result>
+      <band id="1510">Workington</band>
+      <conductor id="304011">J. Jenkinson</conductor>
+    </result>
+    
+    <result id="309893">
+      <result code="">Unknown Result</result>
+      <band id="663">Flimby Saxhorn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

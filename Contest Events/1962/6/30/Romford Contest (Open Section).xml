@@ -1,0 +1,48 @@
+<contest-event id="34553">
+  <event-date date="1962-6-30">June 30, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Romford Contest (Open Section)</name>
+  <contest id="1218">
+    <name>Romford Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="194">Romford Contest</group>
+    <slug>romford-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3196">Romford, Essex</venue>
+  <notes></notes>
+
+  <created>March 14, 2016, 2:05 p.m.</created>
+  <last-modified>March 14, 2016, 2:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="249375">
+      <result code="1">1</result>
+      <band id="4405">Newham Band</band>
+      <conductor id="309920">Cyril Suckling</conductor>
+    </result>
+    
+    <result id="249376">
+      <result code="2">2</result>
+      <band id="275">John Laing (Hendon) Band</band>
+      <conductor id="306412">Don Morrison</conductor>
+    </result>
+    
+    <result id="249377">
+      <result code="3">3</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="309667">J. R. Stanyon</conductor>
+    </result>
+    
+  </results>
+</contest-event>

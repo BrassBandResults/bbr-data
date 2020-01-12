@@ -1,0 +1,56 @@
+<contest-event id="22946">
+  <event-date date="1901-7-27">July 27, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stocksbridge Contest</name>
+  <contest id="1397">
+    <name>Stocksbridge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stocksbridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="3732">Church Cricket Ground, Stocksbridge</venue>
+  <notes>Prizes: £8, £5, £3, £2
+
+March: 1. Hepworth, 2. Dodworth</notes>
+
+  <created>Aug. 15, 2013, 7:49 p.m.</created>
+  <last-modified>June 20, 2018, 10:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="169165">
+      <result code="1">1</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169166">
+      <result code="2">2</result>
+      <band id="8365">Brighouse Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169167">
+      <result code="3">3</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169168">
+      <result code="3">3</result>
+      <band id="140">Dodworth Colliery MW Brass</band>
+      <conductor id="306306">James Moorhouse</conductor>
+    </result>
+    
+  </results>
+</contest-event>

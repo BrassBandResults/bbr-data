@@ -1,0 +1,54 @@
+<contest-event id="2067">
+  <event-date date="2010-6-5">June 5, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (First Division)</name>
+  <contest id="29">
+    <name>French Open (First Division)</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-first-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="289">A Moorside Suite</test-piece>
+  </test-piece>
+
+  <venue id="4">Amboise, Centre, France</venue>
+  <notes></notes>
+
+  <created>June 8, 2010, 11:52 a.m.</created>
+  <last-modified>June 8, 2010, 11:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="18837">
+      <result code="1">1</result>
+      <band id="1758">Brass Band Val de Loire</band>
+      <conductor id="301741">Jerome Genza</conductor>
+    </result>
+    
+    <result id="18838">
+      <result code="2">2</result>
+      <band id="526">South West Comms Band</band>
+      <conductor id="301316">Charles Fleming</conductor>
+    </result>
+    
+    <result id="18839">
+      <result code="3">3</result>
+      <band id="247">Brass Band de Thudinie</band>
+      <conductor id="299446">Jacques Clippe</conductor>
+    </result>
+    
+    <result id="18840">
+      <result code="4">4</result>
+      <band id="1759">Brass band des Pays de la Loire</band>
+      <conductor id="305013">Nicolas Leudiere</conductor>
+    </result>
+    
+  </results>
+</contest-event>

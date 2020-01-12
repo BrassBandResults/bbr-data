@@ -1,0 +1,55 @@
+<contest-event id="23377">
+  <event-date date="1932-6-4">June 4, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Salisbury Contest (Class B)</name>
+  <contest id="2842">
+    <name>Salisbury Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="434">Salisbury Contest</group>
+    <slug>salisbury-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="781">Gems of Italian Opera</test-piece>
+  </test-piece>
+
+  <venue id="2840">Victoria Park, Salisbury, Wiltshire, England, UK</venue>
+  <notes>
+  4 bands competed.</notes>
+
+  <created>Sept. 2, 2013, 6:56 a.m.</created>
+  <last-modified>Dec. 9, 2016, 10:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171776">
+      <result code="1">1</result>
+      <band id="6802">Broad Chalke</band>
+      <conductor id="302322">F. Gurd</conductor>
+    </result>
+    
+    <result id="171777">
+      <result code="2">2</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="309879">W. Stretch</conductor>
+    </result>
+    
+    <result id="171778">
+      <result code="3">3</result>
+      <band id="8403">Market Lavington</band>
+      <conductor id="306055">J. H. Merritt</conductor>
+    </result>
+    
+    <result id="171779">
+      <result code="4">4</result>
+      <band id="3978">Amesbury Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

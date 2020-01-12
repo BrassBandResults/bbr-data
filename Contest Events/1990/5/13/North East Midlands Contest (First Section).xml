@@ -1,0 +1,52 @@
+<contest-event id="30261">
+  <event-date date="1990-5-13">May 13, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North East Midlands Contest (First Section)</name>
+  <contest id="117">
+    <name>North East Midlands Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="12">North East Midlands Contest</group>
+    <slug>north-east-midlands-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5625">The Dukeries Centre, New Ollerton, Nottinghamshire</venue>
+  <notes>Best trombone - J.Carlin (Shirland Miners).
+Prizes - 1st £100, 2nd £70.
+2 bands competed.</notes>
+
+  <created>Nov. 13, 2014, 7:24 p.m.</created>
+  <last-modified>July 8, 2017, 8:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="214099">
+      <result code="1">1</result>
+      <band id="39">Newstead Brass</band>
+      <conductor id="297685">Duncan Beckley</conductor>
+      <test-piece id="780">Sinfonietta for Brass Band [Leidzen]</test-piece>
+    </result>
+    
+    <result id="214100">
+      <result code="2">2</result>
+      <band id="477">Shirland Welfare Band</band>
+      <conductor id="311045">Keith Wardle</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+    <result id="268670">
+      <result code="W">Withdrawn</result>
+      <band id="118">Thoresby Colliery</band>
+      <conductor id="305133">Stan Lippeatt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

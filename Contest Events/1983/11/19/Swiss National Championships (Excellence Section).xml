@@ -1,0 +1,48 @@
+<contest-event id="14381">
+  <event-date date="1983-11-19">Nov. 19, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="543">On the Cornish Coast</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2012, 9:03 a.m.</created>
+  <last-modified>Feb. 10, 2017, 8:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114627">
+      <result code="1">1</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+    <result id="116566">
+      <result code="4">4</result>
+      <band id="56">Brass Band Berner Oberland</band>
+      <conductor id="297290">Markus Bach</conductor>
+    </result>
+    
+    <result id="186738">
+      <result code="9">9</result>
+      <band id="11759">Swiss Rolling Brass</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+  </results>
+</contest-event>

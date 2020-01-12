@@ -1,0 +1,86 @@
+<contest-event id="34828">
+  <event-date date="1974-4-14">April 14, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="468">Orion [Bantock]</test-piece>
+  </test-piece>
+
+  <venue id="325">Hobart, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>March 28, 2016, 10:49 p.m.</created>
+  <last-modified>April 2, 2016, 2:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="251579">
+      <result code="1">1</result>
+      <band id="701">Willoughby City Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="58">James Cook, Circumnavigator</test-piece>
+    </result>
+    
+    <result id="251580">
+      <result code="2">2</result>
+      <band id="5771">Maryborough City Band [Victoria]</band>
+      <conductor id="309334">Charles Smith</conductor>
+      <test-piece id="1559">Wagner [arr. Round]</test-piece>
+    </result>
+    
+    <result id="251581">
+      <result code="3">3</result>
+      <band id="2143">Hobart City Brass Band</band>
+      <conductor id="309010">Gordon Sheedy</conductor>
+      <test-piece id="218">Triumphant Rhapsody</test-piece>
+    </result>
+    
+    <result id="251582">
+      <result code="4">4</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305376">Jack Lusted</conductor>
+      <test-piece id="633">Celebration [Ball]</test-piece>
+    </result>
+    
+    <result id="251583">
+      <result code="5">5</result>
+      <band id="2291">City of Burnie Brass</band>
+      <conductor id="308041">Trevor Reid</conductor>
+      <test-piece id="717">Saga of the North</test-piece>
+    </result>
+    
+    <result id="251584">
+      <result code="6">6</result>
+      <band id="2245">1st Battalion Royal Victorian Regiment Band</band>
+      <conductor id="298183">Ron Booth</conductor>
+      <test-piece id="1165">Les Preludes [arr. Rimmer]</test-piece>
+    </result>
+    
+    <result id="251585">
+      <result code="7">7</result>
+      <band id="17209">Christian Brothers  Old Collegians    (Vic)</band>
+      <conductor id="298312">James Boyle</conductor>
+      <test-piece id="534">Themes from Symphony No. 5 [Beethoven]</test-piece>
+    </result>
+    
+    <result id="251586">
+      <result code="8">8</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="302472">C. Hambleton</conductor>
+      <test-piece id="535">Oliver Cromwell</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

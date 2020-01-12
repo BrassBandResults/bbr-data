@@ -1,0 +1,54 @@
+<contest-event id="3385">
+  <event-date date="2008-11-8">Nov. 8, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (B Class)</name>
+  <contest id="496">
+    <name>Swedish National Championship (B Class)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-b-class</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="144">St. Austell Suite</test-piece>
+  </test-piece>
+
+  <venue id="327">Värnamo, Småland, Sweden</venue>
+  <notes></notes>
+
+  <created>Dec. 8, 2010, 2:13 a.m.</created>
+  <last-modified>March 13, 2011, 5:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="32294">
+      <result code="1">1</result>
+      <band id="2356">Åsenhöga Brass Band</band>
+      <conductor id="301405">Olof Forsberg</conductor>
+    </result>
+    
+    <result id="32295">
+      <result code="2">2</result>
+      <band id="5796">Smyrna Brass Band</band>
+      <conductor id="302900">Anders Hellman</conductor>
+    </result>
+    
+    <result id="32296">
+      <result code="3">3</result>
+      <band id="2370">Borås Brass Band</band>
+      <conductor id="303750">Magnus Hylander</conductor>
+    </result>
+    
+    <result id="32297">
+      <result code="4">4</result>
+      <band id="1937">Berga Brass Band</band>
+      <conductor id="307412">Samuel Petersson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

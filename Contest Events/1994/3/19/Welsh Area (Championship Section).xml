@@ -1,0 +1,66 @@
+<contest-event id="17676">
+  <event-date date="1994-3-19">March 19, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="229">Partita [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="11">Brangwyn Hall, Swansea, Swansea County, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Jan. 27, 2013, 11:12 a.m.</created>
+  <last-modified>March 10, 2014, 1:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134044">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297071">Michael Antrobus</conductor>
+    </result>
+    
+    <result id="134045">
+      <result code="2">2</result>
+      <band id="18">BTM Band</band>
+      <conductor id="305566">David Maplestone</conductor>
+    </result>
+    
+    <result id="134046">
+      <result code="3">3</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="303346">Ian Holmes</conductor>
+    </result>
+    
+    <result id="192788">
+      <result code="4">4</result>
+      <band id="407">Penclawdd Brass</band>
+      <conductor id="309282">Tony Small</conductor>
+    </result>
+    
+    <result id="192789">
+      <result code="5">5</result>
+      <band id="258">Point of Ayr Colliery Band</band>
+      <conductor id="308657">Bjørn Sagstad</conductor>
+    </result>
+    
+    <result id="192790">
+      <result code="6">6</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="301770">Alan Gibbs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

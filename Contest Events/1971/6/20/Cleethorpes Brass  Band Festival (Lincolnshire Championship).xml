@@ -1,0 +1,49 @@
+<contest-event id="20726">
+  <event-date date="1971-6-20">June 20, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cleethorpes Brass  Band Festival (Lincolnshire Championship)</name>
+  <contest id="965">
+    <name>Cleethorpes Brass  Band Festival (Lincolnshire Championship)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="134">Cleethorpes Brass Band Festival</group>
+    <slug>cleethorpes-brass-band-festival-lincolns-965</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="654">Scheherazade</test-piece>
+  </test-piece>
+
+  <venue id="548">Pier Pavilion, Cleethorpes, Lincolnshire, England, UK</venue>
+  <notes>  March contest - 1st Gainsborough (92), 2nd Grimsby(91).
+  Hymn tune contest - 1st Kirton(89), 2nd Grimsby(88).</notes>
+
+  <created>April 22, 2013, 9:55 a.m.</created>
+  <last-modified>April 22, 2013, 10:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="154033">
+      <result code="1">1</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310491">Geoff Tomlinson</conductor>
+    </result>
+    
+    <result id="154034">
+      <result code="2">2</result>
+      <band id="4211">Grimsby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="154035">
+      <result code="3">3</result>
+      <band id="3734">Kirton Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

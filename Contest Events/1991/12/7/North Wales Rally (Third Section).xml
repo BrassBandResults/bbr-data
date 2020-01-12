@@ -1,0 +1,48 @@
+<contest-event id="31073">
+  <event-date date="1991-12-7">Dec. 7, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Third Section)</name>
+  <contest id="1773">
+    <name>North Wales Rally (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="344">Rhapsody on Negro Spirituals</test-piece>
+  </test-piece>
+
+  <venue id="2453">Venue Cymru, Llandudno, Conwy, Wales, UK</venue>
+  <notes>Best hymn tune - Lyceum.</notes>
+
+  <created>Feb. 18, 2015, 4:47 p.m.</created>
+  <last-modified>Feb. 18, 2015, 4:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="220955">
+      <result code="1">1</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="300154">G. T. Davies</conductor>
+    </result>
+    
+    <result id="220956">
+      <result code="2">2</result>
+      <band id="768">Port Sunlight Lyceum Brass</band>
+      <conductor id="309546">Jef Sparkes</conductor>
+    </result>
+    
+    <result id="220957">
+      <result code="3">3</result>
+      <band id="1503">Deeside Silver Band</band>
+      <conductor id="310244">Bernard Thelwell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

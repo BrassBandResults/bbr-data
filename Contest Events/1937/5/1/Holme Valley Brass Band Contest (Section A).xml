@@ -1,0 +1,91 @@
+<contest-event id="11621">
+  <event-date date="1937-5-1">May 1, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holme Valley Brass Band Contest (Section A)</name>
+  <contest id="83">
+    <name>Holme Valley Brass Band Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type>
+    <group id="119">Holme Valley Brass Band Contest</group>
+    <slug>holme-valley-brass-band-contest-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1520">Il Pirata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="586">Victoria Park, Holmfirth</venue>
+  <notes>March contest (Fraternal Greetings) - 1st Marsden, 2nd Hade Edge.
+  10 bands competed.</notes>
+
+  <created>April 4, 2012, 9:05 p.m.</created>
+  <last-modified>Jan. 18, 2019, 11:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="94675">
+      <result code="1">1</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="301438">William Foster</conductor>
+    </result>
+    
+    <result id="187115">
+      <result code="2">2</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302009">Harry Grace</conductor>
+    </result>
+    
+    <result id="187116">
+      <result code="3">3</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="187117">
+      <result code="4">4</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="187118">
+      <result code="5">5</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="310397">Ernest Thorpe</conductor>
+    </result>
+    
+    <result id="187119">
+      <result code="">Unknown Result</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="307557">W. Polland</conductor>
+    </result>
+    
+    <result id="187120">
+      <result code="">Unknown Result</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187121">
+      <result code="">Unknown Result</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187122">
+      <result code="">Unknown Result</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187123">
+      <result code="">Unknown Result</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="15336">
+  <event-date date="1898-8-20">Aug. 20, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnsley Contest</name>
+  <contest id="1178">
+    <name>Barnsley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="267">Barnsley Contest [1800s]</group>
+    <slug>barnsley-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3424">Tower Field, Park Road, Barnsley</venue>
+  <notes>Promoted by Barnsley Borough Prize Band
+Prizes: £8, £5, £3, £2, £1
+March contest: 1. Holme, 2. Dodworth
+5 bands competed</notes>
+
+  <created>Oct. 15, 2012, 1:11 p.m.</created>
+  <last-modified>July 19, 2019, 10:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="118824">
+      <result code="1">1</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="118825">
+      <result code="2">2</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="118826">
+      <result code="3">3</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="118827">
+      <result code="4">4</result>
+      <band id="140">Dodworth Colliery MW Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="118828">
+      <result code="5">5</result>
+      <band id="8444">Barnsley Temperance</band>
+      <conductor id="298287">J. Bowley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

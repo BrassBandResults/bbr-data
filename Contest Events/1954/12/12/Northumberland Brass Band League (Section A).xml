@@ -1,0 +1,68 @@
+<contest-event id="19180">
+  <event-date date="1954-12-12">Dec. 12, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northumberland Brass Band League (Section A)</name>
+  <contest id="3585">
+    <name>Northumberland Brass Band League (Section A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northumberland-brass-band-league-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3243">Rising Sun Miners Hall, Wallsend</venue>
+  <notes>6 bands competed</notes>
+
+  <created>March 15, 2013, 5:35 p.m.</created>
+  <last-modified>April 21, 2019, 8:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="143974">
+      <result code="1">1</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+      <test-piece id="1351">Akhnaton</test-piece>
+    </result>
+    
+    <result id="143975">
+      <result code="2">2</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="298157">W. S. Bond</conductor>
+      <test-piece id="391">Prometheus Unbound</test-piece>
+    </result>
+    
+    <result id="307680">
+      <result code="3">3</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+    <result id="307682">
+      <result code="">Unknown Result</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="307681">
+      <result code="">Unknown Result</result>
+      <band id="570">Northumbrian Water Ellington Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="307683">
+      <result code="">Unknown Result</result>
+      <band id="4128">Pegswood Colliery Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

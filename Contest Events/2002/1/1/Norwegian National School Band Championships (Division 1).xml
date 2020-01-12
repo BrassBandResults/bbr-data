@@ -1,0 +1,67 @@
+<contest-event id="8195">
+  <event-date date="2002-1-1">Jan. 1, 2002<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Norwegian National School Band Championships (Division 1)</name>
+  <contest id="1403">
+    <name>Norwegian National School Band Championships (Division 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="172">Norwegian National School Band Championships</group>
+    <slug>norwegian-national-school-band-championships</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  
+  <notes></notes>
+
+  <created>Nov. 8, 2011, 7:46 p.m.</created>
+  <last-modified>Nov. 8, 2011, 7:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="73670">
+      <result code="1">1</result>
+      <band id="5725">Rossland Skulekorps</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="73671">
+      <result code="2">2</result>
+      <band id="5657">Smørås Skolemusikk</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="73672">
+      <result code="3">3</result>
+      <band id="1751">Førre Musikkorps</band>
+      <conductor id="297964">Jakob Birk</conductor>
+    </result>
+    
+    <result id="73673">
+      <result code="4">4</result>
+      <band id="2421">Florø Skoles Musikkorps</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="73674">
+      <result code="5">5</result>
+      <band id="5664">Skodvin Skulemusikk</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="73675">
+      <result code="6">6</result>
+      <band id="5659">Manger Skulemusikklag</band>
+      <conductor id="301871">Eirik Gjerdevik</conductor>
+      <test-piece id="361">Partita for Band - Postcards from Home</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

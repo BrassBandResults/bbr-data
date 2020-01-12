@@ -1,0 +1,60 @@
+<contest-event id="5302">
+  <event-date date="2009-11-6">Nov. 6, 2009<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (Second Division)</name>
+  <contest id="853">
+    <name>Swedish National Championship (Second Division)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-second-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3174">Scottish Dances</test-piece>
+  </test-piece>
+
+  <venue id="327">Värnamo, Småland, Sweden</venue>
+  <notes>Best Instrumentalist: Marie Jennesjö (Uffes Blås Brass)</notes>
+
+  <created>April 9, 2011, 12:49 p.m.</created>
+  <last-modified>Oct. 31, 2014, 9:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="45806">
+      <result code="1">1</result>
+      <band id="2265">Uffes Blås Brass Band</band>
+      <conductor id="303183">Mattias Hjortlinger</conductor>
+    </result>
+    
+    <result id="45807">
+      <result code="2">2</result>
+      <band id="2890">Halmstad Brass</band>
+      <conductor id="297019">Håkan Andersson</conductor>
+    </result>
+    
+    <result id="45808">
+      <result code="3">3</result>
+      <band id="2268">Södertörns Brass</band>
+      <conductor id="301990">Peter Gothe</conductor>
+    </result>
+    
+    <result id="45809">
+      <result code="4">4</result>
+      <band id="3468">Åsenhöga Youth Brass</band>
+      <conductor id="301405">Olof Forsberg</conductor>
+    </result>
+    
+    <result id="45810">
+      <result code="5">5</result>
+      <band id="2270">Värnamo Missionskyrkas Brassband</band>
+      <conductor id="304059">Håkan Johansson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

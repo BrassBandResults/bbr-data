@@ -1,0 +1,62 @@
+<contest-event id="21989">
+  <event-date date="1903-8-31">Aug. 31, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontycymmer Contest</name>
+  <contest id="2377">
+    <name>Pontycymmer Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontycymmer-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="1732">Pontycymmer, Glamorgan</venue>
+  <notes>  Prizes  -  1st £10 and cup, 2nd £5, 3rd £2.
+  March contest - 1st(£1) Plymouth Workmen, 2nd Great Western.
+  5 bands competed.</notes>
+
+  <created>June 21, 2013, 7:34 a.m.</created>
+  <last-modified>June 21, 2013, 9:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163127">
+      <result code="1">1</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="163128">
+      <result code="2">2</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="297821">Henry Bentley</conductor>
+    </result>
+    
+    <result id="163129">
+      <result code="3">3</result>
+      <band id="5166">Blaengarw</band>
+      <conductor id="310410">Thomas Threlfall</conductor>
+    </result>
+    
+    <result id="163162">
+      <result code="">Unknown Result</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="301024">Mr Everett</conductor>
+    </result>
+    
+    <result id="163163">
+      <result code="">Unknown Result</result>
+      <band id="4788">Abergwynfi</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,58 @@
+<contest-event id="2672">
+  <event-date date="1978-11-18">Nov. 18, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Championship Division)</name>
+  <contest id="76">
+    <name>Belgian Nationals (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="619">The Prizewinners</test-piece>
+  </test-piece>
+
+  <venue id="4747">Anderlecht, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>Sept. 28, 2010, 2:20 p.m.</created>
+  <last-modified>May 23, 2014, 3:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="27981">
+      <result code="1">1</result>
+      <band id="676">Kortrijk Brass Band</band>
+      <conductor id="308406">Werner Roelstraete</conductor>
+      <test-piece id="128">Variations for Brass Band [Vaughan Williams]</test-piece>
+    </result>
+    
+    <result id="114706">
+      <result code="">Unknown Result</result>
+      <band id="674">Brassband Buizingen</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="114704">
+      <result code="">Unknown Result</result>
+      <band id="7849">Brassband Sonevole</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="391">Prometheus Unbound</test-piece>
+    </result>
+    
+    <result id="114705">
+      <result code="">Unknown Result</result>
+      <band id="6167">Zuiderkempische Brassband</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="391">Prometheus Unbound</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

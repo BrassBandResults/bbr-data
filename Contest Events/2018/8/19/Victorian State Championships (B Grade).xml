@@ -1,0 +1,51 @@
+<contest-event id="40462">
+  <event-date date="2018-8-19">Aug. 19, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5656">2001 - A Brass Odyssey</test-piece>
+  </test-piece>
+
+  <venue id="6922">Founders Theatre, Mount Helen, Victoria, Australia</venue>
+  <notes>Concert Item points listed under Own Choice</notes>
+
+  <created>Oct. 1, 2018, 4:26 a.m.</created>
+  <last-modified>Oct. 1, 2018, 7:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294373">
+      <result code="1">1</result>
+      <band id="2242">Box Hill City Band</band>
+      <conductor id="315548">Simon Brown</conductor>
+      <test-piece id="5658">The Gael    (Concert Item)</test-piece>
+    </result>
+    
+    <result id="294374">
+      <result code="2">2</result>
+      <band id="2165">Geelong West Brass</band>
+      <conductor id="309698">Jeff Steele</conductor>
+      <test-piece id="5660">All Night Long   (Concert Item)</test-piece>
+    </result>
+    
+    <result id="294375">
+      <result code="3">3</result>
+      <band id="724">City of Greater Dandenong Band</band>
+      <conductor id="305721">Michael Mathers</conductor>
+      <test-piece id="5659">Music from the Incredibles   (Concert Item)</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

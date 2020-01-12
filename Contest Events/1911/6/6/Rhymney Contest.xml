@@ -1,0 +1,54 @@
+<contest-event id="39716">
+  <event-date date="1911-6-6">June 6, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3458">Land of the Shamrock</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>May 25, 2018, 11:53 a.m.</created>
+  <last-modified>May 25, 2018, 11:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287858">
+      <result code="1">1</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="287861">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="287860">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297327">J. Bailey</conductor>
+    </result>
+    
+    <result id="287859">
+      <result code="">Unknown Result</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="301339">Rufus Fletcher</conductor>
+    </result>
+    
+  </results>
+</contest-event>

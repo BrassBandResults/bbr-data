@@ -1,0 +1,68 @@
+<contest-event id="18957">
+  <event-date date="1965-10-30">Oct. 30, 1965<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Second Section)</name>
+  <contest id="1772">
+    <name>North Wales Rally (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="114">Snowdon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="2854">Miners Institute, Rhosllanerchrugog, Wrexham, Wales, UK</venue>
+  <notes>  March contest 1st Rhyl, 2nd Ifton Colliery.
+
+  17th annual contest.</notes>
+
+  <created>March 8, 2013, 10:10 a.m.</created>
+  <last-modified>March 8, 2013, 10:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="142065">
+      <result code="1">1</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="299604">John T. Conway</conductor>
+    </result>
+    
+    <result id="142066">
+      <result code="2">2</result>
+      <band id="1514">Ifton Colliery Band</band>
+      <conductor id="301423">Eric Foster</conductor>
+    </result>
+    
+    <result id="142067">
+      <result code="3">3</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="300193">W. T. Davies</conductor>
+    </result>
+    
+    <result id="142069">
+      <result code="">Unknown Result</result>
+      <band id="10538">Deudraeth</band>
+      <conductor id="303652">A. Humphries</conductor>
+    </result>
+    
+    <result id="142068">
+      <result code="">Unknown Result</result>
+      <band id="1348">Flint Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="142070">
+      <result code="">Unknown Result</result>
+      <band id="10632">Llay Welfare Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,59 @@
+<contest-event id="42767">
+  <event-date date="1975-8-10">Aug. 10, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="531">Academic Festival Overture</test-piece>
+  </test-piece>
+
+  <venue id="6487">Princess Theatre, Launceston, Tasmania, Australia</venue>
+  <notes>Bands were required to also a popular number 
+(Not included in championship)</notes>
+
+  <created>Nov. 3, 2019, 9:53 p.m.</created>
+  <last-modified>Dec. 4, 2019, 11:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313326">
+      <result code="1">1</result>
+      <band id="2143">Hobart City Brass Band</band>
+      <conductor id="309010">Gordon Sheedy</conductor>
+      <test-piece id="508">Owain Glyndwr</test-piece>
+    </result>
+    
+    <result id="313327">
+      <result code="2">2</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305376">Jack Lusted</conductor>
+      <test-piece id="3885">Beethovens 5th Symphony</test-piece>
+    </result>
+    
+    <result id="313328">
+      <result code="3">3</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="308041">Trevor Reid</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="313329">
+      <result code="4">4</result>
+      <band id="2291">City of Burnie Brass</band>
+      <conductor id="308041">Trevor Reid</conductor>
+      <test-piece id="6131">From Ethius Unbound</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

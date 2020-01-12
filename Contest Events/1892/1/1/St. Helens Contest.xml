@@ -1,0 +1,57 @@
+<contest-event id="35998">
+  <event-date date="1892-1-1">Jan. 1, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Helens Contest</name>
+  <contest id="2362">
+    <name>St. Helens Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1074">The Forest Queen</test-piece>
+  </test-piece>
+
+  <venue id="2859">Town Hall, St. Helens, Lancashire</venue>
+  <notes>Eisteddfod arranged by Welsh inhabitants of St Helens
+
+4 bands entered, 3 competed
+Prizes - 1st £10, 2nd £3, 3rd £2.</notes>
+
+  <created>Aug. 25, 2016, 10:23 a.m.</created>
+  <last-modified>May 27, 2019, 9:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261146">
+      <result code="1">1</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261147">
+      <result code="">Unknown Result</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261149">
+      <result code="">Unknown Result</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261148">
+      <result code="W">Withdrawn</result>
+      <band id="10455">Roughdale&#39;s (St. Helens)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

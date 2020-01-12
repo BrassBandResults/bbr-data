@@ -1,0 +1,54 @@
+<contest-event id="31415">
+  <event-date date="1995-4-9">April 9, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Isle Of Wight Contest (Section A)</name>
+  <contest id="115">
+    <name>Isle Of Wight Contest (Section A)</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="40">Isle of Wight Contest</group>
+    <slug>isle-of-wight-contest-section-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5783">Sandown Pavilion, Isle of Wight, England, UK</venue>
+  <notes></notes>
+
+  <created>March 17, 2015, 2:56 p.m.</created>
+  <last-modified>March 17, 2015, 2:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="223340">
+      <result code="1">1</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="311407">Melvin White</conductor>
+    </result>
+    
+    <result id="223341">
+      <result code="2">2</result>
+      <band id="1487">Mere Manor</band>
+      <conductor id="299299">Nick Chivers</conductor>
+    </result>
+    
+    <result id="223342">
+      <result code="3">3</result>
+      <band id="128">South Yorkshire Police Band</band>
+      <conductor id="307702">Lyndon Price</conductor>
+    </result>
+    
+    <result id="223343">
+      <result code="4">4</result>
+      <band id="1307">Luckett&#39;s Travel (Southsea)</band>
+      <conductor id="305519">David Mallett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

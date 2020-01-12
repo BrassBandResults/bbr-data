@@ -1,0 +1,78 @@
+<contest-event id="41583">
+  <event-date date="1914-1-4">Jan. 4, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (C Grade)</name>
+  <contest id="1709">
+    <name>Queensland State Brass Band Championship (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="7044">Marybough Showground  Queensland</venue>
+  <notes>DISQUALIFIED   Brisbane Caledonian for playing unregistered player</notes>
+
+  <created>Dec. 22, 2018, 12:01 a.m.</created>
+  <last-modified>Dec. 22, 2018, 12:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="302650">
+      <result code="1">1</result>
+      <band id="13776">Burnett Brass</band>
+      <conductor id="318773">George Rankin</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="302651">
+      <result code="2">2</result>
+      <band id="17589">Pittsworth Town</band>
+      <conductor id="318607">A. Compton</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="302652">
+      <result code="3">3</result>
+      <band id="17593">Blackbutt Town</band>
+      <conductor id="318788">Thomas Emmerson</conductor>
+      <test-piece id="2890">Song Echoes</test-piece>
+    </result>
+    
+    <result id="302653">
+      <result code="4">4</result>
+      <band id="17591">Isis Town</band>
+      <conductor id="318789">W. Kingston</conductor>
+      <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+    </result>
+    
+    <result id="302654">
+      <result code="4">4</result>
+      <band id="17367">Gayndah Town</band>
+      <conductor id="318790">H. W. Warren</conductor>
+      <test-piece id="2890">Song Echoes</test-piece>
+    </result>
+    
+    <result id="302655">
+      <result code="D">Disqualified</result>
+      <band id="17586">Brisbane Caledonian</band>
+      <conductor id="318772">Jack McKelvie</conductor>
+      <test-piece id="2348">Rienzi [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="302656">
+      <result code="W">Withdrawn</result>
+      <band id="17594">Fassifern Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

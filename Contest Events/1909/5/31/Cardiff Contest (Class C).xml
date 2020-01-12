@@ -1,0 +1,67 @@
+<contest-event id="15773">
+  <event-date date="1909-5-31">May 31, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cardiff Contest (Class C)</name>
+  <contest id="2095">
+    <name>Cardiff Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="244">Cardiff Contest</group>
+    <slug>cardiff-contest-class-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1900">Old Favourites</test-piece>
+  </test-piece>
+
+  <venue id="260">Sophia Gardens, Cardiff, Cardiff County, Wales, UK</venue>
+  <notes>Prizes 1st £8, 2nd £4.
+6 bands competed.</notes>
+
+  <created>Nov. 2, 2012, 12:28 p.m.</created>
+  <last-modified>Sept. 3, 2016, 8:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121706">
+      <result code="1">1</result>
+      <band id="8043">Maesteg Hibernian</band>
+      <conductor id="297646">John Beard</conductor>
+    </result>
+    
+    <result id="121707">
+      <result code="2">2</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="304322">W. Jury</conductor>
+    </result>
+    
+    <result id="121708">
+      <result code="3">3</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="303486">A. Howarth</conductor>
+    </result>
+    
+    <result id="121710">
+      <result code="">Unknown Result</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121709">
+      <result code="">Unknown Result</result>
+      <band id="6350">Tonypandy Hibernia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121711">
+      <result code="">Unknown Result</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

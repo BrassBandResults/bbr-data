@@ -1,0 +1,63 @@
+<contest-event id="6326">
+  <event-date date="1987-12-12">Dec. 12, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Championship Division)</name>
+  <contest id="274">
+    <name>Dutch Nationals (Championship Division)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1133">Display</test-piece>
+  </test-piece>
+
+  <venue id="129">De Hanzehof, Zutphen, Gelderland, Netherlands</venue>
+  <notes></notes>
+
+  <created>June 6, 2011, 3:32 p.m.</created>
+  <last-modified>Dec. 22, 2015, 4 p.m.</last-modified>
+
+  <results>
+    
+    <result id="56065">
+      <result code="1">1</result>
+      <band id="989">Brass Band De Wâldsang</band>
+      <conductor id="303768">Bienze Ijlstra</conductor>
+      <test-piece id="46">Harmony Music</test-piece>
+    </result>
+    
+    <result id="129164">
+      <result code="2">2</result>
+      <band id="30">Soli Brass</band>
+      <conductor id="313076">Jan de Haan</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+    <result id="129165">
+      <result code="3">3</result>
+      <band id="772">De Bazuin Oenkerk</band>
+      <conductor id="312216">Klaas van der Woude</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+    <result id="129166">
+      <result code="4">4</result>
+      <band id="1223">Provinciale Brass Band Groningen</band>
+      <conductor id="310615">Luuk Tuinstra</conductor>
+    </result>
+    
+    <result id="129167">
+      <result code="5">5</result>
+      <band id="240">Brass Band Rijnmond</band>
+      <conductor id="306750">Lambert Niesten</conductor>
+    </result>
+    
+  </results>
+</contest-event>

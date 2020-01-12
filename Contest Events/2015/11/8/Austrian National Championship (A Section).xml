@@ -1,0 +1,42 @@
+<contest-event id="30212">
+  <event-date date="2015-11-8">Nov. 8, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Austrian National Championship (A Section)</name>
+  <contest id="5451">
+    <name>Austrian National Championship (A Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="526">Austrian National Championship</group>
+    <slug>austrian-national-championship-a-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>None</notes>
+    <region id="20">Austria</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="119">On the Shoulders of Giants</test-piece>
+  </test-piece>
+
+  <venue id="5624">Kulturzentrum Bräuhaus, Eferding, Upper Austria, Austria</venue>
+  <notes></notes>
+
+  <created>Nov. 10, 2014, 4:28 p.m.</created>
+  <last-modified>May 6, 2017, 12:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="236412">
+      <result code="1">1</result>
+      <band id="713">Brass Band Oberösterreich</band>
+      <conductor id="307609">Ian Porthouse</conductor>
+    </result>
+    
+    <result id="236411">
+      <result code="2">2</result>
+      <band id="6045">Brass Band Fröschl Hall</band>
+      <conductor id="304835">Josef Laube</conductor>
+    </result>
+    
+  </results>
+</contest-event>

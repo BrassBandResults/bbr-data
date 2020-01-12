@@ -1,0 +1,69 @@
+<contest-event id="21218">
+  <event-date date="1973-11-4">Nov. 4, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Brighton Contest</name>
+  <contest id="1875">
+    <name>New Brighton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-brighton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="762">Second Rhapsody on Negro Spirituals</test-piece>
+  </test-piece>
+
+  <venue id="3345">Floral Pavilion, New Brighton, Cheshire</venue>
+  <notes>  Prizes - 1st £30, 2nd £10, 3rd £5.
+  March contest - 1st(£10) North Ashton(Knight Templar) 2nd(£5) Colwyn (Castell Caerffili)
+4th annual contest
+  5 bands competed.</notes>
+
+  <created>May 9, 2013, 8:33 a.m.</created>
+  <last-modified>Sept. 14, 2017, 8:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="156668">
+      <result code="1">1</result>
+      <band id="206">City of Chester Band</band>
+      <conductor id="305484">William Maginn</conductor>
+    </result>
+    
+    <result id="156669">
+      <result code="2">2</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="305181">J. K. Lloyd</conductor>
+    </result>
+    
+    <result id="156670">
+      <result code="3">3</result>
+      <band id="2548">Colwyn Borough Band</band>
+      <conductor id="306261">R. F. Moon</conductor>
+    </result>
+    
+    <result id="156671">
+      <result code="">Unknown Result</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="306617">Les Naylor</conductor>
+    </result>
+    
+    <result id="279424">
+      <result code="">Unknown Result</result>
+      <band id="1355">Windsor Salford</band>
+      <conductor id="299412">J. Clayton</conductor>
+    </result>
+    
+    <result id="279425">
+      <result code="W">Withdrawn</result>
+      <band id="766">Chapel-en-le-Frith Band</band>
+      <conductor id="310996">Sheila Walton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

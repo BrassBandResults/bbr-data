@@ -1,0 +1,57 @@
+<contest-event id="42021">
+  <event-date date="2019-4-14">April 14, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>IABCB National Band Championships (Section 1 Brass)</name>
+  <contest id="384">
+    <name>IABCB National Band Championships (Section 1 Brass)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="65">IABCB National Band Championships of Ireland </group>
+    <slug>iabcb-national-band-championships-section1</slug>
+    
+    <notes></notes>
+    <region id="24">Republic of Ireland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="184">Episodes for Brass [Churcher]</test-piece>
+  </test-piece>
+
+  <venue id="7090">Artane School of Music, Dublin</venue>
+  <notes>Best Instrumentalist - Mark Newman, Principal Cornet, Lourdes Brass Band
+Best Own Choice - Drogheda Brass Band
+Best Section 1 Band (Overall) - Drogheda Brass Band
+Best Band (Overall Championship) - Drogheda Brass Band</notes>
+
+  <created>April 15, 2019, 8:02 a.m.</created>
+  <last-modified>April 15, 2019, 8:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="306176">
+      <result code="1">1</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305489">Michael Maher</conductor>
+    </result>
+    
+    <result id="306177">
+      <result code="2">2</result>
+      <band id="1340">Lourdes Brass</band>
+      <conductor id="296843">Michael Alcorn</conductor>
+    </result>
+    
+    <result id="306178">
+      <result code="3">3</result>
+      <band id="1402">Stedfast Band</band>
+      <conductor id="300071">Brian Daly</conductor>
+    </result>
+    
+    <result id="306179">
+      <result code="4">4</result>
+      <band id="2093">Navan Silver Band</band>
+      <conductor id="306545">Stephen Murray</conductor>
+    </result>
+    
+  </results>
+</contest-event>

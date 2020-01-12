@@ -1,0 +1,72 @@
+<contest-event id="12900">
+  <event-date date="1912-4-6">April 6, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tottenham Contest (First Section)</name>
+  <contest id="2704">
+    <name>Tottenham Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="317">Tottenham Contest</group>
+    <slug>tottenham-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2059">Downhills Park, Tottenham, Haringey, Greater London, England, UK</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>April 28, 2012, 9:14 a.m.</created>
+  <last-modified>Sept. 27, 2018, 10:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="102557">
+      <result code="1">1</result>
+      <band id="610">Crystal Palace Band</band>
+      <conductor id="302055">W. W. Grant</conductor>
+    </result>
+    
+    <result id="102558">
+      <result code="2">2</result>
+      <band id="6336">Southwark Borough</band>
+      <conductor id="298327">W. Braben</conductor>
+    </result>
+    
+    <result id="102559">
+      <result code="3">3</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="299258">T. A. Cheek</conductor>
+    </result>
+    
+    <result id="102560">
+      <result code="">Unknown Result</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="300932">W. English</conductor>
+    </result>
+    
+    <result id="102561">
+      <result code="">Unknown Result</result>
+      <band id="4801">Lewisham</band>
+      <conductor id="306283">J. C. Moore</conductor>
+    </result>
+    
+    <result id="102562">
+      <result code="">Unknown Result</result>
+      <band id="7243">North London Excelsior</band>
+      <conductor id="307827">John Pursglove</conductor>
+    </result>
+    
+    <result id="140409">
+      <result code="">Unknown Result</result>
+      <band id="4766">Wood Green Brass</band>
+      <conductor id="301066">W. Fairchild</conductor>
+    </result>
+    
+  </results>
+</contest-event>

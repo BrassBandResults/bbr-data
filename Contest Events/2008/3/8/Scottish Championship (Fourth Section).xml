@@ -1,0 +1,81 @@
+<contest-event id="647">
+  <event-date date="2008-3-8">March 8, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Fourth Section)</name>
+  <contest id="65">
+    <name>Scottish Championship (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="61">Four Cities Symphony</test-piece>
+  </test-piece>
+
+  <venue id="50">Rothes Halls, Glenrothes, Fife, Scotland, UK</venue>
+  <notes>Qualifiers: Renfrew Burgh and Irvine &amp; Dreghorn Brass
+
+Best instrumentalist: Alan Taggart (cornet, Irvine &amp; Dreghorn Brass)
+</notes>
+
+  <created>June 7, 2009, 10:22 p.m.</created>
+  <last-modified>Nov. 6, 2011, 1:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="7879">
+      <result code="1">1</result>
+      <band id="375">Renfrew Burgh Band</band>
+      <conductor id="303709">David Hutcheson</conductor>
+    </result>
+    
+    <result id="7880">
+      <result code="2">2</result>
+      <band id="380">Irvine and Dreghorn Band</band>
+      <conductor id="305917">David McKellar</conductor>
+    </result>
+    
+    <result id="7881">
+      <result code="3">3</result>
+      <band id="974">Newland Concert Brass (Bathgate)</band>
+      <conductor id="301512">Robert Fraser</conductor>
+    </result>
+    
+    <result id="7882">
+      <result code="4">4</result>
+      <band id="657">Penicuik Silver</band>
+      <conductor id="304071">Terry Johns</conductor>
+    </result>
+    
+    <result id="7883">
+      <result code="5">5</result>
+      <band id="656">Brass Sounds Inverclyde</band>
+      <conductor id="305838">Alistair McCorkell</conductor>
+    </result>
+    
+    <result id="7884">
+      <result code="6">6</result>
+      <band id="658">Dumfries Town</band>
+      <conductor id="303030">Peter Heyes</conductor>
+    </result>
+    
+    <result id="7885">
+      <result code="7">7</result>
+      <band id="659">Queensferry Community Brass</band>
+      <conductor id="301845">John Gilmour</conductor>
+    </result>
+    
+    <result id="7886">
+      <result code="8">8</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="308692">Bill Sandell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

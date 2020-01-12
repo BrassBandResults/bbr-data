@@ -1,0 +1,48 @@
+<contest-event id="25705">
+  <event-date date="1929-8-17">Aug. 17, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest</name>
+  <contest id="1399">
+    <name>Chepstow Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4363">Football Ground, Chepstow</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £5, 3rd £2.</notes>
+
+  <created>Dec. 21, 2013, 9:01 p.m.</created>
+  <last-modified>Dec. 1, 2018, 7:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186125">
+      <result code="1">1</result>
+      <band id="11750">Mellingriffith Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186126">
+      <result code="2">2</result>
+      <band id="3595">Cardiff Corporation Transport</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186127">
+      <result code="3">3</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

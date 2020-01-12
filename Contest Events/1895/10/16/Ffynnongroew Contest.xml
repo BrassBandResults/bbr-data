@@ -1,0 +1,74 @@
+<contest-event id="12737">
+  <event-date date="1895-10-16">Oct. 16, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ffynnongroew Contest</name>
+  <contest id="2670">
+    <name>Ffynnongroew Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ffynnongroew-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1892">Prince of Wales</test-piece>
+  </test-piece>
+
+  <venue id="3389">Crown Field, Ffynnongroew</venue>
+  <notes>March contest: 1st divided between Holywell and Buckley
+Prizes: £8, £3
+7 bands competed</notes>
+
+  <created>April 19, 2012, 10:08 p.m.</created>
+  <last-modified>June 24, 2019, 10:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101367">
+      <result code="1">1</result>
+      <band id="8118">Buckley Engineers</band>
+      <conductor id="301860">E. Gittins</conductor>
+    </result>
+    
+    <result id="101368">
+      <result code="2">2</result>
+      <band id="671">Holywell Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="101372">
+      <result code="3">3</result>
+      <band id="14482">Colwyn Cadwgan</band>
+      <conductor id="314395">Tom Valentine</conductor>
+    </result>
+    
+    <result id="101374">
+      <result code="4">4</result>
+      <band id="8042">Ffynnongroew Excelsior</band>
+      <conductor id="300676">Haydn Dykins</conductor>
+    </result>
+    
+    <result id="101369">
+      <result code="">Unknown Result</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="307007">David Owen</conductor>
+    </result>
+    
+    <result id="101370">
+      <result code="">Unknown Result</result>
+      <band id="8039">Mostyn &amp; Llanerch Y Mor</band>
+      <conductor id="303617">Thomas Hughes</conductor>
+    </result>
+    
+    <result id="101371">
+      <result code="">Unknown Result</result>
+      <band id="8040">Gronant</band>
+      <conductor id="310308">Walter Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

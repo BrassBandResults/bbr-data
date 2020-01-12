@@ -1,0 +1,49 @@
+<contest-event id="20155">
+  <event-date date="1955-6-25">June 25, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Romford Contest (Third Section)</name>
+  <contest id="1221">
+    <name>Romford Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="194">Romford Contest</group>
+    <slug>romford-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2838">Raphael Park, Romford, Essex</venue>
+  <notes>
+  3 bands competed.</notes>
+
+  <created>March 31, 2013, 4:19 p.m.</created>
+  <last-modified>March 31, 2013, 4:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149893">
+      <result code="1">1</result>
+      <band id="8755">Clacton Town</band>
+      <conductor id="302413">Ernest Hall</conductor>
+    </result>
+    
+    <result id="149894">
+      <result code="2">2</result>
+      <band id="605">Ware Brass</band>
+      <conductor id="299060">Cyril Carter</conductor>
+    </result>
+    
+    <result id="149895">
+      <result code="3">3</result>
+      <band id="2431">Southend Band</band>
+      <conductor id="297389">Wally Baldwin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

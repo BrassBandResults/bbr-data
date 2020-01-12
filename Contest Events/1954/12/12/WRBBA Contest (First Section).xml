@@ -1,0 +1,62 @@
+<contest-event id="7018">
+  <event-date date="1954-12-12">Dec. 12, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>WRBBA Contest (First Section)</name>
+  <contest id="1785">
+    <name>West Riding Contest (1st Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="182">West Riding Contest</group>
+    <slug>west-riding-contest-1st-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="59">St. George&#39;s Hall, Bradford, West Yorkshire, England, UK</venue>
+  <notes>This was the West Riding Brass Band Association&#39;s Grading Contest
+
+Own choice contest - result 1st Prince S &amp; S, 2nd Markham Main.  DAVE HOLLAND.</notes>
+
+  <created>Aug. 13, 2011, 12:05 p.m.</created>
+  <last-modified>March 16, 2013, 8:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="61960">
+      <result code="1">1</result>
+      <band id="2726">Prince-Smith and Stells Silver Band</band>
+      <conductor id="305099">Reubon Lightfoot</conductor>
+    </result>
+    
+    <result id="61958">
+      <result code="2">2</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="61957">
+      <result code="">Unknown Result</result>
+      <band id="3271">Bradford Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61959">
+      <result code="">Unknown Result</result>
+      <band id="441">Stanley Newmarket Colliery Band</band>
+      <conductor id="297233">Tom Atkinson</conductor>
+    </result>
+    
+    <result id="61961">
+      <result code="">Unknown Result</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="308281">Gordon Roberts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

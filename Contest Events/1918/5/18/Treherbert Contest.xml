@@ -1,0 +1,78 @@
+<contest-event id="40626">
+  <event-date date="1918-5-18">May 18, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treherbert Contest</name>
+  <contest id="3741">
+    <name>Treherbert Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treherbert-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2450">The Carnival of Flowers</test-piece>
+  </test-piece>
+
+  <venue id="2858">Public Hall, Treherbert</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Oct. 9, 2018, 11:29 a.m.</created>
+  <last-modified>Oct. 9, 2018, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295576">
+      <result code="1">1</result>
+      <band id="8418">Abergorchy</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="295574">
+      <result code="2">2</result>
+      <band id="6260">Gilfachgoch</band>
+      <conductor id="304300">William Jones</conductor>
+    </result>
+    
+    <result id="295573">
+      <result code="3">3</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="301832">Samuel Gillard</conductor>
+    </result>
+    
+    <result id="295572">
+      <result code="">Unknown Result</result>
+      <band id="4789">Fleur de Lis</band>
+      <conductor id="301021">Z. Evans</conductor>
+    </result>
+    
+    <result id="295575">
+      <result code="">Unknown Result</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="302537">D. Hanney</conductor>
+    </result>
+    
+    <result id="295577">
+      <result code="">Unknown Result</result>
+      <band id="8031">Treharris</band>
+      <conductor id="318463">Harold Hirst</conductor>
+    </result>
+    
+    <result id="295578">
+      <result code="">Unknown Result</result>
+      <band id="6350">Tonypandy Hibernia</band>
+      <conductor id="310274">G. H. Thomas</conductor>
+    </result>
+    
+    <result id="295579">
+      <result code="">Unknown Result</result>
+      <band id="17419">Pentre Brass</band>
+      <conductor id="300965">Abe Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

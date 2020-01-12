@@ -1,0 +1,48 @@
+<contest-event id="21337">
+  <event-date date="1975-3-9">March 9, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North East Midlands Contest (First Section)</name>
+  <contest id="117">
+    <name>North East Midlands Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="12">North East Midlands Contest</group>
+    <slug>north-east-midlands-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1042">Long Eaton, Derbyshire</venue>
+  <notes>  March contest - 1st Bestwood, 2nd Teversal.</notes>
+
+  <created>May 13, 2013, 10:09 a.m.</created>
+  <last-modified>Dec. 10, 2013, 3:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="157250">
+      <result code="1">1</result>
+      <band id="857">Blidworth Welfare Band</band>
+      <conductor id="309066">Stephen Shimwell</conductor>
+    </result>
+    
+    <result id="157251">
+      <result code="2">2</result>
+      <band id="508">Bestwood Welfare Black Diamonds Band</band>
+      <conductor id="311747">Bernard Wilson</conductor>
+    </result>
+    
+    <result id="157252">
+      <result code="3">3</result>
+      <band id="2695">Heage Band</band>
+      <conductor id="309872">Tom Street</conductor>
+    </result>
+    
+  </results>
+</contest-event>

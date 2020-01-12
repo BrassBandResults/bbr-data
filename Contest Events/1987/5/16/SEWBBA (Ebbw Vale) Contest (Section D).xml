@@ -1,0 +1,48 @@
+<contest-event id="16492">
+  <event-date date="1987-5-16">May 16, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Ebbw Vale) Contest (Section D)</name>
+  <contest id="114">
+    <name>SEWBBA (Ebbw Vale) Contest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="17">SEWBBA (Ebbw Vale) Contest</group>
+    <slug>ebbw-vale-contest-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1732">Music for Greenwich</test-piece>
+  </test-piece>
+
+  <venue id="121">Ebbw Vale Leisure Centre, Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 27, 2012, 4:15 p.m.</created>
+  <last-modified>Nov. 27, 2012, 4:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="127000">
+      <result code="1">1</result>
+      <band id="461">Ebbw Vale Band</band>
+      <conductor id="299934">William Cross</conductor>
+    </result>
+    
+    <result id="127001">
+      <result code="2">2</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="307173">Roy Parsons</conductor>
+    </result>
+    
+    <result id="127002">
+      <result code="3">3</result>
+      <band id="790">Lady Windsor Band</band>
+      <conductor id="306357">T. W. Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

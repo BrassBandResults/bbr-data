@@ -1,0 +1,85 @@
+<contest-event id="13177">
+  <event-date date="1897-4-20">April 20, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1043">Raikes Hall Gardens, Blackpool</venue>
+  <notes>Prizes: £16 and cornet, £10 and trombone, £9, £6, £3, £2
+9 bands competed.</notes>
+
+  <created>May 3, 2012, 10:58 p.m.</created>
+  <last-modified>July 7, 2019, 7:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104654">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="104655">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="104656">
+      <result code="3">3</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+    </result>
+    
+    <result id="104657">
+      <result code="4">4</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="104658">
+      <result code="5">5</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="104659">
+      <result code="6">6</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="104660">
+      <result code="7">7</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104661">
+      <result code="8">8</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104662">
+      <result code="9">9</result>
+      <band id="5865">Churwell (Leeds) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

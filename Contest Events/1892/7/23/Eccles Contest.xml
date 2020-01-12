@@ -1,0 +1,116 @@
+<contest-event id="18197">
+  <event-date date="1892-7-23">July 23, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eccles Contest</name>
+  <contest id="2386">
+    <name>Eccles Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eccles-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1003">Il Giuramento [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3068">Barton Lane, Eccles</venue>
+  <notes>Promoted by Eccles Subscription Band
+
+13 bands competed
+
+Prizes: £12, £6, £4, £2, £1
+
+Quickstep: 1. Goodshaw, 2. Chadderton
+
+</notes>
+
+  <created>Feb. 13, 2013, 6:53 p.m.</created>
+  <last-modified>May 30, 2019, 9:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="137214">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="137215">
+      <result code="2">2</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="299065">John Frederick Carter</conductor>
+    </result>
+    
+    <result id="137216">
+      <result code="3">3</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="137217">
+      <result code="4">4</result>
+      <band id="8281">Bradford Prize</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="137218">
+      <result code="5">5</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="308880">
+      <result code="">Unknown Result</result>
+      <band id="8267">Ardwick Public</band>
+      <conductor id="310676">W. Turtle</conductor>
+    </result>
+    
+    <result id="308881">
+      <result code="">Unknown Result</result>
+      <band id="2636">Prestwich Borough</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="308882">
+      <result code="">Unknown Result</result>
+      <band id="7630">Park Estate</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="308883">
+      <result code="">Unknown Result</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="308884">
+      <result code="">Unknown Result</result>
+      <band id="7593">Onward Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="308885">
+      <result code="">Unknown Result</result>
+      <band id="8243">3rd V. B. Manchester Regiment (Ashton)</band>
+      <conductor id="310492">J. Tomlinson</conductor>
+    </result>
+    
+    <result id="308886">
+      <result code="">Unknown Result</result>
+      <band id="6183">Audenshaw and Droylsden</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="308879">
+      <result code="">Unknown Result</result>
+      <band id="3600">St. George&#39;s Pendleton</band>
+      <conductor id="311913">W. Wood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

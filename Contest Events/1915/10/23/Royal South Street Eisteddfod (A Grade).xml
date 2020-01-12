@@ -1,0 +1,47 @@
+<contest-event id="38968">
+  <event-date date="1915-10-23">Oct. 23, 1915<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal South Street Eisteddfod (A Grade)</name>
+  <contest id="628">
+    <name>Royal South Street Eisteddfod (A Grade)</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="563">Royal South Street Eisteddfod</group>
+    <slug>royal-south-street-eisteddfod</slug>
+    
+    <notes></notes>
+    
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3568">Works of  Haydn</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>Australian A Grade Championship
+Collingwood Citizen awarded Australian Championship on countback being winners of the Test Selection
+Results entered in above championship
+
+Contests suspended 1916 - 1918  (War Years)
+</notes>
+
+  <created>Dec. 13, 2017, 10:58 p.m.</created>
+  <last-modified>Jan. 9, 2018, 11:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283423">
+      <result code="1">1</result>
+      <band id="12283">Collingwood Citizens</band>
+      <conductor id="304131">Frank Johnston</conductor>
+    </result>
+    
+    <result id="283424">
+      <result code="1">1</result>
+      <band id="16613">Malvern Tramways  (Vic)</band>
+      <conductor id="309101">Harry Shugg</conductor>
+    </result>
+    
+  </results>
+</contest-event>

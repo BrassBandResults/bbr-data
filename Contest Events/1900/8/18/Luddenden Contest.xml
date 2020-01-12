@@ -1,0 +1,67 @@
+<contest-event id="37385">
+  <event-date date="1900-8-18">Aug. 18, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1694">Wind and Wave</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>Prizes - 1st £10, 2nd £5, 3rd £2, 4th £1.
+6 bands competed.</notes>
+
+  <created>Feb. 26, 2017, 4:13 p.m.</created>
+  <last-modified>June 16, 2018, 8:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270603">
+      <result code="1">1</result>
+      <band id="7022">Todmorden Amateur</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="270604">
+      <result code="2">2</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+    <result id="270605">
+      <result code="3">3</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+    <result id="270606">
+      <result code="3">3</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="289756">
+      <result code="">Unknown Result</result>
+      <band id="7907">Halifax Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289757">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

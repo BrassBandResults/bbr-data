@@ -1,0 +1,66 @@
+<contest-event id="8473">
+  <event-date date="1977-3-6">March 6, 1977<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="42">Pageantry</test-piece>
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>  6 bands competed.</notes>
+
+  <created>Dec. 6, 2011, 10:49 p.m.</created>
+  <last-modified>Sept. 2, 2013, 7:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171848">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+    <result id="171849">
+      <result code="2">2</result>
+      <band id="921">Northumbria Police Band</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="171850">
+      <result code="3">3</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="311141">K. Watson</conductor>
+    </result>
+    
+    <result id="171851">
+      <result code="">Unknown Result</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="304589">Peter Kitson</conductor>
+    </result>
+    
+    <result id="171853">
+      <result code="">Unknown Result</result>
+      <band id="3471">Sunderland International Concert Band</band>
+      <conductor id="298976">Earnest Camsey</conductor>
+    </result>
+    
+    <result id="171852">
+      <result code="">Unknown Result</result>
+      <band id="799">Yarm &amp; District Band</band>
+      <conductor id="306104">C. Midgley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

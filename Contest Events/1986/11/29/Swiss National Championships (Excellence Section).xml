@@ -1,0 +1,104 @@
+<contest-event id="14378">
+  <event-date date="1986-11-29">Nov. 29, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="222">Variations on a Ninth</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>  Prizes  1st Fr 2,500,  2nd Fr 1,000, 3rd  Fr300, 4th Fr 200,  5th Fr 200, 6th Fr 100.
+
+  12 bands competed.</notes>
+
+  <created>Aug. 10, 2012, 9 a.m.</created>
+  <last-modified>Feb. 10, 2017, 8:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114624">
+      <result code="1">1</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+    <result id="116561">
+      <result code="2">2</result>
+      <band id="56">Brass Band Berner Oberland</band>
+      <conductor id="297290">Markus Bach</conductor>
+    </result>
+    
+    <result id="127029">
+      <result code="3">3</result>
+      <band id="1207">Brass Band Bienne</band>
+      <conductor id="300814">Pascal Eicher</conductor>
+    </result>
+    
+    <result id="127030">
+      <result code="4">4</result>
+      <band id="59">Ensemble de Cuivres Melodia</band>
+      <conductor id="297898">Pierre-Alain Bidaud</conductor>
+    </result>
+    
+    <result id="127031">
+      <result code="5">5</result>
+      <band id="76">Brass Band Fricktal</band>
+      <conductor id="300814">Pascal Eicher</conductor>
+    </result>
+    
+    <result id="127032">
+      <result code="6">6</result>
+      <band id="79">Brass Band Imperial Lenzburg</band>
+      <conductor id="301553">Ronald Frischknecht</conductor>
+    </result>
+    
+    <result id="127035">
+      <result code="">Unknown Result</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="303775">Yves Illi</conductor>
+    </result>
+    
+    <result id="127038">
+      <result code="">Unknown Result</result>
+      <band id="8823">Fanfare de Crissier</band>
+      <conductor id="301150">Pascal Favre</conductor>
+    </result>
+    
+    <result id="127033">
+      <result code="">Unknown Result</result>
+      <band id="67">Ensemble de Cuivres Valaisan</band>
+      <conductor id="300289">G. Debons</conductor>
+    </result>
+    
+    <result id="127037">
+      <result code="">Unknown Result</result>
+      <band id="9092">Ensemble de Cuivres d&#39;Ajoie</band>
+      <conductor id="312178">Markus Zwahlen</conductor>
+    </result>
+    
+    <result id="127036">
+      <result code="">Unknown Result</result>
+      <band id="61">Musikgesellschaft Risch-Rotkreuz</band>
+      <conductor id="297409">Samuel Balzli</conductor>
+    </result>
+    
+    <result id="127034">
+      <result code="">Unknown Result</result>
+      <band id="58">Oberaargauer Brass Band</band>
+      <conductor id="306894">Manfred Obrecht</conductor>
+    </result>
+    
+  </results>
+</contest-event>

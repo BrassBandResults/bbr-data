@@ -1,0 +1,54 @@
+<contest-event id="12612">
+  <event-date date="1899-8-8">Aug. 8, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wendover Contest</name>
+  <contest id="2618">
+    <name>Wendover Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wendover-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1864">Rose Queen</test-piece>
+  </test-piece>
+
+  <venue id="1971">Wendover, Buckinghamshire, England, UK</venue>
+  <notes>4 bands competed</notes>
+
+  <created>April 18, 2012, 1:43 p.m.</created>
+  <last-modified>July 28, 2019, 2:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100581">
+      <result code="1">1</result>
+      <band id="7685">Wendover</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100582">
+      <result code="2">2</result>
+      <band id="8306">Waddesdon Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100583">
+      <result code="3">3</result>
+      <band id="8304">Aylesbury C.E.T.S</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100584">
+      <result code="4">4</result>
+      <band id="7960">St. Leonards</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

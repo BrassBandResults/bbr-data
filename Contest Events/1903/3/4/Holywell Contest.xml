@@ -1,0 +1,55 @@
+<contest-event id="40121">
+  <event-date date="1903-3-4">March 4, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holywell Contest</name>
+  <contest id="2435">
+    <name>Holywell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>holywell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2393">Casket of Gems</test-piece>
+  </test-piece>
+
+  <venue id="2626">Holywell, Flintshire</venue>
+  <notes>March contest - 1st Connah&#39;s Quay, 2nd Brymbo.
+3 bands competed.</notes>
+
+  <created>July 22, 2018, 3:02 p.m.</created>
+  <last-modified>July 22, 2018, 3:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291686">
+      <result code="1">1</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291687">
+      <result code="2">2</result>
+      <band id="17241">Brymbo C.T.E.S.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291688">
+      <result code="3">3</result>
+      <band id="4137">Ellesmere Port Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291689">
+      <result code="W">Withdrawn</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

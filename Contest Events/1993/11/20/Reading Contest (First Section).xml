@@ -1,0 +1,72 @@
+<contest-event id="20704">
+  <event-date date="1993-11-20">Nov. 20, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (First Section)</name>
+  <contest id="2682">
+    <name>Reading Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="298">A London Overture</test-piece>
+  </test-piece>
+
+  <venue id="291">The Hexagon, Reading, Berkshire, England, UK</venue>
+  <notes>Best Instrumentalist: Horn, City of Oxford</notes>
+
+  <created>April 21, 2013, 4:33 p.m.</created>
+  <last-modified>April 21, 2013, 4:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="153813">
+      <result code="1">1</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="309818">David Stokes</conductor>
+    </result>
+    
+    <result id="153814">
+      <result code="2">2</result>
+      <band id="9">City of Hull Band</band>
+      <conductor id="299293">Robert Childs</conductor>
+    </result>
+    
+    <result id="153812">
+      <result code="3">3</result>
+      <band id="525">Chalford Band</band>
+      <conductor id="311176">Ken Wear</conductor>
+    </result>
+    
+    <result id="153811">
+      <result code="">Unknown Result</result>
+      <band id="472">Brackley and District Band</band>
+      <conductor id="297795">John Bennett</conductor>
+    </result>
+    
+    <result id="153816">
+      <result code="">Unknown Result</result>
+      <band id="422">Poole Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="153817">
+      <result code="">Unknown Result</result>
+      <band id="538">Solent Concert Band</band>
+      <conductor id="301675">Wesley Garner</conductor>
+    </result>
+    
+    <result id="153815">
+      <result code="W">Withdrawn</result>
+      <band id="476">Ibstock Brick Brass</band>
+      <conductor id="301198">Ken Ferguson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,59 @@
+<contest-event id="12217">
+  <event-date date="1894-7-14">July 14, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hull Contest (Local Section)</name>
+  <contest id="2493">
+    <name>Hull Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hull-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1856">Flowers of Beauty</test-piece>
+  </test-piece>
+
+  <venue id="3241">Hull Football Club Ground, Holderness Road, Hull</venue>
+  <notes>Prizes: £7, £5
+
+4 bands competed
+
+Horn, bass and cornet prizes: Hull Waterloo
+Euphonium prize: East Hull</notes>
+
+  <created>April 10, 2012, 4:29 p.m.</created>
+  <last-modified>March 15, 2013, 3:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98038">
+      <result code="1">1</result>
+      <band id="6615">East Hull</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="98039">
+      <result code="2">2</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="306774">J. W. Noble</conductor>
+    </result>
+    
+    <result id="143952">
+      <result code="">Unknown Result</result>
+      <band id="7908">Grimsby Temperance</band>
+      <conductor id="311386">G. White</conductor>
+    </result>
+    
+    <result id="143951">
+      <result code="">Unknown Result</result>
+      <band id="4589">Brigg Subscription Band</band>
+      <conductor id="310689">George Twigg</conductor>
+    </result>
+    
+  </results>
+</contest-event>

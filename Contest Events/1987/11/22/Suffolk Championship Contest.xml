@@ -1,0 +1,48 @@
+<contest-event id="29860">
+  <event-date date="1987-11-22">Nov. 22, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Suffolk Championship Contest</name>
+  <contest id="3584">
+    <name>Suffolk Championship Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>suffolk-championship-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="24">Own Choice and Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5505">Ipswich Corn Exchange, Ipswich, Suffolk, England, UK</venue>
+  <notes>March contest - 1st Haverhill 85, 2nd Connells 84, 3rd Wrentham 81.</notes>
+
+  <created>Oct. 23, 2014, 11:59 a.m.</created>
+  <last-modified>Oct. 23, 2014, 12:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="211944">
+      <result code="1">1</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="296811">Les Ager</conductor>
+    </result>
+    
+    <result id="211945">
+      <result code="2">2</result>
+      <band id="304">East of England Co-op Band</band>
+      <conductor id="303480">Robert Howard</conductor>
+    </result>
+    
+    <result id="211946">
+      <result code="3">3</result>
+      <band id="1531">Wrentham Band</band>
+      <conductor id="302698">P. J. Harrold</conductor>
+    </result>
+    
+  </results>
+</contest-event>

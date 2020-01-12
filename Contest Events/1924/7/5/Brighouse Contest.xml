@@ -1,0 +1,79 @@
+<contest-event id="41017">
+  <event-date date="1924-7-5">July 5, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brighouse Contest</name>
+  <contest id="2496">
+    <name>Brighouse Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brighouse-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4404">Lane Head Recreation Ground, Brighouse</venue>
+  <notes>March contest - 1st Sowerby Bridge, 2nd Hepworth.
+8 bands competed.</notes>
+
+  <created>Oct. 29, 2018, 1:04 p.m.</created>
+  <last-modified>Oct. 29, 2018, 1:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297876">
+      <result code="1">1</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="299460">F. Clough</conductor>
+    </result>
+    
+    <result id="297877">
+      <result code="2">2</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="297878">
+      <result code="3">3</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="297879">
+      <result code="4">4</result>
+      <band id="1440">Wyke</band>
+      <conductor id="303856">J. Jackson</conductor>
+    </result>
+    
+    <result id="297882">
+      <result code="">Unknown Result</result>
+      <band id="142">Clifton and Lightcliffe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297881">
+      <result code="">Unknown Result</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297883">
+      <result code="">Unknown Result</result>
+      <band id="4134">Southowram Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297880">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

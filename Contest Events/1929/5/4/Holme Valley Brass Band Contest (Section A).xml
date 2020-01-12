@@ -1,0 +1,74 @@
+<contest-event id="11629">
+  <event-date date="1929-5-4">May 4, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holme Valley Brass Band Contest (Section A)</name>
+  <contest id="83">
+    <name>Holme Valley Brass Band Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type>
+    <group id="119">Holme Valley Brass Band Contest</group>
+    <slug>holme-valley-brass-band-contest-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1022">The Water Carrier</test-piece>
+  </test-piece>
+
+  <venue id="586">Victoria Park, Holmfirth</venue>
+  <notes>Prizes - 1st £15 and cup, 2nd £12, 3rd £9, 4th £6, 5th £3.
+March contest (&quot;Knight of the Road&quot;) - 1st Brighouse, 2nd Holme.
+  7 bands competed.</notes>
+
+  <created>April 4, 2012, 9:09 p.m.</created>
+  <last-modified>Nov. 28, 2018, 12:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94683">
+      <result code="1">1</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="176689">
+      <result code="2">2</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="176690">
+      <result code="3">3</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="176691">
+      <result code="4">4</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="176692">
+      <result code="5">5</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="299199">Fred Chantrey</conductor>
+    </result>
+    
+    <result id="176693">
+      <result code="">Unknown Result</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176694">
+      <result code="">Unknown Result</result>
+      <band id="3176">Spenborough Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

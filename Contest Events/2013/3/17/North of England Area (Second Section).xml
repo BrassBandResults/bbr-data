@@ -1,0 +1,60 @@
+<contest-event id="18862">
+  <event-date date="2013-3-17">March 17, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Second Section)</name>
+  <contest id="54">
+    <name>North of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-2nd-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="194">The Plantagenets</test-piece>
+  </test-piece>
+
+  <venue id="23">Dolphin Centre, Darlington, County Durham, England, UK</venue>
+  <notes></notes>
+
+  <created>March 5, 2013, 2:10 p.m.</created>
+  <last-modified>March 17, 2013, 7:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="144683">
+      <result code="1">1</result>
+      <band id="340">Ripon City Band</band>
+      <conductor id="300366">Malcolm Dibb</conductor>
+    </result>
+    
+    <result id="144684">
+      <result code="2">2</result>
+      <band id="573">York Railway Institute</band>
+      <conductor id="300742">Gordon Eddison</conductor>
+    </result>
+    
+    <result id="144681">
+      <result code="3">3</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="307307">John Pearson</conductor>
+    </result>
+    
+    <result id="144680">
+      <result code="4">4</result>
+      <band id="372">Billingham Silver Band</band>
+      <conductor id="301016">Vaughan Evans</conductor>
+    </result>
+    
+    <result id="144682">
+      <result code="5">5</result>
+      <band id="570">Northumbrian Water Ellington Colliery</band>
+      <conductor id="301193">Jonathan Fenwick</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,81 @@
+<contest-event id="12646">
+  <event-date date="1895-8-17">Aug. 17, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scunthorpe Contest (Section 1)</name>
+  <contest id="2105">
+    <name>Scunthorpe Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="247">Scunthorpe Contest</group>
+    <slug>scunthorpe-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1985">Brumby Hall Park, Scunthorpe</venue>
+  <notes>Open contest
+Prizes: £14, £8, £4, £2
+March contest: 1. Rotherham, 2. Mexborough
+7 bands competed</notes>
+
+  <created>April 18, 2012, 5:30 p.m.</created>
+  <last-modified>June 23, 2019, 6:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100816">
+      <result code="1">1</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="100817">
+      <result code="2">2</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100818">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="100819">
+      <result code="4">4</result>
+      <band id="4910">Mexborough</band>
+      <conductor id="300245">John Dawson</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100820">
+      <result code="">Unknown Result</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="303698">C. T. Hurst</conductor>
+      <test-piece id="1877">Attila</test-piece>
+    </result>
+    
+    <result id="100821">
+      <result code="">Unknown Result</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="311386">G. White</conductor>
+      <test-piece id="1780">Gems of Scotia</test-piece>
+    </result>
+    
+    <result id="100822">
+      <result code="">Unknown Result</result>
+      <band id="5870">K Company 1st Volunteer Battalion Lincolnshire Regiment (Frodingham) Band</band>
+      <conductor id="300646">G. Durney</conductor>
+    </result>
+    
+  </results>
+</contest-event>

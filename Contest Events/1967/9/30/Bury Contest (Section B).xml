@@ -1,0 +1,61 @@
+<contest-event id="20088">
+  <event-date date="1967-9-30">Sept. 30, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bury Contest (Section B)</name>
+  <contest id="4005">
+    <name>Bury Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bury-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3201">Drill Hall, Bury, Lancashire</venue>
+  <notes>  18th annual contest</notes>
+
+  <created>March 30, 2013, 12:13 p.m.</created>
+  <last-modified>March 30, 2013, 12:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149545">
+      <result code="1">1</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149546">
+      <result code="2">2</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149547">
+      <result code="3">3</result>
+      <band id="1668">Hollingworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149548">
+      <result code="4">4</result>
+      <band id="2756">Leigh Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149549">
+      <result code="">Unknown Result</result>
+      <band id="8205">Ramsbottom</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1113">Moses in Egypt [arr. Greenwood]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

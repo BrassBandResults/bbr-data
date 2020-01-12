@@ -1,0 +1,62 @@
+<contest-event id="9952">
+  <event-date date="1905-4-24">April 24, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest</name>
+  <contest id="1568">
+    <name>Rhyl Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1646">Recollections of Flotow</test-piece>
+  </test-piece>
+
+  <venue id="1029">Winter Gardens, Rhyl</venue>
+  <notes>  1st prize £15. 2nd prize £5.
+  March contest  1st Gossage&#39;s Soap Works,  2nd Cheetham Hill.
+5 bands competed.</notes>
+
+  <created>Feb. 3, 2012, 11:12 p.m.</created>
+  <last-modified>Sept. 5, 2018, 10:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="84544">
+      <result code="1">1</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="84545">
+      <result code="2">2</result>
+      <band id="2793">Crewe Temperance</band>
+      <conductor id="309898">J. Stubbs</conductor>
+    </result>
+    
+    <result id="84546">
+      <result code="">Unknown Result</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="308277">Edward Roberts</conductor>
+    </result>
+    
+    <result id="84547">
+      <result code="">Unknown Result</result>
+      <band id="17363">Irlam Village</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="84548">
+      <result code="">Unknown Result</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+  </results>
+</contest-event>

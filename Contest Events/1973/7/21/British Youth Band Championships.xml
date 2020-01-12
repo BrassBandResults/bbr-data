@@ -1,0 +1,84 @@
+<contest-event id="21172">
+  <event-date date="1973-7-21">July 21, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>British Youth Band Championships</name>
+  <contest id="684">
+    <name>British Youth Band Championships</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>british-youth-band-championships</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="857">In Switzerland</test-piece>
+  </test-piece>
+
+  <venue id="3501">Showground, Wavertree, Liverpool</venue>
+  <notes></notes>
+
+  <created>May 8, 2013, 8:52 a.m.</created>
+  <last-modified>May 8, 2013, 8:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="156397">
+      <result code="1">1</result>
+      <band id="2029">Wakefield Youth</band>
+      <conductor id="304589">Peter Kitson</conductor>
+    </result>
+    
+    <result id="156398">
+      <result code="2">2</result>
+      <band id="10838">Bryn Celynnog School Pontypridd</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156399">
+      <result code="3">3</result>
+      <band id="3058">Featherstone Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156400">
+      <result code="3">3</result>
+      <band id="485">Stourport-on-Severn Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156403">
+      <result code="">Unknown Result</result>
+      <band id="4235">Darlington Youth Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156405">
+      <result code="">Unknown Result</result>
+      <band id="4227">John Taylor School</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156401">
+      <result code="">Unknown Result</result>
+      <band id="4349">Manx Youth</band>
+      <conductor id="299925">James Crosbie</conductor>
+    </result>
+    
+    <result id="156402">
+      <result code="">Unknown Result</result>
+      <band id="10904">Marple Secondary School</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156404">
+      <result code="">Unknown Result</result>
+      <band id="1484">Preston Youth</band>
+      <conductor id="306211">Tom Mitchell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="18770">
+  <event-date date="1945-7-28">July 28, 1945<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitefield Contest</name>
+  <contest id="3635">
+    <name>Whitefield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitefield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1254">Ernani [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2742">Whitefield, Lancashire</venue>
+  <notes></notes>
+
+  <created>March 2, 2013, 5 p.m.</created>
+  <last-modified>June 8, 2018, 9:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="140786">
+      <result code="1">1</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="140787">
+      <result code="2">2</result>
+      <band id="766">Chapel-en-le-Frith Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="140788">
+      <result code="3">3</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="318866">R. Cooper</conductor>
+    </result>
+    
+    <result id="140789">
+      <result code="4">4</result>
+      <band id="2756">Leigh Silver Band</band>
+      <conductor id="301474">Harry Foxwell</conductor>
+    </result>
+    
+    <result id="289442">
+      <result code="">Unknown Result</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

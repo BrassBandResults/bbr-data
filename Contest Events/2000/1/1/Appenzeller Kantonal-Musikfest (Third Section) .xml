@@ -1,0 +1,61 @@
+<contest-event id="28414">
+  <event-date date="2000-1-1">Jan. 1, 2000<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Appenzeller Kantonal-Musikfest (Third Section) </name>
+  <contest id="4354">
+    <name>Appenzeller Kantonal-Musikfest (Third Section) </name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="301">Appenzeller Kantonal-Musikfest</group>
+    <slug>appenzeller-kantonal-musikfest-third-section</slug>
+    
+    <notes>None</notes>
+    <region id="10">Switzerland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2059">Anniversary Music</test-piece>
+  </test-piece>
+
+  <venue id="4850">Herisau, AR, Switzerland</venue>
+  <notes></notes>
+
+  <created>June 9, 2014, 3:12 p.m.</created>
+  <last-modified>June 9, 2014, 3:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="235583">
+      <result code="1">1</result>
+      <band id="10998">MG Hugelshofen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202495">
+      <result code="2">2</result>
+      <band id="8820">Dorfmusik Mandach</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="602">Passing Moods</test-piece>
+    </result>
+    
+    <result id="236158">
+      <result code="3">3</result>
+      <band id="11031">MG Brülisau</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="236159">
+      <result code="4">4</result>
+      <band id="11084">MG Wald</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="236319">
+      <result code="">Unknown Result</result>
+      <band id="9459">Bürgermusik Gonten</band>
+      <conductor id="319161">Köbi Rechsteiner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

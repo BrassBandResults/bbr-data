@@ -1,0 +1,54 @@
+<contest-event id="10279">
+  <event-date date="1905-7-20">July 20, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Castle Douglas Contest</name>
+  <contest id="1925">
+    <name>Castle Douglas Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>castle-douglas-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1666">Ten Minutes wi&#39; Burns</test-piece>
+  </test-piece>
+
+  <venue id="1364">Castle Douglas, Galloway</venue>
+  <notes></notes>
+
+  <created>Feb. 13, 2012, 4:17 p.m.</created>
+  <last-modified>Feb. 13, 2012, 4:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="86806">
+      <result code="1">1</result>
+      <band id="902">Creetown Silver Band</band>
+      <conductor id="309464">W. Smith</conductor>
+    </result>
+    
+    <result id="86807">
+      <result code="2">2</result>
+      <band id="6770">Dalbeattie Town</band>
+      <conductor id="309464">W. Smith</conductor>
+    </result>
+    
+    <result id="86808">
+      <result code="3">3</result>
+      <band id="6771">Castle Douglas</band>
+      <conductor id="304873">F. Lawson</conductor>
+    </result>
+    
+    <result id="86809">
+      <result code="4">4</result>
+      <band id="6772">Dalbeattie Old</band>
+      <conductor id="310365">Robert Thomson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

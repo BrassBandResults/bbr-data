@@ -1,0 +1,56 @@
+<contest-event id="25457">
+  <event-date date="1922-7-29">July 29, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnetby Contest</name>
+  <contest id="4966">
+    <name>Barnetby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnetby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2822">Recollections of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="4317">Barnetby</venue>
+  <notes>7 bands competed
+
+March: 1. Gainsborough, 2. Cleethorpes</notes>
+
+  <created>Dec. 6, 2013, 9:18 p.m.</created>
+  <last-modified>April 4, 2014, 5:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184963">
+      <result code="1">1</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184964">
+      <result code="1">1</result>
+      <band id="578">Kingsway Printers Cleethorpes</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184966">
+      <result code="2">2</result>
+      <band id="2626">Scunthorpe Borough British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184965">
+      <result code="3">3</result>
+      <band id="319">Barton Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

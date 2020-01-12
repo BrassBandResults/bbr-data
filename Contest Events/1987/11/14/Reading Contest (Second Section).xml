@@ -1,0 +1,48 @@
+<contest-event id="13659">
+  <event-date date="1987-11-14">Nov. 14, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Second Section)</name>
+  <contest id="563">
+    <name>Reading Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="654">Scheherazade</test-piece>
+  </test-piece>
+
+  <venue id="291">The Hexagon, Reading, Berkshire, England, UK</venue>
+  <notes>51st annual contest.</notes>
+
+  <created>June 6, 2012, 3:33 p.m.</created>
+  <last-modified>Oct. 22, 2014, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="211846">
+      <result code="1">1</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="309545">Philip Sparke</conductor>
+    </result>
+    
+    <result id="211847">
+      <result code="2">2</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="310541">Alan Toy</conductor>
+    </result>
+    
+    <result id="211848">
+      <result code="3">3</result>
+      <band id="45">Staines Brass</band>
+      <conductor id="307168">Anthony Parsons</conductor>
+    </result>
+    
+  </results>
+</contest-event>

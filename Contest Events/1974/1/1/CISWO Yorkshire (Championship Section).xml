@@ -1,0 +1,60 @@
+<contest-event id="5184">
+  <event-date date="1974-1-1">Jan. 1, 1974<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>CISWO Yorkshire (Championship Section)</name>
+  <contest id="670">
+    <name>CISWO Yorkshire (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="192">The Belmont Variations</test-piece>
+  </test-piece>
+
+  <venue id="3258">City Hall, Sheffield</venue>
+  <notes></notes>
+
+  <created>April 1, 2011, 11:59 p.m.</created>
+  <last-modified>June 8, 2014, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="45132">
+      <result code="1">1</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="308843">James Scott</conductor>
+    </result>
+    
+    <result id="114908">
+      <result code="2">2</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="306994">Robert Oughton</conductor>
+    </result>
+    
+    <result id="114909">
+      <result code="3">3</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="304100">Ken Johnson</conductor>
+    </result>
+    
+    <result id="114910">
+      <result code="">Unknown Result</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="309169">Malcolm Simpson</conductor>
+    </result>
+    
+    <result id="114911">
+      <result code="">Unknown Result</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="309995">Sydney Swancott</conductor>
+    </result>
+    
+  </results>
+</contest-event>

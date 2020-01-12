@@ -1,0 +1,61 @@
+<contest-event id="13037">
+  <event-date date="1896-8-3">Aug. 3, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Peterborough Contest</name>
+  <contest id="1175">
+    <name>Peterborough Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>peterborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1406">Peterborough, Cambridgeshire</venue>
+  <notes>Prizes: £18 8s, £7, £5, £3
+Cornet, Horn, Euphonium and Trombone medals: Lee Mount.
+4 bands competed
+</notes>
+
+  <created>April 30, 2012, 8:56 p.m.</created>
+  <last-modified>Oct. 18, 2016, 12:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103786">
+      <result code="1">1</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1559">Wagner [arr. Round]</test-piece>
+    </result>
+    
+    <result id="103787">
+      <result code="2">2</result>
+      <band id="8231">Peterborough St. Mark&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+    <result id="103788">
+      <result code="3">3</result>
+      <band id="7162">Farcet</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="964">Luisa Miller [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="103789">
+      <result code="4">4</result>
+      <band id="6609">Whittlesea Town</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2459">Crown of Victory</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

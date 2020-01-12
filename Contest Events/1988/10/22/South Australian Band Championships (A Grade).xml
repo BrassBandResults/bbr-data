@@ -1,0 +1,54 @@
+<contest-event id="40010">
+  <event-date date="1988-10-22">Oct. 22, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Australian Band Championships (A Grade)</name>
+  <contest id="569">
+    <name>South Australian Band Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>June 26, 2018, 1:49 a.m.</created>
+  <last-modified>June 26, 2018, 11:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="290842">
+      <result code="1">1</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="305422">Ken MacDonald</conductor>
+    </result>
+    
+    <result id="290843">
+      <result code="2">2</result>
+      <band id="2250">Elizabeth City Band</band>
+      <conductor id="305464">Glenn Madden</conductor>
+    </result>
+    
+    <result id="290844">
+      <result code="3">3</result>
+      <band id="698">Kensington &amp; Norwood Brass</band>
+      <conductor id="307954">Bruce Raymond</conductor>
+    </result>
+    
+    <result id="290933">
+      <result code="4">4</result>
+      <band id="2178">Tanunda Town Band</band>
+      <conductor id="318152">Neville Alderslade</conductor>
+    </result>
+    
+  </results>
+</contest-event>

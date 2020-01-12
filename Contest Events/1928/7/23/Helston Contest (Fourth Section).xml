@@ -1,0 +1,50 @@
+<contest-event id="25687">
+  <event-date date="1928-7-23">July 23, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Helston Contest (Fourth Section)</name>
+  <contest id="4752">
+    <name>Helston Contest (Fourth Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="483">Helston Contest</group>
+    <slug>helston-contest-fourth-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1087">Casino Tanze</test-piece>
+  </test-piece>
+
+  <venue id="1807">Helston, Cornwall</venue>
+  <notes>Prizes: £6, £3, £2
+
+Hymn tune: 1. St Just Old Town, 2. Marazion</notes>
+
+  <created>Dec. 20, 2013, 8:22 p.m.</created>
+  <last-modified>Dec. 20, 2013, 8:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186045">
+      <result code="1">1</result>
+      <band id="6464">Marazion Town Band</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="186046">
+      <result code="2">2</result>
+      <band id="521">St. Keverne Band</band>
+      <conductor id="305659">John Martin</conductor>
+    </result>
+    
+    <result id="186047">
+      <result code="3">3</result>
+      <band id="11340">St Just Old Town</band>
+      <conductor id="311612">Edwin J. Williams Snr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

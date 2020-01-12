@@ -1,0 +1,49 @@
+<contest-event id="19401">
+  <event-date date="1966-10-29">Oct. 29, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3203">Cwmtwrch, Glamorgan</venue>
+  <notes></notes>
+
+  <created>March 20, 2013, 12:33 p.m.</created>
+  <last-modified>March 21, 2013, 11:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="145616">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302687">John Harrison</conductor>
+      <test-piece id="297">Le Carnaval Romain [arr. Wrigth]</test-piece>
+    </result>
+    
+    <result id="145617">
+      <result code="2">2</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306343">J. Morgan</conductor>
+    </result>
+    
+    <result id="145618">
+      <result code="3">3</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="302331">Mal Guy</conductor>
+    </result>
+    
+  </results>
+</contest-event>

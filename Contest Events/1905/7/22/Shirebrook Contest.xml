@@ -1,0 +1,94 @@
+<contest-event id="10335">
+  <event-date date="1905-7-22">July 22, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shirebrook Contest</name>
+  <contest id="1943">
+    <name>Shirebrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="255">Shirebrook Contest</group>
+    <slug>shirebrook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1380">Shirebrook, Derbyshire</venue>
+  <notes>Choice of test pieces: &quot;Gemma di Vergy&quot; or &quot;Rob Roy&quot;
+9 bands competed.</notes>
+
+  <created>Feb. 16, 2012, 2:28 p.m.</created>
+  <last-modified>Sept. 6, 2018, 11:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="87174">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87175">
+      <result code="2">2</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87176">
+      <result code="3">3</result>
+      <band id="6581">Canklow</band>
+      <conductor id="305005">William Lerigo</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87177">
+      <result code="4">4</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="303145">W. Hinds</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87178">
+      <result code="">Unknown Result</result>
+      <band id="6792">Clowne Silver</band>
+      <conductor id="302100">T. E. Gray</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="87179">
+      <result code="">Unknown Result</result>
+      <band id="6793">Holmewood</band>
+      <conductor id="303102">W. Hill</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87180">
+      <result code="">Unknown Result</result>
+      <band id="6580">Mansfield Excelsior</band>
+      <conductor id="309963">F. Suttle</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87181">
+      <result code="">Unknown Result</result>
+      <band id="489">Shirebrook Band</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87182">
+      <result code="">Unknown Result</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

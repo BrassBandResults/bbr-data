@@ -1,0 +1,65 @@
+<contest-event id="943">
+  <event-date date="2006-11-26">Nov. 26, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Championship Division)</name>
+  <contest id="76">
+    <name>Belgian Nationals (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="27">Tristan Encounters</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes>After the contest, Metropole, Buizingen and Festival were disqualified, which made Willebroek and Kortrijk the 2007 Belgian European qualifiers.</notes>
+
+  <created>Oct. 6, 2009, 2:57 p.m.</created>
+  <last-modified>Dec. 11, 2013, 11:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="10425">
+      <result code="1">1</result>
+      <band id="40">Brass Band Willebroek</band>
+      <conductor id="310826">Frans Violet</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+    <result id="10429">
+      <result code="2">2</result>
+      <band id="676">Kortrijk Brass Band</band>
+      <conductor id="305478">Lieven Maertens</conductor>
+      <test-piece id="22">Journey into Freedom</test-piece>
+    </result>
+    
+    <result id="10427">
+      <result code="D">Disqualified</result>
+      <band id="674">Brassband Buizingen</band>
+      <conductor id="310791">Luc Vertommen</conductor>
+      <test-piece id="120">Concerto Grosso [Bourgeois]</test-piece>
+    </result>
+    
+    <result id="10428">
+      <result code="D">Disqualified</result>
+      <band id="672">Festival Brass Band</band>
+      <conductor id="306020">Manu Mellaerts</conductor>
+      <test-piece id="46">Harmony Music</test-piece>
+    </result>
+    
+    <result id="10426">
+      <result code="D">Disqualified</result>
+      <band id="675">Metropole Brass Band</band>
+      <conductor id="297248">Guy Audenaert</conductor>
+      <test-piece id="208">Music of the Spheres</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

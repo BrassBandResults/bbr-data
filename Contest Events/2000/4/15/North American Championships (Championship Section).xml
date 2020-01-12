@@ -1,0 +1,80 @@
+<contest-event id="10530">
+  <event-date date="2000-4-15">April 15, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Championship Section)</name>
+  <contest id="161">
+    <name>North American Championships (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-championship-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="41">Whitsun Wakes</test-piece>
+  </test-piece>
+
+  <venue id="1483">Vern Riffe Center (Capitol Theatre), Columbus, Ohio, USA</venue>
+  <notes>Total points calculated as 60% of Set Piece points plus 40% of Own Choice points
+
+Single draw format with bands playing all items consecutively</notes>
+
+  <created>Feb. 21, 2012, 4:15 p.m.</created>
+  <last-modified>Feb. 22, 2012, 10:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="88494">
+      <result code="1">1</result>
+      <band id="982">Illinois Brass Band</band>
+      <conductor id="303333">Colin Holman</conductor>
+      <test-piece id="46">Harmony Music</test-piece>
+    </result>
+    
+    <result id="88495">
+      <result code="2">2</result>
+      <band id="4218">Brass Band of Columbus</band>
+      <conductor id="300568">Paul Droste</conductor>
+    </result>
+    
+    <result id="88496">
+      <result code="3">3</result>
+      <band id="4219">Brass Band of the Western Reserve</band>
+      <conductor id="311565">Keith Wilkinson</conductor>
+      <test-piece id="57">Connotations</test-piece>
+    </result>
+    
+    <result id="88497">
+      <result code="4">4</result>
+      <band id="980">Eastern Iowa Brass Band</band>
+      <conductor id="308671">John de Salme</conductor>
+      <test-piece id="218">Triumphant Rhapsody</test-piece>
+    </result>
+    
+    <result id="88498">
+      <result code="5">5</result>
+      <band id="1003">Atlantic Brass Band</band>
+      <conductor id="308757">Salvatore Scarpa</conductor>
+      <test-piece id="211">Variations on Laudate Dominum</test-piece>
+    </result>
+    
+    <result id="88499">
+      <result code="6">6</result>
+      <band id="53">Brass Band of Central Florida</band>
+      <conductor id="304682">Joseph Kreines</conductor>
+      <test-piece id="163">Little Suite for Brass [Arnold]</test-piece>
+    </result>
+    
+    <result id="88500">
+      <result code="7">7</result>
+      <band id="6961">All-Star Staff Band</band>
+      <conductor id="296815">Eric Aho</conductor>
+      <test-piece id="266">Fantasy for Brass Band [Arnold]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

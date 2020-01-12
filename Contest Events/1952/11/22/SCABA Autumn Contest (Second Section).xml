@@ -1,0 +1,48 @@
+<contest-event id="18509">
+  <event-date date="1952-11-22">Nov. 22, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SCABA Autumn Contest (Second Section)</name>
+  <contest id="190">
+    <name>SCABA Autumn Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="33">SCABA Autumn Contest</group>
+    <slug>scaba-autumn-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1375">Recollections of Beethoven [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="1259">Dorking, Surrey, England, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 23, 2013, 4:44 p.m.</created>
+  <last-modified>Feb. 23, 2013, 4:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="139233">
+      <result code="1">1</result>
+      <band id="3954">Hooe Silver Band</band>
+      <conductor id="308720">A. H. Sargent</conductor>
+    </result>
+    
+    <result id="139234">
+      <result code="2">2</result>
+      <band id="2929">Heathfield Silver</band>
+      <conductor id="311836">A. E. Wise</conductor>
+    </result>
+    
+    <result id="139235">
+      <result code="3">3</result>
+      <band id="10502">Borough of Reigate</band>
+      <conductor id="307808">F. Pullen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="30113">
+  <event-date date="1988-11-26">Nov. 26, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Fourth Section)</name>
+  <contest id="1774">
+    <name>North Wales Rally (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="793">Divertimento [Ball]</test-piece>
+  </test-piece>
+
+  <venue id="3526">Coleg Cambria, Connah&#39;s Quay, Flintshire, Wales, UK</venue>
+  <notes>Hymn tune contest - 1st Llandudno Town.</notes>
+
+  <created>Nov. 4, 2014, 3 p.m.</created>
+  <last-modified>Nov. 4, 2014, 3:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213139">
+      <result code="1">1</result>
+      <band id="121">Beaumaris Band</band>
+      <conductor id="300993">Gwyn Evans</conductor>
+    </result>
+    
+    <result id="213140">
+      <result code="2">2</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="298321">Frank Boylin</conductor>
+    </result>
+    
+    <result id="213141">
+      <result code="3">3</result>
+      <band id="965">Gwernaffield Band</band>
+      <conductor id="300767">D. Edwards</conductor>
+    </result>
+    
+  </results>
+</contest-event>

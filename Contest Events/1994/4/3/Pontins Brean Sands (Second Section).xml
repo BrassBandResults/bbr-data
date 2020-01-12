@@ -1,0 +1,72 @@
+<contest-event id="9765">
+  <event-date date="1994-4-3">April 3, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins Brean Sands (Second Section)</name>
+  <contest id="546">
+    <name>Pontins Brean Sands (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="83">Pontins (Brean Sands) - Qualifiers</group>
+    <slug>pontins-brean-sands-second-section</slug>
+    <qualifies-for id="71">Pontins (Second Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1634">Nursery Suite</test-piece>
+  </test-piece>
+
+  <venue id="2462">Pontins Holiday Camp, Brean Sands, Somerset</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Jan. 30, 2012, 9:14 p.m.</created>
+  <last-modified>Nov. 29, 2014, 10:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="83778">
+      <result code="1">1</result>
+      <band id="320">Tylorstown Band</band>
+      <conductor id="298259">Kerry Bowden</conductor>
+    </result>
+    
+    <result id="83777">
+      <result code="2">2</result>
+      <band id="538">Solent Concert Band</band>
+      <conductor id="301675">Wesley Garner</conductor>
+    </result>
+    
+    <result id="83774">
+      <result code="3">3</result>
+      <band id="386">Croft Silver Band</band>
+      <conductor id="309969">Graham Sutton</conductor>
+    </result>
+    
+    <result id="83773">
+      <result code="W">Withdrawn</result>
+      <band id="1489">Coleford Town</band>
+      <conductor id="301216">Frank Fidler</conductor>
+    </result>
+    
+    <result id="83775">
+      <result code="W">Withdrawn</result>
+      <band id="1777">Indian Queens Silver</band>
+      <conductor id="310145">J. Taylor</conductor>
+    </result>
+    
+    <result id="83779">
+      <result code="W">Withdrawn</result>
+      <band id="479">Oddfellows Brass</band>
+      <conductor id="298239">Robert Boulter</conductor>
+    </result>
+    
+    <result id="83776">
+      <result code="W">Withdrawn</result>
+      <band id="460">Pontypool Brass</band>
+      <conductor id="301002">John Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

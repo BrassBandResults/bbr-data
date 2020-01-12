@@ -1,0 +1,72 @@
+<contest-event id="13224">
+  <event-date date="1897-6-7">June 7, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypool Contest</name>
+  <contest id="2713">
+    <name>Pontypool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontypool-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1877">Attila</test-piece>
+  </test-piece>
+
+  <venue id="3496">Pontypool, Monmouthshire</venue>
+  <notes>Prizes: £20, £12, £4</notes>
+
+  <created>May 5, 2012, 9:02 a.m.</created>
+  <last-modified>Dec. 5, 2013, 4:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105078">
+      <result code="1">1</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="105079">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="312144">T. Young</conductor>
+    </result>
+    
+    <result id="105080">
+      <result code="3">3</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+    <result id="105083">
+      <result code="">Unknown Result</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105084">
+      <result code="">Unknown Result</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105082">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105081">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

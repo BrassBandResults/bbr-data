@@ -1,0 +1,87 @@
+<contest-event id="31990">
+  <event-date date="1971-11-7">Nov. 7, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wigan Contest (A Section)</name>
+  <contest id="663">
+    <name>Wigan Contest (A Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="153">Wigan Contest</group>
+    <slug>wigan-contest-a-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2658">Drill Hall, Powell Street, Wigan</venue>
+  <notes>Prizes - 1st £30 and trophy, 2nd £12.50p and trophy, 3rd £10 and trophy.
+8 bands competed.</notes>
+
+  <created>May 18, 2015, 3:22 p.m.</created>
+  <last-modified>May 18, 2015, 3:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="227630">
+      <result code="1">1</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="306617">Les Naylor</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+    <result id="227631">
+      <result code="2">2</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+      <test-piece id="391">Prometheus Unbound</test-piece>
+    </result>
+    
+    <result id="227629">
+      <result code="3">3</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="305391">William Lyon</conductor>
+      <test-piece id="70">The Shipbuilders</test-piece>
+    </result>
+    
+    <result id="227627">
+      <result code="4">4</result>
+      <band id="227">Golborne Band</band>
+      <conductor id="311915">W. Wood</conductor>
+      <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+    </result>
+    
+    <result id="227626">
+      <result code="">Unknown Result</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="306885">Harry Oakes</conductor>
+      <test-piece id="24">Sunset Rhapsody</test-piece>
+    </result>
+    
+    <result id="227624">
+      <result code="">Unknown Result</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="301694">Derek Garside</conductor>
+      <test-piece id="631">Song and Dances</test-piece>
+    </result>
+    
+    <result id="227625">
+      <result code="">Unknown Result</result>
+      <band id="4043">Christ Church (Bradford) Silver</band>
+      <conductor id="311228">Ernie Wedgewood</conductor>
+      <test-piece id="417">Coriolanus</test-piece>
+    </result>
+    
+    <result id="227628">
+      <result code="">Unknown Result</result>
+      <band id="2756">Leigh Silver Band</band>
+      <conductor id="299938">D. Crossley</conductor>
+      <test-piece id="1165">Les Preludes [arr. Rimmer]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

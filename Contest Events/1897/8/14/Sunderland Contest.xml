@@ -1,0 +1,76 @@
+<contest-event id="13360">
+  <event-date date="1897-8-14">Aug. 14, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sunderland Contest</name>
+  <contest id="2116">
+    <name>Sunderland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sunderland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1542">Sunderland</venue>
+  <notes>Prizes: £5 and euphonium, £4 and cornet, £2
+March contest: 1. Sunderland East End, 2. South Shields Garibaldi</notes>
+
+  <created>May 10, 2012, 9:27 p.m.</created>
+  <last-modified>May 10, 2012, 9:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105951">
+      <result code="1">1</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="299105">H. Cassel Jnr</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="105952">
+      <result code="2">2</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="305455">John Mackintosh</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="105953">
+      <result code="3">3</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="105954">
+      <result code="">Unknown Result</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105957">
+      <result code="">Unknown Result</result>
+      <band id="6924">South Shields Garibaldi</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105955">
+      <result code="">Unknown Result</result>
+      <band id="6075">Sunderland Operatic</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105956">
+      <result code="">Unknown Result</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

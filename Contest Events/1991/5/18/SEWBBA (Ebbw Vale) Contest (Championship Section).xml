@@ -1,0 +1,48 @@
+<contest-event id="30977">
+  <event-date date="1991-5-18">May 18, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Ebbw Vale) Contest (Championship Section)</name>
+  <contest id="110">
+    <name>SEWBBA (Ebbw Vale) Contest (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="17">SEWBBA (Ebbw Vale) Contest</group>
+    <slug>ebbw-vale-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="166">Trittico</test-piece>
+  </test-piece>
+
+  <venue id="221">Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 4, 2015, 1:54 p.m.</created>
+  <last-modified>Feb. 4, 2015, 1:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="220470">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="309728">Denzil Stephens</conductor>
+    </result>
+    
+    <result id="220471">
+      <result code="2">2</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="311241">Nigel Weeks</conductor>
+    </result>
+    
+    <result id="220472">
+      <result code="3">3</result>
+      <band id="18">BTM Band</band>
+      <conductor id="311407">Melvin White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

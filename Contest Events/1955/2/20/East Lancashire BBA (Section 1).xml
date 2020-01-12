@@ -1,0 +1,49 @@
+<contest-event id="19200">
+  <event-date date="1955-2-20">Feb. 20, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Lancashire BBA (Section 1)</name>
+  <contest id="3954">
+    <name>East Lancashire BBA (Section 1)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>east-lancashire-bba-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1072">Homage to Pharaoh</test-piece>
+  </test-piece>
+
+  <venue id="3249">Public Hall, Haslingden, Lancashire</venue>
+  <notes>  March contest  1st Haslingden Borough, 2nd Nelson.
+  5 bands competed.</notes>
+
+  <created>March 16, 2013, 9:27 a.m.</created>
+  <last-modified>March 16, 2013, 9:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="144351">
+      <result code="1">1</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="305971">J. McQuilton</conductor>
+    </result>
+    
+    <result id="144352">
+      <result code="2">2</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144353">
+      <result code="3">3</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

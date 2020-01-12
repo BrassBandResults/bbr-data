@@ -1,0 +1,64 @@
+<contest-event id="17981">
+  <event-date date="1891-7-25">July 25, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bacup Contest</name>
+  <contest id="2203">
+    <name>Bacup Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bacup-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2319">Galatea Quadrilles</test-piece>
+  </test-piece>
+
+  <venue id="1598">Bacup, Lancashire, England, UK</venue>
+  <notes>Promoted by Bacup Borough Brass Band
+
+Prizes: £12, £7, £4, £2
+
+Best soprano player: Heap Bridge</notes>
+
+  <created>Feb. 7, 2013, 6:28 p.m.</created>
+  <last-modified>Feb. 7, 2013, 6:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135895">
+      <result code="1">1</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135896">
+      <result code="2">2</result>
+      <band id="3529">Bury Public Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135897">
+      <result code="3">3</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135898">
+      <result code="4">4</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="135899">
+      <result code="5">5</result>
+      <band id="6576">Clitheroe Catholic</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

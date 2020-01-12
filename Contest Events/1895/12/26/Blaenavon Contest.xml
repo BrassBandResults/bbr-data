@@ -1,0 +1,54 @@
+<contest-event id="38576">
+  <event-date date="1895-12-26">Dec. 26, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blaenavon Contest</name>
+  <contest id="2668">
+    <name>Blaenavon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blaenavon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1670">Gems of Cambria</test-piece>
+  </test-piece>
+
+  <venue id="156">Workmen&#39;s Hall, Blaenavon</venue>
+  <notes>Prizes: £12, £7, £3</notes>
+
+  <created>Sept. 13, 2017, 9:11 a.m.</created>
+  <last-modified>Sept. 13, 2017, 9:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="279376">
+      <result code="1">1</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="279377">
+      <result code="2">2</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="303213">W. Hodgett</conductor>
+    </result>
+    
+    <result id="279378">
+      <result code="3">3</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="307067">George Palmer</conductor>
+    </result>
+    
+    <result id="279379">
+      <result code="4">4</result>
+      <band id="10759">Abertillery Town</band>
+      <conductor id="319659">Brian Wright</conductor>
+    </result>
+    
+  </results>
+</contest-event>

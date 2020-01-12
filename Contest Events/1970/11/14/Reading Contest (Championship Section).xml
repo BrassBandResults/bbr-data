@@ -1,0 +1,67 @@
+<contest-event id="17757">
+  <event-date date="1970-11-14">Nov. 14, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Championship Section)</name>
+  <contest id="2681">
+    <name>Reading Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-champion-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="197">Tournament for Brass</test-piece>
+  </test-piece>
+
+  <venue id="554">Reading Town Hall, Reading, Berkshire, England, UK</venue>
+  <notes>
+  Best instrumentalist - Graham Coote (cornet) Shaftesbury Crusade.</notes>
+
+  <created>Jan. 29, 2013, 10:09 p.m.</created>
+  <last-modified>March 26, 2013, 11:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="147881">
+      <result code="1">1</result>
+      <band id="1733">Shaftesbury Crusade</band>
+      <conductor id="301926">A. W. Golding</conductor>
+    </result>
+    
+    <result id="147882">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="298379">Eric Bravington</conductor>
+    </result>
+    
+    <result id="147883">
+      <result code="3">3</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="308315">D. Robertson</conductor>
+    </result>
+    
+    <result id="147884">
+      <result code="4">4</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+    </result>
+    
+    <result id="178327">
+      <result code="5">5</result>
+      <band id="4168">Guildford Silver</band>
+      <conductor id="308727">Gordon Saunders</conductor>
+    </result>
+    
+    <result id="178328">
+      <result code="W">Withdrawn</result>
+      <band id="275">John Laing (Hendon) Band</band>
+      <conductor id="306412">Don Morrison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,43 @@
+<contest-event id="22558">
+  <event-date date="1965-1-1">Jan. 1, 1965<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5506">No1.   Spring Song    No.2   Island Heritage</test-piece>
+  </test-piece>
+
+  <venue id="3767">Rockhampton, Queensland, Australia</venue>
+  <notes>No.2 Test points listed under  Own Choice
+Street March points listed under Stage March</notes>
+
+  <created>Aug. 10, 2013, 4:34 p.m.</created>
+  <last-modified>March 13, 2018, 6:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="285606">
+      <result code="1">1</result>
+      <band id="16887">Ipswich Vice Regal Excelsior</band>
+      <conductor id="304416">James Kelly</conductor>
+    </result>
+    
+    <result id="285607">
+      <result code="2">2</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="306519">Keith Munns</conductor>
+    </result>
+    
+  </results>
+</contest-event>

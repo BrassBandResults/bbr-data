@@ -1,0 +1,66 @@
+<contest-event id="39978">
+  <event-date date="1901-5-28">May 28, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwick Contest</name>
+  <contest id="2374">
+    <name>Colwick Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwick-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1903">Colwick Hall, Nottinghamshire</venue>
+  <notes>Promoted by Nottingham Show.
+ 5 bands competed.</notes>
+
+  <created>June 20, 2018, 8:24 p.m.</created>
+  <last-modified>June 20, 2018, 8:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="290570">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="290569">
+      <result code="2">2</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+      <test-piece id="1440">Bayreuth</test-piece>
+    </result>
+    
+    <result id="290568">
+      <result code="3">3</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="290571">
+      <result code="4">4</result>
+      <band id="8434">East Kirkby Temperance</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="290572">
+      <result code="4">4</result>
+      <band id="10852">Grimethorpe Boys</band>
+      <conductor id="313666">George H. Mercer</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

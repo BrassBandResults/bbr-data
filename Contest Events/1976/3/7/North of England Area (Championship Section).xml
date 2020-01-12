@@ -1,0 +1,84 @@
+<contest-event id="16813">
+  <event-date date="1976-3-7">March 7, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="153">Spectrum [Vinter]</test-piece>
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Dec. 4, 2012, 11:53 p.m.</created>
+  <last-modified>Dec. 1, 2014, 1:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="128499">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+    <result id="157959">
+      <result code="2">2</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="304589">Peter Kitson</conductor>
+    </result>
+    
+    <result id="157960">
+      <result code="3">3</result>
+      <band id="921">Northumbria Police Band</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="128500">
+      <result code="4">4</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="311417">Ray White</conductor>
+    </result>
+    
+    <result id="157964">
+      <result code="">Unknown Result</result>
+      <band id="3471">Sunderland International Concert Band</band>
+      <conductor id="298976">Earnest Camsey</conductor>
+    </result>
+    
+    <result id="157963">
+      <result code="">Unknown Result</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="299868">Stan Cranson</conductor>
+    </result>
+    
+    <result id="157962">
+      <result code="">Unknown Result</result>
+      <band id="799">Yarm &amp; District Band</band>
+      <conductor id="306104">C. Midgley</conductor>
+    </result>
+    
+    <result id="157961">
+      <result code="W">Withdrawn</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="307269">Cecil Peacock Jnr</conductor>
+    </result>
+    
+    <result id="157965">
+      <result code="W">Withdrawn</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="17451">
+  <event-date date="1992-5-17">May 17, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Amber Valley Entertainments Contest</name>
+  <contest id="3640">
+    <name>Amber Valley Entertainments Contest</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>amber-valley-entertainments-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="43">An Epic Symphony</test-piece>
+  </test-piece>
+
+  <venue id="2746">Leisure Centre, Alfreton, Derbyshire, England, UK</venue>
+  <notes>Bands played an entertainments programme that included the Heroic March from An Epic Symphony.
+
+Best performance of the test piece: Rhodian Brass
+Best performance by a soloist: Foss Dyke
+Best deportment: Kibworth
+
+Information taken from contest programme</notes>
+
+  <created>Jan. 14, 2013, 6:52 a.m.</created>
+  <last-modified>Jan. 19, 2013, 12:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="132612">
+      <result code="1">1</result>
+      <band id="277">Rhodian Brass</band>
+      <conductor id="306865">Graham O&#39;Connor</conductor>
+    </result>
+    
+    <result id="132613">
+      <result code="2">2</result>
+      <band id="406">Banks Brewery Band</band>
+      <conductor id="305566">David Maplestone</conductor>
+    </result>
+    
+    <result id="132614">
+      <result code="3">3</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="301040">Alan Exley</conductor>
+    </result>
+    
+    <result id="132615">
+      <result code="6">6</result>
+      <band id="120">Kibworth Band</band>
+      <conductor id="303722">David Hutchinson</conductor>
+    </result>
+    
+    <result id="132617">
+      <result code="">Unknown Result</result>
+      <band id="405">Nottingham City Transport Band</band>
+      <conductor id="302861">Martin Heartfield</conductor>
+    </result>
+    
+    <result id="132616">
+      <result code="">Unknown Result</result>
+      <band id="469">Foss Dyke Band</band>
+      <conductor id="308250">Walter Ritchie</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,73 @@
+<contest-event id="10878">
+  <event-date date="2012-4-15">April 15, 2012<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Flemish Open Brass Band Championship (D-Section)</name>
+  <contest id="246">
+    <name>Flemish Open Brass Band Championship (D-Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="37">Flemish Open</group>
+    <slug>flemish-open-brass-band-championship-d-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1953">Fanfare for a Festival</test-piece>
+  </test-piece>
+
+  <venue id="57">Stadsschouwburg Mechelen, Mechelen, Antwerp, Belgium</venue>
+  <notes></notes>
+
+  <created>March 9, 2012, 1:19 p.m.</created>
+  <last-modified>May 11, 2012, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90572">
+      <result code="1">1</result>
+      <band id="7148">St Cecilia Leest</band>
+      <conductor id="312201">Walter van de Venne</conductor>
+      <test-piece id="622">Penlee</test-piece>
+    </result>
+    
+    <result id="90568">
+      <result code="2">2</result>
+      <band id="1562">Brassband de Kempengalm Vlimmeren</band>
+      <conductor id="307407">Yvonne Peters</conductor>
+    </result>
+    
+    <result id="90570">
+      <result code="3">3</result>
+      <band id="7146">Brass Band Lembeek</band>
+      <conductor id="301982">Hans Goris</conductor>
+    </result>
+    
+    <result id="90571">
+      <result code="4">4</result>
+      <band id="7147">Brass Band Bravoer</band>
+      <conductor id="300343">Roger Derongé</conductor>
+    </result>
+    
+    <result id="90573">
+      <result code="5">5</result>
+      <band id="951">Brass Band Düren</band>
+      <conductor id="308819">Martin Schädlich</conductor>
+    </result>
+    
+    <result id="90569">
+      <result code="W">Withdrawn</result>
+      <band id="684">Brassband Retie</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90574">
+      <result code="W">Withdrawn</result>
+      <band id="548">Torbay Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

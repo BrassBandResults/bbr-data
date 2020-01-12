@@ -1,0 +1,72 @@
+<contest-event id="6017">
+  <event-date date="1970-5-9">May 9, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Eastern Area (Championship Section)</name>
+  <contest id="9">
+    <name>Yorkshire Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="397">The Corsair</test-piece>
+  </test-piece>
+
+  <venue id="634">Leeds Town Hall, Leeds, West Yorkshire, England, UK</venue>
+  <notes>7 bands competed.  Black Dyke and Brighouse and Rastrick had prequalified and not required to compete.</notes>
+
+  <created>May 15, 2011, 8:46 p.m.</created>
+  <last-modified>March 16, 2018, 2:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="52945">
+      <result code="1">1</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="310960">Trevor Walmsley</conductor>
+    </result>
+    
+    <result id="52946">
+      <result code="2">2</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="52947">
+      <result code="3">3</result>
+      <band id="25">Hammonds Saltaire</band>
+      <conductor id="311453">Geoffrey Whitham</conductor>
+    </result>
+    
+    <result id="52948">
+      <result code="4">4</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="304100">Ken Johnson</conductor>
+    </result>
+    
+    <result id="52951">
+      <result code="">Unknown Result</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="311945">Ernest Woodhouse</conductor>
+    </result>
+    
+    <result id="52950">
+      <result code="">Unknown Result</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="311945">Ernest Woodhouse</conductor>
+    </result>
+    
+    <result id="52949">
+      <result code="">Unknown Result</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="306994">Robert Oughton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

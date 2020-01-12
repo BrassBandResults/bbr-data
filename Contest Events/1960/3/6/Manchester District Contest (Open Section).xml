@@ -1,0 +1,43 @@
+<contest-event id="27353">
+  <event-date date="1960-3-6">March 6, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Open Section)</name>
+  <contest id="791">
+    <name>Manchester District Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1181">Gallions Reach</test-piece>
+  </test-piece>
+
+  <venue id="1423">Chorlton-cum-Hardy, Manchester</venue>
+  <notes>2 bands only competed.
+8th annual contest</notes>
+
+  <created>May 8, 2014, 2:57 p.m.</created>
+  <last-modified>Dec. 16, 2014, 8:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="197108">
+      <result code="1">1</result>
+      <band id="2012">Mirrlees Works Band</band>
+      <conductor id="297146">Norman Ashcroft</conductor>
+    </result>
+    
+    <result id="197109">
+      <result code="2">2</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="305095">Clifford Lightbown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,42 @@
+<contest-event id="37071">
+  <event-date date="1898-12-16">Dec. 16, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Porth Contest</name>
+  <contest id="2345">
+    <name>Porth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>porth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1866">Caledonia</test-piece>
+  </test-piece>
+
+  <venue id="6406">Tynycymmer House, Porth, Glamorgan</venue>
+  <notes>2 bands competed</notes>
+
+  <created>Feb. 8, 2017, 2:19 p.m.</created>
+  <last-modified>July 23, 2019, 8:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="269226">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">P. Ambler</conductor>
+    </result>
+    
+    <result id="269227">
+      <result code="2">2</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+  </results>
+</contest-event>

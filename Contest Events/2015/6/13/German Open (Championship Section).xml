@@ -1,0 +1,60 @@
+<contest-event id="30464">
+  <event-date date="2015-6-13">June 13, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>German Open (Championship Section)</name>
+  <contest id="4269">
+    <name>German Open (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="424">German Open</group>
+    <slug>german-open-championship-section</slug>
+    
+    <notes></notes>
+    <region id="23">Germany</region>
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5803">Soziokulturelles Zentrum, Grimma, Saxony, Germany</venue>
+  <notes>[aka Kategorie 5 / very heavy]
+
+Set Work: Oceans or Hymn of the Highlands
+
+(Contests part of Landesmusikfest Sachsen)</notes>
+
+  <created>Dec. 1, 2014, 10:01 a.m.</created>
+  <last-modified>Sept. 29, 2015, 12:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="224265">
+      <result code="1">1</result>
+      <band id="955">Brass Band Schwaben</band>
+      <conductor id="305590">Benjamin Markl</conductor>
+      <test-piece id="12">Paganini Variations</test-piece>
+    </result>
+    
+    <result id="224214">
+      <result code="2">2</result>
+      <band id="7467">Brass Band Sachsen</band>
+      <conductor id="310503">Eoin Tonner</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="224242">
+      <result code="3">3</result>
+      <band id="949">Brass Band A7</band>
+      <conductor id="300824">Johnny Ekkelboom</conductor>
+    </result>
+    
+    <result id="224267">
+      <result code="4">4</result>
+      <band id="1235">Amsterdam Brass</band>
+      <conductor id="310839">Pierre Volders</conductor>
+    </result>
+    
+  </results>
+</contest-event>

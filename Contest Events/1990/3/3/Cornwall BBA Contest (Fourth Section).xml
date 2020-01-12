@@ -1,0 +1,48 @@
+<contest-event id="30217">
+  <event-date date="1990-3-3">March 3, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Fourth Section)</name>
+  <contest id="3631">
+    <name>Cornwall BBA Contest (Fourth Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-fourth-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="345">Devon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="2741">Capitol Theatre, St. Austell</venue>
+  <notes>Best instrumentalist - Marie Nute (cornet) Wendron.</notes>
+
+  <created>Nov. 10, 2014, 4:53 p.m.</created>
+  <last-modified>Nov. 10, 2014, 4:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213773">
+      <result code="1">1</result>
+      <band id="1288">Bude Town</band>
+      <conductor id="310003">M. W. Sweet</conductor>
+    </result>
+    
+    <result id="213774">
+      <result code="2">2</result>
+      <band id="2892">Wendron Silver</band>
+      <conductor id="307203">W. J. Pascoe</conductor>
+    </result>
+    
+    <result id="213775">
+      <result code="3">3</result>
+      <band id="2434">Lostwithiel Brass &#39;88</band>
+      <conductor id="302499">Robert Hammett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

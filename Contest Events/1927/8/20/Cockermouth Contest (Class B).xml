@@ -1,0 +1,55 @@
+<contest-event id="24014">
+  <event-date date="1927-8-20">Aug. 20, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cockermouth Contest (Class B)</name>
+  <contest id="4666">
+    <name>Cockermouth Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cockermouth-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2591">Cockermouth, Cumbria, England, UK</venue>
+  <notes>  March contest (Victors Return) - 1st Dalton, 2nd Carlisle.
+  4 bands competed.</notes>
+
+  <created>Sept. 23, 2013, 9:01 p.m.</created>
+  <last-modified>Sept. 23, 2013, 9:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="175487">
+      <result code="1">1</result>
+      <band id="10631">Carlisle Buffalo</band>
+      <conductor id="301139">P. Faughey</conductor>
+    </result>
+    
+    <result id="175488">
+      <result code="2">2</result>
+      <band id="3403">Whitehaven Brass Band</band>
+      <conductor id="313108">Walter Halstead</conductor>
+    </result>
+    
+    <result id="175489">
+      <result code="3">3</result>
+      <band id="934">Dalton Town Band</band>
+      <conductor id="297232">R. Atkinson</conductor>
+    </result>
+    
+    <result id="175490">
+      <result code="4">4</result>
+      <band id="11415">Workington United</band>
+      <conductor id="301129">Joseph Farrington</conductor>
+    </result>
+    
+  </results>
+</contest-event>

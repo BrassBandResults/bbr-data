@@ -1,0 +1,65 @@
+<contest-event id="33840">
+  <event-date date="1966-4-10">April 10, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="192">The Belmont Variations</test-piece>
+  </test-piece>
+
+  <venue id="350">Dubbo, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 30, 2016, 10:33 p.m.</created>
+  <last-modified>April 3, 2016, 9:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="243513">
+      <result code="1">1</result>
+      <band id="12959">Wollongong City</band>
+      <conductor id="317837">Tom Gawn</conductor>
+      <test-piece id="222">Variations on a Ninth</test-piece>
+    </result>
+    
+    <result id="243426">
+      <result code="2">2</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="309334">Charles Smith</conductor>
+      <test-piece id="1440">Bayreuth</test-piece>
+    </result>
+    
+    <result id="243427">
+      <result code="3">3</result>
+      <band id="11213">Bexley District (NSW)</band>
+      <conductor id="297913">Charles Bignall</conductor>
+      <test-piece id="305">Symphony of Marches</test-piece>
+    </result>
+    
+    <result id="243428">
+      <result code="4">4</result>
+      <band id="731">Blacktown City Band</band>
+      <conductor id="309512">William Soames</conductor>
+      <test-piece id="424">Blackfriars</test-piece>
+    </result>
+    
+    <result id="243429">
+      <result code="5">5</result>
+      <band id="12002">Central Coast Brass</band>
+      <conductor id="299467">Alex Clulow</conductor>
+      <test-piece id="1543">Quo Vadis?</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

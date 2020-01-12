@@ -1,0 +1,58 @@
+<contest-event id="560">
+  <event-date date="2009-5-16">May 16, 2009<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deutsche Brass Band Meisterschaft</name>
+  <contest id="144">
+    <name>Deutsche Brass Band Meisterschaft (Höchststufe)</name>
+    <order>4</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="24">Deutsche Brass Band Meisterschaft</group>
+    <slug>dbbm</slug>
+    
+    <notes></notes>
+    <region id="23">Germany</region>
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="58">James Cook, Circumnavigator</test-piece>
+  </test-piece>
+
+  <venue id="1628">Stadttheater, Ingolstadt, Bavaria, Germany</venue>
+  <notes></notes>
+
+  <created>May 18, 2009, 4:19 p.m.</created>
+  <last-modified>Dec. 2, 2014, 8:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="6900">
+      <result code="1">1</result>
+      <band id="715">3ba-brass</band>
+      <conductor id="305749">Franz Matysiak</conductor>
+      <test-piece id="185">Hymn of the Highlands</test-piece>
+    </result>
+    
+    <result id="6902">
+      <result code="2">2</result>
+      <band id="887">Brass Band Oberschwaben-Allgäu</band>
+      <conductor id="308773">Peter Schmid</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+    <result id="6903">
+      <result code="3">3</result>
+      <band id="949">Brass Band A7</band>
+      <conductor id="300824">Johnny Ekkelboom</conductor>
+      <test-piece id="258">Renaissance</test-piece>
+    </result>
+    
+    <result id="6904">
+      <result code="4">4</result>
+      <band id="888">Folkwang Brass Band</band>
+      <conductor id="308778">Heinrich Schmidt</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

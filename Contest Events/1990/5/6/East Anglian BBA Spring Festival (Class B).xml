@@ -1,0 +1,49 @@
+<contest-event id="30254">
+  <event-date date="1990-5-6">May 6, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class B)</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="206">Four Preludes</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune contest - 1st RBL Spalding.
+52nd annual contest</notes>
+
+  <created>Nov. 13, 2014, 11:28 a.m.</created>
+  <last-modified>Nov. 13, 2014, 11:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="214062">
+      <result code="1">1</result>
+      <band id="864">Spalding Brass</band>
+      <conductor id="303792">Steve Ingham</conductor>
+    </result>
+    
+    <result id="214063">
+      <result code="2">2</result>
+      <band id="1344">Boxted Methodist Silver</band>
+      <conductor id="304497">W. M. Kettle</conductor>
+    </result>
+    
+    <result id="214064">
+      <result code="3">3</result>
+      <band id="838">Somersham Town Band</band>
+      <conductor id="299185">David Chambers</conductor>
+    </result>
+    
+  </results>
+</contest-event>

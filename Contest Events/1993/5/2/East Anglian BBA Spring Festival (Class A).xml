@@ -1,0 +1,67 @@
+<contest-event id="31168">
+  <event-date date="1993-5-2">May 2, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class A)</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="220">Music for a Festival</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune - Wrentham
+6 bands competed.</notes>
+
+  <created>Feb. 23, 2015, 1:44 p.m.</created>
+  <last-modified>June 13, 2015, 9:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="222037">
+      <result code="1">1</result>
+      <band id="1531">Wrentham Band</band>
+      <conductor id="312167">Marilyn Zipfel</conductor>
+    </result>
+    
+    <result id="222038">
+      <result code="2">2</result>
+      <band id="864">Spalding Brass</band>
+      <conductor id="303792">Steve Ingham</conductor>
+    </result>
+    
+    <result id="222039">
+      <result code="3">3</result>
+      <band id="2472">Wicken Coronation Band</band>
+      <conductor id="298238">Ray Boulter</conductor>
+    </result>
+    
+    <result id="230657">
+      <result code="">Unknown Result</result>
+      <band id="840">Dereham Band</band>
+      <conductor id="301946">Alistair Goodall</conductor>
+    </result>
+    
+    <result id="230658">
+      <result code="">Unknown Result</result>
+      <band id="637">Hilgay Silver</band>
+      <conductor id="299370">Andrew Clarke</conductor>
+    </result>
+    
+    <result id="230659">
+      <result code="">Unknown Result</result>
+      <band id="3039">Norwich Area Brass</band>
+      <conductor id="309555">Paul Speed</conductor>
+    </result>
+    
+  </results>
+</contest-event>

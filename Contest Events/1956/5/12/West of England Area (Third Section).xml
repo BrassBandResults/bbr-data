@@ -1,0 +1,54 @@
+<contest-event id="20340">
+  <event-date date="1956-5-12">May 12, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Third Section)</name>
+  <contest id="50">
+    <name>West of England Area (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="899">Normandy</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes></notes>
+
+  <created>April 6, 2013, 1:06 p.m.</created>
+  <last-modified>April 10, 2013, 3:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150797">
+      <result code="1">1</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="297521">Neville Barnett</conductor>
+    </result>
+    
+    <result id="151601">
+      <result code="2">2</result>
+      <band id="5778">Paulton Silver</band>
+      <conductor id="308914">Herbert Sevier</conductor>
+    </result>
+    
+    <result id="151602">
+      <result code="3">3</result>
+      <band id="567">Bideford Town Band</band>
+      <conductor id="298663">A. R. Bryant</conductor>
+    </result>
+    
+    <result id="151603">
+      <result code="3">3</result>
+      <band id="2078">City of Hereford</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

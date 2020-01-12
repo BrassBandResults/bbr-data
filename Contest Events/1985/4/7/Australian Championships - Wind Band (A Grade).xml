@@ -1,0 +1,65 @@
+<contest-event id="37828">
+  <event-date date="1985-4-7">April 7, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (A Grade)</name>
+  <contest id="6138">
+    <name>Australian Championships - Wind Band (A Grade)</name>
+    <order>0</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-a-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="4208">Canticle Of The Creatures</test-piece>
+  </test-piece>
+
+  <venue id="6513">Melbourne Concert Hall, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>May 4, 2017, 1:20 a.m.</created>
+  <last-modified>May 5, 2017, 6:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="273499">
+      <result code="1">1</result>
+      <band id="15136">South Australia C A E  (SA)</band>
+      <conductor id="316473">Harold Hall</conductor>
+      <test-piece id="4734">Prelude &amp; Paragrams</test-piece>
+    </result>
+    
+    <result id="273500">
+      <result code="2">2</result>
+      <band id="15045">Balwyn Youth Concert  (Vic)</band>
+      <conductor id="316491">George Logie - Smith</conductor>
+      <test-piece id="559">Othello</test-piece>
+    </result>
+    
+    <result id="273501">
+      <result code="3">3</result>
+      <band id="15353">Hills Music Academy  (NSW)</band>
+      <conductor id="316492">Tom Cooper</conductor>
+      <test-piece id="4736">Die  Fledermaus</test-piece>
+    </result>
+    
+    <result id="273502">
+      <result code="4">4</result>
+      <band id="15097">Canberra Youth Orchestra Wind Ensemble  (ACT)</band>
+      <conductor id="316493">Paul Plunkett</conductor>
+      <test-piece id="4240">West Side Story Selection</test-piece>
+    </result>
+    
+    <result id="273503">
+      <result code="5">5</result>
+      <band id="15032">Lane Cove Municipal (NSW)</band>
+      <conductor id="305901">Brian McGuinness</conductor>
+      <test-piece id="574">The Force of Destiny (La Forza del Destino) - Overture [arr. F. Wright]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

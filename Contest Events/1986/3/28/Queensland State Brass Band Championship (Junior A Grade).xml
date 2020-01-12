@@ -1,0 +1,42 @@
+<contest-event id="42400">
+  <event-date date="1986-3-28">March 28, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (Junior A Grade)</name>
+  <contest id="1711">
+    <name>Queensland State Brass Band Championship (Junior A Grade)</name>
+    <order>50</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-1711</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="793">Divertimento [Ball]</test-piece>
+  </test-piece>
+
+  <venue id="7151">Warwick Town Hall, Warwick, Queensland, Australia</venue>
+  <notes>Only information available</notes>
+
+  <created>July 16, 2019, 12:34 a.m.</created>
+  <last-modified>July 16, 2019, 12:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311242">
+      <result code="1">1</result>
+      <band id="18027">Brisbane Brass Juniors</band>
+      <conductor id="297466">Bill Barker</conductor>
+    </result>
+    
+    <result id="311243">
+      <result code="2">2</result>
+      <band id="13324">Sunnybank and District Juniors</band>
+      <conductor id="301927">Michael Golding</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,84 @@
+<contest-event id="33842">
+  <event-date date="1968-11-2">Nov. 2, 1968<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="22">Journey into Freedom</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 31, 2016, 5:13 a.m.</created>
+  <last-modified>March 27, 2018, 3:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="243439">
+      <result code="1">1</result>
+      <band id="13087">Melbourne Fire Brigade</band>
+      <conductor id="309170">Mervyn Simpson</conductor>
+    </result>
+    
+    <result id="243440">
+      <result code="2">2</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="307467">Harry Philpott</conductor>
+    </result>
+    
+    <result id="243441">
+      <result code="3">3</result>
+      <band id="698">Kensington &amp; Norwood Brass</band>
+      <conductor id="299772">Phil Couchman</conductor>
+    </result>
+    
+    <result id="243442">
+      <result code="4">4</result>
+      <band id="2178">Tanunda Town Band</band>
+      <conductor id="304068">Galvin John</conductor>
+    </result>
+    
+    <result id="243443">
+      <result code="5">5</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+    <result id="243444">
+      <result code="6">6</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="309334">Charles Smith</conductor>
+    </result>
+    
+    <result id="243445">
+      <result code="7">7</result>
+      <band id="2181">Port Adelaide City Band</band>
+      <conductor id="309762">Ken Stevens</conductor>
+    </result>
+    
+    <result id="243460">
+      <result code="8">8</result>
+      <band id="2179">St. John Ambulance Band [Adelaide]</band>
+      <conductor id="303014">Harold Hewson</conductor>
+    </result>
+    
+    <result id="243447">
+      <result code="9">9</result>
+      <band id="2180">Glenelg Brass Band</band>
+      <conductor id="318021">Don Fleming</conductor>
+    </result>
+    
+  </results>
+</contest-event>

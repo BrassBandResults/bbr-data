@@ -1,0 +1,104 @@
+<contest-event id="12210">
+  <event-date date="1899-4-3">April 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnet Contest</name>
+  <contest id="2142">
+    <name>Barnet Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnet-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1558">Barnet, Borough of Barnet, Greater London, England, UK</venue>
+  <notes>1st prize £7.7s. and cornet valued at £16.16s.
+  2nd prize £4.4s. and Trombone valued at £7.7s.
+  3rd prize £4.4s.
+  4th prize £3.3s.
+  5th prize £2.2s.
+9 bands competed.</notes>
+
+  <created>April 10, 2012, 1:59 p.m.</created>
+  <last-modified>July 26, 2019, 9:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98003">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98004">
+      <result code="2">2</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98005">
+      <result code="3">3</result>
+      <band id="8178">Walthamstow Town Silver</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98006">
+      <result code="4">4</result>
+      <band id="7770">St Alban&#39;s Abbey</band>
+      <conductor id="312145">Thomas Young</conductor>
+      <test-piece id="2780">Moses in Egypt [arr. Round]</test-piece>
+    </result>
+    
+    <result id="98007">
+      <result code="5">5</result>
+      <band id="7771">Northfleet Temperance</band>
+      <conductor id="297347">W. Baines</conductor>
+      <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+    </result>
+    
+    <result id="98008">
+      <result code="">Unknown Result</result>
+      <band id="6871">Ilford Horns Temperance</band>
+      <conductor id="311781">R. Wilson</conductor>
+      <test-piece id="2780">Moses in Egypt [arr. Round]</test-piece>
+    </result>
+    
+    <result id="98009">
+      <result code="">Unknown Result</result>
+      <band id="7772">St. Pancras Midland Railway</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+      <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+    </result>
+    
+    <result id="98011">
+      <result code="">Unknown Result</result>
+      <band id="622">Watford</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98012">
+      <result code="">Unknown Result</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="305585">R. J. Marke</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98010">
+      <result code="W">Withdrawn</result>
+      <band id="622">Watford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

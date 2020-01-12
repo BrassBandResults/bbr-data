@@ -1,0 +1,55 @@
+<contest-event id="30875">
+  <event-date date="1992-5-10">May 10, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North East Midlands Contest (Third Section)</name>
+  <contest id="119">
+    <name>North East Midlands Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="12">North East Midlands Contest</group>
+    <slug>north-east-midlands-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5768">Leisure Centre, Dronfield, Derbyshire</venue>
+  <notes>Prizes - 1st £100, 2nd £60.
+2 bands competed.</notes>
+
+  <created>Jan. 29, 2015, 11:43 p.m.</created>
+  <last-modified>March 28, 2017, 3:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="220035">
+      <result code="1">1</result>
+      <band id="2695">Heage Band</band>
+      <conductor id="309872">Tom Street</conductor>
+    </result>
+    
+    <result id="220036">
+      <result code="2">2</result>
+      <band id="3157">Ashover Brass Band</band>
+      <conductor id="309248">J. Slater</conductor>
+    </result>
+    
+    <result id="272356">
+      <result code="W">Withdrawn</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="310787">Ken Vernon</conductor>
+    </result>
+    
+    <result id="272357">
+      <result code="W">Withdrawn</result>
+      <band id="512">Pleasley Colliery Welfare Band</band>
+      <conductor id="297079">Seth Appleton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

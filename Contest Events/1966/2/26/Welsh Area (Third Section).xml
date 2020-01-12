@@ -1,0 +1,48 @@
+<contest-event id="19290">
+  <event-date date="1966-2-26">Feb. 26, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Third Section)</name>
+  <contest id="42">
+    <name>Welsh Area (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="526">The English Maiden</test-piece>
+  </test-piece>
+
+  <venue id="813">Penyrheol Community Centre, Caerphilly</venue>
+  <notes></notes>
+
+  <created>March 18, 2013, 6 p.m.</created>
+  <last-modified>March 18, 2013, 6 p.m.</last-modified>
+
+  <results>
+    
+    <result id="145112">
+      <result code="1">1</result>
+      <band id="320">Tylorstown Band</band>
+      <conductor id="301178">Kenneth Howard Feltham</conductor>
+    </result>
+    
+    <result id="145113">
+      <result code="2">2</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+    <result id="145114">
+      <result code="3">3</result>
+      <band id="5567">6th Battalion Welsh Regiment T.A.</band>
+      <conductor id="305054">G. Lewis</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,42 @@
+<contest-event id="22115">
+  <event-date date="1956-10-13">Oct. 13, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Brass Band Association March Contest (Class B)</name>
+  <contest id="696">
+    <name>North Wales Brass Band Association March Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="111">North Wales Brass Band Association March Contest</group>
+    <slug>north-wales-bba-march-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3530">March: Whitehall</test-piece>
+  </test-piece>
+
+  <venue id="42">Pavilion Theatre, Rhyl</venue>
+  <notes></notes>
+
+  <created>July 2, 2013, 1:13 p.m.</created>
+  <last-modified>Feb. 6, 2016, 2:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164275">
+      <result code="1">1</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="305152">Reg Little</conductor>
+    </result>
+    
+    <result id="164276">
+      <result code="2">2</result>
+      <band id="10632">Llay Welfare Institute</band>
+      <conductor id="300480">J. Donlan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

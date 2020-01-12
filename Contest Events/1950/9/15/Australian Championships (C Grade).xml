@@ -1,0 +1,65 @@
+<contest-event id="35219">
+  <event-date date="1950-9-15">Sept. 15, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="811">Three Brass Band Studies</test-piece>
+  </test-piece>
+
+  <venue id="314">Adelaide, South Australia, Australia</venue>
+  <notes>Championship include
+Test &amp; Own Choice Selections
+Oval March  points listed under Sacred
+Quickstep March   points listed under Stage March
+
+The scheduled 1949 Australian championships event at Launceston, Tasmania was postponed due to an outbreak of poliomyelitis. It was rescheduled for Easter, 10th April 1950. As a result two Australian championship events were held in 1950; this was the designated 1950 event.</notes>
+
+  <created>May 2, 2016, 12:53 a.m.</created>
+  <last-modified>March 15, 2018, 5:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253607">
+      <result code="1">1</result>
+      <band id="8987">South Australian Police</band>
+      <conductor id="307860">Alex Radcliffe</conductor>
+    </result>
+    
+    <result id="253608">
+      <result code="2">2</result>
+      <band id="2251">Riverland Brass</band>
+      <conductor id="303410">Dave Hopkins</conductor>
+    </result>
+    
+    <result id="253609">
+      <result code="3">3</result>
+      <band id="13793">Williamstown City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="253610">
+      <result code="4">4</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="310562">Albert Trembath</conductor>
+    </result>
+    
+    <result id="253611">
+      <result code="5">5</result>
+      <band id="2169">Melbourne Advent Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

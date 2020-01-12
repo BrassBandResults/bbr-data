@@ -1,0 +1,48 @@
+<contest-event id="11958">
+  <event-date date="1894-3-5">March 5, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abertillery Contest</name>
+  <contest id="770">
+    <name>Abertillery Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abertillery</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1080">Rossini [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1859">Abertillery, Blaenau Gwent, Wales, UK</venue>
+  <notes>4 bands competed</notes>
+
+  <created>April 8, 2012, 3:51 p.m.</created>
+  <last-modified>May 17, 2012, 9:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="96223">
+      <result code="1">1</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="96224">
+      <result code="2">2</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="96225">
+      <result code="3">3</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

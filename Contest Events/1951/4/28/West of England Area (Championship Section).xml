@@ -1,0 +1,78 @@
+<contest-event id="20334">
+  <event-date date="1951-4-28">April 28, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Championship Section)</name>
+  <contest id="38">
+    <name>West of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1190">Atlantic [Wright]</test-piece>
+  </test-piece>
+
+  <venue id="297">Civic Hall, Exeter</venue>
+  <notes>Camborne were barred from the qualifying contest after a hat-trick, receiving automatic qualification to the final.</notes>
+
+  <created>April 6, 2013, 1:01 p.m.</created>
+  <last-modified>Aug. 12, 2013, 9:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="150791">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="192857">
+      <result code="2">2</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="170921">
+      <result code="3">3</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="192859">
+      <result code="4">4</result>
+      <band id="4496">Truro City</band>
+      <conductor id="306403">S. Morris</conductor>
+    </result>
+    
+    <result id="170918">
+      <result code="">Unknown Result</result>
+      <band id="10192">Bristol Aeroplane Company</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170920">
+      <result code="">Unknown Result</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170919">
+      <result code="">Unknown Result</result>
+      <band id="8342">City of Gloucester Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192858">
+      <result code="">Unknown Result</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

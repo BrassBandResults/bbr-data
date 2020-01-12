@@ -1,0 +1,65 @@
+<contest-event id="40294">
+  <event-date date="1908-2-22">Feb. 22, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class C)</name>
+  <contest id="2114">
+    <name>Pontypridd Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3085">Ynys-Angharad Park, Pontypridd, Glamorgan</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Sept. 21, 2018, 10:41 a.m.</created>
+  <last-modified>Sept. 21, 2018, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293167">
+      <result code="1">1</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305204">J. Locker</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="293166">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310282">H. S. Thomas</conductor>
+      <test-piece id="1830">Songs of Handel</test-piece>
+    </result>
+    
+    <result id="293165">
+      <result code="3">3</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+      <test-piece id="1645">Songs of Ireland</test-piece>
+    </result>
+    
+    <result id="293163">
+      <result code="">Unknown Result</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="313909">W. Pogmore</conductor>
+      <test-piece id="1640">Llewellyn</test-piece>
+    </result>
+    
+    <result id="293164">
+      <result code="">Unknown Result</result>
+      <band id="8043">Maesteg Hibernian</band>
+      <conductor id="297347">W. Baines</conductor>
+      <test-piece id="1739">Songs of Balfe</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

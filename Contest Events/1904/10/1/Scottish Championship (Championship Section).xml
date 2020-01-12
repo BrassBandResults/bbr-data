@@ -1,0 +1,84 @@
+<contest-event id="7423">
+  <event-date date="1904-10-1">Oct. 1, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Championship Section)</name>
+  <contest id="37">
+    <name>Scottish Championship (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1323">Ivanhoe</test-piece>
+  </test-piece>
+
+  <venue id="259">Waverley Market, Edinburgh</venue>
+  <notes>9 bands played.</notes>
+
+  <created>Oct. 3, 2011, 10:04 p.m.</created>
+  <last-modified>Sept. 3, 2018, 8:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="66908">
+      <result code="1">1</result>
+      <band id="4533">Polton Mills</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="66909">
+      <result code="2">2</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="66910">
+      <result code="3">3</result>
+      <band id="11318">Larkhall Public</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+    </result>
+    
+    <result id="66911">
+      <result code="4">4</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="172304">
+      <result code="5">5</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="172303">
+      <result code="">Unknown Result</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="304334">William Kane</conductor>
+    </result>
+    
+    <result id="172305">
+      <result code="">Unknown Result</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="172306">
+      <result code="">Unknown Result</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+    </result>
+    
+    <result id="172307">
+      <result code="">Unknown Result</result>
+      <band id="5613">Portobello</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

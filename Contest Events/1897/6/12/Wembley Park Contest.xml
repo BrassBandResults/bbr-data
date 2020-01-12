@@ -1,0 +1,67 @@
+<contest-event id="13239">
+  <event-date date="1897-6-12">June 12, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wembley Park Contest</name>
+  <contest id="2780">
+    <name>Wembley Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wembley-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2135">Wembley Park, Brent, Greater London, England, UK</venue>
+  <notes>Prizes: £12, £7, £4, £2
+5 bands competed</notes>
+
+  <created>May 5, 2012, 2:50 p.m.</created>
+  <last-modified>July 8, 2019, 1:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105204">
+      <result code="1">1</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="105203">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+    <result id="105205">
+      <result code="3">3</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="105206">
+      <result code="4">4</result>
+      <band id="8273">Cricklewood Midland Loco&#39;</band>
+      <conductor id="306233">H. T. Money</conductor>
+    </result>
+    
+    <result id="105207">
+      <result code="">Unknown Result</result>
+      <band id="6328">Walthamstow Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151092">
+      <result code="D">Disqualified</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

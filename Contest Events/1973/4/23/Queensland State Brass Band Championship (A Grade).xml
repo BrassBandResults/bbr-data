@@ -1,0 +1,62 @@
+<contest-event id="39580">
+  <event-date date="1973-4-23">April 23, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="980">Embassy Suite</test-piece>
+  </test-piece>
+
+  <venue id="3767">Rockhampton, Queensland, Australia</venue>
+  <notes>All Music points included for Championship aggregate
+
+Street March / Diagram March  music points listed under Stage March</notes>
+
+  <created>May 6, 2018, 11:03 p.m.</created>
+  <last-modified>May 4, 2019, 12:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="286992">
+      <result code="1">1</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310266">Colin Thomas</conductor>
+    </result>
+    
+    <result id="286993">
+      <result code="2">2</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+    <result id="286994">
+      <result code="3">3</result>
+      <band id="12960">Sandgate District Citizen</band>
+      <conductor id="299154">Bob Cerezo</conductor>
+    </result>
+    
+    <result id="286995">
+      <result code="4">4</result>
+      <band id="18274">Walkers Engineering  - Maryborough</band>
+      <conductor id="302317">James Gummow</conductor>
+    </result>
+    
+    <result id="286996">
+      <result code="5">5</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="306519">Keith Munns</conductor>
+    </result>
+    
+  </results>
+</contest-event>

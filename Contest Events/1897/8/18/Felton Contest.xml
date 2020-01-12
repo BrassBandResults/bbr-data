@@ -1,0 +1,62 @@
+<contest-event id="13361">
+  <event-date date="1897-8-18">Aug. 18, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Felton Contest</name>
+  <contest id="2741">
+    <name>Felton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>felton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1936">Victorian Melodies</test-piece>
+  </test-piece>
+
+  <venue id="2096">Felton, Northumberland</venue>
+  <notes>Prizes: £18, £10, £4
+March contest: 1. Consett, 2. Spencer&#39;s
+5 bands competed</notes>
+
+  <created>May 10, 2012, 9:28 p.m.</created>
+  <last-modified>July 10, 2019, 9:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105958">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="105959">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="105960">
+      <result code="3">3</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="105961">
+      <result code="3">3</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="105962">
+      <result code="">Unknown Result</result>
+      <band id="4512">Barrington</band>
+      <conductor id="310181">R. D. Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

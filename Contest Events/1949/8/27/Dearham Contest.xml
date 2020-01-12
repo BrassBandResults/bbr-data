@@ -1,0 +1,62 @@
+<contest-event id="41876">
+  <event-date date="1949-8-27">Aug. 27, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest</name>
+  <contest id="2332">
+    <name>Dearham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>March contest - 1st Farnworth, 2nd Workington.
+Prizes - 1st £20 and cup, 2nd £12.10s., 3rd £7.10s., 4th  £5.
+</notes>
+
+  <created>March 1, 2019, 4:24 p.m.</created>
+  <last-modified>March 2, 2019, 7:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="305063">
+      <result code="1">1</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305064">
+      <result code="2">2</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305065">
+      <result code="3">3</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305066">
+      <result code="4">4</result>
+      <band id="2597">Lowca Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305076">
+      <result code="5">5</result>
+      <band id="397">Hesketh Bank Band</band>
+      <conductor id="303596">J. A. Hughes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

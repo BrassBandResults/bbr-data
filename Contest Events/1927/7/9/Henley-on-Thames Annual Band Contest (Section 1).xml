@@ -1,0 +1,56 @@
+<contest-event id="37618">
+  <event-date date="1927-7-9">July 9, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Henley-on-Thames Annual Band Contest (Section 1)</name>
+  <contest id="3866">
+    <name>Henley-on-Thames Annual Band Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="378">Henley-on-Thames Annual Band Contest</group>
+    <slug>henley-on-thames-annual-band-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1304">Gounod [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3091">Normanstead, Henley</venue>
+  <notes>4th annual contest
+March contest - 1st Hanwell, 2nd Great Central.
+4 bands competed.</notes>
+
+  <created>March 22, 2017, 1:20 p.m.</created>
+  <last-modified>Nov. 21, 2018, 3:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="272130">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+    <result id="272132">
+      <result code="2">2</result>
+      <band id="6343">Great Central and Met Railway</band>
+      <conductor id="309469">W. A.  Smith</conductor>
+    </result>
+    
+    <result id="272131">
+      <result code="2">2</result>
+      <band id="1215">Morris Motors Band</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="300318">
+      <result code="4">4</result>
+      <band id="6604">Hampstead Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

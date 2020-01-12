@@ -1,0 +1,61 @@
+<contest-event id="32669">
+  <event-date date="2000-9-24">Sept. 24, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Buxton Entertainment Contest</name>
+  <contest id="433">
+    <name>Buxton Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>buxton-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="38">Octagon Theatre, Pavilion Gardens, Buxton</venue>
+  <notes>Best section 3 band - Silk Brass.
+Best section 4 band - Uppermill.</notes>
+
+  <created>Sept. 9, 2015, 10:32 a.m.</created>
+  <last-modified>Sept. 9, 2015, 10:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="236119">
+      <result code="1">1</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="236120">
+      <result code="2">2</result>
+      <band id="477">Shirland Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="236121">
+      <result code="3">3</result>
+      <band id="130">Wakefield Metropolitan Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="236122">
+      <result code="">Unknown Result</result>
+      <band id="182">Silk Brass</band>
+      <conductor id="305456">Ken Mackintosh</conductor>
+    </result>
+    
+    <result id="236123">
+      <result code="">Unknown Result</result>
+      <band id="195">Uppermill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

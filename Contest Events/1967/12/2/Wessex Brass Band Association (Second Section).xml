@@ -1,0 +1,86 @@
+<contest-event id="20115">
+  <event-date date="1967-12-2">Dec. 2, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Second Section)</name>
+  <contest id="171">
+    <name>Wessex Brass Band Association (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2830">Romeo &amp; Juliet [Gounod arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="261">Winter Gardens, Bournemouth, Dorset, England, UK</venue>
+  <notes>  March contest - 1st Crewkerne, 2nd Shrewton, 3rd Shaftesbury.
+  12th annual contest.
+  8 bands competed.</notes>
+
+  <created>March 30, 2013, 3:49 p.m.</created>
+  <last-modified>July 8, 2014, 7:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="149628">
+      <result code="1">1</result>
+      <band id="3000">Crewkerne Town Band</band>
+      <conductor id="298556">Stanley C. Brooks</conductor>
+    </result>
+    
+    <result id="149629">
+      <result code="2">2</result>
+      <band id="8613">Burley Silver</band>
+      <conductor id="299962">S. E. Crutcher</conductor>
+    </result>
+    
+    <result id="149630">
+      <result code="3">3</result>
+      <band id="8378">Beaminster Brass</band>
+      <conductor id="305148">C. E. Little</conductor>
+    </result>
+    
+    <result id="206664">
+      <result code="4">4</result>
+      <band id="1263">Calne Silver Band</band>
+      <conductor id="309592">C. Spink</conductor>
+    </result>
+    
+    <result id="206665">
+      <result code="">Unknown Result</result>
+      <band id="10503">Handley Silver</band>
+      <conductor id="304315">D. Judd</conductor>
+    </result>
+    
+    <result id="149632">
+      <result code="">Unknown Result</result>
+      <band id="1035">Shaftesbury Town Silver Band</band>
+      <conductor id="300376">R. C. Dicker</conductor>
+    </result>
+    
+    <result id="149631">
+      <result code="">Unknown Result</result>
+      <band id="325">Shrewton Silver</band>
+      <conductor id="311848">E. G. Withers</conductor>
+    </result>
+    
+    <result id="206666">
+      <result code="">Unknown Result</result>
+      <band id="3973">Lockerley Silver Band</band>
+      <conductor id="309812">H. J. Stockwell</conductor>
+    </result>
+    
+    <result id="206667">
+      <result code="W">Withdrawn</result>
+      <band id="1493">Portsmouth City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

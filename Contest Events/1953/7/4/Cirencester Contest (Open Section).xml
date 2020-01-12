@@ -1,0 +1,57 @@
+<contest-event id="18612">
+  <event-date date="1953-7-4">July 4, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cirencester Contest (Open Section)</name>
+  <contest id="3891">
+    <name>Cirencester Contest (Open Section)</name>
+    <order>210</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="400">Cirencester Contest</group>
+    <slug>cirencester-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="798">King Lear</test-piece>
+  </test-piece>
+
+  <venue id="3112">Cirencester, Gloucestershire, England, UK</venue>
+  <notes>March contest  1st Mid Rhondda, 2nd tie between Drybrook and Tylorstown.
+Prizes - 1st £50, 2nd £30, 3rd £20.
+
+3 bands competed</notes>
+
+  <created>Feb. 26, 2013, 12:59 p.m.</created>
+  <last-modified>March 29, 2019, 10:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="139895">
+      <result code="1">1</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="307734">Fred Prior</conductor>
+    </result>
+    
+    <result id="139896">
+      <result code="2">2</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="139897">
+      <result code="3">3</result>
+      <band id="320">Tylorstown Band</band>
+      <conductor id="300082">E. G. Daniels</conductor>
+    </result>
+    
+    <result id="305831">
+      <result code="W">Withdrawn</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

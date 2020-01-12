@@ -1,0 +1,69 @@
+<contest-event id="19939">
+  <event-date date="1937-6-12">June 12, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oxfordshire &amp; District Contest</name>
+  <contest id="3231">
+    <name>Oxfordshire &amp; District Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="390">Oxfordshire &amp; District Contest</group>
+    <slug>oxfordshire-district-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1073">The Call of Youth</test-piece>
+  </test-piece>
+
+  <venue id="2837">Botley Road Recreation Ground, Oxford, Oxfordshire, England, UK</venue>
+  <notes>Only section
+
+  March contest - 1st Headington, 2nd Spring Gardens, 3rd High Wycombe.
+  6 bands competed.</notes>
+
+  <created>March 29, 2013, 9:40 a.m.</created>
+  <last-modified>Nov. 16, 2013, 9:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="183013">
+      <result code="1">1</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="304002">R. O. G. Jenkins</conductor>
+    </result>
+    
+    <result id="183014">
+      <result code="2">2</result>
+      <band id="2149">Reading Spring Gardens Brass Band</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="183015">
+      <result code="3">3</result>
+      <band id="2737">Kidlington Silver</band>
+      <conductor id="302241">J. G. Griffiths</conductor>
+    </result>
+    
+    <result id="183016">
+      <result code="4">4</result>
+      <band id="10196">High Wycombe Borough</band>
+      <conductor id="307166">A. G. Parslow</conductor>
+    </result>
+    
+    <result id="183017">
+      <result code="">Unknown Result</result>
+      <band id="10831">Langford and Filkins</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183018">
+      <result code="">Unknown Result</result>
+      <band id="1864">Witney Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

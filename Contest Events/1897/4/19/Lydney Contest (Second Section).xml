@@ -1,0 +1,61 @@
+<contest-event id="13171">
+  <event-date date="1897-4-19">April 19, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest (Second Section)</name>
+  <contest id="2769">
+    <name>Lydney Contest (Second Section)</name>
+    <order>2</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="480">Lydney Contest</group>
+    <slug>lydney-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1917">Titania</test-piece>
+  </test-piece>
+
+  <venue id="1846">Lydney, Gloucestershire</venue>
+  <notes>Prizes: £6 6s and flugel, £3 3s, £2 2s
+5 bands competed</notes>
+
+  <created>May 3, 2012, 10:39 p.m.</created>
+  <last-modified>July 6, 2019, 9:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104616">
+      <result code="1">1</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="104617">
+      <result code="2">2</result>
+      <band id="8270">Lydney Excelsior</band>
+      <conductor id="308224">R. Rimmer</conductor>
+    </result>
+    
+    <result id="104618">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="302393">E. Hales</conductor>
+    </result>
+    
+    <result id="150578">
+      <result code="">Unknown Result</result>
+      <band id="10763">Cinderford New Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="150577">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="309276">C.B. Smale</conductor>
+    </result>
+    
+  </results>
+</contest-event>

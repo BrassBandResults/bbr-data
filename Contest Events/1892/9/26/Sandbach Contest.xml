@@ -1,0 +1,63 @@
+<contest-event id="13286">
+  <event-date date="1892-9-26">Sept. 26, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sandbach Contest</name>
+  <contest id="2373">
+    <name>Sandbach Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sandbach-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1727">Sandbach, Cheshire, England, UK</venue>
+  <notes>9th Annual Contest - Promoted by Sandbach Volunteer Band
+
+Prizes: £20, £12, £5, £2
+Quickstep: 1. Besses, 2. Willenhall</notes>
+
+  <created>May 8, 2012, 10:54 a.m.</created>
+  <last-modified>Sept. 18, 2016, 9:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105531">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="137786">
+      <result code="2">2</result>
+      <band id="6601">Congleton Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137787">
+      <result code="3">3</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137788">
+      <result code="4">4</result>
+      <band id="2788">Leek British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137789">
+      <result code="">Unknown Result</result>
+      <band id="5989">Willenhall Britannia Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

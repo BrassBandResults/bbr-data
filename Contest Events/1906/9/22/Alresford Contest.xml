@@ -1,0 +1,48 @@
+<contest-event id="11107">
+  <event-date date="1906-9-22">Sept. 22, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Alresford Contest</name>
+  <contest id="2173">
+    <name>Alresford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>alresford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1421">The Pirates of Penzance (selection)</test-piece>
+  </test-piece>
+
+  <venue id="1584">Alresford, Hampshire</venue>
+  <notes></notes>
+
+  <created>March 13, 2012, 4:36 p.m.</created>
+  <last-modified>March 13, 2012, 4:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="91914">
+      <result code="1">1</result>
+      <band id="7211">Alresford Town</band>
+      <conductor id="301737">F. Gentle</conductor>
+    </result>
+    
+    <result id="91915">
+      <result code="2">2</result>
+      <band id="7212">Medstead</band>
+      <conductor id="299558">T. Collister</conductor>
+    </result>
+    
+    <result id="91916">
+      <result code="3">3</result>
+      <band id="7213">Ropley</band>
+      <conductor id="299558">T. Collister</conductor>
+    </result>
+    
+  </results>
+</contest-event>

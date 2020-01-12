@@ -1,0 +1,110 @@
+<contest-event id="12390">
+  <event-date date="1899-6-3">June 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Waterhouses Contest</name>
+  <contest id="2468">
+    <name>Waterhouses Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>waterhouses-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1855">Sunny Spain</test-piece>
+  </test-piece>
+
+  <venue id="3736">Old Show Field, Waterhouses, County Durham</venue>
+  <notes>  1st prize £9.
+  2nd prize £6.
+  3rd prize £3.
+  4th prize £2.
+  5th prize £1.
+
+  March contest 1st (£1) Throckley, 2nd (10s.) Westwood,
+
+  10 bands competed.</notes>
+
+  <created>April 13, 2012, 8:28 p.m.</created>
+  <last-modified>Aug. 9, 2013, 1:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99086">
+      <result code="1">1</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="99087">
+      <result code="2">2</result>
+      <band id="6921">Throckley</band>
+      <conductor id="302879">J. Hedley</conductor>
+    </result>
+    
+    <result id="99088">
+      <result code="3">3</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">J. A. Mutton</conductor>
+    </result>
+    
+    <result id="99089">
+      <result code="4">4</result>
+      <band id="6689">Peases West</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+    <result id="99090">
+      <result code="5">5</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="99091">
+      <result code="">Unknown Result</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="99093">
+      <result code="">Unknown Result</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="99092">
+      <result code="">Unknown Result</result>
+      <band id="7836">Birtley Temperance</band>
+      <conductor id="307392">George Perry</conductor>
+    </result>
+    
+    <result id="99095">
+      <result code="">Unknown Result</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="311027">James Ward</conductor>
+    </result>
+    
+    <result id="99094">
+      <result code="">Unknown Result</result>
+      <band id="5367">Hunwick Silver</band>
+      <conductor id="301765">H. Gibbon</conductor>
+    </result>
+    
+    <result id="167034">
+      <result code="W">Withdrawn</result>
+      <band id="6195">Beamish</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167033">
+      <result code="W">Withdrawn</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

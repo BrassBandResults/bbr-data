@@ -1,0 +1,42 @@
+<contest-event id="39074">
+  <event-date date="2003-8-16">Aug. 16, 2003<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="342">High Peak</test-piece>
+  </test-piece>
+
+  <venue id="4945">Her Majesty&#39;s Theatre, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 2, 2018, 12:04 a.m.</created>
+  <last-modified>Feb. 2, 2018, 4:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="284211">
+      <result code="1">1</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="307241">Tom Paulin</conductor>
+    </result>
+    
+    <result id="284212">
+      <result code="2">2</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="306146">Tom Miller</conductor>
+    </result>
+    
+  </results>
+</contest-event>

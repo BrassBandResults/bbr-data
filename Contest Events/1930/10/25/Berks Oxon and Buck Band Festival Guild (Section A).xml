@@ -1,0 +1,55 @@
+<contest-event id="13474">
+  <event-date date="1930-10-25">Oct. 25, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Berks Oxon and Buck Band Festival Guild (Section A)</name>
+  <contest id="4152">
+    <name>Reading Contest (Section 1)</name>
+    <order>450</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="289">A Moorside Suite</test-piece>
+  </test-piece>
+
+  <venue id="2024">Reading, Berkshire, England, UK</venue>
+  <notes>Best basses, cornet, soprano and euphonium to Morris Motors.
+  4 bands competed.</notes>
+
+  <created>May 18, 2012, 5:05 p.m.</created>
+  <last-modified>Jan. 1, 2014, 2:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106889">
+      <result code="1">1</result>
+      <band id="1215">Morris Motors Band</band>
+      <conductor id="311912">Sydney Wood</conductor>
+    </result>
+    
+    <result id="106890">
+      <result code="2">2</result>
+      <band id="8391">Tadley Gospel Temperance</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="106891">
+      <result code="3">3</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="123723">
+      <result code="4">4</result>
+      <band id="2149">Reading Spring Gardens Brass Band</band>
+      <conductor id="299713">C. H. Coppuck</conductor>
+    </result>
+    
+  </results>
+</contest-event>

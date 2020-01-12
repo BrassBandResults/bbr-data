@@ -1,0 +1,49 @@
+<contest-event id="37833">
+  <event-date date="1986-3-29">March 29, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (Junior A Grade)</name>
+  <contest id="6136">
+    <name>Australian Championships - Wind Band (Junior A Grade)</name>
+    <order>4</order>
+    <contest-type id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-junior-a-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="4136">American Folk Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="4637">University of Adelaide, Adelaide, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>May 4, 2017, 11:24 p.m.</created>
+  <last-modified>May 5, 2017, 6:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="273529">
+      <result code="1">1</result>
+      <band id="15620">Canberra City Concert  (ACT)</band>
+      <conductor id="316180">Keith Helgesen</conductor>
+      <test-piece id="4520">A Festival Overture</test-piece>
+    </result>
+    
+    <result id="273530">
+      <result code="2">2</result>
+      <band id="15149">Brighton High School Concert  (SA)</band>
+      <conductor id="316496">Carl Crossin</conductor>
+    </result>
+    
+    <result id="273531">
+      <result code="3">3</result>
+      <band id="15076">Marryatville High School  (SA)</band>
+      <conductor id="316506">A. Laurinaitis</conductor>
+    </result>
+    
+  </results>
+</contest-event>

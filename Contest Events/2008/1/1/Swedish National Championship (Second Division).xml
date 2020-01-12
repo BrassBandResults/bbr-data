@@ -1,0 +1,66 @@
+<contest-event id="30030">
+  <event-date date="2008-1-1">Jan. 1, 2008<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Swedish National Championship (Second Division)</name>
+  <contest id="853">
+    <name>Swedish National Championship (Second Division)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-second-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2496">Schubert en Vacances</test-piece>
+  </test-piece>
+
+  <venue id="327">Värnamo, Småland, Sweden</venue>
+  <notes>November 8, 2008</notes>
+
+  <created>Oct. 31, 2014, 9:09 p.m.</created>
+  <last-modified>Oct. 14, 2017, 8:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="280961">
+      <result code="1">1</result>
+      <band id="2371">Gnosjö Brass Band</band>
+      <conductor id="303639">Jan Hultegård</conductor>
+    </result>
+    
+    <result id="280962">
+      <result code="2">2</result>
+      <band id="2270">Värnamo Missionskyrkas Brassband</band>
+      <conductor id="304059">Håkan Johansson</conductor>
+    </result>
+    
+    <result id="280963">
+      <result code="3">3</result>
+      <band id="2268">Södertörns Brass</band>
+      <conductor id="317235">Peter Göthe</conductor>
+    </result>
+    
+    <result id="280964">
+      <result code="4">4</result>
+      <band id="2265">Uffes Blås Brass Band</band>
+      <conductor id="303183">Mattias Hjortlinger</conductor>
+    </result>
+    
+    <result id="280965">
+      <result code="5">5</result>
+      <band id="2891">Immanuel Brass - Stockholm</band>
+      <conductor id="317238">Kina Sellergren</conductor>
+    </result>
+    
+    <result id="280966">
+      <result code="6">6</result>
+      <band id="1947">Hillerstorps Musikkar</band>
+      <conductor id="317239">Håkan Törefors</conductor>
+    </result>
+    
+  </results>
+</contest-event>

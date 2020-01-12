@@ -1,0 +1,54 @@
+<contest-event id="42279">
+  <event-date date="1985-4-6">April 6, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (Junior A Grade)</name>
+  <contest id="1711">
+    <name>Queensland State Brass Band Championship (Junior A Grade)</name>
+    <order>50</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-1711</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="797">English Suite [Lovelock]</test-piece>
+  </test-piece>
+
+  <venue id="7139">Theatre Royal , Mackay , Queensland,  Australia</venue>
+  <notes></notes>
+
+  <created>June 3, 2019, 7:03 a.m.</created>
+  <last-modified>June 3, 2019, 7:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="309133">
+      <result code="1">1</result>
+      <band id="13324">Sunnybank and District Juniors</band>
+      <conductor id="301927">Michael Golding</conductor>
+    </result>
+    
+    <result id="309134">
+      <result code="2">2</result>
+      <band id="18027">Brisbane Brass Juniors</band>
+      <conductor id="302717">Jim Hartingdon</conductor>
+    </result>
+    
+    <result id="309135">
+      <result code="3">3</result>
+      <band id="17026">Cairns Municipal Juniors</band>
+      <conductor id="319256">Jim Cadman</conductor>
+    </result>
+    
+    <result id="309136">
+      <result code="W">Withdrawn</result>
+      <band id="18032">Mackay City Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

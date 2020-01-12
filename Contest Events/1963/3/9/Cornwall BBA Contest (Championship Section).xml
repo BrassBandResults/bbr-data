@@ -1,0 +1,42 @@
+<contest-event id="34701">
+  <event-date date="1963-3-9">March 9, 1963<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Championship Section)</name>
+  <contest id="3195">
+    <name>Cornwall BBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2566">Rienzi [arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>March 20, 2016, 1:04 p.m.</created>
+  <last-modified>April 10, 2017, 8:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="250381">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+    <result id="250382">
+      <result code="2">2</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

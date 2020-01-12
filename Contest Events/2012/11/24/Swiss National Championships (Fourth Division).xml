@@ -1,0 +1,54 @@
+<contest-event id="14710">
+  <event-date date="2012-11-24">Nov. 24, 2012<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Fourth Division)</name>
+  <contest id="15">
+    <name>Swiss National Championships (Fourth Division)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-fourth-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="835">Fanfare Diversions</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>Best Solo Cornet Section: BB Harmonie Neuenkirch B</notes>
+
+  <created>Sept. 9, 2012, 9:33 p.m.</created>
+  <last-modified>May 17, 2014, 5:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="126260">
+      <result code="1">1</result>
+      <band id="2363">Brass Band Harmonie Neuenkirch B</band>
+      <conductor id="297424">Christoph Bangerter</conductor>
+    </result>
+    
+    <result id="126261">
+      <result code="2">2</result>
+      <band id="112">Entlebucher Jugend Brass Band</band>
+      <conductor id="308811">Mario Schubiger</conductor>
+    </result>
+    
+    <result id="126262">
+      <result code="3">3</result>
+      <band id="10030">Musikgesellschaft Viktoria Turtmann</band>
+      <conductor id="308505">Joseph Rotzer</conductor>
+    </result>
+    
+    <result id="126263">
+      <result code="4">4</result>
+      <band id="2366">Thunersee Brass</band>
+      <conductor id="306086">Peter Michel</conductor>
+    </result>
+    
+  </results>
+</contest-event>

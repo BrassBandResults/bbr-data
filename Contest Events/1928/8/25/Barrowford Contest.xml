@@ -1,0 +1,100 @@
+<contest-event id="24182">
+  <event-date date="1928-8-25">Aug. 25, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrowford Contest</name>
+  <contest id="2828">
+    <name>Barrowford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barrowford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi</test-piece>
+  </test-piece>
+
+  <venue id="2170">Barrowford, Lancashire, England, UK</venue>
+  <notes>
+  Prizes - 1st £16 and cup, 2nd £12, 3rd £8, 4th £6, 5th £4.
+  March contest - 1st(£2) Colne Borough, 2nd(£1) Whitworth Vale and Healey.
+  Promoted by Barrowford Horticultural Society.
+  11 bands competed.</notes>
+
+  <created>Oct. 1, 2013, 1:28 p.m.</created>
+  <last-modified>Nov. 4, 2015, 9:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176392">
+      <result code="1">1</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="176393">
+      <result code="2">2</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="307568">W. Pollard</conductor>
+    </result>
+    
+    <result id="176394">
+      <result code="3">3</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="311401">John Henry White</conductor>
+    </result>
+    
+    <result id="176395">
+      <result code="4">4</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="309761">Joseph Stevens</conductor>
+    </result>
+    
+    <result id="176396">
+      <result code="5">5</result>
+      <band id="2538">Water Band Rossendale</band>
+      <conductor id="307568">W. Pollard</conductor>
+    </result>
+    
+    <result id="176397">
+      <result code="">Unknown Result</result>
+      <band id="4352">Blackburn Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176398">
+      <result code="">Unknown Result</result>
+      <band id="4274">Brierfield Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176400">
+      <result code="">Unknown Result</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176402">
+      <result code="">Unknown Result</result>
+      <band id="894">Earby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176399">
+      <result code="">Unknown Result</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176401">
+      <result code="">Unknown Result</result>
+      <band id="3616">Read and Simonstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

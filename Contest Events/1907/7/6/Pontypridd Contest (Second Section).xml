@@ -1,0 +1,73 @@
+<contest-event id="11431">
+  <event-date date="1907-7-6">July 6, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Second Section)</name>
+  <contest id="2057">
+    <name>Pontypridd Contest (Second Section)</name>
+    <order>120</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="965">Tutti in Maschera [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>
+
+  1st prize £12 and shield.
+  2nd prize £7.
+  3rd prize £4.
+  4th prize £2.
+
+  6 bands competed</notes>
+
+  <created>March 25, 2012, 8:36 p.m.</created>
+  <last-modified>July 2, 2015, 9:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94016">
+      <result code="1">1</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="94017">
+      <result code="2">2</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="302239">J. Griffiths</conductor>
+    </result>
+    
+    <result id="94020">
+      <result code="3">3</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="309727">David Stephens</conductor>
+    </result>
+    
+    <result id="94022">
+      <result code="4">4</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="94025">
+      <result code="">Unknown Result</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="298749">D. G. Burdett</conductor>
+    </result>
+    
+    <result id="94024">
+      <result code="">Unknown Result</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="310670">William Turner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

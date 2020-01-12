@@ -1,0 +1,65 @@
+<contest-event id="42846">
+  <event-date date="1992-10-18">Oct. 18, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="6152">Fanfare &amp; Variations</test-piece>
+  </test-piece>
+
+  <venue id="7204">Brooks High School, Newham, Launceston, Tasmania, Australia</venue>
+  <notes>Bands also required to play a Hymn (not included in championship)</notes>
+
+  <created>Nov. 13, 2019, 4:58 a.m.</created>
+  <last-modified>Dec. 7, 2019, 2:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313666">
+      <result code="1">1</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="375">Chorale</test-piece>
+    </result>
+    
+    <result id="313669">
+      <result code="1">1</result>
+      <band id="18331">City of Launceston Brass</band>
+      <conductor id="303050">Ted Hicks</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+    <result id="313665">
+      <result code="3">3</result>
+      <band id="2141">Glenorchy City Concert Brass</band>
+      <conductor id="303661">Dean Hunt</conductor>
+      <test-piece id="43">An Epic Symphony</test-piece>
+    </result>
+    
+    <result id="313668">
+      <result code="4">4</result>
+      <band id="9275">City of Devonport Brass Band</band>
+      <conductor id="307847">Peter Quigley</conductor>
+      <test-piece id="383">Sinfonietta [Wilson]</test-piece>
+    </result>
+    
+    <result id="313667">
+      <result code="5">5</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="308041">Trevor Reid</conductor>
+      <test-piece id="6153">Symphonietta</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,49 @@
+<contest-event id="24872">
+  <event-date date="1960-10-8">Oct. 8, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SCABA Autumn Contest (Third Section)</name>
+  <contest id="4855">
+    <name>Godalming Contest (Third Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>godalming-contest-third-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="422">Pride of the Forest</test-piece>
+  </test-piece>
+
+  <venue id="3255">Borough Hall, Godalming, Surrey, England, UK</venue>
+  <notes>  Hymn tune contest - 1st Kingswood, 2nd Dormansland, 3rd Uckfield.
+12th annual contest.</notes>
+
+  <created>Nov. 4, 2013, 4:19 p.m.</created>
+  <last-modified>May 19, 2014, 10:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181665">
+      <result code="1">1</result>
+      <band id="11109">Kingswood and District [Surrey]</band>
+      <conductor id="297713">W. R. Beer</conductor>
+    </result>
+    
+    <result id="181666">
+      <result code="2">2</result>
+      <band id="749">Uckfield Concert Brass</band>
+      <conductor id="305655">F. Martin</conductor>
+    </result>
+    
+    <result id="181667">
+      <result code="3">3</result>
+      <band id="10089">Dormansland Village</band>
+      <conductor id="298668">W. A. Bryant</conductor>
+    </result>
+    
+  </results>
+</contest-event>

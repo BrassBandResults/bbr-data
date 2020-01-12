@@ -1,0 +1,73 @@
+<contest-event id="13014">
+  <event-date date="1896-7-25">July 25, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Totterdown Contest</name>
+  <contest id="2601">
+    <name>Totterdown Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>totterdown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1078">Gems of Columbia</test-piece>
+  </test-piece>
+
+  <venue id="1950">Totterdown, Bristol</venue>
+  <notes>March contest: 1. Fochriw, 2. Bristol Britannia
+7 bands competed</notes>
+
+  <created>April 29, 2012, 9:11 p.m.</created>
+  <last-modified>July 1, 2019, 9:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103637">
+      <result code="1">1</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="103638">
+      <result code="2">2</result>
+      <band id="4882">Bristol Britannia</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="103639">
+      <result code="3">3</result>
+      <band id="7937">Bristol South</band>
+      <conductor id="311198">George Webb</conductor>
+    </result>
+    
+    <result id="103640">
+      <result code="">Unknown Result</result>
+      <band id="7462">Bristol Temperance</band>
+      <conductor id="307584">H. Poole</conductor>
+    </result>
+    
+    <result id="103641">
+      <result code="">Unknown Result</result>
+      <band id="7534">Mogg&#39;s Military</band>
+      <conductor id="306223">H. Mogg</conductor>
+    </result>
+    
+    <result id="103642">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="309276">C.B. Smale</conductor>
+    </result>
+    
+    <result id="103643">
+      <result code="">Unknown Result</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="303213">W. Hodgett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

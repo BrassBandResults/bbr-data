@@ -1,0 +1,77 @@
+<contest-event id="21836">
+  <event-date date="2013-6-9">June 9, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newtown Open Air Contest</name>
+  <contest id="4315">
+    <name>Newtown Open Air Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>newtown-open-air-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="23">Entertainments Contest with Deportment Mark</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1336">Newtown, Powys, Wales, UK</venue>
+  <notes>1st Prize: £300
+2nd Prize: £200
+3rd Prize: £100
+Best Soloist: Drum Kit (Newtown)
+Deportment: Holywell (£70)
+Youth Deportment: Beaumaris Youth Band (£70)</notes>
+
+  <created>June 13, 2013, 8:02 p.m.</created>
+  <last-modified>June 15, 2013, 9:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162265">
+      <result code="1">1</result>
+      <band id="671">Holywell Band</band>
+      <conductor id="311586">Aled Williams</conductor>
+    </result>
+    
+    <result id="162266">
+      <result code="2">2</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="162267">
+      <result code="3">3</result>
+      <band id="2372">Beaumaris Youth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="162268">
+      <result code="">Unknown Result</result>
+      <band id="964">Knighton Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="214712">
+      <result code="">Unknown Result</result>
+      <band id="6541">Llanrug Youth</band>
+      <conductor id="307009">Dyfrig Owen</conductor>
+    </result>
+    
+    <result id="162270">
+      <result code="">Unknown Result</result>
+      <band id="10988">Newtown Training</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="162272">
+      <result code="">Unknown Result</result>
+      <band id="3709">North Powys County Youth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

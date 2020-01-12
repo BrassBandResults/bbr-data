@@ -1,0 +1,42 @@
+<contest-event id="37265">
+  <event-date date="1983-4-24">April 24, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Entertainment Contest</name>
+  <contest id="4164">
+    <name>Doncaster Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6424">Rotters Night Club, Doncaster, South Yorkshire</venue>
+  <notes></notes>
+
+  <created>Feb. 18, 2017, 11:25 a.m.</created>
+  <last-modified>Feb. 18, 2017, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="270117">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="299285">John Childs</conductor>
+    </result>
+    
+    <result id="270118">
+      <result code="2">2</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="300321">Kenneth Dennison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

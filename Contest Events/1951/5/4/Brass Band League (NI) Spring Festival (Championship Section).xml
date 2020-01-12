@@ -1,0 +1,48 @@
+<contest-event id="14197">
+  <event-date date="1951-5-4">May 4, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Championship Section)</name>
+  <contest id="240">
+    <name>Brass Band League (NI) Spring Festival (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-championship-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1061">Festival Overture [Geehl]</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:53 p.m.</created>
+  <last-modified>July 6, 2016, 10:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113221">
+      <result code="1">1</result>
+      <band id="1376">55th Old Boys Association Silver Band</band>
+      <conductor id="301380">A. Forbes</conductor>
+    </result>
+    
+    <result id="113222">
+      <result code="2">2</result>
+      <band id="1375">Lisburn Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="113223">
+      <result code="3">3</result>
+      <band id="1341">Agnes Street Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

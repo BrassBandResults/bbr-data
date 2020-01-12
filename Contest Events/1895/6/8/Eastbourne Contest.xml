@@ -1,0 +1,91 @@
+<contest-event id="12488">
+  <event-date date="1895-6-8">June 8, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eastbourne Contest</name>
+  <contest id="2582">
+    <name>Eastbourne Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eastbourne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="538">I Lombardi</test-piece>
+  </test-piece>
+
+  <venue id="5311">Devonshire Park, Eastbourne, Sussex</venue>
+  <notes>Prizes: £15, £8, £5, £2
+10 bands competed</notes>
+
+  <created>April 15, 2012, 8:19 a.m.</created>
+  <last-modified>Dec. 6, 2019, 2:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99769">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="99770">
+      <result code="2">2</result>
+      <band id="7820">Luton Town</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="99771">
+      <result code="3">3</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="309056">W. J. Douglas Sherriff</conductor>
+    </result>
+    
+    <result id="99772">
+      <result code="4">4</result>
+      <band id="6701">Dorking Town</band>
+      <conductor id="298026">J. Blacklidge</conductor>
+    </result>
+    
+    <result id="99776">
+      <result code="">Unknown Result</result>
+      <band id="7890">2nd Sussex Artillery</band>
+      <conductor id="317200">J.F. Gritton</conductor>
+    </result>
+    
+    <result id="99775">
+      <result code="">Unknown Result</result>
+      <band id="608">Epping Forest Band</band>
+      <conductor id="298026">J. Blacklidge</conductor>
+    </result>
+    
+    <result id="99778">
+      <result code="">Unknown Result</result>
+      <band id="11483">Lighthouse Silver</band>
+      <conductor id="299707">Sam Cope</conductor>
+    </result>
+    
+    <result id="99774">
+      <result code="">Unknown Result</result>
+      <band id="4528">Luton Volunteers</band>
+      <conductor id="301969">W. Goodyer</conductor>
+    </result>
+    
+    <result id="99777">
+      <result code="">Unknown Result</result>
+      <band id="7891">Northfleet Town</band>
+      <conductor id="296898">J. Allen</conductor>
+    </result>
+    
+    <result id="99773">
+      <result code="">Unknown Result</result>
+      <band id="7433">St. Albans C.E.T.S.</band>
+      <conductor id="318982">L. Wilson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

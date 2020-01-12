@@ -1,0 +1,54 @@
+<contest-event id="3947">
+  <event-date date="1972-3-26">March 26, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Second Section)</name>
+  <contest id="23">
+    <name>North West Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="145">Sinfonietta [Horovitz]</test-piece>
+  </test-piece>
+
+  <venue id="383">Public Hall, Preston</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Feb. 8, 2011, 5:34 a.m.</created>
+  <last-modified>May 16, 2016, 8:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="35109">
+      <result code="1">1</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="305391">William Lyon</conductor>
+    </result>
+    
+    <result id="35110">
+      <result code="2">2</result>
+      <band id="2579">British Vita Works Band</band>
+      <conductor id="302687">John Harrison</conductor>
+    </result>
+    
+    <result id="35111">
+      <result code="3">3</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="303452">Frank Hough</conductor>
+    </result>
+    
+    <result id="35112">
+      <result code="4">4</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="305180">G. G. Lloyd</conductor>
+    </result>
+    
+  </results>
+</contest-event>

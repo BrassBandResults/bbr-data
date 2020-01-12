@@ -1,0 +1,59 @@
+<contest-event id="12565">
+  <event-date date="1895-8-1">Aug. 1, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pickering Own Choice Contest</name>
+  <contest id="1330">
+    <name>Pickering Own Choice Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pickering-own-choice-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1391">Pickering, North Yorkshire, England, UK</venue>
+  <notes>Prizes: £12, £8, £4
+March contest: 1. Falsgrave
+4 bands competed</notes>
+
+  <created>April 16, 2012, 5:39 p.m.</created>
+  <last-modified>June 22, 2019, 10:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100327">
+      <result code="1">1</result>
+      <band id="3664">Scarborough Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100329">
+      <result code="2">2</result>
+      <band id="6462">Falsgrave (Scarborough)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100328">
+      <result code="2">2</result>
+      <band id="5587">Skaifes Pickering</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+    </result>
+    
+    <result id="310701">
+      <result code="4">4</result>
+      <band id="5241">Scarborough Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

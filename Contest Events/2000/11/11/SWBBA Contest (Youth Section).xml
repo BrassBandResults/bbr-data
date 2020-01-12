@@ -1,0 +1,44 @@
+<contest-event id="2139">
+  <event-date date="2000-11-11">Nov. 11, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Youth Section)</name>
+  <contest id="437">
+    <name>SWBBA Contest (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="14">Hymn &amp; Own Choice Test Piece Contest (Separate Points)</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-youth-section</slug>
+    
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="284">A Celtic Suite</test-piece>
+  </test-piece>
+
+  <venue id="48">Riviera International Conference Centre, Torquay, Devon, England, UK</venue>
+  <notes>Hymn: Mount Charles Youth, 90
+
+Best Instrumentalist: Katie Bullock, Cornet, St Austell</notes>
+
+  <created>July 2, 2010, 7:04 p.m.</created>
+  <last-modified>June 22, 2014, 1:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="19112">
+      <result code="1">1</result>
+      <band id="1458">Mount Charles Youth Band</band>
+      <conductor id="303692">Bryan Hurdley</conductor>
+    </result>
+    
+    <result id="19113">
+      <result code="2">2</result>
+      <band id="1780">St. Austell Youth</band>
+      <conductor id="306975">Steve Osborne</conductor>
+    </result>
+    
+  </results>
+</contest-event>

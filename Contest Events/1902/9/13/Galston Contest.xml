@@ -1,0 +1,63 @@
+<contest-event id="40105">
+  <event-date date="1902-9-13">Sept. 13, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Galston Contest</name>
+  <contest id="2308">
+    <name>Galston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>galston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2463">Mercadante</test-piece>
+  </test-piece>
+
+  <venue id="1669">Galston, East Ayrshire, Scotland, UK</venue>
+  <notes>March contest - 1st Milnwood, 2nd Coltness, 3rd Newmilns..
+Adjudicators remarks for Galston include - this band requires a lot more practice.    ----   there seems to have been a solo for a singer, I have heard the conductor all the way through.
+5 bands competed,
+.</notes>
+
+  <created>July 11, 2018, 3:42 p.m.</created>
+  <last-modified>July 11, 2018, 3:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291543">
+      <result code="1">1</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="291541">
+      <result code="2">2</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">W. Smith</conductor>
+    </result>
+    
+    <result id="291544">
+      <result code="3">3</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="291542">
+      <result code="4">4</result>
+      <band id="5495">Larkhall Raploch</band>
+      <conductor id="304190">David Jones</conductor>
+    </result>
+    
+    <result id="291540">
+      <result code="5">5</result>
+      <band id="1365">Galston</band>
+      <conductor id="309464">W. Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

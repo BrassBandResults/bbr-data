@@ -1,0 +1,69 @@
+<contest-event id="18423">
+  <event-date date="1952-7-12">July 12, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham League Contest (Section B)</name>
+  <contest id="391">
+    <name>Durham League Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="69">Durham League Contest</group>
+    <slug>durham-league-contest-section-b</slug>
+    
+    <notes>The 2010 contest, due to take place on 5th December, was cancelled due to heavy snow.
+(&lt;a href=&quot;http://www.4barsrest.com/news/detail.asp?id=12629&quot;&gt;4barsrest news article&lt;/a&gt;)</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1019">The Black Prince</test-piece>
+  </test-piece>
+
+  <venue id="1295">Brandon, County Durham, England, UK</venue>
+  <notes>  March contest  1st Durham Shakespeare, 2nd Hetton Silver, 3rd Lumley 6th Pit.
+
+  Hymn tune  1st Hetton Silver, 2nd Wardley Colliery, 3rd Lumley 6th Pit.</notes>
+
+  <created>Feb. 21, 2013, 5:46 p.m.</created>
+  <last-modified>May 11, 2016, 9:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="138822">
+      <result code="1">1</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138823">
+      <result code="2">2</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="308832">George Scorer</conductor>
+    </result>
+    
+    <result id="138824">
+      <result code="3">3</result>
+      <band id="3360">Wheatley Hill Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138826">
+      <result code="">Unknown Result</result>
+      <band id="3371">Lumley 6th Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138827">
+      <result code="">Unknown Result</result>
+      <band id="8048">Tow Law Model</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138825">
+      <result code="">Unknown Result</result>
+      <band id="2730">Wardley Colliery Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

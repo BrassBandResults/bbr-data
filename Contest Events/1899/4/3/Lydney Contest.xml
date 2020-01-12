@@ -1,0 +1,78 @@
+<contest-event id="12207">
+  <event-date date="1899-4-3">April 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest</name>
+  <contest id="2491">
+    <name>Lydney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lydney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1846">Lydney, Gloucestershire</venue>
+  <notes>1st prize £12.12s. and baritone.
+  2nd prize £9.9s.
+  3rd prize £5.5s.
+  4th prize £3.3s.
+  5th prize £1.10s.
+March contest 1st (£1.1s.) Wednesbury Crown Tube,  2nd (10s.6d.) Prince&#39;s End.
+7 bands competed.</notes>
+
+  <created>April 10, 2012, 1:28 p.m.</created>
+  <last-modified>July 26, 2019, 10:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="97977">
+      <result code="1">1</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="97978">
+      <result code="2">2</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="97979">
+      <result code="3">3</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="97980">
+      <result code="4">4</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="97981">
+      <result code="5">5</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="310289">J. W. Thomas</conductor>
+    </result>
+    
+    <result id="97983">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="97982">
+      <result code="">Unknown Result</result>
+      <band id="359">Bream Silver Band</band>
+      <conductor id="299900">C. Cridland</conductor>
+    </result>
+    
+  </results>
+</contest-event>

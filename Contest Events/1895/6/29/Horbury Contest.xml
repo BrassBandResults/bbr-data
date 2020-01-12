@@ -1,0 +1,48 @@
+<contest-event id="42357">
+  <event-date date="1895-6-29">June 29, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Horbury Contest</name>
+  <contest id="1339">
+    <name>Horbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>horbury-own-choice-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5422">Wagners Works</test-piece>
+  </test-piece>
+
+  <venue id="4064">Horbury, Wakefield, Yorkshire</venue>
+  <notes>Best cornet - Calvert Shaw (Lee Mount).</notes>
+
+  <created>June 19, 2019, 9:25 p.m.</created>
+  <last-modified>Dec. 9, 2019, 12:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="310568">
+      <result code="1">1</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="310569">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="310570">
+      <result code="3">3</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

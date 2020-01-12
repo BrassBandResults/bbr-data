@@ -1,0 +1,68 @@
+<contest-event id="7916">
+  <event-date date="1898-8-13">Aug. 13, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dumfries Contest (Second Section)</name>
+  <contest id="1351">
+    <name>Dumfries Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dumfries-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="873">Dumfries, Scotland</venue>
+  <notes>Prizes: £8, £6, £3, £2
+March contest: 1. Workington Artillery, 2. Alloa
+</notes>
+
+  <created>Oct. 25, 2011, 6:02 p.m.</created>
+  <last-modified>Oct. 15, 2012, 12:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118747">
+      <result code="1">1</result>
+      <band id="4850">Liddesdale Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118748">
+      <result code="2">2</result>
+      <band id="658">Dumfries Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="70149">
+      <result code="3">3</result>
+      <band id="5588">Frizington Town</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="118749">
+      <result code="4">4</result>
+      <band id="8913">Seaton [Cumbria]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118751">
+      <result code="">Unknown Result</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118750">
+      <result code="">Unknown Result</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,102 @@
+<contest-event id="3750">
+  <event-date date="1962-3-3">March 3, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Championship Section)</name>
+  <contest id="21">
+    <name>North West Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="33">Salute to Youth</test-piece>
+  </test-piece>
+
+  <venue id="384">King George&#39;s Hall, Blackburn</venue>
+  <notes></notes>
+
+  <created>Feb. 6, 2011, 3:38 a.m.</created>
+  <last-modified>Feb. 6, 2011, 3:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="34554">
+      <result code="1">1</result>
+      <band id="1347">City of Manchester</band>
+      <conductor id="306421">Alex Mortimer</conductor>
+    </result>
+    
+    <result id="34555">
+      <result code="2">2</result>
+      <band id="6">Fairey Band</band>
+      <conductor id="304754">Leonard Lamb</conductor>
+    </result>
+    
+    <result id="34558">
+      <result code="3">3</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="306425">Rex Mortimer</conductor>
+    </result>
+    
+    <result id="34556">
+      <result code="4">4</result>
+      <band id="1698">Cammell Laird</band>
+      <conductor id="306425">Rex Mortimer</conductor>
+    </result>
+    
+    <result id="34561">
+      <result code="5">5</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="307158">Hugh Parry</conductor>
+    </result>
+    
+    <result id="34559">
+      <result code="">Unknown Result</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="303596">J. A. Hughes</conductor>
+    </result>
+    
+    <result id="34560">
+      <result code="">Unknown Result</result>
+      <band id="8">Leyland Band</band>
+      <conductor id="306885">Harry Oakes</conductor>
+    </result>
+    
+    <result id="34557">
+      <result code="">Unknown Result</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="312107">William Yates</conductor>
+    </result>
+    
+    <result id="165781">
+      <result code="W">Withdrawn</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="165782">
+      <result code="W">Withdrawn</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="165783">
+      <result code="W">Withdrawn</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="165784">
+      <result code="W">Withdrawn</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

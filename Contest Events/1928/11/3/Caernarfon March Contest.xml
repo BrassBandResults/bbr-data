@@ -1,0 +1,48 @@
+<contest-event id="24197">
+  <event-date date="1928-11-3">Nov. 3, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caernarfon March Contest</name>
+  <contest id="4672">
+    <name>Caernarfon March Contest</name>
+    <order>0</order>
+    <contest-type id="16">March &amp; Hymn Contest (Separate Points)</contest-type>
+    <group id=""></group>
+    <slug>caernarfon-march-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1149">Caernarfon, Gwynedd, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 2, 2013, 12:16 p.m.</created>
+  <last-modified>Oct. 2, 2013, 12:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="176548">
+      <result code="1">1</result>
+      <band id="8334">Holyhead Town Band</band>
+      <conductor id="315134">Owen Thomas</conductor>
+    </result>
+    
+    <result id="176549">
+      <result code="2">2</result>
+      <band id="6533">Carnarvon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176550">
+      <result code="3">3</result>
+      <band id="9660">Machynlleth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

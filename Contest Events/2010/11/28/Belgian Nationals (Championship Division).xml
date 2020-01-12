@@ -1,0 +1,72 @@
+<contest-event id="1556">
+  <event-date date="2010-11-28">Nov. 28, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Championship Division)</name>
+  <contest id="76">
+    <name>Belgian Nationals (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="45">Blitz</test-piece>
+  </test-piece>
+
+  <venue id="149">Lemmensinstituut, Leuven, Flemish Brabant, Belgium</venue>
+  <notes></notes>
+
+  <created>March 3, 2010, 12:41 p.m.</created>
+  <last-modified>Dec. 11, 2013, 11:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="16770">
+      <result code="1">1</result>
+      <band id="673">Noord-Limburgse Brass Band</band>
+      <conductor id="306081">Ivan Meylemans</conductor>
+    </result>
+    
+    <result id="16768">
+      <result code="2">2</result>
+      <band id="672">Festival Brass Band</band>
+      <conductor id="306020">Manu Mellaerts</conductor>
+    </result>
+    
+    <result id="16767">
+      <result code="3">3</result>
+      <band id="40">Brass Band Willebroek</band>
+      <conductor id="310826">Frans Violet</conductor>
+    </result>
+    
+    <result id="16769">
+      <result code="4">4</result>
+      <band id="675">Metropole Brass Band</band>
+      <conductor id="297248">Guy Audenaert</conductor>
+    </result>
+    
+    <result id="16765">
+      <result code="5">5</result>
+      <band id="674">Brassband Buizingen</band>
+      <conductor id="310791">Luc Vertommen</conductor>
+    </result>
+    
+    <result id="16766">
+      <result code="6">6</result>
+      <band id="677">Brass Band Heist</band>
+      <conductor id="310249">Bert van Thienen</conductor>
+    </result>
+    
+    <result id="16771">
+      <result code="7">7</result>
+      <band id="676">Kortrijk Brass Band</band>
+      <conductor id="305478">Lieven Maertens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

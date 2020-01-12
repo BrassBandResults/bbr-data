@@ -1,0 +1,90 @@
+<contest-event id="17231">
+  <event-date date="1946-5-4">May 4, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Second Section)</name>
+  <contest id="41">
+    <name>Welsh Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="600">Eine Kleine Nachtmusik</test-piece>
+  </test-piece>
+
+  <venue id="11">Brangwyn Hall, Swansea, Swansea County, Wales, UK</venue>
+  <notes>10 bands competed.</notes>
+
+  <created>Dec. 22, 2012, 11:28 a.m.</created>
+  <last-modified>Feb. 8, 2019, 12:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="142164">
+      <result code="1">1</result>
+      <band id="4605">Varteg District Memorial Hall</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="130850">
+      <result code="2">2</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="304261">Oliver Jones</conductor>
+    </result>
+    
+    <result id="130851">
+      <result code="3">3</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="304275">Rufus Jones</conductor>
+    </result>
+    
+    <result id="130852">
+      <result code="4">4</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="304187">D. V. Jones</conductor>
+    </result>
+    
+    <result id="130853">
+      <result code="5">5</result>
+      <band id="4790">Pontycymer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304171">
+      <result code="">Unknown Result</result>
+      <band id="3368">Abercarn Welfare Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304173">
+      <result code="">Unknown Result</result>
+      <band id="5166">Blaengarw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304172">
+      <result code="">Unknown Result</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304174">
+      <result code="">Unknown Result</result>
+      <band id="4618">Troedyrhiw Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304175">
+      <result code="">Unknown Result</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

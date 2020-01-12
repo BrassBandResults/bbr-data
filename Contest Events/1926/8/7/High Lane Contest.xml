@@ -1,0 +1,55 @@
+<contest-event id="41254">
+  <event-date date="1926-8-7">Aug. 7, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>High Lane Contest</name>
+  <contest id="4659">
+    <name>High Lane Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>high-lane-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="4016">High Lane Village, Stockport, Cheshire</venue>
+  <notes>Marchcontest - 1st divided between Timperley and Stevensons.
+6 bands competed.</notes>
+
+  <created>Nov. 12, 2018, 4:09 p.m.</created>
+  <last-modified>Nov. 12, 2018, 4:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299773">
+      <result code="1">1</result>
+      <band id="3219">Timperley &amp; District</band>
+      <conductor id="297600">A. Bates</conductor>
+    </result>
+    
+    <result id="299774">
+      <result code="2">2</result>
+      <band id="1668">Hollingworth</band>
+      <conductor id="306784">H. Norbury</conductor>
+    </result>
+    
+    <result id="299775">
+      <result code="3">3</result>
+      <band id="11410">Salford Dock Mission</band>
+      <conductor id="307385">Tom Perrin</conductor>
+    </result>
+    
+    <result id="299776">
+      <result code="">Unknown Result</result>
+      <band id="3659">Hugh Stevenson and Sons (Manchester)</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,56 @@
+<contest-event id="22862">
+  <event-date date="1957-9-7">Sept. 7, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haydon Bridge Contest (Open Section)</name>
+  <contest id="3942">
+    <name>Haydon Bridge Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haydon-bridge-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="1668">Haydon Bridge, Northumberland, England, UK</venue>
+  <notes>
+  March contest - 1st Backworth Colliery, 2nd Craghead Colliery.
+  6 bands competed.</notes>
+
+  <created>Aug. 15, 2013, 7:09 a.m.</created>
+  <last-modified>Aug. 15, 2013, 7:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="168721">
+      <result code="1">1</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="168722">
+      <result code="2">2</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="307269">Cecil Peacock Jnr</conductor>
+    </result>
+    
+    <result id="168723">
+      <result code="3">3</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+    <result id="168724">
+      <result code="">Unknown Result</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

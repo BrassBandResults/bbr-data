@@ -1,0 +1,54 @@
+<contest-event id="25851">
+  <event-date date="1937-7-17">July 17, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wincanton Contest (3rd Section)</name>
+  <contest id="5021">
+    <name>Wincanton Contest (3rd Section)</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>wincanton-contest-3rd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2675">March: Sincerity</test-piece>
+  </test-piece>
+
+  <venue id="524">Wincanton, Somerset, England, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Jan. 13, 2014, 12:28 p.m.</created>
+  <last-modified>Jan. 18, 2019, 3:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187363">
+      <result code="1">1</result>
+      <band id="367">Bath Spa Band</band>
+      <conductor id="310306">Tommy Thomas</conductor>
+    </result>
+    
+    <result id="187364">
+      <result code="2">2</result>
+      <band id="6808">Fovant</band>
+      <conductor id="312076">S. J. Wyatt</conductor>
+    </result>
+    
+    <result id="187365">
+      <result code="3">3</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="302116">A. Green</conductor>
+    </result>
+    
+    <result id="187366">
+      <result code="4">4</result>
+      <band id="8378">Beaminster Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

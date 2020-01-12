@@ -1,0 +1,43 @@
+<contest-event id="5535">
+  <event-date date="1999-3-6">March 6, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss Entertainment Contest (First Division)</name>
+  <contest id="892">
+    <name>Swiss Entertainment Contest (First Division)</name>
+    <order>10</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="149">Swiss Entertainment Contest</group>
+    <slug>swiss-entertainment-contest-first-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2089">That&#39;s Entertainment</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>best solo : Carole Rudaz, Cornet, Brass Band 13 Etoiles B
+best show : BB 13 Etoiles B</notes>
+
+  <created>April 18, 2011, 1:34 p.m.</created>
+  <last-modified>July 8, 2015, 6:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="47768">
+      <result code="1">1</result>
+      <band id="71">Brass Band MG Rickenbach</band>
+      <conductor id="310620">Corsin Tuor</conductor>
+    </result>
+    
+    <result id="47769">
+      <result code="2">2</result>
+      <band id="74">Brass Band Treize Etoiles B</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+  </results>
+</contest-event>

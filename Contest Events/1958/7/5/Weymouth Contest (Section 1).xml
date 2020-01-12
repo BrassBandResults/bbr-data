@@ -1,0 +1,56 @@
+<contest-event id="23053">
+  <event-date date="1958-7-5">July 5, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Weymouth Contest (Section 1)</name>
+  <contest id="4031">
+    <name>Weymouth Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="401">Weymouth Contest</group>
+    <slug>weymouth-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="24">Sunset Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="3250">Pier Bandstand, Weymouth, Dorset</venue>
+  <notes>  March contest - 1st Woodfalls, 2nd 256(Wessex)LAA, 3rd Pressed Steel.
+ Prizes - 1st £50 and cup, 2nd £20, 3rd £10.
+ 9 bands competed.</notes>
+
+  <created>Aug. 17, 2013, 5:07 p.m.</created>
+  <last-modified>Sept. 16, 2016, 11:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169836">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="303951">Alfred Jarvis</conductor>
+    </result>
+    
+    <result id="169837">
+      <result code="2">2</result>
+      <band id="8451">Pressed Steel Works (Cowley)</band>
+      <conductor id="302442">Squire Hallas</conductor>
+    </result>
+    
+    <result id="169838">
+      <result code="3">3</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="305176">Alwyn Lloyd</conductor>
+    </result>
+    
+    <result id="169839">
+      <result code="4">4</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="308802">Wilfrid Scholes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

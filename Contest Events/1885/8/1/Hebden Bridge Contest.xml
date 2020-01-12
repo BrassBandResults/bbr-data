@@ -1,0 +1,62 @@
+<contest-event id="9217">
+  <event-date date="1885-8-1">Aug. 1, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hebden Bridge Contest</name>
+  <contest id="1605">
+    <name>Hebden Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hebden-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2283">The Seasons [1885]</test-piece>
+  </test-piece>
+
+  <venue id="161">Hebden Bridge, West Yorkshire</venue>
+  <notes>Promoted by Hebden Bridge Floral Society.
+Prizes: £18 11s, £11 7s, £8, £2, £1
+5 bands competed</notes>
+
+  <created>Dec. 29, 2011, 11:24 a.m.</created>
+  <last-modified>May 7, 2019, 3:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="79895">
+      <result code="1">1</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="79896">
+      <result code="2">2</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="309166">James Simpson</conductor>
+    </result>
+    
+    <result id="79897">
+      <result code="3">3</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="79898">
+      <result code="4">4</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="79899">
+      <result code="5">5</result>
+      <band id="3756">Stanningley and District Sub</band>
+      <conductor id="315173">E.F. Wilson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

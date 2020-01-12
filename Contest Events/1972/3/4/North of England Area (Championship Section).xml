@@ -1,0 +1,73 @@
+<contest-event id="20833">
+  <event-date date="1972-3-4">March 4, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="470">Concert Overture for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="2556">St. Bede&#39;s School, Sunderland</venue>
+  <notes>
+  7 bands competed.</notes>
+
+  <created>April 27, 2013, 6:34 a.m.</created>
+  <last-modified>April 27, 2013, 6:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="154567">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+    <result id="154568">
+      <result code="2">2</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="307269">Cecil Peacock Jnr</conductor>
+    </result>
+    
+    <result id="154569">
+      <result code="3">3</result>
+      <band id="799">Yarm &amp; District Band</band>
+      <conductor id="306104">C. Midgley</conductor>
+    </result>
+    
+    <result id="154573">
+      <result code="">Unknown Result</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="298699">George Buckley</conductor>
+    </result>
+    
+    <result id="154570">
+      <result code="">Unknown Result</result>
+      <band id="1921">Dawdon Lodge</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="154571">
+      <result code="">Unknown Result</result>
+      <band id="248">Dearham Band</band>
+      <conductor id="303816">Joe Ireland</conductor>
+    </result>
+    
+    <result id="154572">
+      <result code="">Unknown Result</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

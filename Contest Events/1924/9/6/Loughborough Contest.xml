@@ -1,0 +1,73 @@
+<contest-event id="41064">
+  <event-date date="1924-9-6">Sept. 6, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Loughborough Contest</name>
+  <contest id="1207">
+    <name>Loughborough Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>loughborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="771">William Tell [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="166">Loughborough, Leicestershire, England, UK</venue>
+  <notes>Prizes - 1st £15 and cup, 2nd £10, 3rd £5.
+7 bands competed.</notes>
+
+  <created>Oct. 30, 2018, 3:21 p.m.</created>
+  <last-modified>Oct. 30, 2018, 3:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298164">
+      <result code="1">1</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="298165">
+      <result code="2">2</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="298166">
+      <result code="3">3</result>
+      <band id="2021">City of Leicester</band>
+      <conductor id="303772">Simeon Iliffe</conductor>
+    </result>
+    
+    <result id="298167">
+      <result code="">Unknown Result</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298168">
+      <result code="">Unknown Result</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298169">
+      <result code="">Unknown Result</result>
+      <band id="1214">Loughborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298170">
+      <result code="">Unknown Result</result>
+      <band id="17493">Nottingham Engineers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

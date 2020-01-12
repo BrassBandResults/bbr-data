@@ -1,0 +1,58 @@
+<contest-event id="5598">
+  <event-date date="2000-4-29">April 29, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>European Championships (B Section)</name>
+  <contest id="86">
+    <name>European Championships (Challenge Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="22">European Championships</group>
+    <slug>european-championships-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1013">Corpus Christi</test-piece>
+  </test-piece>
+
+  <venue id="62">Symphony Hall, Birmingham, West Midlands, UK</venue>
+  <notes></notes>
+
+  <created>April 26, 2011, 10:14 a.m.</created>
+  <last-modified>July 27, 2015, 4:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76747">
+      <result code="1">1</result>
+      <band id="242">Brass Band Normandie</band>
+      <conductor id="301756">Philippe Gervais</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+    <result id="76748">
+      <result code="2">2</result>
+      <band id="1342">Töölö Brass</band>
+      <conductor id="297916">Tom Bildo</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+    <result id="76746">
+      <result code="3">3</result>
+      <band id="6038">Brass Band Faroe Islands</band>
+      <conductor id="301372">Stephen Foggin</conductor>
+      <test-piece id="293">Oceans</test-piece>
+    </result>
+    
+    <result id="48334">
+      <result code="4">4</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305489">Michael Maher</conductor>
+      <test-piece id="113">Hollywood!</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

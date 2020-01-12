@@ -1,0 +1,66 @@
+<contest-event id="32099">
+  <event-date date="1903-4-18">April 18, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotton Contest</name>
+  <contest id="1549">
+    <name>Brotton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1015">Brotton, Cleveland</venue>
+  <notes>March contest - 1st Charltons, 2nd Guisborough</notes>
+
+  <created>June 2, 2015, 6:57 a.m.</created>
+  <last-modified>June 2, 2015, 7:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="229690">
+      <result code="1">1</result>
+      <band id="6628">Charltons Star of Hope</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="229691">
+      <result code="2">2</result>
+      <band id="6663">Skelton Old</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="229692">
+      <result code="3">3</result>
+      <band id="5391">Guisborough 1st N.Y.V.A.</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="229693">
+      <result code="4">4</result>
+      <band id="10707">Skinningrove Iron &amp; Steel Works</band>
+      <conductor id="305669">T. Martin</conductor>
+    </result>
+    
+    <result id="229694">
+      <result code="5">5</result>
+      <band id="6008">Brotton Old</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="229695">
+      <result code="6">6</result>
+      <band id="6629">Brotton Temperance</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

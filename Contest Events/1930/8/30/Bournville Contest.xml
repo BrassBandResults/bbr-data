@@ -1,0 +1,68 @@
+<contest-event id="41540">
+  <event-date date="1930-8-30">Aug. 30, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bournville Contest</name>
+  <contest id="4668">
+    <name>Bournville Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bournville-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="4021">Bournville, West Midlands, England, UK</venue>
+  <notes>March contest - 1st divided between Dunlop Works and Woodgate.
+Prizes - 1st £10 and cup, 2nd £5, 3rd £2.10s.
+6 bands competed.</notes>
+
+  <created>Dec. 11, 2018, 1:10 p.m.</created>
+  <last-modified>Dec. 11, 2018, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="302104">
+      <result code="1">1</result>
+      <band id="6782">Dunlop Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302105">
+      <result code="2">2</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302106">
+      <result code="3">3</result>
+      <band id="4022">Lilleshall Collieries</band>
+      <conductor id="306423">Harry Mortimer</conductor>
+    </result>
+    
+    <result id="302107">
+      <result code="">Unknown Result</result>
+      <band id="2569">Birmingham City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302108">
+      <result code="">Unknown Result</result>
+      <band id="8974">Elliott&#39;s Metal Co</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302109">
+      <result code="">Unknown Result</result>
+      <band id="1625">West Bromwich Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

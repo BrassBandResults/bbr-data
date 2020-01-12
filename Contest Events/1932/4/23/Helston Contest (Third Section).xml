@@ -1,0 +1,69 @@
+<contest-event id="25831">
+  <event-date date="1932-4-23">April 23, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Helston Contest (Third Section)</name>
+  <contest id="4751">
+    <name>Helston Contest (Third Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="483">Helston Contest</group>
+    <slug>helston-contest-third-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1088">A Village Pastoral</test-piece>
+  </test-piece>
+
+  <venue id="1807">Helston, Cornwall</venue>
+  <notes>
+Prizes - 1st £8, 2nd £5, 3rd £3, 4th £2.
+Hymn tune - 1st Camborne Juniors, 2nd St Stithians.
+6 bands competed.</notes>
+
+  <created>Jan. 12, 2014, 10:14 p.m.</created>
+  <last-modified>Dec. 7, 2016, 11:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187252">
+      <result code="1">1</result>
+      <band id="4497">St. Erth</band>
+      <conductor id="310596">Norman Trudgeon</conductor>
+    </result>
+    
+    <result id="187253">
+      <result code="2">2</result>
+      <band id="1451">Camborne Junior Contesting</band>
+      <conductor id="300962">J. Eustace</conductor>
+    </result>
+    
+    <result id="187254">
+      <result code="3">3</result>
+      <band id="4011">Gweek Silver Band</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="187255">
+      <result code="4">4</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="313292">T. Hubbard</conductor>
+    </result>
+    
+    <result id="265263">
+      <result code="">Unknown Result</result>
+      <band id="3906">Breage and District Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265262">
+      <result code="">Unknown Result</result>
+      <band id="6464">Marazion Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

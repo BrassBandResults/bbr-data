@@ -1,0 +1,62 @@
+<contest-event id="26734">
+  <event-date date="1904-4-23">April 23, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yeadon Contest</name>
+  <contest id="1357">
+    <name>Yeadon Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="351">Yeadon Contest</group>
+    <slug>yeadon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2602">Songs of Schubert</test-piece>
+  </test-piece>
+
+  <venue id="4406">White Swan Cricket Field, Yeadon</venue>
+  <notes>Prizes: £10, £5, £3, £2, £1
+
+12 bands competed</notes>
+
+  <created>March 25, 2014, 11:46 p.m.</created>
+  <last-modified>May 18, 2017, 2:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193659">
+      <result code="1">1</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="193660">
+      <result code="2">2</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="193661">
+      <result code="3">3</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+    <result id="193662">
+      <result code="4">4</result>
+      <band id="3608">Dewsbury Temperance</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="193663">
+      <result code="5">5</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="305523">H. Mallinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

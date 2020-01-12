@@ -1,0 +1,49 @@
+<contest-event id="30504">
+  <event-date date="1999-4-17">April 17, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carnegie Invitation Contest (First Section)</name>
+  <contest id="5565">
+    <name>Carnegie Invitation Contest (First Section)</name>
+    <order>105</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="31">Fife Brass Band Festival</group>
+    <slug>carnegie-invitation-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="15">Carnegie Hall, Dunfermline, Fife, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>Dec. 3, 2014, 2:13 p.m.</created>
+  <last-modified>July 7, 2015, 10:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="231356">
+      <result code="1">1</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="310220">Raymond Tennant</conductor>
+    </result>
+    
+    <result id="231357">
+      <result code="2">2</result>
+      <band id="259">Unison Kinneil Band</band>
+      <conductor id="298331">Chris Bradley</conductor>
+    </result>
+    
+    <result id="215802">
+      <result code="3">3</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="297001">Jim Anderson</conductor>
+      <test-piece id="22">Journey into Freedom</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

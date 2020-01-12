@@ -1,0 +1,55 @@
+<contest-event id="12265">
+  <event-date date="1899-5-1">May 1, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coedpoeth Contest</name>
+  <contest id="2509">
+    <name>Coedpoeth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coedpoeth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1847">Gems of Modern Melody</test-piece>
+  </test-piece>
+
+  <venue id="1863">Coedpoeth, Wrexham, Wales, UK</venue>
+  <notes>March contest(Gladiator) - 1st Coedpoeth.
+4 bands competed</notes>
+
+  <created>April 11, 2012, 4:04 p.m.</created>
+  <last-modified>July 27, 2019, 8:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98321">
+      <result code="1">1</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="308277">Edward Roberts</conductor>
+    </result>
+    
+    <result id="98322">
+      <result code="">Unknown Result</result>
+      <band id="7806">Rhosrobin</band>
+      <conductor id="305186">Samuel Lloyd</conductor>
+    </result>
+    
+    <result id="98323">
+      <result code="">Unknown Result</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="319624">Richard Phillips</conductor>
+    </result>
+    
+    <result id="98324">
+      <result code="">Unknown Result</result>
+      <band id="4778">Brymbo Steel Works</band>
+      <conductor id="317285">John Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

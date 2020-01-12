@@ -1,0 +1,54 @@
+<contest-event id="42452">
+  <event-date date="1992-4-17">April 17, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (C Grade)</name>
+  <contest id="1709">
+    <name>Queensland State Brass Band Championship (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="796">Caprice</test-piece>
+  </test-piece>
+
+  <venue id="7161">Pilbeam Theatre Concert Hall Rockhampton  Queensland  Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 6, 2019, 11:29 p.m.</created>
+  <last-modified>Aug. 9, 2019, 12:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311575">
+      <result code="1">1</result>
+      <band id="17418">Bundaberg Municipal No.1</band>
+      <conductor id="308497">Robert Rotar</conductor>
+    </result>
+    
+    <result id="311577">
+      <result code="2">2</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="304453">Edward Kennedy</conductor>
+    </result>
+    
+    <result id="311576">
+      <result code="2">2</result>
+      <band id="2316">Gladstone Municipal Band</band>
+      <conductor id="297466">Bill Barker</conductor>
+    </result>
+    
+    <result id="311578">
+      <result code="W">Withdrawn</result>
+      <band id="6569">Thuringowa Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

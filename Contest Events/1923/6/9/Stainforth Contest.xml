@@ -1,0 +1,50 @@
+<contest-event id="40790">
+  <event-date date="1923-6-9">June 9, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stainforth Contest</name>
+  <contest id="6396">
+    <name>Stainforth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stainforth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="950">Lucia di Lammermoor [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="6966">Stainforth, Doncaster, Yorkshire</venue>
+  <notes>Prizes - 1st £15 and cup, 2nd £8, 3rd £5.
+March contest - 1st Dannemora, 2nd Normanby.
+4 bands competed</notes>
+
+  <created>Oct. 18, 2018, 12:25 p.m.</created>
+  <last-modified>Oct. 18, 2018, 12:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296548">
+      <result code="1">1</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="296549">
+      <result code="2">2</result>
+      <band id="4601">Normanby Park Steel Works</band>
+      <conductor id="310145">J. Taylor</conductor>
+    </result>
+    
+    <result id="296550">
+      <result code="3">3</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

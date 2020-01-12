@@ -1,0 +1,60 @@
+<contest-event id="42432">
+  <event-date date="1983-4-1">April 1, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="223">Un Vie de Matelot (A Sailor&#39;s Life)</test-piece>
+  </test-piece>
+
+  <venue id="6939">Bundaberg Civic Centre  Queensland Australia</venue>
+  <notes>Popular Number points listed under Stage March</notes>
+
+  <created>July 29, 2019, 5:50 a.m.</created>
+  <last-modified>July 29, 2019, 7:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311477">
+      <result code="1">1</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="299108">Noel Cassels</conductor>
+    </result>
+    
+    <result id="311478">
+      <result code="2">2</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310266">Colin Thomas</conductor>
+    </result>
+    
+    <result id="311479">
+      <result code="3">3</result>
+      <band id="1161">Brisbane Brass</band>
+      <conductor id="311548">Alan Wilkie</conductor>
+    </result>
+    
+    <result id="311480">
+      <result code="4">4</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="319254">Ken Baxter</conductor>
+    </result>
+    
+    <result id="311481">
+      <result code="W">Withdrawn</result>
+      <band id="17999">Nambour Maroochy District</band>
+      <conductor id="307870">Len Radford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

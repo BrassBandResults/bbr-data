@@ -1,0 +1,54 @@
+<contest-event id="33079">
+  <event-date date="1878-8-24">Aug. 24, 1878<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radcliffe Contest</name>
+  <contest id="1662">
+    <name>Radcliffe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>radcliffe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1757">Radcliffe</venue>
+  <notes>10 bands competed.</notes>
+
+  <created>Oct. 14, 2015, 4:01 p.m.</created>
+  <last-modified>Oct. 27, 2016, 6:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="238370">
+      <result code="1">1</result>
+      <band id="9673">Sabden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238371">
+      <result code="2">2</result>
+      <band id="396">Littleborough Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238372">
+      <result code="3">3</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="303879">Robert Jackson</conductor>
+    </result>
+    
+    <result id="238373">
+      <result code="4">4</result>
+      <band id="5105">Healey Hall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

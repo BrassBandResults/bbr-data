@@ -1,0 +1,54 @@
+<contest-event id="25499">
+  <event-date date="1923-8-18">Aug. 18, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chippenham Contest (Section 1)</name>
+  <contest id="4964">
+    <name>Chippenham Contest (Section 1)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="472">Chippenham Contest</group>
+    <slug>chippenham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="950">Lucia di Lammermoor [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4315">Chippenham, Wiltshire, England, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Dec. 9, 2013, 9:58 p.m.</created>
+  <last-modified>Oct. 23, 2018, 2:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185128">
+      <result code="1">1</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="185129">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="303517">Robert Samuel Howells</conductor>
+    </result>
+    
+    <result id="185130">
+      <result code="3">3</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="297357">C. Baker</conductor>
+    </result>
+    
+    <result id="297161">
+      <result code="4">4</result>
+      <band id="3988">Keynsham Brass Band</band>
+      <conductor id="307741">Ernest Pritchard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="28000">
+  <event-date date="2012-1-31">Jan. 31, 2012<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Lithuanian Championships (Section C)</name>
+  <contest id="5326">
+    <name>Lithuanian Championships (Section C)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="541">Lithuanian Championships</group>
+    <slug>lithuanian-championships-section-c</slug>
+    
+    <notes>None</notes>
+    <region id="25">Lithuania</region>
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2076">Cityscapes [de Haan]</test-piece>
+  </test-piece>
+
+  <venue id="6479">Panevezys School of Music, Panev. County, Lithuania</venue>
+  <notes>6 Bands.
+
+Winner: Kybartu Kulturos Centro, 82.91 Points
+
+Best Soloist: Amanda Vapsvaitė, BB Sklepucini
+Best Brass Band: BB Slepucini
+Best Conductor: Donatas Ziegoraitis, Kybartu Kulturos Centro
+Best Set Work: Kybartu Kulturos Centro</notes>
+
+  <created>May 29, 2014, 2:01 p.m.</created>
+  <last-modified>April 17, 2018, 9:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="251861">
+      <result code="1">1</result>
+      <band id="12135">Kybartu Kulturos Centro &#39;Kybartai&#39;</band>
+      <conductor id="312161">Donatas Ziegoraitis</conductor>
+    </result>
+    
+    <result id="212989">
+      <result code="2">2</result>
+      <band id="12125">Panevezys &#39;Sklepucini&#39;</band>
+      <conductor id="310758">Vilmantas Vapsva</conductor>
+    </result>
+    
+    <result id="200614">
+      <result code="4">4</result>
+      <band id="12138">Kaunas &#39;Jonuciai Brass&#39;</band>
+      <conductor id="310222">Remigijus Terminas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

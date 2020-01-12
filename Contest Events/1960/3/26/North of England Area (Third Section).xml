@@ -1,0 +1,66 @@
+<contest-event id="11494">
+  <event-date date="1960-3-26">March 26, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Third Section)</name>
+  <contest id="55">
+    <name>North of England Area (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-3rd-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1185">Neapolitan Suite</test-piece>
+  </test-piece>
+
+  <venue id="2556">St. Bede&#39;s School, Sunderland</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>March 28, 2012, 1:02 p.m.</created>
+  <last-modified>May 8, 2014, 10:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="94317">
+      <result code="1">1</result>
+      <band id="3842">Netherton Colliery Workmens</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+    <result id="197034">
+      <result code="2">2</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+    <result id="197033">
+      <result code="3">3</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="298598">Gilbert Brown</conductor>
+    </result>
+    
+    <result id="197032">
+      <result code="">Unknown Result</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="296824">J. W. Ainsley</conductor>
+    </result>
+    
+    <result id="197035">
+      <result code="">Unknown Result</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="306742">H. Nicol</conductor>
+    </result>
+    
+    <result id="197036">
+      <result code="">Unknown Result</result>
+      <band id="5273">Woodhorn Colliery</band>
+      <conductor id="306709">T. Nichol</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,85 @@
+<contest-event id="34760">
+  <event-date date="1977-4-8">April 8, 1977<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1720">Homeward</test-piece>
+  </test-piece>
+
+  <venue id="3769">Wagga Wagga, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>March 23, 2016, 11:31 p.m.</created>
+  <last-modified>March 25, 2016, 11:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="250941">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="142">Vizcaya</test-piece>
+    </result>
+    
+    <result id="250942">
+      <result code="2">2</result>
+      <band id="13483">Blue Mountains City Juniors</band>
+      <conductor id="308915">John Sewell</conductor>
+      <test-piece id="531">Academic Festival Overture</test-piece>
+    </result>
+    
+    <result id="250943">
+      <result code="3">3</result>
+      <band id="13462">Dubbo Citizens &amp; District Juniors</band>
+      <conductor id="306876">Dennis O&#39;Hearn</conductor>
+      <test-piece id="162">Mexican Fiesta</test-piece>
+    </result>
+    
+    <result id="250944">
+      <result code="4">4</result>
+      <band id="13609">Toronto &amp; District Juniors</band>
+      <conductor id="297288">Dennis Babbage</conductor>
+      <test-piece id="3834">Themes From New World Symphony</test-piece>
+    </result>
+    
+    <result id="250945">
+      <result code="5">5</result>
+      <band id="2205">Klemzig Junior Band 1</band>
+      <conductor id="297132">Ron Arthur</conductor>
+      <test-piece id="793">Divertimento [Ball]</test-piece>
+    </result>
+    
+    <result id="250946">
+      <result code="6">6</result>
+      <band id="11232">East Hills Boys High School</band>
+      <conductor id="305901">Brian McGuinness</conductor>
+      <test-piece id="130">Partita [Gregson]</test-piece>
+    </result>
+    
+    <result id="250947">
+      <result code="7">7</result>
+      <band id="15776">St.Patricks College  ---Sutherland  (NSW)</band>
+      <conductor id="305901">Brian McGuinness</conductor>
+      <test-piece id="752">Lindum Suite</test-piece>
+    </result>
+    
+    <result id="250948">
+      <result code="W">Withdrawn</result>
+      <band id="12293">St Ignatius College</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

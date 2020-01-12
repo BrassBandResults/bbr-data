@@ -1,0 +1,66 @@
+<contest-event id="14181">
+  <event-date date="1955-4-2">April 2, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Championship Section)</name>
+  <contest id="240">
+    <name>Brass Band League (NI) Spring Festival (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-championship-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="344">Rhapsody on Negro Spirituals</test-piece>
+  </test-piece>
+
+  <venue id="2305">Assembly Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes>Set Test: Was it the Second Rhapsody on Negro Spirituals?</notes>
+
+  <created>July 23, 2012, 4:35 p.m.</created>
+  <last-modified>May 25, 2017, 11:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="113173">
+      <result code="1">1</result>
+      <band id="237">Laganvale Band</band>
+      <conductor id="296775">Robert Adair</conductor>
+    </result>
+    
+    <result id="113174">
+      <result code="2">2</result>
+      <band id="1341">Agnes Street Band</band>
+      <conductor id="308560">Ernest Ruddock</conductor>
+    </result>
+    
+    <result id="113175">
+      <result code="3">3</result>
+      <band id="1375">Lisburn Silver Band</band>
+      <conductor id="312136">J. P. Young</conductor>
+    </result>
+    
+    <result id="144548">
+      <result code="4">4</result>
+      <band id="1210">Templemore</band>
+      <conductor id="297733">Alfie Bell</conductor>
+    </result>
+    
+    <result id="113176">
+      <result code="">Unknown Result</result>
+      <band id="31">1st Old Boys Association Band (Belfast)</band>
+      <conductor id="312136">J. P. Young</conductor>
+    </result>
+    
+    <result id="274858">
+      <result code="">Unknown Result</result>
+      <band id="1376">55th Old Boys Association Silver Band</band>
+      <conductor id="310566">Morley Trerise</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="37832">
+  <event-date date="1985-4-7">April 7, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (Junior B Grade)</name>
+  <contest id="6141">
+    <name>Australian Championships - Wind Band (Junior B Grade)</name>
+    <order>5</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-junior-b-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    <test-piece id="4334">Variations On An English Folk Song</test-piece>
+  </test-piece>
+
+  <venue id="6513">Melbourne Concert Hall, Victoria, Australia</venue>
+  <notes>Introduction of &quot;Junior B&quot; grade 
+MUSIC  
+1.   Test Selection 
+2.   Own Choice Hymn .Tune
+3.   2 Concert Items  (points listed under march)</notes>
+
+  <created>May 4, 2017, 5:28 a.m.</created>
+  <last-modified>June 1, 2017, 2:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="273524">
+      <result code="1">1</result>
+      <band id="15148">Broadmedow High School Concert   (NSW)</band>
+      <conductor id="316503">Peter Boys</conductor>
+      <test-piece id="4749">Hymn Tune - Great God</test-piece>
+    </result>
+    
+    <result id="273525">
+      <result code="2">2</result>
+      <band id="15201">Bankstown District  (NSW)</band>
+      <conductor id="315790">Garry Brahe</conductor>
+    </result>
+    
+    <result id="273526">
+      <result code="3">3</result>
+      <band id="15058">Belconnen High School  (ACT)</band>
+      <conductor id="316502">Mrs Robyn Eakin</conductor>
+      <test-piece id="4750">Hymn Tune - For All The Saints</test-piece>
+    </result>
+    
+    <result id="273527">
+      <result code="4">4</result>
+      <band id="15065">Balwyn High School  (Vic)</band>
+      <conductor id="316505">Tony Brooks</conductor>
+      <test-piece id="4752">Hymn Tune   Sun Of My Soul</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

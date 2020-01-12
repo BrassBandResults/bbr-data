@@ -1,0 +1,59 @@
+<contest-event id="22063">
+  <event-date date="1956-7-7">July 7, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Highworth Contest</name>
+  <contest id="4375">
+    <name>Highworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>highworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3615">Highworth, Wiltshire, England, UK</venue>
+  <notes>  Best cornet - Cheltenham.
+  Best euphonium - Wolverton.
+  Best trombone - Newport Pagnell.
+  March contest - 1st Wolverton, 2nd Highworth, 3rd Newport Pagnell.
+  Deportment contest - 1st Wolverton, 2nd Highworth, 3rd Newport Pagnell.
+  4 bands competed.</notes>
+
+  <created>June 28, 2013, 10:28 a.m.</created>
+  <last-modified>June 28, 2013, 10:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163605">
+      <result code="1">1</result>
+      <band id="565">Cheltenham Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163606">
+      <result code="2">2</result>
+      <band id="828">Wolverton Town Band</band>
+      <conductor id="298019">W. A. Blackburn</conductor>
+    </result>
+    
+    <result id="163607">
+      <result code="3">3</result>
+      <band id="2974">Newport Pagnell Town Band</band>
+      <conductor id="311640">J. L. Williams</conductor>
+    </result>
+    
+    <result id="163608">
+      <result code="4">4</result>
+      <band id="2083">Highworth Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

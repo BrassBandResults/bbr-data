@@ -1,0 +1,48 @@
+<contest-event id="36609">
+  <event-date date="1963-3-17">March 17, 1963<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Second Section)</name>
+  <contest id="656">
+    <name>Manchester District Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3844">From the New World Symphony</test-piece>
+  </test-piece>
+
+  <venue id="6119">Dukinfield Town Hall (Jubilee Hall), Dukinfield, Cheshire</venue>
+  <notes></notes>
+
+  <created>Dec. 5, 2016, 12:46 p.m.</created>
+  <last-modified>Dec. 5, 2016, 12:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="265094">
+      <result code="1">1</result>
+      <band id="1000">Greenway Selectus Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265095">
+      <result code="2">2</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265096">
+      <result code="3">3</result>
+      <band id="229">Parr (St. Helens) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

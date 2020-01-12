@@ -1,0 +1,37 @@
+<contest-event id="34596">
+  <event-date date="1991-3-30">March 30, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior A Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="624">This Happy Island</test-piece>
+  </test-piece>
+
+  <venue id="314">Adelaide, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>March 15, 2016, 9:08 p.m.</created>
+  <last-modified>June 19, 2017, 12:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="249559">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

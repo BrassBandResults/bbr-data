@@ -1,0 +1,60 @@
+<contest-event id="14423">
+  <event-date date="1999-11-27">Nov. 27, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Third Division)</name>
+  <contest id="14">
+    <name>Swiss National Championships (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-third-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2058">Burlesque</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>also Jury: Jan van der Roost</notes>
+
+  <created>Aug. 10, 2012, 11:01 a.m.</created>
+  <last-modified>Nov. 28, 2019, 6:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114683">
+      <result code="1">1</result>
+      <band id="105">Regionale Jugend Brass Band Luzern</band>
+      <conductor id="306585">Christoph Müller</conductor>
+    </result>
+    
+    <result id="116423">
+      <result code="2">2</result>
+      <band id="1076">Jugend Brass Band Michelsamt</band>
+      <conductor id="298995">Remo Capra</conductor>
+    </result>
+    
+    <result id="116424">
+      <result code="3">3</result>
+      <band id="8797">Brass Band Wolfwil</band>
+      <conductor id="298651">Josef Brun</conductor>
+    </result>
+    
+    <result id="116425">
+      <result code="4">4</result>
+      <band id="2506">Musikgesellschaft Flühli</band>
+      <conductor id="297444">Jakob Banz</conductor>
+    </result>
+    
+    <result id="116426">
+      <result code="5">5</result>
+      <band id="9483">United Brass Schaffhausen</band>
+      <conductor id="298145">Willy Bollinger</conductor>
+    </result>
+    
+  </results>
+</contest-event>

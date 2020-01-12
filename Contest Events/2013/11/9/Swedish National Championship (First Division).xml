@@ -1,0 +1,61 @@
+<contest-event id="27111">
+  <event-date date="2013-11-9">Nov. 9, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (First Division)</name>
+  <contest id="852">
+    <name>Swedish National Championship (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-first-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="206">Four Preludes</test-piece>
+  </test-piece>
+
+  <venue id="4625">Arken, Värnamo, Småland, Sweden</venue>
+  <notes>Soloist prize: Johannes Forsberg, euphonium, Åsenhögas Missionskyrkas Brassband
+Award to conductor for best performed test piece: Patrik Randefalk, Åsenhögas Missionskyrkas Brassband</notes>
+
+  <created>April 25, 2014, 5:05 p.m.</created>
+  <last-modified>April 25, 2014, 5:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="195764">
+      <result code="1">1</result>
+      <band id="2356">Åsenhöga Brass Band</band>
+      <conductor id="307907">Patrik Randefalk</conductor>
+    </result>
+    
+    <result id="195765">
+      <result code="2">2</result>
+      <band id="13898">Lund University</band>
+      <conductor id="297020">Roger Andersson</conductor>
+    </result>
+    
+    <result id="195766">
+      <result code="3">3</result>
+      <band id="1567">Torsby Brass</band>
+      <conductor id="307079">Berit Palmquist</conductor>
+    </result>
+    
+    <result id="195767">
+      <result code="4">4</result>
+      <band id="1936">Malmo Brass Band</band>
+      <conductor id="311797">Jan Winborg</conductor>
+    </result>
+    
+    <result id="195768">
+      <result code="5">5</result>
+      <band id="11979">Ryttargårdskyrkans Brassband</band>
+      <conductor id="298002">Daniel Bjurhamn</conductor>
+    </result>
+    
+  </results>
+</contest-event>

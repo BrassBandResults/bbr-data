@@ -1,0 +1,48 @@
+<contest-event id="14159">
+  <event-date date="1960-4-9">April 9, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Fourth Section)</name>
+  <contest id="237">
+    <name>Brass Band League (NI) Spring Festival (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-fourth-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="430">The Princess and the Poet</test-piece>
+  </test-piece>
+
+  <venue id="2304">Floral Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:04 p.m.</created>
+  <last-modified>May 8, 2014, 5:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113116">
+      <result code="1">1</result>
+      <band id="1389">36th Ulster Division Silver Band</band>
+      <conductor id="302019">E. Graham</conductor>
+    </result>
+    
+    <result id="113117">
+      <result code="2">2</result>
+      <band id="1249">Ballyduff Silver Band</band>
+      <conductor id="305504">H. Majury</conductor>
+    </result>
+    
+    <result id="113118">
+      <result code="3">3</result>
+      <band id="9063">St. Dominic Savio Y.C.</band>
+      <conductor id="298966">Pat Campbell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

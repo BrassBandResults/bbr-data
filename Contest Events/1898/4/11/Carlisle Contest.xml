@@ -1,0 +1,109 @@
+<contest-event id="7886">
+  <event-date date="1898-4-11">April 11, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carlisle Contest</name>
+  <contest id="1307">
+    <name>Carlisle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>carlisle</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="829">Carlisle, Cumbria, England, UK</venue>
+  <notes>Prizes: £15, £8, £4, £2, £1
+March contest: 1. Consett Ironworks, 2. Workington Artillery, 3. Frizington St. Joseph&#39;s</notes>
+
+  <created>Oct. 23, 2011, 5:17 p.m.</created>
+  <last-modified>July 13, 2019, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106397">
+      <result code="1">1</result>
+      <band id="1510">Workington</band>
+      <conductor id="305310">George Lowden</conductor>
+    </result>
+    
+    <result id="106398">
+      <result code="2">2</result>
+      <band id="5674">Frizington St. Joseph</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="70083">
+      <result code="3">3</result>
+      <band id="5588">Frizington Town</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="106399">
+      <result code="4">4</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="106400">
+      <result code="5">5</result>
+      <band id="7618">Carlisle Rifle Volunteers</band>
+      <conductor id="298784">Felix Burns</conductor>
+    </result>
+    
+    <result id="106406">
+      <result code="">Unknown Result</result>
+      <band id="6302">Carlisle Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106401">
+      <result code="">Unknown Result</result>
+      <band id="7621">Cleator Moor St.Mary&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106403">
+      <result code="">Unknown Result</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106405">
+      <result code="">Unknown Result</result>
+      <band id="7622">Frizington St Paul&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106402">
+      <result code="">Unknown Result</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106407">
+      <result code="">Unknown Result</result>
+      <band id="7526">Haltwhistle Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106408">
+      <result code="">Unknown Result</result>
+      <band id="8359">Kendal Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106404">
+      <result code="">Unknown Result</result>
+      <band id="4850">Liddesdale Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

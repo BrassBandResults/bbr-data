@@ -1,0 +1,72 @@
+<contest-event id="24616">
+  <event-date date="2001-10-27">Oct. 27, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NIBA Championship of Ireland (Grade 2 Brass)</name>
+  <contest id="277">
+    <name>NIBA Championship of Ireland (Grade 2 Brass)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="52">NIBA Championship of Ireland</group>
+    <slug>niba-championship-of-ireland-grade-2-brass</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="286">A Salford Sinfonietta</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 21, 2013, 3:27 p.m.</created>
+  <last-modified>Sept. 18, 2015, 7:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="234411">
+      <result code="1">1</result>
+      <band id="1060">Downshire Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="234412">
+      <result code="2">2</result>
+      <band id="1250">Third Carrickfergus Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="234413">
+      <result code="3">3</result>
+      <band id="1249">Ballyduff Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="234414">
+      <result code="4">4</result>
+      <band id="1245">Comber Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="234415">
+      <result code="5">5</result>
+      <band id="1210">Templemore</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180019">
+      <result code="5">5</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305479">Francis Magee</conductor>
+    </result>
+    
+    <result id="234416">
+      <result code="6">6</result>
+      <band id="1247">Wellington Memorial Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

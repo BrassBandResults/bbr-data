@@ -1,0 +1,71 @@
+<contest-event id="12463">
+  <event-date date="1895-6-1">June 1, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashington Contest</name>
+  <contest id="2395">
+    <name>Ashington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1910">Ashington, Northumberland, England, UK</venue>
+  <notes>4 bands competed
+March contest: Ashington Model, 2. Barrington</notes>
+
+  <created>April 14, 2012, 9:10 p.m.</created>
+  <last-modified>June 19, 2019, 9:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99603">
+      <result code="1">1</result>
+      <band id="4510">Ashington Model</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+      <test-piece id="2379">Pomposo</test-piece>
+    </result>
+    
+    <result id="99604">
+      <result code="2">2</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="302593">Tom Hardy</conductor>
+      <test-piece id="788">Recollections of Meyerbeer [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="99605">
+      <result code="3">3</result>
+      <band id="4512">Barrington</band>
+      <conductor id="310181">R. D. Taylor</conductor>
+      <test-piece id="2379">Pomposo</test-piece>
+    </result>
+    
+    <result id="99606">
+      <result code="4">4</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="307276">Mr Peacock</conductor>
+      <test-piece id="2300">Symphonic</test-piece>
+    </result>
+    
+    <result id="147665">
+      <result code="W">Withdrawn</result>
+      <band id="8021">Blyth &amp; Cowpen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="147666">
+      <result code="W">Withdrawn</result>
+      <band id="4513">Broomhill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

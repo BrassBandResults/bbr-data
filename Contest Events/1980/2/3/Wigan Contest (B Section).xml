@@ -1,0 +1,54 @@
+<contest-event id="30480">
+  <event-date date="1980-2-3">Feb. 3, 1980<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wigan Contest (B Section)</name>
+  <contest id="2683">
+    <name>Wigan Contest (B Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="153">Wigan Contest</group>
+    <slug>wigan-contest-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="762">Second Rhapsody on Negro Spirituals</test-piece>
+  </test-piece>
+
+  <venue id="470">Wigan and Leigh College</venue>
+  <notes></notes>
+
+  <created>Dec. 2, 2014, 8:49 a.m.</created>
+  <last-modified>Oct. 24, 2017, 11:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="215697">
+      <result code="1">1</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="303135">Barry Hindes</conductor>
+    </result>
+    
+    <result id="215698">
+      <result code="2">2</result>
+      <band id="171">Blackburn and Darwen Band</band>
+      <conductor id="299461">Gordon Clough</conductor>
+    </result>
+    
+    <result id="215699">
+      <result code="3">3</result>
+      <band id="180">Blackpool Brass</band>
+      <conductor id="303452">Frank Hough</conductor>
+    </result>
+    
+    <result id="281267">
+      <result code="4">4</result>
+      <band id="227">Golborne Band</band>
+      <conductor id="303466">Joe Houlton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

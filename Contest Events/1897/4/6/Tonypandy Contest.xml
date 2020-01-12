@@ -1,0 +1,69 @@
+<contest-event id="13152">
+  <event-date date="1897-4-6">April 6, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tonypandy Contest</name>
+  <contest id="1646">
+    <name>Tonypandy Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="198">Tonypandy Contest</group>
+    <slug>tonypandy-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2410">Lucrezia Borgia [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1618">Tonypandy, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>First Section
+Prizes: £14, £4
+March contest: 1. Aberaman Silver, 2. Tonyrefail
+6 bands competed</notes>
+
+  <created>May 3, 2012, 9:37 p.m.</created>
+  <last-modified>July 7, 2019, 2:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104443">
+      <result code="1">1</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="104445">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="104444">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="312144">T. Young</conductor>
+    </result>
+    
+    <result id="104446">
+      <result code="4">4</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104447">
+      <result code="4">4</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104448">
+      <result code="6">6</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

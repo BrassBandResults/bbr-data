@@ -1,0 +1,50 @@
+<contest-event id="22008">
+  <event-date date="1903-9-14">Sept. 14, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Tredegar Contest</name>
+  <contest id="4346">
+    <name>New Tredegar Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-tredegar-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="3589">Workmen&#39;s Hall, New Tredegar, Monmouthshire</venue>
+  <notes>
+  Prizes  -  1st £10 and cornet valued £9.9s., 2nd £5, 3rd £2.
+  3 bands competed.</notes>
+
+  <created>June 22, 2013, 10:21 a.m.</created>
+  <last-modified>June 22, 2013, 10:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163228">
+      <result code="1">1</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="163229">
+      <result code="2">2</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="301218">J. Fidler</conductor>
+    </result>
+    
+    <result id="163230">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

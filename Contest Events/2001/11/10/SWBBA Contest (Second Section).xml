@@ -1,0 +1,48 @@
+<contest-event id="25023">
+  <event-date date="2001-11-10">Nov. 10, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Second Section)</name>
+  <contest id="159">
+    <name>SWBBA Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="23">Resurgam</test-piece>
+  </test-piece>
+
+  <venue id="48">Riviera International Conference Centre, Torquay, Devon, England, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 8, 2013, 4:42 p.m.</created>
+  <last-modified>Sept. 18, 2015, 8:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="236798">
+      <result code="1">1</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="304129">Derek Johnston Jnr</conductor>
+    </result>
+    
+    <result id="182294">
+      <result code="2">2</result>
+      <band id="539">Bugle Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="236799">
+      <result code="3">3</result>
+      <band id="532">Phoenix Brass (Crewkerne) Band</band>
+      <conductor id="302161">Gary Greenstock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

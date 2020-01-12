@@ -1,0 +1,86 @@
+<contest-event id="13372">
+  <event-date date="1897-8-26">Aug. 26, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crigglestone Contest</name>
+  <contest id="2524">
+    <name>Crigglestone Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crigglestone-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6004">Macbeth</test-piece>
+  </test-piece>
+
+  <venue id="1877">Crigglestone</venue>
+  <notes>Prizes: 37, £4, £2, £1
+March contest: 1. Morley, 2. Ackworth, 3. Sowerby Bridge Friendly
+9 bands competed</notes>
+
+  <created>May 10, 2012, 11:04 p.m.</created>
+  <last-modified>July 11, 2019, 9:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106024">
+      <result code="1">1</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="106025">
+      <result code="2">2</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="106026">
+      <result code="3">3</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="106027">
+      <result code="4">4</result>
+      <band id="5865">Churwell (Leeds) Band</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="106032">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="106030">
+      <result code="">Unknown Result</result>
+      <band id="7802">Wakefield Belle Vue</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="106031">
+      <result code="">Unknown Result</result>
+      <band id="7157">Castleford Old</band>
+      <conductor id="312259">Louis Allison</conductor>
+    </result>
+    
+    <result id="106029">
+      <result code="">Unknown Result</result>
+      <band id="8278">Crigglestone</band>
+      <conductor id="310399">George Thorpe</conductor>
+    </result>
+    
+    <result id="106028">
+      <result code="">Unknown Result</result>
+      <band id="7876">Ackworth Parish</band>
+      <conductor id="305523">H. Mallinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

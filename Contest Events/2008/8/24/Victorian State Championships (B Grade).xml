@@ -1,0 +1,54 @@
+<contest-event id="18483">
+  <event-date date="2008-8-24">Aug. 24, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="272">Between the Two Rivers</test-piece>
+  </test-piece>
+
+  <venue id="3138">Wendouree Centre for Performing Arts, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 23, 2013, 8:55 a.m.</created>
+  <last-modified>Feb. 4, 2018, 11:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="159548">
+      <result code="1">1</result>
+      <band id="2165">Geelong West Brass</band>
+      <conductor id="309698">Jeff Steele</conductor>
+    </result>
+    
+    <result id="159549">
+      <result code="2">2</result>
+      <band id="7855">Wonthaggi Citizens</band>
+      <conductor id="305581">Craig Marinus</conductor>
+    </result>
+    
+    <result id="159550">
+      <result code="3">3</result>
+      <band id="2241">Maroondah Brass</band>
+      <conductor id="306292">Ron Moore</conductor>
+    </result>
+    
+    <result id="159551">
+      <result code="4">4</result>
+      <band id="2242">Box Hill City Band</band>
+      <conductor id="301116">David Farrell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

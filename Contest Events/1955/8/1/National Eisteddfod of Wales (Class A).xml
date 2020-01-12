@@ -1,0 +1,61 @@
+<contest-event id="20144">
+  <event-date date="1955-8-1">Aug. 1, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class A)</name>
+  <contest id="3279">
+    <name>National Eisteddfod of Wales (Class A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="508">Owain Glyndwr</test-piece>
+  </test-piece>
+
+  <venue id="3408">Main Pavilion, Showground, Pwllheli</venue>
+  <notes>
+  5 bands competed.</notes>
+
+  <created>March 31, 2013, 3:05 p.m.</created>
+  <last-modified>March 31, 2013, 3:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149827">
+      <result code="1">1</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="308802">Wilfrid Scholes</conductor>
+    </result>
+    
+    <result id="149828">
+      <result code="2">2</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="311014">Cliff Ward</conductor>
+    </result>
+    
+    <result id="149829">
+      <result code="3">3</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149830">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149831">
+      <result code="">Unknown Result</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

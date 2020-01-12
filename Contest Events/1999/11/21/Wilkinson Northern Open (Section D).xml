@@ -1,0 +1,48 @@
+<contest-event id="25225">
+  <event-date date="1999-11-21">Nov. 21, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wilkinson Northern Open (Section D)</name>
+  <contest id="270">
+    <name>Northern Open (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="49">Northern Open</group>
+    <slug>wilkinson-northern-open-section-d</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="328">Music from Kantara</test-piece>
+  </test-piece>
+
+  <venue id="64">Theatre Royal, St. Helens</venue>
+  <notes></notes>
+
+  <created>Nov. 21, 2013, 10:15 a.m.</created>
+  <last-modified>July 12, 2015, 6:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="231495">
+      <result code="1">1</result>
+      <band id="210">Valley Brass (Haydock) Band</band>
+      <conductor id="299165">David Chadwick</conductor>
+    </result>
+    
+    <result id="231588">
+      <result code="2">2</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="308349">Harold Robinson</conductor>
+    </result>
+    
+    <result id="231589">
+      <result code="3">3</result>
+      <band id="3781">York Street Brass Band</band>
+      <conductor id="308833">M. Scotson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

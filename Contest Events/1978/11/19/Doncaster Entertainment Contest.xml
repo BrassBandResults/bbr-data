@@ -1,0 +1,48 @@
+<contest-event id="23766">
+  <event-date date="1978-11-19">Nov. 19, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Entertainment Contest</name>
+  <contest id="4164">
+    <name>Doncaster Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3955">Welfare Hall, Brodsworth Colliery, Yorkshire</venue>
+  <notes></notes>
+
+  <created>Sept. 12, 2013, 11:43 a.m.</created>
+  <last-modified>Sept. 12, 2013, 12:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="173649">
+      <result code="1">1</result>
+      <band id="149">Armthorpe Elmfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="173650">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="173651">
+      <result code="3">3</result>
+      <band id="1544">Askern Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

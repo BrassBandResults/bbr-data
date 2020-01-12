@@ -1,0 +1,54 @@
+<contest-event id="19019">
+  <event-date date="1954-5-8">May 8, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 1)</name>
+  <contest id="1043">
+    <name>Royal Tunbridge Wells Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="201">Call of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="3107">Assembly Hall, Tunbridge Wells</venue>
+  <notes></notes>
+
+  <created>March 12, 2013, 9:10 a.m.</created>
+  <last-modified>March 12, 2013, 9:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="142975">
+      <result code="1">1</result>
+      <band id="806">Cantium Brass</band>
+      <conductor id="310440">H. W. Tillott</conductor>
+    </result>
+    
+    <result id="142976">
+      <result code="2">2</result>
+      <band id="5168">Medway Imperial</band>
+      <conductor id="307682">F. W. Preston</conductor>
+    </result>
+    
+    <result id="142977">
+      <result code="3">3</result>
+      <band id="4659">Haywards Heath Town</band>
+      <conductor id="302539">R. C. Hanney</conductor>
+    </result>
+    
+    <result id="142978">
+      <result code="">Unknown Result</result>
+      <band id="10485">Monotype Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

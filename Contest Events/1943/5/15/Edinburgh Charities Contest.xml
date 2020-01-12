@@ -1,0 +1,79 @@
+<contest-event id="3869">
+  <event-date date="1943-5-15">May 15, 1943<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Edinburgh Charities Contest</name>
+  <contest id="679">
+    <name>Edinburgh Charities Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>edinburgh-charities-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="14">Hymn &amp; Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="389">Princes Street Gardens, Edinburgh</venue>
+  <notes>March contest - 1st Wellesley Colliery, 2nd Clydebank, 3rd Leith.
+Hymn tune contest - 1st Dysart Colliery, 2nd Parkhead Forge, 3rd Cowdenbeath.</notes>
+
+  <created>Feb. 7, 2011, 1:25 a.m.</created>
+  <last-modified>Jan. 31, 2019, 11:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="34776">
+      <result code="1">1</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303816">
+      <result code="2">2</result>
+      <band id="1728">Barry, Ostlere &amp; Shepherd</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="303817">
+      <result code="3">3</result>
+      <band id="1697">Parkhead Forge (Glasgow)</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="303818">
+      <result code="4">4</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303822">
+      <result code="">Unknown Result</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303821">
+      <result code="">Unknown Result</result>
+      <band id="5454">Leith Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303820">
+      <result code="">Unknown Result</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303819">
+      <result code="W">Withdrawn</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

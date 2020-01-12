@@ -1,0 +1,93 @@
+<contest-event id="41360">
+  <event-date date="1927-9-10">Sept. 10, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bentham Contest</name>
+  <contest id="3683">
+    <name>Bentham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bentham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="2813">Coach House Inn, Bentham, North Yorkshire, England, UK</venue>
+  <notes>Prizes - 1st £15 and cup, 2nd £8, 3rd £5, 4th £3.
+March contest - 1st Clitheroe, 2nd Earby.
+Hymn tune contest - 1st Clitheroe, 2nd Leyland.
+10 bands competed.</notes>
+
+  <created>Nov. 23, 2018, 12:08 p.m.</created>
+  <last-modified>Nov. 23, 2018, 12:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="300673">
+      <result code="1">1</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="302163">A. Greenwood</conductor>
+    </result>
+    
+    <result id="300674">
+      <result code="2">2</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="297465">Andrew Barker</conductor>
+    </result>
+    
+    <result id="300675">
+      <result code="3">3</result>
+      <band id="894">Earby Band</band>
+      <conductor id="307245">F. Pawson</conductor>
+    </result>
+    
+    <result id="300676">
+      <result code="4">4</result>
+      <band id="6574">Clitheroe Borough</band>
+      <conductor id="299928">Bert Cross</conductor>
+    </result>
+    
+    <result id="300677">
+      <result code="">Unknown Result</result>
+      <band id="934">Dalton Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300678">
+      <result code="">Unknown Result</result>
+      <band id="5585">Giggleswick</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300682">
+      <result code="">Unknown Result</result>
+      <band id="5197">Leyland Subscription</band>
+      <conductor id="318703">A. Parr</conductor>
+    </result>
+    
+    <result id="300679">
+      <result code="">Unknown Result</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300680">
+      <result code="">Unknown Result</result>
+      <band id="5586">Settle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300681">
+      <result code="">Unknown Result</result>
+      <band id="17707">Standfast Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

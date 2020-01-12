@@ -1,0 +1,60 @@
+<contest-event id="37525">
+  <event-date date="1902-5-17">May 17, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Backworth Contest</name>
+  <contest id="1017">
+    <name>Backworth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>backworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1801">Songs of Other Days</test-piece>
+  </test-piece>
+
+  <venue id="6456">Institute Hall, Backworth, Northumberland, England, UK</venue>
+  <notes>5 bands competed</notes>
+
+  <created>March 13, 2017, 2:06 p.m.</created>
+  <last-modified>July 3, 2018, 6:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="271280">
+      <result code="1">1</result>
+      <band id="10993">Blyth &amp; District</band>
+      <conductor id="319023">R. Taylor</conductor>
+    </result>
+    
+    <result id="271279">
+      <result code="2">2</result>
+      <band id="4512">Barrington</band>
+      <conductor id="310181">R. D. Taylor</conductor>
+    </result>
+    
+    <result id="271281">
+      <result code="3">3</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="312600">H. Cassel</conductor>
+    </result>
+    
+    <result id="271282">
+      <result code="4">4</result>
+      <band id="7760">Albert Edward Operatic</band>
+      <conductor id="307305">Jim Pearson</conductor>
+    </result>
+    
+    <result id="271283">
+      <result code="5">5</result>
+      <band id="6071">Tynemouth Borough</band>
+      <conductor id="315347">George Hopkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

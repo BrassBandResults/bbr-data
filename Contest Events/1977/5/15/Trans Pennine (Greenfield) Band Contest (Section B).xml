@@ -1,0 +1,51 @@
+<contest-event id="4971">
+  <event-date date="1977-5-15">May 15, 1977<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trans Pennine (Greenfield) Band Contest (Section B)</name>
+  <contest id="816">
+    <name>Trans Pennine (Greenfield) Band Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="150">Trans Pennine (Greenfield) Band Contest</group>
+    <slug>trans-pennine-greenfield-band-contest-section-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1060">Civic Hall, Uppermill</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>March 20, 2011, 9:10 p.m.</created>
+  <last-modified>June 22, 2016, 9 a.m.</last-modified>
+
+  <results>
+    
+    <result id="43567">
+      <result code="1">1</result>
+      <band id="185">Middleton Band</band>
+      <conductor id="300274">Gordon Dean</conductor>
+      <test-piece id="629">Promenade</test-piece>
+    </result>
+    
+    <result id="172191">
+      <result code="2">2</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="302377">J. Haigh</conductor>
+      <test-piece id="559">Othello</test-piece>
+    </result>
+    
+    <result id="172192">
+      <result code="3">3</result>
+      <band id="1932">Burnley Alliance Silver</band>
+      <conductor id="308427">Neville Rogerson</conductor>
+      <test-piece id="435">Chorale and Variations [Lucas]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

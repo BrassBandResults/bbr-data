@@ -1,0 +1,68 @@
+<contest-event id="35217">
+  <event-date date="1950-9-15">Sept. 15, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="909">Sirius [Wright]</test-piece>
+  </test-piece>
+
+  <venue id="314">Adelaide, South Australia, Australia</venue>
+  <notes>Championship included Test &amp; Own Choice Selections
+Oval March  points listed under Sacred
+Quickstep March  points listed under Stage March
+
+The scheduled 1949 Australian championships event at Launceston, Tasmania was postponed due to an outbreak of poliomyelitis. It was rescheduled for Easter, 10th April 1950. As a result two Australian championship events were held in 1950; this was the designated 1950 event.
+
+Own choice 15th Sep, Test 16th Sep.
+
+Quickstep Diagram March &amp; Oval March points were also included to determine the Championshipo</notes>
+
+  <created>May 2, 2016, 12:22 a.m.</created>
+  <last-modified>March 15, 2018, 5:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253600">
+      <result code="1">1</result>
+      <band id="2176">Mount Gambier Band</band>
+      <conductor id="305594">Jack Marks</conductor>
+    </result>
+    
+    <result id="253601">
+      <result code="2">2</result>
+      <band id="13790">Prospect City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="253602">
+      <result code="3">3</result>
+      <band id="13791">Hindmarsh Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="253603">
+      <result code="4">4</result>
+      <band id="13741">Magill</band>
+      <conductor id="305308">Orto Lovell</conductor>
+    </result>
+    
+    <result id="253604">
+      <result code="5">5</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="310562">Albert Trembath</conductor>
+    </result>
+    
+  </results>
+</contest-event>

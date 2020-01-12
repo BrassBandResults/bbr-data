@@ -1,0 +1,54 @@
+<contest-event id="13245">
+  <event-date date="1897-6-21">June 21, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnsley Contest</name>
+  <contest id="1178">
+    <name>Barnsley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="267">Barnsley Contest [1800s]</group>
+    <slug>barnsley-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1736">Barnsley, Yorkshire</venue>
+  <notes></notes>
+
+  <created>May 5, 2012, 3:18 p.m.</created>
+  <last-modified>May 5, 2012, 3:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105253">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105254">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105255">
+      <result code="3">3</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105256">
+      <result code="3">3</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

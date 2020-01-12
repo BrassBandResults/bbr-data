@@ -1,0 +1,78 @@
+<contest-event id="39250">
+  <event-date date="1985-10-27">Oct. 27, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (C Grade)</name>
+  <contest id="897">
+    <name>Victorian State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="285">A Malvern Suite</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>Bands played in the same order for both selections</notes>
+
+  <created>March 6, 2018, 1 a.m.</created>
+  <last-modified>Oct. 5, 2019, 5:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="285185">
+      <result code="1">1</result>
+      <band id="2195">Warrnambool City Band</band>
+      <conductor id="305075">Ross Lewis</conductor>
+      <test-piece id="70">The Shipbuilders</test-piece>
+    </result>
+    
+    <result id="285186">
+      <result code="2">2</result>
+      <band id="2318">Frankston City Band</band>
+      <conductor id="297456">Frank Bardi</conductor>
+      <test-piece id="924">Sea Dogs</test-piece>
+    </result>
+    
+    <result id="285187">
+      <result code="3">3</result>
+      <band id="2401">Marong Municipal (Hopetoun) Brass Band</band>
+      <conductor id="305962">Brian McMennemin</conductor>
+      <test-piece id="150">Sinfonietta Pastorale</test-piece>
+    </result>
+    
+    <result id="285188">
+      <result code="4">4</result>
+      <band id="2248">Beaufort Municipal Band</band>
+      <conductor id="317720">Ian Loft</conductor>
+      <test-piece id="559">Othello</test-piece>
+    </result>
+    
+    <result id="285189">
+      <result code="5">5</result>
+      <band id="727">Eaglehawk Citizens Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="973">The Pacemakers</test-piece>
+    </result>
+    
+    <result id="285190">
+      <result code="6">6</result>
+      <band id="16742">Daylesford &amp; District  Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="70">The Shipbuilders</test-piece>
+    </result>
+    
+    <result id="285191">
+      <result code="W">Withdrawn</result>
+      <band id="13256">Ringwood  City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

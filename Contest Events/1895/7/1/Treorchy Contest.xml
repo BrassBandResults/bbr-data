@@ -1,0 +1,56 @@
+<contest-event id="12535">
+  <event-date date="1895-7-1">July 1, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treorchy Contest</name>
+  <contest id="2180">
+    <name>Treorchy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treorchy-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1586">Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>Prizes: £15, £10, £5
+March contest: 1. Ferndale
+4 bands competed.</notes>
+
+  <created>April 15, 2012, 10:15 p.m.</created>
+  <last-modified>June 20, 2019, 6:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100133">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="308620">James Ryan</conductor>
+    </result>
+    
+    <result id="100134">
+      <result code="2">2</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302243">John Griffiths</conductor>
+    </result>
+    
+    <result id="100135">
+      <result code="3">3</result>
+      <band id="7498">Dowlais Town</band>
+      <conductor id="306607">J. Nash</conductor>
+    </result>
+    
+    <result id="310617">
+      <result code="4">4</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="300793">T. C. Edwards</conductor>
+    </result>
+    
+  </results>
+</contest-event>

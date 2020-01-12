@@ -1,0 +1,78 @@
+<contest-event id="34767">
+  <event-date date="1976-4-17">April 17, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="565">Cornish Festival Overture</test-piece>
+  </test-piece>
+
+  <venue id="3768">Southport, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>March 25, 2016, 2:28 a.m.</created>
+  <last-modified>March 25, 2016, 9:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="251151">
+      <result code="1">1</result>
+      <band id="2176">Mount Gambier Band</band>
+      <conductor id="300769">Don Edwards</conductor>
+      <test-piece id="1265">Nabucodonosor - Overture [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="251127">
+      <result code="2">2</result>
+      <band id="9293">Moree &amp; District Band</band>
+      <conductor id="306671">Ted Newbery</conductor>
+      <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+    </result>
+    
+    <result id="251128">
+      <result code="3">3</result>
+      <band id="735">Maitland City Band</band>
+      <conductor id="297288">Dennis Babbage</conductor>
+      <test-piece id="409">First Suite in Eb</test-piece>
+    </result>
+    
+    <result id="251152">
+      <result code="4">4</result>
+      <band id="2305">Bankstown City Brass Band</band>
+      <conductor id="307426">Norm Peverell</conductor>
+      <test-piece id="1165">Les Preludes [arr. Rimmer]</test-piece>
+    </result>
+    
+    <result id="251130">
+      <result code="5">5</result>
+      <band id="13470">25th Battalion Royal Queensland Regiment</band>
+      <conductor id="297868">J. Bestman</conductor>
+      <test-piece id="159">Indian Summer</test-piece>
+    </result>
+    
+    <result id="251131">
+      <result code="6">6</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="302027">W. Graham</conductor>
+      <test-piece id="804">The Royal Water Music</test-piece>
+    </result>
+    
+    <result id="251132">
+      <result code="W">Withdrawn</result>
+      <band id="9275">City of Devonport Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

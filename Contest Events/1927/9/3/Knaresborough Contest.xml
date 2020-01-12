@@ -1,0 +1,67 @@
+<contest-event id="26981">
+  <event-date date="1927-9-3">Sept. 3, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Knaresborough Contest</name>
+  <contest id="5148">
+    <name>Knaresborough Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="517">Knaresborough Contest</group>
+    <slug>knaresborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="4591">Conyngham Hall Park, Knaresborough, Yorkshire</venue>
+  <notes>Hymn tune contest - 1st Bradford City, 2nd Ripon.
+6 bands competed</notes>
+
+  <created>April 6, 2014, 10:30 p.m.</created>
+  <last-modified>Nov. 22, 2018, 10:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="300464">
+      <result code="1">1</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="300465">
+      <result code="2">2</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="312600">H. Cassel</conductor>
+    </result>
+    
+    <result id="300466">
+      <result code="3">3</result>
+      <band id="8069">Harrogate Borough</band>
+      <conductor id="299842">J. Cozens</conductor>
+    </result>
+    
+    <result id="300467">
+      <result code="4">4</result>
+      <band id="3325">Brotherton Old</band>
+      <conductor id="300732">Joseph Eaton</conductor>
+    </result>
+    
+    <result id="300468">
+      <result code="">Unknown Result</result>
+      <band id="340">Ripon City Band</band>
+      <conductor id="303091">Harry W. Hill</conductor>
+    </result>
+    
+    <result id="300469">
+      <result code="">Unknown Result</result>
+      <band id="441">Stanley Newmarket Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

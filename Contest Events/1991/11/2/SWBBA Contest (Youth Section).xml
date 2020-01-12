@@ -1,0 +1,48 @@
+<contest-event id="11186">
+  <event-date date="1991-11-2">Nov. 2, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Youth Section)</name>
+  <contest id="437">
+    <name>SWBBA Contest (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="14">Hymn &amp; Own Choice Test Piece Contest (Separate Points)</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-youth-section</slug>
+    
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1062">A Circus Suite</test-piece>
+  </test-piece>
+
+  <venue id="263">Festival Theatre, Paignton, Devon, England, UK</venue>
+  <notes></notes>
+
+  <created>March 16, 2012, 11:54 a.m.</created>
+  <last-modified>March 16, 2012, 11:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="92631">
+      <result code="1">1</result>
+      <band id="7253">Helston Juniors</band>
+      <conductor id="298835">A. K. Bushy</conductor>
+    </result>
+    
+    <result id="92632">
+      <result code="2">2</result>
+      <band id="7254">Laira Youth</band>
+      <conductor id="303312">A. R. Hollick</conductor>
+    </result>
+    
+    <result id="92633">
+      <result code="3">3</result>
+      <band id="7255">St. Agnes Youth</band>
+      <conductor id="306918">R. D. Olds</conductor>
+    </result>
+    
+  </results>
+</contest-event>

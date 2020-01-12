@@ -1,0 +1,50 @@
+<contest-event id="26525">
+  <event-date date="1950-8-19">Aug. 19, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Fourth Section)</name>
+  <contest id="3889">
+    <name>Stenalees Contest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-contest-fourth-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2895">March: Listen to the Band</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>Hymn tune contest - &#39;Lavinia&#39; - 1st St Agnes, 2nd Helston, 3rd Gweek.
+6 bands competed.
+</notes>
+
+  <created>Feb. 22, 2014, 4:02 p.m.</created>
+  <last-modified>July 2, 2016, 9:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="192129">
+      <result code="1">1</result>
+      <band id="299">Helston Town Band</band>
+      <conductor id="302913">C. L. Hender</conductor>
+    </result>
+    
+    <result id="192130">
+      <result code="2">2</result>
+      <band id="4013">St. Agnes Silver Band</band>
+      <conductor id="306278">Frank Moore</conductor>
+    </result>
+    
+    <result id="192131">
+      <result code="3">3</result>
+      <band id="4011">Gweek Silver Band</band>
+      <conductor id="299173">Thomas Chainey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

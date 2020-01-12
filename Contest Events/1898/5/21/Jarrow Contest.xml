@@ -1,0 +1,68 @@
+<contest-event id="13445">
+  <event-date date="1898-5-21">May 21, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Jarrow Contest</name>
+  <contest id="1860">
+    <name>Jarrow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="221">Jarrow Contest</group>
+    <slug>jarrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1955">Memories of Mozart</test-piece>
+  </test-piece>
+
+  <venue id="1309">Jarrow, Tyne and Wear, England, UK</venue>
+  <notes>Prizes: £9, £3, £2, £1
+March contest: 1. Consett Ironworks, 2. Jarrow
+6 bands competed</notes>
+
+  <created>May 12, 2012, 10:03 p.m.</created>
+  <last-modified>July 15, 2019, 9:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106686">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="106687">
+      <result code="2">2</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="106688">
+      <result code="3">3</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="106689">
+      <result code="4">4</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="106691">
+      <result code="">Unknown Result</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106690">
+      <result code="">Unknown Result</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="30645">
+  <event-date date="1991-3-2">March 2, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (3rd Section)</name>
+  <contest id="3630">
+    <name>Cornwall BBA Contest (3rd Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-3rd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="547">Simon called Peter</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>Best instrumentalist - Tamsin Thomas (horn) Pendennis.</notes>
+
+  <created>Dec. 14, 2014, 9:09 a.m.</created>
+  <last-modified>Dec. 14, 2014, 9:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="216713">
+      <result code="1">1</result>
+      <band id="550">Launceston Town Band</band>
+      <conductor id="299164">Nick Chadd</conductor>
+    </result>
+    
+    <result id="216714">
+      <result code="2">2</result>
+      <band id="351">Pendennis Brass (Falmouth) Band</band>
+      <conductor id="310279">Glyn Thomas</conductor>
+    </result>
+    
+    <result id="216715">
+      <result code="3">3</result>
+      <band id="348">St. Breward Silver Band</band>
+      <conductor id="303667">Micky Hunt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

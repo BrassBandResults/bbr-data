@@ -1,0 +1,55 @@
+<contest-event id="12146">
+  <event-date date="1981-2-15">Feb. 15, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Contest (Championship Section)</name>
+  <contest id="1103">
+    <name>NWABBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="142">NWABBA Contest</group>
+    <slug>nwabba-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="297">Le Carnaval Romain [arr. Wrigth]</test-piece>
+  </test-piece>
+
+  <venue id="551">Bolton Town Hall, Bolton, Greater Manchester, England, UK</venue>
+  <notes>Prizes - 1st £300 and trophy, 2nd £150 and trophy.
+4 bands competed.</notes>
+
+  <created>April 9, 2012, 4:29 p.m.</created>
+  <last-modified>Dec. 16, 2014, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="201356">
+      <result code="1">1</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="311318">P. Weston</conductor>
+    </result>
+    
+    <result id="201357">
+      <result code="2">2</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="311945">Ernest Woodhouse</conductor>
+    </result>
+    
+    <result id="97561">
+      <result code="3">3</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="216977">
+      <result code="4">4</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310879">Roy Waite</conductor>
+    </result>
+    
+  </results>
+</contest-event>

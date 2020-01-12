@@ -1,0 +1,48 @@
+<contest-event id="22711">
+  <event-date date="1957-4-28">April 28, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest (B Section)</name>
+  <contest id="1391">
+    <name>Blackpool Contest (B Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1019">The Black Prince</test-piece>
+  </test-piece>
+
+  <venue id="6028">Tower Circus, Blackpool, Lancashire, England, UK</venue>
+  <notes></notes>
+
+  <created>Aug. 12, 2013, 9:19 p.m.</created>
+  <last-modified>April 10, 2017, 8:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="167894">
+      <result code="1">1</result>
+      <band id="2746">Upton Colliery Workpeople&#39;s Band</band>
+      <conductor id="309761">Joseph Stevens</conductor>
+    </result>
+    
+    <result id="167895">
+      <result code="2">2</result>
+      <band id="3173">Ravensthorpe Subscription</band>
+      <conductor id="302374">F. Haigh</conductor>
+    </result>
+    
+    <result id="167896">
+      <result code="3">3</result>
+      <band id="1309">British Aerospace (Chadderton)</band>
+      <conductor id="305615">G. Marsden</conductor>
+    </result>
+    
+  </results>
+</contest-event>

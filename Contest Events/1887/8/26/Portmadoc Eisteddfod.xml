@@ -1,0 +1,54 @@
+<contest-event id="26758">
+  <event-date date="1887-8-26">Aug. 26, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Portmadoc Eisteddfod</name>
+  <contest id="5158">
+    <name>Portmadoc Eisteddfod</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>portmadoc-eisteddfod</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4533">Porthmadog, Gwynedd, Wales, UK</venue>
+  <notes>Prizes: £20 and £5</notes>
+
+  <created>March 30, 2014, 10:53 p.m.</created>
+  <last-modified>March 30, 2014, 10:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193737">
+      <result code="1">1</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="193735">
+      <result code="2">2</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="307457">W. P. Phillips</conductor>
+    </result>
+    
+    <result id="193736">
+      <result code="3">3</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="302732">J. Hartman</conductor>
+    </result>
+    
+    <result id="193738">
+      <result code="D">Disqualified</result>
+      <band id="12513">Gwynedd</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

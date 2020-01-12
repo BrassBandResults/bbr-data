@@ -1,0 +1,86 @@
+<contest-event id="13444">
+  <event-date date="1898-5-21">May 21, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grangetown Contest</name>
+  <contest id="2103">
+    <name>Grangetown Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="349">Grangetown Contest</group>
+    <slug>grangetown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2555">Zampa [arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="4270">Recreation Ground, Grangetown, North Yorkshire</venue>
+  <notes>Promoted by Cleveland Steel Works Band
+Prizes: £6 and cornet, £4, £2, £1
+8 bands competed</notes>
+
+  <created>May 12, 2012, 10:01 p.m.</created>
+  <last-modified>July 16, 2019, 9:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106678">
+      <result code="1">1</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="106679">
+      <result code="2">2</result>
+      <band id="7920">Middlesbrough Erimus</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="106680">
+      <result code="3">3</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="303865">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="106681">
+      <result code="4">4</result>
+      <band id="4655">Eston Miners</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="106685">
+      <result code="">Unknown Result</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106684">
+      <result code="">Unknown Result</result>
+      <band id="8377">Middlesbrough Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106683">
+      <result code="">Unknown Result</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106682">
+      <result code="">Unknown Result</result>
+      <band id="7839">Westwood</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205376">
+      <result code="W">Withdrawn</result>
+      <band id="3494">Farnley Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

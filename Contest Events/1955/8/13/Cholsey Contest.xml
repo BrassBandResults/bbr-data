@@ -1,0 +1,62 @@
+<contest-event id="20175">
+  <event-date date="1955-8-13">Aug. 13, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cholsey Contest</name>
+  <contest id="3939">
+    <name>Cholsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cholsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3154">Cholsey, Oxfordshire</venue>
+  <notes>March contest - 1st Cholsey, 2nd Newport Pagnell, 3rd East Woodhay.
+  Waltz contest - 1st Cholsey, 2nd Newport Pagnell, 3rd Beenham.
+5 bands competed</notes>
+
+  <created>March 31, 2013, 6:23 p.m.</created>
+  <last-modified>April 24, 2019, 10:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="149966">
+      <result code="1">1</result>
+      <band id="3189">Cholsey Silver Band</band>
+      <conductor id="311112">George Watkins</conductor>
+    </result>
+    
+    <result id="149967">
+      <result code="2">2</result>
+      <band id="1481">East Woodhay Silver</band>
+      <conductor id="311192">Des Webb</conductor>
+    </result>
+    
+    <result id="149968">
+      <result code="3">3</result>
+      <band id="2974">Newport Pagnell Town Band</band>
+      <conductor id="311640">J. L. Williams</conductor>
+    </result>
+    
+    <result id="149969">
+      <result code="">Unknown Result</result>
+      <band id="8007">Beenham Brass Band</band>
+      <conductor id="311163">J. Watts</conductor>
+    </result>
+    
+    <result id="149970">
+      <result code="">Unknown Result</result>
+      <band id="2737">Kidlington Silver</band>
+      <conductor id="299271">George Chesterman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="41226">
+  <event-date date="1926-6-5">June 5, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class C)</name>
+  <contest id="4008">
+    <name>West Wales BBA Contest (Class C)</name>
+    <order>230</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="2418">Kidwelly Castle, Carmarthenshire</venue>
+  <notes>Prizes - 1st £7, 2nd £4, 3rd £2.
+6 bands competed.</notes>
+
+  <created>Nov. 10, 2018, 11:32 a.m.</created>
+  <last-modified>Nov. 10, 2018, 11:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="299530">
+      <result code="1">1</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">T. C. White</conductor>
+    </result>
+    
+    <result id="299531">
+      <result code="2">2</result>
+      <band id="10608">Swansea St. John Ambulance</band>
+      <conductor id="318301">Paul Jenkins</conductor>
+    </result>
+    
+    <result id="299532">
+      <result code="3">3</result>
+      <band id="7072">Gorseinon</band>
+      <conductor id="309551">T. W. Speak</conductor>
+    </result>
+    
+    <result id="299533">
+      <result code="">Unknown Result</result>
+      <band id="6763">Llandilo</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299534">
+      <result code="">Unknown Result</result>
+      <band id="10616">Penclawdd Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299535">
+      <result code="">Unknown Result</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

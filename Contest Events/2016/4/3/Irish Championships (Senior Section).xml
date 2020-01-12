@@ -1,0 +1,57 @@
+<contest-event id="34923">
+  <event-date date="2016-4-3">April 3, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Irish Championships (Senior Section)</name>
+  <contest id="384">
+    <name>IABCB National Band Championships (Section 1 Brass)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="65">IABCB National Band Championships of Ireland </group>
+    <slug>iabcb-national-band-championships-section1</slug>
+    
+    <notes></notes>
+    <region id="24">Republic of Ireland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3426">The Mermaid of Zennor</test-piece>
+  </test-piece>
+
+  <venue id="4616">Solstice Arts Centre, Navan, County Meath, Republic of Ireland</venue>
+  <notes>Own choice: Drogheda - Psalms &amp; Alleluias P. Wilby,
+                     Lourdes - Rhapsody in Brass D. Goffin
+                     Arklow - Fantasy for Brass M. Arnold
+                     Stedfast - Laudate Dominum Variations E. Gregson</notes>
+
+  <created>April 3, 2016, 8:33 p.m.</created>
+  <last-modified>March 5, 2018, 5:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="252006">
+      <result code="1">1</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305489">Michael Maher</conductor>
+    </result>
+    
+    <result id="252007">
+      <result code="2">2</result>
+      <band id="1340">Lourdes Brass</band>
+      <conductor id="302534">Michael Hannan</conductor>
+    </result>
+    
+    <result id="252008">
+      <result code="3">3</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="305413">James MacCafferty</conductor>
+    </result>
+    
+    <result id="252009">
+      <result code="4">4</result>
+      <band id="1402">Stedfast Band</band>
+      <conductor id="300071">Brian Daly</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="42259">
+  <event-date date="1981-4-18">April 18, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="470">Concert Overture for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="7134">Ipswich City Hall, Ipswich,  Queensland Australia</venue>
+  <notes>only information known
+Concert Item included for championship--results unknown</notes>
+
+  <created>June 1, 2019, 12:29 a.m.</created>
+  <last-modified>June 1, 2019, 1:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="308968">
+      <result code="1">1</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310266">Colin Thomas</conductor>
+    </result>
+    
+    <result id="308969">
+      <result code="">Unknown Result</result>
+      <band id="17999">Nambour Maroochy District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="308970">
+      <result code="">Unknown Result</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="299108">Noel Cassels</conductor>
+    </result>
+    
+    <result id="308971">
+      <result code="">Unknown Result</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="303338">Bill Holmes</conductor>
+    </result>
+    
+    <result id="308972">
+      <result code="">Unknown Result</result>
+      <band id="11230">Cairns Municipal</band>
+      <conductor id="303914">Frank James</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="42819">
+  <event-date date="1985-7-21">July 21, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+  <contest id="3040">
+    <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+    <order>50</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-junior-a-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="51">Ballet for Band</test-piece>
+  </test-piece>
+
+  <venue id="7209">Cosgrove High School , City of Glenorchy,  Tasmania  Australia</venue>
+  <notes>Bands required to also play a Hymn ( not included in championship )</notes>
+
+  <created>Nov. 6, 2019, 11:56 p.m.</created>
+  <last-modified>Nov. 7, 2019, 12:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="313542">
+      <result code="1">1</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+    </result>
+    
+    <result id="313541">
+      <result code="2">2</result>
+      <band id="18329">Glenorchy City Concert Juniors</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+    </result>
+    
+    <result id="313543">
+      <result code="3">3</result>
+      <band id="9276">City of Devonport Juniors</band>
+      <conductor id="300858">Nigel Elliott</conductor>
+    </result>
+    
+  </results>
+</contest-event>

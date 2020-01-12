@@ -1,0 +1,48 @@
+<contest-event id="23540">
+  <event-date date="1977-11-20">Nov. 20, 1977<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Entertainment Contest</name>
+  <contest id="4164">
+    <name>Doncaster Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3955">Welfare Hall, Brodsworth Colliery, Yorkshire</venue>
+  <notes></notes>
+
+  <created>Sept. 7, 2013, 12:38 p.m.</created>
+  <last-modified>Sept. 7, 2013, 12:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="172599">
+      <result code="1">1</result>
+      <band id="127">Barnsley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="172600">
+      <result code="2">2</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="172601">
+      <result code="W">Withdrawn</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="15608">
+  <event-date date="1912-8-24">Aug. 24, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dartford Contest (Section 2)</name>
+  <contest id="1910">
+    <name>Dartford Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="216">Dartford Contest</group>
+    <slug>dartford-contest-section-2</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+  </test-piece>
+
+  <venue id="1349">Dartford, Kent, England, UK</venue>
+  <notes>  Best cornet, trombone, baritone and euphonium - Dartford Town.
+
+  8 bands competed.</notes>
+
+  <created>Oct. 26, 2012, 3:36 p.m.</created>
+  <last-modified>Oct. 26, 2012, 9:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="120636">
+      <result code="1">1</result>
+      <band id="7231">Dartford Town</band>
+      <conductor id="311052">J. Ware</conductor>
+    </result>
+    
+    <result id="120637">
+      <result code="2">2</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="120638">
+      <result code="3">3</result>
+      <band id="8151">Battersea Temperance</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="120639">
+      <result code="4">4</result>
+      <band id="617">Hitchin Band</band>
+      <conductor id="298987">T. Cannon</conductor>
+    </result>
+    
+    <result id="120640">
+      <result code="">Unknown Result</result>
+      <band id="4527">Willesden</band>
+      <conductor id="305959">C. McManus</conductor>
+    </result>
+    
+    <result id="120641">
+      <result code="">Unknown Result</result>
+      <band id="8186">Camberwell Silver</band>
+      <conductor id="302055">W. W. Grant</conductor>
+    </result>
+    
+    <result id="120642">
+      <result code="">Unknown Result</result>
+      <band id="9768">Arc Works Chelmsford</band>
+      <conductor id="302430">W. Hall</conductor>
+    </result>
+    
+    <result id="120647">
+      <result code="">Unknown Result</result>
+      <band id="7188">Wandsworth Borough</band>
+      <conductor id="302868">W. Heath</conductor>
+    </result>
+    
+  </results>
+</contest-event>

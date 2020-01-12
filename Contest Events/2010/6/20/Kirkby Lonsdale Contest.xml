@@ -1,0 +1,78 @@
+<contest-event id="1776">
+  <event-date date="2010-6-20">June 20, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkby Lonsdale Contest</name>
+  <contest id="1392">
+    <name>Kirkby Lonsdale Contest</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkby-lonsdale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="35">Market Square, Kirkby Lonsdale, Cumbria, England, UK</venue>
+  <notes>Deportment: Sale Brass
+Best hymn tune: Sale Brass
+Instrumentalist - Mike Lumsden, Principal Cornet, Ripon City Band
+
+Third section:
+1 Ripon
+2 Kirkby Lonsdale
+
+Fourth section:
+1 Pilling
+2 Sale
+3 Tarleton</notes>
+
+  <created>April 27, 2010, 8:21 a.m.</created>
+  <last-modified>Oct. 27, 2014, 2:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="18982">
+      <result code="1">1</result>
+      <band id="216">Pilling Jubilee Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="18983">
+      <result code="2">2</result>
+      <band id="226">Sale Brass Band</band>
+      <conductor id="300385">John Dickinson</conductor>
+    </result>
+    
+    <result id="212194">
+      <result code="3">3</result>
+      <band id="340">Ripon City Band</band>
+      <conductor id="300366">Malcolm Dibb</conductor>
+    </result>
+    
+    <result id="26401">
+      <result code="7">7</result>
+      <band id="1202">Lancaster City Brass</band>
+      <conductor id="304132">Laurie Johnston</conductor>
+      <test-piece id="151">The Haslemere Suite</test-piece>
+    </result>
+    
+    <result id="18984">
+      <result code="">Unknown Result</result>
+      <band id="221">Tarleton and District Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212195">
+      <result code="">Unknown Result</result>
+      <band id="383">Kirkby Lonsdale Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

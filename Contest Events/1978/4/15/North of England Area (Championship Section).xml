@@ -1,0 +1,78 @@
+<contest-event id="1956">
+  <event-date date="1978-4-15">April 15, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="192">The Belmont Variations</test-piece>
+  </test-piece>
+
+  <venue id="718">Town Hall, Middlesbrough, North Yorkshire</venue>
+  <notes>  8 bands competed.</notes>
+
+  <created>May 18, 2010, 4:18 p.m.</created>
+  <last-modified>Dec. 1, 2014, 4:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="44822">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+    <result id="18396">
+      <result code="2">2</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="311517">Dennis Wilby</conductor>
+    </result>
+    
+    <result id="172948">
+      <result code="3">3</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="310879">Roy Waite</conductor>
+    </result>
+    
+    <result id="172949">
+      <result code="">Unknown Result</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="172951">
+      <result code="">Unknown Result</result>
+      <band id="921">Northumbria Police Band</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="172952">
+      <result code="">Unknown Result</result>
+      <band id="3471">Sunderland International Concert Band</band>
+      <conductor id="310986">D. W. Walton</conductor>
+    </result>
+    
+    <result id="172953">
+      <result code="">Unknown Result</result>
+      <band id="2902">Washington Welfare</band>
+      <conductor id="308528">George Rowell</conductor>
+    </result>
+    
+    <result id="172950">
+      <result code="">Unknown Result</result>
+      <band id="799">Yarm &amp; District Band</band>
+      <conductor id="306104">C. Midgley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

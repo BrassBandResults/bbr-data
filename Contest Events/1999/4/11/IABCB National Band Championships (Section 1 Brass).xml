@@ -1,0 +1,58 @@
+<contest-event id="5595">
+  <event-date date="1999-4-11">April 11, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>IABCB National Band Championships (Section 1 Brass)</name>
+  <contest id="384">
+    <name>IABCB National Band Championships (Section 1 Brass)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="65">IABCB National Band Championships of Ireland </group>
+    <slug>iabcb-national-band-championships-section1</slug>
+    
+    <notes></notes>
+    <region id="24">Republic of Ireland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="194">The Plantagenets</test-piece>
+  </test-piece>
+
+  <venue id="1665">Wesley College, Dublin, County Dublin, Republic of Ireland</venue>
+  <notes></notes>
+
+  <created>April 26, 2011, 10:01 a.m.</created>
+  <last-modified>May 21, 2012, 8:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="48330">
+      <result code="1">1</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305489">Michael Maher</conductor>
+      <test-piece id="864">California Legend</test-piece>
+    </result>
+    
+    <result id="231366">
+      <result code="2">2</result>
+      <band id="2633">Loch Garman Silver</band>
+      <conductor id="299334">J. Clancy</conductor>
+      <test-piece id="72">Entertainments</test-piece>
+    </result>
+    
+    <result id="48331">
+      <result code="3">3</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="298162">John Bonner</conductor>
+      <test-piece id="112">Purcell Variations [Downie]</test-piece>
+    </result>
+    
+    <result id="231367">
+      <result code="4">4</result>
+      <band id="1402">Stedfast Band</band>
+      <conductor id="300071">Brian Daly</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

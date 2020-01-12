@@ -1,0 +1,48 @@
+<contest-event id="30111">
+  <event-date date="1988-11-26">Nov. 26, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Second Section)</name>
+  <contest id="1772">
+    <name>North Wales Rally (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3179">Balmoral Inventions</test-piece>
+  </test-piece>
+
+  <venue id="3526">Coleg Cambria, Connah&#39;s Quay, Flintshire, Wales, UK</venue>
+  <notes>March contest - 1st Rhos and District.</notes>
+
+  <created>Nov. 4, 2014, 2:52 p.m.</created>
+  <last-modified>Nov. 4, 2014, 2:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213133">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="303605">Mervin Hughes</conductor>
+    </result>
+    
+    <result id="213134">
+      <result code="2">2</result>
+      <band id="1514">Ifton Colliery Band</band>
+      <conductor id="300327">M. Denny</conductor>
+    </result>
+    
+    <result id="213135">
+      <result code="3">3</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="309363">G. G. Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

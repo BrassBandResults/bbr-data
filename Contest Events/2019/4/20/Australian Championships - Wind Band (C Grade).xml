@@ -1,0 +1,57 @@
+<contest-event id="42142">
+  <event-date date="2019-4-20">April 20, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (C Grade)</name>
+  <contest id="6139">
+    <name>Australian Championships - Wind Band (C Grade)</name>
+    <order>2</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-c-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5950">Primordial Overture</test-piece>
+  </test-piece>
+
+  <venue id="304">Brisbane City Hall, Brisbane, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>May 6, 2019, 5:14 a.m.</created>
+  <last-modified>May 6, 2019, 7 a.m.</last-modified>
+
+  <results>
+    
+    <result id="308140">
+      <result code="1">1</result>
+      <band id="17914">Northern Beaches Symphonic  Youth (NSW)</band>
+      <conductor id="316257">Jennifer Power</conductor>
+      <test-piece id="5953">Fanfare &amp; Soliloquy for Band</test-piece>
+    </result>
+    
+    <result id="308141">
+      <result code="2">2</result>
+      <band id="17915">Killara Symphonic Wind Ensemble   (NSW)</band>
+      <conductor id="319128">Melinda Hole</conductor>
+      <test-piece id="5952">Paradiso</test-piece>
+    </result>
+    
+    <result id="308142">
+      <result code="3">3</result>
+      <band id="17916">Redland City Wind Ensemble  (Qld)</band>
+      <conductor id="319129">Louise McGill</conductor>
+      <test-piece id="5951">Chanteys</test-piece>
+    </result>
+    
+    <result id="308143">
+      <result code="W">Withdrawn</result>
+      <band id="17907">Launceston College Community Concert  (Tas)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

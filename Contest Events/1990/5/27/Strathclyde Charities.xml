@@ -1,0 +1,74 @@
+<contest-event id="30260">
+  <event-date date="1990-5-27">May 27, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Strathclyde Charities</name>
+  <contest id="257">
+    <name>Strathclyde Charities</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>strathclyde-charities</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="874">Kilmarnock, East Ayrshire, Scotland, UK</venue>
+  <notes>Best section 2 band - Clydebank.
+Best section 3 band - Southside Brass.
+Best section 4 band - Kelty &amp; Blairadam.</notes>
+
+  <created>Nov. 13, 2014, 2:11 p.m.</created>
+  <last-modified>Nov. 13, 2014, 2:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="214089">
+      <result code="1">1</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="301204">Alan Fernie</conductor>
+    </result>
+    
+    <result id="214090">
+      <result code="2">2</result>
+      <band id="1276">South Side Brass (Glasgow)</band>
+      <conductor id="309987">Tony Swainson</conductor>
+    </result>
+    
+    <result id="214091">
+      <result code="3">3</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="300164">James Davies</conductor>
+    </result>
+    
+    <result id="214092">
+      <result code="4">4</result>
+      <band id="897">Kilmarnock Concert Brass</band>
+      <conductor id="304363">Andrew Keachie</conductor>
+    </result>
+    
+    <result id="214093">
+      <result code="">Unknown Result</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="305834">James G. McColl</conductor>
+    </result>
+    
+    <result id="214095">
+      <result code="">Unknown Result</result>
+      <band id="317">Dunaskin Doon Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="214094">
+      <result code="">Unknown Result</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="297787">George Bennett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

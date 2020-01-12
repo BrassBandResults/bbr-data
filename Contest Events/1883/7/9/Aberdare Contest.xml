@@ -1,0 +1,66 @@
+<contest-event id="38387">
+  <event-date date="1883-7-9">July 9, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aberdare Contest</name>
+  <contest id="1641">
+    <name>Aberdare Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>aberdare-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1498">A String of Pearls</test-piece>
+  </test-piece>
+
+  <venue id="2906">Ynys Recreation Ground, Aberdare, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>Prizes: £15, £5</notes>
+
+  <created>July 7, 2017, 10 a.m.</created>
+  <last-modified>July 7, 2017, 10:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="277881">
+      <result code="1">1</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hannay</conductor>
+    </result>
+    
+    <result id="277879">
+      <result code="2">2</result>
+      <band id="8318">Risca Military</band>
+      <conductor id="307688">James Prestwood</conductor>
+    </result>
+    
+    <result id="277880">
+      <result code="">Unknown Result</result>
+      <band id="15897">Celynen Philharmonic</band>
+      <conductor id="317020">A. N. Rogers</conductor>
+    </result>
+    
+    <result id="277882">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="307973">J. Reardon</conductor>
+    </result>
+    
+    <result id="277883">
+      <result code="">Unknown Result</result>
+      <band id="6182">Merthyr Volunteer</band>
+      <conductor id="317021">R. Cunningham</conductor>
+    </result>
+    
+    <result id="277884">
+      <result code="">Unknown Result</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

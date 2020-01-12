@@ -1,0 +1,48 @@
+<contest-event id="21301">
+  <event-date date="1975-2-2">Feb. 2, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Entertainment Contest</name>
+  <contest id="4164">
+    <name>Doncaster Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3475">Gaumont Theatre, Doncaster</venue>
+  <notes></notes>
+
+  <created>May 11, 2013, 9:39 p.m.</created>
+  <last-modified>May 11, 2013, 9:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="156998">
+      <result code="1">1</result>
+      <band id="518">Market Rasen (RESDEV) Band</band>
+      <conductor id="300780">Keith Edwards</conductor>
+    </result>
+    
+    <result id="156999">
+      <result code="2">2</result>
+      <band id="3140">Thorne Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157000">
+      <result code="3">3</result>
+      <band id="4211">Grimsby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

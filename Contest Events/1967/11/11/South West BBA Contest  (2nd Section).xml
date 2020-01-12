@@ -1,0 +1,49 @@
+<contest-event id="15178">
+  <event-date date="1967-11-11">Nov. 11, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South West BBA Contest  (2nd Section)</name>
+  <contest id="3189">
+    <name>South West BBA Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-west-bba-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="896">Ballet Music from William Tell [arr. D. Wright]</test-piece>
+  </test-piece>
+
+  <venue id="528">Barnstaple, Devon, England, UK</venue>
+  <notes>
+  Hymn tune - 1st Bideford Town</notes>
+
+  <created>Oct. 10, 2012, 4:12 p.m.</created>
+  <last-modified>March 30, 2013, 2:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118210">
+      <result code="1">1</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="303982">Alan Jenkin</conductor>
+    </result>
+    
+    <result id="149578">
+      <result code="2">2</result>
+      <band id="567">Bideford Town Band</band>
+      <conductor id="301684">W. M. Garratt</conductor>
+    </result>
+    
+    <result id="149579">
+      <result code="3">3</result>
+      <band id="379">Wincanton Silver Band</band>
+      <conductor id="301819">R. W. Gilham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,42 @@
+<contest-event id="38080">
+  <event-date date="2017-6-3">June 3, 2017<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (Fourth Division)</name>
+  <contest id="1830">
+    <name>French Open (Fourth Division)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-fourth-division</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="570">St. Andrews Variations [Fernie]</test-piece>
+  </test-piece>
+
+  <venue id="4798">Théâtre Municipal Beaumarchais, Amboise, Centre, France</venue>
+  <notes>Best Soloist: Arnaud Peru (cornet) — Brass Band A Tout Vent </notes>
+
+  <created>May 25, 2017, 1:13 p.m.</created>
+  <last-modified>June 7, 2017, 11:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="275052">
+      <result code="1">1</result>
+      <band id="8739">Regent Community Brass</band>
+      <conductor id="297654">Chris Bearman</conductor>
+    </result>
+    
+    <result id="275053">
+      <result code="2">2</result>
+      <band id="1761">Brass Band Junior du CRR de Tours</band>
+      <conductor id="303545">David Hubert</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="20046">
+  <event-date date="1967-6-24">June 24, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest</name>
+  <contest id="1022">
+    <name>Ruardean Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="356">Ruardean Contest</group>
+    <slug>ruardean-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>
+  March contest - 1st Cinderford, 2nd Watneys, 3rd Yorkley.
+  Hymn tune contest - 1st Cinderford, 2nd Watneys, 3rd Yorkley.
+  Best section 3 or 4 band - Berry Hill.</notes>
+
+  <created>March 29, 2013, 10:57 p.m.</created>
+  <last-modified>March 29, 2013, 11:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149359">
+      <result code="1">1</result>
+      <band id="2001">Richmond Band</band>
+      <conductor id="305995">Albert Meek</conductor>
+    </result>
+    
+    <result id="149360">
+      <result code="2">2</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="299224">Cecil Chappell</conductor>
+    </result>
+    
+    <result id="149361">
+      <result code="3">3</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="311113">Graham Watkins</conductor>
+    </result>
+    
+    <result id="149362">
+      <result code="">Unknown Result</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="302725">Harold Hartley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

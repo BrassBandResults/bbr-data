@@ -1,0 +1,54 @@
+<contest-event id="15141">
+  <event-date date="1986-9-20">Sept. 20, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Third Section)</name>
+  <contest id="5464">
+    <name>West Wales BBA Festival Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-festival-contest-third-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="629">Promenade</test-piece>
+  </test-piece>
+
+  <venue id="2179">Gwyn Hall, Neath, Neath Port Talbot, Wales UK</venue>
+  <notes></notes>
+
+  <created>Oct. 9, 2012, 9:23 p.m.</created>
+  <last-modified>Oct. 7, 2014, 3:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="125230">
+      <result code="1">1</result>
+      <band id="1267">Abertillery &amp; District Youth</band>
+      <conductor id="311587">Alun Williams</conductor>
+    </result>
+    
+    <result id="125231">
+      <result code="2">2</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="305033">A. R. Lewis</conductor>
+    </result>
+    
+    <result id="125232">
+      <result code="3">3</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="308001">M. Reece</conductor>
+    </result>
+    
+    <result id="118093">
+      <result code="5">5</result>
+      <band id="48">Burry Port Town</band>
+      <conductor id="304003">Terry Jenkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

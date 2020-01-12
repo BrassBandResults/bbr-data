@@ -1,0 +1,56 @@
+<contest-event id="41172">
+  <event-date date="1925-8-29">Aug. 29, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glossop Contest</name>
+  <contest id="1448">
+    <name>Glossop Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>glossop-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="1901">Glossop, Derbyshire</venue>
+  <notes>March contest - 1st Farnworth Old, 2nd Cheetham Hill,
+Prizes - 1st £15, 2nd £9, 3rd £5, 4th £3.
+4 bands competed</notes>
+
+  <created>Nov. 7, 2018, 10:37 a.m.</created>
+  <last-modified>Nov. 7, 2018, 10:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="299063">
+      <result code="1">1</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="318454">James Wright</conductor>
+    </result>
+    
+    <result id="299064">
+      <result code="2">2</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="299065">
+      <result code="3">3</result>
+      <band id="1798">Kidsgrove Excelsior</band>
+      <conductor id="310402">James Thorpe</conductor>
+    </result>
+    
+    <result id="299066">
+      <result code="4">4</result>
+      <band id="480">Tintwistle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

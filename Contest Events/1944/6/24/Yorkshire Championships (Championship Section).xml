@@ -1,0 +1,72 @@
+<contest-event id="5658">
+  <event-date date="1944-6-24">June 24, 1944<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Championships (Championship Section)</name>
+  <contest id="9">
+    <name>Yorkshire Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="531">Academic Festival Overture</test-piece>
+  </test-piece>
+
+  <venue id="495">Odsal Stadium, Bradford</venue>
+  <notes>This contest (began 1943?) was not run as an Area contest in the Nationals sequence, but the 1945 running of this event was taken as the first running of the North Eastern (later Yorkshire) area contest. Also referred to as &quot;Yorkshire Festival&quot;. </notes>
+
+  <created>May 1, 2011, 12:04 p.m.</created>
+  <last-modified>Oct. 30, 2014, 3:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="48670">
+      <result code="1">1</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="48674">
+      <result code="2">2</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="311909">Samuel Balmforth Wood</conductor>
+    </result>
+    
+    <result id="48671">
+      <result code="">Unknown Result</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258813">
+      <result code="">Unknown Result</result>
+      <band id="142">Clifton and Lightcliffe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181568">
+      <result code="">Unknown Result</result>
+      <band id="1694">Halifax Home Guard</band>
+      <conductor id="299111">Tom Casson</conductor>
+    </result>
+    
+    <result id="48673">
+      <result code="">Unknown Result</result>
+      <band id="6165">YEWCO</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="48672">
+      <result code="">Unknown Result</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

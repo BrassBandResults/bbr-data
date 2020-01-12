@@ -1,0 +1,60 @@
+<contest-event id="20327">
+  <event-date date="1951-5-5">May 5, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Fourth Section)</name>
+  <contest id="126">
+    <name>Welsh Area (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="5">Fourth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1073">The Call of Youth</test-piece>
+  </test-piece>
+
+  <venue id="3084">Welfare Hall, Gwaun-cae-Gurwen</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>April 6, 2013, 12:52 p.m.</created>
+  <last-modified>July 7, 2016, 10:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="150784">
+      <result code="1">1</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="311916">W. J. Wood</conductor>
+    </result>
+    
+    <result id="192927">
+      <result code="2">2</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="302652">Gordon Harris</conductor>
+    </result>
+    
+    <result id="192925">
+      <result code="3">3</result>
+      <band id="10568">Pontyclun and District</band>
+      <conductor id="307021">T. J. Owen</conductor>
+    </result>
+    
+    <result id="192926">
+      <result code="4">4</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="311916">W. J. Wood</conductor>
+    </result>
+    
+    <result id="192924">
+      <result code="5">5</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="300975">D. R. Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

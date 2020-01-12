@@ -1,0 +1,55 @@
+<contest-event id="25353">
+  <event-date date="1913-6-28">June 28, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lincoln Temperance Fete and Gala Brass Band Contest</name>
+  <contest id="1498">
+    <name>Lincoln Temperance Fete and Gala Brass Band Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lincoln-temperance-fete-and-gala-brass-b-1498</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2802">Songs of Sentiment</test-piece>
+  </test-piece>
+
+  <venue id="2047">Lincoln Arboretum, Lincoln, Lincolnshire, England, UK</venue>
+  <notes>4 bands competed
+March: 1. Black Dyke, 2. Ruston&#39;s</notes>
+
+  <created>Nov. 29, 2013, 9:07 p.m.</created>
+  <last-modified>Oct. 1, 2018, 6:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="193116">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="193117">
+      <result code="2">2</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="184458">
+      <result code="3">3</result>
+      <band id="8158">Lincoln Ruston&#39;s Silver</band>
+      <conductor id="297620">E. Bausor</conductor>
+    </result>
+    
+    <result id="193118">
+      <result code="4">4</result>
+      <band id="6344">Nottingham Railway City</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

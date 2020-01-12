@@ -1,0 +1,57 @@
+<contest-event id="35592">
+  <event-date date="1950-8-12">Aug. 12, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cholsey Contest</name>
+  <contest id="3939">
+    <name>Cholsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cholsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3527">Recreation Ground, Cholsey, Oxfordshire</venue>
+  <notes>March contest - 1st Chipping Norton, 2nd Bletchington.
+5 bands competed.</notes>
+
+  <created>July 2, 2016, 10:03 a.m.</created>
+  <last-modified>March 8, 2019, 5:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="258431">
+      <result code="1">1</result>
+      <band id="2842">Chipping Norton Silver Band </band>
+      <conductor id="299180">Nobby Challis</conductor>
+      <test-piece id="1086">The Viking [Greenwood]</test-piece>
+    </result>
+    
+    <result id="258432">
+      <result code="2">2</result>
+      <band id="3189">Cholsey Silver Band</band>
+      <conductor id="311112">George Watkins</conductor>
+    </result>
+    
+    <result id="258433">
+      <result code="3">3</result>
+      <band id="629">Bletchington Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1016">The Spirit of Youth</test-piece>
+    </result>
+    
+    <result id="258434">
+      <result code="">Unknown Result</result>
+      <band id="609">Chinnor Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

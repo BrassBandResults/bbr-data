@@ -1,0 +1,62 @@
+<contest-event id="9615">
+  <event-date date="2001-2-25">Feb. 25, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Contest (Third Section)</name>
+  <contest id="858">
+    <name>NWABBA Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="142">NWABBA Contest</group>
+    <slug>nwabba-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1219">The Forum, Wythenshawe</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Jan. 27, 2012, 2:28 p.m.</created>
+  <last-modified>Nov. 25, 2016, 10:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="82628">
+      <result code="1">1</result>
+      <band id="182">Silk Brass</band>
+      <conductor id="305456">Ken Mackintosh</conductor>
+    </result>
+    
+    <result id="82629">
+      <result code="2">2</result>
+      <band id="778">Whaley Bridge Brass</band>
+      <conductor id="312072">Anthony Wyatt</conductor>
+    </result>
+    
+    <result id="82630">
+      <result code="3">3</result>
+      <band id="2652">Eaton Farnworth</band>
+      <conductor id="297152">Peter Ashley</conductor>
+      <test-piece id="145">Sinfonietta [Horovitz]</test-piece>
+    </result>
+    
+    <result id="239293">
+      <result code="4">4</result>
+      <band id="190">Haslingden &amp; Helmshore Band</band>
+      <conductor id="303293">David Holland</conductor>
+      <test-piece id="241">Dimensions</test-piece>
+    </result>
+    
+    <result id="82632">
+      <result code="5">5</result>
+      <band id="392">Barnton Silver Band</band>
+      <conductor id="312105">Stephen Yates</conductor>
+    </result>
+    
+  </results>
+</contest-event>

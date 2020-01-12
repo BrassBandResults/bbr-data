@@ -1,0 +1,56 @@
+<contest-event id="10827">
+  <event-date date="1906-6-23">June 23, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dykehead Contest</name>
+  <contest id="2104">
+    <name>Dykehead Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dykehead-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1539">Dykehead, Lanarkshire</venue>
+  <notes>1st prize £10, 2nd prize £6, 3rd prize £4.
+March contest 1st(£2) Shotts Foundry, 2nd (£1) Aitkenhead.
+4 bands competed</notes>
+
+  <created>March 5, 2012, 5:53 p.m.</created>
+  <last-modified>Sept. 14, 2018, 9:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90327">
+      <result code="1">1</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90328">
+      <result code="2">2</result>
+      <band id="5493">Aitkenhead</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90329">
+      <result code="3">3</result>
+      <band id="6558">Glenboig</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90330">
+      <result code="4">4</result>
+      <band id="6997">Motherwell Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

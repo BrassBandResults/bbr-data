@@ -1,0 +1,77 @@
+<contest-event id="22901">
+  <event-date date="1901-6-1">June 1, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Altrincham Contest</name>
+  <contest id="2648">
+    <name>Altrincham Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>altrincham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2571">Belisario [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1996">Altrincham, Cheshire</venue>
+  <notes>Promoted by Altrincham Borough Brass Band
+Best cornet - Goodshaw.
+Best trombone - Bolton Borough.
+Best soprano - Westhoughton Old.
+Prizes: £10, £5, £3, £2, £1
+7 bands competed.</notes>
+
+  <created>Aug. 15, 2013, 1:40 p.m.</created>
+  <last-modified>June 21, 2018, 9:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168927">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="168928">
+      <result code="2">2</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="168929">
+      <result code="3">3</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="168930">
+      <result code="4">4</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="168931">
+      <result code="5">5</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="316789">T. Aspinall</conductor>
+    </result>
+    
+    <result id="290679">
+      <result code="">Unknown Result</result>
+      <band id="3370">Edgeley</band>
+      <conductor id="318112">William Barton</conductor>
+    </result>
+    
+    <result id="290678">
+      <result code="">Unknown Result</result>
+      <band id="4797">Stockport Borough</band>
+      <conductor id="308872">George T. H. Seddon</conductor>
+    </result>
+    
+  </results>
+</contest-event>

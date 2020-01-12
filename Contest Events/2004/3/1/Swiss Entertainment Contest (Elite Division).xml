@@ -1,0 +1,56 @@
+<contest-event id="5518">
+  <event-date date="2004-3-1">March 1, 2004<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Swiss Entertainment Contest (Elite Division)</name>
+  <contest id="890">
+    <name>Swiss Entertainment Contest (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="149">Swiss Entertainment Contest</group>
+    <slug>swiss-entertainment-contest-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="975">Variations On Tico Tico</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>solo champion: Didier Vogel, Marimba &amp; Roland Fröscher, Euphonium (BBO)
+best show: OBB
+</notes>
+
+  <created>April 18, 2011, 12:29 p.m.</created>
+  <last-modified>April 18, 2011, 12:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="47647">
+      <result code="1">1</result>
+      <band id="58">Oberaargauer Brass Band</band>
+      <conductor id="306894">Manfred Obrecht</conductor>
+    </result>
+    
+    <result id="47648">
+      <result code="2">2</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="310620">Corsin Tuor</conductor>
+    </result>
+    
+    <result id="47649">
+      <result code="3">3</result>
+      <band id="56">Brass Band Berner Oberland</band>
+      <conductor id="297402">Carlo Balmelli</conductor>
+    </result>
+    
+    <result id="47650">
+      <result code="4">4</result>
+      <band id="61">Musikgesellschaft Risch-Rotkreuz</band>
+      <conductor id="298995">Remo Capra</conductor>
+    </result>
+    
+  </results>
+</contest-event>

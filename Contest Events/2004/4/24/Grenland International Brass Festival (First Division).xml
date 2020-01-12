@@ -1,0 +1,62 @@
+<contest-event id="8225">
+  <event-date date="2004-4-24">April 24, 2004<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grenland International Brass Festival (First Division)</name>
+  <contest id="388">
+    <name>Grenland International Brass Festival (First Division)</name>
+    <order>10</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="66">Grenland International Brass Festival</group>
+    <slug>grenland-international-brass-festival-first-divisi</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1413">Intrada: Saviour, Come to Us, We Pray</test-piece>
+  </test-piece>
+
+  <venue id="200">Ibsenhuset, Skien, Telemark, Norway</venue>
+  <notes>Best Soloist: Sara Børslid Tvedt, Oster Brass
+Best March: Oslo Brass Band
+Best Conductor: Torben Ebbensgaard, Nordvestjysk Brass Band</notes>
+
+  <created>Nov. 9, 2011, 10:12 p.m.</created>
+  <last-modified>April 3, 2012, 8:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="73873">
+      <result code="1">1</result>
+      <band id="1262">Nordvestjysk Brass Band</band>
+      <conductor id="300734">Torben Ebbensgaard</conductor>
+    </result>
+    
+    <result id="73874">
+      <result code="2">2</result>
+      <band id="1112">Brøttum Musikkforening</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="73875">
+      <result code="3">3</result>
+      <band id="2264">Betlehemskyrkans Musikkår</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="73876">
+      <result code="4">4</result>
+      <band id="1105">Oster Brass</band>
+      <conductor id="308635">Frode Rydland</conductor>
+    </result>
+    
+    <result id="73877">
+      <result code="5">5</result>
+      <band id="1093">Oslo Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

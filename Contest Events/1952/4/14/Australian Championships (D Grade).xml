@@ -1,0 +1,75 @@
+<contest-event id="35255">
+  <event-date date="1952-4-14">April 14, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    <test-piece id="1380">The New Age</test-piece>
+  </test-piece>
+
+  <venue id="7138">North Ipswich Reserve , Ipswich, Queensland , Australia</venue>
+  <notes>Disciplines included for Championship
+Test Selection
+Hymn Tune 
+Street March / Oval March   listed under March</notes>
+
+  <created>May 4, 2016, 1:30 a.m.</created>
+  <last-modified>Jan. 7, 2020, 11:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="253784">
+      <result code="1">1</result>
+      <band id="12002">Central Coast Brass</band>
+      <conductor id="297987">Reg Bishop</conductor>
+    </result>
+    
+    <result id="253785">
+      <result code="2">2</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="302027">W. Graham</conductor>
+    </result>
+    
+    <result id="253786">
+      <result code="3">3</result>
+      <band id="17808">Tenterfield Municipal  (NSW)</band>
+      <conductor id="309792">E. Stiles</conductor>
+    </result>
+    
+    <result id="253787">
+      <result code="4">4</result>
+      <band id="9357">Dalby and District Silver Band</band>
+      <conductor id="306600">J. D. Napier</conductor>
+    </result>
+    
+    <result id="253789">
+      <result code="">Unknown Result</result>
+      <band id="9425">Maroochy District Band</band>
+      <conductor id="319012">Ron Counter</conductor>
+    </result>
+    
+    <result id="253788">
+      <result code="">Unknown Result</result>
+      <band id="16871">Mount Morgan Citizens</band>
+      <conductor id="318364">Arthur J. Rees</conductor>
+    </result>
+    
+    <result id="253790">
+      <result code="">Unknown Result</result>
+      <band id="13825">Nerang Town</band>
+      <conductor id="318757">J. Dauth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

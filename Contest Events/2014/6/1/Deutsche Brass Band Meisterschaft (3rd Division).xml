@@ -1,0 +1,54 @@
+<contest-event id="27282">
+  <event-date date="2014-6-1">June 1, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deutsche Brass Band Meisterschaft (3rd Division)</name>
+  <contest id="5668">
+    <name>Deutsche Brass Band Meisterschaft (3rd Division)</name>
+    <order>2</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="24">Deutsche Brass Band Meisterschaft</group>
+    <slug>deutsche-brass-band-meisterschaft-3rd-division</slug>
+    
+    <notes></notes>
+    <region id="23">Germany</region>
+    <section id="4">Third</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="130">Partita [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="4666">Regentenbau (Max Littmann-Saal), Bad Kissingen, Bavaria, Germany</venue>
+  <notes>Best Soloist: Euphonium, Brass Band 10</notes>
+
+  <created>May 6, 2014, 7:29 a.m.</created>
+  <last-modified>April 18, 2015, 9:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="201048">
+      <result code="1">1</result>
+      <band id="7418">Brass Band B10</band>
+      <conductor id="307929">Joachim Rath</conductor>
+    </result>
+    
+    <result id="201049">
+      <result code="2">2</result>
+      <band id="1763">Big Breath Brass Band (B4)</band>
+      <conductor id="300741">Thomas Eckert</conductor>
+    </result>
+    
+    <result id="201050">
+      <result code="3">3</result>
+      <band id="1764">Brass Band Westfalen</band>
+      <conductor id="298082">Benedikt Blome</conductor>
+    </result>
+    
+    <result id="201051">
+      <result code="4">4</result>
+      <band id="8762">Brass In</band>
+      <conductor id="311856">Claus-Peter Wittmann</conductor>
+    </result>
+    
+  </results>
+</contest-event>

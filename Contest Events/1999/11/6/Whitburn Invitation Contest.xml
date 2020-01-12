@@ -1,0 +1,82 @@
+<contest-event id="7633">
+  <event-date date="1999-11-6">Nov. 6, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitburn Invitation Contest</name>
+  <contest id="202">
+    <name>Whitburn Invitation Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>whitburn-invitation-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="80">Whitburn Academy</venue>
+  <notes>Best section 1 band - Kingdom Brass.
+Best section 2 band - Johnstone.
+Best section 3 band - Tullis Russell.
+Best instrumentalist - David MacLeod (Selkirk)
+Best soloist - Pauline Murphy (soprano) Kirkintilloch.
+Best cornet - Kevin Smith (Newtongrange).
+Best euphonium - Neil Philp (Newtongrange).
+Best trombones and basses - Kirkintilloch.
+Best percussion - Johnstone.
+28th annual contest.
+18 bands competed.</notes>
+
+  <created>Oct. 9, 2011, 5:26 a.m.</created>
+  <last-modified>July 11, 2015, 9:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="231562">
+      <result code="1">1</result>
+      <band id="13">Kirkintilloch Band</band>
+      <conductor id="307894">Allan Ramsay</conductor>
+    </result>
+    
+    <result id="231563">
+      <result code="2">2</result>
+      <band id="259">Unison Kinneil Band</band>
+      <conductor id="298331">Chris Bradley</conductor>
+    </result>
+    
+    <result id="231564">
+      <result code="3">3</result>
+      <band id="232">Newtongrange Band</band>
+      <conductor id="307693">Daniel Price</conductor>
+    </result>
+    
+    <result id="231565">
+      <result code="4">4</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="310220">Raymond Tennant</conductor>
+    </result>
+    
+    <result id="231567">
+      <result code="">Unknown Result</result>
+      <band id="235">Kingdom Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="231568">
+      <result code="">Unknown Result</result>
+      <band id="10557">Selkirk Junior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="231566">
+      <result code="">Unknown Result</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

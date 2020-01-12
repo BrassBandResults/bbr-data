@@ -1,0 +1,104 @@
+<contest-event id="26977">
+  <event-date date="1927-7-2">July 2, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chesterfield Contest</name>
+  <contest id="1171">
+    <name>Chesterfield Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>chesterfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="4003">Queens Park, Chesterfield, Derbyshire</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £12, 3rd £8, 4th £4.
+Waltz:(Cornflowers and Poppies) 1(£3). Bolsover, 2(£2). Manvers.
+12 bands competed</notes>
+
+  <created>April 6, 2014, 10:02 p.m.</created>
+  <last-modified>Nov. 21, 2018, 1:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194846">
+      <result code="1">1</result>
+      <band id="1665">Bolsover Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="271587">
+      <result code="2">2</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="194848">
+      <result code="3">3</result>
+      <band id="3605">Hasland</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="194849">
+      <result code="4">4</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="300291">
+      <result code="">Unknown Result</result>
+      <band id="6107">Brampton &amp; District Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300293">
+      <result code="">Unknown Result</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300292">
+      <result code="">Unknown Result</result>
+      <band id="10603">Chesterfield Old Comrades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194850">
+      <result code="">Unknown Result</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="305218">H. Lodge</conductor>
+    </result>
+    
+    <result id="300294">
+      <result code="">Unknown Result</result>
+      <band id="512">Pleasley Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194851">
+      <result code="">Unknown Result</result>
+      <band id="3379">Sheepbridge Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300295">
+      <result code="">Unknown Result</result>
+      <band id="489">Shirebrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300290">
+      <result code="">Unknown Result</result>
+      <band id="1670">Staveley Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

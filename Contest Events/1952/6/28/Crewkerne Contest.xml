@@ -1,0 +1,54 @@
+<contest-event id="18399">
+  <event-date date="1952-6-28">June 28, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crewkerne Contest</name>
+  <contest id="3894">
+    <name>Crewkerne Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crewkerne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2332">May Day</test-piece>
+  </test-piece>
+
+  <venue id="3114">Crewkerne, Somerset, England, UK</venue>
+  <notes>March contest  1st  Burnham and Highbridge, 2nd Bridgwater, 3rd Lyme Regis.</notes>
+
+  <created>Feb. 20, 2013, 3:57 p.m.</created>
+  <last-modified>March 19, 2019, 12:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="138730">
+      <result code="1">1</result>
+      <band id="2069">Bridgwater Imperial</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="138731">
+      <result code="2">2</result>
+      <band id="3000">Crewkerne Town Band</band>
+      <conductor id="302199">Horace Grey</conductor>
+    </result>
+    
+    <result id="138732">
+      <result code="3">3</result>
+      <band id="1295">Burnham &amp; Highbridge</band>
+      <conductor id="301012">S. F. Evans</conductor>
+    </result>
+    
+    <result id="138733">
+      <result code="">Unknown Result</result>
+      <band id="3999">Lyme Regis Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

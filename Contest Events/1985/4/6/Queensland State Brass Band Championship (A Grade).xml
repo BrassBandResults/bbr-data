@@ -1,0 +1,66 @@
+<contest-event id="42275">
+  <event-date date="1985-4-6">April 6, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5985">Symphonic Music</test-piece>
+  </test-piece>
+
+  <venue id="7139">Theatre Royal , Mackay , Queensland,  Australia</venue>
+  <notes></notes>
+
+  <created>June 3, 2019, 12:29 a.m.</created>
+  <last-modified>June 3, 2019, 1:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="309099">
+      <result code="1">1</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310224">Paul Terracini</conductor>
+    </result>
+    
+    <result id="309100">
+      <result code="2">2</result>
+      <band id="1161">Brisbane Brass</band>
+      <conductor id="311548">Alan Wilkie</conductor>
+    </result>
+    
+    <result id="309101">
+      <result code="3">3</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="299108">Noel Cassels</conductor>
+    </result>
+    
+    <result id="309102">
+      <result code="4">4</result>
+      <band id="2260">Cairns Brass No. 1</band>
+      <conductor id="301148">Bob Favell</conductor>
+    </result>
+    
+    <result id="309103">
+      <result code="5">5</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="319254">Ken Baxter</conductor>
+    </result>
+    
+    <result id="309137">
+      <result code="W">Withdrawn</result>
+      <band id="17999">Nambour Maroochy District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

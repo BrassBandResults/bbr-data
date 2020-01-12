@@ -1,0 +1,67 @@
+<contest-event id="41091">
+  <event-date date="1924-12-13">Dec. 13, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandudno Contest</name>
+  <contest id="2723">
+    <name>Llandudno Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llandudno-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="5">March, Hymn and Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="160">Llandudno, Conwy, Wales, UK</venue>
+  <notes>March contest - 1st Nantlle Vale, 2nd Penrhynside.
+Hymn tune contest - 1st Nantlle Vale, 2nd Penrhynside.
+5 bands competed.</notes>
+
+  <created>Nov. 2, 2018, 11:34 a.m.</created>
+  <last-modified>Nov. 2, 2018, 11:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="298369">
+      <result code="1">1</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="302456">Wilfred W. Halsey</conductor>
+      <test-piece id="2450">The Carnival of Flowers</test-piece>
+    </result>
+    
+    <result id="298370">
+      <result code="2">2</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="304167">B. H. Jones</conductor>
+      <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="298372">
+      <result code="3">3</result>
+      <band id="4780">Colwyn Bay</band>
+      <conductor id="311929">A. H. Woodford</conductor>
+      <test-piece id="781">Gems of Italian Opera</test-piece>
+    </result>
+    
+    <result id="298371">
+      <result code="3">3</result>
+      <band id="7841">Penrhyn Side</band>
+      <conductor id="318995">David Williams</conductor>
+      <test-piece id="1670">Gems of Cambria</test-piece>
+    </result>
+    
+    <result id="298373">
+      <result code="5">5</result>
+      <band id="4570">Llanrwst Town</band>
+      <conductor id="300149">E. Davies</conductor>
+      <test-piece id="3858">Dawn of Spring</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,69 @@
+<contest-event id="29070">
+  <event-date date="1983-6-18">June 18, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nostell Priory Entertainment Contest</name>
+  <contest id="3605">
+    <name>Nostell Priory Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>nostell-priory-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2705">Nostell Priory, Wakefield, West Yorkshire</venue>
+  <notes>Best section 2 band - Wakefield Metropolitan.
+Best section 3 band - Kidderminster.
+Best section 4 band - Houghton Main Colliery.
+12 bands competed.</notes>
+
+  <created>July 21, 2014, 2:06 p.m.</created>
+  <last-modified>July 21, 2014, 2:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="207352">
+      <result code="1">1</result>
+      <band id="127">Barnsley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="207353">
+      <result code="2">2</result>
+      <band id="3384">Lockwood Band (Huddersfield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="207354">
+      <result code="3">3</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="207356">
+      <result code="">Unknown Result</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="207357">
+      <result code="">Unknown Result</result>
+      <band id="2836">Kidderminster</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="207355">
+      <result code="">Unknown Result</result>
+      <band id="130">Wakefield Metropolitan Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="32162">
+  <event-date date="1994-10-8">Oct. 8, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitehaven Contest (Class A)</name>
+  <contest id="220">
+    <name>Whitehaven Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="126">Whitehaven Contest</group>
+    <slug>whitehaven-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5412">Civic Hall, Whitehaven, Cumbria, England, UK</venue>
+  <notes>Prizes - 1st £500 and shield, 2nd £300 and trophy, 3rd £200 and trophy.
+10th annual contest
+5 bands competed.</notes>
+
+  <created>June 16, 2015, 6:59 a.m.</created>
+  <last-modified>June 16, 2015, 7:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="230720">
+      <result code="1">1</result>
+      <band id="13">Kirkintilloch Band</band>
+      <conductor id="304381">Charles Keenan</conductor>
+    </result>
+    
+    <result id="230722">
+      <result code="2">2</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="302357">Dennis Hadfield</conductor>
+    </result>
+    
+    <result id="230718">
+      <result code="3">3</result>
+      <band id="26">Fishburn Band</band>
+      <conductor id="308354">Ian Robinson</conductor>
+    </result>
+    
+    <result id="230723">
+      <result code="">Unknown Result</result>
+      <band id="572">Durham Constabulary</band>
+      <conductor id="306772">Dennis Noble</conductor>
+    </result>
+    
+    <result id="230719">
+      <result code="">Unknown Result</result>
+      <band id="349">Flookburgh Band</band>
+      <conductor id="305035">Alan Lewis</conductor>
+    </result>
+    
+    <result id="230721">
+      <result code="W">Withdrawn</result>
+      <band id="921">Northumbria Police Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

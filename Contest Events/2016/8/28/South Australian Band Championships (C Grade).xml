@@ -1,0 +1,51 @@
+<contest-event id="36005">
+  <event-date date="2016-8-28">Aug. 28, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Australian Band Championships (C Grade)</name>
+  <contest id="571">
+    <name>South Australian Band Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3464">Canadian Folk Song Suite</test-piece>
+  </test-piece>
+
+  <venue id="6274">Immanuel College, Novar Gardens, Adelaide, Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 28, 2016, 9:09 a.m.</created>
+  <last-modified>Aug. 29, 2016, 1:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261242">
+      <result code="1">1</result>
+      <band id="728">Salisbury City Band [Australia]</band>
+      <conductor id="306009">Adrienne Meikle</conductor>
+      <test-piece id="143">Northern Landscapes</test-piece>
+    </result>
+    
+    <result id="261243">
+      <result code="2">2</result>
+      <band id="2151">Warriparinga Brass</band>
+      <conductor id="298244">Veronica Boulton</conductor>
+      <test-piece id="241">Dimensions</test-piece>
+    </result>
+    
+    <result id="261244">
+      <result code="3">3</result>
+      <band id="2160">Mitcham City Brass</band>
+      <conductor id="307040">Steven Packer</conductor>
+      <test-piece id="230">Lake of the Moon</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

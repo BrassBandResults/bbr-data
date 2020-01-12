@@ -1,0 +1,48 @@
+<contest-event id="37873">
+  <event-date date="1989-3-26">March 26, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (Junior A Grade)</name>
+  <contest id="6136">
+    <name>Australian Championships - Wind Band (Junior A Grade)</name>
+    <order>4</order>
+    <contest-type id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-junior-a-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="4205">Australian Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="6528">Ipswich Civic Centre, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>May 7, 2017, 10:22 p.m.</created>
+  <last-modified>May 7, 2017, 10:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="273911">
+      <result code="1">1</result>
+      <band id="15191">Sydney Schools Symphonic  (NSW)</band>
+      <conductor id="315883">Steve Williams</conductor>
+    </result>
+    
+    <result id="273913">
+      <result code="">Unknown Result</result>
+      <band id="15148">Broadmedow High School Concert   (NSW)</band>
+      <conductor id="315772">Peter Boys</conductor>
+    </result>
+    
+    <result id="273912">
+      <result code="">Unknown Result</result>
+      <band id="15620">Canberra City Concert  (ACT)</band>
+      <conductor id="301266">Colin Fischer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

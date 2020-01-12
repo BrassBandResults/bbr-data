@@ -1,0 +1,62 @@
+<contest-event id="22167">
+  <event-date date="1957-3-17">March 17, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Second Section)</name>
+  <contest id="656">
+    <name>Manchester District Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="650">Land of the Ever Young</test-piece>
+  </test-piece>
+
+  <venue id="3627">New Islington Hall, Redhill Street, Manchester</venue>
+  <notes>  Prizes - 1st £10 and cup, 2nd £6 and trophy, 3rd £3.
+5th Annual Contest.
+5 bands competed.</notes>
+
+  <created>July 5, 2013, 5:27 a.m.</created>
+  <last-modified>Dec. 17, 2014, 11:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="164690">
+      <result code="1">1</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="298865">Edward Buttress</conductor>
+    </result>
+    
+    <result id="164691">
+      <result code="2">2</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="299506">N. Coglan</conductor>
+    </result>
+    
+    <result id="164692">
+      <result code="3">3</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="305095">Clifford Lightbown</conductor>
+    </result>
+    
+    <result id="217130">
+      <result code="">Unknown Result</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="303702">Wright Hurst</conductor>
+    </result>
+    
+    <result id="217129">
+      <result code="">Unknown Result</result>
+      <band id="1701">Beswick Prize</band>
+      <conductor id="308240">Albert Risby</conductor>
+    </result>
+    
+  </results>
+</contest-event>

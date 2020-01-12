@@ -1,0 +1,49 @@
+<contest-event id="26482">
+  <event-date date="1950-6-10">June 10, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Willington Contest</name>
+  <contest id="2531">
+    <name>Willington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>willington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1885">Willington, County Durham</venue>
+  <notes>March contest - 1st Eden Colliery, 2nd Shotton Colliery, 3rd Murton Colliery.
+10 bands competed.</notes>
+
+  <created>Feb. 20, 2014, 4:13 p.m.</created>
+  <last-modified>Feb. 20, 2014, 4:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="191958">
+      <result code="1">1</result>
+      <band id="4160">Shotton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="191959">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="191960">
+      <result code="3">3</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

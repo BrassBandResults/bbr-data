@@ -1,0 +1,49 @@
+<contest-event id="35448">
+  <event-date date="1948-7-3">July 3, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Seaton Contest (Class B)</name>
+  <contest id="5105">
+    <name>Seaton Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>seaton-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1687">Recollections of Mendelssohn</test-piece>
+  </test-piece>
+
+  <venue id="3023">Seaton, Cumbria, England, UK</venue>
+  <notes>March contest - 1st Workington, 2nd Frizington.
+5 bands competed.</notes>
+
+  <created>June 1, 2016, 10:44 a.m.</created>
+  <last-modified>June 1, 2016, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="255928">
+      <result code="1">1</result>
+      <band id="1510">Workington</band>
+      <conductor id="307419">W. Petrie</conductor>
+    </result>
+    
+    <result id="255929">
+      <result code="2">2</result>
+      <band id="2619">Barrow-in-Furness Youth Club</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="255930">
+      <result code="3">3</result>
+      <band id="7622">Frizington St Paul&#39;s</band>
+      <conductor id="300149">E. Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

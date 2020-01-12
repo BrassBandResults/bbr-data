@@ -1,0 +1,48 @@
+<contest-event id="30421">
+  <event-date date="1975-4-27">April 27, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Buxton Festival (Junior Class)</name>
+  <contest id="1097">
+    <name>Buxton Festival (Junior Class)</name>
+    <order>104</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="18">Buxton Festival</group>
+    <slug>buxton-festival-junior-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="752">Lindum Suite</test-piece>
+  </test-piece>
+
+  <venue id="614">Pavilion Gardens, Buxton</venue>
+  <notes>Prizes - 1st £20 and trophy, 2nd £15.</notes>
+
+  <created>Nov. 27, 2014, 12:25 p.m.</created>
+  <last-modified>Dec. 17, 2016, 12:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="215122">
+      <result code="1">1</result>
+      <band id="485">Stourport-on-Severn Brass Band</band>
+      <conductor id="303852">George Jackson</conductor>
+    </result>
+    
+    <result id="215123">
+      <result code="2">2</result>
+      <band id="4832">Burnage Junior</band>
+      <conductor id="306673">Gary Newborough</conductor>
+    </result>
+    
+    <result id="215124">
+      <result code="3">3</result>
+      <band id="4346">Ashtonian Brass</band>
+      <conductor id="299264">B. Cheshire</conductor>
+    </result>
+    
+  </results>
+</contest-event>

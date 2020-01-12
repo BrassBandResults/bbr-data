@@ -1,0 +1,84 @@
+<contest-event id="1606">
+  <event-date date="2011-3-6">March 6, 2011<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Area (First Section)</name>
+  <contest id="17">
+    <name>Yorkshire Area (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-first-section</slug>
+    <qualifies-for id="2">National Championship of Great Britain (First Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="297">Le Carnaval Romain [arr. Wrigth]</test-piece>
+  </test-piece>
+
+  <venue id="59">St. George&#39;s Hall, Bradford, West Yorkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>March 13, 2010, 6:34 p.m.</created>
+  <last-modified>March 9, 2015, 4:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="35483">
+      <result code="1">1</result>
+      <band id="25">Hammonds Saltaire</band>
+      <conductor id="302245">Morgan Griffiths</conductor>
+    </result>
+    
+    <result id="35488">
+      <result code="2">2</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="306651">David Nesbitt</conductor>
+    </result>
+    
+    <result id="35480">
+      <result code="3">3</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="300230">Miles Davison</conductor>
+    </result>
+    
+    <result id="35481">
+      <result code="4">4</result>
+      <band id="136">Frickley South Elmsall Band</band>
+      <conductor id="306722">David Nichols</conductor>
+    </result>
+    
+    <result id="35487">
+      <result code="5">5</result>
+      <band id="125">Stannington Band</band>
+      <conductor id="308064">Derek Renshaw</conductor>
+    </result>
+    
+    <result id="35486">
+      <result code="6">6</result>
+      <band id="36">Hatfield Band</band>
+      <conductor id="306865">Graham O&#39;Connor</conductor>
+    </result>
+    
+    <result id="35484">
+      <result code="7">7</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="304772">David Lancaster</conductor>
+    </result>
+    
+    <result id="35485">
+      <result code="8">8</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="306353">Robin Morgan</conductor>
+    </result>
+    
+    <result id="35482">
+      <result code="9">9</result>
+      <band id="263">Grange Moor Brass Band</band>
+      <conductor id="307261">Nick Payne</conductor>
+    </result>
+    
+  </results>
+</contest-event>

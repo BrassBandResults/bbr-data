@@ -1,0 +1,82 @@
+<contest-event id="26285">
+  <event-date date="1949-4-9">April 9, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class B)</name>
+  <contest id="4007">
+    <name>West Wales BBA Contest (Class B)</name>
+    <order>220</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1795">Pontyberem, Carmarthenshire</venue>
+  <notes></notes>
+
+  <created>Feb. 11, 2014, 8:56 a.m.</created>
+  <last-modified>May 6, 2019, 10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190508">
+      <result code="1">1</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">T. C. White</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+    <result id="190516">
+      <result code="2">2</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300178">R. Davies</conductor>
+      <test-piece id="1093">Cosi Fan Tutte [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="190510">
+      <result code="3">3</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="190511">
+      <result code="4">4</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="311623">Haydn Williams</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="308210">
+      <result code="5">5</result>
+      <band id="17510">Cwmamman (Carmarthen)</band>
+      <conductor id="313719">H. Morris</conductor>
+    </result>
+    
+    <result id="308211">
+      <result code="6">6</result>
+      <band id="8405">Cwmavon</band>
+      <conductor id="319025">H. V. Davies</conductor>
+    </result>
+    
+    <result id="308212">
+      <result code="W">Withdrawn</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="304289">Tom Jones</conductor>
+    </result>
+    
+    <result id="308213">
+      <result code="W">Withdrawn</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="299098">A. Casey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

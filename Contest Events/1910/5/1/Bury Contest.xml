@@ -1,0 +1,55 @@
+<contest-event id="39782">
+  <event-date date="1910-5-1">May 1, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bury Contest</name>
+  <contest id="1599">
+    <name>Bury Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3939">Bury, Lancashire</venue>
+  <notes>March contest in connection with Bury May Day Show.
+4 bands competed</notes>
+
+  <created>May 30, 2018, 9:55 p.m.</created>
+  <last-modified>May 30, 2018, 9:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288648">
+      <result code="1">1</result>
+      <band id="2497">Bury Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="288647">
+      <result code="2">2</result>
+      <band id="398">Tottington Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="288646">
+      <result code="">Unknown Result</result>
+      <band id="8027">Walshaw Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="288649">
+      <result code="">Unknown Result</result>
+      <band id="11157">Ainsworth &amp; District Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

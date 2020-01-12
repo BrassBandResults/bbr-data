@@ -1,0 +1,90 @@
+<contest-event id="3524">
+  <event-date date="1999-2-27">Feb. 27, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (First Section)</name>
+  <contest id="62">
+    <name>Scottish Championship (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-first-section</slug>
+    <qualifies-for id="2">National Championship of Great Britain (First Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="158">Kenilworth</test-piece>
+  </test-piece>
+
+  <venue id="890">Civic Centre (Concert Hall), Motherwell, North Lanarkshire, Scotland, UK</venue>
+  <notes>Qualifiers: Unison Kinneil and Clackmannan District Brass</notes>
+
+  <created>Jan. 14, 2011, 6:39 p.m.</created>
+  <last-modified>Nov. 3, 2011, 4:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="72610">
+      <result code="1">1</result>
+      <band id="259">Unison Kinneil Band</band>
+      <conductor id="303728">Archie Hutchison</conductor>
+    </result>
+    
+    <result id="72611">
+      <result code="2">2</result>
+      <band id="303">Clackmannan and District Band</band>
+      <conductor id="300165">Jim Davies</conductor>
+    </result>
+    
+    <result id="72612">
+      <result code="3">3</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="312078">Alan Wycherley</conductor>
+    </result>
+    
+    <result id="72613">
+      <result code="4">4</result>
+      <band id="643">Granite City Brass</band>
+      <conductor id="307056">Edward Paley</conductor>
+    </result>
+    
+    <result id="72614">
+      <result code="5">5</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="305924">Colin McKenzie</conductor>
+    </result>
+    
+    <result id="72615">
+      <result code="6">6</result>
+      <band id="653">Tayport Instrumental</band>
+      <conductor id="305871">Robert McDonald</conductor>
+    </result>
+    
+    <result id="72616">
+      <result code="7">7</result>
+      <band id="897">Kilmarnock Concert Brass</band>
+      <conductor id="304363">Andrew Keachie</conductor>
+    </result>
+    
+    <result id="72617">
+      <result code="8">8</result>
+      <band id="365">Dalkeith and Monktonhall Band</band>
+      <conductor id="300574">Euan Drysdale</conductor>
+    </result>
+    
+    <result id="72618">
+      <result code="9">9</result>
+      <band id="368">Annan Town (Magnox North)</band>
+      <conductor id="308928">David Shanks</conductor>
+    </result>
+    
+    <result id="72619">
+      <result code="10">10</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="310220">Raymond Tennant</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,73 @@
+<contest-event id="10716">
+  <event-date date="1906-6-2">June 2, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest</name>
+  <contest id="1858">
+    <name>Caerphilly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1271">Carmelite</test-piece>
+  </test-piece>
+
+  <venue id="1307">Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes>  1st prize £10, 2nd prize £5, 3rd prize £3.
+7 bands competed.</notes>
+
+  <created>Feb. 28, 2012, 2:24 p.m.</created>
+  <last-modified>Sept. 14, 2018, 9:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="89530">
+      <result code="1">1</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="89531">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="89532">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="89533">
+      <result code="">Unknown Result</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89535">
+      <result code="">Unknown Result</result>
+      <band id="6984">Dinas</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89534">
+      <result code="">Unknown Result</result>
+      <band id="7045">Nantymoel Town Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89536">
+      <result code="">Unknown Result</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

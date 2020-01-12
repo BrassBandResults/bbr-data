@@ -1,0 +1,86 @@
+<contest-event id="35365">
+  <event-date date="1922-10-29">Oct. 29, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="747">The Valkyrie</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>City of Ballarat band also  played the Valkyrie for own choice suspect by an other arranger than that for the test selection  (Rimmer)</notes>
+
+  <created>May 23, 2016, 2:02 a.m.</created>
+  <last-modified>Dec. 19, 2017, 9:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255548">
+      <result code="1">1</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="312041">Frank Wright</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="256374">
+      <result code="2">2</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="308527">Alfred Rowell</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="255550">
+      <result code="3">3</result>
+      <band id="16565">Footscray Municipal  (Vic)</band>
+      <conductor id="317474">J Hutchinson</conductor>
+      <test-piece id="3538">Tristan and Isolde</test-piece>
+    </result>
+    
+    <result id="255551">
+      <result code="4">4</result>
+      <band id="13909">Jones I X L  (Hobart)</band>
+      <conductor id="297520">Les Barnett</conductor>
+      <test-piece id="3538">Tristan and Isolde</test-piece>
+    </result>
+    
+    <result id="255552">
+      <result code="5">5</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="296918">Charles Allison</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="255553">
+      <result code="6">6</result>
+      <band id="7855">Wonthaggi Citizens</band>
+      <conductor id="306767">Hugh Niven</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="255554">
+      <result code="7">7</result>
+      <band id="13043">Canterbury District</band>
+      <conductor id="302980">Jock Herron</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="255555">
+      <result code="8">8</result>
+      <band id="16657">Essendon City  (Vic)</band>
+      <conductor id="301981">William Gore</conductor>
+      <test-piece id="1426">Lortzing</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

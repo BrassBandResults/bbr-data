@@ -1,0 +1,60 @@
+<contest-event id="30360">
+  <event-date date="1961-4-3">April 3, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class B)</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="602">Passing Moods</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune contest - 1st Woodbridge, 2nd Reepham, 3rd Parson Drove, 4th Hindolveston.</notes>
+
+  <created>Nov. 23, 2014, 10:54 a.m.</created>
+  <last-modified>Sept. 16, 2016, 10:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="214563">
+      <result code="1">1</result>
+      <band id="10782">Parson Drove</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="214564">
+      <result code="2">2</result>
+      <band id="1531">Wrentham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="214565">
+      <result code="3">3</result>
+      <band id="621">Woodbridge Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="214566">
+      <result code="">Unknown Result</result>
+      <band id="10644">Hindolveston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="214567">
+      <result code="">Unknown Result</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="34377">
+  <event-date date="1961-12-16">Dec. 16, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leicestershire BBA (Leicester) Contest (Second Section)</name>
+  <contest id="355">
+    <name>Leicestershire BBA (Leicester) Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="75">Leicestershire Brass Band Association (Leicester) Contest</group>
+    <slug>leicester-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1034">Suite Ancienne</test-piece>
+  </test-piece>
+
+  <venue id="540">Margaret Street W M C, Coalville</venue>
+  <notes>March contest - 1st Bedworth, 2nd City of Leicester, 3rd Hathern.</notes>
+
+  <created>March 8, 2016, 10:23 p.m.</created>
+  <last-modified>March 8, 2016, 10:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="248176">
+      <result code="1">1</result>
+      <band id="4262">Bedworth Silver Prize Band</band>
+      <conductor id="309606">Bernard Springett</conductor>
+    </result>
+    
+    <result id="248177">
+      <result code="2">2</result>
+      <band id="2021">City of Leicester</band>
+      <conductor id="303872">R. Jackson</conductor>
+    </result>
+    
+    <result id="248178">
+      <result code="3">3</result>
+      <band id="300">Hathern Band</band>
+      <conductor id="297015">W. M. Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

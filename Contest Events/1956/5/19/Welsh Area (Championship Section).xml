@@ -1,0 +1,90 @@
+<contest-event id="20333">
+  <event-date date="1956-5-19">May 19, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="468">Orion [Bantock]</test-piece>
+  </test-piece>
+
+  <venue id="258">Grand Pavilion, Porthcawl, Bridgend, Wales, UK</venue>
+  <notes>  10 bands competed.</notes>
+
+  <created>April 6, 2013, 1 p.m.</created>
+  <last-modified>April 10, 2013, 1:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150790">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="298625">Stan Brown</conductor>
+    </result>
+    
+    <result id="151582">
+      <result code="2">2</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="304261">Oliver Jones</conductor>
+    </result>
+    
+    <result id="151575">
+      <result code="3">3</result>
+      <band id="3595">Cardiff Corporation Transport</band>
+      <conductor id="306836">Harry Nuttall</conductor>
+    </result>
+    
+    <result id="151574">
+      <result code="4">4</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="151577">
+      <result code="5">5</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="307734">Fred Prior</conductor>
+    </result>
+    
+    <result id="151576">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151581">
+      <result code="">Unknown Result</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151579">
+      <result code="">Unknown Result</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="306339">H. Morgan</conductor>
+    </result>
+    
+    <result id="151578">
+      <result code="">Unknown Result</result>
+      <band id="10646">Tonyrefail Boys</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151580">
+      <result code="">Unknown Result</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

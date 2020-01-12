@@ -1,0 +1,48 @@
+<contest-event id="30175">
+  <event-date date="1989-5-20">May 20, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Ebbw Vale) Contest (Second Section)</name>
+  <contest id="112">
+    <name>SEWBBA (Ebbw Vale) Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="17">SEWBBA (Ebbw Vale) Contest</group>
+    <slug>ebbw-vale-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="284">A Celtic Suite</test-piece>
+  </test-piece>
+
+  <venue id="121">Ebbw Vale Leisure Centre, Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 7, 2014, 1:47 p.m.</created>
+  <last-modified>Nov. 7, 2014, 1:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213476">
+      <result code="1">1</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="303913">Eric James</conductor>
+    </result>
+    
+    <result id="213477">
+      <result code="2">2</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="302928">Don Hendy</conductor>
+    </result>
+    
+    <result id="213478">
+      <result code="3">3</result>
+      <band id="290">Newbridge Celynen Band</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

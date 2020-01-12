@@ -1,0 +1,67 @@
+<contest-event id="35587">
+  <event-date date="1950-9-9">Sept. 9, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Consett Contest</name>
+  <contest id="1625">
+    <name>Consett Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>consett-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1110">Vicarage Grounds, Consett</venue>
+  <notes>March contest - 1st Craghead, 2nd Bedlington.
+14 bands competed.</notes>
+
+  <created>July 1, 2016, 9:19 p.m.</created>
+  <last-modified>July 1, 2016, 9:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="258405">
+      <result code="1">1</result>
+      <band id="924">Pride Valley Brass</band>
+      <conductor id="307271">J. Peacock</conductor>
+    </result>
+    
+    <result id="258406">
+      <result code="2">2</result>
+      <band id="356">Marske Brass</band>
+      <conductor id="299552">T. W. Collinson</conductor>
+    </result>
+    
+    <result id="258407">
+      <result code="3">3</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="258408">
+      <result code="4">4</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="258409">
+      <result code="5">5</result>
+      <band id="1693">Chopwell Colliery</band>
+      <conductor id="298598">Gilbert Brown</conductor>
+    </result>
+    
+    <result id="258410">
+      <result code="">Unknown Result</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

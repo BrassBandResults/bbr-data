@@ -1,0 +1,43 @@
+<contest-event id="26146">
+  <event-date date="1939-8-12">Aug. 12, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aveley Contest (Second Section)</name>
+  <contest id="4089">
+    <name>Aveley Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="387">Aveley Contest</group>
+    <slug>aveley-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2869">La Favorita</test-piece>
+  </test-piece>
+
+  <venue id="3328">Recreation Grounds, Aveley, Essex</venue>
+  <notes>
+  2 bands competed.</notes>
+
+  <created>Jan. 24, 2014, 8:13 p.m.</created>
+  <last-modified>Jan. 30, 2014, 11:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189375">
+      <result code="1">1</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="311168">W. G. Watts</conductor>
+    </result>
+    
+    <result id="189376">
+      <result code="2">2</result>
+      <band id="10697">Peel (Finsbury Borough)</band>
+      <conductor id="302851">E. Headford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

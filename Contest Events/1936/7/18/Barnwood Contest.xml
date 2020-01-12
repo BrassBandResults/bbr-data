@@ -1,0 +1,55 @@
+<contest-event id="24736">
+  <event-date date="1936-7-18">July 18, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnwood Contest</name>
+  <contest id="4811">
+    <name>Barnwood Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnwood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1096">Autumn Echoes</test-piece>
+  </test-piece>
+
+  <venue id="4180">Barnwood, Gloucestershire</venue>
+  <notes>March contest - 1st Brynmawr, 2nd Abercynon.
+4 bands competed</notes>
+
+  <created>Oct. 26, 2013, 6:56 p.m.</created>
+  <last-modified>Jan. 11, 2019, 12:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180768">
+      <result code="1">1</result>
+      <band id="8138">Brynmawr R.V</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="180769">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180770">
+      <result code="3">3</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180771">
+      <result code="4">4</result>
+      <band id="8417">Abercynon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

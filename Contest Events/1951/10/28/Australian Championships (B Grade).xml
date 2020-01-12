@@ -1,0 +1,84 @@
+<contest-event id="35229">
+  <event-date date="1951-10-28">Oct. 28, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="804">The Royal Water Music</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>May 2, 2016, 4:08 a.m.</created>
+  <last-modified>March 15, 2018, 5:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253633">
+      <result code="1">1</result>
+      <band id="14145">East Kew Citizens (Vic)</band>
+      <conductor id="298360">J. Bramwell</conductor>
+    </result>
+    
+    <result id="253634">
+      <result code="2">2</result>
+      <band id="12944">Footscray City</band>
+      <conductor id="297520">Les Barnett</conductor>
+    </result>
+    
+    <result id="253635">
+      <result code="3">3</result>
+      <band id="16783">West Coburg Citizens</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+    <result id="253636">
+      <result code="4">4</result>
+      <band id="13805">Perth  R S L</band>
+      <conductor id="299791">Charles Court</conductor>
+    </result>
+    
+    <result id="253637">
+      <result code="5">5</result>
+      <band id="12925">Hurstville Municipal Band</band>
+      <conductor id="303571">Jim Huggett</conductor>
+    </result>
+    
+    <result id="253638">
+      <result code="6">6</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="315294">Victor Webb</conductor>
+    </result>
+    
+    <result id="253651">
+      <result code="7">7</result>
+      <band id="11203">Payneham City Concert Band</band>
+      <conductor id="303014">Harold Hewson</conductor>
+    </result>
+    
+    <result id="253652">
+      <result code="8">8</result>
+      <band id="6404">City of Bendigo Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="253653">
+      <result code="9">9</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="307922">H. L. Rasmussen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

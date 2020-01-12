@@ -1,0 +1,76 @@
+<contest-event id="17894">
+  <event-date date="1890-7-5">July 5, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leeds Forge Contest</name>
+  <contest id="1650">
+    <name>Leeds Forge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>leeds-forge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2204">Weber&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="1170">Armley Cricket and Football Club</venue>
+  <notes>Promoted by Leeds Forge Band
+
+Prizes: £20 and 50 guinea challenge cup, £15, £10, £6, £4, £2, £1
+
+Best cornet: George Raine (Linthwaite) - 12 guinea cornet</notes>
+
+  <created>Feb. 4, 2013, 4:43 p.m.</created>
+  <last-modified>Feb. 4, 2013, 4:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135258">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135259">
+      <result code="2">2</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135260">
+      <result code="3">3</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135261">
+      <result code="4">4</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135262">
+      <result code="5">5</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135263">
+      <result code="6">6</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135264">
+      <result code="7">7</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="20339">
+  <event-date date="1957-5-11">May 11, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Second Section)</name>
+  <contest id="49">
+    <name>West of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="650">Land of the Ever Young</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes>5 bands competed</notes>
+
+  <created>April 6, 2013, 1:06 p.m.</created>
+  <last-modified>July 9, 2013, 1:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150796">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="299936">George Crossland</conductor>
+    </result>
+    
+    <result id="164967">
+      <result code="2">2</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="164968">
+      <result code="3">3</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="299224">Cecil Chappell</conductor>
+    </result>
+    
+    <result id="164970">
+      <result code="">Unknown Result</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="299388">Sydney Clarke</conductor>
+    </result>
+    
+    <result id="164969">
+      <result code="">Unknown Result</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="311281">Joseph Welsh</conductor>
+    </result>
+    
+  </results>
+</contest-event>

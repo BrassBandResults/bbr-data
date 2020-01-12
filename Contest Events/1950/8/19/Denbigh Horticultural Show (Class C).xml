@@ -1,0 +1,67 @@
+<contest-event id="26514">
+  <event-date date="1950-8-19">Aug. 19, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Denbigh Horticultural Show (Class C)</name>
+  <contest id="3912">
+    <name>Denbigh Horticultural Show (Class C)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>denbigh-horticultural-show-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2332">May Day</test-piece>
+  </test-piece>
+
+  <venue id="3127">Denbigh, Denbighshire, Wales, UK</venue>
+  <notes>March contest - 1st Newtown, 2nd Llay Welfare.
+5 bands competed.</notes>
+
+  <created>Feb. 22, 2014, 12:52 p.m.</created>
+  <last-modified>Feb. 22, 2014, 12:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="192078">
+      <result code="1">1</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="299725">Alfred Robert Corfield</conductor>
+    </result>
+    
+    <result id="192079">
+      <result code="2">2</result>
+      <band id="288">Northop Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192080">
+      <result code="3">3</result>
+      <band id="10632">Llay Welfare Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192081">
+      <result code="">Unknown Result</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192082">
+      <result code="">Unknown Result</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192083">
+      <result code="W">Withdrawn</result>
+      <band id="1348">Flint Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

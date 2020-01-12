@@ -1,0 +1,42 @@
+<contest-event id="16011">
+  <event-date date="1985-11-9">Nov. 9, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Youth Section)</name>
+  <contest id="437">
+    <name>SWBBA Contest (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="14">Hymn &amp; Own Choice Test Piece Contest (Separate Points)</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-youth-section</slug>
+    
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1769">Saturday Market</test-piece>
+  </test-piece>
+
+  <venue id="263">Festival Theatre, Paignton, Devon, England, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 9, 2012, 3:31 p.m.</created>
+  <last-modified>Nov. 9, 2012, 3:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="123192">
+      <result code="1">1</result>
+      <band id="7645">Redruth Youth</band>
+      <conductor id="296777">D. L. Adams</conductor>
+    </result>
+    
+    <result id="123193">
+      <result code="2">2</result>
+      <band id="548">Torbay Brass Band</band>
+      <conductor id="309765">M. C. Stevens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

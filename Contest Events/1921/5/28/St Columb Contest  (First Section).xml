@@ -1,0 +1,68 @@
+<contest-event id="25429">
+  <event-date date="1921-5-28">May 28, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St Columb Contest  (First Section)</name>
+  <contest id="4953">
+    <name>St Columb Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="467">St Columb Contest</group>
+    <slug>st-columb-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2728">Recollections of Wales</test-piece>
+  </test-piece>
+
+  <venue id="4305">St. Columb, Cornwall</venue>
+  <notes>Promoted by St Columb Town Silver Band
+
+March: 1. Foxhole, 2. Stenalees, 3. Indian Queens</notes>
+
+  <created>Dec. 3, 2013, 9:47 p.m.</created>
+  <last-modified>Dec. 3, 2013, 10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184826">
+      <result code="1">1</result>
+      <band id="6463">Stenalees Silver Band</band>
+      <conductor id="303118">J. H. Hinchcliffe</conductor>
+    </result>
+    
+    <result id="184825">
+      <result code="2">2</result>
+      <band id="4281">Foxhole Silver</band>
+      <conductor id="306312">John Morcom</conductor>
+    </result>
+    
+    <result id="184827">
+      <result code="3">3</result>
+      <band id="1777">Indian Queens Silver</band>
+      <conductor id="304625">Ford Knight</conductor>
+    </result>
+    
+    <result id="184828">
+      <result code="">Unknown Result</result>
+      <band id="539">Bugle Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184829">
+      <result code="">Unknown Result</result>
+      <band id="1774">St Newlyn East</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184830">
+      <result code="">Unknown Result</result>
+      <band id="3908">Wadebridge Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

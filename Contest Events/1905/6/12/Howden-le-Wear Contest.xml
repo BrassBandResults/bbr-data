@@ -1,0 +1,75 @@
+<contest-event id="10077">
+  <event-date date="1905-6-12">June 12, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Howden-le-Wear Contest</name>
+  <contest id="1859">
+    <name>Howden-le-Wear Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>howden-le-wear</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1531">Howden-le-Wear, County Durham</venue>
+  <notes>
+  1st prize £9.
+  2nd and 3rd prize divided between Hebburn Temperance and Peases West
+6 bands competed.</notes>
+
+  <created>Feb. 10, 2012, 7:13 p.m.</created>
+  <last-modified>Sept. 6, 2018, 9:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85397">
+      <result code="1">1</result>
+      <band id="6688">Frosterley</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85399">
+      <result code="2">2</result>
+      <band id="6689">Peases West</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85398">
+      <result code="2">2</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85400">
+      <result code="4">4</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85402">
+      <result code="5">5</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85401">
+      <result code="6">6</result>
+      <band id="6690">Auckland Park</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

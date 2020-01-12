@@ -1,0 +1,73 @@
+<contest-event id="21914">
+  <event-date date="2014-6-15">June 15, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Jurassisch Kantonales Musikfest (Third Section)</name>
+  <contest id="4338">
+    <name>Jurassisch Kantonales Musikfest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="302">Jurassisch Kantonales Musikfest</group>
+    <slug>jurassisch-kantonales-musikfest-third-section</slug>
+    
+    <notes>None</notes>
+    <region id="10">Switzerland</region>
+    <section id="4">Third</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3578">Val Terbi, JU, Switzerland</venue>
+  <notes>Test Piece: Bands had Choice between - Canticles (James Curnow), Land of Legends (Andreas Ludwig Schulte) and The Heart of Lithuania (Jacob de Haan).</notes>
+
+  <created>June 16, 2013, 7:19 p.m.</created>
+  <last-modified>April 5, 2018, 5:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="197696">
+      <result code="1">1</result>
+      <band id="11007">Fanfare Harmonie Prêles</band>
+      <conductor id="300814">Pascal Eicher</conductor>
+      <test-piece id="328">Music from Kantara</test-piece>
+    </result>
+    
+    <result id="197706">
+      <result code="2">2</result>
+      <band id="12077">La Fanfare de Courcelon</band>
+      <conductor id="306661">David Neuenschwander</conductor>
+    </result>
+    
+    <result id="197697">
+      <result code="3">3</result>
+      <band id="11003">Musique-Fanfare Saignelégier</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197695">
+      <result code="4">4</result>
+      <band id="8827">Fanfare Harmonie Vendlincourt</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197694">
+      <result code="5">5</result>
+      <band id="11005">Fanfare La Montagnarde Epauvillers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197698">
+      <result code="6">6</result>
+      <band id="9578">Fanfare Union Buix</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="203614">
+      <result code="7">7</result>
+      <band id="11002">Fanfare La Persévérance Grandval</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

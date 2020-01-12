@@ -1,0 +1,67 @@
+<contest-event id="22191">
+  <event-date date="2013-7-6">July 6, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>World Music Contest (WMC) (3rd division)</name>
+  <contest id="177">
+    <name>World Music Contest (WMC) (3rd division)</name>
+    <order>30</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="30">World Music Contest Kerkrade</group>
+    <slug>world-music-contest-wmc-3rd-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="10">Set Test and Entertainments Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2509">Musica Helvetica</test-piece>
+  </test-piece>
+
+  <venue id="3626">Parkstad Limburg Theatre, Kerkrade, Limburg, Netherlands</venue>
+  <notes></notes>
+
+  <created>July 5, 2013, 5:55 p.m.</created>
+  <last-modified>Nov. 26, 2013, 4:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164850">
+      <result code="1">1</result>
+      <band id="1739">Gloria Dei</band>
+      <conductor id="312206">Piet van der Heide</conductor>
+    </result>
+    
+    <result id="164851">
+      <result code="2">2</result>
+      <band id="1737">Looft den Heer Beetgumermolen</band>
+      <conductor id="312187">Paulus de Jong</conductor>
+      <test-piece id="551">Images for Brass [Bulla]</test-piece>
+    </result>
+    
+    <result id="164852">
+      <result code="3">3</result>
+      <band id="7148">St Cecilia Leest</band>
+      <conductor id="305023">Jean Pierre Leveugle</conductor>
+    </result>
+    
+    <result id="164853">
+      <result code="4">4</result>
+      <band id="1014">Brassband De Grensbewoners Smeermaas vzw</band>
+      <conductor id="296806">Danny Aerden</conductor>
+    </result>
+    
+    <result id="164854">
+      <result code="5">5</result>
+      <band id="1015">Christelijke Brassband Middelburg</band>
+      <conductor id="312212">Bart van der Strieckt</conductor>
+    </result>
+    
+    <result id="164855">
+      <result code="6">6</result>
+      <band id="8440">Looft den Heer Wirdum</band>
+      <conductor id="298061">John Blanken</conductor>
+    </result>
+    
+  </results>
+</contest-event>

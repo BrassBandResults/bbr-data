@@ -1,0 +1,86 @@
+<contest-event id="36839">
+  <event-date date="1934-9-1">Sept. 1, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="7109">Lion&#39;s Field, Rhayader</venue>
+  <notes>Best class B band - Ogmore.
+March contest - 1st Emlyn, 2nd Taff Merthyr, 3rd Ogmore.
+9 bands competed.</notes>
+
+  <created>Jan. 10, 2017, 9:30 p.m.</created>
+  <last-modified>May 6, 2019, 2:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="267137">
+      <result code="1">1</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="267138">
+      <result code="2">2</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="267139">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="303517">Robert Samuel Howells</conductor>
+    </result>
+    
+    <result id="267140">
+      <result code="4">4</result>
+      <band id="8976">Taff Merthyr Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267145">
+      <result code="">Unknown Result</result>
+      <band id="11146">Clydach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267141">
+      <result code="">Unknown Result</result>
+      <band id="6563">Llanidloes Borough</band>
+      <conductor id="319145">E. Breeze</conductor>
+    </result>
+    
+    <result id="267144">
+      <result code="">Unknown Result</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="304003">Terry Jenkins</conductor>
+    </result>
+    
+    <result id="267143">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="304287">T. E. Jones</conductor>
+    </result>
+    
+    <result id="267142">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">T. C. White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

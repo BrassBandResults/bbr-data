@@ -1,0 +1,84 @@
+<contest-event id="5432">
+  <event-date date="1970-1-10">Jan. 10, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wills Regional Championships (Championship Section)</name>
+  <contest id="1083">
+    <name>Wills Regional Championships - Bristol (Championship Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="202">Wills Regional Championships - Bristol</group>
+    <slug>wills-regional-championships-bristol-cha-1083</slug>
+    <qualifies-for id="891">Wills Championships Grand Finals (Championship Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="372">The Frogs of Aristophanes</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes></notes>
+
+  <created>April 16, 2011, 3:22 p.m.</created>
+  <last-modified>June 16, 2011, 3:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="46601">
+      <result code="1">1</result>
+      <band id="1215">Morris Motors Band</band>
+      <conductor id="300754">Cliff Edmunds</conductor>
+    </result>
+    
+    <result id="46602">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="298379">Eric Bravington</conductor>
+    </result>
+    
+    <result id="46603">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302687">John Harrison</conductor>
+    </result>
+    
+    <result id="46604">
+      <result code="4">4</result>
+      <band id="4405">Newham Band</band>
+      <conductor id="309920">Cyril Suckling</conductor>
+    </result>
+    
+    <result id="46608">
+      <result code="">Unknown Result</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="308318">Matt Robertson</conductor>
+    </result>
+    
+    <result id="46607">
+      <result code="">Unknown Result</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="305176">Alwyn Lloyd</conductor>
+    </result>
+    
+    <result id="46605">
+      <result code="W">Withdrawn</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+    </result>
+    
+    <result id="46606">
+      <result code="W">Withdrawn</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="310310">William David Thomas</conductor>
+    </result>
+    
+    <result id="46609">
+      <result code="W">Withdrawn</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="311113">Graham Watkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="22869">
+  <event-date date="1957-9-28">Sept. 28, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Winchcombe Contest</name>
+  <contest id="4483">
+    <name>Winchcombe Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="432">Winchcombe Contest</group>
+    <slug>winchcombe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1019">The Black Prince</test-piece>
+  </test-piece>
+
+  <venue id="3818">Recreation Ground,Babesmoor, Winchcombe, Glos</venue>
+  <notes>
+  Prizes - 1st £20, 2nd £15, 3rd £8.
+  1st annual contest.</notes>
+
+  <created>Aug. 15, 2013, 8:18 a.m.</created>
+  <last-modified>Aug. 15, 2013, 8:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="168753">
+      <result code="1">1</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168754">
+      <result code="2">2</result>
+      <band id="494">Avonbank (Evesham) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168755">
+      <result code="3">3</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168757">
+      <result code="">Unknown Result</result>
+      <band id="2071">Cirencester Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168756">
+      <result code="">Unknown Result</result>
+      <band id="381">Severn Tunnel Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197797">
+      <result code="">Unknown Result</result>
+      <band id="509">Shipston Town Band</band>
+      <conductor id="309318">Bert Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

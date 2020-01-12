@@ -1,0 +1,56 @@
+<contest-event id="33861">
+  <event-date date="1979-4-15">April 15, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="589">Introduction and Allegro</test-piece>
+  </test-piece>
+
+  <venue id="3365">Perth, Western Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 1, 2016, 5:38 a.m.</created>
+  <last-modified>July 20, 2016, 9:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="243683">
+      <result code="1">1</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="303048">Laurie Hicks</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+    <result id="243684">
+      <result code="2">2</result>
+      <band id="1313">Footscray Yarraville City Band</band>
+      <conductor id="310589">Doug Trottman</conductor>
+      <test-piece id="57">Connotations</test-piece>
+    </result>
+    
+    <result id="243685">
+      <result code="3">3</result>
+      <band id="16322">Perth City   (WA)</band>
+      <conductor id="301503">George Franklin</conductor>
+    </result>
+    
+    <result id="243686">
+      <result code="4">4</result>
+      <band id="2146">Royal Agricultural Society of WA Brass</band>
+      <conductor id="309500">Norm Snow</conductor>
+    </result>
+    
+  </results>
+</contest-event>

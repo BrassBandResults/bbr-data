@@ -1,0 +1,54 @@
+<contest-event id="25783">
+  <event-date date="1984-3-18">March 18, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Youth Section)</name>
+  <contest id="1121">
+    <name>North West Area (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-youth</slug>
+    <qualifies-for id="997">National Youth Brass Band Championships</qualifies-for>
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="866">Partita [Kelly]</test-piece>
+  </test-piece>
+
+  <venue id="29">Guild Hall, Preston, Lancashire, England, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Jan. 10, 2014, 4:55 p.m.</created>
+  <last-modified>Jan. 14, 2015, 4:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186929">
+      <result code="1">1</result>
+      <band id="223">Besses Boys Band</band>
+      <conductor id="299223">Barrie Chappell</conductor>
+    </result>
+    
+    <result id="186931">
+      <result code="2">2</result>
+      <band id="1918">Wardle Academy Youth Band</band>
+      <conductor id="316452">Rom Stanko</conductor>
+    </result>
+    
+    <result id="186932">
+      <result code="">Unknown Result</result>
+      <band id="3707">Wigan Metropolitan Youth</band>
+      <conductor id="311977">J. Woodward</conductor>
+    </result>
+    
+    <result id="186930">
+      <result code="">Unknown Result</result>
+      <band id="4462">St Helens Music Centre</band>
+      <conductor id="300650">John Durrant</conductor>
+    </result>
+    
+  </results>
+</contest-event>

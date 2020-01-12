@@ -1,0 +1,80 @@
+<contest-event id="36139">
+  <event-date date="1985-7-13">July 13, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (C Grade)</name>
+  <contest id="618">
+    <name>NSW State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="162">Mexican Fiesta</test-piece>
+  </test-piece>
+
+  <venue id="6307">University of New England, Armidale, New South Wales, Australia</venue>
+  <notes>Miners Federation received 91 pts for their own choice but disqualified themselves when brought to there attention  they played the same piece of music in the own choice that they won with at last years championship 
+
+OWN CHOICE DRAW     5   ;  2 ;   3 ;  6 ;  1 ;  4</notes>
+
+  <created>Sept. 25, 2016, 10:01 p.m.</created>
+  <last-modified>Oct. 18, 2016, 12:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="262373">
+      <result code="1">1</result>
+      <band id="2174">Yagoona District Band</band>
+      <conductor id="309719">Ian Stenning</conductor>
+      <test-piece id="241">Dimensions</test-piece>
+    </result>
+    
+    <result id="262374">
+      <result code="2">2</result>
+      <band id="735">Maitland City Band</band>
+      <conductor id="308716">Les Sandy</conductor>
+      <test-piece id="241">Dimensions</test-piece>
+    </result>
+    
+    <result id="262375">
+      <result code="3">3</result>
+      <band id="699">Waratah Mayfield Brass</band>
+      <conductor id="302207">Ron Grice</conductor>
+      <test-piece id="654">Scheherazade</test-piece>
+    </result>
+    
+    <result id="262376">
+      <result code="4">4</result>
+      <band id="12319">Nepean Valley Brass</band>
+      <conductor id="315496">Henry Rugers</conductor>
+      <test-piece id="662">Egmont [arr. Ball]</test-piece>
+    </result>
+    
+    <result id="262377">
+      <result code="5">5</result>
+      <band id="737">Gunnedah Shire Band</band>
+      <conductor id="307725">Stan Priestley</conductor>
+      <test-piece id="3885">Beethovens 5th Symphony</test-piece>
+    </result>
+    
+    <result id="262378">
+      <result code="D">Disqualified</result>
+      <band id="12306">United Mine Workers Federation Band</band>
+      <conductor id="301368">John Flynn</conductor>
+      <test-piece id="241">Dimensions</test-piece>
+    </result>
+    
+    <result id="263333">
+      <result code="W">Withdrawn</result>
+      <band id="14370">Burwood Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

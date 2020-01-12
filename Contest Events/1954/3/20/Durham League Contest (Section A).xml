@@ -1,0 +1,49 @@
+<contest-event id="19005">
+  <event-date date="1954-3-20">March 20, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham League Contest (Section A)</name>
+  <contest id="221">
+    <name>Durham League Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="69">Durham League Contest</group>
+    <slug>durham-league-contest-section-a</slug>
+    
+    <notes>The 2010 contest, due to take place on 5th December, was cancelled due to heavy snow.
+(&lt;a href=&quot;http://www.4barsrest.com/news/detail.asp?id=12629&quot;&gt;4barsrest news article&lt;/a&gt;)</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="530">A Northern Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="3209">Miners Hall, Dawdon, County Durham</venue>
+  <notes></notes>
+
+  <created>March 11, 2013, 4:59 p.m.</created>
+  <last-modified>March 11, 2013, 5:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="142800">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="142801">
+      <result code="2">2</result>
+      <band id="924">Pride Valley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="142802">
+      <result code="3">3</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

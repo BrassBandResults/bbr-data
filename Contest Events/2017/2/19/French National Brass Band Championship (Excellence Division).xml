@@ -1,0 +1,51 @@
+<contest-event id="36237">
+  <event-date date="2017-2-19">Feb. 19, 2017<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French National Brass Band Championship (Excellence Division)</name>
+  <contest id="845">
+    <name>French National Brass Band Championship (Excellence Division)</name>
+    <order>5</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="120">French National Brass Band Championship</group>
+    <slug>french-national-brass-band-championship--845</slug>
+    
+    <notes></notes>
+    <region id="9">France</region>
+    <section id="11">Excellence</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2933">Orion [Lovatt-Cooper]</test-piece>
+  </test-piece>
+
+  <venue id="2377">Auditorium de Lyon, Lyon, Rhône-Alpes, France</venue>
+  <notes></notes>
+
+  <created>Oct. 1, 2016, 3:21 p.m.</created>
+  <last-modified>April 17, 2017, 2:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="268398">
+      <result code="1">1</result>
+      <band id="7787">Brass Band de Lyon</band>
+      <conductor id="313552">Glenn van Looy</conductor>
+      <test-piece id="722">The Legend of King Arthur</test-piece>
+    </result>
+    
+    <result id="268400">
+      <result code="2">2</result>
+      <band id="3462">Brass Band de Douai</band>
+      <conductor id="300691">Olivier Dégardin</conductor>
+      <test-piece id="3236">The Raid</test-piece>
+    </result>
+    
+    <result id="268399">
+      <result code="3">3</result>
+      <band id="3460">Brass Band Brassage</band>
+      <conductor id="316045">Laurent Douvre</conductor>
+      <test-piece id="32">Chivalry</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

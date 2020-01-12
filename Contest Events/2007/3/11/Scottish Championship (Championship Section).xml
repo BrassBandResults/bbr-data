@@ -1,0 +1,91 @@
+<contest-event id="141">
+  <event-date date="2007-3-11">March 11, 2007<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Championship Section)</name>
+  <contest id="37">
+    <name>Scottish Championship (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="9">Isaiah 40</test-piece>
+  </test-piece>
+
+  <venue id="14">Caird Hall, Dundee, Dundee City, Scotland, UK</venue>
+  <notes>Qualifiers: Kirkintilloch and Whitburn
+
+Terris Medal (best cornet): Jim Hayes (Scottish Co-op)
+John Campbell Award (best trombone): Marion Brackpool (Kirkintilloch)
+Bram Thomson Medal (best horn/flugel): Allan Wardrope (horn, Kirkintilloch)
+James MacMillan Medal (best baritone/euphonium): Richard Kidd (euphonium, Whitburn)
+James Hillis Memorial Trophy (best basses): Whitburn
+</notes>
+
+  <created>March 14, 2009, 6:07 p.m.</created>
+  <last-modified>Nov. 6, 2011, 12:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="2299">
+      <result code="1">1</result>
+      <band id="13">Kirkintilloch Band</band>
+      <conductor id="298124">Nigel Boddice</conductor>
+    </result>
+    
+    <result id="2300">
+      <result code="2">2</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="305818">Phillip McCann</conductor>
+    </result>
+    
+    <result id="2301">
+      <result code="3">3</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="307894">Allan Ramsay</conductor>
+    </result>
+    
+    <result id="2302">
+      <result code="4">4</result>
+      <band id="235">Kingdom Brass</band>
+      <conductor id="296990">Craig Anderson</conductor>
+    </result>
+    
+    <result id="2303">
+      <result code="5">5</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="303728">Archie Hutchison</conductor>
+    </result>
+    
+    <result id="2304">
+      <result code="6">6</result>
+      <band id="259">Unison Kinneil Band</band>
+      <conductor id="305924">Colin McKenzie</conductor>
+    </result>
+    
+    <result id="2305">
+      <result code="7">7</result>
+      <band id="418">Bon-Accord Silver Band</band>
+      <conductor id="301008">Richard Evans</conductor>
+    </result>
+    
+    <result id="2306">
+      <result code="8">8</result>
+      <band id="419">Kirkintilloch Kelvin Brass</band>
+      <conductor id="306958">Alastair Orr</conductor>
+    </result>
+    
+    <result id="2307">
+      <result code="9">9</result>
+      <band id="409">Broxburn and Livingston Brass</band>
+      <conductor id="307699">Kevin Price</conductor>
+    </result>
+    
+  </results>
+</contest-event>

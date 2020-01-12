@@ -1,0 +1,48 @@
+<contest-event id="30471">
+  <event-date date="2001-5-6">May 6, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Championship Class)</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="197">Tournament for Brass</test-piece>
+  </test-piece>
+
+  
+  <notes>Hymn tune contest - 1st Matthews, 2nd Cambridge, 3rd Colchester.</notes>
+
+  <created>Dec. 1, 2014, 12:21 p.m.</created>
+  <last-modified>Sept. 15, 2015, 2:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="215428">
+      <result code="1">1</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="309856">David Stowell</conductor>
+    </result>
+    
+    <result id="236441">
+      <result code="2">2</result>
+      <band id="315">City of Cambridge Brass Band</band>
+      <conductor id="303564">Peter Hudson</conductor>
+    </result>
+    
+    <result id="236442">
+      <result code="3">3</result>
+      <band id="606">Colchester Band</band>
+      <conductor id="301190">Paul Fensom</conductor>
+    </result>
+    
+  </results>
+</contest-event>

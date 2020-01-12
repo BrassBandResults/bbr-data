@@ -1,0 +1,55 @@
+<contest-event id="42751">
+  <event-date date="1972-10-15">Oct. 15, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (D Grade Brass)</name>
+  <contest id="3037">
+    <name>Tasmanian Band Championships (D Grade Brass)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-d-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="714">Shakespearean Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="7199">Launceston Albert Hall, Tasmania  Australia</venue>
+  <notes>NON CHAMPIONSHIP
+Bands were also required to play a Hymn &amp; Popular Number.</notes>
+
+  <created>Nov. 1, 2019, 3:22 a.m.</created>
+  <last-modified>Dec. 7, 2019, 2:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313121">
+      <result code="1">1</result>
+      <band id="9275">City of Devonport Brass Band</band>
+      <conductor id="307790">C. Pryer</conductor>
+    </result>
+    
+    <result id="313122">
+      <result code="2">2</result>
+      <band id="13620">Wynyard Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="313120">
+      <result code="3">3</result>
+      <band id="18361">St. Joseph&#39;s Silver  -  Launceston</band>
+      <conductor id="305820">Fred McCarron</conductor>
+    </result>
+    
+    <result id="313119">
+      <result code="4">4</result>
+      <band id="9277">Launceston Railway Silver Band</band>
+      <conductor id="303050">Ted Hicks</conductor>
+    </result>
+    
+  </results>
+</contest-event>

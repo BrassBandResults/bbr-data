@@ -1,0 +1,61 @@
+<contest-event id="30617">
+  <event-date date="1982-10-17">Oct. 17, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Second Section)</name>
+  <contest id="656">
+    <name>Manchester District Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="289">A Moorside Suite</test-piece>
+  </test-piece>
+
+  <venue id="26">Radisson Blu Edwardian Manchester Hotel, Manchester, Greater Manchester, England, UK</venue>
+  <notes>Prizes - 1st £100 and shield, 2nd £50 and cup, 3rd £25 and cup.
+5 bands competed.</notes>
+
+  <created>Dec. 12, 2014, 12:36 a.m.</created>
+  <last-modified>Jan. 12, 2015, 10:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="216522">
+      <result code="1">1</result>
+      <band id="1308">Congleton Brass</band>
+      <conductor id="304021">Granville Jennings</conductor>
+    </result>
+    
+    <result id="216523">
+      <result code="2">2</result>
+      <band id="1309">British Aerospace (Chadderton)</band>
+      <conductor id="305210">Peter Locket</conductor>
+    </result>
+    
+    <result id="216524">
+      <result code="3">3</result>
+      <band id="253">Stockport Brass</band>
+      <conductor id="311318">P. Weston</conductor>
+    </result>
+    
+    <result id="216525">
+      <result code="4">4</result>
+      <band id="185">Middleton Band</band>
+      <conductor id="298281">Fred Bowker</conductor>
+    </result>
+    
+    <result id="218217">
+      <result code="5">5</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="303054">Gordon Higginbottom</conductor>
+    </result>
+    
+  </results>
+</contest-event>

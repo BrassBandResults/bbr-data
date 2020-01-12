@@ -1,0 +1,87 @@
+<contest-event id="25290">
+  <event-date date="1939-8-26">Aug. 26, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crimdon Park Contest</name>
+  <contest id="4928">
+    <name>Crimdon Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crimdon-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1368">Recollections of Weber</test-piece>
+  </test-piece>
+
+  <venue id="4255">Crimdon Park, Easington, County Durham</venue>
+  <notes>Prizes - 1st £8 and trophy, 2nd £4, 3rd £2.
+  March contest - 1st(£2) Thornley Colliery, 2nd(£1) Durham Shakespeare, 3rd Easington Colliery.
+  Hymn tune contest - 1st(£1) Thornley Colliery, 2nd(10s.)  Wingate Colliery.
+9 bands competed</notes>
+
+  <created>Nov. 26, 2013, 8:20 a.m.</created>
+  <last-modified>Jan. 25, 2019, 2:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184198">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="184199">
+      <result code="2">2</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310919">Richard Walker</conductor>
+    </result>
+    
+    <result id="184200">
+      <result code="3">3</result>
+      <band id="3650">Newcastle Corporation Tramways</band>
+      <conductor id="309505">George Snowdon</conductor>
+    </result>
+    
+    <result id="184201">
+      <result code="4">4</result>
+      <band id="3360">Wheatley Hill Colliery</band>
+      <conductor id="301400">W. Forrest</conductor>
+    </result>
+    
+    <result id="184202">
+      <result code="5">5</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="184203">
+      <result code="">Unknown Result</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="305498">Joseph Mains</conductor>
+    </result>
+    
+    <result id="184204">
+      <result code="">Unknown Result</result>
+      <band id="6016">South Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184205">
+      <result code="">Unknown Result</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184206">
+      <result code="">Unknown Result</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="301732">W. H. Gelson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

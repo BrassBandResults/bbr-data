@@ -1,0 +1,60 @@
+<contest-event id="27433">
+  <event-date date="1904-8-27">Aug. 27, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest</name>
+  <contest id="1334">
+    <name>Workington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1426">Lortzing</test-piece>
+  </test-piece>
+
+  <venue id="850">Workington, Cumbria, England, UK</venue>
+  <notes>Prizes - 1st £35 and cup, 2nd £20, 3rd £15, 4th £10, 5th £5.</notes>
+
+  <created>May 12, 2014, 8:59 p.m.</created>
+  <last-modified>Aug. 27, 2018, 9:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="197606">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197607">
+      <result code="2">2</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197608">
+      <result code="3">3</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197609">
+      <result code="4">4</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197610">
+      <result code="5">5</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

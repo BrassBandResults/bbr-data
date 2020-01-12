@@ -1,0 +1,79 @@
+<contest-event id="16025">
+  <event-date date="1985-11-24">Nov. 24, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Third Section)</name>
+  <contest id="1292">
+    <name>Manchester District Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="345">Devon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="26">Radisson Blu Edwardian Manchester Hotel, Manchester, Greater Manchester, England, UK</venue>
+  <notes>  Prizes 1st £100 and cup, 2nd £50 and cup, 3rd £25 and cup.
+7 bands competed.</notes>
+
+  <created>Nov. 10, 2012, 10:30 a.m.</created>
+  <last-modified>Jan. 16, 2015, 10:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="123266">
+      <result code="1">1</result>
+      <band id="396">Littleborough Public Band</band>
+      <conductor id="303013">Peter Hewitt</conductor>
+    </result>
+    
+    <result id="123267">
+      <result code="2">2</result>
+      <band id="399">St. John&#39;s Mossley Band</band>
+      <conductor id="302039">R. Grand</conductor>
+    </result>
+    
+    <result id="123268">
+      <result code="3">3</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="300674">R. Dykes</conductor>
+    </result>
+    
+    <result id="123272">
+      <result code="4">4</result>
+      <band id="1355">Windsor Salford</band>
+      <conductor id="299412">J. Clayton</conductor>
+    </result>
+    
+    <result id="123284">
+      <result code="5">5</result>
+      <band id="190">Haslingden &amp; Helmshore Band</band>
+      <conductor id="297051">Colin Angell</conductor>
+    </result>
+    
+    <result id="123269">
+      <result code="6">6</result>
+      <band id="2591">Burnage Manchester</band>
+      <conductor id="306673">Gary Newborough</conductor>
+    </result>
+    
+    <result id="123271">
+      <result code="7">7</result>
+      <band id="1520">Stockport Silver</band>
+      <conductor id="304745">Brian Lamb</conductor>
+    </result>
+    
+    <result id="123270">
+      <result code="W">Withdrawn</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="303680">Jim Hunter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

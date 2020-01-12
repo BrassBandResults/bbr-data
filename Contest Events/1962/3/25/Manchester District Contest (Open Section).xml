@@ -1,0 +1,48 @@
+<contest-event id="34393">
+  <event-date date="1962-3-25">March 25, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Open Section)</name>
+  <contest id="791">
+    <name>Manchester District Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="652">Glastonbury</test-piece>
+  </test-piece>
+
+  <venue id="6119">Dukinfield Town Hall (Jubilee Hall), Dukinfield, Cheshire</venue>
+  <notes></notes>
+
+  <created>March 9, 2016, 1:19 p.m.</created>
+  <last-modified>March 9, 2016, 1:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="248371">
+      <result code="1">1</result>
+      <band id="1000">Greenway Selectus Band</band>
+      <conductor id="302077">Edward Gray</conductor>
+    </result>
+    
+    <result id="248372">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="299267">Harry Cheshire</conductor>
+    </result>
+    
+    <result id="248373">
+      <result code="3">3</result>
+      <band id="2580">Knutsford &amp; Alderley</band>
+      <conductor id="298755">J. Burgess</conductor>
+    </result>
+    
+  </results>
+</contest-event>

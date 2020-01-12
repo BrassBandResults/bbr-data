@@ -1,0 +1,85 @@
+<contest-event id="19073">
+  <event-date date="1954-5-15">May 15, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Second Section)</name>
+  <contest id="54">
+    <name>North of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-2nd-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="201">Call of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="3220">St. Nicholas Concert Hall, Gosforth, Newcastle-upon-Tyne</venue>
+  <notes>
+  9 bands competed.</notes>
+
+  <created>March 13, 2013, 7:42 a.m.</created>
+  <last-modified>March 13, 2013, 7:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="143235">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+    <result id="143236">
+      <result code="2">2</result>
+      <band id="799">Yarm &amp; District Band</band>
+      <conductor id="306104">C. Midgley</conductor>
+    </result>
+    
+    <result id="143237">
+      <result code="3">3</result>
+      <band id="924">Pride Valley Brass</band>
+      <conductor id="307271">J. Peacock</conductor>
+    </result>
+    
+    <result id="143239">
+      <result code="">Unknown Result</result>
+      <band id="923">Boldon Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143240">
+      <result code="">Unknown Result</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143242">
+      <result code="">Unknown Result</result>
+      <band id="309">Felling Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143238">
+      <result code="">Unknown Result</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143241">
+      <result code="">Unknown Result</result>
+      <band id="356">Marske Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143243">
+      <result code="">Unknown Result</result>
+      <band id="3360">Wheatley Hill Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

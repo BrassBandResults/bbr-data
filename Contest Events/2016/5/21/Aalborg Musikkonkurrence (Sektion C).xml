@@ -1,0 +1,50 @@
+<contest-event id="36283">
+  <event-date date="2016-5-21">May 21, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aalborg Musikkonkurrence (Sektion C)</name>
+  <contest id="5205">
+    <name>Aalborg Musikkonkurrence (Sektion C)</name>
+    <order>30</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="491">Aalborg Musikkonkurrence</group>
+    <slug>aalborg-musikkonkurrence-sektion-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3902">As the Deer</test-piece>
+  </test-piece>
+
+  <venue id="899">Aalborg, North Denmark, Denmark</venue>
+  <notes>Best March: Rise And Shine, Frederikshavn FDF Junior Brass Band
+Best solo: Gabriels Obo, Louisa, Greve Pige Garde
+Conductor:Maria Bak,Løgstør Garden</notes>
+
+  <created>Oct. 6, 2016, 2:37 p.m.</created>
+  <last-modified>Oct. 9, 2016, 8:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="263074">
+      <result code="1">1</result>
+      <band id="14391">Greve Pige Garde</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="263075">
+      <result code="2">2</result>
+      <band id="12011">Løgstør Garden</band>
+      <conductor id="297352">Marie Bak</conductor>
+    </result>
+    
+    <result id="263076">
+      <result code="3">3</result>
+      <band id="5430">Frederikshavn FDF Junior Brass Band</band>
+      <conductor id="304029">Carsten Højen Jensen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

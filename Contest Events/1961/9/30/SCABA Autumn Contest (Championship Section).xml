@@ -1,0 +1,42 @@
+<contest-event id="34273">
+  <event-date date="1961-9-30">Sept. 30, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SCABA Autumn Contest (Championship Section)</name>
+  <contest id="148">
+    <name>SCABA Autumn Contest (Championship Section)</name>
+    <order>5</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="33">SCABA Autumn Contest</group>
+    <slug>scaba-autumn-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1181">Gallions Reach</test-piece>
+  </test-piece>
+
+  <venue id="3255">Borough Hall, Godalming, Surrey, England, UK</venue>
+  <notes></notes>
+
+  <created>March 4, 2016, 2:13 p.m.</created>
+  <last-modified>March 4, 2016, 2:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="247420">
+      <result code="1">1</result>
+      <band id="620">Croydon Brass Band</band>
+      <conductor id="303951">Alfred Jarvis</conductor>
+    </result>
+    
+    <result id="247421">
+      <result code="2">2</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="307791">W. T. Pryer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

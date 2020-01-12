@@ -1,0 +1,61 @@
+<contest-event id="42042">
+  <event-date date="1954-6-26">June 26, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest</name>
+  <contest id="1022">
+    <name>Ruardean Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="356">Ruardean Contest</group>
+    <slug>ruardean-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="601">Moments with Wagner</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>Street march - 1st Cinderford, 2nd Pillowell.
+March on stand - 1st Lydbrook, 2nd Swindon.</notes>
+
+  <created>April 17, 2019, 7:55 p.m.</created>
+  <last-modified>April 17, 2019, 8 p.m.</last-modified>
+
+  <results>
+    
+    <result id="306283">
+      <result code="1">1</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="306284">
+      <result code="2">2</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="297521">Neville Barnett</conductor>
+    </result>
+    
+    <result id="306285">
+      <result code="3">3</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="306286">
+      <result code="">Unknown Result</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="299224">Cecil Chappell</conductor>
+    </result>
+    
+    <result id="306287">
+      <result code="">Unknown Result</result>
+      <band id="8747">Swindon Town Silver</band>
+      <conductor id="300438">V. Dobson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

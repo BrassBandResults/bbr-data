@@ -1,0 +1,70 @@
+<contest-event id="38933">
+  <event-date date="1890-8-9">Aug. 9, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mickley Contest</name>
+  <contest id="2015">
+    <name>Mickley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mickley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1448">Mickley, Northumberland, England, UK</venue>
+  <notes>March contest - 1st Hebburn, 2nd Beamish.
+6 bands competed</notes>
+
+  <created>Dec. 2, 2017, 11:58 a.m.</created>
+  <last-modified>Nov. 6, 2019, 1:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283248">
+      <result code="1">1</result>
+      <band id="7604">Newbrough</band>
+      <conductor id="298941">C. E. Calvert</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="283251">
+      <result code="2">2</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="301363">Thomas Floyd</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="283249">
+      <result code="3">3</result>
+      <band id="6195">Beamish</band>
+      <conductor id="308393">John Rodham</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="283252">
+      <result code="4">4</result>
+      <band id="7933">Hebburn Artillery</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="283250">
+      <result code="">Unknown Result</result>
+      <band id="2722">Coxlodge Institute Band</band>
+      <conductor id="317436">W. Maughan</conductor>
+    </result>
+    
+    <result id="283247">
+      <result code="">Unknown Result</result>
+      <band id="6694">South Shields Harmonic</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

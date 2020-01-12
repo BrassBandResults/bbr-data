@@ -1,0 +1,95 @@
+<contest-event id="12696">
+  <event-date date="1895-8-24">Aug. 24, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Hartlepool Contest</name>
+  <contest id="1131">
+    <name>West Hartlepool Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>west-hartlepool-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3010">Victoria Football Field, West Hartlepool</venue>
+  <notes>Promoted by Hartlepool N.E.R. Band
+Prizes: £10, £6, £3, £1
+March contest: 1. Spennymoor, 2. Eston, 3. Thornaby.
+9 bands competed
+
+</notes>
+
+  <created>April 19, 2012, 8:21 p.m.</created>
+  <last-modified>Dec. 10, 2019, 1:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101114">
+      <result code="1">1</result>
+      <band id="4655">Eston Miners</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="101115">
+      <result code="2">2</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">J. A. Mutton</conductor>
+    </result>
+    
+    <result id="101116">
+      <result code="3">3</result>
+      <band id="7504">Hetton Rechabites</band>
+      <conductor id="307392">George Perry</conductor>
+      <test-piece id="2379">Pomposo</test-piece>
+    </result>
+    
+    <result id="149307">
+      <result code="4">4</result>
+      <band id="9827">Greatham Ward</band>
+      <conductor id="310426">F. Tidyman</conductor>
+      <test-piece id="1825">Fallen Leaves</test-piece>
+    </result>
+    
+    <result id="101117">
+      <result code="4">4</result>
+      <band id="6694">South Shields Harmonic</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="149328">
+      <result code="">Unknown Result</result>
+      <band id="7608">Hartlepool Recreation</band>
+      <conductor id="298871">J. Byers</conductor>
+      <test-piece id="2396">Philomila</test-piece>
+    </result>
+    
+    <result id="149327">
+      <result code="">Unknown Result</result>
+      <band id="7819">Haswell</band>
+      <conductor id="299739">George Cornforth</conductor>
+      <test-piece id="2397">La Chattenham</test-piece>
+    </result>
+    
+    <result id="149326">
+      <result code="">Unknown Result</result>
+      <band id="6924">South Shields Garibaldi</band>
+      <conductor id="300862">W. W. Elliott</conductor>
+      <test-piece id="2398">Amarosa</test-piece>
+    </result>
+    
+    <result id="101118">
+      <result code="">Unknown Result</result>
+      <band id="6096">Thornaby Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2361">Geralda</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="18360">
+  <event-date date="1952-5-5">May 5, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="1037">Rufford Abbey</test-piece>
+  </test-piece>
+
+  <venue id="6028">Tower Circus, Blackpool, Lancashire, England, UK</venue>
+  <notes>Hymn tune - 1st Brindle, 2nd Preston St Davids.
+Best cornet - Eddie Eddowes - Preston St David&#39;s.
+Promoted by Norman Memorial Band.
+9 bands competed</notes>
+
+  <created>Feb. 19, 2013, 1:27 p.m.</created>
+  <last-modified>March 19, 2019, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="138574">
+      <result code="1">1</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="306615">J. W. Naylor</conductor>
+    </result>
+    
+    <result id="138575">
+      <result code="2">2</result>
+      <band id="394">Brindle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138576">
+      <result code="3">3</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138577">
+      <result code="4">4</result>
+      <band id="229">Parr (St. Helens) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

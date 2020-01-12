@@ -1,0 +1,66 @@
+<contest-event id="39127">
+  <event-date date="1958-10-24">Oct. 24, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (C Grade)</name>
+  <contest id="897">
+    <name>Victorian State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5477">Suite  &quot;Three English Pictures&quot;</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 10, 2018, 9:28 p.m.</created>
+  <last-modified>Feb. 10, 2018, 9:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284502">
+      <result code="1">1</result>
+      <band id="9343">Thompsons Foundry Band</band>
+      <conductor id="300490">Stan Doran</conductor>
+    </result>
+    
+    <result id="284503">
+      <result code="2">2</result>
+      <band id="13629">Melbourne High School Cadets</band>
+      <conductor id="317630">Bob Dunn</conductor>
+    </result>
+    
+    <result id="284504">
+      <result code="3">3</result>
+      <band id="7855">Wonthaggi Citizens</band>
+      <conductor id="317672">Matt Cameron</conductor>
+    </result>
+    
+    <result id="284505">
+      <result code="4">4</result>
+      <band id="2244">Geelong City</band>
+      <conductor id="317665">Tom Butterworth</conductor>
+    </result>
+    
+    <result id="284506">
+      <result code="W">Withdrawn</result>
+      <band id="13811">Geelong Ex Servicemen Memorial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284507">
+      <result code="W">Withdrawn</result>
+      <band id="16820">Wedderburn &amp; District Citizens</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

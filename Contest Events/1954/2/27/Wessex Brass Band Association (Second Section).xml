@@ -1,0 +1,88 @@
+<contest-event id="19000">
+  <event-date date="1954-2-27">Feb. 27, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Second Section)</name>
+  <contest id="171">
+    <name>Wessex Brass Band Association (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="3102">Central Hall, Southampton, Hampshire, England, UK</venue>
+  <notes>March contest:
+Set piece: &#39;Punchinello&#39;
+1 Burley, 42 pts, draw 1
+2 Kennet Vale, 39 pts, draw 5
+3 Michelmersh, draw 2
+
+Best Soprano: Kennet Vale
+Best Euphonium: Kennet Vale
+Best Trombone: Burley
+
+6 bands competed</notes>
+
+  <created>March 11, 2013, 1:24 p.m.</created>
+  <last-modified>May 7, 2013, 7:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="156378">
+      <result code="1">1</result>
+      <band id="2072">Kennet Vale Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="142737">
+      <result code="2">2</result>
+      <band id="8613">Burley Silver</band>
+      <conductor id="299962">S. E. Crutcher</conductor>
+    </result>
+    
+    <result id="142738">
+      <result code="3">3</result>
+      <band id="3973">Lockerley Silver Band</band>
+      <conductor id="309812">H. J. Stockwell</conductor>
+    </result>
+    
+    <result id="142739">
+      <result code="">Unknown Result</result>
+      <band id="524">Michelmersh Silver Band</band>
+      <conductor id="311989">A. E. Wooley</conductor>
+    </result>
+    
+    <result id="156379">
+      <result code="">Unknown Result</result>
+      <band id="379">Wincanton Silver Band</band>
+      <conductor id="299251">R. Chatfield</conductor>
+    </result>
+    
+    <result id="156376">
+      <result code="">Unknown Result</result>
+      <band id="1536">Solent Brass</band>
+      <conductor id="307076">W. Palmer</conductor>
+    </result>
+    
+    <result id="142736">
+      <result code="W">Withdrawn</result>
+      <band id="6808">Fovant</band>
+      <conductor id="300376">R. C. Dicker</conductor>
+    </result>
+    
+    <result id="156377">
+      <result code="W">Withdrawn</result>
+      <band id="310">Hyde Band</band>
+      <conductor id="309104">Herbert Shutler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

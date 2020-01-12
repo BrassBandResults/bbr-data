@@ -1,0 +1,69 @@
+<contest-event id="10957">
+  <event-date date="1906-8-4">Aug. 4, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Beeston Contest</name>
+  <contest id="2137">
+    <name>Beeston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>beeston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1718">Don Quixote</test-piece>
+  </test-piece>
+
+  <venue id="4546">Rugby Football Ground, Beeston, Nottinghamshire</venue>
+  <notes>Promoted by Beeston Excelsior Prize Band
+1st prize £5, 2nd prize £3, 3rd prize £2, 4th prize £1 divided between Long Eaton Town and Beeston Humber.
+6 bands competed.
+On mounting the stand to play, band #1, Beeston Humber, the stand being 5 foot off the ground, it gave way. Fortunately no one was hurt, merely given a fright and shaken - which told somewhat on their playing!</notes>
+
+  <created>March 10, 2012, 7:23 a.m.</created>
+  <last-modified>Sept. 15, 2018, 8:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90864">
+      <result code="1">1</result>
+      <band id="6792">Clowne Silver</band>
+      <conductor id="298278">G. W. Bowes</conductor>
+    </result>
+    
+    <result id="90865">
+      <result code="2">2</result>
+      <band id="11888">Bestwood Colliery</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="90866">
+      <result code="3">3</result>
+      <band id="6344">Nottingham Railway City</band>
+      <conductor id="306160">R. Mills</conductor>
+    </result>
+    
+    <result id="90868">
+      <result code="4">4</result>
+      <band id="6794">Beeston Humber</band>
+      <conductor id="317447">J. Hartley</conductor>
+    </result>
+    
+    <result id="90867">
+      <result code="4">4</result>
+      <band id="7870">Long Eaton Town Band</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="90869">
+      <result code="6">6</result>
+      <band id="4572">Stapleford Town</band>
+      <conductor id="297206">C. Atkin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,73 @@
+<contest-event id="12072">
+  <event-date date="1970-2-8">Feb. 8, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Contest (Second Section)</name>
+  <contest id="974">
+    <name>NWABBA Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="142">NWABBA Contest</group>
+    <slug>north-west-association-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="534">Themes from Symphony No. 5 [Beethoven]</test-piece>
+  </test-piece>
+
+  <venue id="3306">Pembroke Halls, Worsley, Lancashire</venue>
+  <notes>Prizes - 1st £35 rose bowl and cup, 2nd £22 and cup, 3rd £15 and shield, 4th £5 and cup.
+7 bands competed.</notes>
+
+  <created>April 9, 2012, 11:01 a.m.</created>
+  <last-modified>June 18, 2016, 8:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="97025">
+      <result code="1">1</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="303452">Frank Hough</conductor>
+    </result>
+    
+    <result id="146510">
+      <result code="2">2</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="309347">Denis Smith</conductor>
+    </result>
+    
+    <result id="146505">
+      <result code="3">3</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="303146">Les Hine</conductor>
+    </result>
+    
+    <result id="146507">
+      <result code="4">4</result>
+      <band id="502">Fairfield (Buxton) Band</band>
+      <conductor id="306377">W. Morley</conductor>
+    </result>
+    
+    <result id="146508">
+      <result code="">Unknown Result</result>
+      <band id="1309">British Aerospace (Chadderton)</band>
+      <conductor id="308240">Albert Risby</conductor>
+    </result>
+    
+    <result id="146509">
+      <result code="">Unknown Result</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="305180">G. G. Lloyd</conductor>
+    </result>
+    
+    <result id="146506">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

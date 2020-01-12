@@ -1,0 +1,62 @@
+<contest-event id="23975">
+  <event-date date="1927-5-28">May 28, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Renishaw Contest</name>
+  <contest id="4650">
+    <name>Renishaw Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>renishaw-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2500">Renishaw Park, Eckington, Derbyshire, England, UK</venue>
+  <notes> Prizes - 1st £10 and cup, 2nd £6, 3rd £4.
+ March contest - 1st B Winning, 2nd Denby Dale.
+  5 bands competed.</notes>
+
+  <created>Sept. 21, 2013, 9:07 a.m.</created>
+  <last-modified>Nov. 21, 2018, 11:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175235">
+      <result code="1">1</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="175238">
+      <result code="2">2</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="175237">
+      <result code="3">3</result>
+      <band id="11771">Holmes Mills Rotherham</band>
+      <conductor id="307228">I. Patterson</conductor>
+    </result>
+    
+    <result id="175239">
+      <result code="3">3</result>
+      <band id="500">Whitwell Brass Band</band>
+      <conductor id="301129">Joseph Farrington</conductor>
+    </result>
+    
+    <result id="175236">
+      <result code="5">5</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

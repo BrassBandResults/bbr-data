@@ -1,0 +1,55 @@
+<contest-event id="11010">
+  <event-date date="2003-4-26">April 26, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grenland International Brass Festival (Elite Division)</name>
+  <contest id="387">
+    <name>Grenland International Brass Festival (Elite Division)</name>
+    <order>1</order>
+    <contest-type id="22">Chuch Concert, Test Piece &amp; Entertainment</contest-type>
+    <group id="66">Grenland International Brass Festival</group>
+    <slug>grenland-international-brass-festival-elite-divisi</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="9">Elite</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="153">Spectrum [Vinter]</test-piece>
+  </test-piece>
+
+  <venue id="200">Ibsenhuset, Skien, Telemark, Norway</venue>
+  <notes>Soloist prize: Grethe Tonheim, Eikanger-Bjørsvik Musikklag 
+Conductors Prize: Best testpiece: Reid Gilje, Eikanger-Bjørsvik Musikklag </notes>
+
+  <created>March 10, 2012, 11:20 p.m.</created>
+  <last-modified>April 3, 2012, 8:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="91137">
+      <result code="1">1</result>
+      <band id="712">Eikanger-Bjørsvik Musikklag</band>
+      <conductor id="301823">Reid Gilje</conductor>
+    </result>
+    
+    <result id="94525">
+      <result code="2">2</result>
+      <band id="1095">Oslofjord Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="91770">
+      <result code="3">3</result>
+      <band id="816">Ila Brass Band</band>
+      <conductor id="304943">Gavin David Lee</conductor>
+    </result>
+    
+    <result id="91804">
+      <result code="4">4</result>
+      <band id="1110">Alexander Brass Band</band>
+      <conductor id="302548">Morten Hansen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

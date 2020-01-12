@@ -1,0 +1,61 @@
+<contest-event id="6545">
+  <event-date date="1973-3-25">March 25, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Second Section)</name>
+  <contest id="23">
+    <name>North West Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="774">The White Company</test-piece>
+  </test-piece>
+
+  <venue id="617">Parr Hall, Warrington, Cheshire, England, UK</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £12, 3rd £8.
+5 bands competed.</notes>
+
+  <created>June 16, 2011, 8:28 p.m.</created>
+  <last-modified>May 14, 2015, 9:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="57509">
+      <result code="1">1</result>
+      <band id="1525">Wigan &amp; District</band>
+      <conductor id="302077">Edward Gray</conductor>
+    </result>
+    
+    <result id="57510">
+      <result code="2">2</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="303452">Frank Hough</conductor>
+    </result>
+    
+    <result id="57511">
+      <result code="3">3</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="305180">G. G. Lloyd</conductor>
+    </result>
+    
+    <result id="57512">
+      <result code="4">4</result>
+      <band id="1361">Port Sunlight Royal British Legion</band>
+      <conductor id="305718">H. G. Mather</conductor>
+    </result>
+    
+    <result id="57513">
+      <result code="5">5</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

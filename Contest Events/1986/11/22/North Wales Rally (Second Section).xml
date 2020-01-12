@@ -1,0 +1,49 @@
+<contest-event id="16324">
+  <event-date date="1986-11-22">Nov. 22, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Second Section)</name>
+  <contest id="1772">
+    <name>North Wales Rally (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="654">Scheherazade</test-piece>
+  </test-piece>
+
+  <venue id="2713">Deeside, Flintshire, Wales, UK</venue>
+  <notes>
+  Prizes  1st £90, 2nd £70, 3rd £40.</notes>
+
+  <created>Nov. 23, 2012, 10:50 a.m.</created>
+  <last-modified>Nov. 23, 2012, 10:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="125690">
+      <result code="1">1</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="298321">Frank Boylin</conductor>
+    </result>
+    
+    <result id="125691">
+      <result code="2">2</result>
+      <band id="1514">Ifton Colliery Band</band>
+      <conductor id="300327">M. Denny</conductor>
+    </result>
+    
+    <result id="125692">
+      <result code="3">3</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="303605">Mervin Hughes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,42 @@
+<contest-event id="42187">
+  <event-date date="2019-6-8">June 8, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (Fourth Division)</name>
+  <contest id="1830">
+    <name>French Open (Fourth Division)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-fourth-division</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="374">Prelude, Song and Dance</test-piece>
+  </test-piece>
+
+  <venue id="4798">Théâtre Municipal Beaumarchais, Amboise, Centre, France</venue>
+  <notes></notes>
+
+  <created>May 12, 2019, 2:22 p.m.</created>
+  <last-modified>June 11, 2019, 11:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="309664">
+      <result code="1">1</result>
+      <band id="11823">Brass Band Océane</band>
+      <conductor id="307491">Pascal Piedefer</conductor>
+    </result>
+    
+    <result id="309663">
+      <result code="2">2</result>
+      <band id="1557">North London Brass</band>
+      <conductor id="318044">Andrew Brittin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

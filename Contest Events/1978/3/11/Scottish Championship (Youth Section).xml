@@ -1,0 +1,60 @@
+<contest-event id="17679">
+  <event-date date="1978-3-11">March 11, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Youth Section)</name>
+  <contest id="3571">
+    <name>Scottish Championship (Youth Section)</name>
+    <order>99</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-youth-section</slug>
+    <qualifies-for id="997">National Youth Brass Band Championships</qualifies-for>
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2311">Strand on the Green</test-piece>
+  </test-piece>
+
+  <venue id="295">Callendar College, Falkirk</venue>
+  <notes>Bands played &#39;Strand on the Green&#39;, plus either &#39;Round the Clock&#39; or &#39;Two Guitars&#39;.</notes>
+
+  <created>Jan. 27, 2013, 11:17 a.m.</created>
+  <last-modified>Feb. 22, 2015, 8:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134055">
+      <result code="1">1</result>
+      <band id="4411">Kilmarnock Area Schools Band</band>
+      <conductor id="304363">Andrew Keachie</conductor>
+    </result>
+    
+    <result id="134053">
+      <result code="2">2</result>
+      <band id="8959">Auchinleck Academy Brass Band</band>
+      <conductor id="304142">Hugh Johnstone</conductor>
+    </result>
+    
+    <result id="134056">
+      <result code="3">3</result>
+      <band id="10345">Loudoun Academy</band>
+      <conductor id="305528">Jack Malpass</conductor>
+    </result>
+    
+    <result id="134057">
+      <result code="">Unknown Result</result>
+      <band id="899">North Ayrshire Band</band>
+      <conductor id="298403">Hugh Brennan</conductor>
+    </result>
+    
+    <result id="134054">
+      <result code="">Unknown Result</result>
+      <band id="10344">Dumfries &amp; Area Youth</band>
+      <conductor id="302002">W. B. Gowan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

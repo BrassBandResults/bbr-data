@@ -1,0 +1,78 @@
+<contest-event id="19206">
+  <event-date date="1955-3-5">March 5, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hammersmith Contest (Championship)</name>
+  <contest id="1749">
+    <name>Hammersmith Contest (Championship)</name>
+    <order>5</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="181">Hammersmith Contest</group>
+    <slug>hammersmith-contest-championship</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="295">The Severn Suite</test-piece>
+  </test-piece>
+
+  <venue id="274">Hammersmith Town Hall, Hammersmith, Hammersmith and Fulham, Greater London, England, UK</venue>
+  <notes>  March contest  1st Hazells, 2nd Marston Valley, 3rd Hanwell.</notes>
+
+  <created>March 16, 2013, 10:02 a.m.</created>
+  <last-modified>Nov. 5, 2013, 4:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="144371">
+      <result code="1">1</result>
+      <band id="1729">Hazell&#39;s Printing Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144372">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="144373">
+      <result code="3">3</result>
+      <band id="2735">Marston Valley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144378">
+      <result code="">Unknown Result</result>
+      <band id="620">Croydon Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144376">
+      <result code="">Unknown Result</result>
+      <band id="2761">Hammersmith Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144377">
+      <result code="">Unknown Result</result>
+      <band id="5434">High Wycombe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144375">
+      <result code="">Unknown Result</result>
+      <band id="819">Luton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144374">
+      <result code="">Unknown Result</result>
+      <band id="2725">Odham&#39;s Press Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="6380">
+  <event-date date="2009-11-27">Nov. 27, 2009<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Third Division)</name>
+  <contest id="518">
+    <name>Dutch Nationals (Third Division)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-third-division</slug>
+    
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1151">Arkansas</test-piece>
+  </test-piece>
+
+  <venue id="110">Martiniplaza, Groningen, Groningen Province, Netherlands</venue>
+  <notes></notes>
+
+  <created>June 7, 2011, 10:20 a.m.</created>
+  <last-modified>Sept. 6, 2013, 7:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="56273">
+      <result code="1">1</result>
+      <band id="1739">Gloria Dei</band>
+      <conductor id="312206">Piet van der Heide</conductor>
+    </result>
+    
+    <result id="241249">
+      <result code="2">2</result>
+      <band id="5825">Wâldbrass Kollum</band>
+      <conductor id="303768">Bienze Ijlstra</conductor>
+    </result>
+    
+    <result id="241250">
+      <result code="3">3</result>
+      <band id="1746">Apollo Grou</band>
+      <conductor id="310828">Piet Visser</conductor>
+    </result>
+    
+    <result id="241251">
+      <result code="4">4</result>
+      <band id="1330">Constantijn Huijgens</band>
+      <conductor id="310829">Richard Visser</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="6103">
+  <event-date date="1962-11-24">Nov. 24, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="777">Peter Schmoll</test-piece>
+  </test-piece>
+
+  <venue id="297">Civic Hall, Exeter</venue>
+  <notes></notes>
+
+  <created>May 21, 2011, 7:27 p.m.</created>
+  <last-modified>March 12, 2016, 11:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="53659">
+      <result code="1">1</result>
+      <band id="308">Woodfalls Concert Brass</band>
+      <conductor id="299344">Clifford Clark</conductor>
+    </result>
+    
+    <result id="53660">
+      <result code="2">2</result>
+      <band id="1284">Durnovaria Silver</band>
+      <conductor id="306987">Edwin Otter</conductor>
+    </result>
+    
+    <result id="53661">
+      <result code="3">3</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="308578">Telfer Rule</conductor>
+    </result>
+    
+  </results>
+</contest-event>

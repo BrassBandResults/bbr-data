@@ -1,0 +1,71 @@
+<contest-event id="3235">
+  <event-date date="2008-11-7">Nov. 7, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (A Class)</name>
+  <contest id="495">
+    <name>Swedish National Championship (A Class)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-a-class</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="438">Swedish Festival Music</test-piece>
+  </test-piece>
+
+  <venue id="327">Värnamo, Småland, Sweden</venue>
+  <notes></notes>
+
+  <created>Nov. 29, 2010, 12:39 p.m.</created>
+  <last-modified>Nov. 29, 2010, 12:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="31550">
+      <result code="1">1</result>
+      <band id="1213">Stockholm Band</band>
+      <conductor id="304302">Kent Jonsson</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+    <result id="31551">
+      <result code="2">2</result>
+      <band id="1934">Windcorp Brass Band</band>
+      <conductor id="304679">Andreas Kratz</conductor>
+      <test-piece id="11">Vienna Nights</test-piece>
+    </result>
+    
+    <result id="31552">
+      <result code="3">3</result>
+      <band id="1208">Solna Brass</band>
+      <conductor id="301720">Bram Gay</conductor>
+      <test-piece id="43">An Epic Symphony</test-piece>
+    </result>
+    
+    <result id="31553">
+      <result code="4">4</result>
+      <band id="1567">Torsby Brass</band>
+      <conductor id="307079">Berit Palmquist</conductor>
+    </result>
+    
+    <result id="31554">
+      <result code="5">5</result>
+      <band id="1936">Malmo Brass Band</band>
+      <conductor id="308637">Mats Rydén</conductor>
+      <test-piece id="54">Tallis Variations</test-piece>
+    </result>
+    
+    <result id="31555">
+      <result code="6">6</result>
+      <band id="2264">Betlehemskyrkans Musikkår</band>
+      <conductor id="305367">Andreas Lundin</conductor>
+      <test-piece id="57">Connotations</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

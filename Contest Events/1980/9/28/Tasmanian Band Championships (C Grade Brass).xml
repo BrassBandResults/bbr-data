@@ -1,0 +1,42 @@
+<contest-event id="42791">
+  <event-date date="1980-9-28">Sept. 28, 1980<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (C Grade Brass)</name>
+  <contest id="3036">
+    <name>Tasmanian Band Championships (C Grade Brass)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-c-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="792">Rhapsody on British Sea Shanties</test-piece>
+  </test-piece>
+
+  <venue id="7207">Burnie Civic Centre  ,  Tasmania, Australia</venue>
+  <notes>Bands required to also play a Hymn &amp; Popular Number (not counted in championship)</notes>
+
+  <created>Nov. 5, 2019, 2:57 a.m.</created>
+  <last-modified>Nov. 5, 2019, 3:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="313418">
+      <result code="1">1</result>
+      <band id="2272">City of Launceston RSL Brass</band>
+      <conductor id="307105">David Parker</conductor>
+    </result>
+    
+    <result id="313419">
+      <result code="2">2</result>
+      <band id="9277">Launceston Railway Silver Band</band>
+      <conductor id="310608">Alan Tucker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

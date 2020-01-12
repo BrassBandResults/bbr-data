@@ -1,0 +1,55 @@
+<contest-event id="29256">
+  <event-date date="1990-11-25">Nov. 25, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Open Section)</name>
+  <contest id="791">
+    <name>Manchester District Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="218">Triumphant Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="230">Albert Halls, Bolton Town Hall, Bolton, Greater Manchester, UK</venue>
+  <notes>Prize - 1st £150 and shield.
+3 bands competed.</notes>
+
+  <created>Aug. 30, 2014, 2:18 p.m.</created>
+  <last-modified>Oct. 19, 2014, 7:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="208805">
+      <result code="1">1</result>
+      <band id="1204">United Norwest Co-op Rochdale Band</band>
+      <conductor id="298438">Anthony Briggs</conductor>
+    </result>
+    
+    <result id="208806">
+      <result code="2">2</result>
+      <band id="175">Vernon Building Society (Poynton) Brass Band</band>
+      <conductor id="304885">Alan Lawton</conductor>
+    </result>
+    
+    <result id="208807">
+      <result code="3">3</result>
+      <band id="1346">Rochdale Band</band>
+      <conductor id="311496">Alan Widdop</conductor>
+    </result>
+    
+    <result id="208808">
+      <result code="W">Withdrawn</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

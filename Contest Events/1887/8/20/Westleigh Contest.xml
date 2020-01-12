@@ -1,0 +1,78 @@
+<contest-event id="17529">
+  <event-date date="1887-8-20">Aug. 20, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Westleigh Contest</name>
+  <contest id="3320">
+    <name>Westleigh Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>westleigh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2526">By Babylon&#39;s Wave</test-piece>
+  </test-piece>
+
+  <venue id="2920">Westleigh Lane, Leigh</venue>
+  <notes>March contest: 1. All Saints, 2. Tyldesley</notes>
+
+  <created>Jan. 22, 2013, 3:31 p.m.</created>
+  <last-modified>June 21, 2017, 1:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="133214">
+      <result code="1">1</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="133215">
+      <result code="2">2</result>
+      <band id="9731">All Saints (Hindley)</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="133216">
+      <result code="3">3</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="301805">John Gilberthorpe</conductor>
+    </result>
+    
+    <result id="133217">
+      <result code="4">4</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="300883">William Ellison</conductor>
+    </result>
+    
+    <result id="276615">
+      <result code="">Unknown Result</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="307344">W. Pendlebury</conductor>
+    </result>
+    
+    <result id="276616">
+      <result code="">Unknown Result</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="311914">William Wood</conductor>
+    </result>
+    
+    <result id="276617">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="276614">
+      <result code="W">Withdrawn</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

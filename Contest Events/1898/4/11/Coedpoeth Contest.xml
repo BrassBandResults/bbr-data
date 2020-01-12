@@ -1,0 +1,44 @@
+<contest-event id="13413">
+  <event-date date="1898-4-11">April 11, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coedpoeth Contest</name>
+  <contest id="2509">
+    <name>Coedpoeth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coedpoeth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2420">Gems of Victorian Melody</test-piece>
+  </test-piece>
+
+  <venue id="1863">Coedpoeth, Wrexham, Wales, UK</venue>
+  <notes>Prizes: £15, £5
+March contest: 1. Coedpoeth
+Two bands competed</notes>
+
+  <created>May 11, 2012, 8:19 p.m.</created>
+  <last-modified>July 14, 2019, 8:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106343">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="106344">
+      <result code="2">2</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="310643">George Turner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

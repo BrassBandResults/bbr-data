@@ -1,0 +1,43 @@
+<contest-event id="10768">
+  <event-date date="1995-4-22">April 22, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Challenge Section)</name>
+  <contest id="163">
+    <name>North American Championships (Challenge Section)</name>
+    <order>1020</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-challenge-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="361">Partita for Band - Postcards from Home</test-piece>
+  </test-piece>
+
+  <venue id="1488">Salvation Army Toronto Temple, Toronto, Ontario, Canada</venue>
+  <notes></notes>
+
+  <created>March 2, 2012, 1:38 p.m.</created>
+  <last-modified>April 18, 2013, 12:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="89939">
+      <result code="1">1</result>
+      <band id="6978">Buffalo Silver Band</band>
+      <conductor id="308607">Michael Russo</conductor>
+    </result>
+    
+    <result id="89940">
+      <result code="2">2</result>
+      <band id="6964">Varsity All-Star Brass Band</band>
+      <conductor id="296815">Eric Aho</conductor>
+      <test-piece id="698">Knoxville 1800</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

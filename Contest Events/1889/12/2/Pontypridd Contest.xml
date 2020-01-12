@@ -1,0 +1,44 @@
+<contest-event id="38436">
+  <event-date date="1889-12-2">Dec. 2, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest</name>
+  <contest id="1211">
+    <name>Pontypridd Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6693">Market Hall, Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>3 bands competed
+
+March contest: 1. Ferndale</notes>
+
+  <created>July 11, 2017, 10:40 a.m.</created>
+  <last-modified>July 11, 2017, 10:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="278057">
+      <result code="1">1</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="308989">Robert Shaw</conductor>
+    </result>
+    
+    <result id="278056">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="303504">W. R. Howe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

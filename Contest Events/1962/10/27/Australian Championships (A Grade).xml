@@ -1,0 +1,72 @@
+<contest-event id="33821">
+  <event-date date="1962-10-27">Oct. 27, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1165">Les Preludes [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 29, 2016, 10:15 p.m.</created>
+  <last-modified>March 20, 2018, 11:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="243112">
+      <result code="1">1</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="307467">Harry Philpott</conductor>
+    </result>
+    
+    <result id="243113">
+      <result code="2">2</result>
+      <band id="1313">Footscray Yarraville City Band</band>
+      <conductor id="298970">Tom Campbell</conductor>
+    </result>
+    
+    <result id="243114">
+      <result code="3">3</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="309334">Charles Smith</conductor>
+    </result>
+    
+    <result id="243115">
+      <result code="4">4</result>
+      <band id="698">Kensington &amp; Norwood Brass</band>
+      <conductor id="309759">Herb Stevens</conductor>
+    </result>
+    
+    <result id="243116">
+      <result code="5">5</result>
+      <band id="2179">St. John Ambulance Band [Adelaide]</band>
+      <conductor id="297319">Clair Baile</conductor>
+    </result>
+    
+    <result id="243117">
+      <result code="6">6</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="310736">Norman Uren</conductor>
+    </result>
+    
+    <result id="243118">
+      <result code="7">7</result>
+      <band id="727">Eaglehawk Citizens Band</band>
+      <conductor id="313685">George Miller</conductor>
+    </result>
+    
+  </results>
+</contest-event>

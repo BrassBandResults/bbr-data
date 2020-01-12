@@ -1,0 +1,56 @@
+<contest-event id="15363">
+  <event-date date="1898-8-27">Aug. 27, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Willington Contest</name>
+  <contest id="2531">
+    <name>Willington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>willington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1885">Willington, County Durham</venue>
+  <notes>Prizes: £10, £6, £4, £3
+March contest: 1. South Derwent, 2. Willington
+4 bands competed</notes>
+
+  <created>Oct. 15, 2012, 4:47 p.m.</created>
+  <last-modified>July 22, 2019, 7:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118980">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="118981">
+      <result code="2">2</result>
+      <band id="5906">1st Durham Rifle Volunteer (Stockton)</band>
+      <conductor id="309563">T. Spence</conductor>
+    </result>
+    
+    <result id="118983">
+      <result code="3">3</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="299956">W. H. Crowther</conductor>
+    </result>
+    
+    <result id="118982">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+  </results>
+</contest-event>

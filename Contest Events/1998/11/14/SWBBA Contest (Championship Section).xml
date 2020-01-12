@@ -1,0 +1,42 @@
+<contest-event id="31943">
+  <event-date date="1998-11-14">Nov. 14, 1998<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="297">Le Carnaval Romain [arr. Wrigth]</test-piece>
+  </test-piece>
+
+  <venue id="5822">The Pavilion, Exmouth, Devon</venue>
+  <notes></notes>
+
+  <created>May 7, 2015, 10:41 a.m.</created>
+  <last-modified>May 7, 2015, 10:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="226859">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="296783">Leonard Adams</conductor>
+    </result>
+    
+    <result id="226860">
+      <result code="2">2</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="311407">Melvin White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

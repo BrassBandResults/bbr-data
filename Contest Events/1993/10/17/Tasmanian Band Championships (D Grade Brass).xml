@@ -1,0 +1,43 @@
+<contest-event id="42858">
+  <event-date date="1993-10-17">Oct. 17, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (D Grade Brass)</name>
+  <contest id="3037">
+    <name>Tasmanian Band Championships (D Grade Brass)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-d-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="95">Summer Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="7204">Brooks High School, Newham, Launceston, Tasmania, Australia</venue>
+  <notes>Bands also required to playa Hymn ( not included in championship)</notes>
+
+  <created>Nov. 13, 2019, 11:55 p.m.</created>
+  <last-modified>Dec. 7, 2019, 2:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313718">
+      <result code="1">1</result>
+      <band id="9278">West Tamar Municipal Band</band>
+      <conductor id="300864">Brian Ellis</conductor>
+    </result>
+    
+    <result id="313717">
+      <result code="2">2</result>
+      <band id="13389">Launceston City Band</band>
+      <conductor id="311345">Noel Wheeler</conductor>
+      <test-piece id="1035">The Young in Heart</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

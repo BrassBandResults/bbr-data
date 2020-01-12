@@ -1,0 +1,61 @@
+<contest-event id="15856">
+  <event-date date="1909-7-21">July 21, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shanklin Contest</name>
+  <contest id="2320">
+    <name>Shanklin Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shanklin-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1900">Old Favourites</test-piece>
+  </test-piece>
+
+  <venue id="1675">Shanklin, Isle of Wight, England, UK</venue>
+  <notes>
+  5 bands competed.</notes>
+
+  <created>Nov. 6, 2012, 9:54 a.m.</created>
+  <last-modified>Nov. 6, 2012, 10:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="122303">
+      <result code="1">1</result>
+      <band id="7491">Sandown Prize Band</band>
+      <conductor id="299571">C. Comden</conductor>
+    </result>
+    
+    <result id="122304">
+      <result code="2">2</result>
+      <band id="557">Shanklin Town Brass</band>
+      <conductor id="307853">Edward Thomas Quinn</conductor>
+    </result>
+    
+    <result id="122305">
+      <result code="3">3</result>
+      <band id="7492">Ventnor Artillery</band>
+      <conductor id="302993">J. Hess</conductor>
+    </result>
+    
+    <result id="122307">
+      <result code="">Unknown Result</result>
+      <band id="9858">Ryde Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122306">
+      <result code="">Unknown Result</result>
+      <band id="9857">Ventnor Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

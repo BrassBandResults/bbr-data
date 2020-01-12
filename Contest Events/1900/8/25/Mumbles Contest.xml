@@ -1,0 +1,75 @@
+<contest-event id="37384">
+  <event-date date="1900-8-25">Aug. 25, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mumbles Contest</name>
+  <contest id="4358">
+    <name>Mumbles Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mumbles-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="5438">Pier Pavilion, Mumbles, Glamorgan</venue>
+  <notes>Prizes: £10, £6, £3, £2.
+Best cornet - Trebanos.
+Best euphonium and trombone - Cory&#39;s.
+7 bands competed.</notes>
+
+  <created>Feb. 26, 2017, 11:23 a.m.</created>
+  <last-modified>June 16, 2018, 9:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270585">
+      <result code="1">1</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="270586">
+      <result code="2">2</result>
+      <band id="8031">Treharris</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="270587">
+      <result code="3">3</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="270588">
+      <result code="4">4</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="300719">T. Eastwood</conductor>
+    </result>
+    
+    <result id="289831">
+      <result code="">Unknown Result</result>
+      <band id="7931">Llansamlet</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+    <result id="270589">
+      <result code="">Unknown Result</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">P. Ambler</conductor>
+    </result>
+    
+    <result id="289832">
+      <result code="">Unknown Result</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="301041">Walter Exley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

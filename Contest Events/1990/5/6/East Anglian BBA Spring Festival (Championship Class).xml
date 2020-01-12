@@ -1,0 +1,49 @@
+<contest-event id="30252">
+  <event-date date="1990-5-6">May 6, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Championship Class)</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="633">Celebration [Ball]</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune contest - 1st Matthews Norfolk Brass.
+52nd annual contest</notes>
+
+  <created>Nov. 13, 2014, 11:20 a.m.</created>
+  <last-modified>Nov. 13, 2014, 11:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="214056">
+      <result code="1">1</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="304091">Ian Johnson</conductor>
+    </result>
+    
+    <result id="214057">
+      <result code="2">2</result>
+      <band id="315">City of Cambridge Brass Band</band>
+      <conductor id="309070">Charles Shipp</conductor>
+    </result>
+    
+    <result id="214058">
+      <result code="3">3</result>
+      <band id="304">East of England Co-op Band</band>
+      <conductor id="303480">Robert Howard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

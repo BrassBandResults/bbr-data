@@ -1,0 +1,43 @@
+<contest-event id="14889">
+  <event-date date="1986-1-1">Jan. 1, 1986<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Eidgenössisches Musikfest (Championship Section)</name>
+  <contest id="3099">
+    <name>Eidgenössisches Musikfest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="248">Eidgenössisches Musikfest</group>
+    <slug>eidgenossisches-musikfest-championship-section</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2114">Songes d&#39;Automne</test-piece>
+  </test-piece>
+
+  <venue id="2394">Winterthur, ZH, Switzerland</venue>
+  <notes></notes>
+
+  <created>Sept. 28, 2012, 7:43 p.m.</created>
+  <last-modified>Sept. 28, 2012, 9:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="116525">
+      <result code="1">1</result>
+      <band id="8477">Fanfare Ancienne Cécilia de Chermignon</band>
+      <conductor id="297537">Michel Barras</conductor>
+      <test-piece id="561">Les Gursks</test-piece>
+    </result>
+    
+    <result id="116526">
+      <result code="3">3</result>
+      <band id="8833">Fanfare Concordia Vétroz</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="8770">
+  <event-date date="1995-4-29">April 29, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>European Championships (1st/B Section)</name>
+  <contest id="86">
+    <name>European Championships (Challenge Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="22">European Championships</group>
+    <slug>european-championships-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="126">The Three Musketeers</test-piece>
+  </test-piece>
+
+  <venue id="83">Grand Théâtre de Luxembourg, Luxembourg City, Luxembourg District, Luxembourg</venue>
+  <notes></notes>
+
+  <created>Dec. 11, 2011, 3:54 p.m.</created>
+  <last-modified>Dec. 11, 2011, 3:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76753">
+      <result code="1">1</result>
+      <band id="887">Brass Band Oberschwaben-Allgäu</band>
+      <conductor id="304705">Gerd Kurat</conductor>
+      <test-piece id="289">A Moorside Suite</test-piece>
+    </result>
+    
+    <result id="76754">
+      <result code="2">2</result>
+      <band id="6041">Brass Band Bratislava</band>
+      <conductor id="303936">Michel Janos</conductor>
+      <test-piece id="1464">Die Schlacht bei Austerlitz</test-piece>
+    </result>
+    
+    <result id="76755">
+      <result code="3">3</result>
+      <band id="6043">Klaksvikar Hornorkestur</band>
+      <conductor id="307108">Fiona Parker</conductor>
+      <test-piece id="361">Partita for Band - Postcards from Home</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

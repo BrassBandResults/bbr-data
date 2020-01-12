@@ -1,0 +1,67 @@
+<contest-event id="25065">
+  <event-date date="1936-5-30">May 30, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Redruth Contest (Section 1)</name>
+  <contest id="2893">
+    <name>Redruth Contest (Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="466">Redruth Contest</group>
+    <slug>redruth-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="1228">Redruth, Cornwall</venue>
+  <notes>March contest (Mandora)- 1st St Dennis, 2nd Camborne.
+  6 bands competed.</notes>
+
+  <created>Nov. 12, 2013, 11:38 a.m.</created>
+  <last-modified>Jan. 9, 2019, 10:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182578">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="182579">
+      <result code="2">2</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="182580">
+      <result code="3">3</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="306297">T. G. Moore</conductor>
+    </result>
+    
+    <result id="182581">
+      <result code="">Unknown Result</result>
+      <band id="1296">Newquay Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182582">
+      <result code="">Unknown Result</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182583">
+      <result code="">Unknown Result</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="11433">
+  <event-date date="1907-7-6">July 6, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Raunds Contest</name>
+  <contest id="2273">
+    <name>Raunds Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>raunds-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1274">Daughter of the Regiment [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="5388">Ashfield Hall, Raunds, Northamptonshire</venue>
+  <notes>Waltz contest  1st Kettering Rifles,  2nd  Rushden Temperance.
+8 bands competed.</notes>
+
+  <created>March 25, 2012, 8:56 p.m.</created>
+  <last-modified>Sept. 19, 2018, 7:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94035">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307686">Thomas Preston</conductor>
+    </result>
+    
+    <result id="94036">
+      <result code="2">2</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="94037">
+      <result code="3">3</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="307686">Thomas Preston</conductor>
+    </result>
+    
+    <result id="94038">
+      <result code="4">4</result>
+      <band id="6345">Olney Town</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="94041">
+      <result code="">Unknown Result</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="94039">
+      <result code="">Unknown Result</result>
+      <band id="6323">Peterborough Excelsior</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="94040">
+      <result code="">Unknown Result</result>
+      <band id="2348">Thrapston Town</band>
+      <conductor id="309417">Nathaniel Smith</conductor>
+    </result>
+    
+    <result id="94042">
+      <result code="">Unknown Result</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

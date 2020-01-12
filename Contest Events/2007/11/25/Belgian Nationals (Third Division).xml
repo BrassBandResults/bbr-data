@@ -1,0 +1,42 @@
+<contest-event id="706">
+  <event-date date="2007-11-25">Nov. 25, 2007<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Third Division)</name>
+  <contest id="79">
+    <name>Belgian Nationals (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-third-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="4">Third</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="74">Anglian Dances</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>July 16, 2009, 9:53 p.m.</created>
+  <last-modified>Dec. 13, 2011, 10:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="8305">
+      <result code="1">1</result>
+      <band id="1366">Brassband Hageland</band>
+      <conductor id="300394">Michael Dils</conductor>
+    </result>
+    
+    <result id="8306">
+      <result code="2">2</result>
+      <band id="684">Brassband Retie</band>
+      <conductor id="303451">Kevin Houben</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="34414">
+  <event-date date="2004-4-9">April 9, 2004<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior B Grade)</name>
+  <contest id="91">
+    <name>Australian Championships (Junior B Grade)</name>
+    <order>120</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-b-grade</slug>
+    
+    <notes>First contest in grade 1985</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="703">Island Music</test-piece>
+  </test-piece>
+
+  <venue id="4943">Albert Hall, Launceston, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>March 10, 2016, 11:54 p.m.</created>
+  <last-modified>March 13, 2016, 11:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="248486">
+      <result code="1">1</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="712">Free World Fantasy</test-piece>
+    </result>
+    
+    <result id="248487">
+      <result code="2">2</result>
+      <band id="13251">St. Marys Band Club Junior</band>
+      <conductor id="307293">Robert Pearce</conductor>
+      <test-piece id="576">Oregon: Fantasy for Band</test-piece>
+    </result>
+    
+    <result id="248488">
+      <result code="3">3</result>
+      <band id="742">Glenorchy City Youth</band>
+      <conductor id="303661">Dean Hunt</conductor>
+      <test-piece id="328">Music from Kantara</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

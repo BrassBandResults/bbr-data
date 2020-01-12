@@ -1,0 +1,54 @@
+<contest-event id="24580">
+  <event-date date="1930-5-3">May 3, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 4)</name>
+  <contest id="1045">
+    <name>Royal Tunbridge Wells Contest (Section 4)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-4</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3024">Hampton Court</test-piece>
+  </test-piece>
+
+  <venue id="2215">Calverley Grounds, Tunbridge Wells, Kent</venue>
+  <notes></notes>
+
+  <created>Oct. 19, 2013, 10:51 a.m.</created>
+  <last-modified>June 9, 2014, 1:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="179784">
+      <result code="1">1</result>
+      <band id="2929">Heathfield Silver</band>
+      <conductor id="308391">A. E. Rodgers</conductor>
+    </result>
+    
+    <result id="179785">
+      <result code="2">2</result>
+      <band id="8578">Ore St.Helens</band>
+      <conductor id="302972">E. Hermitage</conductor>
+    </result>
+    
+    <result id="179786">
+      <result code="3">3</result>
+      <band id="4661">Warbleton &amp; Buxted Silver</band>
+      <conductor id="299799">H. Coussens</conductor>
+    </result>
+    
+    <result id="202470">
+      <result code="4">4</result>
+      <band id="12208">Groombridge</band>
+      <conductor id="311491">H. Wickens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

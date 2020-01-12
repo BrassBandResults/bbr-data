@@ -1,0 +1,80 @@
+<contest-event id="22062">
+  <event-date date="1956-7-14">July 14, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fairford Contest (Section 4)</name>
+  <contest id="4374">
+    <name>Fairford Contest (Section 4)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>fairford-contest-section-4</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2144">The Dawn of Spring</test-piece>
+  </test-piece>
+
+  <venue id="1210">Fairford, Gloucestershire, England, UK</venue>
+  <notes>
+  March contest - 1st Daventry, 2nd East Woodhay, 3rd Winchcombe.
+  8 bands competed.</notes>
+
+  <created>June 28, 2013, 10:13 a.m.</created>
+  <last-modified>June 28, 2013, 10:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163600">
+      <result code="1">1</result>
+      <band id="10210">Parkend Silver</band>
+      <conductor id="298608">J. F. Brown</conductor>
+    </result>
+    
+    <result id="163599">
+      <result code="2">2</result>
+      <band id="1482">Wroughton Silver</band>
+      <conductor id="308116">Fred Richards</conductor>
+    </result>
+    
+    <result id="163602">
+      <result code="3">3</result>
+      <band id="872">Bretforton Silver Band</band>
+      <conductor id="303159">F. Hirons</conductor>
+    </result>
+    
+    <result id="163601">
+      <result code="4">4</result>
+      <band id="11369">Daventry Town Band</band>
+      <conductor id="297681">W. V. Beckett</conductor>
+    </result>
+    
+    <result id="163604">
+      <result code="">Unknown Result</result>
+      <band id="11055">Blakeney and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163597">
+      <result code="">Unknown Result</result>
+      <band id="565">Cheltenham Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163598">
+      <result code="">Unknown Result</result>
+      <band id="1481">East Woodhay Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163603">
+      <result code="">Unknown Result</result>
+      <band id="9766">Winchcombe Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

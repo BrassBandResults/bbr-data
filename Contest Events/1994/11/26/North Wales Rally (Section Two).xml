@@ -1,0 +1,60 @@
+<contest-event id="26954">
+  <event-date date="1994-11-26">Nov. 26, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Section Two)</name>
+  <contest id="1772">
+    <name>North Wales Rally (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="531">Academic Festival Overture</test-piece>
+  </test-piece>
+
+  <venue id="4589">Ysgol John Bright, Llandudno, Clwyd</venue>
+  <notes></notes>
+
+  <created>April 6, 2014, 4:24 p.m.</created>
+  <last-modified>April 6, 2014, 4:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194759">
+      <result code="1">1</result>
+      <band id="1514">Ifton Colliery Band</band>
+      <conductor id="298634">Malcolm Brownbill</conductor>
+    </result>
+    
+    <result id="194757">
+      <result code="2">2</result>
+      <band id="121">Beaumaris Band</band>
+      <conductor id="300993">Gwyn Evans</conductor>
+    </result>
+    
+    <result id="194758">
+      <result code="3">3</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="304181">Cynon Jones</conductor>
+    </result>
+    
+    <result id="194761">
+      <result code="4">4</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="304152">A. Jones</conductor>
+    </result>
+    
+    <result id="194760">
+      <result code="W">Withdrawn</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="304869">Lindsay Lawrie</conductor>
+    </result>
+    
+  </results>
+</contest-event>

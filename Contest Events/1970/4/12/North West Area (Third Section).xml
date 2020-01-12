@@ -1,0 +1,78 @@
+<contest-event id="4189">
+  <event-date date="1970-4-12">April 12, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Third Section)</name>
+  <contest id="24">
+    <name>North West Area (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="812">Welsh Fantasia Land of Song</test-piece>
+  </test-piece>
+
+  <venue id="383">Public Hall, Preston</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Feb. 20, 2011, 12:26 p.m.</created>
+  <last-modified>Nov. 6, 2015, 10:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="36735">
+      <result code="1">1</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="305391">William Lyon</conductor>
+    </result>
+    
+    <result id="36736">
+      <result code="2">2</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="305180">G. G. Lloyd</conductor>
+    </result>
+    
+    <result id="36737">
+      <result code="3">3</result>
+      <band id="229">Parr (St. Helens) Band</band>
+      <conductor id="304490">Bob Kerwick</conductor>
+    </result>
+    
+    <result id="36738">
+      <result code="4">4</result>
+      <band id="180">Blackpool Brass</band>
+      <conductor id="297280">John Victor Ayling</conductor>
+    </result>
+    
+    <result id="215158">
+      <result code="">Unknown Result</result>
+      <band id="224">Blackley Band</band>
+      <conductor id="298669">Frank Bryce</conductor>
+    </result>
+    
+    <result id="215159">
+      <result code="">Unknown Result</result>
+      <band id="663">Flimby Saxhorn</band>
+      <conductor id="305666">R. Martin</conductor>
+    </result>
+    
+    <result id="215160">
+      <result code="">Unknown Result</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="307158">Hugh Parry</conductor>
+    </result>
+    
+    <result id="36739">
+      <result code="">Unknown Result</result>
+      <band id="171">Blackburn and Darwen Band</band>
+      <conductor id="310825">E. Vint</conductor>
+    </result>
+    
+  </results>
+</contest-event>

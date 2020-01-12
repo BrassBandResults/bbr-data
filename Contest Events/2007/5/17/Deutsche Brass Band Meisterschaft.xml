@@ -1,0 +1,48 @@
+<contest-event id="383">
+  <event-date date="2007-5-17">May 17, 2007<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deutsche Brass Band Meisterschaft</name>
+  <contest id="144">
+    <name>Deutsche Brass Band Meisterschaft (Höchststufe)</name>
+    <order>4</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="24">Deutsche Brass Band Meisterschaft</group>
+    <slug>dbbm</slug>
+    
+    <notes></notes>
+    <region id="23">Germany</region>
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="23">Resurgam</test-piece>
+  </test-piece>
+
+  <venue id="126">Würzburg, Bavaria, Germany</venue>
+  <notes></notes>
+
+  <created>May 8, 2009, 8:13 p.m.</created>
+  <last-modified>Dec. 18, 2014, 1:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="5383">
+      <result code="1">1</result>
+      <band id="715">3ba-brass</band>
+      <conductor id="305749">Franz Matysiak</conductor>
+    </result>
+    
+    <result id="5386">
+      <result code="2">2</result>
+      <band id="887">Brass Band Oberschwaben-Allgäu</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="5387">
+      <result code="3">3</result>
+      <band id="888">Folkwang Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

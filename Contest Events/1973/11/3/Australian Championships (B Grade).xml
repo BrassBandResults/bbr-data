@@ -1,0 +1,72 @@
+<contest-event id="34832">
+  <event-date date="1973-11-3">Nov. 3, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1637">Music for Brass</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>March 29, 2016, 4:28 a.m.</created>
+  <last-modified>May 3, 2018, 5:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="251622">
+      <result code="1">1</result>
+      <band id="740">Ararat City Band</band>
+      <conductor id="317867">Ray Humphries</conductor>
+    </result>
+    
+    <result id="251623">
+      <result code="2">2</result>
+      <band id="2245">1st Battalion Royal Victorian Regiment Band</band>
+      <conductor id="298184">Ron Booth</conductor>
+    </result>
+    
+    <result id="251624">
+      <result code="3">3</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+    <result id="251625">
+      <result code="4">4</result>
+      <band id="2246">Tuggerah Lakes Showband</band>
+      <conductor id="317837">Tom Gawn</conductor>
+    </result>
+    
+    <result id="251626">
+      <result code="5">5</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="311846">Arthur Withers</conductor>
+    </result>
+    
+    <result id="251629">
+      <result code="6">6</result>
+      <band id="2190">Coburg City Band</band>
+      <conductor id="309762">Ken Stevens</conductor>
+    </result>
+    
+    <result id="251630">
+      <result code="7">7</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="299449">Russell Clogan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="22992">
+  <event-date date="1958-4-26">April 26, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotherhood Contest</name>
+  <contest id="3953">
+    <name>Brotherhood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotherhood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="859">The Joy of Youth</test-piece>
+  </test-piece>
+
+  <venue id="3838">High Street Methodist Church, Chelmsford</venue>
+  <notes>
+  March contest - 1st Ingatestone, 2nd Boxted, 3rd Chelmsford, 4th Billericay.</notes>
+
+  <created>Aug. 16, 2013, 2:49 p.m.</created>
+  <last-modified>Aug. 16, 2013, 2:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="169473">
+      <result code="1">1</result>
+      <band id="10560">Chelmsford Brotherhood</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169474">
+      <result code="2">2</result>
+      <band id="1344">Boxted Methodist Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169475">
+      <result code="3">3</result>
+      <band id="10561">Ingatestone Brotherhood</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169476">
+      <result code="">Unknown Result</result>
+      <band id="10559">Billericay Brotherhood</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

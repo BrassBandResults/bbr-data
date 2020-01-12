@@ -1,0 +1,84 @@
+<contest-event id="3740">
+  <event-date date="1972-3-26">March 26, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Championship Section)</name>
+  <contest id="21">
+    <name>North West Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="470">Concert Overture for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="383">Public Hall, Preston</venue>
+  <notes></notes>
+
+  <created>Feb. 6, 2011, 3:09 a.m.</created>
+  <last-modified>Feb. 6, 2011, 3:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="34508">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="298669">Frank Bryce</conductor>
+    </result>
+    
+    <result id="34509">
+      <result code="2">2</result>
+      <band id="1346">Rochdale Band</band>
+      <conductor id="297146">Norman Ashcroft</conductor>
+    </result>
+    
+    <result id="34510">
+      <result code="3">3</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="34511">
+      <result code="">Unknown Result</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="303605">Mervin Hughes</conductor>
+    </result>
+    
+    <result id="34515">
+      <result code="">Unknown Result</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="303699">H. Hurst</conductor>
+    </result>
+    
+    <result id="34514">
+      <result code="">Unknown Result</result>
+      <band id="175">Vernon Building Society (Poynton) Brass Band</band>
+      <conductor id="308996">G. T. Shawcross</conductor>
+    </result>
+    
+    <result id="34512">
+      <result code="">Unknown Result</result>
+      <band id="1000">Greenway Selectus Band</band>
+      <conductor id="302077">Edward Gray</conductor>
+    </result>
+    
+    <result id="34513">
+      <result code="">Unknown Result</result>
+      <band id="2012">Mirrlees Works Band</band>
+      <conductor id="297205">Jack Atherton</conductor>
+    </result>
+    
+    <result id="34516">
+      <result code="">Unknown Result</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310825">E. Vint</conductor>
+    </result>
+    
+  </results>
+</contest-event>

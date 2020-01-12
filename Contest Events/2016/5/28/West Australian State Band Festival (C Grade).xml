@@ -1,0 +1,48 @@
+<contest-event id="34935">
+  <event-date date="2016-5-28">May 28, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Australian State Band Festival (C Grade)</name>
+  <contest id="615">
+    <name>West Australian State Band Festival (C Grade)</name>
+    <order>30</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="89">West Australian State Band Festival</group>
+    <slug>west-australian-state-band-festival-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    <test-piece id="291">Saint-Saëns Variations</test-piece>
+  </test-piece>
+
+  <venue id="6153">J.S.R. Anglican Community School (Music Auditorium), Mirrabooka, Perth, Western Australia, Australia</venue>
+  <notes>Len Nisbett Award for the highest aggregate Country Band - Geraldton City Band</notes>
+
+  <created>April 4, 2016, 2:12 p.m.</created>
+  <last-modified>May 31, 2016, 6:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="255659">
+      <result code="1">1</result>
+      <band id="2383">Town of Victoria Park Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255660">
+      <result code="2">2</result>
+      <band id="9314">Geraldton City Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255661">
+      <result code="3">3</result>
+      <band id="2416">City of Perth Brass Band</band>
+      <conductor id="316957">Bruce Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

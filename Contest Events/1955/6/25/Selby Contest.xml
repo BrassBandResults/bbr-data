@@ -1,0 +1,69 @@
+<contest-event id="20157">
+  <event-date date="1955-6-25">June 25, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Selby Contest</name>
+  <contest id="1400">
+    <name>Selby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>selby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1363">Selby, North Yorkshire, England, UK</venue>
+  <notes>March contest - 1st Markham Main, 2nd Rothwell Temperance, 3rd Hade Edge.
+Prizes - 1st £24, 2nd £14, 3rd £7, 4th £4.
+  11 bands competed.
+</notes>
+
+  <created>March 31, 2013, 4:34 p.m.</created>
+  <last-modified>April 24, 2019, 10:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="149905">
+      <result code="1">1</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="306303">Winston Moore</conductor>
+    </result>
+    
+    <result id="149906">
+      <result code="2">2</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="306375">N. Morley</conductor>
+    </result>
+    
+    <result id="149907">
+      <result code="3">3</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="149908">
+      <result code="4">4</result>
+      <band id="5652">Hammonds Junior Band</band>
+      <conductor id="299555">Gershom Collison</conductor>
+    </result>
+    
+    <result id="149909">
+      <result code="">Unknown Result</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="308335">Albert Robinson</conductor>
+    </result>
+    
+    <result id="149910">
+      <result code="">Unknown Result</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="306700">John W. Newton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="34667">
+  <event-date date="1987-4-18">April 18, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior A Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1732">Music for Greenwich</test-piece>
+  </test-piece>
+
+  <venue id="2727">Silverdome, Launceston, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>March 18, 2016, 4:23 a.m.</created>
+  <last-modified>March 18, 2016, 10:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="249992">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="133">Royal Parks</test-piece>
+    </result>
+    
+    <result id="249993">
+      <result code="2">2</result>
+      <band id="742">Glenorchy City Youth</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+      <test-piece id="114">Snowdon Fantasy</test-piece>
+    </result>
+    
+    <result id="249994">
+      <result code="3">3</result>
+      <band id="10046">Edmund Rice College</band>
+      <conductor id="301368">John Flynn</conductor>
+      <test-piece id="3615">Americana (Greenwood)</test-piece>
+    </result>
+    
+    <result id="249995">
+      <result code="W">Withdrawn</result>
+      <band id="9980">St Leo&#39;s College (Box Hill)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

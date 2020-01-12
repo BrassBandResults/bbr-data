@@ -1,0 +1,79 @@
+<contest-event id="36305">
+  <event-date date="1912-1-1">Jan. 1, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest</name>
+  <contest id="1076">
+    <name>Colwyn Bay Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3458">Land of the Shamrock</test-piece>
+  </test-piece>
+
+  <venue id="1251">Colwyn Bay, Conwy, Wales, UK</venue>
+  <notes>March contest (Saracen) - 1st Penketh Tannery.
+8 bands competed.</notes>
+
+  <created>Oct. 13, 2016, 8:34 a.m.</created>
+  <last-modified>Sept. 26, 2018, 3:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="263200">
+      <result code="1">1</result>
+      <band id="1659">Penketh Tannery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="263201">
+      <result code="2">2</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="293889">
+      <result code="">Unknown Result</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="310548">Francis Traversi</conductor>
+    </result>
+    
+    <result id="293890">
+      <result code="">Unknown Result</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="293891">
+      <result code="">Unknown Result</result>
+      <band id="288">Northop Band</band>
+      <conductor id="302242">James Griffiths</conductor>
+    </result>
+    
+    <result id="293892">
+      <result code="">Unknown Result</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="293893">
+      <result code="">Unknown Result</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="298174">Edward Booth</conductor>
+    </result>
+    
+    <result id="293894">
+      <result code="">Unknown Result</result>
+      <band id="4350">Port Sunlight</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

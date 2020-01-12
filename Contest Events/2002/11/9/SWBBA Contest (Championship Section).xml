@@ -1,0 +1,42 @@
+<contest-event id="32909">
+  <event-date date="2002-11-9">Nov. 9, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="22">Journey into Freedom</test-piece>
+  </test-piece>
+
+  <venue id="48">Riviera International Conference Centre, Torquay, Devon, England, UK</venue>
+  <notes>56th annual contest</notes>
+
+  <created>Sept. 24, 2015, 8:12 a.m.</created>
+  <last-modified>Sept. 24, 2015, 8:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="237288">
+      <result code="1">1</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="303692">Bryan Hurdley</conductor>
+    </result>
+    
+    <result id="237289">
+      <result code="2">2</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="298695">C. Brian Buckley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="14422">
+  <event-date date="2000-11-25">Nov. 25, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Third Division)</name>
+  <contest id="14">
+    <name>Swiss National Championships (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-third-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1104">An English Suite [M. Ball]</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Aug. 10, 2012, 11 a.m.</created>
+  <last-modified>Sept. 9, 2015, 1:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114682">
+      <result code="1">1</result>
+      <band id="1076">Jugend Brass Band Michelsamt</band>
+      <conductor id="298995">Remo Capra</conductor>
+    </result>
+    
+    <result id="236143">
+      <result code="2">2</result>
+      <band id="105">Regionale Jugend Brass Band Luzern</band>
+      <conductor id="306508">C. Muller</conductor>
+    </result>
+    
+    <result id="202073">
+      <result code="3">3</result>
+      <band id="8797">Brass Band Wolfwil</band>
+      <conductor id="298651">Josef Brun</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="19264">
+  <event-date date="1955-6-19">June 19, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Huddersfield &amp; District BBA Contest (Section B)</name>
+  <contest id="3492">
+    <name>Huddersfield &amp; District BBA September Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="450">Huddersfield &amp; District BBA September Contest</group>
+    <slug>huddersfield-district-bba-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1037">Rufford Abbey</test-piece>
+  </test-piece>
+
+  <venue id="5653">Greenhead Park, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes>March contest  1st Clifton &amp; Lightcliffe, 2nd Honley.</notes>
+
+  <created>March 17, 2013, 2:43 p.m.</created>
+  <last-modified>April 22, 2019, 7:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="144914">
+      <result code="1">1</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144915">
+      <result code="2">2</result>
+      <band id="2466">Clayton West</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144916">
+      <result code="3">3</result>
+      <band id="3151">Blackburn Valley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144917">
+      <result code="">Unknown Result</result>
+      <band id="142">Clifton and Lightcliffe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,111 @@
+<contest-event id="8024">
+  <event-date date="1899-5-20">May 20, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ardsley Contest</name>
+  <contest id="1396">
+    <name>Ardsley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ardsley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="906">Ardsley, West Yorkshire, England, UK</venue>
+  <notes>
+  1st prize £5.
+  2nd prize £3.
+  3rd prize £2.
+  4th prize £1 divided between Bradford City, Wakefield Belle Vue and orley.
+
+  March contest 1st (£1) Morley, 2nd (10s.) Wakefield Belle Vue,  3rd Thornhill.
+
+
+  12 bands competed</notes>
+
+  <created>Nov. 3, 2011, 2:35 p.m.</created>
+  <last-modified>June 25, 2017, 10:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98688">
+      <result code="1">1</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+    <result id="72484">
+      <result code="2">2</result>
+      <band id="3756">Stanningley and District Sub</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="98689">
+      <result code="3">3</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="298159">A. W. Bone</conductor>
+    </result>
+    
+    <result id="98690">
+      <result code="4">4</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="98692">
+      <result code="4">4</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="98691">
+      <result code="4">4</result>
+      <band id="7802">Wakefield Belle Vue</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="98695">
+      <result code="">Unknown Result</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="98697">
+      <result code="">Unknown Result</result>
+      <band id="3178">Birstall Old</band>
+      <conductor id="300675">W. H. Dykes</conductor>
+    </result>
+    
+    <result id="98696">
+      <result code="">Unknown Result</result>
+      <band id="2466">Clayton West</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="98693">
+      <result code="">Unknown Result</result>
+      <band id="7675">Drighlington and Adwalton</band>
+      <conductor id="305618">J. T. Marsden</conductor>
+    </result>
+    
+    <result id="98698">
+      <result code="">Unknown Result</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="98699">
+      <result code="">Unknown Result</result>
+      <band id="3175">Rothwell Old</band>
+      <conductor id="301457">S. Fowler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

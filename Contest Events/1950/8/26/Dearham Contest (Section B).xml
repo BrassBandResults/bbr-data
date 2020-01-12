@@ -1,0 +1,55 @@
+<contest-event id="35586">
+  <event-date date="1950-8-26">Aug. 26, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest (Section B)</name>
+  <contest id="5087">
+    <name>Dearham Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>March - 1st Dearham United, 2nd Dearham Subscription.
+Prizes - 1st £10, 2nd £5, 3rd £3, 4th £2.</notes>
+
+  <created>July 1, 2016, 4:10 p.m.</created>
+  <last-modified>March 8, 2019, 11:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="258401">
+      <result code="1">1</result>
+      <band id="248">Dearham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258402">
+      <result code="2">2</result>
+      <band id="9504">Dearham Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258403">
+      <result code="3">3</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258404">
+      <result code="4">4</result>
+      <band id="2588">Maryport Albion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

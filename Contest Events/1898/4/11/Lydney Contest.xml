@@ -1,0 +1,61 @@
+<contest-event id="13411">
+  <event-date date="1898-4-11">April 11, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest</name>
+  <contest id="2491">
+    <name>Lydney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lydney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1211">Moses in Egypt [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1846">Lydney, Gloucestershire</venue>
+  <notes>Prizes: £10 and 8 guinea instrument, 6 guinea instrument, 3 guinea instrument, 30s instrument
+5 bands competed</notes>
+
+  <created>May 11, 2012, 8:15 p.m.</created>
+  <last-modified>July 15, 2019, 8:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106334">
+      <result code="1">1</result>
+      <band id="7603">Tipton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106335">
+      <result code="2">2</result>
+      <band id="3489">Wednesbury Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106336">
+      <result code="3">3</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106337">
+      <result code="4">4</result>
+      <band id="4882">Bristol Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106338">
+      <result code="">Unknown Result</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

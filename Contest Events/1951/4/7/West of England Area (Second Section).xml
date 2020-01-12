@@ -1,0 +1,72 @@
+<contest-event id="20335">
+  <event-date date="1951-4-7">April 7, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Second Section)</name>
+  <contest id="49">
+    <name>West of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="526">The English Maiden</test-piece>
+  </test-piece>
+
+  <venue id="297">Civic Hall, Exeter</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>April 6, 2013, 1:02 p.m.</created>
+  <last-modified>March 7, 2014, 3:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150792">
+      <result code="1">1</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="301358">E. Floyd</conductor>
+    </result>
+    
+    <result id="165113">
+      <result code="2">2</result>
+      <band id="962">City of Exeter Railway Band</band>
+      <conductor id="310668">S. J. Turner</conductor>
+    </result>
+    
+    <result id="170914">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="192500">
+      <result code="4">4</result>
+      <band id="545">Sidmouth Town Band</band>
+      <conductor id="311374">A. White</conductor>
+    </result>
+    
+    <result id="192499">
+      <result code="">Unknown Result</result>
+      <band id="2073">Kingsbridge Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192501">
+      <result code="">Unknown Result</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192498">
+      <result code="">Unknown Result</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

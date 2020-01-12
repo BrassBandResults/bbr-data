@@ -1,0 +1,48 @@
+<contest-event id="34725">
+  <event-date date="1981-4-18">April 18, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="606">Morning Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="2358">Civic Centre, Burnie, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>March 21, 2016, 4:57 a.m.</created>
+  <last-modified>March 21, 2016, 3:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="250503">
+      <result code="1">1</result>
+      <band id="735">Maitland City Band</band>
+      <conductor id="308716">Les Sandy</conductor>
+    </result>
+    
+    <result id="250504">
+      <result code="2">2</result>
+      <band id="9277">Launceston Railway Silver Band</band>
+      <conductor id="310608">Alan Tucker</conductor>
+    </result>
+    
+    <result id="250505">
+      <result code="3">3</result>
+      <band id="1187">Enfield Brass [Australia]</band>
+      <conductor id="297132">Ron Arthur</conductor>
+    </result>
+    
+  </results>
+</contest-event>

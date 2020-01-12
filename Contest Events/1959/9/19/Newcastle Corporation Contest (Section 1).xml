@@ -1,0 +1,54 @@
+<contest-event id="27283">
+  <event-date date="1959-9-19">Sept. 19, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Corporation Contest (Section 1)</name>
+  <contest id="4778">
+    <name>Newcastle Corporation Contest (Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newcaste</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes></notes>
+
+  <created>May 6, 2014, 11:46 a.m.</created>
+  <last-modified>May 6, 2014, 11:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="196686">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+    </result>
+    
+    <result id="196687">
+      <result code="2">2</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="307269">Cecil Peacock Jnr</conductor>
+    </result>
+    
+    <result id="196688">
+      <result code="3">3</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+    <result id="196689">
+      <result code="4">4</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="299342">Bob Clark</conductor>
+    </result>
+    
+  </results>
+</contest-event>

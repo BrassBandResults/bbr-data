@@ -1,0 +1,73 @@
+<contest-event id="40236">
+  <event-date date="1904-8-27">Aug. 27, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ellesmere Port Contest</name>
+  <contest id="1999">
+    <name>Ellesmere Port Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ellesmere-port-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1645">Songs of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="1431">Ellesmere Port, Cheshire</venue>
+  <notes>March contest - 1st Penketh Tannery, 2nd Tranmere Gleam.
+7 bands competed.</notes>
+
+  <created>Sept. 1, 2018, 7:02 a.m.</created>
+  <last-modified>Sept. 1, 2018, 7:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292587">
+      <result code="1">1</result>
+      <band id="1659">Penketh Tannery</band>
+      <conductor id="313139">J. H. Harper</conductor>
+    </result>
+    
+    <result id="292589">
+      <result code="2">2</result>
+      <band id="16372">Atherton Temperance</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="292588">
+      <result code="3">3</result>
+      <band id="6758">Tranmere Gleam</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="292586">
+      <result code="4">4</result>
+      <band id="4137">Ellesmere Port Public</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="292590">
+      <result code="">Unknown Result</result>
+      <band id="2685">Birkenhead Borough</band>
+      <conductor id="304005">W. Jenkins</conductor>
+    </result>
+    
+    <result id="292591">
+      <result code="">Unknown Result</result>
+      <band id="6759">Litherland Silver</band>
+      <conductor id="318278">G. Rogans</conductor>
+    </result>
+    
+    <result id="292592">
+      <result code="">Unknown Result</result>
+      <band id="6644">Ravenhead Silver</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+  </results>
+</contest-event>

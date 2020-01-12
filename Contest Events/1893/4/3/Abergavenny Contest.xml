@@ -1,0 +1,79 @@
+<contest-event id="11718">
+  <event-date date="1893-4-3">April 3, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abergavenny Contest</name>
+  <contest id="1801">
+    <name>Abergavenny Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="323">Abergavenny Contest</group>
+    <slug>abergavenny-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1590">Trafalgar</test-piece>
+  </test-piece>
+
+  <venue id="1272">Abergavenny, Monmouthshire, Wales, UK</venue>
+  <notes>Prizes - 1st £12, 2nd £8, 3rd £5.
+8 Bands competed</notes>
+
+  <created>April 6, 2012, 2:22 p.m.</created>
+  <last-modified>Nov. 18, 2019, 10:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="262331">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="262333">
+      <result code="2">2</result>
+      <band id="7498">Dowlais Town</band>
+      <conductor id="315521">William Morgan</conductor>
+    </result>
+    
+    <result id="95020">
+      <result code="3">3</result>
+      <band id="7499">Pontardawe</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="262337">
+      <result code="">Unknown Result</result>
+      <band id="10967">Mardy</band>
+      <conductor id="303504">W. R. Howe</conductor>
+    </result>
+    
+    <result id="262332">
+      <result code="">Unknown Result</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="311596">D. Williams</conductor>
+    </result>
+    
+    <result id="262335">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="307641">William Powell</conductor>
+    </result>
+    
+    <result id="262336">
+      <result code="">Unknown Result</result>
+      <band id="11146">Clydach</band>
+      <conductor id="305129">W. Lingwood</conductor>
+    </result>
+    
+    <result id="262330">
+      <result code="">Unknown Result</result>
+      <band id="14342">Abercanaid Rechabite</band>
+      <conductor id="304272">Robert Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

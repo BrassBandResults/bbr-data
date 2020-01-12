@@ -1,0 +1,58 @@
+<contest-event id="16168">
+  <event-date date="1986-5-4">May 4, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Championship Class</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="218">Triumphant Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>  
+
+  Prizes  1st £50, 2nd £25, 3rd £10.
+
+  4 bands competed.</notes>
+
+  <created>Nov. 14, 2012, 2 p.m.</created>
+  <last-modified>Oct. 18, 2014, 3:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="124352">
+      <result code="1">1</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="311407">Melvin White</conductor>
+    </result>
+    
+    <result id="124353">
+      <result code="2">2</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="296811">Les Ager</conductor>
+    </result>
+    
+    <result id="124354">
+      <result code="3">3</result>
+      <band id="1531">Wrentham Band</band>
+      <conductor id="302698">P. J. Harrold</conductor>
+    </result>
+    
+    <result id="124355">
+      <result code="4">4</result>
+      <band id="296">Soham Comrades Band</band>
+      <conductor id="298238">Ray Boulter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="26215">
+  <event-date date="1939-7-29">July 29, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Witton Park Contest</name>
+  <contest id="2136">
+    <name>Witton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>witton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1368">Recollections of Weber</test-piece>
+  </test-piece>
+
+  <venue id="1554">Witton Park, County Durham</venue>
+  <notes>
+  Prizes - 1st £6 and cup, 2nd £2, 3rd £1.
+  March cointest - 1st(£1) Durham Shakespeare, 2nd(10s.) Easington Colliery.
+</notes>
+
+  <created>Jan. 30, 2014, 10:19 a.m.</created>
+  <last-modified>Jan. 30, 2014, 10:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189787">
+      <result code="1">1</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310919">Richard Walker</conductor>
+    </result>
+    
+    <result id="189788">
+      <result code="2">2</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="189790">
+      <result code="3">3</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="305498">Joseph Mains</conductor>
+    </result>
+    
+    <result id="189789">
+      <result code="3">3</result>
+      <band id="1980">Shildon Town</band>
+      <conductor id="308380">R. Robson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

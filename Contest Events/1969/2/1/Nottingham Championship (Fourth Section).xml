@@ -1,0 +1,80 @@
+<contest-event id="5730">
+  <event-date date="1969-2-1">Feb. 1, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nottingham Championship (Fourth Section)</name>
+  <contest id="962">
+    <name>Nottingham Championship (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="144">Nottingham Championship</group>
+    <slug>nottingham-championship-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="237">Four Little Maids</test-piece>
+  </test-piece>
+
+  <venue id="404">Albert Hall, Nottingham, Nottinghamshire, England, UK</venue>
+  <notes>First Prize: The Arthur Brand Trophy and £15
+Second Prize: Music Voucher and £10
+Third Prize: £5</notes>
+
+  <created>May 4, 2011, 6:28 p.m.</created>
+  <last-modified>May 24, 2013, 9:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="49564">
+      <result code="1">1</result>
+      <band id="127">Barnsley Brass</band>
+      <conductor id="303940">Frank Jaques</conductor>
+    </result>
+    
+    <result id="49567">
+      <result code="2">2</result>
+      <band id="300">Hathern Band</band>
+      <conductor id="300780">Keith Edwards</conductor>
+    </result>
+    
+    <result id="49566">
+      <result code="3">3</result>
+      <band id="405">Nottingham City Transport Band</band>
+      <conductor id="299840">Ivan C. Coxhead</conductor>
+    </result>
+    
+    <result id="49570">
+      <result code="4">4</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="311417">Ray White</conductor>
+    </result>
+    
+    <result id="49568">
+      <result code="">Unknown Result</result>
+      <band id="1494">Scotter Silver Band</band>
+      <conductor id="297127">Richard Arrand</conductor>
+    </result>
+    
+    <result id="49565">
+      <result code="">Unknown Result</result>
+      <band id="1491">Barlestone Victoria</band>
+      <conductor id="304570">A. W. Kirkland</conductor>
+    </result>
+    
+    <result id="49563">
+      <result code="">Unknown Result</result>
+      <band id="1490">Daw Mill Colliery Band</band>
+      <conductor id="298570">G. Brotherhood</conductor>
+    </result>
+    
+    <result id="49569">
+      <result code="W">Withdrawn</result>
+      <band id="1520">Stockport Silver</band>
+      <conductor id="297789">Harold Bennett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

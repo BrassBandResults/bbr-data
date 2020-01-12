@@ -1,0 +1,54 @@
+<contest-event id="15140">
+  <event-date date="1987-9-12">Sept. 12, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Third Section)</name>
+  <contest id="5464">
+    <name>West Wales BBA Festival Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-festival-contest-third-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="333">Occasion</test-piece>
+  </test-piece>
+
+  <venue id="157">Ammanford, Carmarthenshire, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 9, 2012, 9:19 p.m.</created>
+  <last-modified>Oct. 20, 2014, 11:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="211468">
+      <result code="1">1</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="302928">Don Hendy</conductor>
+    </result>
+    
+    <result id="211469">
+      <result code="2">2</result>
+      <band id="290">Newbridge Celynen Band</band>
+      <conductor id="311143">Neil Watson</conductor>
+    </result>
+    
+    <result id="211470">
+      <result code="3">3</result>
+      <band id="320">Tylorstown Band</band>
+      <conductor id="298259">Kerry Bowden</conductor>
+    </result>
+    
+    <result id="118092">
+      <result code="5">5</result>
+      <band id="48">Burry Port Town</band>
+      <conductor id="304003">Terry Jenkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

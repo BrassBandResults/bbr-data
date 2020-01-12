@@ -1,0 +1,49 @@
+<contest-event id="25948">
+  <event-date date="1960-10-23">Oct. 23, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Transport Contest (Section 1)</name>
+  <contest id="4091">
+    <name>Yorkshire Transport Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>yorkshire-transport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5567">Town Hall, Dewsbury, West Yorkshire</venue>
+  <notes></notes>
+
+  <created>Jan. 19, 2014, 7:47 p.m.</created>
+  <last-modified>March 19, 2017, 3:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="198632">
+      <result code="1">1</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+    <result id="198633">
+      <result code="2">2</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="297109">Joe Armstrong</conductor>
+    </result>
+    
+    <result id="198634">
+      <result code="3">3</result>
+      <band id="441">Stanley Newmarket Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

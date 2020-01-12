@@ -1,0 +1,84 @@
+<contest-event id="20062">
+  <event-date date="1967-8-7">Aug. 7, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class B)</name>
+  <contest id="3280">
+    <name>National Eisteddfod of Wales (Class B)</name>
+    <order>110</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2402">O Gymru</test-piece>
+  </test-piece>
+
+  <venue id="5308">Bala, Gwynedd, Wales, UK</venue>
+  <notes>  Prizes 1st £40, 2nd £25, 3rd £15.</notes>
+
+  <created>March 30, 2013, 9:40 a.m.</created>
+  <last-modified>July 17, 2015, 10:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="149451">
+      <result code="1">1</result>
+      <band id="288">Northop Band</band>
+      <conductor id="310245">George Thelwell</conductor>
+    </result>
+    
+    <result id="149450">
+      <result code="2">2</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149446">
+      <result code="3">3</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149448">
+      <result code="">Unknown Result</result>
+      <band id="2003">Coedely</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149443">
+      <result code="">Unknown Result</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149445">
+      <result code="">Unknown Result</result>
+      <band id="10538">Deudraeth</band>
+      <conductor id="303652">A. Humphries</conductor>
+    </result>
+    
+    <result id="149444">
+      <result code="">Unknown Result</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149449">
+      <result code="">Unknown Result</result>
+      <band id="1514">Ifton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149447">
+      <result code="">Unknown Result</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

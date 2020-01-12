@@ -1,0 +1,62 @@
+<contest-event id="13195">
+  <event-date date="1897-5-15">May 15, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Waterloo Contest</name>
+  <contest id="2772">
+    <name>Waterloo Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>waterloo-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1933">Smiles and Tears</test-piece>
+  </test-piece>
+
+  <venue id="3442">Waterloo College Grounds, Waterloo, Liverpool</venue>
+  <notes>11 bands competed
+
+Prizes: £6, £4, £3, £2, £1</notes>
+
+  <created>May 4, 2012, 10:26 p.m.</created>
+  <last-modified>April 3, 2013, 6:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104829">
+      <result code="1">1</result>
+      <band id="6996">Widnes St. Mary&#39;s</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="104830">
+      <result code="2">2</result>
+      <band id="3582">Warrington Borough</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="104831">
+      <result code="3">3</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="104832">
+      <result code="4">4</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="104833">
+      <result code="5">5</result>
+      <band id="4350">Port Sunlight</band>
+      <conductor id="304292">W. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="22338">
+  <event-date date="1963-6-15">June 15, 1963<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Bandsmen&#39;s Festival (Class C)</name>
+  <contest id="4258">
+    <name>West of England Bandsmen&#39;s Festival (Class C)</name>
+    <order>520</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="60">West of England Bandsmen&#39;s Festival (Bugle)</group>
+    <slug>west-of-england-bandsmen-s-festival-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="857">In Switzerland</test-piece>
+  </test-piece>
+
+  <venue id="3510">Peniel Farm, Bugle, Cornwall, England, UK</venue>
+  <notes>Hymn tune (own choice) - 1st St Breward 84, 2nd Pendeen 82, 3rd Launceston 80, 4th Mount Charles 78, 5th Newton Abbot 77.
+5 bands competed.</notes>
+
+  <created>July 25, 2013, 1:16 p.m.</created>
+  <last-modified>July 23, 2015, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="231765">
+      <result code="1">1</result>
+      <band id="348">St. Breward Silver Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="231762">
+      <result code="2">2</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="298418">C. E. Brewer</conductor>
+    </result>
+    
+    <result id="231764">
+      <result code="3">3</result>
+      <band id="1408">Pendeen Silver Band</band>
+      <conductor id="299173">Thomas Chainey</conductor>
+    </result>
+    
+    <result id="231761">
+      <result code="4">4</result>
+      <band id="550">Launceston Town Band</band>
+      <conductor id="310972">Reginald Walter</conductor>
+    </result>
+    
+    <result id="231763">
+      <result code="5">5</result>
+      <band id="2074">Newton Abbot Town</band>
+      <conductor id="306924">W. O. Oliver</conductor>
+    </result>
+    
+  </results>
+</contest-event>

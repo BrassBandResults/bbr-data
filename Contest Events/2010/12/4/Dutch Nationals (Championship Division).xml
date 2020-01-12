@@ -1,0 +1,78 @@
+<contest-event id="1990">
+  <event-date date="2010-12-4">Dec. 4, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Championship Division)</name>
+  <contest id="274">
+    <name>Dutch Nationals (Championship Division)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="216">Within Blue Empires</test-piece>
+  </test-piece>
+
+  <venue id="110">Martiniplaza, Groningen, Groningen Province, Netherlands</venue>
+  <notes>30th Edition</notes>
+
+  <created>May 21, 2010, 11:17 a.m.</created>
+  <last-modified>May 3, 2017, 6:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="26624">
+      <result code="1">1</result>
+      <band id="1326">Brass Band Schoonhoven</band>
+      <conductor id="303938">Erik Janssen</conductor>
+    </result>
+    
+    <result id="26628">
+      <result code="2">2</result>
+      <band id="1235">Amsterdam Brass</band>
+      <conductor id="310840">Pierre Volders</conductor>
+    </result>
+    
+    <result id="26626">
+      <result code="3">3</result>
+      <band id="240">Brass Band Rijnmond</band>
+      <conductor id="297074">Anno Appelo</conductor>
+    </result>
+    
+    <result id="26625">
+      <result code="4">4</result>
+      <band id="30">Soli Brass</band>
+      <conductor id="298760">Frans-Aert Burghgraef</conductor>
+    </result>
+    
+    <result id="26627">
+      <result code="5">5</result>
+      <band id="1223">Provinciale Brass Band Groningen</band>
+      <conductor id="304434">Ido Gerard Kempenaar</conductor>
+    </result>
+    
+    <result id="26630">
+      <result code="6">6</result>
+      <band id="772">De Bazuin Oenkerk</band>
+      <conductor id="312216">Klaas van der Woude</conductor>
+    </result>
+    
+    <result id="26631">
+      <result code="7">7</result>
+      <band id="1220">Brass Band Limburg</band>
+      <conductor id="308885">Guido Segers</conductor>
+    </result>
+    
+    <result id="26629">
+      <result code="8">8</result>
+      <band id="989">Brass Band De Wâldsang</band>
+      <conductor id="312215">Rieks van der Velde</conductor>
+    </result>
+    
+  </results>
+</contest-event>

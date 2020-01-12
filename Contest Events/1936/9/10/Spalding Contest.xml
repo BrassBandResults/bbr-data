@@ -1,0 +1,43 @@
+<contest-event id="25089">
+  <event-date date="1936-9-10">Sept. 10, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Spalding Contest</name>
+  <contest id="2098">
+    <name>Spalding Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>spalding-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="1529">Spalding, Lincolnshire, England, UK</venue>
+  <notes>  March contest - 1st March Railway, 2nd Spalding Town.
+2 bands competed.</notes>
+
+  <created>Nov. 13, 2013, 4:26 p.m.</created>
+  <last-modified>Feb. 18, 2016, 1:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182747">
+      <result code="1">1</result>
+      <band id="4214">March Brass 2000</band>
+      <conductor id="309692">A. E. Steel</conductor>
+    </result>
+    
+    <result id="182748">
+      <result code="2">2</result>
+      <band id="6811">Spalding Town</band>
+      <conductor id="319621">W. Barnes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

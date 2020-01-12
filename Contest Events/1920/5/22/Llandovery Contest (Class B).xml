@@ -1,0 +1,54 @@
+<contest-event id="40695">
+  <event-date date="1920-5-22">May 22, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class B)</name>
+  <contest id="2097">
+    <name>Llandovery Contest (Class B)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1118">Recollections of England</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Oct. 13, 2018, 10:33 a.m.</created>
+  <last-modified>Oct. 13, 2018, 10:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296031">
+      <result code="1">1</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="296032">
+      <result code="2">2</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+    <result id="296033">
+      <result code="3">3</result>
+      <band id="8289">Pontyberem United</band>
+      <conductor id="318501">J. E. Dunn</conductor>
+    </result>
+    
+    <result id="296034">
+      <result code="">Unknown Result</result>
+      <band id="7931">Llansamlet</band>
+      <conductor id="318498">W. Isaac</conductor>
+    </result>
+    
+  </results>
+</contest-event>

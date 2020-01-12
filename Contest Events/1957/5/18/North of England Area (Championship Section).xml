@@ -1,0 +1,72 @@
+<contest-event id="20352">
+  <event-date date="1957-5-18">May 18, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="408">Themes from Symphony no. 9 [Beethoven]</test-piece>
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>April 6, 2013, 1:15 p.m.</created>
+  <last-modified>Aug. 13, 2013, 9:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="150809">
+      <result code="1">1</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+    <result id="167804">
+      <result code="2">2</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="306425">Rex Mortimer</conductor>
+    </result>
+    
+    <result id="167802">
+      <result code="3">3</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="167806">
+      <result code="">Unknown Result</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="308830">John Dennis Scoins</conductor>
+    </result>
+    
+    <result id="167803">
+      <result code="">Unknown Result</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="308832">George Scorer</conductor>
+    </result>
+    
+    <result id="167805">
+      <result code="">Unknown Result</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="307269">Cecil Peacock Jnr</conductor>
+    </result>
+    
+    <result id="167807">
+      <result code="">Unknown Result</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="304899">Harold Laycock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

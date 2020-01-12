@@ -1,0 +1,73 @@
+<contest-event id="5300">
+  <event-date date="1993-3-7">March 7, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO Yorkshire ( 3rd Section )</name>
+  <contest id="850">
+    <name>CISWO Yorkshire (3rd Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-3rd-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="70">The Shipbuilders</test-piece>
+  </test-piece>
+
+  <venue id="4951">Ballroom, City Hall, Sheffield</venue>
+  <notes>44th annual contest.
+7 bands competed.</notes>
+
+  <created>April 9, 2011, 11:18 a.m.</created>
+  <last-modified>Feb. 22, 2015, 1:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="208105">
+      <result code="1">1</result>
+      <band id="36">Hatfield Band</band>
+      <conductor id="304100">Ken Johnson</conductor>
+    </result>
+    
+    <result id="208100">
+      <result code="2">2</result>
+      <band id="151">Crofton Silver Band</band>
+      <conductor id="306730">Brian Nicholson</conductor>
+    </result>
+    
+    <result id="208104">
+      <result code="3">3</result>
+      <band id="43">Old Silkstone</band>
+      <conductor id="304443">John Kendall</conductor>
+    </result>
+    
+    <result id="208102">
+      <result code="4">4</result>
+      <band id="438">Sharlston Colliery Band</band>
+      <conductor id="310920">Robert Walker</conductor>
+    </result>
+    
+    <result id="45802">
+      <result code="5">5</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="301543">David Fretwell</conductor>
+    </result>
+    
+    <result id="208101">
+      <result code="">Unknown Result</result>
+      <band id="150">Maltby Miners Welfare Band</band>
+      <conductor id="299442">Terry Clifford</conductor>
+    </result>
+    
+    <result id="208103">
+      <result code="">Unknown Result</result>
+      <band id="442">Grimethorpe Colliery Junior Band</band>
+      <conductor id="299214">Philip Chapman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

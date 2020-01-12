@@ -1,0 +1,48 @@
+<contest-event id="39037">
+  <event-date date="2006-10-14">Oct. 14, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="14">The Night to Sing</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 16, 2018, 11:52 p.m.</created>
+  <last-modified>March 6, 2018, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283945">
+      <result code="1">1</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="310031">Peter Sykes</conductor>
+    </result>
+    
+    <result id="283946">
+      <result code="2">2</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="301387">Mark Ford</conductor>
+    </result>
+    
+    <result id="283947">
+      <result code="3">3</result>
+      <band id="1313">Footscray Yarraville City Band</band>
+      <conductor id="300789">Phillipa Edwards</conductor>
+    </result>
+    
+  </results>
+</contest-event>

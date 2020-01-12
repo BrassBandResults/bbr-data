@@ -1,0 +1,68 @@
+<contest-event id="10532">
+  <event-date date="1999-4-24">April 24, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Championship Section)</name>
+  <contest id="161">
+    <name>North American Championships (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-championship-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="9">Isaiah 40</test-piece>
+  </test-piece>
+
+  <venue id="1495">Pheasant Run Resort (Ballroom), St. Charles, Illinois, USA</venue>
+  <notes>Illinois Brass Band ineligible to compete having won in 1996, 1997 and 1998
+
+Total points calculated as 60% of Set Piece points plus 40% of Own Choice points
+
+Single draw format with bands playing all items consecutively</notes>
+
+  <created>Feb. 21, 2012, 4:25 p.m.</created>
+  <last-modified>Feb. 22, 2012, 10:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="88509">
+      <result code="1">1</result>
+      <band id="4218">Brass Band of Columbus</band>
+      <conductor id="300568">Paul Droste</conductor>
+    </result>
+    
+    <result id="88510">
+      <result code="2">2</result>
+      <band id="980">Eastern Iowa Brass Band</band>
+      <conductor id="308671">John de Salme</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+    <result id="88511">
+      <result code="3">3</result>
+      <band id="1003">Atlantic Brass Band</band>
+      <conductor id="308757">Salvatore Scarpa</conductor>
+      <test-piece id="369">A Lowry Sketchbook</test-piece>
+    </result>
+    
+    <result id="88512">
+      <result code="4">4</result>
+      <band id="987">Sheldon Theatre Brass Band</band>
+      <conductor id="298413">Larry Brentzel</conductor>
+      <test-piece id="1702">Earth, Fire, Water - Incantation</test-piece>
+    </result>
+    
+    <result id="88513">
+      <result code="5">5</result>
+      <band id="1409">Central Ohio Brass Band</band>
+      <conductor id="309953">Les Susi</conductor>
+      <test-piece id="574">The Force of Destiny (La Forza del Destino) - Overture [arr. F. Wright]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

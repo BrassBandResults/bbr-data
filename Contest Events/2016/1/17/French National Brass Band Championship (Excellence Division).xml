@@ -1,0 +1,58 @@
+<contest-event id="33530">
+  <event-date date="2016-1-17">Jan. 17, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French National Brass Band Championship (Excellence Division)</name>
+  <contest id="845">
+    <name>French National Brass Band Championship (Excellence Division)</name>
+    <order>5</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="120">French National Brass Band Championship</group>
+    <slug>french-national-brass-band-championship--845</slug>
+    
+    <notes></notes>
+    <region id="9">France</region>
+    <section id="11">Excellence</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1384">Brass Triumphant</test-piece>
+  </test-piece>
+
+  <venue id="4975">Le Nouveau Siècle, Lille, Nord-Pas de Calais, France</venue>
+  <notes></notes>
+
+  <created>Dec. 2, 2015, 9:55 a.m.</created>
+  <last-modified>Sept. 23, 2016, 10:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="241150">
+      <result code="1">1</result>
+      <band id="3462">Brass Band de Douai</band>
+      <conductor id="300691">Olivier Dégardin</conductor>
+      <test-piece id="2750">Abaddon “The Dark Angel”</test-piece>
+    </result>
+    
+    <result id="241147">
+      <result code="2">2</result>
+      <band id="3460">Brass Band Brassage</band>
+      <conductor id="299247">Mathias Charton</conductor>
+      <test-piece id="208">Music of the Spheres</test-piece>
+    </result>
+    
+    <result id="241982">
+      <result code="3">3</result>
+      <band id="3461">Brass Band de Toulouse</band>
+      <conductor id="306919">Jean-Guy Olive</conductor>
+      <test-piece id="280">Excalibur</test-piece>
+    </result>
+    
+    <result id="241148">
+      <result code="4">4</result>
+      <band id="3463">Brass Band des Hauts de Flandres</band>
+      <conductor id="307037">Luigi Paccico</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

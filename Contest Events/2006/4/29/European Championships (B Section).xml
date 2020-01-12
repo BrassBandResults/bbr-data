@@ -1,0 +1,56 @@
+<contest-event id="1018">
+  <event-date date="2006-4-29">April 29, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>European Championships (B Section)</name>
+  <contest id="86">
+    <name>European Championships (Challenge Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="22">European Championships</group>
+    <slug>european-championships-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="353">Little Christmas</test-piece>
+  </test-piece>
+
+  <venue id="78">Waterfront Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes>Bands played concert programme featuring set test piece.</notes>
+
+  <created>Oct. 13, 2009, 8:37 p.m.</created>
+  <last-modified>Dec. 11, 2011, 4:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="10913">
+      <result code="1">1</result>
+      <band id="713">Brass Band Oberösterreich</band>
+      <conductor id="298684">Hannes Buchegger</conductor>
+    </result>
+    
+    <result id="10914">
+      <result code="2">2</result>
+      <band id="1268">Torshavn Brass Band</band>
+      <conductor id="306933">Ove Olsen</conductor>
+    </result>
+    
+    <result id="10915">
+      <result code="3">3</result>
+      <band id="237">Laganvale Band</band>
+      <conductor id="308560">Ernest Ruddock</conductor>
+      <test-piece id="1428">Prelude on &quot;Tallis&quot;</test-piece>
+    </result>
+    
+    <result id="10916">
+      <result code="4">4</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="298162">John Bonner</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

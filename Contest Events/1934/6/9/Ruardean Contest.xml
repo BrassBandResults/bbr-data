@@ -1,0 +1,92 @@
+<contest-event id="27006">
+  <event-date date="1934-6-9">June 9, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest</name>
+  <contest id="1022">
+    <name>Ruardean Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="356">Ruardean Contest</group>
+    <slug>ruardean-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>March: 1. Blaina, 2. Yorkley, 3. Pillowell.
+Prizes - 1st £15, 2nd £6, 3rd £3.
+10 bands competed.</notes>
+
+  <created>April 8, 2014, 7:43 p.m.</created>
+  <last-modified>Jan. 4, 2019, 11:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="194982">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="194983">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="194984">
+      <result code="3">3</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="266840">
+      <result code="">Unknown Result</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266841">
+      <result code="">Unknown Result</result>
+      <band id="4275">Brynmawr Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266842">
+      <result code="">Unknown Result</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266843">
+      <result code="">Unknown Result</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266846">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266844">
+      <result code="">Unknown Result</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266845">
+      <result code="">Unknown Result</result>
+      <band id="10703">Ross Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

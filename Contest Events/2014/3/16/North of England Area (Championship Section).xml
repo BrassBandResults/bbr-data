@@ -1,0 +1,90 @@
+<contest-event id="24051">
+  <event-date date="2014-3-16">March 16, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="20">St. Magnus</test-piece>
+  </test-piece>
+
+  <venue id="23">Dolphin Centre, Darlington, County Durham, England, UK</venue>
+  <notes>Draw: 1.30 PM. Commence after 1st section.</notes>
+
+  <created>Sept. 25, 2013, 3:38 p.m.</created>
+  <last-modified>March 17, 2014, 10:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="186659">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="302097">Russell Gray</conductor>
+    </result>
+    
+    <result id="186661">
+      <result code="2">2</result>
+      <band id="9">City of Hull Band</band>
+      <conductor id="306410">Alan Morrison</conductor>
+    </result>
+    
+    <result id="186658">
+      <result code="3">3</result>
+      <band id="309">Felling Band</band>
+      <conductor id="305514">Steve Malcolm</conductor>
+    </result>
+    
+    <result id="186660">
+      <result code="4">4</result>
+      <band id="568">NASUWT Riverside</band>
+      <conductor id="301106">Ray Farr</conductor>
+    </result>
+    
+    <result id="186665">
+      <result code="5">5</result>
+      <band id="26">Fishburn Band</band>
+      <conductor id="307894">Allan Ramsay</conductor>
+    </result>
+    
+    <result id="186662">
+      <result code="6">6</result>
+      <band id="432">Shepherd Group Band</band>
+      <conductor id="311794">Richard Wilton</conductor>
+    </result>
+    
+    <result id="186666">
+      <result code="7">7</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="308473">Phil Rosier</conductor>
+    </result>
+    
+    <result id="186663">
+      <result code="8">8</result>
+      <band id="282">Harrogate Band</band>
+      <conductor id="307925">Craig Ratcliffe</conductor>
+    </result>
+    
+    <result id="186664">
+      <result code="W">Withdrawn</result>
+      <band id="319">Barton Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186667">
+      <result code="W">Withdrawn</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

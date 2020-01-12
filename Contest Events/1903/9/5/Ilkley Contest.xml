@@ -1,0 +1,75 @@
+<contest-event id="22014">
+  <event-date date="1903-9-5">Sept. 5, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ilkley Contest</name>
+  <contest id="1573">
+    <name>Ilkley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ilkley</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="3604">Bridge Hotel Pleasure Gardens, Ilkley, Yorkshire</venue>
+  <notes>  Best euphonium - Farsley.
+  Best trombone - Clayton.
+Prizes - 1st £7, 2nd £5, 3rd 3, 4th £2, 5th £1
+  7 bands competed.</notes>
+
+  <created>June 22, 2013, 11:17 a.m.</created>
+  <last-modified>Aug. 9, 2016, 1 p.m.</last-modified>
+
+  <results>
+    
+    <result id="163261">
+      <result code="1">1</result>
+      <band id="6883">Greengates Band</band>
+      <conductor id="315317">A. Pratt</conductor>
+    </result>
+    
+    <result id="163257">
+      <result code="2">2</result>
+      <band id="2518">Great Horton Band</band>
+      <conductor id="296954">P. Ambler</conductor>
+    </result>
+    
+    <result id="163259">
+      <result code="3">3</result>
+      <band id="9909">Cowling Temperance Prize Band</band>
+      <conductor id="305660">Joseph Martin</conductor>
+    </result>
+    
+    <result id="163263">
+      <result code="4">4</result>
+      <band id="4356">Denholme</band>
+      <conductor id="300280">Tom Dean</conductor>
+    </result>
+    
+    <result id="163260">
+      <result code="5">5</result>
+      <band id="4576">Farsley</band>
+      <conductor id="298434">James Brier</conductor>
+    </result>
+    
+    <result id="163258">
+      <result code="">Unknown Result</result>
+      <band id="7615">Harrogate Temperance</band>
+      <conductor id="297323">F. Bailey</conductor>
+    </result>
+    
+    <result id="163262">
+      <result code="">Unknown Result</result>
+      <band id="3164">Clayton Subscription</band>
+      <conductor id="311558">Joseph Wilkinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

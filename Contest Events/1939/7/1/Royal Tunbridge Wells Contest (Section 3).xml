@@ -1,0 +1,55 @@
+<contest-event id="26120">
+  <event-date date="1939-7-1">July 1, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 3)</name>
+  <contest id="1044">
+    <name>Royal Tunbridge Wells Contest (Section 3)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-3</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1689">The Forest Chief</test-piece>
+  </test-piece>
+
+  <venue id="4433">Queen&#39;s Lawns, Margate</venue>
+  <notes>Royal Tunbridge Wells &amp; District Band Federation 1st open band contest. 
+4 bands competed</notes>
+
+  <created>Jan. 23, 2014, 11:40 p.m.</created>
+  <last-modified>Jan. 25, 2019, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189035">
+      <result code="1">1</result>
+      <band id="833">Snowdown Colliery Welfare Band</band>
+      <conductor id="304955">W. Lee</conductor>
+    </result>
+    
+    <result id="189036">
+      <result code="2">2</result>
+      <band id="10412">Fairwarp Silver</band>
+      <conductor id="298285">P. H. Bowles</conductor>
+    </result>
+    
+    <result id="189037">
+      <result code="3">3</result>
+      <band id="10718">Glynn Vivian Miners&#39; Mission (Deal)</band>
+      <conductor id="299076">R. Carter</conductor>
+    </result>
+    
+    <result id="189704">
+      <result code="">Unknown Result</result>
+      <band id="10719">Malling Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

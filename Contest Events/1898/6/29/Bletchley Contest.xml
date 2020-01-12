@@ -1,0 +1,56 @@
+<contest-event id="13540">
+  <event-date date="1898-6-29">June 29, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bletchley Contest</name>
+  <contest id="2718">
+    <name>Bletchley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bletchley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2075">Bletchley, Buckinghamshire, England, UK</venue>
+  <notes>Prizes: £12, £6, £2
+Annual Liberal Demonstration
+4 bands competed</notes>
+
+  <created>May 22, 2012, 9:25 p.m.</created>
+  <last-modified>July 18, 2019, 11:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107363">
+      <result code="1">1</result>
+      <band id="6345">Olney Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="107364">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="107365">
+      <result code="3">3</result>
+      <band id="435">Bedford Town Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="166960">
+      <result code="4">4</result>
+      <band id="6784">Fenny Stratford Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

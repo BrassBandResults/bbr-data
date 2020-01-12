@@ -1,0 +1,48 @@
+<contest-event id="20101">
+  <event-date date="1967-11-19">Nov. 19, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Association Contest (Open Section)</name>
+  <contest id="4053">
+    <name>Birmingham Association Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="458">Birmingham Association Contest</group>
+    <slug>birmingham-association-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="284">Civic Hall, Wolverhampton</venue>
+  <notes>  Deportment - City of Coventry Police.</notes>
+
+  <created>March 30, 2013, 2:40 p.m.</created>
+  <last-modified>March 30, 2013, 2:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149583">
+      <result code="1">1</result>
+      <band id="1625">West Bromwich Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149584">
+      <result code="2">2</result>
+      <band id="416">Langley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149585">
+      <result code="3">3</result>
+      <band id="493">City of Birmingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

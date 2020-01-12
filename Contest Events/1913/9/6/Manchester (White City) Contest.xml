@@ -1,0 +1,61 @@
+<contest-event id="40489">
+  <event-date date="1913-9-6">Sept. 6, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester (White City) Contest</name>
+  <contest id="3366">
+    <name>Manchester (White City) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>manchester-white-city-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="920">Un Ballo in Maschera [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2593">White City Ground, Manchester</venue>
+  <notes>Whit Lane originally awarded 1st place but then disqualified.
+5 bands competed.</notes>
+
+  <created>Oct. 1, 2018, 4:40 p.m.</created>
+  <last-modified>Oct. 1, 2018, 4:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294562">
+      <result code="1">1</result>
+      <band id="3315">South Salford</band>
+      <conductor id="307025">William Owen</conductor>
+    </result>
+    
+    <result id="294558">
+      <result code="2">2</result>
+      <band id="3670">Victoria Hall (Bolton)</band>
+      <conductor id="317093">Harold Bennett</conductor>
+    </result>
+    
+    <result id="294561">
+      <result code="3">3</result>
+      <band id="4276">Halliwell</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="294559">
+      <result code="4">4</result>
+      <band id="17363">Irlam Village</band>
+      <conductor id="297790">Herbert Bennett</conductor>
+    </result>
+    
+    <result id="294560">
+      <result code="D">Disqualified</result>
+      <band id="4615">Whit Lane P.M. Pendleton</band>
+      <conductor id="307627">Benson Powell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

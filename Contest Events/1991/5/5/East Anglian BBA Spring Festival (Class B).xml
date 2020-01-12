@@ -1,0 +1,48 @@
+<contest-event id="30965">
+  <event-date date="1991-5-5">May 5, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class B)</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="808">Suite for Brass [Davis]</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes></notes>
+
+  <created>Feb. 3, 2015, 2:40 p.m.</created>
+  <last-modified>Feb. 3, 2015, 2:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="220401">
+      <result code="1">1</result>
+      <band id="12508">Holmes Quest</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="220402">
+      <result code="2">2</result>
+      <band id="621">Woodbridge Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="220403">
+      <result code="3">3</result>
+      <band id="637">Hilgay Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

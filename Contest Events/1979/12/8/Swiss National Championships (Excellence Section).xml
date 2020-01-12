@@ -1,0 +1,48 @@
+<contest-event id="14384">
+  <event-date date="1979-12-8">Dec. 8, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="304">Changing Cells</test-piece>
+  </test-piece>
+
+  <venue id="1951">Kongresshaus, Zürich, Switzerland</venue>
+  <notes>6th annual contest.</notes>
+
+  <created>Aug. 10, 2012, 9:07 a.m.</created>
+  <last-modified>Feb. 10, 2017, 8:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114630">
+      <result code="1">1</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+    <result id="200037">
+      <result code="2">2</result>
+      <band id="1207">Brass Band Bienne</band>
+      <conductor id="300814">Pascal Eicher</conductor>
+    </result>
+    
+    <result id="200038">
+      <result code="3">3</result>
+      <band id="11963">MV Harmonie Triengen</band>
+      <conductor id="297089">Fred Aregger</conductor>
+    </result>
+    
+  </results>
+</contest-event>

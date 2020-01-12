@@ -1,0 +1,75 @@
+<contest-event id="27495">
+  <event-date date="1960-5-21">May 21, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glasgow Charities Contest</name>
+  <contest id="680">
+    <name>Glasgow Charities Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>glasgow-charities-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3108">Kelvingrove Park, Glasgow</venue>
+  <notes>Best section 2 band - Whitburn Miners.
+Best section 3 band - Gartsherrie.</notes>
+
+  <created>May 16, 2014, 7:37 a.m.</created>
+  <last-modified>May 18, 2014, 6:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="198012">
+      <result code="1">1</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="306994">Robert Oughton</conductor>
+      <test-piece id="372">The Frogs of Aristophanes</test-piece>
+    </result>
+    
+    <result id="198013">
+      <result code="2">2</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="310210">Charles Telfer</conductor>
+    </result>
+    
+    <result id="198014">
+      <result code="3">3</result>
+      <band id="1272">Bellshill &amp; District Concert Brass</band>
+      <conductor id="305412">Dugald MacBrayne</conductor>
+      <test-piece id="378">Diadem of Gold</test-piece>
+    </result>
+    
+    <result id="198015">
+      <result code="4">4</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="301382">Hugh Forbes</conductor>
+    </result>
+    
+    <result id="198016">
+      <result code="5">5</result>
+      <band id="646">Croy Silver Band</band>
+      <conductor id="303247">John Hoggans</conductor>
+    </result>
+    
+    <result id="198217">
+      <result code="">Unknown Result</result>
+      <band id="5452">Gartsherrie Silver</band>
+      <conductor id="304574">John Kirkwood</conductor>
+    </result>
+    
+    <result id="198216">
+      <result code="">Unknown Result</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="303375">Harry Holwill</conductor>
+    </result>
+    
+  </results>
+</contest-event>

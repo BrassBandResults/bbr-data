@@ -1,0 +1,93 @@
+<contest-event id="1425">
+  <event-date date="2010-3-14">March 14, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (First Section)</name>
+  <contest id="62">
+    <name>Scottish Championship (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-first-section</slug>
+    <qualifies-for id="2">National Championship of Great Britain (First Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="289">A Moorside Suite</test-piece>
+  </test-piece>
+
+  <venue id="50">Rothes Halls, Glenrothes, Fife, Scotland, UK</venue>
+  <notes>Qualifiers: Lochgelly and Bo&#39;ness &amp; Carriden
+
+Best instrumentalist: Ben Hirons (soprano cornet, Bathgate)
+Thomas MacAuley Memorial Trophy (best horn): Laura Mullen (Johnstone Silver)</notes>
+
+  <created>Jan. 20, 2010, 12:47 p.m.</created>
+  <last-modified>Nov. 6, 2011, 1:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="15664">
+      <result code="1">1</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="300572">Paul Drury</conductor>
+    </result>
+    
+    <result id="15665">
+      <result code="2">2</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="310035">Steve Sykes</conductor>
+    </result>
+    
+    <result id="15666">
+      <result code="3">3</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="310220">Raymond Tennant</conductor>
+    </result>
+    
+    <result id="15667">
+      <result code="4">4</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308320">Michael Robertson</conductor>
+    </result>
+    
+    <result id="15668">
+      <result code="5">5</result>
+      <band id="316">Newmilns and Galston Band</band>
+      <conductor id="305855">Alex McCutcheon</conductor>
+    </result>
+    
+    <result id="15669">
+      <result code="6">6</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="310503">Eoin Tonner</conductor>
+    </result>
+    
+    <result id="15670">
+      <result code="7">7</result>
+      <band id="409">Broxburn and Livingston Brass</band>
+      <conductor id="300603">Andrew Duncan</conductor>
+    </result>
+    
+    <result id="15671">
+      <result code="8">8</result>
+      <band id="324">Campbeltown Brass</band>
+      <conductor id="296990">Craig Anderson</conductor>
+    </result>
+    
+    <result id="15672">
+      <result code="9">9</result>
+      <band id="317">Dunaskin Doon Band</band>
+      <conductor id="298114">John Boax</conductor>
+    </result>
+    
+    <result id="15673">
+      <result code="10">10</result>
+      <band id="368">Annan Town (Magnox North)</band>
+      <conductor id="308928">David Shanks</conductor>
+    </result>
+    
+  </results>
+</contest-event>

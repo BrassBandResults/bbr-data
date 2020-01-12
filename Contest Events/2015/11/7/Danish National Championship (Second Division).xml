@@ -1,0 +1,65 @@
+<contest-event id="33462">
+  <event-date date="2015-11-7">Nov. 7, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Danish National Championship (Second Division)</name>
+  <contest id="560">
+    <name>Danish National Championship (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="84">Danish National Championship</group>
+    <slug>danish-national-championship-second-division</slug>
+    
+    <notes></notes>
+    <region id="22">Denmark</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="70">The Shipbuilders</test-piece>
+  </test-piece>
+
+  <venue id="988">Musikhuset Aarhus, Aarhus, Central Denmark, Denmark</venue>
+  <notes></notes>
+
+  <created>Nov. 8, 2015, 7:27 p.m.</created>
+  <last-modified>Nov. 8, 2015, 7:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="240744">
+      <result code="1">1</result>
+      <band id="11603">Frederiksberg Brass Band</band>
+      <conductor id="304719">Rasmus Kærsgaard</conductor>
+      <test-piece id="2929">The Son of Light</test-piece>
+    </result>
+    
+    <result id="240745">
+      <result code="2">2</result>
+      <band id="2120">Svogerslev Brass Band</band>
+      <conductor id="310800">Susanne Vibæk</conductor>
+      <test-piece id="166">Trittico</test-piece>
+    </result>
+    
+    <result id="240746">
+      <result code="3">3</result>
+      <band id="1413">Danfoss Orkesteret</band>
+      <conductor id="301520">John Frederiksen</conductor>
+      <test-piece id="568">Vitae Aeternum</test-piece>
+    </result>
+    
+    <result id="240747">
+      <result code="4">4</result>
+      <band id="1603">FDF Århus Musikkreds Brass Band</band>
+      <conductor id="304598">Simon Kjærgaard</conductor>
+      <test-piece id="63">The Saga of Haakon the Good</test-piece>
+    </result>
+    
+    <result id="240748">
+      <result code="5">5</result>
+      <band id="12378">Hinnerup Gardens Brass Band</band>
+      <conductor id="302543">Anne Mette Tilsted Hansen</conductor>
+      <test-piece id="60">The Dark Side of the Moon</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

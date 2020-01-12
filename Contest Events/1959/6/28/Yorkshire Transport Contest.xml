@@ -1,0 +1,61 @@
+<contest-event id="27254">
+  <event-date date="1959-6-28">June 28, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Transport Contest</name>
+  <contest id="4091">
+    <name>Yorkshire Transport Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>yorkshire-transport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3847">Yorkshire Transport Sports Ground, Staincliffe, Dewsbury</venue>
+  <notes>Best section 3 band - Denby Dale.
+Best section 4 band - Scapegoat Hill.</notes>
+
+  <created>May 5, 2014, 6:31 a.m.</created>
+  <last-modified>May 5, 2014, 6:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="196576">
+      <result code="1">1</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310866">Peter Wadsworth</conductor>
+    </result>
+    
+    <result id="196577">
+      <result code="2">2</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="297109">Joe Armstrong</conductor>
+    </result>
+    
+    <result id="196578">
+      <result code="3">3</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="303596">J. A. Hughes</conductor>
+    </result>
+    
+    <result id="196579">
+      <result code="4">4</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="301278">Jack Fisher</conductor>
+    </result>
+    
+    <result id="196580">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="317661">W. Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

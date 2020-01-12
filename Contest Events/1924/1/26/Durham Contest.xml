@@ -1,0 +1,56 @@
+<contest-event id="26913">
+  <event-date date="1924-1-26">Jan. 26, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham Contest</name>
+  <contest id="1901">
+    <name>Durham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>durham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2823">Woodland Revels</test-piece>
+  </test-piece>
+
+  <venue id="2180">Miners Hall, Durham</venue>
+  <notes>Durham County Brass Band Association contest
+
+12 bands entered, 9 competed</notes>
+
+  <created>April 4, 2014, 7:37 p.m.</created>
+  <last-modified>April 4, 2014, 7:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194517">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="194518">
+      <result code="2">2</result>
+      <band id="2637">Consett-Whitbread Trophy</band>
+      <conductor id="309383">J. Smith</conductor>
+    </result>
+    
+    <result id="194519">
+      <result code="3">3</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="302043">Albert Grant</conductor>
+    </result>
+    
+    <result id="194520">
+      <result code="4">4</result>
+      <band id="3371">Lumley 6th Colliery</band>
+      <conductor id="311439">T. Whitehead</conductor>
+    </result>
+    
+  </results>
+</contest-event>

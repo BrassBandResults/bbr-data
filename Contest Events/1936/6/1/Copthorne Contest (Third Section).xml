@@ -1,0 +1,67 @@
+<contest-event id="28495">
+  <event-date date="1936-6-1">June 1, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Copthorne Contest (Third Section)</name>
+  <contest id="5368">
+    <name>Copthorne Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="510">Copthorne Contest</group>
+    <slug>copthorne-contest-third-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1096">Autumn Echoes</test-piece>
+  </test-piece>
+
+  <venue id="4855">Ten Acre Field, Copthorne</venue>
+  <notes>March: 1. Mayfield, 2. Aveley.
+6 bands competed.</notes>
+
+  <created>June 10, 2014, 8:43 p.m.</created>
+  <last-modified>Feb. 16, 2016, 11:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="202764">
+      <result code="1">1</result>
+      <band id="3955">Mayfield Band</band>
+      <conductor id="310100">H. Targett</conductor>
+    </result>
+    
+    <result id="202765">
+      <result code="2">2</result>
+      <band id="4332">Aveley Band</band>
+      <conductor id="299882">A. V. Creasey</conductor>
+    </result>
+    
+    <result id="202766">
+      <result code="3">3</result>
+      <band id="10697">Peel (Finsbury Borough)</band>
+      <conductor id="303216">A. H. Hodgkiss</conductor>
+    </result>
+    
+    <result id="246192">
+      <result code="4">4</result>
+      <band id="11397">Capel Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246193">
+      <result code="5">5</result>
+      <band id="4660">Billingshurst</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246194">
+      <result code="6">6</result>
+      <band id="3956">Wadhurst Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="41502">
+  <event-date date="1930-7-12">July 12, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brinsley Contest</name>
+  <contest id="4695">
+    <name>Brinsley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brinsley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="947">Recollections of Schubert</test-piece>
+  </test-piece>
+
+  <venue id="4067">Brinsley, Nottinghamshire</venue>
+  <notes>March contest - 1st Kirkby, 2nd Ripley.
+Prizes - 1st £10 and cup, 2nd £5.
+5 bands competed.</notes>
+
+  <created>Dec. 7, 2018, 2:57 p.m.</created>
+  <last-modified>Dec. 7, 2018, 3:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="301834">
+      <result code="1">1</result>
+      <band id="8411">Whitwell British Legion</band>
+      <conductor id="309384">J. A. Smith</conductor>
+    </result>
+    
+    <result id="301835">
+      <result code="2">2</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="310669">T. Turner</conductor>
+    </result>
+    
+    <result id="301836">
+      <result code="">Unknown Result</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="309450">Samuel Smith</conductor>
+    </result>
+    
+    <result id="301837">
+      <result code="">Unknown Result</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="308663">W. J. Saint</conductor>
+    </result>
+    
+    <result id="301838">
+      <result code="">Unknown Result</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,45 @@
+<contest-event id="26229">
+  <event-date date="1939-8-19">Aug. 19, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest (Section B)</name>
+  <contest id="5087">
+    <name>Dearham Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1367">Over the Hills</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £8.
+  March contest - 1st Moor Row, 2nd Dearham Subscription.
+  2 bands competed.
+</notes>
+
+  <created>Jan. 30, 2014, 2:54 p.m.</created>
+  <last-modified>Jan. 24, 2019, 10:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189891">
+      <result code="1">1</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="189892">
+      <result code="2">2</result>
+      <band id="9504">Dearham Subscription</band>
+      <conductor id="304560">W. Kirkbride</conductor>
+    </result>
+    
+  </results>
+</contest-event>

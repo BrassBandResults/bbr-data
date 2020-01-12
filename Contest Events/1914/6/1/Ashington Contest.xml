@@ -1,0 +1,50 @@
+<contest-event id="28353">
+  <event-date date="1914-6-1">June 1, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashington Contest</name>
+  <contest id="2395">
+    <name>Ashington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3900">People&#39;s Park, Ashington, Northumberland, England, UK</venue>
+  <notes>3 bands entered
+
+Choice of test pieces: &quot;Classic Gems&quot; or &quot;The Outlaw&quot;</notes>
+
+  <created>June 7, 2014, 6:55 p.m.</created>
+  <last-modified>June 7, 2014, 6:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202227">
+      <result code="1">1</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202228">
+      <result code="2">2</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202229">
+      <result code="3">3</result>
+      <band id="8984">Amble and Radcliffe Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

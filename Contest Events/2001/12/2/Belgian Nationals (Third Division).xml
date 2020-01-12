@@ -1,0 +1,42 @@
+<contest-event id="964">
+  <event-date date="2001-12-2">Dec. 2, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Third Division)</name>
+  <contest id="79">
+    <name>Belgian Nationals (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-third-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="248">Petite Suite de Ballet</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>Oct. 8, 2009, 2:04 a.m.</created>
+  <last-modified>Oct. 8, 2009, 2:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="10497">
+      <result code="1">1</result>
+      <band id="247">Brass Band de Thudinie</band>
+      <conductor id="299446">Jacques Clippe</conductor>
+    </result>
+    
+    <result id="10498">
+      <result code="2">2</result>
+      <band id="681">Mons St. Georges Brassband</band>
+      <conductor id="300349">Thierry Descamps</conductor>
+    </result>
+    
+  </results>
+</contest-event>

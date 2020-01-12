@@ -1,0 +1,57 @@
+<contest-event id="10481">
+  <event-date date="1905-9-9">Sept. 9, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mapplewell Contest</name>
+  <contest id="2028">
+    <name>Mapplewell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mapplewell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1643">Gems of Irish Melody</test-piece>
+  </test-piece>
+
+  <venue id="4544">Staincross, South Yorkshire</venue>
+  <notes>Mapplewell &amp; Staincross Flower Show
+1st prize £8, 2nd prize £5, 3rd prize £2, 4th prize 10s.
+March contest  1st Carlton, 2nd Rawmarsh.
+4 bands competed.</notes>
+
+  <created>Feb. 20, 2012, 1:37 p.m.</created>
+  <last-modified>Sept. 12, 2018, 8:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="88121">
+      <result code="1">1</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="88122">
+      <result code="2">2</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264621">
+      <result code="3">3</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="88124">
+      <result code="4">4</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

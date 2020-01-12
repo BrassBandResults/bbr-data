@@ -1,0 +1,90 @@
+<contest-event id="1105">
+  <event-date date="2004-3-14">March 14, 2004<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (First Section)</name>
+  <contest id="62">
+    <name>Scottish Championship (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-first-section</slug>
+    <qualifies-for id="2">National Championship of Great Britain (First Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="131">Coventry Variations</test-piece>
+  </test-piece>
+
+  <venue id="890">Civic Centre (Concert Hall), Motherwell, North Lanarkshire, Scotland, UK</venue>
+  <notes>Qualifiers: Newtongrange Silver and Newmilns &amp; Galston</notes>
+
+  <created>Oct. 25, 2009, 3:50 p.m.</created>
+  <last-modified>Nov. 4, 2011, 2:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="11863">
+      <result code="1">1</result>
+      <band id="232">Newtongrange Band</band>
+      <conductor id="311565">Keith Wilkinson</conductor>
+    </result>
+    
+    <result id="11864">
+      <result code="2">2</result>
+      <band id="316">Newmilns and Galston Band</band>
+      <conductor id="296990">Craig Anderson</conductor>
+    </result>
+    
+    <result id="11865">
+      <result code="3">3</result>
+      <band id="419">Kirkintilloch Kelvin Brass</band>
+      <conductor id="306958">Alastair Orr</conductor>
+    </result>
+    
+    <result id="11866">
+      <result code="4">4</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308320">Michael Robertson</conductor>
+    </result>
+    
+    <result id="11867">
+      <result code="5">5</result>
+      <band id="317">Dunaskin Doon Band</band>
+      <conductor id="298114">John Boax</conductor>
+    </result>
+    
+    <result id="11868">
+      <result code="6">6</result>
+      <band id="303">Clackmannan and District Band</band>
+      <conductor id="300165">Jim Davies</conductor>
+    </result>
+    
+    <result id="11869">
+      <result code="7">7</result>
+      <band id="643">Granite City Brass</band>
+      <conductor id="303911">David James</conductor>
+    </result>
+    
+    <result id="11870">
+      <result code="8">8</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="305120">Gavin Lindsay</conductor>
+    </result>
+    
+    <result id="11871">
+      <result code="9">9</result>
+      <band id="653">Tayport Instrumental</band>
+      <conductor id="300113">Iain Davey</conductor>
+    </result>
+    
+    <result id="72954">
+      <result code="W">Withdrawn</result>
+      <band id="1228">Livingston Brass</band>
+      <conductor id="308683">Alan Samson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

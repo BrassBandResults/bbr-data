@@ -1,0 +1,55 @@
+<contest-event id="22118">
+  <event-date date="1956-10-13">Oct. 13, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Brass Band Association Selection Contest (Class D)</name>
+  <contest id="697">
+    <name>North Wales Brass Band Association Selection Contest (Class D)</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="112">North Wales Brass Band Association Selection Contest</group>
+    <slug>north-wales-bba-selection-contest-class-d</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3529">Idle Hours</test-piece>
+  </test-piece>
+
+  <venue id="42">Pavilion Theatre, Rhyl</venue>
+  <notes>
+  4 bands competed.</notes>
+
+  <created>July 2, 2013, 3:54 p.m.</created>
+  <last-modified>Feb. 6, 2016, 2:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164285">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="300773">G. Edwards</conductor>
+    </result>
+    
+    <result id="164286">
+      <result code="2">2</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="311524">L. Wilcock</conductor>
+    </result>
+    
+    <result id="164287">
+      <result code="3">3</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="304182">D. Jones</conductor>
+    </result>
+    
+    <result id="164288">
+      <result code="4">4</result>
+      <band id="5375">Aberystwyth B.L</band>
+      <conductor id="298686">C. W. Buck</conductor>
+    </result>
+    
+  </results>
+</contest-event>

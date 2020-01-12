@@ -1,0 +1,55 @@
+<contest-event id="36683">
+  <event-date date="1927-6-6">June 6, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bawtry Contest</name>
+  <contest id="6064">
+    <name>Bawtry Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bawtry-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="6363">Bawtry, Yorkshire</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £8, 3rd £5, 4th £3.
+March contest - 1st Bullcroft, 2nd Bentley.</notes>
+
+  <created>Dec. 15, 2016, 10:29 a.m.</created>
+  <last-modified>Nov. 19, 2018, 1:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="265696">
+      <result code="1">1</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="307097">W. Park</conductor>
+    </result>
+    
+    <result id="265697">
+      <result code="2">2</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="312007">W. Wormald</conductor>
+    </result>
+    
+    <result id="265698">
+      <result code="3">3</result>
+      <band id="278">Polypipe Rossington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265699">
+      <result code="">Unknown Result</result>
+      <band id="36">Hatfield Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

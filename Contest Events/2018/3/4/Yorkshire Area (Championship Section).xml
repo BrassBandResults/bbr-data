@@ -1,0 +1,108 @@
+<contest-event id="31334">
+  <event-date date="2018-3-4">March 4, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Area (Championship Section)</name>
+  <contest id="9">
+    <name>Yorkshire Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="123">Odyssey [Norbury]</test-piece>
+  </test-piece>
+
+  <venue id="713">Huddersfield Town Hall, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>March 9, 2015, 5:35 p.m.</created>
+  <last-modified>March 4, 2018, 9:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="271517">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="299290">Nicholas Childs</conductor>
+    </result>
+    
+    <result id="271518">
+      <result code="2">2</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="304524">David King</conductor>
+    </result>
+    
+    <result id="271522">
+      <result code="3">3</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="311849">Allan Withington</conductor>
+    </result>
+    
+    <result id="271519">
+      <result code="4">4</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="307609">Ian Porthouse</conductor>
+    </result>
+    
+    <result id="271527">
+      <result code="5">5</result>
+      <band id="1">Rothwell Temperance Band</band>
+      <conductor id="308275">David Roberts</conductor>
+    </result>
+    
+    <result id="271525">
+      <result code="6">6</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="297373">Leigh Baker</conductor>
+    </result>
+    
+    <result id="271524">
+      <result code="7">7</result>
+      <band id="25">Hammonds Saltaire</band>
+      <conductor id="302245">Morgan Griffiths</conductor>
+    </result>
+    
+    <result id="271521">
+      <result code="8">8</result>
+      <band id="145">Elland Silver Band</band>
+      <conductor id="298549">Danny Brooks</conductor>
+    </result>
+    
+    <result id="271520">
+      <result code="9">9</result>
+      <band id="129">City of Bradford Brass Band</band>
+      <conductor id="309218">Lee Skipsey</conductor>
+    </result>
+    
+    <result id="271529">
+      <result code="10">10</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="302097">Russell Gray</conductor>
+    </result>
+    
+    <result id="271528">
+      <result code="11">11</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="308292">John Roberts</conductor>
+    </result>
+    
+    <result id="271526">
+      <result code="12">12</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="307275">Mark Peacock</conductor>
+    </result>
+    
+    <result id="271530">
+      <result code="13">13</result>
+      <band id="36">Hatfield Band</band>
+      <conductor id="305133">Stan Lippeatt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

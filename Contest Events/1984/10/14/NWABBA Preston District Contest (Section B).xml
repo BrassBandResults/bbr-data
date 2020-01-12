@@ -1,0 +1,56 @@
+<contest-event id="29494">
+  <event-date date="1984-10-14">Oct. 14, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Preston District Contest (Section B)</name>
+  <contest id="2414">
+    <name>NWABBA Preston District Contest (Section B)</name>
+    <order>110</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="38">Fleetwood Contest (NWABBA Preston District Contest)</group>
+    <slug>nwabba-preston-district-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="645">Land of the Mountain and the Flood</test-piece>
+  </test-piece>
+
+  <venue id="617">Parr Hall, Warrington, Cheshire, England, UK</venue>
+  <notes>Prizes - 1st £100 and trophy, 2nd £60 and trophy, 3rd £40 and trophy.
+4 bands competed.
+36th annual contest.</notes>
+
+  <created>Oct. 8, 2014, 8:52 p.m.</created>
+  <last-modified>Jan. 14, 2015, 8:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="210297">
+      <result code="1">1</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="310101">Edward Tarling</conductor>
+    </result>
+    
+    <result id="210298">
+      <result code="2">2</result>
+      <band id="397">Hesketh Bank Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="210299">
+      <result code="3">3</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+    </result>
+    
+    <result id="218543">
+      <result code="4">4</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="312038">Denis Wright</conductor>
+    </result>
+    
+  </results>
+</contest-event>

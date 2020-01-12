@@ -1,0 +1,55 @@
+<contest-event id="42183">
+  <event-date date="2019-6-8">June 8, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (Elite Division)</name>
+  <contest id="27">
+    <name>French Open (Elite Division)</name>
+    <order>1</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3405">Ascension [Wilby]</test-piece>
+  </test-piece>
+
+  <venue id="4798">Théâtre Municipal Beaumarchais, Amboise, Centre, France</venue>
+  <notes>25th Edition
+</notes>
+
+  <created>May 12, 2019, 2:09 p.m.</created>
+  <last-modified>June 10, 2019, 2:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="309644">
+      <result code="1">1</result>
+      <band id="24">Flowers Band</band>
+      <conductor id="303300">Paul Holland</conductor>
+    </result>
+    
+    <result id="309645">
+      <result code="2">2</result>
+      <band id="27">Brass Band Aeolus</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309457">
+      <result code="">Unknown Result</result>
+      <band id="27">Brass Band Aeolus</band>
+      <conductor id="301448">Benoit Fourreau</conductor>
+    </result>
+    
+    <result id="309430">
+      <result code="">Unknown Result</result>
+      <band id="24">Flowers Band</band>
+      <conductor id="303300">Paul Holland</conductor>
+    </result>
+    
+  </results>
+</contest-event>

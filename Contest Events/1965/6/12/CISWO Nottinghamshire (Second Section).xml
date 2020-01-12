@@ -1,0 +1,81 @@
+<contest-event id="18897">
+  <event-date date="1965-6-12">June 12, 1965<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO Nottinghamshire (Second Section)</name>
+  <contest id="1818">
+    <name>CISWO Nottinghamshire (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="210">CISWO Nottinghamshire</group>
+    <slug>ciswo-nottinghamshire-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1181">Gallions Reach</test-piece>
+  </test-piece>
+
+  <venue id="3194">Berry Hill Park, Mansfield</venue>
+  <notes>
+  Prizes  1st £40, 2nd £25, 3rd £15.
+
+  5 bands competed.</notes>
+
+  <created>March 6, 2013, 11:37 a.m.</created>
+  <last-modified>Dec. 17, 2014, 3:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="141696">
+      <result code="1">1</result>
+      <band id="274">William Davis Construction Group Band</band>
+      <conductor id="309671">Fred Starkey</conductor>
+    </result>
+    
+    <result id="141697">
+      <result code="2">2</result>
+      <band id="2534">Langwith Miners Welfare</band>
+      <conductor id="310399">George Thorpe</conductor>
+    </result>
+    
+    <result id="141698">
+      <result code="3">3</result>
+      <band id="508">Bestwood Welfare Black Diamonds Band</band>
+      <conductor id="297387">John Baldwin</conductor>
+    </result>
+    
+    <result id="217226">
+      <result code="">Unknown Result</result>
+      <band id="2467">Clipstone Colliery Welfare</band>
+      <conductor id="308698">R. Sanders</conductor>
+    </result>
+    
+    <result id="217228">
+      <result code="">Unknown Result</result>
+      <band id="11503">Thoresby Colliery Reunion Band</band>
+      <conductor id="297080">William Appleton</conductor>
+    </result>
+    
+    <result id="217225">
+      <result code="W">Withdrawn</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="217229">
+      <result code="W">Withdrawn</result>
+      <band id="1490">Daw Mill Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="217227">
+      <result code="W">Withdrawn</result>
+      <band id="2028">South Notts Hussars Association Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

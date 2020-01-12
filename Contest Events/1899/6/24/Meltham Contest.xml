@@ -1,0 +1,80 @@
+<contest-event id="12420">
+  <event-date date="1899-6-24">June 24, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Meltham Contest</name>
+  <contest id="1512">
+    <name>Meltham Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>meltham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3722">Cricket Ground, Meltham</venue>
+  <notes>1st prize £10.
+  2nd prize £6.
+  3rd prize £3.
+  4th prize £2.
+  5th prize £1.
+
+  March contest 1st (£1) Glodwick, 2nd prize (10s.) Linthwaite.
+
+  7 bands competed.</notes>
+
+  <created>April 14, 2012, 11:16 a.m.</created>
+  <last-modified>July 28, 2019, 8:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99320">
+      <result code="1">1</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="99321">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="99322">
+      <result code="3">3</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="99323">
+      <result code="4">4</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="99324">
+      <result code="5">5</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="99325">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="303398">Thomas Hooson</conductor>
+    </result>
+    
+    <result id="99326">
+      <result code="">Unknown Result</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="308068">W. F. Renshaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

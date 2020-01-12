@@ -1,0 +1,48 @@
+<contest-event id="20724">
+  <event-date date="1971-5-15">May 15, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Area (Second Section)</name>
+  <contest id="18">
+    <name>Yorkshire Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="521">Suite Gothique</test-piece>
+  </test-piece>
+
+  <venue id="634">Leeds Town Hall, Leeds, West Yorkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>April 22, 2013, 9:09 a.m.</created>
+  <last-modified>April 22, 2013, 9:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="154025">
+      <result code="1">1</result>
+      <band id="573">York Railway Institute</band>
+      <conductor id="303387">Edmund Hoole</conductor>
+    </result>
+    
+    <result id="154026">
+      <result code="2">2</result>
+      <band id="132">Strata Brass</band>
+      <conductor id="310342">Maurice Thompson</conductor>
+    </result>
+    
+    <result id="154027">
+      <result code="3">3</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="303490">Herbert H. Howarth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

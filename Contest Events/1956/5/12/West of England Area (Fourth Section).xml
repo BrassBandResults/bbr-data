@@ -1,0 +1,54 @@
+<contest-event id="20342">
+  <event-date date="1956-5-12">May 12, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Fourth Section)</name>
+  <contest id="51">
+    <name>West of England Area (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="3459">Corn Exchange, Bristol</venue>
+  <notes>  23 bands competed.</notes>
+
+  <created>April 6, 2013, 1:07 p.m.</created>
+  <last-modified>April 10, 2013, 3:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150799">
+      <result code="1">1</result>
+      <band id="1256">Glastonbury (Combined Edge Tools)</band>
+      <conductor id="298707">Russell Buckley</conductor>
+    </result>
+    
+    <result id="151604">
+      <result code="2">2</result>
+      <band id="2992">Stroud and District</band>
+      <conductor id="307077">W. J. Palmer</conductor>
+    </result>
+    
+    <result id="151605">
+      <result code="3">3</result>
+      <band id="550">Launceston Town Band</band>
+      <conductor id="310972">Reginald Walter</conductor>
+    </result>
+    
+    <result id="151606">
+      <result code="4">4</result>
+      <band id="565">Cheltenham Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

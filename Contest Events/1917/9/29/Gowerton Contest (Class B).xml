@@ -1,0 +1,62 @@
+<contest-event id="40607">
+  <event-date date="1917-9-29">Sept. 29, 1917<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gowerton Contest (Class B)</name>
+  <contest id="6373">
+    <name>Gowerton Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gowerton-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="538">I Lombardi</test-piece>
+  </test-piece>
+
+  <venue id="4801">Gowerton, Glamorgan</venue>
+  <notes>Prizes - 1st £8, 2nd £4, 3rd £2.
+March contest - 1st Gorseinon, 2nd Waunarlwydd.
+5 bands competed.</notes>
+
+  <created>Oct. 8, 2018, 3:33 p.m.</created>
+  <last-modified>Oct. 8, 2018, 3:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295446">
+      <result code="1">1</result>
+      <band id="6969">Waunarlwydd</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="295443">
+      <result code="2">2</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="307741">Ernest Pritchard</conductor>
+    </result>
+    
+    <result id="295445">
+      <result code="3">3</result>
+      <band id="17397">Gorseinon Temperance</band>
+      <conductor id="301556">Joseph Frith</conductor>
+    </result>
+    
+    <result id="295442">
+      <result code="">Unknown Result</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="304289">Tom Jones</conductor>
+    </result>
+    
+    <result id="295444">
+      <result code="">Unknown Result</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="36137">
+  <event-date date="2017-8-20">Aug. 20, 2017<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Australian Band Championships (C Grade)</name>
+  <contest id="571">
+    <name>South Australian Band Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="143">Northern Landscapes</test-piece>
+  </test-piece>
+
+  <venue id="6274">Immanuel College, Novar Gardens, Adelaide, Australia</venue>
+  <notes>Count-back to test to determine first and second places.
+There was no Own Choice.</notes>
+
+  <created>Sept. 25, 2016, 4 a.m.</created>
+  <last-modified>May 22, 2018, 11:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="278757">
+      <result code="1">1</result>
+      <band id="2160">Mitcham City Brass</band>
+      <conductor id="307040">Steven Packer</conductor>
+      <test-piece id="5580">Hymn  ;  How Great Thou Art</test-piece>
+    </result>
+    
+    <result id="278758">
+      <result code="2">2</result>
+      <band id="1187">Enfield Brass [Australia]</band>
+      <conductor id="310102">Shayne Tarling</conductor>
+      <test-piece id="3808">Deep Harmony (Hymn)</test-piece>
+    </result>
+    
+    <result id="278759">
+      <result code="3">3</result>
+      <band id="728">Salisbury City Band [Australia]</band>
+      <conductor id="306009">Adrienne Meikle</conductor>
+      <test-piece id="5584">Blaenwern (Hymn)</test-piece>
+    </result>
+    
+    <result id="278760">
+      <result code="4">4</result>
+      <band id="2161">Hahndorf Town Band</band>
+      <conductor id="307055">Philip Paine</conductor>
+      <test-piece id="5582">Lord of all Hopefulness (Hymn)</test-piece>
+    </result>
+    
+    <result id="278761">
+      <result code="5">5</result>
+      <band id="2151">Warriparinga Brass</band>
+      <conductor id="298244">Veronica Boulton</conductor>
+      <test-piece id="5581">Hymn  &quot; Praise to the Lord all Mighty&quot;</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

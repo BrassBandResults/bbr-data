@@ -1,0 +1,79 @@
+<contest-event id="41371">
+  <event-date date="1928-1-28">Jan. 28, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest</name>
+  <contest id="4451">
+    <name>West Stanley Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>west-stanley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1298">The Mountain Sylph</test-piece>
+  </test-piece>
+
+  <venue id="908">West Stanley, County Durham</venue>
+  <notes>Hymn tune contest - 1st Bearpark, 2nd Brancepeth, 3rd Thornley.
+8 bands competed</notes>
+
+  <created>Nov. 24, 2018, 11:41 a.m.</created>
+  <last-modified>Nov. 24, 2018, 11:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="300798">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="300799">
+      <result code="2">2</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="300254">Wilfred Dawson</conductor>
+    </result>
+    
+    <result id="300800">
+      <result code="3">3</result>
+      <band id="3369">Burnhope Colliery Welfare</band>
+      <conductor id="304092">J. Johnson</conductor>
+    </result>
+    
+    <result id="300801">
+      <result code="4">4</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="313681">John Millar</conductor>
+    </result>
+    
+    <result id="300802">
+      <result code="5">5</result>
+      <band id="11421">New Silksworth</band>
+      <conductor id="299781">Thomas Coulson</conductor>
+    </result>
+    
+    <result id="300803">
+      <result code="">Unknown Result</result>
+      <band id="11413">Bearpark Colliery</band>
+      <conductor id="300298">J. Deighton</conductor>
+    </result>
+    
+    <result id="300805">
+      <result code="">Unknown Result</result>
+      <band id="6856">Hamsteels Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300804">
+      <result code="">Unknown Result</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+  </results>
+</contest-event>

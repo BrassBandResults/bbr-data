@@ -1,0 +1,42 @@
+<contest-event id="21357">
+  <event-date date="1975-4-6">April 6, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Championship Class</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="829">Prince Igor Overture</test-piece>
+  </test-piece>
+
+  <venue id="3266">Secondary Modern School, Thetford, Norfolk</venue>
+  <notes>  Hymn tune contest - 1st Drayton, 2nd Wrentham.</notes>
+
+  <created>May 13, 2013, 12:35 p.m.</created>
+  <last-modified>May 11, 2014, 8:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="157379">
+      <result code="1">1</result>
+      <band id="2112">Castleton Brass [Suffolk]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157380">
+      <result code="2">2</result>
+      <band id="1531">Wrentham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

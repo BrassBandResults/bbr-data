@@ -1,0 +1,79 @@
+<contest-event id="14300">
+  <event-date date="1992-6-20">June 20, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Norwegian National School Band Championships (Division 1)</name>
+  <contest id="1403">
+    <name>Norwegian National School Band Championships (Division 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="172">Norwegian National School Band Championships</group>
+    <slug>norwegian-national-school-band-championships</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="401">Stavanger Konserthus (Kuppelhallen), Stavanger, Rogaland, Norway</venue>
+  <notes></notes>
+
+  <created>July 31, 2012, 10:24 a.m.</created>
+  <last-modified>Aug. 27, 2012, 9:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114108">
+      <result code="1">1</result>
+      <band id="5662">Tasta Skolekorps</band>
+      <conductor id="312233">Morten Øvrebekk</conductor>
+    </result>
+    
+    <result id="114109">
+      <result code="2">2</result>
+      <band id="5743">Haukås Skolemusikk</band>
+      <conductor id="308657">Bjørn Sagstad</conductor>
+      <test-piece id="220">Music for a Festival</test-piece>
+    </result>
+    
+    <result id="114110">
+      <result code="3">3</result>
+      <band id="5664">Skodvin Skulemusikk</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="114111">
+      <result code="4">4</result>
+      <band id="5658">Sæbø Skulemusikklag</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="114112">
+      <result code="5">5</result>
+      <band id="5773">Skeie Skolekorps</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="114113">
+      <result code="6">6</result>
+      <band id="5657">Smørås Skolemusikk</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="114114">
+      <result code="7">7</result>
+      <band id="5659">Manger Skulemusikklag</band>
+      <conductor id="301871">Eirik Gjerdevik</conductor>
+    </result>
+    
+    <result id="114115">
+      <result code="8">8</result>
+      <band id="6142">Røyken Skoles Musikkorps</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

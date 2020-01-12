@@ -1,0 +1,54 @@
+<contest-event id="41857">
+  <event-date date="1948-11-25">Nov. 25, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Association Contest (Section A)</name>
+  <contest id="3845">
+    <name>Birmingham Association Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="458">Birmingham Association Contest</group>
+    <slug>birmingham-association-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4746">Civic Hall, Digbeth, Birmingham</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Feb. 25, 2019, 4:40 p.m.</created>
+  <last-modified>Feb. 25, 2019, 4:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="304935">
+      <result code="1">1</result>
+      <band id="493">City of Birmingham Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="304936">
+      <result code="2">2</result>
+      <band id="5915">Coventry Silver</band>
+      <conductor id="301161">Peter Fearnley</conductor>
+    </result>
+    
+    <result id="304937">
+      <result code="3">3</result>
+      <band id="2693">Bournville Silver</band>
+      <conductor id="296895">George Allen</conductor>
+    </result>
+    
+    <result id="304938">
+      <result code="4">4</result>
+      <band id="1928">Coventry Colliery</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+  </results>
+</contest-event>

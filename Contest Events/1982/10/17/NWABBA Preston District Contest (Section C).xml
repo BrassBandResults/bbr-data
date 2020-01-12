@@ -1,0 +1,74 @@
+<contest-event id="28784">
+  <event-date date="1982-10-17">Oct. 17, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Preston District Contest (Section C)</name>
+  <contest id="2412">
+    <name>NWABBA Preston District Contest (Section C)</name>
+    <order>120</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="38">Fleetwood Contest (NWABBA Preston District Contest)</group>
+    <slug>nwabba-preston-district-contest-section-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="87">Marine Hall, Fleetwood, Lancashire</venue>
+  <notes>Prizes - 1st £80 and trophy, 2nd £60 and trophy, 3rd £40 and trophy.
+34th annual contest.
+7 bands competed.</notes>
+
+  <created>June 25, 2014, 4:25 p.m.</created>
+  <last-modified>Oct. 13, 2016, 10:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="205783">
+      <result code="1">1</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="312056">P. Wright</conductor>
+    </result>
+    
+    <result id="205784">
+      <result code="2">2</result>
+      <band id="196">Morecambe Brass Band</band>
+      <conductor id="301319">J. F. Fleming</conductor>
+    </result>
+    
+    <result id="205785">
+      <result code="3">3</result>
+      <band id="2551">Storeys of Lancaster Band</band>
+      <conductor id="302269">J. Grisdale</conductor>
+    </result>
+    
+    <result id="218265">
+      <result code="">Unknown Result</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="308285">J. Roberts</conductor>
+    </result>
+    
+    <result id="218268">
+      <result code="">Unknown Result</result>
+      <band id="1515">Lancashire Brass</band>
+      <conductor id="297818">Roy Bentham</conductor>
+    </result>
+    
+    <result id="218267">
+      <result code="">Unknown Result</result>
+      <band id="229">Parr (St. Helens) Band</band>
+      <conductor id="304490">Bob Kerwick</conductor>
+    </result>
+    
+    <result id="218266">
+      <result code="">Unknown Result</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="306617">Les Naylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

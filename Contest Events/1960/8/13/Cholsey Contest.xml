@@ -1,0 +1,110 @@
+<contest-event id="21616">
+  <event-date date="1960-8-13">Aug. 13, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cholsey Contest</name>
+  <contest id="3939">
+    <name>Cholsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cholsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3527">Recreation Ground, Cholsey, Oxfordshire</venue>
+  <notes>March Contest:
+1 Shipston, 8, 84
+2 Woodfalls Junior, 7, 80.
+3 Ellesborough, 6, 77
+East Woodhay, 1
+East Berks, 2
+Swindon, 3
+Kidlington, 4
+Waltham St. Lawrence, 5
+
+Hymn Contest:
+1 Woodfalls Junior, 2, 48
+2 East Berks, 3, 46
+3 Shipston, 5, 45
+Swindon, 1
+East Woodhay, 4
+Ellesborough, 6
+Haslemere, 7
+Waltham St. Lawrence, 8
+Kidlington, 9</notes>
+
+  <created>May 24, 2013, 5:05 p.m.</created>
+  <last-modified>May 19, 2014, 8:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="158653">
+      <result code="1">1</result>
+      <band id="509">Shipston Town Band</band>
+      <conductor id="309318">Bert Smith</conductor>
+    </result>
+    
+    <result id="158648">
+      <result code="2">2</result>
+      <band id="6439">East Berks Silver Band</band>
+      <conductor id="299354">Jack Clark</conductor>
+      <test-piece id="1687">Recollections of Mendelssohn</test-piece>
+    </result>
+    
+    <result id="158656">
+      <result code="3">3</result>
+      <band id="308">Woodfalls Concert Brass</band>
+      <conductor id="304537">Cliff Kingshott</conductor>
+      <test-piece id="430">The Princess and the Poet</test-piece>
+    </result>
+    
+    <result id="158652">
+      <result code="4">4</result>
+      <band id="2737">Kidlington Silver</band>
+      <conductor id="299271">George Chesterman</conductor>
+      <test-piece id="602">Passing Moods</test-piece>
+    </result>
+    
+    <result id="158649">
+      <result code="">Unknown Result</result>
+      <band id="1481">East Woodhay Silver</band>
+      <conductor id="311192">Des Webb</conductor>
+      <test-piece id="857">In Switzerland</test-piece>
+    </result>
+    
+    <result id="158655">
+      <result code="">Unknown Result</result>
+      <band id="3922">Waltham St Lawrence Silver Band</band>
+      <conductor id="304572">W. T. Kirkland</conductor>
+      <test-piece id="2144">The Dawn of Spring</test-piece>
+    </result>
+    
+    <result id="158651">
+      <result code="">Unknown Result</result>
+      <band id="834">Haslemere Town Band</band>
+      <conductor id="310280">H. B. Thomas</conductor>
+    </result>
+    
+    <result id="158650">
+      <result code="">Unknown Result</result>
+      <band id="756">Ellesborough Silver Band</band>
+      <conductor id="299705">Arthur Copcutt</conductor>
+      <test-piece id="2364">Melodies of Britain</test-piece>
+    </result>
+    
+    <result id="158654">
+      <result code="">Unknown Result</result>
+      <band id="8747">Swindon Town Silver</band>
+      <conductor id="300432">A. V. Dobson</conductor>
+      <test-piece id="793">Divertimento [Ball]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

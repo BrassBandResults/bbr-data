@@ -1,0 +1,48 @@
+<contest-event id="16086">
+  <event-date date="1986-1-11">Jan. 11, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gwent County Youth Contest (Second Section)</name>
+  <contest id="5140">
+    <name>Greater Gwent Youth Brass Band Festival (Section 2)</name>
+    <order>120</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="263">Greater Gwent Youth Brass Band Festival</group>
+    <slug>greater-gwent-youth-brass-band-festival-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2220">A Frontier Overture</test-piece>
+  </test-piece>
+
+  <venue id="1600">Crosskeys, Gwent</venue>
+  <notes></notes>
+
+  <created>Nov. 12, 2012, 9:25 a.m.</created>
+  <last-modified>March 18, 2014, 5:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="123734">
+      <result code="1">1</result>
+      <band id="792">Blaenavon Concert Band</band>
+      <conductor id="307173">Roy Parsons</conductor>
+    </result>
+    
+    <result id="123735">
+      <result code="2">2</result>
+      <band id="2163">Usk Town Band</band>
+      <conductor id="311241">Nigel Weeks</conductor>
+    </result>
+    
+    <result id="123736">
+      <result code="3">3</result>
+      <band id="9937">Rogerstone Youth</band>
+      <conductor id="311143">Neil Watson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

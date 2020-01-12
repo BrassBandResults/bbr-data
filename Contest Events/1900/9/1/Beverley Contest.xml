@@ -1,0 +1,65 @@
+<contest-event id="8094">
+  <event-date date="1900-9-1">Sept. 1, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Beverley Contest</name>
+  <contest id="1408">
+    <name>Beverley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>beverley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1318">Norma</test-piece>
+  </test-piece>
+
+  <venue id="3761">Recreation Ground, Beverley</venue>
+  <notes>promoted by Beverley United Brass Band
+
+March contest: 1. Scarborough, 2. East Hull &amp; Selby tied
+
+Prizes: £9, £6, £3
+</notes>
+
+  <created>Nov. 7, 2011, 3:23 p.m.</created>
+  <last-modified>Feb. 26, 2017, 10:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="73277">
+      <result code="1">1</result>
+      <band id="5651">Selby Town</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="168436">
+      <result code="2">2</result>
+      <band id="6615">East Hull</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="168437">
+      <result code="3">3</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="311386">G. White</conductor>
+    </result>
+    
+    <result id="168435">
+      <result code="4">4</result>
+      <band id="7973">Barton Excelsior</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="168438">
+      <result code="4">4</result>
+      <band id="6801">Scarborough Borough</band>
+      <conductor id="297739">J. Bell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

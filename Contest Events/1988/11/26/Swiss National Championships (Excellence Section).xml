@@ -1,0 +1,54 @@
+<contest-event id="1199">
+  <event-date date="1988-11-26">Nov. 26, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="166">Trittico</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>Held from late 80ies for a few Years in Casino, Montreux - but no Details to confirm so far and which Sections (all?) were concerned.</notes>
+
+  <created>Oct. 29, 2009, 10:22 a.m.</created>
+  <last-modified>April 5, 2016, 7:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="12738">
+      <result code="1">1</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="303775">Yves Illi</conductor>
+    </result>
+    
+    <result id="116560">
+      <result code="2">2</result>
+      <band id="56">Brass Band Berner Oberland</band>
+      <conductor id="297290">Markus Bach</conductor>
+    </result>
+    
+    <result id="127523">
+      <result code="3">3</result>
+      <band id="1207">Brass Band Bienne</band>
+      <conductor id="300814">Pascal Eicher</conductor>
+    </result>
+    
+    <result id="127524">
+      <result code="4">4</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+  </results>
+</contest-event>

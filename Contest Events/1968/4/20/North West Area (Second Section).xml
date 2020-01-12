@@ -1,0 +1,66 @@
+<contest-event id="3951">
+  <event-date date="1968-4-20">April 20, 1968<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Second Section)</name>
+  <contest id="23">
+    <name>North West Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="142">Vizcaya</test-piece>
+  </test-piece>
+
+  <venue id="26">Radisson Blu Edwardian Manchester Hotel, Manchester, Greater Manchester, England, UK</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Feb. 8, 2011, 5:46 a.m.</created>
+  <last-modified>May 13, 2015, 1:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="35125">
+      <result code="1">1</result>
+      <band id="1000">Greenway Selectus Band</band>
+      <conductor id="302077">Edward Gray</conductor>
+    </result>
+    
+    <result id="209847">
+      <result code="2">2</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310825">E. Vint</conductor>
+    </result>
+    
+    <result id="209848">
+      <result code="3">3</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="306885">Harry Oakes</conductor>
+    </result>
+    
+    <result id="209850">
+      <result code="">Unknown Result</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="308212">Norman Riley</conductor>
+    </result>
+    
+    <result id="209849">
+      <result code="">Unknown Result</result>
+      <band id="519">Burbage Silver Band</band>
+      <conductor id="303885">G. Jacobs</conductor>
+    </result>
+    
+    <result id="209851">
+      <result code="">Unknown Result</result>
+      <band id="1671">Stretford Band</band>
+      <conductor id="302649">E. R. Harris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

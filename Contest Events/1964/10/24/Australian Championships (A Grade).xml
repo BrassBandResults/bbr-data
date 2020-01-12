@@ -1,0 +1,85 @@
+<contest-event id="33823">
+  <event-date date="1964-10-24">Oct. 24, 1964<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="305">Symphony of Marches</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 29, 2016, 11:19 p.m.</created>
+  <last-modified>March 13, 2018, 10:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="243131">
+      <result code="1">1</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="307467">Harry Philpott</conductor>
+    </result>
+    
+    <result id="243123">
+      <result code="2">2</result>
+      <band id="11213">Bexley District (NSW)</band>
+      <conductor id="297913">Charles Bignall</conductor>
+      <test-piece id="1343">Wuthering Heights</test-piece>
+    </result>
+    
+    <result id="243133">
+      <result code="3">3</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="309334">Charles Smith</conductor>
+    </result>
+    
+    <result id="243125">
+      <result code="4">4</result>
+      <band id="1313">Footscray Yarraville City Band</band>
+      <conductor id="298970">Tom Campbell</conductor>
+    </result>
+    
+    <result id="243208">
+      <result code="5">5</result>
+      <band id="698">Kensington &amp; Norwood Brass</band>
+      <conductor id="309759">Herb Stevens</conductor>
+    </result>
+    
+    <result id="243136">
+      <result code="6">6</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="310736">Norman Uren</conductor>
+    </result>
+    
+    <result id="243128">
+      <result code="7">7</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+    <result id="243138">
+      <result code="8">8</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="303914">Frank James</conductor>
+    </result>
+    
+    <result id="243139">
+      <result code="9">9</result>
+      <band id="11238">City of Glen Eira</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+  </results>
+</contest-event>

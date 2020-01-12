@@ -1,0 +1,54 @@
+<contest-event id="8413">
+  <event-date date="2006-11-25">Nov. 25, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Fourth Division)</name>
+  <contest id="15">
+    <name>Swiss National Championships (Fourth Division)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-fourth-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="442">Legend in Brass</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Nov. 30, 2011, 8:35 p.m.</created>
+  <last-modified>Aug. 10, 2012, 11:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="74810">
+      <result code="1">1</result>
+      <band id="112">Entlebucher Jugend Brass Band</band>
+      <conductor id="297831">Albert Benz</conductor>
+    </result>
+    
+    <result id="74811">
+      <result code="2">2</result>
+      <band id="1086">Brass Band Frohsinn Laupersdorf</band>
+      <conductor id="309183">Heinz Sinniger</conductor>
+    </result>
+    
+    <result id="74812">
+      <result code="3">3</result>
+      <band id="1080">Brass Band Abinchova</band>
+      <conductor id="310905">Gian Walker</conductor>
+    </result>
+    
+    <result id="74813">
+      <result code="4">4</result>
+      <band id="113">ABM Brass Power Freiamt</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

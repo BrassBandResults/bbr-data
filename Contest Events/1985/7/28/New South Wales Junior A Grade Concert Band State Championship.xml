@@ -1,0 +1,44 @@
+<contest-event id="37123">
+  <event-date date="1985-7-28">July 28, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New South Wales Junior A Grade Concert Band State Championship</name>
+  <contest id="6092">
+    <name>New South Wales Junior A Grade Concert Band State Championships</name>
+    <order>4</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="572">NSW State Band Championships (Wind Band Sections)</group>
+    <slug>new-south-wales-junior-a-grade-concert-b-6092</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="4123">Declaration Overture</test-piece>
+  </test-piece>
+
+  <venue id="6411">Lane Cove  Civic Centre,  New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 13, 2017, 10:50 p.m.</created>
+  <last-modified>Feb. 16, 2017, 9:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="269491">
+      <result code="1">1</result>
+      <band id="15032">Lane Cove Municipal (NSW)</band>
+      <conductor id="305901">Brian McGuinness</conductor>
+      <test-piece id="4190">An Original Suite</test-piece>
+    </result>
+    
+    <result id="269492">
+      <result code="2">2</result>
+      <band id="14633">Knox Grammar School (Wahroonga)</band>
+      <conductor id="315778">Brian Buggy</conductor>
+      <test-piece id="4191">Marvin Hamlish Showcase</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

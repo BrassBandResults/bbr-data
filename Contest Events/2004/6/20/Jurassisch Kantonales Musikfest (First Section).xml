@@ -1,0 +1,49 @@
+<contest-event id="14738">
+  <event-date date="2004-6-20">June 20, 2004<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Jurassisch Kantonales Musikfest (First Section)</name>
+  <contest id="3062">
+    <name>Jurassisch Kantonales Musikfest (First Section)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="302">Jurassisch Kantonales Musikfest</group>
+    <slug>jurassisch-kantonales-musikfest</slug>
+    
+    <notes>None</notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2098">Circius</test-piece>
+  </test-piece>
+
+  <venue id="2371">Saignelégier, JU, Switzerland</venue>
+  <notes></notes>
+
+  <created>Sept. 13, 2012, 4:37 p.m.</created>
+  <last-modified>June 13, 2019, 1:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="115716">
+      <result code="1">1</result>
+      <band id="72">Brass Band Kirchenmusik Flühli</band>
+      <conductor id="302192">Herve Grelat</conductor>
+      <test-piece id="2053">Second Sinfonietta [Balissat]</test-piece>
+    </result>
+    
+    <result id="162729">
+      <result code="2">2</result>
+      <band id="4934">Ensemble de Cuivres la Covatte Coeuve</band>
+      <conductor id="299263">Tony Cheseaux</conductor>
+    </result>
+    
+    <result id="116667">
+      <result code="3">3</result>
+      <band id="7103">La Liberté Salins</band>
+      <conductor id="304738">Yvan Lagger</conductor>
+    </result>
+    
+  </results>
+</contest-event>

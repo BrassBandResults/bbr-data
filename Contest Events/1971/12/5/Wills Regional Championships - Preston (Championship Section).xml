@@ -1,0 +1,49 @@
+<contest-event id="20789">
+  <event-date date="1971-12-5">Dec. 5, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wills Regional Championships - Preston (Championship Section)</name>
+  <contest id="1107">
+    <name>Wills Regional Championships - Preston (Championship Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="201">Wills Regional Championships - Preston</group>
+    <slug>wills-regional-championships-preston-cha-1107</slug>
+    <qualifies-for id="891">Wills Championships Grand Finals (Championship Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="908">Essay [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="383">Public Hall, Preston</venue>
+  <notes>Prizes - 1st £30 and trophy, 2nd £15, 3rd £10.
+3 bands competed.</notes>
+
+  <created>April 24, 2013, 1:18 p.m.</created>
+  <last-modified>June 20, 2016, 9:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="154381">
+      <result code="1">1</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="303605">Mervin Hughes</conductor>
+    </result>
+    
+    <result id="154382">
+      <result code="2">2</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="154383">
+      <result code="3">3</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="303146">Les Hine</conductor>
+    </result>
+    
+  </results>
+</contest-event>

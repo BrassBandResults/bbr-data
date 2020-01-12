@@ -1,0 +1,60 @@
+<contest-event id="13611">
+  <event-date date="1979-2-18">Feb. 18, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oxfordshire &amp; District Brass Band Association Winter Contest (Section A)</name>
+  <contest id="751">
+    <name>Oxfordshire &amp; District BBA Winter Contest (Section A)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="101">Oxfordshire &amp; District BBA Winter Contest</group>
+    <slug>oxfordshire-district-brass-band-winter-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="629">Promenade</test-piece>
+  </test-piece>
+
+  <venue id="2200">Oxford Boys School, Glanville Rd</venue>
+  <notes>Moved at late notice - the programme gives Bayswater School as the location.</notes>
+
+  <created>May 30, 2012, 9:22 p.m.</created>
+  <last-modified>April 11, 2013, 8 a.m.</last-modified>
+
+  <results>
+    
+    <result id="150418">
+      <result code="1">1</result>
+      <band id="472">Brackley and District Band</band>
+      <conductor id="310168">Les Taylor</conductor>
+    </result>
+    
+    <result id="107818">
+      <result code="2">2</result>
+      <band id="1968">Kennington (Oxford)</band>
+      <conductor id="309924">Ron Sudworth</conductor>
+    </result>
+    
+    <result id="107817">
+      <result code="3">3</result>
+      <band id="691">Oxford Concert Brass</band>
+      <conductor id="300754">Cliff Edmunds</conductor>
+    </result>
+    
+    <result id="150420">
+      <result code="">Unknown Result</result>
+      <band id="2118">Yarnton Band</band>
+      <conductor id="311606">David Williams</conductor>
+    </result>
+    
+    <result id="150419">
+      <result code="">Unknown Result</result>
+      <band id="2737">Kidlington Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

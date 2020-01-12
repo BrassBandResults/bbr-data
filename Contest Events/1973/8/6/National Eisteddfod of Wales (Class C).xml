@@ -1,0 +1,48 @@
+<contest-event id="21187">
+  <event-date date="1973-8-6">Aug. 6, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class C)</name>
+  <contest id="3281">
+    <name>National Eisteddfod of Wales (Class C)</name>
+    <order>120</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="602">Passing Moods</test-piece>
+  </test-piece>
+
+  <venue id="3503">Showground, Ruthin, Denbighshire</venue>
+  <notes></notes>
+
+  <created>May 8, 2013, 10:23 a.m.</created>
+  <last-modified>July 16, 2015, 6:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="156469">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156467">
+      <result code="2">2</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="311945">Ernest Woodhouse</conductor>
+    </result>
+    
+    <result id="156471">
+      <result code="3">3</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

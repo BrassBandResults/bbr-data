@@ -1,0 +1,54 @@
+<contest-event id="19065">
+  <event-date date="1997-5-10">May 10, 1997<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (March)</name>
+  <contest id="2276">
+    <name>French Open (March)</name>
+    <order>100</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-march</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4">Amboise, Centre, France</venue>
+  <notes>Information taken from contest programme</notes>
+
+  <created>March 13, 2013, 6:22 a.m.</created>
+  <last-modified>March 13, 2013, 6:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="143204">
+      <result code="1">1</result>
+      <band id="1058">Marple Band</band>
+      <conductor id="300022">Garry Cutt</conductor>
+    </result>
+    
+    <result id="143205">
+      <result code="2">2</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="303966">Chris Jeans</conductor>
+    </result>
+    
+    <result id="143206">
+      <result code="3">3</result>
+      <band id="160">Thurcroft Welfare</band>
+      <conductor id="303314">David Holling</conductor>
+    </result>
+    
+    <result id="143207">
+      <result code="4">4</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="299520">Linda Cole</conductor>
+    </result>
+    
+  </results>
+</contest-event>

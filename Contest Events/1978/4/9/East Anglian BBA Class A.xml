@@ -1,0 +1,49 @@
+<contest-event id="23644">
+  <event-date date="1978-4-9">April 9, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class A</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="409">First Suite in Eb</test-piece>
+  </test-piece>
+
+  <venue id="3935">Staniforth School, Thetford</venue>
+  <notes>
+  Hymn tune contest - 1st Chatteris, 2nd Littleport, 3rd Reepham.</notes>
+
+  <created>Sept. 10, 2013, 3:44 p.m.</created>
+  <last-modified>Feb. 21, 2016, 11:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="173222">
+      <result code="1">1</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="306797">Terry Norman</conductor>
+    </result>
+    
+    <result id="173223">
+      <result code="2">2</result>
+      <band id="1768">Chatteris Town Brass</band>
+      <conductor id="309063">Roy Shilling</conductor>
+    </result>
+    
+    <result id="173224">
+      <result code="3">3</result>
+      <band id="2884">Cromer and Sheringham Brass Band</band>
+      <conductor id="302204">Henry Grice</conductor>
+    </result>
+    
+  </results>
+</contest-event>

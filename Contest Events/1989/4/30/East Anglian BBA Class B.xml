@@ -1,0 +1,48 @@
+<contest-event id="16705">
+  <event-date date="1989-4-30">April 30, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class B</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="553">Voices of Youth</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes></notes>
+
+  <created>Dec. 4, 2012, 12:15 a.m.</created>
+  <last-modified>Dec. 4, 2012, 12:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="128085">
+      <result code="1">1</result>
+      <band id="2472">Wicken Coronation Band</band>
+      <conductor id="298730">Derek Bullman</conductor>
+    </result>
+    
+    <result id="128086">
+      <result code="2">2</result>
+      <band id="1344">Boxted Methodist Silver</band>
+      <conductor id="304497">W. M. Kettle</conductor>
+    </result>
+    
+    <result id="128087">
+      <result code="3">3</result>
+      <band id="832">Newmarket Town Band</band>
+      <conductor id="297305">A. Badcock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

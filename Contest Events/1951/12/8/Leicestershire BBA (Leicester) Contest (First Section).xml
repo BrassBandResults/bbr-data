@@ -1,0 +1,49 @@
+<contest-event id="35705">
+  <event-date date="1951-12-8">Dec. 8, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leicestershire BBA (Leicester) Contest (First Section)</name>
+  <contest id="192">
+    <name>Leicestershire BBA (Leicester) Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="75">Leicestershire Brass Band Association (Leicester) Contest</group>
+    <slug>leicester-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2181">Oadby, Leicestershire, England, UK</venue>
+  <notes>March contest - 1st Wigston, 2nd Snibston.
+5 bands competed.</notes>
+
+  <created>July 11, 2016, 2:39 p.m.</created>
+  <last-modified>March 14, 2019, 1:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259038">
+      <result code="1">1</result>
+      <band id="473">Wigston Band</band>
+      <conductor id="306270">Charles Moore</conductor>
+    </result>
+    
+    <result id="259039">
+      <result code="2">2</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="259040">
+      <result code="">Unknown Result</result>
+      <band id="274">William Davis Construction Group Band</band>
+      <conductor id="297770">J. W. Beniston</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="11336">
+  <event-date date="1907-5-20">May 20, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class A)</name>
+  <contest id="2236">
+    <name>Llandovery Contest (Class A)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>1st prize £12, 2nd prize £6, 3rd prize £3.
+4 bands competed.</notes>
+
+  <created>March 21, 2012, 4:29 p.m.</created>
+  <last-modified>Sept. 18, 2018, 8:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="93421">
+      <result code="1">1</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="93422">
+      <result code="2">2</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="93423">
+      <result code="3">3</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">D. Williams</conductor>
+    </result>
+    
+    <result id="93424">
+      <result code="4">4</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="318324">Morgan Jenkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

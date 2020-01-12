@@ -1,0 +1,48 @@
+<contest-event id="18964">
+  <event-date date="1965-11-6">Nov. 6, 1965<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class B)</name>
+  <contest id="4007">
+    <name>West Wales BBA Contest (Class B)</name>
+    <order>220</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3203">Cwmtwrch, Glamorgan</venue>
+  <notes></notes>
+
+  <created>March 8, 2013, noon</created>
+  <last-modified>March 8, 2013, 12:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="142101">
+      <result code="1">1</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="304282">T. Jones</conductor>
+    </result>
+    
+    <result id="142102">
+      <result code="2">2</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="300189">W. B. Davies</conductor>
+    </result>
+    
+    <result id="142103">
+      <result code="3">3</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

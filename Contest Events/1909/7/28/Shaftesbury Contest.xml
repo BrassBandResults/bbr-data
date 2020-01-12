@@ -1,0 +1,70 @@
+<contest-event id="15860">
+  <event-date date="1909-7-28">July 28, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shaftesbury Contest</name>
+  <contest id="3429">
+    <name>Shaftesbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shaftesbury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1280">A Continental Tour</test-piece>
+  </test-piece>
+
+  <venue id="2622">Coombe Park, Shaftesbury, Dorset</venue>
+  <notes>
+
+  Prizes 1st £10, 2nd £5, 3rd £3 and 4th £2 divided between Bruton Excelsior and Bishopston.
+
+  6 bands competed.</notes>
+
+  <created>Nov. 6, 2012, 10:24 a.m.</created>
+  <last-modified>Nov. 6, 2012, 10:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="122327">
+      <result code="1">1</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="122328">
+      <result code="2">2</result>
+      <band id="6802">Broad Chalke</band>
+      <conductor id="302322">F. Gurd</conductor>
+    </result>
+    
+    <result id="122330">
+      <result code="3">3</result>
+      <band id="12447">Bishopstone Brass</band>
+      <conductor id="300851">F. J. Elliott</conductor>
+    </result>
+    
+    <result id="122329">
+      <result code="3">3</result>
+      <band id="9860">Bruton Excelsior</band>
+      <conductor id="299171">A. J. Chaffrey</conductor>
+    </result>
+    
+    <result id="122331">
+      <result code="">Unknown Result</result>
+      <band id="9861">Bourton [Dorset]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122332">
+      <result code="">Unknown Result</result>
+      <band id="8690">Branksome &amp; Parkstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

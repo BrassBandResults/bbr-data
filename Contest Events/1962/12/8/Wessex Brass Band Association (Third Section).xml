@@ -1,0 +1,55 @@
+<contest-event id="34649">
+  <event-date date="1962-12-8">Dec. 8, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Third Section)</name>
+  <contest id="172">
+    <name>Wessex Brass Band Association (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="127">Salzburg Suite</test-piece>
+  </test-piece>
+
+  <venue id="6133">Winter Gardens, Bournemouth [existed 1937-2006]</venue>
+  <notes>March contest - 1st Gillingham, 2nd Shrewton.
+Hymn tune contest - 1st Gillingham, 2nd Michelmersh.</notes>
+
+  <created>March 17, 2016, 1:12 p.m.</created>
+  <last-modified>Feb. 9, 2017, 8:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="249865">
+      <result code="1">1</result>
+      <band id="325">Shrewton Silver</band>
+      <conductor id="311846">Arthur Withers</conductor>
+    </result>
+    
+    <result id="249866">
+      <result code="2">2</result>
+      <band id="536">Gillingham Imperial Silver Band</band>
+      <conductor id="299035">R. Carr</conductor>
+    </result>
+    
+    <result id="249867">
+      <result code="3">3</result>
+      <band id="1536">Solent Brass</band>
+      <conductor id="307076">W. Palmer</conductor>
+    </result>
+    
+    <result id="249868">
+      <result code="4">4</result>
+      <band id="524">Michelmersh Silver Band</band>
+      <conductor id="307177">W. A. T. Parsons</conductor>
+    </result>
+    
+  </results>
+</contest-event>

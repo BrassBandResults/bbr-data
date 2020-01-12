@@ -1,0 +1,54 @@
+<contest-event id="20462">
+  <event-date date="1956-7-7">July 7, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Weymouth Contest (Section 2)</name>
+  <contest id="4032">
+    <name>Weymouth Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="401">Weymouth Contest</group>
+    <slug>weymouth-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1040">John Peel Suite</test-piece>
+  </test-piece>
+
+  <venue id="3250">Pier Bandstand, Weymouth, Dorset</venue>
+  <notes>  4 bands competed</notes>
+
+  <created>April 12, 2013, 7 a.m.</created>
+  <last-modified>April 12, 2013, 7:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="151782">
+      <result code="1">1</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="302199">Horace Grey</conductor>
+    </result>
+    
+    <result id="151783">
+      <result code="2">2</result>
+      <band id="379">Wincanton Silver Band</band>
+      <conductor id="301819">R. W. Gilham</conductor>
+    </result>
+    
+    <result id="151784">
+      <result code="3">3</result>
+      <band id="3000">Crewkerne Town Band</band>
+      <conductor id="298556">Stanley C. Brooks</conductor>
+    </result>
+    
+    <result id="151785">
+      <result code="4">4</result>
+      <band id="5952">Yeovil Workmen&#39;s Silver</band>
+      <conductor id="306969">A. Osborne</conductor>
+    </result>
+    
+  </results>
+</contest-event>

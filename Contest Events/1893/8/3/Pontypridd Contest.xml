@@ -1,0 +1,68 @@
+<contest-event id="7003">
+  <event-date date="1893-8-3">Aug. 3, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest</name>
+  <contest id="1211">
+    <name>Pontypridd Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1277">Weber [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>National Eisteddfod contest.
+Best cornet: Llanelly
+3 bands competed</notes>
+
+  <created>Aug. 13, 2011, 11:35 a.m.</created>
+  <last-modified>June 8, 2019, 10:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="61847">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="61848">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="61849">
+      <result code="3">3</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="308620">James Ryan</conductor>
+    </result>
+    
+    <result id="263051">
+      <result code="W">Withdrawn</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="263052">
+      <result code="W">Withdrawn</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="263049">
+      <result code="W">Withdrawn</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

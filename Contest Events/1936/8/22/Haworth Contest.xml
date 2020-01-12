@@ -1,0 +1,93 @@
+<contest-event id="26105">
+  <event-date date="1936-8-22">Aug. 22, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haworth Contest</name>
+  <contest id="1689">
+    <name>Haworth Contest</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1362">I Due Foscari</test-piece>
+  </test-piece>
+
+  <venue id="1194">Central Park, Haworth, Yorkshire</venue>
+  <notes>10 bands entered, 8 competed.
+Prizes: £12, £8, £4, £2
+March: 1. Hade Edge, 2. Yorkshire Copper Works
+Hymn: 1. Thorne, 2. Sowerby</notes>
+
+  <created>Jan. 23, 2014, 4:21 p.m.</created>
+  <last-modified>Jan. 14, 2019, 5 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188952">
+      <result code="1">1</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="188953">
+      <result code="2">2</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="188954">
+      <result code="3">3</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="309668">Pierre Stapleton</conductor>
+    </result>
+    
+    <result id="188955">
+      <result code="4">4</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="303403">
+      <result code="">Unknown Result</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303404">
+      <result code="">Unknown Result</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188957">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="311918">Willie Wood</conductor>
+    </result>
+    
+    <result id="188956">
+      <result code="">Unknown Result</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="300855">Joseph Elliott</conductor>
+    </result>
+    
+    <result id="188958">
+      <result code="W">Withdrawn</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188959">
+      <result code="W">Withdrawn</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,73 @@
+<contest-event id="25289">
+  <event-date date="1939-8-26">Aug. 26, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scunthorpe Contest</name>
+  <contest id="1395">
+    <name>Scunthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>scunthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1368">Recollections of Weber</test-piece>
+  </test-piece>
+
+  <venue id="1985">Brumby Hall Park, Scunthorpe</venue>
+  <notes>  March contest - 1st Ransome and Marles, 2nd Ashby Public.
+  7 bands competed.</notes>
+
+  <created>Nov. 26, 2013, 8:14 a.m.</created>
+  <last-modified>Jan. 30, 2014, 2:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184191">
+      <result code="1">1</result>
+      <band id="117">Ransome Band</band>
+      <conductor id="297181">David Aspinall</conductor>
+    </result>
+    
+    <result id="184192">
+      <result code="2">2</result>
+      <band id="10722">Ashby Public Subscription</band>
+      <conductor id="304446">William H. Kendall</conductor>
+    </result>
+    
+    <result id="184193">
+      <result code="">Unknown Result</result>
+      <band id="911">Barnetby Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184195">
+      <result code="">Unknown Result</result>
+      <band id="319">Barton Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184196">
+      <result code="">Unknown Result</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184194">
+      <result code="">Unknown Result</result>
+      <band id="4601">Normanby Park Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184197">
+      <result code="">Unknown Result</result>
+      <band id="2681">Waltham British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

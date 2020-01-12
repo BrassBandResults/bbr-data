@@ -1,0 +1,48 @@
+<contest-event id="13398">
+  <event-date date="1898-1-1">Jan. 1, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brynamman Contest</name>
+  <contest id="2824">
+    <name>Brynamman Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brynamman-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2011">Brynamman, Glamorgan</venue>
+  <notes></notes>
+
+  <created>May 11, 2012, 6:02 p.m.</created>
+  <last-modified>Oct. 24, 2012, 10:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106234">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="302535">George Hannay</conductor>
+    </result>
+    
+    <result id="106235">
+      <result code="1">1</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="306328">C. Morgan</conductor>
+    </result>
+    
+    <result id="106236">
+      <result code="3">3</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="318146">Theo Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

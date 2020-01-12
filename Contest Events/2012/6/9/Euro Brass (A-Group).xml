@@ -1,0 +1,62 @@
+<contest-event id="6696">
+  <event-date date="2012-6-9">June 9, 2012<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Euro Brass (A-Group)</name>
+  <contest id="273">
+    <name>Euro Brass (A-Group)</name>
+    <order>100</order>
+    <contest-type id="24">Own Choice and Entertainments Contest</contest-type>
+    <group id="553">Dutch Open</group>
+    <slug>euro-brass-a-group</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="10">Set Test and Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="127">De Lawei, Drachten, Friesland, Netherlands</venue>
+  <notes>Beste programma (zaterdag): 	De Bazuin Oenkerk	 	 	 
+Beste groot (keuze)werk: 	Brassband Schoonhoven	 	 	 
+Beste solist: 	Brassband Schoonhoven</notes>
+
+  <created>June 29, 2011, 12:02 p.m.</created>
+  <last-modified>July 11, 2012, 9:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106083">
+      <result code="1">1</result>
+      <band id="1326">Brass Band Schoonhoven</band>
+      <conductor id="303938">Erik Janssen</conductor>
+    </result>
+    
+    <result id="106084">
+      <result code="2">2</result>
+      <band id="772">De Bazuin Oenkerk</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106085">
+      <result code="3">3</result>
+      <band id="989">Brass Band De Wâldsang</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106086">
+      <result code="4">4</result>
+      <band id="1223">Provinciale Brass Band Groningen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106082">
+      <result code="5">5</result>
+      <band id="1235">Amsterdam Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

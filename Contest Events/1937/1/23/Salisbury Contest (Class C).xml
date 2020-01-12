@@ -1,0 +1,69 @@
+<contest-event id="37492">
+  <event-date date="1937-1-23">Jan. 23, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Salisbury Contest (Class C)</name>
+  <contest id="2841">
+    <name>Salisbury Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="434">Salisbury Contest</group>
+    <slug>salisbury-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2735">Round the Camp Fire</test-piece>
+  </test-piece>
+
+  <venue id="4847">Victoria Hall, Salisbury, Wiltshire</venue>
+  <notes>Hymn tune contest - 1st Market Lavington, 2nd Peasedown, 3rd Woodfalls Junior.
+Best cornet and euphonium - Peasedown.
+Best soprano - Winsham.
+6 bands competed.</notes>
+
+  <created>March 10, 2017, 4:04 p.m.</created>
+  <last-modified>March 10, 2017, 4:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="271101">
+      <result code="1">1</result>
+      <band id="11535">Peasedown Silver</band>
+      <conductor id="300345">E. J. Derrick</conductor>
+    </result>
+    
+    <result id="271102">
+      <result code="2">2</result>
+      <band id="8378">Beaminster Brass</band>
+      <conductor id="299541">F. L. Collins</conductor>
+    </result>
+    
+    <result id="271103">
+      <result code="3">3</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="302122">E. Green</conductor>
+    </result>
+    
+    <result id="271106">
+      <result code="">Unknown Result</result>
+      <band id="6808">Fovant</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="271104">
+      <result code="">Unknown Result</result>
+      <band id="8403">Market Lavington</band>
+      <conductor id="306055">J. H. Merritt</conductor>
+    </result>
+    
+    <result id="271105">
+      <result code="">Unknown Result</result>
+      <band id="9677">Winsham Coronation</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

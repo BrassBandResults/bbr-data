@@ -1,0 +1,48 @@
+<contest-event id="19811">
+  <event-date date="1970-12-13">Dec. 13, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wills Regional Championships - Plymouth (Championship Section)</name>
+  <contest id="1085">
+    <name>Wills Regional Championships - Plymouth (Championship Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="205">Wills Regional Championships - Plymouth</group>
+    <slug>wills-regional-championships-plymouth-ch-1085</slug>
+    <qualifies-for id="891">Wills Championships Grand Finals (Championship Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="980">Embassy Suite</test-piece>
+  </test-piece>
+
+  <venue id="1798">The Guildhall, Plymouth</venue>
+  <notes></notes>
+
+  <created>March 27, 2013, 12:11 p.m.</created>
+  <last-modified>Nov. 27, 2016, 8:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="148186">
+      <result code="1">1</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="308279">Fred Roberts</conductor>
+    </result>
+    
+    <result id="148187">
+      <result code="2">2</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="297861">John Berryman</conductor>
+    </result>
+    
+    <result id="148188">
+      <result code="3">3</result>
+      <band id="284">Bournemouth Concert Brass</band>
+      <conductor id="310323">E. Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

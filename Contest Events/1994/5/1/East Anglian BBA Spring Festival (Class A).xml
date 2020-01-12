@@ -1,0 +1,54 @@
+<contest-event id="31310">
+  <event-date date="1994-5-1">May 1, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class A)</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="293">Oceans</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune - 1st Colchester.</notes>
+
+  <created>March 9, 2015, 12:15 p.m.</created>
+  <last-modified>March 9, 2015, 12:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="222833">
+      <result code="1">1</result>
+      <band id="606">Colchester Band</band>
+      <conductor id="303480">Robert Howard</conductor>
+    </result>
+    
+    <result id="222834">
+      <result code="2">2</result>
+      <band id="864">Spalding Brass</band>
+      <conductor id="303792">Steve Ingham</conductor>
+    </result>
+    
+    <result id="222835">
+      <result code="3">3</result>
+      <band id="637">Hilgay Silver</band>
+      <conductor id="299370">Andrew Clarke</conductor>
+    </result>
+    
+    <result id="225228">
+      <result code="">Unknown Result</result>
+      <band id="2884">Cromer and Sheringham Brass Band</band>
+      <conductor id="306825">David Notley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,44 @@
+<contest-event id="6088">
+  <event-date date="1902-7-8">July 8, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Buckley Contest</name>
+  <contest id="1020">
+    <name>Buckley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>buckley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  
+  <notes>Prizes - 1st £25, 2nd £10.
+March contest also held, won by Buckley.  Wyke did not compete.
+2 bands competed.</notes>
+
+  <created>May 21, 2011, 4:04 p.m.</created>
+  <last-modified>July 6, 2018, 6:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="53579">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="53580">
+      <result code="2">2</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="301860">E. Gittins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

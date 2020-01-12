@@ -1,0 +1,98 @@
+<contest-event id="10009">
+  <event-date date="1905-5-6">May 6, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Otley Contest</name>
+  <contest id="1407">
+    <name>Otley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>otley-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1643">Gems of Irish Melody</test-piece>
+  </test-piece>
+
+  <venue id="917">Otley</venue>
+  <notes>14 bands entered, 11 bands competed 
+
+ 1st prize £10 and cup.
+  2nd prize £7.10s.
+  3rd prize £6.
+  4th prize £4.10s.
+  5th prize £3.10s.
+  6th prize £2.
+  7th prize £1.10s.</notes>
+
+  <created>Feb. 5, 2012, 3:37 p.m.</created>
+  <last-modified>May 29, 2014, 3:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84826">
+      <result code="1">1</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="84827">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="84828">
+      <result code="3">3</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="84829">
+      <result code="4">4</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="84830">
+      <result code="5">5</result>
+      <band id="894">Earby Band</band>
+      <conductor id="308609">W. Ruston</conductor>
+    </result>
+    
+    <result id="84831">
+      <result code="6">6</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="84832">
+      <result code="7">7</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+    <result id="84834">
+      <result code="">Unknown Result</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84835">
+      <result code="">Unknown Result</result>
+      <band id="6614">Pudsey Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84833">
+      <result code="">Unknown Result</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

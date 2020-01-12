@@ -1,0 +1,51 @@
+<contest-event id="2433">
+  <event-date date="2001-5-4">May 4, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>European Brass Band Championships (1st Section)</name>
+  <contest id="86">
+    <name>European Championships (Challenge Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="22">European Championships</group>
+    <slug>european-championships-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="505">Symphonic  Music</test-piece>
+  </test-piece>
+
+  <venue id="1026">Music and Convention Centre (Auditorium Stravinski), Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 28, 2010, 8:44 p.m.</created>
+  <last-modified>Dec. 11, 2011, 4:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76770">
+      <result code="1">1</result>
+      <band id="70">Ensemble de Cuivres Euphonia</band>
+      <conductor id="308785">Adrian Schneider</conductor>
+      <test-piece id="18">Contest Music</test-piece>
+    </result>
+    
+    <result id="76771">
+      <result code="2">2</result>
+      <band id="241">Hauts-de-France Brass Band</band>
+      <conductor id="305281">Philippe Lorthois</conductor>
+      <test-piece id="327">Stonehenge</test-piece>
+    </result>
+    
+    <result id="26555">
+      <result code="3">3</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="298162">John Bonner</conductor>
+      <test-piece id="42">Pageantry</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

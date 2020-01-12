@@ -1,0 +1,44 @@
+<contest-event id="216">
+  <event-date date="2008-11-30">Nov. 30, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="58">James Cook, Circumnavigator</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>April 14, 2009, 6:47 p.m.</created>
+  <last-modified>Dec. 11, 2013, 11:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="3140">
+      <result code="1">1</result>
+      <band id="677">Brass Band Heist</band>
+      <conductor id="310249">Bert van Thienen</conductor>
+      <test-piece id="94">Concerto for Band [Golland]</test-piece>
+    </result>
+    
+    <result id="3141">
+      <result code="2">2</result>
+      <band id="678">Brassband Zele</band>
+      <conductor id="312212">Bart van der Strieckt</conductor>
+      <test-piece id="79">Diversions on a Bass Theme</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

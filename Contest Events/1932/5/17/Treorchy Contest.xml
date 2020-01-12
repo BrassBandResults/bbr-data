@@ -1,0 +1,67 @@
+<contest-event id="24813">
+  <event-date date="1932-5-17">May 17, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treorchy Contest</name>
+  <contest id="2180">
+    <name>Treorchy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treorchy-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1055">Recollections of Wallace</test-piece>
+  </test-piece>
+
+  <venue id="2601">Ambulance Hall, Treorchy, Glamorgan</venue>
+  <notes>March contest - 1st Hirwaun, 2nd Oakdale.
+  6 bands competed.</notes>
+
+  <created>Nov. 1, 2013, 11:42 p.m.</created>
+  <last-modified>Dec. 20, 2018, 6:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181410">
+      <result code="1">1</result>
+      <band id="787">Oakdale Silver Band</band>
+      <conductor id="307146">David Parr</conductor>
+    </result>
+    
+    <result id="181411">
+      <result code="2">2</result>
+      <band id="9782">Hirwaun Welfare Town</band>
+      <conductor id="300768">D. J. Edwards</conductor>
+    </result>
+    
+    <result id="181412">
+      <result code="3">3</result>
+      <band id="8418">Abergorchy</band>
+      <conductor id="300965">Abe Evans</conductor>
+    </result>
+    
+    <result id="181413">
+      <result code="4">4</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="304040">M. Jeremiah</conductor>
+    </result>
+    
+    <result id="181415">
+      <result code="">Unknown Result</result>
+      <band id="9663">Cefn Forest</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181414">
+      <result code="">Unknown Result</result>
+      <band id="311">Treherbert &amp; District Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

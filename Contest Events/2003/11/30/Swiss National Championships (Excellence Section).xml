@@ -1,0 +1,90 @@
+<contest-event id="20">
+  <event-date date="2003-11-30">Nov. 30, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="21">Land&#39;s End</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Feb. 27, 2009, 5:06 p.m.</created>
+  <last-modified>Nov. 29, 2018, 3:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="304">
+      <result code="1">1</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="311493">Ludwig Wicki</conductor>
+    </result>
+    
+    <result id="305">
+      <result code="2">2</result>
+      <band id="57">Brass Band Fribourg</band>
+      <conductor id="300579">Arsène Duc</conductor>
+    </result>
+    
+    <result id="306">
+      <result code="3">3</result>
+      <band id="60">Entlebucher Brass Band</band>
+      <conductor id="297292">Philippe Bach</conductor>
+    </result>
+    
+    <result id="307">
+      <result code="4">4</result>
+      <band id="56">Brass Band Berner Oberland</band>
+      <conductor id="297402">Carlo Balmelli</conductor>
+    </result>
+    
+    <result id="308">
+      <result code="5">5</result>
+      <band id="67">Ensemble de Cuivres Valaisan</band>
+      <conductor id="303963">Christophe Jeanbourquin</conductor>
+    </result>
+    
+    <result id="309">
+      <result code="6">6</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="307124">Peter Parkes</conductor>
+    </result>
+    
+    <result id="310">
+      <result code="7">7</result>
+      <band id="59">Ensemble de Cuivres Melodia</band>
+      <conductor id="304738">Yvan Lagger</conductor>
+    </result>
+    
+    <result id="311">
+      <result code="8">8</result>
+      <band id="58">Oberaargauer Brass Band</band>
+      <conductor id="297293">Armin Bachmann</conductor>
+    </result>
+    
+    <result id="312">
+      <result code="9">9</result>
+      <band id="68">Ensemble de Cuivres Jurassien</band>
+      <conductor id="303761">Blaise Héritier</conductor>
+    </result>
+    
+    <result id="313">
+      <result code="10">10</result>
+      <band id="61">Musikgesellschaft Risch-Rotkreuz</band>
+      <conductor id="298995">Remo Capra</conductor>
+    </result>
+    
+  </results>
+</contest-event>

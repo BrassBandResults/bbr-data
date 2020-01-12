@@ -1,0 +1,80 @@
+<contest-event id="12024">
+  <event-date date="1894-6-2">June 2, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haydon Bridge Contest</name>
+  <contest id="2307">
+    <name>Haydon Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haydon-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1668">Haydon Bridge, Northumberland, England, UK</venue>
+  <notes>Prizes: £15, £10, £7, £3.
+Brass Band News(July 1894) gives 3rd place result as Ashington Colliery, but article from correspondent states it was Ashington Model.
+5 bands competed</notes>
+
+  <created>April 8, 2012, 9:57 p.m.</created>
+  <last-modified>Nov. 26, 2019, 12:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96624">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="96625">
+      <result code="2">2</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="96626">
+      <result code="3">3</result>
+      <band id="4510">Ashington Model</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="96627">
+      <result code="4">4</result>
+      <band id="6302">Carlisle Artillery</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="96628">
+      <result code="5">5</result>
+      <band id="6694">South Shields Harmonic</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="145491">
+      <result code="W">Withdrawn</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145490">
+      <result code="W">Withdrawn</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145489">
+      <result code="W">Withdrawn</result>
+      <band id="7628">Walbottle Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,50 @@
+<contest-event id="40355">
+  <event-date date="1951-3-23">March 23, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (D Grade)</name>
+  <contest id="1710">
+    <name>Queensland State Brass Band Championship (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1093">Cosi Fan Tutte [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="7037">Townsville Showground, Queensland, Australia</venue>
+  <notes>Marching Events  :Street / Square March points listed under STAGE MARCH
+
+Oval March name changed to Square March</notes>
+
+  <created>Sept. 24, 2018, 5:29 a.m.</created>
+  <last-modified>March 25, 2019, 3:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293600">
+      <result code="1">1</result>
+      <band id="9363">Mount Isa Silver Band</band>
+      <conductor id="318330">Clarrie Downey</conductor>
+    </result>
+    
+    <result id="293601">
+      <result code="2">2</result>
+      <band id="13842">Innisfail Citizens</band>
+      <conductor id="317706">Jerry Passmore</conductor>
+    </result>
+    
+    <result id="293602">
+      <result code="W">Withdrawn</result>
+      <band id="13821">Rockhampton Federal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,96 @@
+<contest-event id="3956">
+  <event-date date="1962-3-3">March 3, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Second Section)</name>
+  <contest id="23">
+    <name>North West Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="777">Peter Schmoll</test-piece>
+  </test-piece>
+
+  <venue id="384">King George&#39;s Hall, Blackburn</venue>
+  <notes></notes>
+
+  <created>Feb. 8, 2011, 11:14 a.m.</created>
+  <last-modified>Feb. 8, 2011, 11:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="35144">
+      <result code="1">1</result>
+      <band id="2551">Storeys of Lancaster Band</band>
+      <conductor id="298632">Arthur Brownbill</conductor>
+    </result>
+    
+    <result id="35152">
+      <result code="2">2</result>
+      <band id="1671">Stretford Band</band>
+      <conductor id="296845">H. Aldcroft</conductor>
+    </result>
+    
+    <result id="35148">
+      <result code="3">3</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="301697">Frederick Lonsdale Garth</conductor>
+    </result>
+    
+    <result id="35150">
+      <result code="4">4</result>
+      <band id="2558">Peak Dale Public</band>
+      <conductor id="302437">Reginald Hallam</conductor>
+    </result>
+    
+    <result id="35149">
+      <result code="">Unknown Result</result>
+      <band id="1691">ICI (Alkali)</band>
+      <conductor id="306421">Alex Mortimer</conductor>
+    </result>
+    
+    <result id="35153">
+      <result code="">Unknown Result</result>
+      <band id="2581">Summers&#39; Steel Works</band>
+      <conductor id="307157">Herbert Parry</conductor>
+    </result>
+    
+    <result id="35147">
+      <result code="">Unknown Result</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="311448">Stanley Whiteman</conductor>
+    </result>
+    
+    <result id="35154">
+      <result code="">Unknown Result</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="305095">Clifford Lightbown</conductor>
+    </result>
+    
+    <result id="35145">
+      <result code="W">Withdrawn</result>
+      <band id="660">Carlisle St. Stephens Band</band>
+      <conductor id="305327">Cyril Lowes</conductor>
+    </result>
+    
+    <result id="35146">
+      <result code="W">Withdrawn</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="309347">Denis Smith</conductor>
+    </result>
+    
+    <result id="35151">
+      <result code="W">Withdrawn</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="306351">Robert Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="30216">
+  <event-date date="1990-3-3">March 3, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (3rd Section)</name>
+  <contest id="3630">
+    <name>Cornwall BBA Contest (3rd Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-3rd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="347">St. Michael&#39;s Mount</test-piece>
+  </test-piece>
+
+  <venue id="2741">Capitol Theatre, St. Austell</venue>
+  <notes>Best instrumentalist - Tracy Gill (cornet) Hayle.</notes>
+
+  <created>Nov. 10, 2014, 4:49 p.m.</created>
+  <last-modified>Nov. 10, 2014, 4:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213769">
+      <result code="1">1</result>
+      <band id="8612">Hayle Silver</band>
+      <conductor id="308933">John Sharman</conductor>
+    </result>
+    
+    <result id="213770">
+      <result code="2">2</result>
+      <band id="563">Porthleven Town Band</band>
+      <conductor id="307887">E. F. Ralph</conductor>
+    </result>
+    
+    <result id="213772">
+      <result code="3">3</result>
+      <band id="550">Launceston Town Band</band>
+      <conductor id="299164">Nick Chadd</conductor>
+    </result>
+    
+  </results>
+</contest-event>

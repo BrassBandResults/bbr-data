@@ -1,0 +1,89 @@
+<contest-event id="23989">
+  <event-date date="1927-7-30">July 30, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Worksop Contest</name>
+  <contest id="2707">
+    <name>Worksop Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>worksop-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2062">Worksop, Nottinghamshire</venue>
+  <notes>Promoted by Worksop Silver Prize Band
+
+  Prizes 1st £10 and cup, 2nd £7 and shield, 3rd £4, 4th £2.
+  March contest - 1st(£1.10s.) Pleasley , 2nd (£1) Yorkshire Main, 3rd Bentley.
+  3rd annual contest.
+  9 bands competed.</notes>
+
+  <created>Sept. 23, 2013, 12:26 p.m.</created>
+  <last-modified>March 16, 2018, 4:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="175334">
+      <result code="1">1</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="296936">Thomas Allsopp</conductor>
+    </result>
+    
+    <result id="175335">
+      <result code="2">2</result>
+      <band id="512">Pleasley Colliery Welfare Band</band>
+      <conductor id="304761">Bert Lambeth</conductor>
+    </result>
+    
+    <result id="175336">
+      <result code="3">3</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">T. Hunter</conductor>
+    </result>
+    
+    <result id="175337">
+      <result code="4">4</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="175338">
+      <result code="5">5</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="312007">W. Wormald</conductor>
+    </result>
+    
+    <result id="175339">
+      <result code="">Unknown Result</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175340">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175341">
+      <result code="">Unknown Result</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175342">
+      <result code="">Unknown Result</result>
+      <band id="8411">Whitwell British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

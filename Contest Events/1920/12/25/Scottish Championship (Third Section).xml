@@ -1,0 +1,88 @@
+<contest-event id="7448">
+  <event-date date="1920-12-25">Dec. 25, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1338">Gems from Maritana</test-piece>
+  </test-piece>
+
+  <venue id="1">Adam Smith Theatre, Kirkcaldy, Fife, Scotland, UK</venue>
+  <notes>11 bands played.
+
+Original decision hotly disputed (contest was held on 27/11/1920 in St Margaret&#39;s Hall Dunfermline, winners Lassodie, Balgonie and Leven); contest re-held. 2nd decision shown.
+
+Newspaper report in the Sunday Post 26/12/1920, gives Rosyth as 4th place, and the conductor of Bowhill as J.B. Huggins, and that of Balgonie as John Haldane</notes>
+
+  <created>Oct. 4, 2011, 10:16 a.m.</created>
+  <last-modified>Aug. 7, 2013, 10:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="67248">
+      <result code="1">1</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="304130">F. Johnston</conductor>
+    </result>
+    
+    <result id="67249">
+      <result code="2">2</result>
+      <band id="664">Shotts St Patrick&#39;s Brass</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="67250">
+      <result code="3">3</result>
+      <band id="5480">Balgonie Colliery</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="67251">
+      <result code="4">4</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="67252">
+      <result code="5">5</result>
+      <band id="5232">Blackbraes</band>
+      <conductor id="303572">G.V. Huggins</conductor>
+    </result>
+    
+    <result id="67253">
+      <result code="5">5</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="67254">
+      <result code="">Unknown Result</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67255">
+      <result code="">Unknown Result</result>
+      <band id="5481">Leven Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67256">
+      <result code="">Unknown Result</result>
+      <band id="5506">Rosyth</band>
+      <conductor id="301402">G. B. Forrester</conductor>
+    </result>
+    
+  </results>
+</contest-event>

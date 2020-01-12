@@ -1,0 +1,84 @@
+<contest-event id="37473">
+  <event-date date="1901-8-31">Aug. 31, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bellshill Contest</name>
+  <contest id="1821">
+    <name>Bellshill Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="233">Bellshill Contest</group>
+    <slug>bellshill-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2582">Songs of Shakespeare</test-piece>
+  </test-piece>
+
+  <venue id="3549">Thorn Farm, Bellshill, Lanarkshire</venue>
+  <notes>March contest: 1. Milnwood, 2. Larkhall, 3. Bo&#39;ness</notes>
+
+  <created>March 8, 2017, 8:52 a.m.</created>
+  <last-modified>March 8, 2017, 4:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="271002">
+      <result code="1">1</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="271009">
+      <result code="2">2</result>
+      <band id="1988">Cleland</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="271008">
+      <result code="3">3</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="271003">
+      <result code="4">4</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="271004">
+      <result code="">Unknown Result</result>
+      <band id="11318">Larkhall Public</band>
+      <conductor id="297732">Alexander Bell</conductor>
+    </result>
+    
+    <result id="271010">
+      <result code="">Unknown Result</result>
+      <band id="5516">Skinflats</band>
+      <conductor id="297732">Alexander Bell</conductor>
+    </result>
+    
+    <result id="271006">
+      <result code="W">Withdrawn</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="271007">
+      <result code="W">Withdrawn</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">W. Smith</conductor>
+    </result>
+    
+    <result id="271005">
+      <result code="W">Withdrawn</result>
+      <band id="6764">Quarter Colliery</band>
+      <conductor id="297732">Alexander Bell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

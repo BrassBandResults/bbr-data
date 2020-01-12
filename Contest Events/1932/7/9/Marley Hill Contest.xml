@@ -1,0 +1,62 @@
+<contest-event id="23360">
+  <event-date date="1932-7-9">July 9, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marley Hill Contest</name>
+  <contest id="2447">
+    <name>Marley Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marley-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="3929">Marley Hill, County Durham</venue>
+  <notes>Prizes - 1st £8 and cup, 2nd £4, 3rd £2.
+  March contest - 1st(£1) Craghead Colliery, 2nd(10s.) Mickley Colliery.
+  5 bands competed.</notes>
+
+  <created>Sept. 1, 2013, 1:43 p.m.</created>
+  <last-modified>Dec. 7, 2016, 4:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171657">
+      <result code="1">1</result>
+      <band id="2722">Coxlodge Institute Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171658">
+      <result code="1">1</result>
+      <band id="4075">Mickley Collery Workmen&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171659">
+      <result code="3">3</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171661">
+      <result code="">Unknown Result</result>
+      <band id="2637">Consett-Whitbread Trophy</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171660">
+      <result code="">Unknown Result</result>
+      <band id="6693">Marley Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

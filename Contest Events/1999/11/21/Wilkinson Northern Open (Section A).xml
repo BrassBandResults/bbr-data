@@ -1,0 +1,48 @@
+<contest-event id="25215">
+  <event-date date="1999-11-21">Nov. 21, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wilkinson Northern Open (Section A)</name>
+  <contest id="80">
+    <name>Northern Open (Championship/First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="49">Northern Open</group>
+    <slug>wilkinson-northern-open</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="166">Trittico</test-piece>
+  </test-piece>
+
+  <venue id="64">Theatre Royal, St. Helens</venue>
+  <notes></notes>
+
+  <created>Nov. 21, 2013, 9:47 a.m.</created>
+  <last-modified>July 12, 2015, 6:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="201760">
+      <result code="1">1</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="304850">Norman Law</conductor>
+    </result>
+    
+    <result id="231582">
+      <result code="2">2</result>
+      <band id="121">Beaumaris Band</band>
+      <conductor id="300993">Gwyn Evans</conductor>
+    </result>
+    
+    <result id="231583">
+      <result code="3">3</result>
+      <band id="2832">United Co-op Crewe Youth</band>
+      <conductor id="309546">Jef Sparkes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

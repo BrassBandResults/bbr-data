@@ -1,0 +1,80 @@
+<contest-event id="21824">
+  <event-date date="1903-6-1">June 1, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Howden-le-Wear Contest</name>
+  <contest id="1859">
+    <name>Howden-le-Wear Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>howden-le-wear</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1531">Howden-le-Wear, County Durham</venue>
+  <notes>  March contest  -  1st Hebburn, 2rd Cornsay.
+7 bands competed.</notes>
+
+  <created>June 12, 2013, 7:55 p.m.</created>
+  <last-modified>July 27, 2018, 6:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162168">
+      <result code="1">1</result>
+      <band id="6921">Throckley</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="162169">
+      <result code="2">2</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="302802">George Hawkins</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="162170">
+      <result code="3">3</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="301971">Ben Gordon</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="162171">
+      <result code="4">4</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">J. A. Mutton</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="162172">
+      <result code="5">5</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="291749">
+      <result code="6">6</result>
+      <band id="6271">Butterknowle</band>
+      <conductor id="310203">J. Teasdale</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="291750">
+      <result code="7">7</result>
+      <band id="6876">Etherley</band>
+      <conductor id="310203">J. Teasdale</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

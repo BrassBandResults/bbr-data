@@ -1,0 +1,76 @@
+<contest-event id="24478">
+  <event-date date="1929-8-5">Aug. 5, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Riddings Contest</name>
+  <contest id="1827">
+    <name>Riddings Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>riddings-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4124">Riddings Park, Riddings, Derbyshire</venue>
+  <notes>
+  Prizes - 1st £10 and cup, 2nd £7, 3rd £4, 4th £2.
+  March contest (own choice) - 1st(£1) Ripley United, 2nd(10s.) Stanton Ironworks.
+  Promoted by Riddings United Prize Band.
+  7 bands competed.</notes>
+
+  <created>Oct. 10, 2013, 8:34 a.m.</created>
+  <last-modified>Aug. 17, 2016, 9:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="178749">
+      <result code="1">1</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="310654">John Turner</conductor>
+    </result>
+    
+    <result id="178750">
+      <result code="2">2</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="308663">W. J. Saint</conductor>
+    </result>
+    
+    <result id="178751">
+      <result code="3">3</result>
+      <band id="8287">Hardwick Colliery</band>
+      <conductor id="308506">A. Roughton</conductor>
+    </result>
+    
+    <result id="178752">
+      <result code="4">4</result>
+      <band id="1690">Firbeck Colliery</band>
+      <conductor id="304455">H. Kennedy</conductor>
+    </result>
+    
+    <result id="178754">
+      <result code="">Unknown Result</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178753">
+      <result code="">Unknown Result</result>
+      <band id="3323">Poolsbrook</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178755">
+      <result code="">Unknown Result</result>
+      <band id="4895">Stapleford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

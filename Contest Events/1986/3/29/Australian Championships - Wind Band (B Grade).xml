@@ -1,0 +1,76 @@
+<contest-event id="37835">
+  <event-date date="1986-3-29">March 29, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (B Grade)</name>
+  <contest id="6137">
+    <name>Australian Championships - Wind Band (B Grade)</name>
+    <order>1</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-b-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="4756">First Suite For Military Band</test-piece>
+  </test-piece>
+
+  <venue id="4637">University of Adelaide, Adelaide, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>May 5, 2017, 1:06 a.m.</created>
+  <last-modified>May 5, 2017, 6:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="273540">
+      <result code="1">1</result>
+      <band id="15148">Broadmedow High School Concert   (NSW)</band>
+      <conductor id="315772">Peter Boys</conductor>
+      <test-piece id="4757">I Vow To Thee, My Country</test-piece>
+    </result>
+    
+    <result id="273541">
+      <result code="2">2</result>
+      <band id="15620">Canberra City Concert  (ACT)</band>
+      <conductor id="316180">Keith Helgesen</conductor>
+      <test-piece id="4741">The New Baroque Suite</test-piece>
+    </result>
+    
+    <result id="273542">
+      <result code="3">3</result>
+      <band id="14539">Lake Macquarie Winds</band>
+      <conductor id="315876">Geat Ulanas</conductor>
+      <test-piece id="4536">First Suite in Eb for Military Band</test-piece>
+    </result>
+    
+    <result id="273543">
+      <result code="4">4</result>
+      <band id="15001">Channel 7 Concert (WA)</band>
+      <conductor id="316508">R. Larner</conductor>
+      <test-piece id="1808">Nocturne</test-piece>
+    </result>
+    
+    <result id="273544">
+      <result code="5">5</result>
+      <band id="15201">Bankstown District  (NSW)</band>
+      <conductor id="315790">Garry Brahe</conductor>
+    </result>
+    
+    <result id="273545">
+      <result code="W">Withdrawn</result>
+      <band id="15076">Marryatville High School  (SA)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="273546">
+      <result code="W">Withdrawn</result>
+      <band id="15003">Southern District Concert (WA)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

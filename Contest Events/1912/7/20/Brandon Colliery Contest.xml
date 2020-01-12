@@ -1,0 +1,84 @@
+<contest-event id="15672">
+  <event-date date="1912-7-20">July 20, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brandon Colliery Contest</name>
+  <contest id="1843">
+    <name>Brandon Colliery Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="341">Brandon Colliery Contest</group>
+    <slug>brandon-colliery-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="1295">Brandon, County Durham, England, UK</venue>
+  <notes>  11 bands competed.</notes>
+
+  <created>Oct. 29, 2012, 3:16 p.m.</created>
+  <last-modified>Oct. 29, 2012, 4:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="121063">
+      <result code="1">1</result>
+      <band id="923">Boldon Colliery Band</band>
+      <conductor id="312149">W. W. Young</conductor>
+    </result>
+    
+    <result id="121064">
+      <result code="2">2</result>
+      <band id="1704">Birtley St. Joseph</band>
+      <conductor id="296939">Israel Almond</conductor>
+    </result>
+    
+    <result id="121065">
+      <result code="3">3</result>
+      <band id="581">Bearpark and Esh Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121066">
+      <result code="4">4</result>
+      <band id="6696">Pelton Institute</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="121070">
+      <result code="">Unknown Result</result>
+      <band id="8161">Axwell Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121069">
+      <result code="">Unknown Result</result>
+      <band id="3371">Lumley 6th Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121067">
+      <result code="">Unknown Result</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121068">
+      <result code="">Unknown Result</result>
+      <band id="5103">St Helens (Bishop Auckland)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121075">
+      <result code="">Unknown Result</result>
+      <band id="8160">West Stanley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

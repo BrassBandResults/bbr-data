@@ -1,0 +1,73 @@
+<contest-event id="34706">
+  <event-date date="1985-4-7">April 7, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior B Grade)</name>
+  <contest id="91">
+    <name>Australian Championships (Junior B Grade)</name>
+    <order>120</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-b-grade</slug>
+    
+    <notes>First contest in grade 1985</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="159">Indian Summer</test-piece>
+  </test-piece>
+
+  <venue id="336">Melbourne, Victoria, Australia</venue>
+  <notes>Bands were required the play a Hymn tune &amp; 2 Concert Items 
+but Only the result of the TEST SELECTION decided the CHAMPIONSHIP</notes>
+
+  <created>March 20, 2016, 3:10 p.m.</created>
+  <last-modified>Aug. 24, 2017, 11:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="250398">
+      <result code="1">1</result>
+      <band id="2248">Beaufort Municipal Band</band>
+      <conductor id="305223">Ian Lofts</conductor>
+    </result>
+    
+    <result id="250399">
+      <result code="2">2</result>
+      <band id="737">Gunnedah Shire Band</band>
+      <conductor id="307725">Stan Priestley</conductor>
+    </result>
+    
+    <result id="250400">
+      <result code="3">3</result>
+      <band id="10046">Edmund Rice College</band>
+      <conductor id="301368">John Flynn</conductor>
+    </result>
+    
+    <result id="250401">
+      <result code="4">4</result>
+      <band id="11235">Orange Police &amp; Citizens Boys</band>
+      <conductor id="309270">Harry Sloggett</conductor>
+    </result>
+    
+    <result id="250402">
+      <result code="5">5</result>
+      <band id="12079">Barker College Brass</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+    </result>
+    
+    <result id="250403">
+      <result code="6">6</result>
+      <band id="15776">St.Patricks College  ---Sutherland  (NSW)</band>
+      <conductor id="301687">Keith Garrett</conductor>
+    </result>
+    
+    <result id="250404">
+      <result code="7">7</result>
+      <band id="12317">St Joseph&#39;s College (Vic)</band>
+      <conductor id="309801">Robert Stirling</conductor>
+    </result>
+    
+  </results>
+</contest-event>

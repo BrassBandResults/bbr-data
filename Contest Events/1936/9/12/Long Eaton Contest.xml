@@ -1,0 +1,92 @@
+<contest-event id="25085">
+  <event-date date="1936-9-12">Sept. 12, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Long Eaton Contest</name>
+  <contest id="1577">
+    <name>Long Eaton Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="327">Long Eaton Contest</group>
+    <slug>long-eaton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2500">Recollections of Bellini (arr. Rimmer)</test-piece>
+  </test-piece>
+
+  <venue id="1638">Recreation Ground, Long Eaton</venue>
+  <notes>Prizes - 1st £12.10s. and cup, 2rd £7 and cup, 3rd £5, 4th £3.
+Hymn tune contest - 1st Long Eaton, 2nd divided between Manvers Main and Flockton.
+  10 bands competed</notes>
+
+  <created>Nov. 13, 2013, 3:03 p.m.</created>
+  <last-modified>Jan. 14, 2019, 7:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182716">
+      <result code="1">1</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+    </result>
+    
+    <result id="182717">
+      <result code="2">2</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="310397">Ernest Thorpe</conductor>
+    </result>
+    
+    <result id="182718">
+      <result code="3">3</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="308663">W. J. Saint</conductor>
+    </result>
+    
+    <result id="182719">
+      <result code="4">4</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="312103">Albert Yates</conductor>
+    </result>
+    
+    <result id="182720">
+      <result code="4">4</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="309208">F. Skidmore</conductor>
+    </result>
+    
+    <result id="182724">
+      <result code="">Unknown Result</result>
+      <band id="12434">Aston-on-Trent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182723">
+      <result code="">Unknown Result</result>
+      <band id="467">Enderby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182721">
+      <result code="">Unknown Result</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182722">
+      <result code="">Unknown Result</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="182725">
+      <result code="">Unknown Result</result>
+      <band id="12320">Loscoe Miners</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

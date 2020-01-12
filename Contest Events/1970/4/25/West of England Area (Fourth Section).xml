@@ -1,0 +1,54 @@
+<contest-event id="19606">
+  <event-date date="1970-4-25">April 25, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Fourth Section)</name>
+  <contest id="51">
+    <name>West of England Area (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="646">London River</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes></notes>
+
+  <created>March 24, 2013, 5:47 p.m.</created>
+  <last-modified>March 24, 2013, 5:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="147028">
+      <result code="1">1</result>
+      <band id="1489">Coleford Town</band>
+      <conductor id="311281">Joseph Welsh</conductor>
+    </result>
+    
+    <result id="147029">
+      <result code="2">2</result>
+      <band id="2071">Cirencester Band</band>
+      <conductor id="300655">Reg Dutfield</conductor>
+    </result>
+    
+    <result id="147030">
+      <result code="3">3</result>
+      <band id="525">Chalford Band</band>
+      <conductor id="311613">Ellis Williams</conductor>
+    </result>
+    
+    <result id="147031">
+      <result code="4">4</result>
+      <band id="1290">Gloucester Excelsior</band>
+      <conductor id="296799">Osman Adlam</conductor>
+    </result>
+    
+  </results>
+</contest-event>

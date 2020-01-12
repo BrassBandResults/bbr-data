@@ -1,0 +1,72 @@
+<contest-event id="35945">
+  <event-date date="1891-5-18">May 18, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest</name>
+  <contest id="1858">
+    <name>Caerphilly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="3173">Castle Grounds, Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Aug. 18, 2016, 9:03 a.m.</created>
+  <last-modified>Aug. 18, 2016, 9:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="260817">
+      <result code="1">1</result>
+      <band id="6262">Aberdare Volunteer</band>
+      <conductor id="315378">Richard Humphries</conductor>
+    </result>
+    
+    <result id="260820">
+      <result code="2">2</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="315380">Joseph Burrows</conductor>
+    </result>
+    
+    <result id="260816">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="315377">Daniel Reardon</conductor>
+    </result>
+    
+    <result id="260818">
+      <result code="">Unknown Result</result>
+      <band id="6261">Tredegar Volunteer</band>
+      <conductor id="302593">Tom Hardy</conductor>
+    </result>
+    
+    <result id="260819">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="297858">W. Berry</conductor>
+    </result>
+    
+    <result id="260821">
+      <result code="">Unknown Result</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="315381">Thomas Hamley</conductor>
+    </result>
+    
+    <result id="260822">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="315382">Mr Blamey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

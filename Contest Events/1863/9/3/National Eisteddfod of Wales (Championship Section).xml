@@ -1,0 +1,52 @@
+<contest-event id="9772">
+  <event-date date="1863-9-3">Sept. 3, 1863<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Championship Section)</name>
+  <contest id="3279">
+    <name>National Eisteddfod of Wales (Class A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1249">Swansea, Swansea County, Wales, UK</venue>
+  <notes>Sources:
+Baner ac Amserau Cymru (Denbigh, Wales), Wednesday, July 29, 1863; Issue 335. [Advert in English]
+Baner ac Amserau Cymru (Denbigh, Wales), Wednesday, September 9, 1863; Issue 341. [Report in Welsh]
+
+Prizes: 12, 5 and 2 guineas.</notes>
+
+  <created>Jan. 31, 2012, noon</created>
+  <last-modified>Aug. 21, 2016, 10:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="83895">
+      <result code="1">1</result>
+      <band id="6533">Carnarvon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83896">
+      <result code="2">2</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83897">
+      <result code="3">3</result>
+      <band id="6133">Carmarthen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

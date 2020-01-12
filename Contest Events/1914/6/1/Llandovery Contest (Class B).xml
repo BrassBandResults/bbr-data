@@ -1,0 +1,62 @@
+<contest-event id="29824">
+  <event-date date="1914-6-1">June 1, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class B)</name>
+  <contest id="2097">
+    <name>Llandovery Contest (Class B)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3166">The Troubadour</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes: £10, £5, £2
+Following a protest over Blaengwynfi Band playing some professionals, Calfaria Band was later awarded the 1st prize.
+5 bands competed.</notes>
+
+  <created>Oct. 21, 2014, 7:32 p.m.</created>
+  <last-modified>Oct. 3, 2018, 12:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="211771">
+      <result code="1">1</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="309754">D. I. Stevens</conductor>
+    </result>
+    
+    <result id="211773">
+      <result code="2">2</result>
+      <band id="9506">Calfaria Clydach</band>
+      <conductor id="304288">T. J. Jones</conductor>
+    </result>
+    
+    <result id="211772">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="294835">
+      <result code="">Unknown Result</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="310293">Llewellyn Thomas</conductor>
+    </result>
+    
+    <result id="294836">
+      <result code="">Unknown Result</result>
+      <band id="789">Llanelli Band</band>
+      <conductor id="318995">David Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

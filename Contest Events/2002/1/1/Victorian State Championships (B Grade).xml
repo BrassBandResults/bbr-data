@@ -1,0 +1,54 @@
+<contest-event id="39031">
+  <event-date date="2002-1-1">Jan. 1, 2002<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3931">St.Austell Suite</test-piece>
+  </test-piece>
+
+  <venue id="4945">Her Majesty&#39;s Theatre, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 15, 2018, 5:40 a.m.</created>
+  <last-modified>Jan. 15, 2018, 5:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="283917">
+      <result code="1">1</result>
+      <band id="2145">Boroondara Brass</band>
+      <conductor id="307241">Tom Paulin</conductor>
+    </result>
+    
+    <result id="283918">
+      <result code="2">2</result>
+      <band id="730">Moorabbin Brass</band>
+      <conductor id="305987">Jason Mears</conductor>
+    </result>
+    
+    <result id="283919">
+      <result code="3">3</result>
+      <band id="727">Eaglehawk Citizens Band</band>
+      <conductor id="300693">Chris Earl</conductor>
+    </result>
+    
+    <result id="283920">
+      <result code="4">4</result>
+      <band id="2242">Box Hill City Band</band>
+      <conductor id="317546">Joe Callaghan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

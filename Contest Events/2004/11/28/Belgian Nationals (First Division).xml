@@ -1,0 +1,44 @@
+<contest-event id="936">
+  <event-date date="2004-11-28">Nov. 28, 2004<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="56">The Essence of Time</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>Oct. 6, 2009, 1:46 p.m.</created>
+  <last-modified>Oct. 6, 2009, 9:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="10406">
+      <result code="1">1</result>
+      <band id="679">Brass Band Leieland</band>
+      <conductor id="297722">Wim Belaen</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+    <result id="10407">
+      <result code="2">2</result>
+      <band id="673">Noord-Limburgse Brass Band</band>
+      <conductor id="299650">Peter Cools</conductor>
+      <test-piece id="166">Trittico</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="41208">
+  <event-date date="1926-5-22">May 22, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scunthorpe Contest</name>
+  <contest id="1395">
+    <name>Scunthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>scunthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="3735">Show Ground, Scunthorpe</venue>
+  <notes>Prizes - 1st £10, 2nd £7, 3rd £5, 4th £3.
+March contest (Sons of the Wild) - 1st Bullcroft, 2nd Rustons.
+8 bands competed.</notes>
+
+  <created>Nov. 9, 2018, 10:42 a.m.</created>
+  <last-modified>Nov. 9, 2018, 10:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="299412">
+      <result code="1">1</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="307097">W. Park</conductor>
+    </result>
+    
+    <result id="299413">
+      <result code="2">2</result>
+      <band id="3740">Band of the Lincolnshire Fire Brigade</band>
+      <conductor id="301163">E. Feather</conductor>
+    </result>
+    
+    <result id="299414">
+      <result code="3">3</result>
+      <band id="3140">Thorne Town</band>
+      <conductor id="300679">G. Dyson</conductor>
+    </result>
+    
+    <result id="299415">
+      <result code="4">4</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="299418">
+      <result code="">Unknown Result</result>
+      <band id="11499">Ashby Men&#39;s Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299417">
+      <result code="">Unknown Result</result>
+      <band id="3631">British Oil and Cake Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299416">
+      <result code="">Unknown Result</result>
+      <band id="36">Hatfield Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299419">
+      <result code="">Unknown Result</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

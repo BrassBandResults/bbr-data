@@ -1,0 +1,49 @@
+<contest-event id="3087">
+  <event-date date="2009-1-1">Jan. 1, 2009<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Grenland International Brass Festival (Elite Division)</name>
+  <contest id="387">
+    <name>Grenland International Brass Festival (Elite Division)</name>
+    <order>1</order>
+    <contest-type id="22">Chuch Concert, Test Piece &amp; Entertainment</contest-type>
+    <group id="66">Grenland International Brass Festival</group>
+    <slug>grenland-international-brass-festival-elite-divisi</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="9">Elite</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="47">Cambridge Variations</test-piece>
+  </test-piece>
+
+  <venue id="200">Ibsenhuset, Skien, Telemark, Norway</venue>
+  <notes>Soloist prize: Erlend Aagaard-Nilsen, Cornet, Manger Musikklag
+Conductor prize, test piece: Martin Winter, Manger Musikklag</notes>
+
+  <created>Nov. 22, 2010, 6:39 p.m.</created>
+  <last-modified>March 2, 2011, 8:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="30598">
+      <result code="1">1</result>
+      <band id="813">Manger Musikklag</band>
+      <conductor id="311822">Martin Winter</conductor>
+    </result>
+    
+    <result id="30599">
+      <result code="2">2</result>
+      <band id="1095">Oslofjord Brass</band>
+      <conductor id="300437">Simon Dobson</conductor>
+    </result>
+    
+    <result id="30600">
+      <result code="3">3</result>
+      <band id="1225">Concord Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="15091">
+  <event-date date="1931-6-27">June 27, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blakesley Contest</name>
+  <contest id="3162">
+    <name>Blakesley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blakesley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2442">Blakesley, Northamptonshire, England, UK</venue>
+  <notes>March contest  1st  Rushden Town,  2nd Rushden Temperance,  3rd Earls Barton Old.
+5 bands competed.</notes>
+
+  <created>Oct. 7, 2012, 3:13 p.m.</created>
+  <last-modified>Dec. 14, 2018, 5:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="117943">
+      <result code="1">1</result>
+      <band id="828">Wolverton Town Band</band>
+      <conductor id="298546">A. Brooks</conductor>
+    </result>
+    
+    <result id="117944">
+      <result code="2">2</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="312144">T. Young</conductor>
+    </result>
+    
+    <result id="117945">
+      <result code="3">3</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="302281">W. Groome</conductor>
+    </result>
+    
+    <result id="302404">
+      <result code="">Unknown Result</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="302405">
+      <result code="">Unknown Result</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

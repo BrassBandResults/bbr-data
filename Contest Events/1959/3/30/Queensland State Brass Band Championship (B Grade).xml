@@ -1,0 +1,57 @@
+<contest-event id="39219">
+  <event-date date="1959-3-30">March 30, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5494">No.1  &quot;Clive of India  &quot;  --  No.2  &quot;  Call of the Sea&quot;</test-piece>
+  </test-piece>
+
+  <venue id="6066">Mackay, Queensland, Australia</venue>
+  <notes>Championship included two Test Selections
+No.2 points listed under Own Choice
+Hymn Tune 
+Street March  points listed under Stage March</notes>
+
+  <created>March 1, 2018, 5:56 a.m.</created>
+  <last-modified>Sept. 25, 2019, 12:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="285032">
+      <result code="1">1</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="310544">Alf Trahair</conductor>
+    </result>
+    
+    <result id="285031">
+      <result code="2">2</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="317784">Bill Bellett</conductor>
+    </result>
+    
+    <result id="285033">
+      <result code="3">3</result>
+      <band id="11228">Ipswich Model</band>
+      <conductor id="302625">Horace Harper</conductor>
+    </result>
+    
+    <result id="285034">
+      <result code="4">4</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="308629">Bill Ryder</conductor>
+    </result>
+    
+  </results>
+</contest-event>

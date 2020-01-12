@@ -1,0 +1,60 @@
+<contest-event id="19412">
+  <event-date date="1966-11-19">Nov. 19, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Suffolk Championship Contest</name>
+  <contest id="3584">
+    <name>Suffolk Championship Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>suffolk-championship-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2271">Iolanthe (selection)</test-piece>
+  </test-piece>
+
+  <venue id="3283">Haverhill, Suffolk, England, UK</venue>
+  <notes>  March contest 1st Long Melford, 2nd Haverhill, 3rd tie between Green Brothers and Bury St Edmunds B.L.</notes>
+
+  <created>March 20, 2013, 5:03 p.m.</created>
+  <last-modified>March 20, 2013, 5:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="145657">
+      <result code="1">1</result>
+      <band id="3507">Long Melford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145658">
+      <result code="2">2</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145659">
+      <result code="3">3</result>
+      <band id="832">Newmarket Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145660">
+      <result code="">Unknown Result</result>
+      <band id="3885">Breckland Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145661">
+      <result code="">Unknown Result</result>
+      <band id="3508">Bury St Edmunds Royal British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

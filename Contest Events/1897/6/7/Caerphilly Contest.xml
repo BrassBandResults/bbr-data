@@ -1,0 +1,73 @@
+<contest-event id="13220">
+  <event-date date="1897-6-7">June 7, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest</name>
+  <contest id="1858">
+    <name>Caerphilly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1877">Attila</test-piece>
+  </test-piece>
+
+  <venue id="1307">Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes>Prizes: £15, £8, £4.
+7 bands competed.</notes>
+
+  <created>May 5, 2012, 8:57 a.m.</created>
+  <last-modified>July 8, 2019, 1:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105052">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="312144">T. Young</conductor>
+    </result>
+    
+    <result id="105053">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="105054">
+      <result code="3">3</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105055">
+      <result code="">Unknown Result</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105056">
+      <result code="">Unknown Result</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105057">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105058">
+      <result code="">Unknown Result</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

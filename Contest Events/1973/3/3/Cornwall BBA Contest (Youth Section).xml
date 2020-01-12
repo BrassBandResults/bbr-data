@@ -1,0 +1,54 @@
+<contest-event id="21104">
+  <event-date date="1973-3-3">March 3, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Youth Section)</name>
+  <contest id="3211">
+    <name>Cornwall BBA Contest (Youth Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-youth-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>May 5, 2013, 9:20 a.m.</created>
+  <last-modified>May 5, 2013, 9:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="156051">
+      <result code="1">1</result>
+      <band id="1778">St. Dennis Youth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156052">
+      <result code="2">2</result>
+      <band id="1451">Camborne Junior Contesting</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156053">
+      <result code="3">3</result>
+      <band id="3192">Lostwithiel Youth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156054">
+      <result code="4">4</result>
+      <band id="7709">Liskeard Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="6530">
+  <event-date date="1970-10-10">Oct. 10, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>World Championship</name>
+  <contest id="972">
+    <name>World Championship</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="13">National Championship of Great Britain (Finals)</group>
+    <slug>world-championship</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="400">Benvenuto Cellini [arr. Wright]</test-piece>
+  </test-piece>
+
+  <venue id="51">Royal Albert Hall, Kensington, Kensington and Chelsea, Greater London, England, UK</venue>
+  <notes></notes>
+
+  <created>June 16, 2011, 6:03 p.m.</created>
+  <last-modified>June 30, 2011, 2:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="60008">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="298362">Geoffrey Brand</conductor>
+    </result>
+    
+    <result id="60011">
+      <result code="2">2</result>
+      <band id="6">Fairey Band</band>
+      <conductor id="300321">Kenneth Dennison</conductor>
+    </result>
+    
+    <result id="60010">
+      <result code="3">3</result>
+      <band id="10">The GUS Band</band>
+      <conductor id="298126">Stanley Boddington</conductor>
+    </result>
+    
+    <result id="60006">
+      <result code="">Unknown Result</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="306425">Rex Mortimer</conductor>
+    </result>
+    
+    <result id="60007">
+      <result code="">Unknown Result</result>
+      <band id="1225">Concord Brass Band</band>
+      <conductor id="306580">Herbert Møller</conductor>
+    </result>
+    
+    <result id="60009">
+      <result code="">Unknown Result</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+    <result id="60012">
+      <result code="">Unknown Result</result>
+      <band id="1347">City of Manchester</band>
+      <conductor id="306421">Alex Mortimer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

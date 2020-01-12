@@ -1,0 +1,49 @@
+<contest-event id="5522">
+  <event-date date="2000-3-1">March 1, 2000<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Swiss Entertainment Contest (Elite Division)</name>
+  <contest id="890">
+    <name>Swiss Entertainment Contest (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="149">Swiss Entertainment Contest</group>
+    <slug>swiss-entertainment-contest-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="979">Reach for the Stars</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>best show: mgrr Risch-Rotkreus 
+best solo: Jacques Claivoz (cornet - ECV)</notes>
+
+  <created>April 18, 2011, 12:37 p.m.</created>
+  <last-modified>April 18, 2011, 12:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="47679">
+      <result code="1">1</result>
+      <band id="58">Oberaargauer Brass Band</band>
+      <conductor id="306894">Manfred Obrecht</conductor>
+    </result>
+    
+    <result id="47680">
+      <result code="2">2</result>
+      <band id="67">Ensemble de Cuivres Valaisan</band>
+      <conductor id="303963">Christophe Jeanbourquin</conductor>
+    </result>
+    
+    <result id="47681">
+      <result code="3">3</result>
+      <band id="61">Musikgesellschaft Risch-Rotkreuz</band>
+      <conductor id="310620">Corsin Tuor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

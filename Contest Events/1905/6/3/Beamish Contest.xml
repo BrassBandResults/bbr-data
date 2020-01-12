@@ -1,0 +1,77 @@
+<contest-event id="10036">
+  <event-date date="1905-6-3">June 3, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Beamish Contest</name>
+  <contest id="1841">
+    <name>Beamish Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>beamish-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1644">Memories of Donizetti</test-piece>
+  </test-piece>
+
+  <venue id="1293">Beamish, County Durham, England, UK</venue>
+  <notes>
+
+  1st prize £10.
+  2nd prize £6.
+  3rd prize £3.
+  4th prize £1.</notes>
+
+  <created>Feb. 8, 2012, 2:40 p.m.</created>
+  <last-modified>Feb. 8, 2012, 2:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85105">
+      <result code="1">1</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="311154">William Watson</conductor>
+    </result>
+    
+    <result id="85106">
+      <result code="2">2</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="85107">
+      <result code="3">3</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="306471">J. Moulding</conductor>
+    </result>
+    
+    <result id="85108">
+      <result code="4">4</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="302106">J. W. Grayson</conductor>
+    </result>
+    
+    <result id="85111">
+      <result code="">Unknown Result</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="85110">
+      <result code="">Unknown Result</result>
+      <band id="5388">Chester-le-Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="85109">
+      <result code="">Unknown Result</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

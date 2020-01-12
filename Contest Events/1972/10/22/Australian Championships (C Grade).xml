@@ -1,0 +1,90 @@
+<contest-event id="34885">
+  <event-date date="1972-10-22">Oct. 22, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="162">Mexican Fiesta</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>The use of two separate draws differs from the 1972 B Grade, where only one draw was used.</notes>
+
+  <created>March 31, 2016, 6:09 a.m.</created>
+  <last-modified>April 3, 2016, 9:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="251842">
+      <result code="1">1</result>
+      <band id="11225">Wangaratta City</band>
+      <conductor id="304698">Harry Kuhne</conductor>
+    </result>
+    
+    <result id="251843">
+      <result code="2">2</result>
+      <band id="745">Newcastle PCYC Brass Band</band>
+      <conductor id="309146">Frank Simm</conductor>
+    </result>
+    
+    <result id="251844">
+      <result code="3">3</result>
+      <band id="2248">Beaufort Municipal Band</band>
+      <conductor id="310947">Lee Wallis</conductor>
+    </result>
+    
+    <result id="251845">
+      <result code="4">4</result>
+      <band id="13572">Mordialloc Jazz Orchestra</band>
+      <conductor id="298611">Ken Brown</conductor>
+    </result>
+    
+    <result id="251846">
+      <result code="5">5</result>
+      <band id="2319">Moonee Valley Brass</band>
+      <conductor id="298186">Ronald Booth</conductor>
+    </result>
+    
+    <result id="251847">
+      <result code="6">6</result>
+      <band id="9343">Thompsons Foundry Band</band>
+      <conductor id="300491">Stan Doren</conductor>
+    </result>
+    
+    <result id="251848">
+      <result code="7">7</result>
+      <band id="11303">Creswick Brass Band</band>
+      <conductor id="308485">Tom Ross</conductor>
+    </result>
+    
+    <result id="251849">
+      <result code="8">8</result>
+      <band id="9430">South Gippsland Shire Brass Band</band>
+      <conductor id="307964">G. H. Rayson</conductor>
+    </result>
+    
+    <result id="251850">
+      <result code="9">9</result>
+      <band id="2176">Mount Gambier Band</band>
+      <conductor id="300769">Don Edwards</conductor>
+    </result>
+    
+    <result id="251851">
+      <result code="10">10</result>
+      <band id="738">Mildura District Brass</band>
+      <conductor id="304680">Len Krause</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="23166">
+  <event-date date="1902-7-19">July 19, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tipton Contest</name>
+  <contest id="4501">
+    <name>Tipton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tipton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="3864">Victoria Park, Tipton</venue>
+  <notes>Promoted by Tipton Fire Brigade.
+March contest: 1. Coseley, 2. Willenhall Temperance.
+3 bands competed.
+</notes>
+
+  <created>Aug. 19, 2013, 10:08 p.m.</created>
+  <last-modified>July 6, 2018, 7 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170426">
+      <result code="1">1</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="170427">
+      <result code="2">2</result>
+      <band id="4429">Coseley</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="291319">
+      <result code="3">3</result>
+      <band id="12277">Dudley and District Youth</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

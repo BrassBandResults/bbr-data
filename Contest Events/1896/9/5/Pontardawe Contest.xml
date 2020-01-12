@@ -1,0 +1,55 @@
+<contest-event id="13093">
+  <event-date date="1896-9-5">Sept. 5, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontardawe Contest</name>
+  <contest id="2752">
+    <name>Pontardawe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontardawe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="2105">Pontardawe</venue>
+  <notes>Cornet and uephonium medals: Ystalyfera
+March contest: 1. Trebanos, 2. divided between Ystalyfera and Gwaun-cae-Gurwen</notes>
+
+  <created>May 1, 2012, 7:08 p.m.</created>
+  <last-modified>May 1, 2012, 7:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104138">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="104139">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="302535">George Hannay</conductor>
+    </result>
+    
+    <result id="104140">
+      <result code="3">3</result>
+      <band id="7931">Llansamlet</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+    <result id="104141">
+      <result code="">Unknown Result</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

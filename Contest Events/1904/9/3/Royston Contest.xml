@@ -1,0 +1,98 @@
+<contest-event id="26790">
+  <event-date date="1904-9-3">Sept. 3, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royston Contest</name>
+  <contest id="1952">
+    <name>Royston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>royston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1385">Royston, South Yorkshire</venue>
+  <notes>Promoted by Royston Band
+
+10 bands competed
+
+Choice of test piece: &quot;Poliuto&quot; or &quot;Tschaikovsky&quot;
+
+Prizes; £6, £3, 30s, 10s
+
+March: 1. Castleford, 2. Gawthorpe</notes>
+
+  <created>March 31, 2014, 10:28 p.m.</created>
+  <last-modified>May 30, 2017, 4:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193864">
+      <result code="1">1</result>
+      <band id="2596">Holme Mills</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="193865">
+      <result code="2">2</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+    <result id="193866">
+      <result code="3">3</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="193867">
+      <result code="4">4</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="193868">
+      <result code="4">4</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="275018">
+      <result code="">Unknown Result</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="275017">
+      <result code="">Unknown Result</result>
+      <band id="3694">Denaby Main Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="275016">
+      <result code="">Unknown Result</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="275015">
+      <result code="">Unknown Result</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193869">
+      <result code="">Unknown Result</result>
+      <band id="3559">Wombwell Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

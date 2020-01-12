@@ -1,0 +1,90 @@
+<contest-event id="13189">
+  <event-date date="1897-5-15">May 15, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pleasley Contest</name>
+  <contest id="2030">
+    <name>Pleasley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pleasley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1460">Pleasley, Derbyshire</venue>
+  <notes>Prizes: £5 and cornet, £3 and trombone, £1 10s, £1</notes>
+
+  <created>May 4, 2012, 9:27 p.m.</created>
+  <last-modified>May 4, 2012, 9:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104777">
+      <result code="1">1</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davidson</conductor>
+    </result>
+    
+    <result id="104778">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="104779">
+      <result code="3">3</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="299621">J. W. Cook</conductor>
+    </result>
+    
+    <result id="104780">
+      <result code="4">4</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="305612">Charles Marsden</conductor>
+    </result>
+    
+    <result id="104786">
+      <result code="">Unknown Result</result>
+      <band id="5186">Alfreton Church</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104783">
+      <result code="">Unknown Result</result>
+      <band id="8212">Annesley United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104782">
+      <result code="">Unknown Result</result>
+      <band id="5187">Codnor Primitives</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104784">
+      <result code="">Unknown Result</result>
+      <band id="3146">Elsecar Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104781">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104785">
+      <result code="">Unknown Result</result>
+      <band id="1670">Staveley Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="21222">
+  <event-date date="1973-11-11">Nov. 11, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Entertainment Contest</name>
+  <contest id="4164">
+    <name>Doncaster Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3475">Gaumont Theatre, Doncaster</venue>
+  <notes></notes>
+
+  <created>May 9, 2013, 9:02 a.m.</created>
+  <last-modified>May 9, 2013, 9:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="156684">
+      <result code="1">1</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156685">
+      <result code="2">2</result>
+      <band id="5652">Hammonds Junior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156686">
+      <result code="3">3</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

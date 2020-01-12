@@ -1,0 +1,51 @@
+<contest-event id="42859">
+  <event-date date="1993-10-17">Oct. 17, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+  <contest id="3040">
+    <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+    <order>50</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-junior-a-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="95">Summer Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="7204">Brooks High School, Newham, Launceston, Tasmania, Australia</venue>
+  <notes>Bands also required to play a Hymn ( not included in championship)</notes>
+
+  <created>Nov. 14, 2019, 12:07 a.m.</created>
+  <last-modified>Dec. 7, 2019, 2:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313719">
+      <result code="1">1</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="1059">Ballad for Band</test-piece>
+    </result>
+    
+    <result id="313720">
+      <result code="2">2</result>
+      <band id="18300">Glenorchy City Concert Brass Juniors</band>
+      <conductor id="309577">Wendy Spencer</conductor>
+      <test-piece id="3894">Overture Promenade</test-piece>
+    </result>
+    
+    <result id="313721">
+      <result code="3">3</result>
+      <band id="13323">City of Burnie Brass Junior</band>
+      <conductor id="297826">Robert Bentley</conductor>
+      <test-piece id="553">Voices of Youth</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

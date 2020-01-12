@@ -1,0 +1,61 @@
+<contest-event id="40235">
+  <event-date date="1904-8-10">Aug. 10, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crook Contest</name>
+  <contest id="3691">
+    <name>Crook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2791">Crook, County Durham, England, UK</venue>
+  <notes>March contest - 1st Hetton, 3nd Brandon, 3rd Cockfield, 4th Peases West. 5th Oakenshaw.
+5 bands competed</notes>
+
+  <created>Aug. 31, 2018, 6:21 p.m.</created>
+  <last-modified>Aug. 31, 2018, 6:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="292585">
+      <result code="1">1</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="292579">
+      <result code="2">2</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="292581">
+      <result code="3">3</result>
+      <band id="6689">Peases West</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+    <result id="292578">
+      <result code="4">4</result>
+      <band id="7305">Cockfield</band>
+      <conductor id="318159">W. Mudd</conductor>
+    </result>
+    
+    <result id="292577">
+      <result code="">Unknown Result</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="318298">William Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,70 @@
+<contest-event id="12765">
+  <event-date date="1909-4-10">April 10, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Millgate Contest</name>
+  <contest id="2680">
+    <name>Millgate Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>millgate-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1899">Andromeda</test-piece>
+  </test-piece>
+
+  <venue id="2022">Millgate, Whitworth, Lancashire</venue>
+  <notes>1st prize £10, 2nd prize £5, 3rd prize £3, 4th prize £2, 5th prize £1 divided between Eccleston and Haslingden Temperance.
+March contest - 1stWater, 2nd Tottington.
+6 bands competed.
+
+  </notes>
+
+  <created>April 21, 2012, 9:47 a.m.</created>
+  <last-modified>Sept. 26, 2018, 5:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101548">
+      <result code="1">1</result>
+      <band id="2538">Water Band Rossendale</band>
+      <conductor id="307568">W. Pollard</conductor>
+    </result>
+    
+    <result id="101549">
+      <result code="2">2</result>
+      <band id="398">Tottington Public Band</band>
+      <conductor id="303272">Bedan Holding</conductor>
+    </result>
+    
+    <result id="101550">
+      <result code="3">3</result>
+      <band id="3644">Summerseat</band>
+      <conductor id="307568">W. Pollard</conductor>
+    </result>
+    
+    <result id="101551">
+      <result code="4">4</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="302565">T. Hardacre</conductor>
+    </result>
+    
+    <result id="101553">
+      <result code="5">5</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="302599">J. J. Hargreaves</conductor>
+    </result>
+    
+    <result id="101552">
+      <result code="5">5</result>
+      <band id="3826">Eccleston Subscription</band>
+      <conductor id="313862">John Partington</conductor>
+    </result>
+    
+  </results>
+</contest-event>

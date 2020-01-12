@@ -1,0 +1,56 @@
+<contest-event id="34223">
+  <event-date date="1961-6-24">June 24, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest (Open Section)</name>
+  <contest id="4918">
+    <name>Ruardean Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ruardean-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>March contest - Cheltenham Spa.
+Best march on street - Lydbrook.
+Best section 4 - Pillowell Silver, 2nd Lydney Town.</notes>
+
+  <created>March 1, 2016, 11:49 a.m.</created>
+  <last-modified>March 1, 2016, 11:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="247072">
+      <result code="1">1</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="247073">
+      <result code="2">2</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="247074">
+      <result code="3">3</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="247075">
+      <result code="4">4</result>
+      <band id="565">Cheltenham Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

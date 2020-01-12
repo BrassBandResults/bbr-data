@@ -1,0 +1,54 @@
+<contest-event id="15223">
+  <event-date date="1975-3-1">March 1, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (2nd Section)</name>
+  <contest id="3198">
+    <name>Cornwall BBA Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1749">Eroica Symphony</test-piece>
+  </test-piece>
+
+  <venue id="2455">Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 11, 2012, 3:29 p.m.</created>
+  <last-modified>Oct. 11, 2012, 3:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118323">
+      <result code="1">1</result>
+      <band id="533">St. Pinnock Band</band>
+      <conductor id="303982">Alan Jenkin</conductor>
+    </result>
+    
+    <result id="157221">
+      <result code="2">2</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157222">
+      <result code="3">3</result>
+      <band id="8888">Lostwithiel Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157223">
+      <result code="">Unknown Result</result>
+      <band id="426">Lanner and District Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

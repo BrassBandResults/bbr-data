@@ -1,0 +1,49 @@
+<contest-event id="11972">
+  <event-date date="1899-4-1">April 1, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tumble Contest</name>
+  <contest id="2437">
+    <name>Tumble Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tumble-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1845">Yr Haf</test-piece>
+  </test-piece>
+
+  <venue id="1792">Tumble, Carmarthen</venue>
+  <notes>1st  prize £8,  2nd prize £4, 3rd prize £2.
+3 bands competed</notes>
+
+  <created>April 8, 2012, 4:51 p.m.</created>
+  <last-modified>July 26, 2019, 9:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96315">
+      <result code="1">1</result>
+      <band id="7530">St John&#39;s Pontyberem</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="96316">
+      <result code="2">2</result>
+      <band id="7619">Cymmawr</band>
+      <conductor id="302670">Tom Harris</conductor>
+    </result>
+    
+    <result id="96317">
+      <result code="3">3</result>
+      <band id="12297">Burry Port Town</band>
+      <conductor id="311635">J. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

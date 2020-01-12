@@ -1,0 +1,79 @@
+<contest-event id="11957">
+  <event-date date="1894-3-3">March 3, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Contest</name>
+  <contest id="1214">
+    <name>Sheffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1789">Albert Hall, Sheffield, Yorkshire, England, UK</venue>
+  <notes>7 bands competed</notes>
+
+  <created>April 8, 2012, 3:47 p.m.</created>
+  <last-modified>June 11, 2019, noon</last-modified>
+
+  <results>
+    
+    <result id="96220">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="96221">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="96222">
+      <result code="3">3</result>
+      <band id="3267">Stocksbridge Old Prize</band>
+      <conductor id="305612">Charles Marsden</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="309668">
+      <result code="">Unknown Result</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davidson</conductor>
+      <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+    </result>
+    
+    <result id="309669">
+      <result code="">Unknown Result</result>
+      <band id="7198">Spital Hill</band>
+      <conductor id="316203">J. Jubb</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="309670">
+      <result code="">Unknown Result</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="300245">John Dawson</conductor>
+      <test-piece id="2782">William Tell [arr. Round]</test-piece>
+    </result>
+    
+    <result id="309671">
+      <result code="">Unknown Result</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="300681">J. H. Dyson</conductor>
+      <test-piece id="1278">Elixir of Love</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

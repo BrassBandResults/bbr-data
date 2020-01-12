@@ -1,0 +1,92 @@
+<contest-event id="9235">
+  <event-date date="1886-6-5">June 5, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnoldswick Contest</name>
+  <contest id="1648">
+    <name>Barnoldswick Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="335">Barnoldswick Contest</group>
+    <slug>barnoldswick-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1143">Unity School, Barnoldswick</venue>
+  <notes>Prizes: £15, £11, £8, £6, £2
+Quickstep: 1. Todmorden, 2. Colne.
+6 bands competed.</notes>
+
+  <created>Dec. 29, 2011, 1 p.m.</created>
+  <last-modified>Nov. 5, 2017, 1:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80013">
+      <result code="1">1</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="80010">
+      <result code="2">2</result>
+      <band id="396">Littleborough Public Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="80015">
+      <result code="3">3</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="80009">
+      <result code="4">4</result>
+      <band id="894">Earby Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="80011">
+      <result code="5">5</result>
+      <band id="2518">Great Horton Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="80008">
+      <result code="">Unknown Result</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="80014">
+      <result code="W">Withdrawn</result>
+      <band id="2455">Keighley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80012">
+      <result code="W">Withdrawn</result>
+      <band id="6122">Manningham</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="80016">
+      <result code="W">Withdrawn</result>
+      <band id="2528">Southport Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80017">
+      <result code="W">Withdrawn</result>
+      <band id="1440">Wyke</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

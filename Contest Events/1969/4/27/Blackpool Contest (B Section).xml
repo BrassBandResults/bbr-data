@@ -1,0 +1,94 @@
+<contest-event id="12059">
+  <event-date date="1969-4-27">April 27, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest (B Section)</name>
+  <contest id="1391">
+    <name>Blackpool Contest (B Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5835">South Pier, Blackpool, Lancashire</venue>
+  <notes>Choice of test piece - Coriolanus or Second Suite in F Major.
+Prizes - 1st £30 and trophy, 2nd £20 and trophy, 3rd £12.
+19th annual contest.
+8 bands competed.</notes>
+
+  <created>April 9, 2012, 9:22 a.m.</created>
+  <last-modified>April 10, 2017, 8:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="227949">
+      <result code="1">1</result>
+      <band id="1309">British Aerospace (Chadderton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="227950">
+      <result code="2">2</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="96842">
+      <result code="3">3</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="303452">Frank Hough</conductor>
+      <test-piece id="417">Coriolanus</test-piece>
+    </result>
+    
+    <result id="227954">
+      <result code="">Unknown Result</result>
+      <band id="227">Golborne Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="227953">
+      <result code="">Unknown Result</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="227952">
+      <result code="">Unknown Result</result>
+      <band id="1668">Hollingworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="227956">
+      <result code="">Unknown Result</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="227955">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="227951">
+      <result code="W">Withdrawn</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="227957">
+      <result code="W">Withdrawn</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

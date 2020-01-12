@@ -1,0 +1,49 @@
+<contest-event id="23193">
+  <event-date date="1902-8-4">Aug. 4, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Redhill Contest</name>
+  <contest id="2384">
+    <name>Redhill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>redhill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3872">Sports Ground, Redhill</venue>
+  <notes>3 bands competed
+</notes>
+
+  <created>Aug. 20, 2013, 4:51 p.m.</created>
+  <last-modified>Aug. 20, 2013, 4:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170575">
+      <result code="1">1</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170576">
+      <result code="2">2</result>
+      <band id="610">Crystal Palace Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170574">
+      <result code="3">3</result>
+      <band id="7316">Redhill Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

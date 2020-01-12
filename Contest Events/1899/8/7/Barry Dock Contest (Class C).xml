@@ -1,0 +1,60 @@
+<contest-event id="12605">
+  <event-date date="1899-8-7">Aug. 7, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barry Dock Contest (Class C)</name>
+  <contest id="2616">
+    <name>Barry Dock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barry-dock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1881">Recollections of Carl Rosa</test-piece>
+  </test-piece>
+
+  <venue id="1970">Barry Dock, Glamorgan</venue>
+  <notes>  1st prize £5.
+  2nd prize £2.10s.
+  3rd prize £1.10s.
+
+  March contest held in conjunction with Class B on same day  1st (£1.5s.) Aberaman Silver, 2nd (15s.) Ystalyfera Temperance, 3rd (7s.) Cory&#39;s Temperance, 4th (5s.) Cwmbran.
+
+  4 bands competed.</notes>
+
+  <created>April 18, 2012, 1:03 p.m.</created>
+  <last-modified>Jan. 11, 2017, 11:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100556">
+      <result code="1">1</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="298048">John Blamey</conductor>
+    </result>
+    
+    <result id="100557">
+      <result code="2">2</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310676">W. Turtle</conductor>
+    </result>
+    
+    <result id="100558">
+      <result code="3">3</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100559">
+      <result code="4">4</result>
+      <band id="7863">Rhiwderin</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

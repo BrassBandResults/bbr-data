@@ -1,0 +1,64 @@
+<contest-event id="23792">
+  <event-date date="1908-6-20">June 20, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lindley Contest</name>
+  <contest id="1047">
+    <name>Lindley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lindley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3740">Rossini&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="600">Lindley, Huddersfield</venue>
+  <notes>Promoted by Lindley Brass Band
+Prizes: £12, £8, £5, £3, £1 10s
+March: 1. Shaw, 2. Batley
+Best trombone - Shaw.
+5 bands competed.</notes>
+
+  <created>Sept. 12, 2013, 8:07 p.m.</created>
+  <last-modified>Sept. 22, 2018, 10:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="173744">
+      <result code="1">1</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="173745">
+      <result code="2">2</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="173746">
+      <result code="3">3</result>
+      <band id="2573">Norland</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="173747">
+      <result code="4">4</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="193996">
+      <result code="5">5</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="307898">George Ramsden</conductor>
+    </result>
+    
+  </results>
+</contest-event>

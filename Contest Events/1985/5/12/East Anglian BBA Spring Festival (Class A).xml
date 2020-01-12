@@ -1,0 +1,48 @@
+<contest-event id="29603">
+  <event-date date="1985-5-12">May 12, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class A)</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="130">Partita [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune contest - 1st Chatteris Town.</notes>
+
+  <created>Oct. 14, 2014, 8:34 a.m.</created>
+  <last-modified>Oct. 14, 2014, 8:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="210798">
+      <result code="1">1</result>
+      <band id="3076">Haverhill Youth</band>
+      <conductor id="296812">Mark Ager</conductor>
+    </result>
+    
+    <result id="210799">
+      <result code="2">2</result>
+      <band id="1768">Chatteris Town Brass</band>
+      <conductor id="309063">Roy Shilling</conductor>
+    </result>
+    
+    <result id="210800">
+      <result code="3">3</result>
+      <band id="12475">Connells Sounding Brass</band>
+      <conductor id="311666">S. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

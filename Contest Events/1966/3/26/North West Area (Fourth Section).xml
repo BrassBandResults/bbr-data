@@ -1,0 +1,56 @@
+<contest-event id="4102">
+  <event-date date="1966-3-26">March 26, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Fourth Section)</name>
+  <contest id="25">
+    <name>North West Area (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2386">On the Pier</test-piece>
+  </test-piece>
+
+  <venue id="3346">Town Hall, Birkenhead</venue>
+  <notes>Placings from British Bandsman, 16/4/1966. However, the 1966 National final had 4 bands from the North West - Skelmersdale, Ellesmere, Stacksteads and Poulton le Fylde, and Ellesmere were originally recorded 2nd in this BBR entry (and were the only band listed by the enterer). Does anybody know the story? Were Royal Buckley perhaps later disqualified?
+
+Is &quot;On The Pier&quot; the correct test piece? Other areas used &quot;Everybody&#39;s Child&quot; by Eric Ball in the same year for the fourth section, and it isn&#39;t recorded anywhere else in the database.</notes>
+
+  <created>Feb. 18, 2011, 10:10 a.m.</created>
+  <last-modified>Nov. 8, 2013, 3:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="35888">
+      <result code="1">1</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="305391">William Lyon</conductor>
+    </result>
+    
+    <result id="147909">
+      <result code="2">2</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="305181">J. K. Lloyd</conductor>
+    </result>
+    
+    <result id="110064">
+      <result code="3">3</result>
+      <band id="2713">Ellesmere Port Silver Band</band>
+      <conductor id="300770">E. G. Edwards</conductor>
+    </result>
+    
+    <result id="240643">
+      <result code="4">4</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="302225">C. Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

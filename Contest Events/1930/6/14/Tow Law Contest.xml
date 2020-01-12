@@ -1,0 +1,55 @@
+<contest-event id="24647">
+  <event-date date="1930-6-14">June 14, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tow Law Contest</name>
+  <contest id="1453">
+    <name>Tow Law Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>tow-law-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="2416">Tow Law, County Durham</venue>
+  <notes>Prizes - 1st £8, 2nd £5, 3rd £4.
+  8 bands competed.</notes>
+
+  <created>Oct. 22, 2013, 1:11 p.m.</created>
+  <last-modified>Dec. 6, 2018, 1:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180226">
+      <result code="1">1</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">W. Turnbull</conductor>
+    </result>
+    
+    <result id="180227">
+      <result code="2">2</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="308136">William Richards</conductor>
+    </result>
+    
+    <result id="180228">
+      <result code="3">3</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="180229">
+      <result code="4">4</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

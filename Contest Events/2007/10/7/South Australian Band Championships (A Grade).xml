@@ -1,0 +1,54 @@
+<contest-event id="3345">
+  <event-date date="2007-10-7">Oct. 7, 2007<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Australian Band Championships (A Grade)</name>
+  <contest id="569">
+    <name>South Australian Band Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="40">Four Dances from Checkmate</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Dec. 3, 2010, 2:42 a.m.</created>
+  <last-modified>June 14, 2018, 11:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="32074">
+      <result code="1">1</result>
+      <band id="2178">Tanunda Town Band</band>
+      <conductor id="307553">David Polain</conductor>
+    </result>
+    
+    <result id="32075">
+      <result code="2">2</result>
+      <band id="698">Kensington &amp; Norwood Brass</band>
+      <conductor id="307954">Bruce Raymond</conductor>
+    </result>
+    
+    <result id="32076">
+      <result code="3">3</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="310031">Peter Sykes</conductor>
+    </result>
+    
+    <result id="32077">
+      <result code="4">4</result>
+      <band id="1161">Brisbane Brass</band>
+      <conductor id="296834">Greg Aitken</conductor>
+    </result>
+    
+  </results>
+</contest-event>

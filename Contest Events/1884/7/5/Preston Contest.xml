@@ -1,0 +1,78 @@
+<contest-event id="9110">
+  <event-date date="1884-7-5">July 5, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Preston Contest</name>
+  <contest id="1282">
+    <name>Preston Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>preston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1510">Princess Ida</test-piece>
+  </test-piece>
+
+  <venue id="1115">Pleasure Gardens, Preston</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Dec. 21, 2011, 6:22 p.m.</created>
+  <last-modified>Nov. 3, 2017, 10:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="79192">
+      <result code="1">1</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="306842">Job Nutter</conductor>
+    </result>
+    
+    <result id="79191">
+      <result code="2">2</result>
+      <band id="3745">3rd L.A.V. (Chorley)</band>
+      <conductor id="307672">George Pressler</conductor>
+    </result>
+    
+    <result id="243226">
+      <result code="3">3</result>
+      <band id="6084">Blackburn Temperance</band>
+      <conductor id="313663">George Mellor</conductor>
+    </result>
+    
+    <result id="278673">
+      <result code="W">Withdrawn</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="278675">
+      <result code="W">Withdrawn</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="278676">
+      <result code="W">Withdrawn</result>
+      <band id="396">Littleborough Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="278677">
+      <result code="W">Withdrawn</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="278674">
+      <result code="W">Withdrawn</result>
+      <band id="3528">Wigan Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

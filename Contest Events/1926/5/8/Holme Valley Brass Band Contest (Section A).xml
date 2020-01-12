@@ -1,0 +1,62 @@
+<contest-event id="11632">
+  <event-date date="1926-5-8">May 8, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holme Valley Brass Band Contest (Section A)</name>
+  <contest id="83">
+    <name>Holme Valley Brass Band Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type>
+    <group id="119">Holme Valley Brass Band Contest</group>
+    <slug>holme-valley-brass-band-contest-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="586">Victoria Park, Holmfirth</venue>
+  <notes>March contest (Red Gauntlet) - 1st Brighouse and Rastrick, 2nd Holme Silver.
+Prizes - 1st £15 and cup, 2nd £12, 3rd £9, 4th £6, 5th £3.
+6th annual contest</notes>
+
+  <created>April 4, 2012, 9:12 p.m.</created>
+  <last-modified>Nov. 9, 2018, 10:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="94686">
+      <result code="1">1</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="299408">
+      <result code="2">2</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="299409">
+      <result code="3">3</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="299410">
+      <result code="4">4</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="318648">Gordon Lawson</conductor>
+    </result>
+    
+    <result id="299411">
+      <result code="5">5</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="306841">Walter Nuttall</conductor>
+    </result>
+    
+  </results>
+</contest-event>

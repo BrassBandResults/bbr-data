@@ -1,0 +1,111 @@
+<contest-event id="42270">
+  <event-date date="1892-8-13">Aug. 13, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ovenden Contest</name>
+  <contest id="1379">
+    <name>Ovenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ovenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="7136">Watkinson Hall, Ovenden, Yorks</venue>
+  <notes>1st contest promoted by Ovenden Horticultural Society.
+March contest - 1st Bingley Mission, 2nd Great Horton.
+Prizes - 1st £15, 2nd £8, 3rd £4, 4th £2.
+13 bands competed.</notes>
+
+  <created>June 2, 2019, 9:09 p.m.</created>
+  <last-modified>June 2, 2019, 9:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="309072">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309070">
+      <result code="2">2</result>
+      <band id="7674">Bingley Mission</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309067">
+      <result code="3">3</result>
+      <band id="2518">Great Horton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309064">
+      <result code="4">4</result>
+      <band id="6151">Northowram Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309065">
+      <result code="">Unknown Result</result>
+      <band id="10452">Pellon Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309066">
+      <result code="">Unknown Result</result>
+      <band id="6583">Cleckheaton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309068">
+      <result code="">Unknown Result</result>
+      <band id="10453">Shipley Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309069">
+      <result code="">Unknown Result</result>
+      <band id="4356">Denholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309071">
+      <result code="">Unknown Result</result>
+      <band id="17508">Clayton and Babcock&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309073">
+      <result code="">Unknown Result</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309074">
+      <result code="">Unknown Result</result>
+      <band id="4404">Brighouse Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309075">
+      <result code="">Unknown Result</result>
+      <band id="8532">Luddendenfoot</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309076">
+      <result code="">Unknown Result</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

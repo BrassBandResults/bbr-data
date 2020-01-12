@@ -1,0 +1,79 @@
+<contest-event id="30583">
+  <event-date date="1974-7-28">July 28, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Teesside International Eisteddfod (Section 1)</name>
+  <contest id="5442">
+    <name>Teesside International Eisteddfod (Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>teesside-international-eisteddfod-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="218">Triumphant Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="4950">Prissick School, Marton Road, Middlesbrough</venue>
+  <notes>Prizes - 1st £250 and trophy, 2nd £150, 3rd £100.
+8 bands competed.</notes>
+
+  <created>Dec. 10, 2014, 11:13 p.m.</created>
+  <last-modified>Dec. 17, 2016, 7:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="216227">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="306994">Robert Oughton</conductor>
+    </result>
+    
+    <result id="216228">
+      <result code="2">2</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+    <result id="216229">
+      <result code="3">3</result>
+      <band id="274">William Davis Construction Group Band</band>
+      <conductor id="297582">Ian Bartram</conductor>
+    </result>
+    
+    <result id="265901">
+      <result code="">Unknown Result</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265905">
+      <result code="">Unknown Result</result>
+      <band id="12007">Copenhagen Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265902">
+      <result code="">Unknown Result</result>
+      <band id="14475">Dechovy Orchestr Sigma</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265904">
+      <result code="">Unknown Result</result>
+      <band id="19">Desford Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265903">
+      <result code="">Unknown Result</result>
+      <band id="1210">Templemore</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="15144">
+  <event-date date="1982-8-9">Aug. 9, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class C)</name>
+  <contest id="3281">
+    <name>National Eisteddfod of Wales (Class C)</name>
+    <order>120</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="201">Call of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="2449">Singleton Park, Swansea</venue>
+  <notes>4 bands played.</notes>
+
+  <created>Oct. 9, 2012, 9:39 p.m.</created>
+  <last-modified>July 17, 2015, 10:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="205655">
+      <result code="1">1</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205656">
+      <result code="2">2</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205657">
+      <result code="3">3</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="231729">
+      <result code="4">4</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

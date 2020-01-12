@@ -1,0 +1,56 @@
+<contest-event id="26132">
+  <event-date date="1932-10-29">Oct. 29, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Section 1)</name>
+  <contest id="4152">
+    <name>Reading Contest (Section 1)</name>
+    <order>450</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="554">Reading Town Hall, Reading, Berkshire, England, UK</venue>
+  <notes>Prizes: 6 guineas, 4 guineas, 2 guineas
+
+3 bands competed
+
+Choice of two test pieces
+</notes>
+
+  <created>Jan. 24, 2014, 1:47 p.m.</created>
+  <last-modified>Dec. 13, 2016, 9:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="189160">
+      <result code="1">1</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+    <result id="189161">
+      <result code="2">2</result>
+      <band id="2149">Reading Spring Gardens Brass Band</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+      <test-piece id="1044">Operatic Beauties</test-piece>
+    </result>
+    
+    <result id="189162">
+      <result code="3">3</result>
+      <band id="8392">South Berkshire</band>
+      <conductor id="304997">Jack Lennon</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

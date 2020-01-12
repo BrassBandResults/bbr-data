@@ -1,0 +1,78 @@
+<contest-event id="23">
+  <event-date date="2003-11-30">Nov. 30, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Third Division)</name>
+  <contest id="14">
+    <name>Swiss National Championships (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-third-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="24">Sunset Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Feb. 27, 2009, 5:28 p.m.</created>
+  <last-modified>Jan. 19, 2010, 10:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="350">
+      <result code="1">1</result>
+      <band id="105">Regionale Jugend Brass Band Luzern</band>
+      <conductor id="310620">Corsin Tuor</conductor>
+    </result>
+    
+    <result id="351">
+      <result code="2">2</result>
+      <band id="106">Oberwalliser Brass Band Junior</band>
+      <conductor id="308679">Tobias Salzgeber</conductor>
+    </result>
+    
+    <result id="352">
+      <result code="3">3</result>
+      <band id="107">Brass Band Ratia</band>
+      <conductor id="297092">Roland Aregger</conductor>
+    </result>
+    
+    <result id="353">
+      <result code="4">4</result>
+      <band id="108">Liberty Brass Band Junior</band>
+      <conductor id="305341">Christoph Luchsinger</conductor>
+    </result>
+    
+    <result id="354">
+      <result code="5">5</result>
+      <band id="109">Musikgesellschaft Brass Band Märwil</band>
+      <conductor id="301264">Markus Fisch</conductor>
+    </result>
+    
+    <result id="355">
+      <result code="6">6</result>
+      <band id="110">Brass Band Rhodan</band>
+      <conductor id="307427">Christian Pfammatter</conductor>
+    </result>
+    
+    <result id="356">
+      <result code="7">7</result>
+      <band id="111">Musikgesellschaft Brass Band Hauptwil</band>
+      <conductor id="304399">Edi Keller</conductor>
+    </result>
+    
+    <result id="357">
+      <result code="8">8</result>
+      <band id="112">Entlebucher Jugend Brass Band</band>
+      <conductor id="308773">Peter Schmid</conductor>
+    </result>
+    
+  </results>
+</contest-event>

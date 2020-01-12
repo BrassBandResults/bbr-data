@@ -1,0 +1,66 @@
+<contest-event id="39077">
+  <event-date date="2003-8-16">Aug. 16, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (D Grade)</name>
+  <contest id="3480">
+    <name>Victorian State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-d-grade</slug>
+    
+    <notes>None</notes>
+    
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="816">The Ancient Temple</test-piece>
+  </test-piece>
+
+  <venue id="4945">Her Majesty&#39;s Theatre, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 2, 2018, 3:40 a.m.</created>
+  <last-modified>Feb. 2, 2018, 3:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="284223">
+      <result code="1">1</result>
+      <band id="2170">Sunshine Community Brass [Victoria]</band>
+      <conductor id="307599">Wally Pope</conductor>
+    </result>
+    
+    <result id="284224">
+      <result code="2">2</result>
+      <band id="2161">Hahndorf Town Band</band>
+      <conductor id="298954">Kevin Cameron</conductor>
+    </result>
+    
+    <result id="284225">
+      <result code="3">3</result>
+      <band id="6404">City of Bendigo Brass Band</band>
+      <conductor id="317596">Andrew Trewaratha</conductor>
+    </result>
+    
+    <result id="284227">
+      <result code="">Unknown Result</result>
+      <band id="2150">Marion City Band</band>
+      <conductor id="317597">Alan Gilies</conductor>
+    </result>
+    
+    <result id="284226">
+      <result code="">Unknown Result</result>
+      <band id="732">Shepparton Brass</band>
+      <conductor id="303979">Ossie Jellyman</conductor>
+    </result>
+    
+    <result id="284228">
+      <result code="">Unknown Result</result>
+      <band id="9348">Wodonga Brass</band>
+      <conductor id="317548">John Drage</conductor>
+    </result>
+    
+  </results>
+</contest-event>

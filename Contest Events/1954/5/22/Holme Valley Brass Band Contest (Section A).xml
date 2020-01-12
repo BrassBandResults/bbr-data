@@ -1,0 +1,62 @@
+<contest-event id="11610">
+  <event-date date="1954-5-22">May 22, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holme Valley Brass Band Contest (Section A)</name>
+  <contest id="83">
+    <name>Holme Valley Brass Band Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type>
+    <group id="119">Holme Valley Brass Band Contest</group>
+    <slug>holme-valley-brass-band-contest-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="601">Moments with Wagner</test-piece>
+  </test-piece>
+
+  <venue id="18">Civic Hall, Holmfirth</venue>
+  <notes>March contest 1st Royston New Monckton, 2nd Hade Edge.
+Prizes - 1st £20 and cup, 2nd £15, 3rd £10, 4th £6, 5th £4.
+9 bands competed</notes>
+
+  <created>April 4, 2012, 8:57 p.m.</created>
+  <last-modified>April 4, 2019, 12:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94664">
+      <result code="1">1</result>
+      <band id="4888">Royston New Monckton Colliery Institute</band>
+      <conductor id="301438">William Foster</conductor>
+    </result>
+    
+    <result id="143344">
+      <result code="2">2</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="308335">Albert Robinson</conductor>
+    </result>
+    
+    <result id="305950">
+      <result code="3">3</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="308335">Albert Robinson</conductor>
+    </result>
+    
+    <result id="305951">
+      <result code="4">4</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="304357">George Kaye</conductor>
+    </result>
+    
+    <result id="305952">
+      <result code="5">5</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="308281">Gordon Roberts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

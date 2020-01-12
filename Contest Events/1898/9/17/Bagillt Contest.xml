@@ -1,0 +1,44 @@
+<contest-event id="15382">
+  <event-date date="1898-9-17">Sept. 17, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bagillt Contest</name>
+  <contest id="1016">
+    <name>Bagillt Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bagillt-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="1995">Bagillt, Flintshire, Wales, UK</venue>
+  <notes>March contest: 1. Old Colwyn.
+Name of band drawn 2 not disclosed in adjudicators remarks to save embarassment.
+3 bands competed.</notes>
+
+  <created>Oct. 15, 2012, 5:41 p.m.</created>
+  <last-modified>July 22, 2019, 7:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119094">
+      <result code="1">1</result>
+      <band id="671">Holywell Band</band>
+      <conductor id="303369">S. Holt</conductor>
+    </result>
+    
+    <result id="119095">
+      <result code="2">2</result>
+      <band id="6547">Old Colwyn</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+  </results>
+</contest-event>

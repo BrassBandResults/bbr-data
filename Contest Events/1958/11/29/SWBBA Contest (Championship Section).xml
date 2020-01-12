@@ -1,0 +1,48 @@
+<contest-event id="23146">
+  <event-date date="1958-11-29">Nov. 29, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="566">English Folk Song Suite</test-piece>
+  </test-piece>
+
+  <venue id="413">Queen&#39;s Theatre, Barnstaple, Devon, England, UK</venue>
+  <notes>  Hymn tune contest (Blaenwern) - 1st Burnham and Highbridge.</notes>
+
+  <created>Aug. 19, 2013, 5:33 p.m.</created>
+  <last-modified>Aug. 19, 2013, 5:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170320">
+      <result code="1">1</result>
+      <band id="567">Bideford Town Band</band>
+      <conductor id="298663">A. R. Bryant</conductor>
+    </result>
+    
+    <result id="170321">
+      <result code="2">2</result>
+      <band id="1295">Burnham &amp; Highbridge</band>
+      <conductor id="302041">L. F. Granham</conductor>
+    </result>
+    
+    <result id="170322">
+      <result code="3">3</result>
+      <band id="2074">Newton Abbot Town</band>
+      <conductor id="306924">W. O. Oliver</conductor>
+    </result>
+    
+  </results>
+</contest-event>

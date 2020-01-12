@@ -1,0 +1,64 @@
+<contest-event id="28882">
+  <event-date date="1953-6-20">June 20, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Knaresborough Contest</name>
+  <contest id="5148">
+    <name>Knaresborough Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="517">Knaresborough Contest</group>
+    <slug>knaresborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="855">Bianca e Fernando</test-piece>
+  </test-piece>
+
+  <venue id="4904">Knaresborough House, Knaresborough, Yorkshire</venue>
+  <notes>5 bands competed
+
+March: 1. Butterfield
+
+</notes>
+
+  <created>June 30, 2014, 10:43 p.m.</created>
+  <last-modified>March 26, 2019, 4:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="206240">
+      <result code="1">1</result>
+      <band id="2672">Buttersfield&#39;s Tank Works</band>
+      <conductor id="298782">Bernard Burns</conductor>
+    </result>
+    
+    <result id="206242">
+      <result code="2">2</result>
+      <band id="137">Wetherby and District Silver</band>
+      <conductor id="301661">Arthur Garforth</conductor>
+    </result>
+    
+    <result id="206244">
+      <result code="3">3</result>
+      <band id="445">Yeadon Old Band</band>
+      <conductor id="304874">G. Lawson</conductor>
+    </result>
+    
+    <result id="206241">
+      <result code="">Unknown Result</result>
+      <band id="3271">Bradford Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="206243">
+      <result code="">Unknown Result</result>
+      <band id="4452">Wakefield City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

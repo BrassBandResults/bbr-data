@@ -1,0 +1,42 @@
+<contest-event id="32815">
+  <event-date date="2001-11-10">Nov. 10, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="54">Tallis Variations</test-piece>
+  </test-piece>
+
+  <venue id="48">Riviera International Conference Centre, Torquay, Devon, England, UK</venue>
+  <notes>55th annual contest</notes>
+
+  <created>Sept. 18, 2015, 8:24 a.m.</created>
+  <last-modified>Sept. 18, 2015, 8:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="236803">
+      <result code="1">1</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="305289">David Loukes</conductor>
+    </result>
+    
+    <result id="236804">
+      <result code="2">2</result>
+      <band id="694">Thornbury Band</band>
+      <conductor id="296773">Anri Adachi</conductor>
+    </result>
+    
+  </results>
+</contest-event>

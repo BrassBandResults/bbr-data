@@ -1,0 +1,85 @@
+<contest-event id="9918">
+  <event-date date="1989-11-19">Nov. 19, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pilkington Northern Open (Section A)</name>
+  <contest id="80">
+    <name>Northern Open (Championship/First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="49">Northern Open</group>
+    <slug>wilkinson-northern-open</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+  </test-piece>
+
+  <venue id="64">Theatre Royal, St. Helens</venue>
+  <notes>Prizes - 1st £250 and trophy, 2nd £200 and cup, 3rd £150 and cup.
+6 bands competed.</notes>
+
+  <created>Feb. 3, 2012, 1:05 p.m.</created>
+  <last-modified>May 31, 2016, 2:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84401">
+      <result code="1">1</result>
+      <band id="1309">British Aerospace (Chadderton)</band>
+      <conductor id="304780">Eric Landon</conductor>
+    </result>
+    
+    <result id="128451">
+      <result code="2">2</result>
+      <band id="171">Blackburn and Darwen Band</band>
+      <conductor id="300966">Alec Evans</conductor>
+    </result>
+    
+    <result id="97674">
+      <result code="3">3</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="298036">Sandy Blair</conductor>
+    </result>
+    
+    <result id="255896">
+      <result code="">Unknown Result</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="297003">Keiron Anderson</conductor>
+    </result>
+    
+    <result id="219438">
+      <result code="">Unknown Result</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="299762">Mike Cotter</conductor>
+    </result>
+    
+    <result id="219437">
+      <result code="">Unknown Result</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="310101">Edward Tarling</conductor>
+    </result>
+    
+    <result id="219439">
+      <result code="W">Withdrawn</result>
+      <band id="403">British Steel Teesside</band>
+      <conductor id="303166">David Hirst</conductor>
+    </result>
+    
+    <result id="219441">
+      <result code="W">Withdrawn</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="304885">Alan Lawton</conductor>
+    </result>
+    
+    <result id="219440">
+      <result code="W">Withdrawn</result>
+      <band id="175">Vernon Building Society (Poynton) Brass Band</band>
+      <conductor id="312075">Robert Wyatt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

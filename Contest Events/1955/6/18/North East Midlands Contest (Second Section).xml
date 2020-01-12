@@ -1,0 +1,48 @@
+<contest-event id="20141">
+  <event-date date="1955-6-18">June 18, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North East Midlands Contest (Second Section)</name>
+  <contest id="118">
+    <name>North East Midlands Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="12">North East Midlands Contest</group>
+    <slug>north-east-midlands-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3407">Carr Bank Park, Mansfield, Nottinghamshire</venue>
+  <notes>  Prizes - 1st £15, 2nd £10, 3rd £5.</notes>
+
+  <created>March 31, 2013, 2:45 p.m.</created>
+  <last-modified>March 31, 2013, 2:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149801">
+      <result code="1">1</result>
+      <band id="118">Thoresby Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149802">
+      <result code="2">2</result>
+      <band id="2467">Clipstone Colliery Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149803">
+      <result code="3">3</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

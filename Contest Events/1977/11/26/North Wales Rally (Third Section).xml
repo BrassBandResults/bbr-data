@@ -1,0 +1,48 @@
+<contest-event id="23516">
+  <event-date date="1977-11-26">Nov. 26, 1977<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Third Section)</name>
+  <contest id="1773">
+    <name>North Wales Rally (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="70">The Shipbuilders</test-piece>
+  </test-piece>
+
+  <venue id="3526">Coleg Cambria, Connah&#39;s Quay, Flintshire, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Sept. 6, 2013, 4:11 p.m.</created>
+  <last-modified>Sept. 6, 2013, 4:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="172526">
+      <result code="1">1</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="172527">
+      <result code="2">2</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="172528">
+      <result code="3">3</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

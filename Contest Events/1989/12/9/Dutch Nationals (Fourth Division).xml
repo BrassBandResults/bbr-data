@@ -1,0 +1,42 @@
+<contest-event id="30454">
+  <event-date date="1989-12-9">Dec. 9, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Fourth Division)</name>
+  <contest id="519">
+    <name>Dutch Nationals (Fourth Division)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-fourth-division</slug>
+    
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="242">Stantonbury Festival</test-piece>
+  </test-piece>
+
+  <venue id="129">De Hanzehof, Zutphen, Gelderland, Netherlands</venue>
+  <notes></notes>
+
+  <created>Dec. 1, 2014, 12:25 a.m.</created>
+  <last-modified>Dec. 22, 2015, 3:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="215373">
+      <result code="1">1</result>
+      <band id="1336">Brass Band De Lofklank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="241454">
+      <result code="2">2</result>
+      <band id="1737">Looft den Heer Beetgumermolen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

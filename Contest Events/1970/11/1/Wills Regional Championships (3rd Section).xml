@@ -1,0 +1,78 @@
+<contest-event id="5768">
+  <event-date date="1970-11-1">Nov. 1, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wills Regional Championships (3rd Section)</name>
+  <contest id="1091">
+    <name>Wills Regional Championships - Wolverhampton (3rd Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="203">Wills Regional Championships - Wolverhampton</group>
+    <slug>wills-regional-championships-wolverhampt-1091</slug>
+    <qualifies-for id="888">Wills Championships Grand Finals (3rd Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="973">The Pacemakers</test-piece>
+  </test-piece>
+
+  <venue id="284">Civic Hall, Wolverhampton</venue>
+  <notes>Regional qualifier for 1971 Final.</notes>
+
+  <created>May 7, 2011, 6:44 p.m.</created>
+  <last-modified>Feb. 1, 2012, 5:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="50015">
+      <result code="1">1</result>
+      <band id="292">Riddings Band</band>
+      <conductor id="301987">Geoff Gossage</conductor>
+    </result>
+    
+    <result id="50012">
+      <result code="2">2</result>
+      <band id="386">Croft Silver Band</band>
+      <conductor id="299221">Albert Chappell</conductor>
+    </result>
+    
+    <result id="50011">
+      <result code="3">3</result>
+      <band id="1537">City of Coventry Brass Band</band>
+      <conductor id="307365">Leonard Pepper</conductor>
+    </result>
+    
+    <result id="50010">
+      <result code="">Unknown Result</result>
+      <band id="2021">City of Leicester</band>
+      <conductor id="298300">G. Boyce</conductor>
+    </result>
+    
+    <result id="50014">
+      <result code="">Unknown Result</result>
+      <band id="1214">Loughborough</band>
+      <conductor id="301271">Bud Fisher</conductor>
+    </result>
+    
+    <result id="50009">
+      <result code="">Unknown Result</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="50008">
+      <result code="">Unknown Result</result>
+      <band id="1490">Daw Mill Colliery Band</band>
+      <conductor id="298569">Bill Brotherhood</conductor>
+    </result>
+    
+    <result id="50013">
+      <result code="W">Withdrawn</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="310344">Peter Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

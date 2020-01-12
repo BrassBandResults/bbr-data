@@ -1,0 +1,54 @@
+<contest-event id="822">
+  <event-date date="2008-11-29">Nov. 29, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Fourth Division)</name>
+  <contest id="15">
+    <name>Swiss National Championships (Fourth Division)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-fourth-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="248">Petite Suite de Ballet</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>Best Solo Euphonium: Brass Band L&#39;Avenir Lignières B</notes>
+
+  <created>Sept. 3, 2009, 9:13 p.m.</created>
+  <last-modified>July 7, 2013, 6:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="9336">
+      <result code="1">1</result>
+      <band id="1087">Brass Band L&#39;Avenir Lignières B</band>
+      <conductor id="297532">Vincent Baroni</conductor>
+    </result>
+    
+    <result id="9337">
+      <result code="2">2</result>
+      <band id="112">Entlebucher Jugend Brass Band</band>
+      <conductor id="298949">Rafael Camartin</conductor>
+    </result>
+    
+    <result id="9338">
+      <result code="3">3</result>
+      <band id="1089">Brass Band Maur</band>
+      <conductor id="304694">Werner Kubli</conductor>
+    </result>
+    
+    <result id="9339">
+      <result code="4">4</result>
+      <band id="1090">Brass Band Rhodan B</band>
+      <conductor id="307427">Christian Pfammatter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

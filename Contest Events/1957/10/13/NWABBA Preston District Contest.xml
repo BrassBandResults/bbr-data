@@ -1,0 +1,55 @@
+<contest-event id="22872">
+  <event-date date="1957-10-13">Oct. 13, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Preston District Contest</name>
+  <contest id="2411">
+    <name>NWABBA Preston District Contest</name>
+    <order>90</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="38">Fleetwood Contest (NWABBA Preston District Contest)</group>
+    <slug>nwabba-preston-district-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="159">Indian Summer</test-piece>
+  </test-piece>
+
+  <venue id="383">Public Hall, Preston</venue>
+  <notes>
+  March contest - 1st Longridge, 2nd Hoggarths, 3rd Preston Town.</notes>
+
+  <created>Aug. 15, 2013, 8:40 a.m.</created>
+  <last-modified>Dec. 5, 2016, 11:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="168778">
+      <result code="1">1</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168779">
+      <result code="2">2</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168780">
+      <result code="3">3</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168781">
+      <result code="">Unknown Result</result>
+      <band id="4058">Preston Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

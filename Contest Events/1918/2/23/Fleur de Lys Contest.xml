@@ -1,0 +1,61 @@
+<contest-event id="40620">
+  <event-date date="1918-2-23">Feb. 23, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fleur de Lys Contest</name>
+  <contest id="6369">
+    <name>Fleur de Lys Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>fleur-de-lys-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2450">The Carnival of Flowers</test-piece>
+  </test-piece>
+
+  <venue id="6942">Fleur-de-Lis, Monmouthsjire</venue>
+  <notes>Prizes - 1st £10, 2nd £2, 3rd £1.
+5 bands competed.</notes>
+
+  <created>Oct. 9, 2018, 6:58 a.m.</created>
+  <last-modified>Oct. 9, 2018, 7:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295531">
+      <result code="1">1</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="306920">J. R. Oliver</conductor>
+    </result>
+    
+    <result id="295534">
+      <result code="2">2</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="302537">D. Hanney</conductor>
+    </result>
+    
+    <result id="295535">
+      <result code="3">3</result>
+      <band id="311">Treherbert &amp; District Band</band>
+      <conductor id="304292">W. Jones</conductor>
+    </result>
+    
+    <result id="295532">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="307641">William Powell</conductor>
+    </result>
+    
+    <result id="295533">
+      <result code="">Unknown Result</result>
+      <band id="11332">Llanbradach</band>
+      <conductor id="300256">H. W. Day</conductor>
+    </result>
+    
+  </results>
+</contest-event>

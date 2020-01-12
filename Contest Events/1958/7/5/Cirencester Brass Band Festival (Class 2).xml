@@ -1,0 +1,60 @@
+<contest-event id="23079">
+  <event-date date="1958-7-5">July 5, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cirencester Brass Band Festival (Class 2)</name>
+  <contest id="2953">
+    <name>Cirencester Brass Band Festival (Class 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="400">Cirencester Contest</group>
+    <slug>cirencester-brass-band-festival-class-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="857">In Switzerland</test-piece>
+  </test-piece>
+
+  <venue id="3112">Cirencester, Gloucestershire, England, UK</venue>
+  <notes></notes>
+
+  <created>Aug. 18, 2013, 7:10 a.m.</created>
+  <last-modified>Sept. 16, 2016, 11:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169949">
+      <result code="1">1</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169950">
+      <result code="2">2</result>
+      <band id="381">Severn Tunnel Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169951">
+      <result code="3">3</result>
+      <band id="494">Avonbank (Evesham) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169952">
+      <result code="4">4</result>
+      <band id="509">Shipston Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169953">
+      <result code="">Unknown Result</result>
+      <band id="2021">City of Leicester</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

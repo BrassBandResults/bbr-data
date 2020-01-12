@@ -1,0 +1,55 @@
+<contest-event id="33962">
+  <event-date date="1936-11-2">Nov. 2, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="532">Pride of Race</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 7, 2016, 8:15 a.m.</created>
+  <last-modified>Jan. 29, 2018, 4:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="244930">
+      <result code="1">1</result>
+      <band id="11226">Melbourne Fire Brigade</band>
+      <conductor id="304131">Frank Johnston</conductor>
+      <test-piece id="535">Oliver Cromwell</test-piece>
+    </result>
+    
+    <result id="244931">
+      <result code="2">2</result>
+      <band id="13030">Thebarton Municipal</band>
+      <conductor id="303410">Dave Hopkins</conductor>
+    </result>
+    
+    <result id="244932">
+      <result code="3">3</result>
+      <band id="13746">N S W  Railways</band>
+      <conductor id="299776">Charles Coughlan</conductor>
+    </result>
+    
+    <result id="244933">
+      <result code="4">4</result>
+      <band id="2178">Tanunda Town Band</band>
+      <conductor id="317745">Arthur. P John</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="10357">
+  <event-date date="1905-8-2">Aug. 2, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sandringham Contest</name>
+  <contest id="1963">
+    <name>Sandringham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sandringham-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1396">Sandringham, Norfolk</venue>
+  <notes>1st prize £20. 2nd prize £10. 3rd prize £6. 4th prize £4.</notes>
+
+  <created>Feb. 17, 2012, 1:56 p.m.</created>
+  <last-modified>Sept. 11, 2018, 6:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87298">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="87299">
+      <result code="2">2</result>
+      <band id="6323">Peterborough Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87300">
+      <result code="3">3</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="307686">Thomas Preston</conductor>
+    </result>
+    
+    <result id="87301">
+      <result code="4">4</result>
+      <band id="6349">Wisbech Town</band>
+      <conductor id="302430">W. Hall</conductor>
+    </result>
+    
+  </results>
+</contest-event>

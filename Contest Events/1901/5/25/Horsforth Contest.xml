@@ -1,0 +1,63 @@
+<contest-event id="8175">
+  <event-date date="1901-5-25">May 25, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Horsforth Contest</name>
+  <contest id="1426">
+    <name>Horsforth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>horsforth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2577">Woodland Whispers</test-piece>
+  </test-piece>
+
+  <venue id="4515">Hall Park, Horsforth, Leeds</venue>
+  <notes>Promoted by Horsforth Subscription Band
+Prizes: £7, £4, £2 10s, £1 10s
+March: 1. Rishworth.
+5 bands competed.</notes>
+
+  <created>Nov. 8, 2011, 1:34 p.m.</created>
+  <last-modified>June 21, 2018, 9:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193488">
+      <result code="1">1</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="73538">
+      <result code="2">2</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="193489">
+      <result code="3">3</result>
+      <band id="3495">Kirkstall</band>
+      <conductor id="305523">H. Mallinson</conductor>
+    </result>
+    
+    <result id="193490">
+      <result code="4">4</result>
+      <band id="6885">Richardshaw Lane Band</band>
+      <conductor id="303847">C. Jackson</conductor>
+    </result>
+    
+    <result id="290680">
+      <result code="5">5</result>
+      <band id="3196">Guiseley Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

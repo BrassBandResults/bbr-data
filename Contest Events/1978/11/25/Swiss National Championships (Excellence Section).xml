@@ -1,0 +1,54 @@
+<contest-event id="14385">
+  <event-date date="1978-11-25">Nov. 25, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1641">Challenging Brass</test-piece>
+  </test-piece>
+
+  <venue id="1951">Kongresshaus, Zürich, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2012, 9:07 a.m.</created>
+  <last-modified>Feb. 10, 2017, 8:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114631">
+      <result code="1">1</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+    <result id="199075">
+      <result code="2">2</result>
+      <band id="11963">MV Harmonie Triengen</band>
+      <conductor id="297089">Fred Aregger</conductor>
+    </result>
+    
+    <result id="199076">
+      <result code="3">3</result>
+      <band id="9968">Ensemble Broyard d&#39;instruments de Cuivre</band>
+      <conductor id="302107">Louis Graz</conductor>
+    </result>
+    
+    <result id="199077">
+      <result code="4">4</result>
+      <band id="9967">Brass Band Eschlikon</band>
+      <conductor id="300798">Ernst Egger</conductor>
+    </result>
+    
+  </results>
+</contest-event>

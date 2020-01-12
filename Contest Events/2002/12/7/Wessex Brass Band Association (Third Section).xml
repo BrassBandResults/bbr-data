@@ -1,0 +1,54 @@
+<contest-event id="1003">
+  <event-date date="2002-12-7">Dec. 7, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Third Section)</name>
+  <contest id="172">
+    <name>Wessex Brass Band Association (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="70">The Shipbuilders</test-piece>
+  </test-piece>
+
+  <venue id="84">Arts Centre, Poole</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Oct. 10, 2009, 4:26 p.m.</created>
+  <last-modified>Sept. 24, 2015, 9:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="10835">
+      <result code="1">1</result>
+      <band id="1265">Sandleheath</band>
+      <conductor id="305601">Don Marlow</conductor>
+    </result>
+    
+    <result id="10836">
+      <result code="2">2</result>
+      <band id="1037">Wilton &amp; District Band</band>
+      <conductor id="299174">Dennis Chalk</conductor>
+    </result>
+    
+    <result id="10837">
+      <result code="3">3</result>
+      <band id="1035">Shaftesbury Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="10838">
+      <result code="4">4</result>
+      <band id="1266">Ramsbury Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

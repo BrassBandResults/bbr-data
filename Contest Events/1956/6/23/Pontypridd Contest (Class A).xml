@@ -1,0 +1,48 @@
+<contest-event id="22069">
+  <event-date date="1956-6-23">June 23, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class A)</name>
+  <contest id="2115">
+    <name>Pontypridd Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="197">Tournament for Brass</test-piece>
+  </test-piece>
+
+  <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes></notes>
+
+  <created>June 28, 2013, 10:56 a.m.</created>
+  <last-modified>June 28, 2013, 10:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163623">
+      <result code="1">1</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="163624">
+      <result code="2">2</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306836">Harry Nuttall</conductor>
+    </result>
+    
+    <result id="163625">
+      <result code="3">3</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="298696">Cornelius Buckley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

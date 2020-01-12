@@ -1,0 +1,55 @@
+<contest-event id="20758">
+  <event-date date="1971-11-7">Nov. 7, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wills Regional Championships - Wolverhampton (Championship Section)</name>
+  <contest id="1084">
+    <name>Wills Regional Championships - Wolverhampton (Championship Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="203">Wills Regional Championships - Wolverhampton</group>
+    <slug>wills-regional-championships-wolverhampt-1084</slug>
+    <qualifies-for id="891">Wills Championships Grand Finals (Championship Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="908">Essay [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="284">Civic Hall, Wolverhampton</venue>
+  <notes>
+  4 bands competed.</notes>
+
+  <created>April 23, 2013, 12:51 p.m.</created>
+  <last-modified>April 23, 2013, 12:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="154224">
+      <result code="1">1</result>
+      <band id="19">Desford Colliery Band</band>
+      <conductor id="311945">Ernest Woodhouse</conductor>
+    </result>
+    
+    <result id="154225">
+      <result code="2">2</result>
+      <band id="960">Kingswood (Bristol) Band</band>
+      <conductor id="304459">Arthur Kenney</conductor>
+    </result>
+    
+    <result id="154226">
+      <result code="3">3</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="315703">George Young</conductor>
+    </result>
+    
+    <result id="154227">
+      <result code="4">4</result>
+      <band id="4262">Bedworth Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

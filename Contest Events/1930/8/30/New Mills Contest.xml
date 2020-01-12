@@ -1,0 +1,104 @@
+<contest-event id="41537">
+  <event-date date="1930-8-30">Aug. 30, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Mills Contest</name>
+  <contest id="2311">
+    <name>New Mills Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-mills-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2648">Fascination</test-piece>
+  </test-piece>
+
+  <venue id="1670">New Mills, Derbyshire</venue>
+  <notes>March contest - 1st B Winning, 2nd Hayfield.
+Prizes - 1st £8 and shield, 2nd £4, 3rd £2.
+12 bands competed</notes>
+
+  <created>Dec. 11, 2018, 10:46 a.m.</created>
+  <last-modified>Dec. 11, 2018, 12:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="302073">
+      <result code="1">1</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="303758">T. Hynes</conductor>
+    </result>
+    
+    <result id="302074">
+      <result code="2">2</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="302075">
+      <result code="3">3</result>
+      <band id="4591">Hayfield</band>
+      <conductor id="297445">F. Barber</conductor>
+    </result>
+    
+    <result id="302084">
+      <result code="">Unknown Result</result>
+      <band id="2792">Compstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302081">
+      <result code="">Unknown Result</result>
+      <band id="4468">Dunham Woodhouses</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302076">
+      <result code="">Unknown Result</result>
+      <band id="3370">Edgeley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302083">
+      <result code="">Unknown Result</result>
+      <band id="4553">Kearsley St. Stephens Junior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302079">
+      <result code="">Unknown Result</result>
+      <band id="1058">Marple Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302082">
+      <result code="">Unknown Result</result>
+      <band id="8302">Reddish Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302080">
+      <result code="">Unknown Result</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302077">
+      <result code="">Unknown Result</result>
+      <band id="3218">Thatto Heath</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302078">
+      <result code="">Unknown Result</result>
+      <band id="4371">Trafford Park Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

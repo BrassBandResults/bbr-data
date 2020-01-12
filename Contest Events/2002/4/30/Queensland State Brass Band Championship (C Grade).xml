@@ -1,0 +1,54 @@
+<contest-event id="42549">
+  <event-date date="2002-4-30">April 30, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (C Grade)</name>
+  <contest id="1709">
+    <name>Queensland State Brass Band Championship (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="690">Dancing in the Park</test-piece>
+  </test-piece>
+
+  <venue id="7122">Gladstone Civic Centre  ,  Gladstone  Queensland</venue>
+  <notes></notes>
+
+  <created>Sept. 19, 2019, 12:32 a.m.</created>
+  <last-modified>Sept. 19, 2019, 12:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="312130">
+      <result code="1">1</result>
+      <band id="1318">Sunshine Brass [Queensland]</band>
+      <conductor id="317825">Nathan Wiltshire</conductor>
+    </result>
+    
+    <result id="312131">
+      <result code="2">2</result>
+      <band id="1322">Surfers Paradise Brass</band>
+      <conductor id="310599">Alan Trueman</conductor>
+    </result>
+    
+    <result id="312133">
+      <result code="3">3</result>
+      <band id="2316">Gladstone Municipal Band</band>
+      <conductor id="319561">Trevor Webb</conductor>
+    </result>
+    
+    <result id="312132">
+      <result code="4">4</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="319502">David Stubbs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

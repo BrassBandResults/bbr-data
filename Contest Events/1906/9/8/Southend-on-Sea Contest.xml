@@ -1,0 +1,66 @@
+<contest-event id="11097">
+  <event-date date="1906-9-8">Sept. 8, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southend-on-Sea Contest</name>
+  <contest id="2167">
+    <name>Southend-on-Sea Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southend-on-sea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1271">Carmelite</test-piece>
+  </test-piece>
+
+  <venue id="1580">Southend-on-Sea, Essex, England, UK</venue>
+  <notes>
+
+  1st prize £8.
+  2nd prize £5.
+  3rd prize £3.
+  4th prize £2.
+  5th prize £1.</notes>
+
+  <created>March 13, 2012, 2:18 p.m.</created>
+  <last-modified>March 13, 2012, 3:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="91823">
+      <result code="1">1</result>
+      <band id="1686">Enfield Band</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="91824">
+      <result code="2">2</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="91825">
+      <result code="3">3</result>
+      <band id="6334">New North Middlesex</band>
+      <conductor id="315437">J. Reay</conductor>
+    </result>
+    
+    <result id="91826">
+      <result code="4">4</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="310274">G. H. Thomas</conductor>
+    </result>
+    
+    <result id="91827">
+      <result code="5">5</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="302079">F. B. Gray</conductor>
+    </result>
+    
+  </results>
+</contest-event>

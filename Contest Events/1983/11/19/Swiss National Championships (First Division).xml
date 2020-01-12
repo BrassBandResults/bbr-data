@@ -1,0 +1,42 @@
+<contest-event id="14402">
+  <event-date date="1983-11-19">Nov. 19, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (First Division)</name>
+  <contest id="12">
+    <name>Swiss National Championships (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-first-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="172">Main Street</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>4 Bands competed.</notes>
+
+  <created>Aug. 10, 2012, 10:02 a.m.</created>
+  <last-modified>Feb. 10, 2017, 8:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114652">
+      <result code="1">1</result>
+      <band id="72">Brass Band Kirchenmusik Flühli</band>
+      <conductor id="297403">Robert Balmer</conductor>
+    </result>
+    
+    <result id="269286">
+      <result code="">Unknown Result</result>
+      <band id="9093">Brass Band Graubünden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

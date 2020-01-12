@@ -1,0 +1,48 @@
+<contest-event id="14411">
+  <event-date date="1989-11-25">Nov. 25, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Second Division)</name>
+  <contest id="13">
+    <name>Swiss National Championships (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-second-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="727">Sounds of Brass Suite</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2012, 10:45 a.m.</created>
+  <last-modified>Nov. 21, 2014, 11:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114670">
+      <result code="1">1</result>
+      <band id="93">Musikverein Brass Band Henggart</band>
+      <conductor id="296791">Hanspeter Adank</conductor>
+    </result>
+    
+    <result id="236273">
+      <result code="3">3</result>
+      <band id="1072">Brass Band Solothurn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186744">
+      <result code="4">4</result>
+      <band id="95">Brass Band Matzendorf</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+  </results>
+</contest-event>

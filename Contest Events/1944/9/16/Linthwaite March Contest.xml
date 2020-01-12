@@ -1,0 +1,61 @@
+<contest-event id="18754">
+  <event-date date="1944-9-16">Sept. 16, 1944<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Linthwaite March Contest</name>
+  <contest id="3960">
+    <name>Linthwaite March Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>linthwaite-march-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="6">March &amp; Hymn Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1512">Linthwaite, West Yorkshire</venue>
+  <notes>
+  Hymn tune  1st Hepworth Iron Works, joint 2nd Scape Goat Hill, Marsden Musical Institute.</notes>
+
+  <created>March 2, 2013, 11:58 a.m.</created>
+  <last-modified>March 2, 2013, 12:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="140617">
+      <result code="1">1</result>
+      <band id="10577">Holme Bridge United</band>
+      <conductor id="302376">H. Haigh</conductor>
+    </result>
+    
+    <result id="140618">
+      <result code="2">2</result>
+      <band id="4191">Hepworth Iron Works</band>
+      <conductor id="304356">E. Kaye</conductor>
+    </result>
+    
+    <result id="140619">
+      <result code="3">3</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="308335">Albert Robinson</conductor>
+    </result>
+    
+    <result id="140621">
+      <result code="">Unknown Result</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="140620">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

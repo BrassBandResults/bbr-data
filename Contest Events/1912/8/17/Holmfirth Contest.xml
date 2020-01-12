@@ -1,0 +1,80 @@
+<contest-event id="15506">
+  <event-date date="1912-8-17">Aug. 17, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holmfirth Contest</name>
+  <contest id="1034">
+    <name>Holmfirth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="406">Holmfirth Contest</group>
+    <slug>holmfirth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+  </test-piece>
+
+  <venue id="1306">Holmfirth, West Yorkshire, England, UK</venue>
+  <notes>March contest 1st Lindley, 2nd Holme.
+3rd Annual Contest organised by Holmfirth Flower Show.
+8 bands competed</notes>
+
+  <created>Oct. 21, 2012, 4:05 p.m.</created>
+  <last-modified>Sept. 28, 2018, 2:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="120045">
+      <result code="1">1</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="120046">
+      <result code="2">2</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="305217">Ben Lodge</conductor>
+    </result>
+    
+    <result id="120047">
+      <result code="3">3</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="120048">
+      <result code="4">4</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="304432">George Kemp</conductor>
+    </result>
+    
+    <result id="120049">
+      <result code="">Unknown Result</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="299937">W. Crossland</conductor>
+    </result>
+    
+    <result id="120050">
+      <result code="">Unknown Result</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="309848">Charles Stott</conductor>
+    </result>
+    
+    <result id="120051">
+      <result code="">Unknown Result</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="308795">J. W. Schofield</conductor>
+    </result>
+    
+    <result id="120052">
+      <result code="">Unknown Result</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="297725">John Belcher</conductor>
+    </result>
+    
+  </results>
+</contest-event>

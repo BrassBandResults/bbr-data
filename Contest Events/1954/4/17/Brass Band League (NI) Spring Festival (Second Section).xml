@@ -1,0 +1,48 @@
+<contest-event id="14183">
+  <event-date date="1954-4-17">April 17, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+  <contest id="239">
+    <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-second-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="159">Indian Summer</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:38 p.m.</created>
+  <last-modified>June 3, 2015, 7:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113180">
+      <result code="1">1</result>
+      <band id="1406">Bloomfield Amateur Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="113181">
+      <result code="2">2</result>
+      <band id="1378">Ligoniel Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="113182">
+      <result code="3">3</result>
+      <band id="2642">Eleanor McKee Memorial Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

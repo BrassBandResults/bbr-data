@@ -1,0 +1,44 @@
+<contest-event id="38821">
+  <event-date date="1879-12-20">Dec. 20, 1879<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Todmorden Contest</name>
+  <contest id="1619">
+    <name>Todmorden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>todmorden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6782">Town Hall, Todmorden</venue>
+  <notes>2 bands competed</notes>
+
+  <created>Nov. 24, 2017, 10:35 a.m.</created>
+  <last-modified>Nov. 24, 2017, 10:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="282422">
+      <result code="1">1</result>
+      <band id="396">Littleborough Public Band</band>
+      <conductor id="303367">John Holt</conductor>
+      <test-piece id="2373">Shades of Heroes</test-piece>
+    </result>
+    
+    <result id="282421">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="304010">Henry Jenkinson</conductor>
+      <test-piece id="1970">Hail Memory</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,44 @@
+<contest-event id="32508">
+  <event-date date="2017-7-9">July 9, 2017<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>World Youth Music Festival (Marschmusik)</name>
+  <contest id="5301">
+    <name>World Youth Music Festival (Marschmusik)</name>
+    <order>100</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="540">World Youth Music Festival</group>
+    <slug>international-youth-music-festival-marschmusik</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="20">March Contest (Music and Inspection Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5392">Stadthausquai, Zürich, Switzerland</venue>
+  <notes>27 Bands competed (mixed Brass/Wind, incl. 4 Bands with Evolutions ranked sep.).</notes>
+
+  <created>Aug. 20, 2015, 2:30 p.m.</created>
+  <last-modified>July 9, 2017, 6:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="269063">
+      <result code="1">1</result>
+      <band id="1068">BML Talents</band>
+      <conductor id="306989">Patrick Ottiger</conductor>
+      <test-piece id="3012">March: Vivat Lucerna</test-piece>
+    </result>
+    
+    <result id="269061">
+      <result code="2">2</result>
+      <band id="108">Liberty Brass Band Junior</band>
+      <conductor id="305341">Christoph Luchsinger</conductor>
+      <test-piece id="1549">March: Death or Glory</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

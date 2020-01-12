@@ -1,0 +1,61 @@
+<contest-event id="40037">
+  <event-date date="1901-9-7">Sept. 7, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Felling Contest</name>
+  <contest id="1823">
+    <name>Felling Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="348">Felling Contest</group>
+    <slug>felling-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5601">Gipsy Revels</test-piece>
+  </test-piece>
+
+  <venue id="1281">Felling, Gateshead, Tyne and Wear, England, UK</venue>
+  <notes>Best cornet and euphonium - South Bank.
+Best soprano and horn - Auckland Park.</notes>
+
+  <created>June 28, 2018, 11:35 a.m.</created>
+  <last-modified>June 28, 2018, 11:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291006">
+      <result code="1">1</result>
+      <band id="6690">Auckland Park</band>
+      <conductor id="308895">T. Sellars</conductor>
+    </result>
+    
+    <result id="291007">
+      <result code="2">2</result>
+      <band id="6694">South Shields Harmonic</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="291008">
+      <result code="3">3</result>
+      <band id="6016">South Bank</band>
+      <conductor id="296939">Israel Almond</conductor>
+    </result>
+    
+    <result id="291009">
+      <result code="4">4</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="291010">
+      <result code="">Unknown Result</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,95 @@
+<contest-event id="12977">
+  <event-date date="1896-6-20">June 20, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wharncliffe Silkstone Contest</name>
+  <contest id="2364">
+    <name>Wharncliffe Silkstone Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wharncliffe-silkstone-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2923">Hoyland Common</venue>
+  <notes>Prizes: £10, £6, £4, £2
+March contest: (Rule Britannia) 1. Thornsett, 2. Elsecar, 3. Dannemora
+Euphonium medal: Denby Dale
+8 bands competed</notes>
+
+  <created>April 29, 2012, 1:55 p.m.</created>
+  <last-modified>July 1, 2019, 7:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="103391">
+      <result code="1">1</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="103392">
+      <result code="2">2</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="308966">C. Shaw</conductor>
+      <test-piece id="5422">Wagners Works</test-piece>
+    </result>
+    
+    <result id="103393">
+      <result code="3">3</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="309467">Whitham Smith</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="103394">
+      <result code="4">4</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="103395">
+      <result code="">Unknown Result</result>
+      <band id="3146">Elsecar Main Colliery</band>
+      <conductor id="299169">William Chadwick</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="103396">
+      <result code="">Unknown Result</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davidson</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="103397">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="103398">
+      <result code="">Unknown Result</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193771">
+      <result code="W">Withdrawn</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="22915">
+  <event-date date="1901-6-22">June 22, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rugby Contest</name>
+  <contest id="1797">
+    <name>Rugby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rugby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="1503">Rugby, Warwickshire</venue>
+  <notes>Promoted by Rugby Town Prize Band.
+8 bands competed.
+</notes>
+
+  <created>Aug. 15, 2013, 2:35 p.m.</created>
+  <last-modified>June 22, 2018, 4:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="168996">
+      <result code="1">1</result>
+      <band id="7766">Leicester Highfields</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="168997">
+      <result code="2">2</result>
+      <band id="6327">Northampton Temperance</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="168998">
+      <result code="3">3</result>
+      <band id="6591">Wellingborough Town</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="168999">
+      <result code="4">4</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="169002">
+      <result code="">Unknown Result</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="169003">
+      <result code="">Unknown Result</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310451">Fred Tingle</conductor>
+    </result>
+    
+    <result id="169000">
+      <result code="">Unknown Result</result>
+      <band id="7767">Market Harborough Volunteers</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="169001">
+      <result code="">Unknown Result</result>
+      <band id="3324">Rugby Steam Shed</band>
+      <conductor id="297698">James Bedford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="8027">
+  <event-date date="1899-5-23">May 23, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest</name>
+  <contest id="1399">
+    <name>Chepstow Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1313">Chepstow, Monmouthshire</venue>
+  <notes>  1st prize £16 and cornet valued £9.9s.
+  2nd prize £10.
+  3rd prize £5.</notes>
+
+  <created>Nov. 3, 2011, 2:52 p.m.</created>
+  <last-modified>May 21, 2012, 8:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98972">
+      <result code="1">1</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="309324">C. Smith</conductor>
+    </result>
+    
+    <result id="72487">
+      <result code="2">2</result>
+      <band id="4429">Coseley</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="98973">
+      <result code="3">3</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="98974">
+      <result code="">Unknown Result</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98975">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

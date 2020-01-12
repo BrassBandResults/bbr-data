@@ -1,0 +1,49 @@
+<contest-event id="22109">
+  <event-date date="1956-12-17">Dec. 17, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (First Section)</name>
+  <contest id="503">
+    <name>SWBBA Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="762">Second Rhapsody on Negro Spirituals</test-piece>
+  </test-piece>
+
+  
+  <notes>  Hymn tune contest in conjunction with Sec 2 - 1st Wincanton.
+  3 bands competed.</notes>
+
+  <created>July 2, 2013, 12:10 p.m.</created>
+  <last-modified>March 30, 2014, 11:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="164247">
+      <result code="1">1</result>
+      <band id="567">Bideford Town Band</band>
+      <conductor id="298663">A. R. Bryant</conductor>
+    </result>
+    
+    <result id="164248">
+      <result code="2">2</result>
+      <band id="2073">Kingsbridge Silver</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="164249">
+      <result code="3">3</result>
+      <band id="10662">Wincanton Junior</band>
+      <conductor id="301819">R. W. Gilham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

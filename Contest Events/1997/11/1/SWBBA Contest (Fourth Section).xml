@@ -1,0 +1,48 @@
+<contest-event id="1020">
+  <event-date date="1997-11-1">Nov. 1, 1997<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Fourth Section)</name>
+  <contest id="157">
+    <name>SWBBA Contest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="867">A Northumbrian Suite</test-piece>
+  </test-piece>
+
+  <venue id="48">Riviera International Conference Centre, Torquay, Devon, England, UK</venue>
+  <notes>Best basses - Newquay</notes>
+
+  <created>Oct. 16, 2009, 1:48 p.m.</created>
+  <last-modified>April 5, 2015, 9:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="10918">
+      <result code="1">1</result>
+      <band id="526">South West Comms Band</band>
+      <conductor id="301316">Charles Fleming</conductor>
+    </result>
+    
+    <result id="224981">
+      <result code="2">2</result>
+      <band id="1296">Newquay Band</band>
+      <conductor id="304320">Robert Julian</conductor>
+    </result>
+    
+    <result id="224982">
+      <result code="3">3</result>
+      <band id="348">St. Breward Silver Band</band>
+      <conductor id="303672">William Hunt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

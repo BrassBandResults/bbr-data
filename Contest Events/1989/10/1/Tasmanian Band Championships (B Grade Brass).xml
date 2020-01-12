@@ -1,0 +1,60 @@
+<contest-event id="42828">
+  <event-date date="1989-10-1">Oct. 1, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    <test-piece id="645">Land of the Mountain and the Flood</test-piece>
+  </test-piece>
+
+  <venue id="7212">Derwent Entertainment Centre, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>Nov. 7, 2019, 4:06 a.m.</created>
+  <last-modified>Nov. 8, 2019, 3:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="313567">
+      <result code="1">1</result>
+      <band id="2141">Glenorchy City Concert Brass</band>
+      <conductor id="303661">Dean Hunt</conductor>
+    </result>
+    
+    <result id="313570">
+      <result code="2">2</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305376">Jack Lusted</conductor>
+    </result>
+    
+    <result id="313581">
+      <result code="3">3</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="302473">Charles Hambleton</conductor>
+    </result>
+    
+    <result id="313568">
+      <result code="4">4</result>
+      <band id="2143">Hobart City Brass Band</band>
+      <conductor id="319750">David Patterson</conductor>
+    </result>
+    
+    <result id="313584">
+      <result code="5">5</result>
+      <band id="18331">City of Launceston Brass</band>
+      <conductor id="299338">Allen Clark</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="12431">
+  <event-date date="1899-7-3">July 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ystrad-Pentre Contest</name>
+  <contest id="2567">
+    <name>Ystrad-Pentre Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ystrad-pentre-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3742">Ynys Field, Ton, Pentre</venue>
+  <notes>
+  March contest 1st Mountain Ash.</notes>
+
+  <created>April 14, 2012, 1:47 p.m.</created>
+  <last-modified>Aug. 9, 2013, 4:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99385">
+      <result code="1">1</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="99386">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">P. Ambler</conductor>
+    </result>
+    
+    <result id="99387">
+      <result code="3">3</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="99388">
+      <result code="4">4</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="29320">
+  <event-date date="2014-11-9">Nov. 9, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Austrian National Championship (A Section)</name>
+  <contest id="5451">
+    <name>Austrian National Championship (A Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="526">Austrian National Championship</group>
+    <slug>austrian-national-championship-a-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>None</notes>
+    <region id="20">Austria</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2445">Of Distant Memories</test-piece>
+  </test-piece>
+
+  <venue id="5624">Kulturzentrum Bräuhaus, Eferding, Upper Austria, Austria</venue>
+  <notes>1st Edition</notes>
+
+  <created>Sept. 15, 2014, 2:06 p.m.</created>
+  <last-modified>Aug. 28, 2015, 9:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="209273">
+      <result code="1">1</result>
+      <band id="713">Brass Band Oberösterreich</band>
+      <conductor id="307609">Ian Porthouse</conductor>
+    </result>
+    
+    <result id="209275">
+      <result code="2">2</result>
+      <band id="6045">Brass Band Fröschl Hall</band>
+      <conductor id="304835">Josef Laube</conductor>
+    </result>
+    
+    <result id="209274">
+      <result code="3">3</result>
+      <band id="717">Austrian Brass Band</band>
+      <conductor id="304721">Uwe Köller</conductor>
+    </result>
+    
+  </results>
+</contest-event>

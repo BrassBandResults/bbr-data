@@ -1,0 +1,70 @@
+<contest-event id="26898">
+  <event-date date="1922-6-5">June 5, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham Contest</name>
+  <contest id="1901">
+    <name>Durham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>durham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2907">Rays of Sunshine</test-piece>
+  </test-piece>
+
+  <venue id="3025">Wharton Park, Durham</venue>
+  <notes>Promoted by Durham Shakespeare Band
+
+11 bands competed
+
+March: 1. Cowpen, 2. Spennymoor &amp; Willington shared</notes>
+
+  <created>April 4, 2014, 3:48 p.m.</created>
+  <last-modified>April 4, 2014, 3:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194451">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194452">
+      <result code="2">2</result>
+      <band id="3371">Lumley 6th Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194453">
+      <result code="3">3</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194454">
+      <result code="4">4</result>
+      <band id="4504">Birtley Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194456">
+      <result code="">Unknown Result</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194455">
+      <result code="">Unknown Result</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="10563">
+  <event-date date="2012-3-31">March 31, 2012<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Championship Section)</name>
+  <contest id="161">
+    <name>North American Championships (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-championship-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="53">Masquerade [Wilby]</test-piece>
+  </test-piece>
+
+  <venue id="1499">Cincinnati Masonic Centre, Cincinnati, Ohio, USA</venue>
+  <notes>The set test-piece competition - Friday 30th March, judges Alexander, Holz, Lambert.
+The own choice competition - Saturday 31st March, judges Curnow, Hood, Kellner.</notes>
+
+  <created>Feb. 22, 2012, 2:33 p.m.</created>
+  <last-modified>April 13, 2014, 8:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="88679">
+      <result code="1">1</result>
+      <band id="1003">Atlantic Brass Band</band>
+      <conductor id="308757">Salvatore Scarpa</conductor>
+      <test-piece id="18">Contest Music</test-piece>
+    </result>
+    
+    <result id="88682">
+      <result code="2">2</result>
+      <band id="42">Fountain City Brass</band>
+      <conductor id="307035">Roger Oyster</conductor>
+      <test-piece id="84">Albion</test-piece>
+    </result>
+    
+    <result id="88683">
+      <result code="3">3</result>
+      <band id="1002">James Madison University Brass Band</band>
+      <conductor id="309702">Kevin Stees</conductor>
+      <test-piece id="62">Music for Battle Creek</test-piece>
+    </result>
+    
+    <result id="88680">
+      <result code="4">4</result>
+      <band id="4218">Brass Band of Columbus</band>
+      <conductor id="309750">Brian Stevens</conductor>
+      <test-piece id="12">Paganini Variations</test-piece>
+    </result>
+    
+    <result id="88681">
+      <result code="5">5</result>
+      <band id="1001">Chicago Brass Band</band>
+      <conductor id="303333">Colin Holman</conductor>
+      <test-piece id="62">Music for Battle Creek</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

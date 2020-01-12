@@ -1,0 +1,42 @@
+<contest-event id="39089">
+  <event-date date="2005-10-14">Oct. 14, 2005<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (D Grade)</name>
+  <contest id="3480">
+    <name>Victorian State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-d-grade</slug>
+    
+    <notes>None</notes>
+    
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="477">Bel-Air</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 4, 2018, 1:29 a.m.</created>
+  <last-modified>March 6, 2018, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284309">
+      <result code="1">1</result>
+      <band id="5771">Maryborough City Band [Victoria]</band>
+      <conductor id="310868">Jenny Wagstaff</conductor>
+    </result>
+    
+    <result id="284310">
+      <result code="2">2</result>
+      <band id="2319">Moonee Valley Brass</band>
+      <conductor id="298393">John Breen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

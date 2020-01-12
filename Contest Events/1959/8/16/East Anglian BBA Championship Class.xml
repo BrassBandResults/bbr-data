@@ -1,0 +1,48 @@
+<contest-event id="27264">
+  <event-date date="1959-8-16">Aug. 16, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Championship Class</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4664">Sparrows Nest Park, Lowestoft, Suffolk</venue>
+  <notes>Combined Championship and class A</notes>
+
+  <created>May 5, 2014, 8:25 a.m.</created>
+  <last-modified>May 5, 2014, 8:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="196628">
+      <result code="1">1</result>
+      <band id="840">Dereham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196629">
+      <result code="2">2</result>
+      <band id="12012">Suffolk Yeomanry</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196630">
+      <result code="3">3</result>
+      <band id="10492">Norwich Lads Club</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

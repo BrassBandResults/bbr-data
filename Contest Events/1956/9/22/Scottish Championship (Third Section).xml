@@ -1,0 +1,78 @@
+<contest-event id="7793">
+  <event-date date="1956-9-22">Sept. 22, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="910">Spirit of Progress</test-piece>
+  </test-piece>
+
+  <venue id="818">Central Halls, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 20, 2011, 11:17 a.m.</created>
+  <last-modified>Feb. 26, 2014, 3:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="69138">
+      <result code="1">1</result>
+      <band id="1028">Galashiels Town</band>
+      <conductor id="296962">James Amos</conductor>
+    </result>
+    
+    <result id="69139">
+      <result code="2">2</result>
+      <band id="646">Croy Silver Band</band>
+      <conductor id="300439">H. Docherty</conductor>
+    </result>
+    
+    <result id="69140">
+      <result code="3">3</result>
+      <band id="259">Unison Kinneil Band</band>
+      <conductor id="304574">John Kirkwood</conductor>
+    </result>
+    
+    <result id="69141">
+      <result code="4">4</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="69142">
+      <result code="5">5</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="301399">James Forrest</conductor>
+    </result>
+    
+    <result id="69143">
+      <result code="6">6</result>
+      <band id="5549">Dundee Trades</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="69144">
+      <result code="7">7</result>
+      <band id="1278">Monklands Youth Concert Brass</band>
+      <conductor id="311043">John Wardlaw</conductor>
+    </result>
+    
+    <result id="69145">
+      <result code="8">8</result>
+      <band id="5004">Alloa Colliery</band>
+      <conductor id="310210">Charles Telfer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="20116">
+  <event-date date="1967-12-2">Dec. 2, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Third Section)</name>
+  <contest id="172">
+    <name>Wessex Brass Band Association (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="261">Winter Gardens, Bournemouth, Dorset, England, UK</venue>
+  <notes>  March contest - 1st Michelmersh, 2nd Junior Leaders Regiment, 3rd Oakmead.
+  12th annual contest.
+  6 bands competed.</notes>
+
+  <created>March 30, 2013, 3:54 p.m.</created>
+  <last-modified>July 8, 2014, 7:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="149633">
+      <result code="1">1</result>
+      <band id="2018">Crewkerne Youth</band>
+      <conductor id="309032">Mike Shepherd</conductor>
+    </result>
+    
+    <result id="149634">
+      <result code="2">2</result>
+      <band id="2080">Oakmead School</band>
+      <conductor id="298210">Courtney Bosanko</conductor>
+    </result>
+    
+    <result id="149635">
+      <result code="3">3</result>
+      <band id="552">Downton Band</band>
+      <conductor id="298210">Courtney Bosanko</conductor>
+    </result>
+    
+    <result id="149636">
+      <result code="4">4</result>
+      <band id="2019">Junior Leaders Regiment</band>
+      <conductor id="311522">F. L. Wilcock</conductor>
+    </result>
+    
+    <result id="206661">
+      <result code="5">5</result>
+      <band id="310">Hyde Band</band>
+      <conductor id="310092">R. Tanner</conductor>
+    </result>
+    
+    <result id="149637">
+      <result code="6">6</result>
+      <band id="524">Michelmersh Silver Band</band>
+      <conductor id="307177">W. A. T. Parsons</conductor>
+    </result>
+    
+    <result id="206663">
+      <result code="W">Withdrawn</result>
+      <band id="1285">Chard Concert Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="206662">
+      <result code="W">Withdrawn</result>
+      <band id="1536">Solent Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,75 @@
+<contest-event id="37427">
+  <event-date date="2017-3-18">March 18, 2017<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Second Section)</name>
+  <contest id="41">
+    <name>Welsh Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="239">Rhapsody in Brass</test-piece>
+  </test-piece>
+
+  <venue id="11">Brangwyn Hall, Swansea, Swansea County, Wales, UK</venue>
+  <notes>Best instrumentalist: Solo horn, Abergavenny Borough
+Best percussion: Abergavenny Borough
+
+Top two Bands qualify for National Final.</notes>
+
+  <created>March 3, 2017, 11:14 a.m.</created>
+  <last-modified>March 21, 2017, 9:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="270798">
+      <result code="1">1</result>
+      <band id="425">Abergavenny Borough Band</band>
+      <conductor id="306880">Sean O&#39;Neill</conductor>
+    </result>
+    
+    <result id="270802">
+      <result code="2">2</result>
+      <band id="407">Penclawdd Brass</band>
+      <conductor id="309282">Tony Small</conductor>
+    </result>
+    
+    <result id="270801">
+      <result code="3">3</result>
+      <band id="1553">Melingriffith 2 Band</band>
+      <conductor id="311053">Andrew Wareham</conductor>
+    </result>
+    
+    <result id="270803">
+      <result code="4">4</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="297356">Brett Baker</conductor>
+    </result>
+    
+    <result id="270800">
+      <result code="5">5</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="310657">Lynne Turner</conductor>
+    </result>
+    
+    <result id="270804">
+      <result code="6">6</result>
+      <band id="464">Crwbin Silver Band</band>
+      <conductor id="308272">Craig Roberts</conductor>
+    </result>
+    
+    <result id="270799">
+      <result code="7">7</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="304165">Andrew Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

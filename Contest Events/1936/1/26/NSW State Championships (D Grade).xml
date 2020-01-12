@@ -1,0 +1,67 @@
+<contest-event id="35814">
+  <event-date date="1936-1-26">Jan. 26, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (D Grade)</name>
+  <contest id="619">
+    <name>NSW State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1094">In Days of Old</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>SYDNEY LADIES BRASS  BAND .  Hilda Tansey, the first female   conductor of a brass band in Australia
+This was the bands first contest experience</notes>
+
+  <created>Aug. 1, 2016, 12:55 a.m.</created>
+  <last-modified>Sept. 21, 2016, 11:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259947">
+      <result code="1">1</result>
+      <band id="12002">Central Coast Brass</band>
+      <conductor id="311267">Dick Wells</conductor>
+    </result>
+    
+    <result id="259948">
+      <result code="2">2</result>
+      <band id="13766">Fairfield Citizens</band>
+      <conductor id="302970">R. Hermann</conductor>
+    </result>
+    
+    <result id="259949">
+      <result code="3">3</result>
+      <band id="13713">Kincumber Orphanage</band>
+      <conductor id="315274">H. A. Madditt</conductor>
+    </result>
+    
+    <result id="259950">
+      <result code="4">4</result>
+      <band id="13714">Penrith District</band>
+      <conductor id="304120">W. Johnson</conductor>
+    </result>
+    
+    <result id="259951">
+      <result code="5">5</result>
+      <band id="14122">Sydney Ladies</band>
+      <conductor id="315275">Hilda Tansey</conductor>
+    </result>
+    
+    <result id="259952">
+      <result code="6">6</result>
+      <band id="14123">St.George District Boys</band>
+      <conductor id="315276">A. H. Eggleton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

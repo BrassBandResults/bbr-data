@@ -1,0 +1,55 @@
+<contest-event id="26159">
+  <event-date date="1939-2-11">Feb. 11, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Second Section)</name>
+  <contest id="171">
+    <name>Wessex Brass Band Association (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2564">Oberon [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2177">Salisbury, Wiltshire, England, UK</venue>
+  <notes>  Hymn tune contest - 1st Shrewton, 2nd Verwood, 3rd Bath Spa.
+  4 bands competed.</notes>
+
+  <created>Jan. 27, 2014, 11:16 a.m.</created>
+  <last-modified>Jan. 27, 2014, 11:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189438">
+      <result code="1">1</result>
+      <band id="367">Bath Spa Band</band>
+      <conductor id="303430">W. Horler</conductor>
+    </result>
+    
+    <result id="189439">
+      <result code="2">2</result>
+      <band id="362">Verwood Concert Brass</band>
+      <conductor id="309575">T. W. Spencer</conductor>
+    </result>
+    
+    <result id="189440">
+      <result code="3">3</result>
+      <band id="11528">Bridgwater Christy&#39;s</band>
+      <conductor id="296758">Lawrence Abram</conductor>
+    </result>
+    
+    <result id="189441">
+      <result code="4">4</result>
+      <band id="325">Shrewton Silver</band>
+      <conductor id="304526">J. King</conductor>
+    </result>
+    
+  </results>
+</contest-event>

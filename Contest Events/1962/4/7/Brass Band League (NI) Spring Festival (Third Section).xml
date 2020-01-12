@@ -1,0 +1,48 @@
+<contest-event id="14149">
+  <event-date date="1962-4-7">April 7, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Third Section)</name>
+  <contest id="238">
+    <name>Brass Band League (NI) Spring Festival (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-third-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1167">Three Days</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 3:53 p.m.</created>
+  <last-modified>March 7, 2016, 5:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113094">
+      <result code="1">1</result>
+      <band id="12873">3rd Carrickfergus Boys&#39; Brigade Band</band>
+      <conductor id="296775">Robert Adair</conductor>
+    </result>
+    
+    <result id="113095">
+      <result code="2">2</result>
+      <band id="1390">Bruce Hamilton Silver Band</band>
+      <conductor id="298476">Harry Brittain</conductor>
+    </result>
+    
+    <result id="113096">
+      <result code="3">3</result>
+      <band id="1383">Oldpark Silver Band</band>
+      <conductor id="298745">Jack Burch</conductor>
+    </result>
+    
+  </results>
+</contest-event>

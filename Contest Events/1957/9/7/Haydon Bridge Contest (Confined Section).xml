@@ -1,0 +1,55 @@
+<contest-event id="22861">
+  <event-date date="1957-9-7">Sept. 7, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haydon Bridge Contest (Confined Section)</name>
+  <contest id="3941">
+    <name>Haydon Bridge Contest (Confined Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haydon-bridge-contest-confined-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1668">Haydon Bridge, Northumberland, England, UK</venue>
+  <notes>  March contest - 1st Netherton Colliery, 2nd Pegswood Colliery.
+  8 bands competed.</notes>
+
+  <created>Aug. 15, 2013, 7:05 a.m.</created>
+  <last-modified>Aug. 15, 2013, 7:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="168717">
+      <result code="1">1</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="168718">
+      <result code="2">2</result>
+      <band id="8758">Cambois Workmen&#39;s</band>
+      <conductor id="310195">W. R. Taylor</conductor>
+    </result>
+    
+    <result id="168719">
+      <result code="3">3</result>
+      <band id="4128">Pegswood Colliery Prize Band</band>
+      <conductor id="301118">James Farrell</conductor>
+    </result>
+    
+    <result id="168720">
+      <result code="">Unknown Result</result>
+      <band id="3842">Netherton Colliery Workmens</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+  </results>
+</contest-event>

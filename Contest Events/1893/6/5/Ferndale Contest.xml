@@ -1,0 +1,55 @@
+<contest-event id="11774">
+  <event-date date="1893-6-5">June 5, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ferndale Contest</name>
+  <contest id="1968">
+    <name>Ferndale Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="312">Ferndale Contest</group>
+    <slug>ferndale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1574">Mozart [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1400">Ferndale, Glamorgan</venue>
+  <notes>Prizes - 1st £20, 2nd £15, 3rd £10, 4th £5.
+Best euphonium - W. Crewe (Blaina)</notes>
+
+  <created>April 6, 2012, 9:04 p.m.</created>
+  <last-modified>Nov. 20, 2019, 12:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95291">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="95292">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="95293">
+      <result code="3">3</result>
+      <band id="4709">Bethany Temperance Band</band>
+      <conductor id="301011">S. Evans</conductor>
+    </result>
+    
+    <result id="95294">
+      <result code="4">4</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

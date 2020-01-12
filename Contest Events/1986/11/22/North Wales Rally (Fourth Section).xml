@@ -1,0 +1,49 @@
+<contest-event id="16326">
+  <event-date date="1986-11-22">Nov. 22, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Fourth Section)</name>
+  <contest id="1774">
+    <name>North Wales Rally (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="163">Little Suite for Brass [Arnold]</test-piece>
+  </test-piece>
+
+  <venue id="2713">Deeside, Flintshire, Wales, UK</venue>
+  <notes>
+  Prizes  1st £70, 2nd £50, 3rd £40.</notes>
+
+  <created>Nov. 23, 2012, 10:57 a.m.</created>
+  <last-modified>Nov. 23, 2012, 11:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="125696">
+      <result code="1">1</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="304213">Geraint Jones</conductor>
+    </result>
+    
+    <result id="125697">
+      <result code="2">2</result>
+      <band id="1348">Flint Town Silver</band>
+      <conductor id="307337">J. W. Pemberton</conductor>
+    </result>
+    
+    <result id="125698">
+      <result code="3">3</result>
+      <band id="7029">Point of Ayr Colliery Youth</band>
+      <conductor id="304171">C. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

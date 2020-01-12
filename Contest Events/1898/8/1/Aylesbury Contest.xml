@@ -1,0 +1,81 @@
+<contest-event id="13607">
+  <event-date date="1898-8-1">Aug. 1, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aylesbury Contest</name>
+  <contest id="1978">
+    <name>Aylesbury Contest [before WW1]</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="276">Aylesbury Contest [before WW1]</group>
+    <slug>aylesbury-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1965">Queen&#39;s Prize</test-piece>
+  </test-piece>
+
+  <venue id="1410">Aylesbury, Buckinghamshire, England, UK</venue>
+  <notes>Vale of Aylesbury Cycling and Athletic Club Meeting.
+A bandsman&#39;s race was held, causing some amusement, as the competitors were required to run a lap, blowing their instruments meantime. Bandsman Paxton of the C.E.T.S. Band was the winner.
+Deportment prize: Monks Risborough
+8 bands competed</notes>
+
+  <created>May 28, 2012, 9:17 p.m.</created>
+  <last-modified>July 19, 2019, 9:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107805">
+      <result code="1">1</result>
+      <band id="7685">Wendover</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107806">
+      <result code="2">2</result>
+      <band id="6834">Dinton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107807">
+      <result code="3">3</result>
+      <band id="6668">Waddesdon Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166974">
+      <result code="4">4</result>
+      <band id="7960">St. Leonards</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166975">
+      <result code="">Unknown Result</result>
+      <band id="8304">Aylesbury C.E.T.S</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166971">
+      <result code="">Unknown Result</result>
+      <band id="7959">Bishopstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166972">
+      <result code="">Unknown Result</result>
+      <band id="756">Ellesborough Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166973">
+      <result code="">Unknown Result</result>
+      <band id="7684">Monks Risborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

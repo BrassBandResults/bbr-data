@@ -1,0 +1,90 @@
+<contest-event id="15413">
+  <event-date date="1931-8-15">Aug. 15, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Atherton Contest</name>
+  <contest id="2071">
+    <name>Atherton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>atherton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1066">Gems of Old England</test-piece>
+  </test-piece>
+
+  <venue id="2507">Alder House Grounds, Atherton, Lancashire</venue>
+  <notes> Prizes - 1st £15 and cup, 2nd £10, 3rd £5, 4th £3.10s., 5th £1.10s.
+ March contest  1st Abram Colliery,  2nd Westhoughton Old.
+  Best cornet, soprano, horn and trombone - Abram Colliery.
+  Best euphonium - Thornsett.
+  Best flugal - Bolton Borough.
+  Promoted by Atherton Public Band.
+  9 bands competed.</notes>
+
+  <created>Oct. 17, 2012, 1:37 p.m.</created>
+  <last-modified>Dec. 16, 2018, 3:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119405">
+      <result code="1">1</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="119406">
+      <result code="2">2</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="303601">John W. Hughes</conductor>
+    </result>
+    
+    <result id="119407">
+      <result code="3">3</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="303758">T. Hynes</conductor>
+    </result>
+    
+    <result id="119408">
+      <result code="4">4</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="303264">H. Holden</conductor>
+    </result>
+    
+    <result id="280558">
+      <result code="5">5</result>
+      <band id="16372">Atherton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180987">
+      <result code="">Unknown Result</result>
+      <band id="2790">Bradshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180989">
+      <result code="">Unknown Result</result>
+      <band id="3213">Hulme Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180988">
+      <result code="">Unknown Result</result>
+      <band id="215">Rivington and Adlington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180986">
+      <result code="">Unknown Result</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

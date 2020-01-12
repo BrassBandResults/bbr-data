@@ -1,0 +1,49 @@
+<contest-event id="3878">
+  <event-date date="1964-8-3">Aug. 3, 1964<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class A)</name>
+  <contest id="3279">
+    <name>National Eisteddfod of Wales (Class A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="305">Symphony of Marches</test-piece>
+  </test-piece>
+
+  <venue id="1249">Swansea, Swansea County, Wales, UK</venue>
+  <notes> 8 bands competed.
+An &#39;open&#39; section was also played with the result of 1st Mid-Rhondda, 2nd Cory, 3rd Brighouse and Rastrick.,</notes>
+
+  <created>Feb. 7, 2011, 1:40 a.m.</created>
+  <last-modified>April 7, 2018, 6:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="280928">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="280929">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="280930">
+      <result code="3">3</result>
+      <band id="5537">Rhymney Youth Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

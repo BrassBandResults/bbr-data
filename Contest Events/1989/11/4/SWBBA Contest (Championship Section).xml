@@ -1,0 +1,54 @@
+<contest-event id="16175">
+  <event-date date="1989-11-4">Nov. 4, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="378">Diadem of Gold</test-piece>
+  </test-piece>
+
+  <venue id="263">Festival Theatre, Paignton, Devon, England, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 14, 2012, 5:50 p.m.</created>
+  <last-modified>Nov. 14, 2012, 5:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="124432">
+      <result code="1">1</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="296783">Leonard Adams</conductor>
+    </result>
+    
+    <result id="124433">
+      <result code="2">2</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="305289">David Loukes</conductor>
+    </result>
+    
+    <result id="124434">
+      <result code="3">3</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="301101">Mike Faro</conductor>
+    </result>
+    
+    <result id="124435">
+      <result code="4">4</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="304133">Leon Johnston</conductor>
+    </result>
+    
+  </results>
+</contest-event>

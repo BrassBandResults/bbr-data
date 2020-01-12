@@ -1,0 +1,50 @@
+<contest-event id="22095">
+  <event-date date="1956-8-7">Aug. 7, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coleford Contest</name>
+  <contest id="4378">
+    <name>Coleford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coleford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="3508">Forest of Dean Grammar School, Coleford, Gloucestershire, England, UK</venue>
+  <notes>
+  Prizes  -  1st £30, 2nd £20, 3rd £10.
+  6 bands competed.</notes>
+
+  <created>July 2, 2013, 6:41 a.m.</created>
+  <last-modified>July 2, 2013, 6:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="164164">
+      <result code="1">1</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164165">
+      <result code="2">2</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164166">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

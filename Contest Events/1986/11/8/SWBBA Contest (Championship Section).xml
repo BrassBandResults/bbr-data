@@ -1,0 +1,56 @@
+<contest-event id="12117">
+  <event-date date="1986-11-8">Nov. 8, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="293">Oceans</test-piece>
+  </test-piece>
+
+  <venue id="263">Festival Theatre, Paignton, Devon, England, UK</venue>
+  <notes>First Prize: The W. J. Jerwood Trophy
+Second Prize: The Tony Hewitt (Bodmin) Trophy
+Third Prize: The Bedwell Founder Members Memorial Trophy</notes>
+
+  <created>April 9, 2012, 1:39 p.m.</created>
+  <last-modified>Nov. 14, 2012, 5:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="97290">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="302166">Derek Greenwood</conductor>
+    </result>
+    
+    <result id="97289">
+      <result code="2">2</result>
+      <band id="539">Bugle Silver Band</band>
+      <conductor id="301101">Mike Faro</conductor>
+    </result>
+    
+    <result id="97291">
+      <result code="W">Withdrawn</result>
+      <band id="521">St. Keverne Band</band>
+      <conductor id="300393">Paul Dillon</conductor>
+    </result>
+    
+    <result id="97292">
+      <result code="W">Withdrawn</result>
+      <band id="378">Totnes Band</band>
+      <conductor id="307404">K. Peters</conductor>
+    </result>
+    
+  </results>
+</contest-event>

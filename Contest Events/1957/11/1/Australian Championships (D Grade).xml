@@ -1,0 +1,48 @@
+<contest-event id="35262">
+  <event-date date="1957-11-1">Nov. 1, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3691">The Vicar of Bray</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes>OWN CHOICE MUSIC unknown</notes>
+
+  <created>May 5, 2016, 12:29 a.m.</created>
+  <last-modified>March 15, 2018, 4:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253806">
+      <result code="1">1</result>
+      <band id="738">Mildura District Brass</band>
+      <conductor id="309691">A. W. Steedman</conductor>
+    </result>
+    
+    <result id="253807">
+      <result code="2">2</result>
+      <band id="2161">Hahndorf Town Band</band>
+      <conductor id="317765">Geoff Faehrmann</conductor>
+    </result>
+    
+    <result id="253808">
+      <result code="W">Withdrawn</result>
+      <band id="2164">Campbelltown City Band (S.A.)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

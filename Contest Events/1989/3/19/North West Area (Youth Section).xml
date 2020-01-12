@@ -1,0 +1,54 @@
+<contest-event id="30139">
+  <event-date date="1989-3-19">March 19, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Youth Section)</name>
+  <contest id="1121">
+    <name>North West Area (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-youth</slug>
+    <qualifies-for id="997">National Youth Brass Band Championships</qualifies-for>
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="467">Music for a Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="82">Winter Gardens, Blackpool, Lancashire, England, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Nov. 6, 2014, 11:35 a.m.</created>
+  <last-modified>Dec. 9, 2014, 12:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213304">
+      <result code="1">1</result>
+      <band id="223">Besses Boys Band</band>
+      <conductor id="299223">Barrie Chappell</conductor>
+    </result>
+    
+    <result id="213305">
+      <result code="2">2</result>
+      <band id="1918">Wardle Academy Youth Band</band>
+      <conductor id="301352">Estelle Flood</conductor>
+    </result>
+    
+    <result id="216142">
+      <result code="">Unknown Result</result>
+      <band id="1462">Poynton Youth</band>
+      <conductor id="301229">L. Fielding</conductor>
+    </result>
+    
+    <result id="216143">
+      <result code="">Unknown Result</result>
+      <band id="4698">South Cheshire Young Brass</band>
+      <conductor id="306473">D. Moulton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

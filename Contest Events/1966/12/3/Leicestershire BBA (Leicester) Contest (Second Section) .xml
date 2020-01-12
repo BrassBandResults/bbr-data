@@ -1,0 +1,54 @@
+<contest-event id="19437">
+  <event-date date="1966-12-3">Dec. 3, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leicestershire BBA (Leicester) Contest (Second Section) </name>
+  <contest id="355">
+    <name>Leicestershire BBA (Leicester) Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="75">Leicestershire Brass Band Association (Leicester) Contest</group>
+    <slug>leicester-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="559">Othello</test-piece>
+  </test-piece>
+
+  <venue id="3287">Community Centre, Ibstock, Leicestershire, England, UK</venue>
+  <notes>  Waltz contest  1st Desford(89), 2nd Croft(81), 3rd Barlestone(80).</notes>
+
+  <created>March 21, 2013, 11:58 a.m.</created>
+  <last-modified>March 21, 2013, 12:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="145746">
+      <result code="1">1</result>
+      <band id="19">Desford Colliery Band</band>
+      <conductor id="309606">Bernard Springett</conductor>
+    </result>
+    
+    <result id="145747">
+      <result code="2">2</result>
+      <band id="386">Croft Silver Band</band>
+      <conductor id="311079">R. S. Warren</conductor>
+    </result>
+    
+    <result id="145748">
+      <result code="3">3</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="312052">Jack Wright</conductor>
+    </result>
+    
+    <result id="145749">
+      <result code="">Unknown Result</result>
+      <band id="1491">Barlestone Victoria</band>
+      <conductor id="298569">Bill Brotherhood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

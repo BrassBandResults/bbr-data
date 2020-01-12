@@ -1,0 +1,56 @@
+<contest-event id="25531">
+  <event-date date="1924-8-30">Aug. 30, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastleton Contest</name>
+  <contest id="2653">
+    <name>Newcastleton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newcastleton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="2000">Newcastleton, Roxburgh</venue>
+  <notes>Prizes - 1st £20, 2nd £10, 3rd £5, 4th £2.
+March: 1. Carlisle St Stephens, 2. Workington.
+4 bands competed.</notes>
+
+  <created>Dec. 10, 2013, 1:53 p.m.</created>
+  <last-modified>Oct. 29, 2018, 10:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185228">
+      <result code="1">1</result>
+      <band id="660">Carlisle St. Stephens Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185231">
+      <result code="2">2</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185230">
+      <result code="3">3</result>
+      <band id="10631">Carlisle Buffalo</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185229">
+      <result code="4">4</result>
+      <band id="10509">Moresby Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

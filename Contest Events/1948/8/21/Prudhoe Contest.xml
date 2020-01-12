@@ -1,0 +1,52 @@
+<contest-event id="36061">
+  <event-date date="1948-8-21">Aug. 21, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Prudhoe Contest</name>
+  <contest id="2423">
+    <name>Prudhoe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>prudhoe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5786">Any Liverpool Journal Piece</test-piece>
+  </test-piece>
+
+  <venue id="4192">Prudhoe, Northumberland</venue>
+  <notes>March contest - 1st Wallsend Shipyard,2nd Crookhall.
+Promoted as part of Prudhoe Flower Show.
+Prizes - 1st £20 and cup, 2nd £10, 3rd £5.
+5 bands competed.</notes>
+
+  <created>Sept. 14, 2016, 8:28 a.m.</created>
+  <last-modified>Feb. 22, 2019, 1:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261816">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+      <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="261817">
+      <result code="2">2</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="304775">
+      <result code="">Unknown Result</result>
+      <band id="10191">Jarvis Industrial Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

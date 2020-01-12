@@ -1,0 +1,72 @@
+<contest-event id="34924">
+  <event-date date="1967-10-20">Oct. 20, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="813">Old Palace Yard</test-piece>
+  </test-piece>
+
+  <venue id="6810">Civic Hall, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>April 3, 2016, 10:26 p.m.</created>
+  <last-modified>Jan. 5, 2020, 10:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="252010">
+      <result code="1">1</result>
+      <band id="2170">Sunshine Community Brass [Victoria]</band>
+      <conductor id="317692">George Mankeltow</conductor>
+      <test-piece id="410">Capriccio Italien [arr. Wright]</test-piece>
+    </result>
+    
+    <result id="252011">
+      <result code="2">2</result>
+      <band id="2246">Tuggerah Lakes Showband</band>
+      <conductor id="309786">Don Stewart</conductor>
+      <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+    </result>
+    
+    <result id="252012">
+      <result code="3">3</result>
+      <band id="13456">Latrobe City Brass Band [Victoria]</band>
+      <conductor id="301380">A. Forbes</conductor>
+      <test-piece id="114">Snowdon Fantasy</test-piece>
+    </result>
+    
+    <result id="252013">
+      <result code="4">4</result>
+      <band id="2321">Mornington Youth &amp; Citizens</band>
+      <conductor id="315385">A. Head</conductor>
+      <test-piece id="1184">James Hook</test-piece>
+    </result>
+    
+    <result id="252014">
+      <result code="5">5</result>
+      <band id="11303">Creswick Brass Band</band>
+      <conductor id="308485">Tom Ross</conductor>
+      <test-piece id="559">Othello</test-piece>
+    </result>
+    
+    <result id="252015">
+      <result code="6">6</result>
+      <band id="16206">Marist Brass Band</band>
+      <conductor id="315384">E Phair</conductor>
+      <test-piece id="910">Spirit of Progress</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

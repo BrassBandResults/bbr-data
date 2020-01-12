@@ -1,0 +1,46 @@
+<contest-event id="21114">
+  <event-date date="1973-4-1">April 1, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hammersmith Contest (Championship)</name>
+  <contest id="1749">
+    <name>Hammersmith Contest (Championship)</name>
+    <order>5</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="181">Hammersmith Contest</group>
+    <slug>hammersmith-contest-championship</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="274">Hammersmith Town Hall, Hammersmith, Hammersmith and Fulham, Greater London, England, UK</venue>
+  <notes>6 bands entered but only two bands competed.
+
+Best Cornet: Gwynne Price, Richmond</notes>
+
+  <created>May 6, 2013, 10:08 a.m.</created>
+  <last-modified>Nov. 6, 2013, 1:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="156119">
+      <result code="1">1</result>
+      <band id="323">Alder Valley Brass</band>
+      <conductor id="307735">George Prior</conductor>
+      <test-piece id="342">High Peak</test-piece>
+    </result>
+    
+    <result id="156120">
+      <result code="2">2</result>
+      <band id="2001">Richmond Band</band>
+      <conductor id="305995">Albert Meek</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

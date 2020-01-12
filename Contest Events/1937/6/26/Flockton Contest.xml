@@ -1,0 +1,68 @@
+<contest-event id="25836">
+  <event-date date="1937-6-26">June 26, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Flockton Contest</name>
+  <contest id="3895">
+    <name>Flockton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>flockton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1520">Il Pirata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3115">Flockton, West Riding, Yorkshire</venue>
+  <notes>Prizes - 1st 10, 2nd £5, 3rd £3.
+  Hymn tune contest - 1st(£2) Hinchliffe Mills, 2nd(£1) Denby Dale.
+  6 bands competed.</notes>
+
+  <created>Jan. 13, 2014, 10:11 a.m.</created>
+  <last-modified>Jan. 18, 2019, 3:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187272">
+      <result code="1">1</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="187273">
+      <result code="2">2</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="307097">W. Park</conductor>
+    </result>
+    
+    <result id="187274">
+      <result code="3">3</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="302807">Herbert Bowdin Hawley</conductor>
+    </result>
+    
+    <result id="187275">
+      <result code="4">4</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="187276">
+      <result code="">Unknown Result</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="187277">
+      <result code="">Unknown Result</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

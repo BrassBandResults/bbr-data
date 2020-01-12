@@ -1,0 +1,54 @@
+<contest-event id="6075">
+  <event-date date="1900-8-27">Aug. 27, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhos Contest</name>
+  <contest id="1007">
+    <name>Rhos Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhos-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1074">The Forest Queen</test-piece>
+  </test-piece>
+
+  <venue id="2520">Llanerchrugog Park, Rhosllanerchrugog, Wrexham, Wales, UK</venue>
+  <notes>March contest was also held, with the same result. Set march &quot;Viking&quot; by S. Lloyd
+
+prizes: £7, £4, £2
+
+Adjudicator originally entered as J. E. Fidler, but newspaper report on the contest gives Mr Fairhurst, of Crook Band, Wigan.
+
+Report in Wrexham Advertiser, 1st Sep 1900.</notes>
+
+  <created>May 21, 2011, 3:27 p.m.</created>
+  <last-modified>Feb. 26, 2017, 10:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="53513">
+      <result code="1">1</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="308277">Edward Roberts</conductor>
+    </result>
+    
+    <result id="53514">
+      <result code="2">2</result>
+      <band id="4494">Ruabon</band>
+      <conductor id="305186">Samuel Lloyd</conductor>
+    </result>
+    
+    <result id="53515">
+      <result code="3">3</result>
+      <band id="4495">Rhostyllen</band>
+      <conductor id="297781">Charles Bennett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

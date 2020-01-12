@@ -1,0 +1,73 @@
+<contest-event id="25802">
+  <event-date date="1930-9-13">Sept. 13, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hessle Contest</name>
+  <contest id="4782">
+    <name>Hessle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hessle-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="4153">Hessle, Yorkshire</venue>
+  <notes>Waltz contest: 1. Barton, 2. Brigg, 3. Cottingham
+Waltz contest - 1st Barton, 2nd Brigg, 3rd Cottingham.</notes>
+
+  <created>Jan. 11, 2014, 11:19 p.m.</created>
+  <last-modified>April 21, 2019, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187140">
+      <result code="1">1</result>
+      <band id="319">Barton Town Band</band>
+      <conductor id="318874">M. Thompson</conductor>
+    </result>
+    
+    <result id="187141">
+      <result code="2">2</result>
+      <band id="4589">Brigg Subscription Band</band>
+      <conductor id="306515">H. L. Mumby</conductor>
+    </result>
+    
+    <result id="187142">
+      <result code="3">3</result>
+      <band id="434">Cottingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187143">
+      <result code="4">4</result>
+      <band id="6895">Market Weighton</band>
+      <conductor id="318766">J. Hemmingway</conductor>
+    </result>
+    
+    <result id="302179">
+      <result code="">Unknown Result</result>
+      <band id="2622">Crowle Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302180">
+      <result code="">Unknown Result</result>
+      <band id="5049">New Holland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302178">
+      <result code="D">Disqualified</result>
+      <band id="11499">Ashby Men&#39;s Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

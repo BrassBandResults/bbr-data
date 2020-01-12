@@ -1,0 +1,62 @@
+<contest-event id="12113">
+  <event-date date="1986-11-8">Nov. 8, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Third Section)</name>
+  <contest id="158">
+    <name>SWBBA Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="385">Hinemoa</test-piece>
+  </test-piece>
+
+  <venue id="263">Festival Theatre, Paignton, Devon, England, UK</venue>
+  <notes>First Prize: The Grosvenor Cup
+Second Prize: The Edgar Argyle Silver Cup
+Third Prize: The Launceston Shield</notes>
+
+  <created>April 9, 2012, 1:29 p.m.</created>
+  <last-modified>April 9, 2012, 1:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="97263">
+      <result code="1">1</result>
+      <band id="560">Hatherleigh Silver Band</band>
+      <conductor id="311870">Robin Wonnacott</conductor>
+    </result>
+    
+    <result id="97264">
+      <result code="2">2</result>
+      <band id="545">Sidmouth Town Band</band>
+      <conductor id="306729">A. Nicholson</conductor>
+    </result>
+    
+    <result id="97265">
+      <result code="W">Withdrawn</result>
+      <band id="7641">Saracen Brass</band>
+      <conductor id="297500">H. E. Barnes</conductor>
+    </result>
+    
+    <result id="97266">
+      <result code="W">Withdrawn</result>
+      <band id="1281">Torrington Silver Band</band>
+      <conductor id="310918">N. Walker</conductor>
+    </result>
+    
+    <result id="97267">
+      <result code="W">Withdrawn</result>
+      <band id="543">Weston Brass</band>
+      <conductor id="301272">Dave Fisher</conductor>
+    </result>
+    
+  </results>
+</contest-event>

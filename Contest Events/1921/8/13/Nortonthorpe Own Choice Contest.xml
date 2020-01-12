@@ -1,0 +1,64 @@
+<contest-event id="26890">
+  <event-date date="1921-8-13">Aug. 13, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nortonthorpe Own Choice Contest</name>
+  <contest id="1342">
+    <name>Nortonthorpe Own Choice Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>nortonthorpe-own-choice-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3591">Nortonthorpe, West Yorkshire</venue>
+  <notes>7 bands competed, £33 in prizes
+
+Choice of three test pieces
+
+March: 1. Hepworth, 2 shared: Slaithwaite &amp; Lindley</notes>
+
+  <created>April 3, 2014, 10:20 p.m.</created>
+  <last-modified>April 3, 2014, 10:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194402">
+      <result code="1">1</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="304433">Harold Kemp</conductor>
+    </result>
+    
+    <result id="194403">
+      <result code="2">2</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="307549">F. Pogson</conductor>
+    </result>
+    
+    <result id="194404">
+      <result code="3">3</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="194405">
+      <result code="4">4</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="306071">J. Metcalfe</conductor>
+    </result>
+    
+    <result id="194406">
+      <result code="">Unknown Result</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="310897">C. W. Walker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

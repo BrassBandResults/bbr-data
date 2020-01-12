@@ -1,0 +1,51 @@
+<contest-event id="30351">
+  <event-date date="1961-3-26">March 26, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Open Section)</name>
+  <contest id="791">
+    <name>Manchester District Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="590">Belle Vue (Kings Hall), Manchester, Greater Manchester, England, UK</venue>
+  <notes>Hymn tune contest - 1st Tintwistle, 2nd Mirrlees.
+Prize - £12 and trophy.
+9th annual contest.
+3 bands competed.</notes>
+
+  <created>Nov. 22, 2014, 4:15 p.m.</created>
+  <last-modified>Dec. 17, 2014, 10:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="214528">
+      <result code="1">1</result>
+      <band id="2012">Mirrlees Works Band</band>
+      <conductor id="297146">Norman Ashcroft</conductor>
+    </result>
+    
+    <result id="214529">
+      <result code="2">2</result>
+      <band id="480">Tintwistle Band</band>
+      <conductor id="297728">Jim Belfield</conductor>
+    </result>
+    
+    <result id="214530">
+      <result code="3">3</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="309347">Denis Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

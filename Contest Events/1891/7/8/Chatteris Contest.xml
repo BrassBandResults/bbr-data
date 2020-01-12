@@ -1,0 +1,49 @@
+<contest-event id="38945">
+  <event-date date="1891-7-8">July 8, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chatteris Contest</name>
+  <contest id="6249">
+    <name>Chatteris Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chatteris-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2774">Chorus: &quot;The Heavens are Telling&quot;, from The Creation [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6799">Chatteris, Cambridgeshire</venue>
+  <notes>Prizes - 1st £10, 2nd £5, 3rd £2.10s.
+3 bands competed</notes>
+
+  <created>Dec. 4, 2017, 11:27 a.m.</created>
+  <last-modified>Feb. 2, 2018, 6:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283313">
+      <result code="1">1</result>
+      <band id="1768">Chatteris Town Brass</band>
+      <conductor id="317444">John Benson</conductor>
+    </result>
+    
+    <result id="283315">
+      <result code="2">2</result>
+      <band id="16600">Peterborough  Borough</band>
+      <conductor id="317445">T. Wilson</conductor>
+    </result>
+    
+    <result id="283314">
+      <result code="3">3</result>
+      <band id="16599">Sawtry Temperance</band>
+      <conductor id="297438">Mr. Bannister</conductor>
+    </result>
+    
+  </results>
+</contest-event>

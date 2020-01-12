@@ -1,0 +1,54 @@
+<contest-event id="7594">
+  <event-date date="1946-9-7">Sept. 7, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes>8 bands played.</notes>
+
+  <created>Oct. 7, 2011, 4:22 p.m.</created>
+  <last-modified>Nov. 15, 2013, 1:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="68244">
+      <result code="1">1</result>
+      <band id="1226">Broxburn Silver</band>
+      <conductor id="308205">J. Riley</conductor>
+    </result>
+    
+    <result id="68245">
+      <result code="2">2</result>
+      <band id="5234">Dykehead</band>
+      <conductor id="310210">Charles Telfer</conductor>
+    </result>
+    
+    <result id="68246">
+      <result code="3">3</result>
+      <band id="5551">Kilsyth Miners&#39; Welfare</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="68247">
+      <result code="4">4</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="308205">J. Riley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

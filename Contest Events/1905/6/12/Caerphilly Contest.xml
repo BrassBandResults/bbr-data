@@ -1,0 +1,67 @@
+<contest-event id="10076">
+  <event-date date="1905-6-12">June 12, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest</name>
+  <contest id="1858">
+    <name>Caerphilly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1663">Gems of Sir Henry Bishop</test-piece>
+  </test-piece>
+
+  <venue id="1307">Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes>1st prize £10, 2nd prize £5, 3rd prize £3.
+17th annual contest</notes>
+
+  <created>Feb. 10, 2012, 6:59 p.m.</created>
+  <last-modified>Sept. 5, 2018, 7:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="85391">
+      <result code="1">1</result>
+      <band id="6595">Cwmparc</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="85392">
+      <result code="2">2</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="310273">G. Thomas</conductor>
+    </result>
+    
+    <result id="85393">
+      <result code="3">3</result>
+      <band id="6623">Penrhiw</band>
+      <conductor id="299688">Mr. Cooper</conductor>
+    </result>
+    
+    <result id="85394">
+      <result code="">Unknown Result</result>
+      <band id="6596">Deri</band>
+      <conductor id="301339">Rufus Fletcher</conductor>
+    </result>
+    
+    <result id="85396">
+      <result code="">Unknown Result</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="314588">Mr Wright</conductor>
+    </result>
+    
+    <result id="85395">
+      <result code="">Unknown Result</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="300719">T. Eastwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

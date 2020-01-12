@@ -1,0 +1,66 @@
+<contest-event id="1000">
+  <event-date date="2002-12-7">Dec. 7, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Championship Section)</name>
+  <contest id="169">
+    <name>Wessex Brass Band Association (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="266">Fantasy for Brass Band [Arnold]</test-piece>
+  </test-piece>
+
+  <venue id="84">Arts Centre, Poole</venue>
+  <notes>6 bands competed</notes>
+
+  <created>Oct. 10, 2009, 4:16 p.m.</created>
+  <last-modified>Sept. 24, 2015, 9:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="10816">
+      <result code="1">1</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+    <result id="10817">
+      <result code="2">2</result>
+      <band id="310">Hyde Band</band>
+      <conductor id="311838">Peter Wise</conductor>
+    </result>
+    
+    <result id="10818">
+      <result code="3">3</result>
+      <band id="308">Woodfalls Concert Brass</band>
+      <conductor id="298074">Ron Bligh</conductor>
+    </result>
+    
+    <result id="10819">
+      <result code="4">4</result>
+      <band id="422">Poole Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="10820">
+      <result code="5">5</result>
+      <band id="429">Test Valley Brass</band>
+      <conductor id="304814">Steve Large</conductor>
+    </result>
+    
+    <result id="10821">
+      <result code="6">6</result>
+      <band id="367">Bath Spa Band</band>
+      <conductor id="311366">Tony Whitaker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

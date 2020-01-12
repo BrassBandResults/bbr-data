@@ -1,0 +1,55 @@
+<contest-event id="37314">
+  <event-date date="1900-6-4">June 4, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £4, 3rd £2.
+4 bands competed.</notes>
+
+  <created>Feb. 21, 2017, 9:50 p.m.</created>
+  <last-modified>June 13, 2018, 8:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270330">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">P. Ambler</conductor>
+    </result>
+    
+    <result id="270331">
+      <result code="2">2</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="312740">R. Dawson</conductor>
+    </result>
+    
+    <result id="270332">
+      <result code="3">3</result>
+      <band id="6596">Deri</band>
+      <conductor id="296954">P. Ambler</conductor>
+    </result>
+    
+    <result id="289633">
+      <result code="">Unknown Result</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

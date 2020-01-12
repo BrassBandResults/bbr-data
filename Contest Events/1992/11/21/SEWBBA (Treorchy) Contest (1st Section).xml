@@ -1,0 +1,54 @@
+<contest-event id="4570">
+  <event-date date="1992-11-21">Nov. 21, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Treorchy) Contest (1st Section)</name>
+  <contest id="468">
+    <name>SEWBBA (Treorchy) Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="56">SEWBBA (Treorchy) Contest</group>
+    <slug>sewbba-treorchy-1st-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+  </test-piece>
+
+  <venue id="2540">Parc &amp; Dare Theatre, Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes></notes>
+
+  <created>March 4, 2011, 9:49 a.m.</created>
+  <last-modified>Feb. 3, 2015, 10:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="39709">
+      <result code="1">1</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+    <result id="220329">
+      <result code="2">2</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="311241">Nigel Weeks</conductor>
+    </result>
+    
+    <result id="220330">
+      <result code="3">3</result>
+      <band id="425">Abergavenny Borough Band</band>
+      <conductor id="307630">Eric Powell</conductor>
+    </result>
+    
+    <result id="220331">
+      <result code="">Unknown Result</result>
+      <band id="48">Burry Port Town</band>
+      <conductor id="310378">Michael Thorne</conductor>
+    </result>
+    
+  </results>
+</contest-event>

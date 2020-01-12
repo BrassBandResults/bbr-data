@@ -1,0 +1,48 @@
+<contest-event id="35178">
+  <event-date date="1936-5-16">May 16, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rushden Contest</name>
+  <contest id="2361">
+    <name>Rushden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rushden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2217">Windmill Hall, Rushden, Northamptonshire, England, UK</venue>
+  <notes>March contest - 1st Finedon, 2nd Kettering, 3rd Rushden.</notes>
+
+  <created>April 26, 2016, 9:11 a.m.</created>
+  <last-modified>April 26, 2016, 9:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253427">
+      <result code="1">1</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308051">A. G. Remington</conductor>
+    </result>
+    
+    <result id="253428">
+      <result code="2">2</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="299625">P. W. Cook</conductor>
+    </result>
+    
+    <result id="253429">
+      <result code="3">3</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="308297">M. J. Roberts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

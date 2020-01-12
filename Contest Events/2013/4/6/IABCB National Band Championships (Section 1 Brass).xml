@@ -1,0 +1,51 @@
+<contest-event id="20448">
+  <event-date date="2013-4-6">April 6, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>IABCB National Band Championships (Section 1 Brass)</name>
+  <contest id="384">
+    <name>IABCB National Band Championships (Section 1 Brass)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="65">IABCB National Band Championships of Ireland </group>
+    <slug>iabcb-national-band-championships-section1</slug>
+    
+    <notes></notes>
+    <region id="24">Republic of Ireland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="272">Between the Two Rivers</test-piece>
+  </test-piece>
+
+  <venue id="195">University Concert Hall, Limerick, County Limerick, Republic of Ireland</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>April 11, 2013, 11:53 a.m.</created>
+  <last-modified>July 17, 2013, 12:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="151730">
+      <result code="1">1</result>
+      <band id="1060">Downshire Brass</band>
+      <conductor id="296843">Michael Alcorn</conductor>
+      <test-piece id="54">Tallis Variations</test-piece>
+    </result>
+    
+    <result id="151731">
+      <result code="2">2</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305489">Michael Maher</conductor>
+      <test-piece id="167">Crusade</test-piece>
+    </result>
+    
+    <result id="151732">
+      <result code="3">3</result>
+      <band id="1340">Lourdes Brass</band>
+      <conductor id="305413">James MacCafferty</conductor>
+      <test-piece id="392">Shine as the Light</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="42435">
+  <event-date date="1983-4-1">April 1, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (C Grade)</name>
+  <contest id="1709">
+    <name>Queensland State Brass Band Championship (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="815">Excelsior [Hanmer]</test-piece>
+  </test-piece>
+
+  <venue id="6939">Bundaberg Civic Centre  Queensland Australia</venue>
+  <notes></notes>
+
+  <created>July 30, 2019, 5:41 a.m.</created>
+  <last-modified>July 30, 2019, 5:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311499">
+      <result code="1">1</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="319259">Ron Millinger</conductor>
+    </result>
+    
+    <result id="311500">
+      <result code="2">2</result>
+      <band id="16888">Redcliffe R S L &amp; Municipal  (Qld)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311501">
+      <result code="3">3</result>
+      <band id="16887">Ipswich Vice Regal Excelsior</band>
+      <conductor id="319440">Garry Lawrence</conductor>
+    </result>
+    
+    <result id="311502">
+      <result code="W">Withdrawn</result>
+      <band id="6569">Thuringowa Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

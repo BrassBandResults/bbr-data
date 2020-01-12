@@ -1,0 +1,72 @@
+<contest-event id="3949">
+  <event-date date="1970-4-12">April 12, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Second Section)</name>
+  <contest id="23">
+    <name>North West Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="409">First Suite in Eb</test-piece>
+  </test-piece>
+
+  <venue id="383">Public Hall, Preston</venue>
+  <notes></notes>
+
+  <created>Feb. 8, 2011, 5:40 a.m.</created>
+  <last-modified>Feb. 8, 2011, 5:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="35117">
+      <result code="1">1</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="303596">J. A. Hughes</conductor>
+    </result>
+    
+    <result id="35118">
+      <result code="2">2</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="35119">
+      <result code="3">3</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310825">E. Vint</conductor>
+    </result>
+    
+    <result id="35120">
+      <result code="4">4</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="303452">Frank Hough</conductor>
+    </result>
+    
+    <result id="35122">
+      <result code="">Unknown Result</result>
+      <band id="2580">Knutsford &amp; Alderley</band>
+      <conductor id="302077">Edward Gray</conductor>
+    </result>
+    
+    <result id="35123">
+      <result code="">Unknown Result</result>
+      <band id="1671">Stretford Band</band>
+      <conductor id="302649">E. R. Harris</conductor>
+    </result>
+    
+    <result id="35121">
+      <result code="">Unknown Result</result>
+      <band id="2579">British Vita Works Band</band>
+      <conductor id="299407">F. Clayton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

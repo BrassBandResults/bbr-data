@@ -1,0 +1,49 @@
+<contest-event id="20140">
+  <event-date date="1955-6-18">June 18, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North East Midlands Contest (First Section)</name>
+  <contest id="117">
+    <name>North East Midlands Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="12">North East Midlands Contest</group>
+    <slug>north-east-midlands-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3407">Carr Bank Park, Mansfield, Nottinghamshire</venue>
+  <notes>
+  Prizes - 1st £30, 2nd £20. 3rd £10.</notes>
+
+  <created>March 31, 2013, 2:42 p.m.</created>
+  <last-modified>March 31, 2013, 2:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149798">
+      <result code="1">1</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149799">
+      <result code="2">2</result>
+      <band id="118">Thoresby Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149800">
+      <result code="3">3</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="27143">
+  <event-date date="1959-3-30">March 30, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class B</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="878">Die Feen</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune in conjunction with Class C - 1st Green Brothers, 2nd Magdalen, 3rd Wrentham, 4th Haverhill.</notes>
+
+  <created>April 30, 2014, 4:36 p.m.</created>
+  <last-modified>April 30, 2014, 4:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="196222">
+      <result code="1">1</result>
+      <band id="3885">Breckland Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196223">
+      <result code="2">2</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196224">
+      <result code="3">3</result>
+      <band id="4083">Magdalen &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

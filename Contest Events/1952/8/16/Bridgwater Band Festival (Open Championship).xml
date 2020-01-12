@@ -1,0 +1,49 @@
+<contest-event id="42630">
+  <event-date date="1952-8-16">Aug. 16, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridgwater Band Festival (Open Championship)</name>
+  <contest id="927">
+    <name>Bridgwater Band Festival (Open Championship)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="273">Bridgwater Band Festival</group>
+    <slug>bridgwater-band-festival-open-championship</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1931">Macbeth [unknown composer, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3086">Blake Gardens, Bridgwater, Somerset, England, UK</venue>
+  <notes>March contest - 1st Lewis Merthyr, 2nd Fishponds B.L.
+3 bands competed.</notes>
+
+  <created>Oct. 5, 2019, 2:02 p.m.</created>
+  <last-modified>Oct. 5, 2019, 2:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="312491">
+      <result code="1">1</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="304261">Oliver Jones</conductor>
+    </result>
+    
+    <result id="312492">
+      <result code="2">2</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="305176">Alwyn Lloyd</conductor>
+    </result>
+    
+    <result id="312493">
+      <result code="3">3</result>
+      <band id="2069">Bridgwater Imperial</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+  </results>
+</contest-event>

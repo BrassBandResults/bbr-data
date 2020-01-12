@@ -1,0 +1,94 @@
+<contest-event id="30560">
+  <event-date date="1978-10-1">Oct. 1, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glossop Contest (Section A)</name>
+  <contest id="5551">
+    <name>Glossop Contest (Section A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>glossop-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1901">Glossop, Derbyshire</venue>
+  <notes>Best soloist - percussion Holme Silver.
+Prizes - 1st £60 and shield, 2nd £40 and shield, 3rd £20 and cup, 4th £10 and cup.
+2nd annual contest.</notes>
+
+  <created>Dec. 8, 2014, 11:03 p.m.</created>
+  <last-modified>Dec. 19, 2016, 11:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="216118">
+      <result code="1">1</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="303137">Anthony Hindley</conductor>
+    </result>
+    
+    <result id="216119">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="301693">Bryan Garside</conductor>
+      <test-piece id="142">Vizcaya</test-piece>
+    </result>
+    
+    <result id="216120">
+      <result code="3">3</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310825">E. Vint</conductor>
+      <test-piece id="378">Diadem of Gold</test-piece>
+    </result>
+    
+    <result id="216121">
+      <result code="4">4</result>
+      <band id="253">Stockport Brass</band>
+      <conductor id="302225">C. Griffiths</conductor>
+      <test-piece id="629">Promenade</test-piece>
+    </result>
+    
+    <result id="257287">
+      <result code="">Unknown Result</result>
+      <band id="497">Burbage Buxton Band</band>
+      <conductor id="307985">Don Redfern</conductor>
+      <test-piece id="521">Suite Gothique</test-piece>
+    </result>
+    
+    <result id="257288">
+      <result code="">Unknown Result</result>
+      <band id="5425">Chadderton and District</band>
+      <conductor id="297334">R. C. Bailey</conductor>
+      <test-piece id="70">The Shipbuilders</test-piece>
+    </result>
+    
+    <result id="257289">
+      <result code="">Unknown Result</result>
+      <band id="390">Greenalls Band</band>
+      <conductor id="298634">Malcolm Brownbill</conductor>
+      <test-piece id="531">Academic Festival Overture</test-piece>
+    </result>
+    
+    <result id="257290">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+      <test-piece id="514">Scena Sinfonica</test-piece>
+    </result>
+    
+    <result id="257291">
+      <result code="">Unknown Result</result>
+      <band id="4832">Burnage Junior</band>
+      <conductor id="306673">Gary Newborough</conductor>
+      <test-piece id="1037">Rufford Abbey</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

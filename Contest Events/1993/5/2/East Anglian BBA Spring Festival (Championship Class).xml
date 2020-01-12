@@ -1,0 +1,67 @@
+<contest-event id="31167">
+  <event-date date="1993-5-2">May 2, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Championship Class)</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="654">Scheherazade</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune - Matthews Norfolk Brass.
+6 bands competed.</notes>
+
+  <created>Feb. 23, 2015, 1:40 p.m.</created>
+  <last-modified>June 13, 2015, 9:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="222034">
+      <result code="1">1</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="304091">Ian Johnson</conductor>
+    </result>
+    
+    <result id="222035">
+      <result code="2">2</result>
+      <band id="304">East of England Co-op Band</band>
+      <conductor id="304450">Stephen Kenna</conductor>
+    </result>
+    
+    <result id="222036">
+      <result code="3">3</result>
+      <band id="2112">Castleton Brass [Suffolk]</band>
+      <conductor id="306825">David Notley</conductor>
+    </result>
+    
+    <result id="230654">
+      <result code="">Unknown Result</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="296811">Les Ager</conductor>
+    </result>
+    
+    <result id="230655">
+      <result code="">Unknown Result</result>
+      <band id="296">Soham Comrades Band</band>
+      <conductor id="304390">Andrew Keirl</conductor>
+    </result>
+    
+    <result id="230656">
+      <result code="">Unknown Result</result>
+      <band id="615">Waterbeach Brass</band>
+      <conductor id="301209">D. J. Few</conductor>
+    </result>
+    
+  </results>
+</contest-event>

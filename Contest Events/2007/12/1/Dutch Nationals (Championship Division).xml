@@ -1,0 +1,84 @@
+<contest-event id="1177">
+  <event-date date="2007-12-1">Dec. 1, 2007<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Championship Division)</name>
+  <contest id="274">
+    <name>Dutch Nationals (Championship Division)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="62">Music for Battle Creek</test-piece>
+  </test-piece>
+
+  <venue id="110">Martiniplaza, Groningen, Groningen Province, Netherlands</venue>
+  <notes></notes>
+
+  <created>Oct. 28, 2009, 8:38 a.m.</created>
+  <last-modified>June 6, 2010, 9:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="12652">
+      <result code="1">1</result>
+      <band id="989">Brass Band De Wâldsang</band>
+      <conductor id="312215">Rieks van der Velde</conductor>
+    </result>
+    
+    <result id="12653">
+      <result code="2">2</result>
+      <band id="772">De Bazuin Oenkerk</band>
+      <conductor id="312216">Klaas van der Woude</conductor>
+    </result>
+    
+    <result id="12654">
+      <result code="3">3</result>
+      <band id="1326">Brass Band Schoonhoven</band>
+      <conductor id="311489">Benny Wiame</conductor>
+    </result>
+    
+    <result id="12655">
+      <result code="4">4</result>
+      <band id="30">Soli Brass</band>
+      <conductor id="298760">Frans-Aert Burghgraef</conductor>
+    </result>
+    
+    <result id="12656">
+      <result code="5">5</result>
+      <band id="1220">Brass Band Limburg</band>
+      <conductor id="311489">Benny Wiame</conductor>
+    </result>
+    
+    <result id="12657">
+      <result code="6">6</result>
+      <band id="1223">Provinciale Brass Band Groningen</band>
+      <conductor id="302479">Sietse Hamersma</conductor>
+    </result>
+    
+    <result id="12658">
+      <result code="7">7</result>
+      <band id="1235">Amsterdam Brass</band>
+      <conductor id="304672">Frank van Koten</conductor>
+    </result>
+    
+    <result id="12659">
+      <result code="8">8</result>
+      <band id="240">Brass Band Rijnmond</band>
+      <conductor id="306081">Ivan Meylemans</conductor>
+    </result>
+    
+    <result id="12660">
+      <result code="9">9</result>
+      <band id="1327">Altena Brass</band>
+      <conductor id="296793">Jan-Gerrit Adema</conductor>
+    </result>
+    
+  </results>
+</contest-event>

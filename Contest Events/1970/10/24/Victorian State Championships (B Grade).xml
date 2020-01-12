@@ -1,0 +1,72 @@
+<contest-event id="39482">
+  <event-date date="1970-10-24">Oct. 24, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="831">Peddars Way</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>April 11, 2018, 12:42 a.m.</created>
+  <last-modified>April 11, 2018, 12:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="286495">
+      <result code="1">1</result>
+      <band id="724">City of Greater Dandenong Band</band>
+      <conductor id="303083">Eddie Hill</conductor>
+    </result>
+    
+    <result id="286496">
+      <result code="2">2</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="299449">Russell Clogan</conductor>
+    </result>
+    
+    <result id="286497">
+      <result code="3">3</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="303914">Frank James</conductor>
+    </result>
+    
+    <result id="286498">
+      <result code="4">4</result>
+      <band id="2320">Oakleigh City Band</band>
+      <conductor id="298311">D. Boyle</conductor>
+    </result>
+    
+    <result id="286500">
+      <result code="">Unknown Result</result>
+      <band id="16684">Brunswick City   (Vic)</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+    <result id="286501">
+      <result code="">Unknown Result</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="311846">Arthur Withers</conductor>
+    </result>
+    
+    <result id="286499">
+      <result code="">Unknown Result</result>
+      <band id="2170">Sunshine Community Brass [Victoria]</band>
+      <conductor id="317692">George Mankeltow</conductor>
+    </result>
+    
+  </results>
+</contest-event>

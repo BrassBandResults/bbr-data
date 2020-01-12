@@ -1,0 +1,60 @@
+<contest-event id="7595">
+  <event-date date="1946-9-7">Sept. 7, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Fourth Section)</name>
+  <contest id="65">
+    <name>Scottish Championship (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1371">Alexander&#39;s Feast</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes>Positions as given on the SBBA website. However, the British Bandsman of 14/9/1946 records the results as
+1 Bowhill Colliery
+2 Kirkcaldy
+3 Bo&#39;ness &amp; Carriden
+4 Penston
+
+Which version is correct?</notes>
+
+  <created>Oct. 7, 2011, 4:23 p.m.</created>
+  <last-modified>Dec. 12, 2012, 4:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="68248">
+      <result code="1">1</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="310210">Charles Telfer</conductor>
+    </result>
+    
+    <result id="68249">
+      <result code="2">2</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="310226">Charles Terris</conductor>
+    </result>
+    
+    <result id="68250">
+      <result code="3">3</result>
+      <band id="5547">Kirkcaldy BB</band>
+      <conductor id="298439">David Briggs</conductor>
+    </result>
+    
+    <result id="68251">
+      <result code="4">4</result>
+      <band id="2101">Penston Silver</band>
+      <conductor id="302072">C. Gray</conductor>
+    </result>
+    
+  </results>
+</contest-event>
