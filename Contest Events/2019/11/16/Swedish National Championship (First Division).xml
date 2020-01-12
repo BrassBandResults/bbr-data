@@ -1,0 +1,95 @@
+<contest-event id="39512">
+  <event-date date="2019-11-16">Nov. 16, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (First Division)</name>
+  <contest id="852">
+    <name>Swedish National Championship (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-first-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="24">Sunset Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="4625">Arken, Värnamo, Småland, Sweden</venue>
+  <notes>Best Section: Euphonium - Malmö Brass Band
+Instrumentalist Prize: Jerker Lindgren Götsten, Flugel - Malmö Brass Band
+Honours Prize (Conductor): Berit Palmquist - Torsby Brass</notes>
+
+  <created>April 21, 2018, 8:12 a.m.</created>
+  <last-modified>Nov. 19, 2019, 1:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="312546">
+      <result code="1">1</result>
+      <band id="1936">Malmo Brass Band</band>
+      <conductor id="311797">Jan Winborg</conductor>
+      <test-piece id="5345">Ex Terra Lucem</test-piece>
+    </result>
+    
+    <result id="312544">
+      <result code="2">2</result>
+      <band id="13898">Lund University</band>
+      <conductor id="297020">Roger Andersson</conductor>
+      <test-piece id="166">Trittico</test-piece>
+    </result>
+    
+    <result id="312543">
+      <result code="3">3</result>
+      <band id="2356">Åsenhöga Brass Band</band>
+      <conductor id="307907">Patrik Randefalk</conductor>
+      <test-piece id="5548">Viking Age</test-piece>
+    </result>
+    
+    <result id="312549">
+      <result code="4">4</result>
+      <band id="1567">Torsby Brass</band>
+      <conductor id="307079">Berit Palmquist</conductor>
+      <test-piece id="3467">The Day of the Lord</test-piece>
+    </result>
+    
+    <result id="312548">
+      <result code="5">5</result>
+      <band id="2268">Södertörns Brass</band>
+      <conductor id="303183">Mattias Hjortlinger</conductor>
+      <test-piece id="5344">Napoleon on the Alps</test-piece>
+    </result>
+    
+    <result id="312541">
+      <result code="6">6</result>
+      <band id="2890">Halmstad Brass</band>
+      <conductor id="315641">Mikael Johansson</conductor>
+      <test-piece id="2466">Fire In The Blood</test-piece>
+    </result>
+    
+    <result id="312547">
+      <result code="7">7</result>
+      <band id="5796">Smyrna Brass Band</band>
+      <conductor id="302900">Anders Hellman</conductor>
+      <test-piece id="2851">March: Praise</test-piece>
+    </result>
+    
+    <result id="312545">
+      <result code="8">8</result>
+      <band id="2891">Immanuel Brass - Stockholm</band>
+      <conductor id="317312">Anders Lundin</conductor>
+      <test-piece id="258">Renaissance</test-piece>
+    </result>
+    
+    <result id="312542">
+      <result code="9">9</result>
+      <band id="12387">Immanuel Brass - Jönköping</band>
+      <conductor id="303750">Magnus Hylander</conductor>
+      <test-piece id="211">Variations on Laudate Dominum</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

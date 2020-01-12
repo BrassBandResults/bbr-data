@@ -1,0 +1,65 @@
+<contest-event id="42692">
+  <event-date date="2019-11-30">Nov. 30, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5976">Alpina Brass</test-piece>
+  </test-piece>
+
+  <venue id="4957">Cultuurcentrum Zwaneberg, Heist-op-den-Berg, Antwerp, Belgium</venue>
+  <notes>&#39;Total points&#39; shows the percentage of combined points awarded out of maximum 600</notes>
+
+  <created>Oct. 22, 2019, 11:30 a.m.</created>
+  <last-modified>Dec. 1, 2019, 3:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="312890">
+      <result code="1">1</result>
+      <band id="1269">Brass Band Gent</band>
+      <conductor id="310791">Luc Vertommen</conductor>
+      <test-piece id="32">Chivalry</test-piece>
+    </result>
+    
+    <result id="312891">
+      <result code="2">2</result>
+      <band id="680">Brassband Scaldis</band>
+      <conductor id="312196">Raf van Looveren</conductor>
+      <test-piece id="3574">Sinfonietta no. 3 [Crausaz]</test-piece>
+    </result>
+    
+    <result id="312893">
+      <result code="3">3</result>
+      <band id="1014">Brassband De Grensbewoners Smeermaas vzw</band>
+      <conductor id="296806">Danny Aerden</conductor>
+      <test-piece id="2859">Facets of the Heart</test-piece>
+    </result>
+    
+    <result id="312889">
+      <result code="4">4</result>
+      <band id="1016">Brassband Bacchus</band>
+      <conductor id="306704">Bart van Neyghem</conductor>
+      <test-piece id="6211">Opus 87, The Story of a Soviet Genius</test-piece>
+    </result>
+    
+    <result id="312892">
+      <result code="5">5</result>
+      <band id="1607">Braz &#39;art Band</band>
+      <conductor id="310790">Geert Verschaeve</conductor>
+      <test-piece id="6212">Another World&#39;s Hell</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="41123">
+  <event-date date="2019-11-9">Nov. 9, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Danish National Championship (Third Division)</name>
+  <contest id="561">
+    <name>Danish National Championship (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="84">Danish National Championship</group>
+    <slug>danish-national-championship-third-division</slug>
+    
+    <notes></notes>
+    <region id="22">Denmark</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="612">La Viuda Negra</test-piece>
+  </test-piece>
+
+  <venue id="988">Musikhuset Aarhus, Aarhus, Central Denmark, Denmark</venue>
+  <notes></notes>
+
+  <created>Nov. 5, 2018, 8:50 a.m.</created>
+  <last-modified>Oct. 29, 2019, 9:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="312488">
+      <result code="1">1</result>
+      <band id="13901">Aalborg Postorkester</band>
+      <conductor id="304324">Henrik Juul-Brinkmann</conductor>
+      <test-piece id="1292">Olympus</test-piece>
+    </result>
+    
+    <result id="312485">
+      <result code="2">2</result>
+      <band id="1603">FDF Århus Musikkreds Brass Band</band>
+      <conductor id="304598">Simon Kjærgaard</conductor>
+      <test-piece id="6122">The Power Within</test-piece>
+    </result>
+    
+    <result id="312486">
+      <result code="3">3</result>
+      <band id="2129">FDF Gladsaxe Brass Band</band>
+      <conductor id="304044">Carl Viggo Jespersen</conductor>
+      <test-piece id="4678">Purcellian Fantasia</test-piece>
+    </result>
+    
+    <result id="312490">
+      <result code="4">4</result>
+      <band id="5631">Senex Brass Band</band>
+      <conductor id="316855">Boris Kertsman</conductor>
+      <test-piece id="3906">Corale &amp; Variations</test-piece>
+    </result>
+    
+    <result id="312489">
+      <result code="5">5</result>
+      <band id="7443">Brass Band Da Capo</band>
+      <conductor id="310056">Lars Peder Sørensen</conductor>
+      <test-piece id="553">Voices of Youth</test-piece>
+    </result>
+    
+    <result id="312487">
+      <result code="6">6</result>
+      <band id="2130">Sejs Blaeserne</band>
+      <conductor id="306852">Jan Nørgaard</conductor>
+      <test-piece id="6013">Oregon</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

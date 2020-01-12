@@ -1,0 +1,49 @@
+<contest-event id="40689">
+  <event-date date="2019-11-16">Nov. 16, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Italian National Championship</name>
+  <contest id="6055">
+    <name>Italian National Championship</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="568">Italian National Championship</group>
+    <slug>italian-national-championship</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3018">Toccata e Fantasia</test-piece>
+  </test-piece>
+
+  <venue id="7223">Stadttheater Sterzing, Bozen, Trentino-Südtirol, Italien</venue>
+  <notes>Own Choices played?
+Special Prizes?</notes>
+
+  <created>Oct. 13, 2018, 9:29 a.m.</created>
+  <last-modified>Nov. 27, 2019, 12:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313782">
+      <result code="1">1</result>
+      <band id="716">Brass Band Wipptal</band>
+      <conductor id="319775">Florian Klingler</conductor>
+    </result>
+    
+    <result id="313781">
+      <result code="2">2</result>
+      <band id="12121">Italian Brass Band</band>
+      <conductor id="298978">Filippo Cangiamila</conductor>
+    </result>
+    
+    <result id="313783">
+      <result code="3">3</result>
+      <band id="11498">Brass Band Überetsch</band>
+      <conductor id="315615">Hans Finatzer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

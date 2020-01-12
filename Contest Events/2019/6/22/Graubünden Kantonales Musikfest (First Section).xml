@@ -1,0 +1,61 @@
+<contest-event id="42320">
+  <event-date date="2019-6-22">June 22, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Graubünden Kantonales Musikfest (First Section)</name>
+  <contest id="292">
+    <name>Graubünden Kantonales Musikfest (First Section)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="138">Graubünden Kantonales Musikfest</group>
+    <slug>graubunden-area-first-section</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="293">Oceans</test-piece>
+  </test-piece>
+
+  <venue id="6461">Arosa, GR, Switzerland</venue>
+  <notes>Adjudicators Board (no Details):
+Bach Philippe, Bachmann Armin, Bichsel Daniel, Burkhalter Hans, Danzeisen Peter, Egger Markus, Eicher Pascal, Fröscher Roland
+Grélat Hervé, Héritier Blaise, Hodel Pirmin, Kipfer Ueli, Moren Bertrand, Näf Reto, Recher Roland, Schmid Peter,
+Stadelmann Peter, Théodoloz Frédéric</notes>
+
+  <created>June 12, 2019, 9:45 a.m.</created>
+  <last-modified>June 12, 2019, 9:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="309720">
+      <result code="1">1</result>
+      <band id="79">Brass Band Imperial Lenzburg</band>
+      <conductor id="298949">Rafael Camartin</conductor>
+      <test-piece id="4671">A Brussels Requiem</test-piece>
+    </result>
+    
+    <result id="309721">
+      <result code="">Unknown Result</result>
+      <band id="1063">Universal Brass Band Wil</band>
+      <conductor id="309688">Gian Stecher</conductor>
+      <test-piece id="208">Music of the Spheres</test-piece>
+    </result>
+    
+    <result id="309722">
+      <result code="">Unknown Result</result>
+      <band id="94">Brass Band Cazis</band>
+      <conductor id="307979">Susanne Rechsteiner</conductor>
+      <test-piece id="13">Journey to the Centre of the Earth</test-piece>
+    </result>
+    
+    <result id="309723">
+      <result code="">Unknown Result</result>
+      <band id="83">Brass Band Sursilvana</band>
+      <conductor id="298996">Roman Caprez</conductor>
+      <test-piece id="55">Elgar Variations</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

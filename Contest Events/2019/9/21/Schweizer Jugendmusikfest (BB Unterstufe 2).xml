@@ -1,0 +1,42 @@
+<contest-event id="42559">
+  <event-date date="2019-9-21">Sept. 21, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Schweizer Jugendmusikfest (BB Unterstufe 2)</name>
+  <contest id="5307">
+    <name>Schweizer Jugendmusikfest (BB Unterstufe)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="413">Schweizer Jugendmusikfest</group>
+    <slug>schweizer-jugendmusikfest-bb-unterstufe</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6618">Burgdorf, BE, Switzerland</venue>
+  <notes></notes>
+
+  <created>Sept. 22, 2019, 3 p.m.</created>
+  <last-modified>Sept. 22, 2019, 3:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="312155">
+      <result code="1">1</result>
+      <band id="12782">Young Brassers Oberburg</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="312156">
+      <result code="2">2</result>
+      <band id="18180">Ensemble des cadets de Courroux-Courcelon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

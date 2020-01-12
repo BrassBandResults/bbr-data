@@ -1,0 +1,65 @@
+<contest-event id="42323">
+  <event-date date="2019-6-22">June 22, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Graubünden Kantonales Musikfest (Fourth Section)</name>
+  <contest id="4309">
+    <name>Graubünden Kantonales Musikfest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="138">Graubünden Kantonales Musikfest</group>
+    <slug>graubunden-kantonales-musikfest-fourth-section</slug>
+    
+    <notes>None</notes>
+    <region id="10">Switzerland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5996">The Enchanted Castle</test-piece>
+  </test-piece>
+
+  <venue id="6461">Arosa, GR, Switzerland</venue>
+  <notes></notes>
+
+  <created>June 12, 2019, 10:24 a.m.</created>
+  <last-modified>June 12, 2019, 10:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="309748">
+      <result code="1">1</result>
+      <band id="9484">Junior Brass Band Grischun Central</band>
+      <conductor id="311502">Ursin Widmer</conductor>
+      <test-piece id="2076">Cityscapes [de Haan]</test-piece>
+    </result>
+    
+    <result id="309749">
+      <result code="">Unknown Result</result>
+      <band id="10982">Musikgesellschaft Madrisa Klosters-Dorf</band>
+      <conductor id="298898">Simon Bühler</conductor>
+      <test-piece id="2134">Antarctica</test-piece>
+    </result>
+    
+    <result id="309750">
+      <result code="">Unknown Result</result>
+      <band id="11058">MG Andeer</band>
+      <conductor id="297126">Urs Arpagaus</conductor>
+      <test-piece id="5902">First Flight</test-piece>
+    </result>
+    
+    <result id="309751">
+      <result code="">Unknown Result</result>
+      <band id="10984">Societad da musica Danis/Tavanasa</band>
+      <conductor id="308820">Hugo Schär</conductor>
+      <test-piece id="3267">Bliss</test-piece>
+    </result>
+    
+    <result id="309752">
+      <result code="">Unknown Result</result>
+      <band id="18069">Società da musica Ftan</band>
+      <conductor id="319312">Jon Armon Strimer</conductor>
+      <test-piece id="5997">Perceval</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,65 @@
+<contest-event id="41114">
+  <event-date date="2019-11-9">Nov. 9, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Danish National Championship (Championship Division)</name>
+  <contest id="559">
+    <name>Danish National Championship (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="84">Danish National Championship</group>
+    <slug>danish-national-championship-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="22">Denmark</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1403">Psyche</test-piece>
+  </test-piece>
+
+  <venue id="988">Musikhuset Aarhus, Aarhus, Central Denmark, Denmark</venue>
+  <notes></notes>
+
+  <created>Nov. 5, 2018, 8:48 a.m.</created>
+  <last-modified>Oct. 29, 2019, 9:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="312285">
+      <result code="1">1</result>
+      <band id="1225">Concord Brass Band</band>
+      <conductor id="316449">Jesper Juul Windahl</conductor>
+      <test-piece id="47">Cambridge Variations</test-piece>
+    </result>
+    
+    <result id="312292">
+      <result code="2">2</result>
+      <band id="714">Lyngby-Taarbaek Brass Band</band>
+      <conductor id="303938">Erik Janssen</conductor>
+      <test-piece id="6151">Bipolarity</test-piece>
+    </result>
+    
+    <result id="312294">
+      <result code="3">3</result>
+      <band id="3293">Århus Brass Band</band>
+      <conductor id="310358">Michael Thomsen</conductor>
+      <test-piece id="5251">The 39th Parallel</test-piece>
+    </result>
+    
+    <result id="312291">
+      <result code="4">4</result>
+      <band id="10877">FDF Christianshavn Musikkreds</band>
+      <conductor id="306926">Andras Olsen</conductor>
+      <test-piece id="3574">Sinfonietta no. 3 [Crausaz]</test-piece>
+    </result>
+    
+    <result id="312288">
+      <result code="5">5</result>
+      <band id="1262">Nordvestjysk Brass Band</band>
+      <conductor id="310283">Huw Thomas</conductor>
+      <test-piece id="2445">Of Distant Memories</test-piece>
+    </result>
+    
+  </results>
+</contest-event>
