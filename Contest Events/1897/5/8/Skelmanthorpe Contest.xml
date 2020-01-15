@@ -19,10 +19,12 @@
   </test-piece>
 
   <venue id="878">Skelmanthorpe, Yorkshire</venue>
-  <notes>Prizes: £7, £4, £2, £1 10s, £1</notes>
+  <notes>Prizes: £7, £4, £2, £1 10s, £1
+
+</notes>
 
   <created>May 4, 2012, 9:16 p.m.</created>
-  <last-modified>Sept. 13, 2017, 12:26 p.m.</last-modified>
+  <last-modified>Jan. 14, 2020, 1:35 p.m.</last-modified>
 
   <results>
     
@@ -44,8 +46,14 @@
       <conductor id="308708">P. Sanderson</conductor>
     </result>
     
-    <result id="104751">
+    <result id="314725">
       <result code="4">4</result>
+      <band id="5865">Churwell (Leeds) Band</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="104751">
+      <result code="5">5</result>
       <band id="3229">Castleford New Subscription</band>
       <conductor id="309634">J. W. Stamp</conductor>
     </result>
@@ -127,6 +135,12 @@
       <band id="7615">Harrogate Temperance</band>
       <conductor id="310730">Unknown</conductor>
       <test-piece id="2799">William Tell [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="314724">
+      <result code="W">Withdrawn</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="310730">Unknown</conductor>
     </result>
     
   </results>
