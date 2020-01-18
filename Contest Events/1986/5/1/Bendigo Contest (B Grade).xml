@@ -1,41 +1,41 @@
-<contest-event id="14744">
+<contest-event id="43140">
   <event-date date="1986-5-1">May 1, 1986<event-date>
   <event-date-resolution>M</event-date-resolution>
-  <name>Bendigo Contest (A Grade)</name>
-  <contest id="2686">
-    <name>Bendigo Contest (A Grade)</name>
-    <order>10</order>
+  <name>Bendigo Contest (B Grade)</name>
+  <contest id="3061">
+    <name>Bendigo Contest (B Grade)</name>
+    <order>20</order>
     <contest-type id="12">Test Piece Contest</contest-type>
     <group id="289">Bendigo Contest (Eisteddfod)</group>
-    <slug>bendigo-contest</slug>
+    <slug>bendigo-contest-b-grade</slug>
     
     <notes></notes>
-    <region id="16">Australia</region>
-    <section id="12">A Grade</section>
+    
+    
   </contest>
   
   <test-piece>
     
   </test-piece>
 
-  
+  <venue id="7260">Kangaroo Flat Technical School,Bendigo</venue>
   <notes></notes>
 
-  <created>Sept. 14, 2012, 9:47 a.m.</created>
-  <last-modified>Sept. 14, 2012, 9:47 a.m.</last-modified>
+  <created>Jan. 17, 2020, 1:03 p.m.</created>
+  <last-modified>Jan. 17, 2020, 1:10 p.m.</last-modified>
 
   <results>
     
-    <result id="314771">
+    <result id="314769">
       <result code="1">1</result>
       <band id="2281">Diamond Valley Brass Band</band>
       <conductor id="298263">Wayne Bowden</conductor>
     </result>
     
-    <result id="115722">
+    <result id="314770">
       <result code="2">2</result>
-      <band id="8738">Strathfieldsaye Municipal Band</band>
-      <conductor id="301387">Mark Ford</conductor>
+      <band id="2401">Marong Municipal (Hopetoun) Brass Band</band>
+      <conductor id="305962">Brian McMennemin</conductor>
     </result>
     
   </results>
