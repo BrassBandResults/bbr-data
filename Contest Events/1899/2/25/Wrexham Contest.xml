@@ -15,17 +15,16 @@
   </contest>
   
   <test-piece>
-    <test-piece id="2556">Beauties of Ireland</test-piece>
+    <test-piece id="1839">Pride of Ireland</test-piece>
   </test-piece>
 
   <venue id="3226">Wrexham Hippodrome, Wrexham, Wrexham, Wales, UK</venue>
   <notes>Promoted by the Maelor Brass Band League
-
-March contest: 1. Coedpoeth
-</notes>
+March contest: 1. Coedpoeth.
+4 bands competed</notes>
 
   <created>Aug. 9, 2013, 9:33 a.m.</created>
-  <last-modified>Aug. 9, 2013, 9:37 a.m.</last-modified>
+  <last-modified>Jan. 30, 2020, 8:34 a.m.</last-modified>
 
   <results>
     
@@ -33,6 +32,12 @@ March contest: 1. Coedpoeth
       <result code="1">1</result>
       <band id="2675">Coedpoeth Public</band>
       <conductor id="308277">Edward Roberts</conductor>
+    </result>
+    
+    <result id="167007">
+      <result code="">Unknown Result</result>
+      <band id="7806">Rhosrobin</band>
+      <conductor id="305186">Samuel Lloyd</conductor>
     </result>
     
     <result id="167008">
@@ -45,12 +50,6 @@ March contest: 1. Coedpoeth
       <result code="">Unknown Result</result>
       <band id="7807">Oak Alyn</band>
       <conductor id="319624">Richard Phillips</conductor>
-    </result>
-    
-    <result id="167007">
-      <result code="">Unknown Result</result>
-      <band id="7806">Rhosrobin</band>
-      <conductor id="305186">Samuel Lloyd</conductor>
     </result>
     
   </results>
