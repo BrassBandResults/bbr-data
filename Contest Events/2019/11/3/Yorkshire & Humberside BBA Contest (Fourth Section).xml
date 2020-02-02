@@ -19,10 +19,11 @@
   </test-piece>
 
   <venue id="5567">Town Hall, Dewsbury, West Yorkshire</venue>
-  <notes>Best Instrumentalist: Flugel- Martin Tromans, Tewit Silver Band</notes>
+  <notes>Best Instrumentalist: Flugel- Martin Tromans, Tewit Silver Band
+</notes>
 
   <created>Nov. 14, 2019, 2:33 p.m.</created>
-  <last-modified>Jan. 6, 2020, 9:11 p.m.</last-modified>
+  <last-modified>Feb. 1, 2020, noon</last-modified>
 
   <results>
     
@@ -30,12 +31,21 @@
       <result code="1">1</result>
       <band id="16894">Tewit Silver</band>
       <conductor id="302421">Martin Hall</conductor>
+      <test-piece id="3424">Beecher Variations</test-piece>
     </result>
     
     <result id="313732">
       <result code="2">2</result>
       <band id="156">Friendly Band (Sowerby Bridge)</band>
       <conductor id="297706">James Beecham</conductor>
+      <test-piece id="3427">The Journal of Phileas Fogg</test-piece>
+    </result>
+    
+    <result id="314989">
+      <result code="3">3</result>
+      <band id="3485">Loxley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="5548">Viking Age</test-piece>
     </result>
     
   </results>
