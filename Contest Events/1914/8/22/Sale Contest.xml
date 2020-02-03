@@ -1,0 +1,78 @@
+<contest-event id="40536">
+  <event-date date="1914-8-22">Aug. 22, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sale Contest</name>
+  <contest id="2200">
+    <name>Sale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="6935">Botanical Gardens, Sale, Cheshire</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Oct. 4, 2018, 11:08 a.m.</created>
+  <last-modified>Oct. 4, 2018, 11:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295004">
+      <result code="1">1</result>
+      <band id="1701">Beswick Prize</band>
+      <conductor id="301511">John Fraser</conductor>
+    </result>
+    
+    <result id="295005">
+      <result code="2">2</result>
+      <band id="4276">Halliwell</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="295010">
+      <result code="3">3</result>
+      <band id="2611">Ashton-on-Mersey</band>
+      <conductor id="301511">John Fraser</conductor>
+    </result>
+    
+    <result id="295006">
+      <result code="4">4</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="316789">Tom Aspinall</conductor>
+    </result>
+    
+    <result id="295003">
+      <result code="">Unknown Result</result>
+      <band id="6127">Chorlton-cum-Hardy</band>
+      <conductor id="311814">J. Winstanley</conductor>
+    </result>
+    
+    <result id="295008">
+      <result code="">Unknown Result</result>
+      <band id="12909">Swinton Town [Lancs.]</band>
+      <conductor id="304282">T. Jones</conductor>
+    </result>
+    
+    <result id="295007">
+      <result code="">Unknown Result</result>
+      <band id="2615">Openshaw Original</band>
+      <conductor id="311400">J. White</conductor>
+    </result>
+    
+    <result id="295009">
+      <result code="">Unknown Result</result>
+      <band id="4468">Dunham Woodhouses</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

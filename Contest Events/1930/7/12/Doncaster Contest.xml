@@ -1,0 +1,105 @@
+<contest-event id="26997">
+  <event-date date="1930-7-12">July 12, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Contest</name>
+  <contest id="1411">
+    <name>Doncaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4102">Glasgow Paddocks, Doncaster, Yorkshire</venue>
+  <notes>Prizes - 1st £10 and cup 2nd £8, 3rd £6, 4th £4.
+March: 1. Doncaster N.U.R, 2. Hickleton Main.
+10th annual contest.
+12 bands competed</notes>
+
+  <created>April 7, 2014, 9:29 p.m.</created>
+  <last-modified>Dec. 8, 2018, 3:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194940">
+      <result code="1">1</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="313853">William Park</conductor>
+    </result>
+    
+    <result id="194941">
+      <result code="2">2</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="296931">T. Allsop</conductor>
+    </result>
+    
+    <result id="194943">
+      <result code="3">3</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302043">Albert Grant</conductor>
+    </result>
+    
+    <result id="194946">
+      <result code="4">4</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="297414">S. Bamford</conductor>
+    </result>
+    
+    <result id="301780">
+      <result code="">Unknown Result</result>
+      <band id="1544">Askern Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301784">
+      <result code="">Unknown Result</result>
+      <band id="2687">Canal Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301781">
+      <result code="">Unknown Result</result>
+      <band id="124">Chapeltown Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301782">
+      <result code="">Unknown Result</result>
+      <band id="17489">Doncaster Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194944">
+      <result code="">Unknown Result</result>
+      <band id="5014">Doncaster Railway Foundry Band</band>
+      <conductor id="300870">J. W. Ellis</conductor>
+    </result>
+    
+    <result id="194945">
+      <result code="">Unknown Result</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">T. Hunter</conductor>
+    </result>
+    
+    <result id="301783">
+      <result code="">Unknown Result</result>
+      <band id="278">Polypipe Rossington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194947">
+      <result code="">Unknown Result</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

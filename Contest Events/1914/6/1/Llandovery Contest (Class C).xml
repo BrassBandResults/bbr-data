@@ -1,0 +1,55 @@
+<contest-event id="29825">
+  <event-date date="1914-6-1">June 1, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class C)</name>
+  <contest id="3100">
+    <name>Llandovery Contest (Class C)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2813">Melodies of the Past</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes: £7, £4, £2.
+4 bands competed.</notes>
+
+  <created>Oct. 21, 2014, 7:40 p.m.</created>
+  <last-modified>Oct. 3, 2018, 12:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="211774">
+      <result code="1">1</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="304288">T. J. Jones</conductor>
+    </result>
+    
+    <result id="211775">
+      <result code="2">2</result>
+      <band id="11276">Rhosynberem</band>
+      <conductor id="300150">Edgar Davies</conductor>
+    </result>
+    
+    <result id="211776">
+      <result code="3">3</result>
+      <band id="7619">Cymmawr</band>
+      <conductor id="309430">R. Smith</conductor>
+    </result>
+    
+    <result id="294837">
+      <result code="4">4</result>
+      <band id="6969">Waunarlwydd</band>
+      <conductor id="302257">William Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

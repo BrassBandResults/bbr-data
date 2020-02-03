@@ -1,0 +1,63 @@
+<contest-event id="24329">
+  <event-date date="1928-5-28">May 28, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bishop Auckland Contest</name>
+  <contest id="2144">
+    <name>Bishop Auckland Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="354">Bishop Auckland Contest</group>
+    <slug>bishop-auckland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1298">The Mountain Sylph</test-piece>
+  </test-piece>
+
+  <venue id="4080">Bishop&#39;s Park, Bishop Auckland</venue>
+  <notes>
+  Prizes - 1st £9, 2nd £5, 3rd £3, 4th £2.
+  Promoted by Bishop Auckland Temperance Society.
+  5 bands competed.</notes>
+
+  <created>Oct. 5, 2013, 7:17 a.m.</created>
+  <last-modified>July 14, 2016, 8:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="177583">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="303862">J. W. Jackson</conductor>
+    </result>
+    
+    <result id="177584">
+      <result code="2">2</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="303853">Harry Jackson</conductor>
+    </result>
+    
+    <result id="177585">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="177586">
+      <result code="4">4</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="310009">R. Swinburn</conductor>
+    </result>
+    
+    <result id="177587">
+      <result code="5">5</result>
+      <band id="923">Boldon Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

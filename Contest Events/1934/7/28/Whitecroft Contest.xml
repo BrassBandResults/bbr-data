@@ -1,0 +1,56 @@
+<contest-event id="27008">
+  <event-date date="1934-7-28">July 28, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitecroft Contest</name>
+  <contest id="4141">
+    <name>Whitecroft Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitecroft-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="3417">Whitecroft, Gloucestershire</venue>
+  <notes>March: 1. Blaina, 2. Pillowell.
+Prizes - 1st £10 and cup, 2nd £5.
+4 bands competed</notes>
+
+  <created>April 8, 2014, 7:52 p.m.</created>
+  <last-modified>Jan. 4, 2019, 10:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="194985">
+      <result code="1">1</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="302823">H. Hayes</conductor>
+    </result>
+    
+    <result id="194986">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="194987">
+      <result code="3">3</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="303212">R. O. Hodges</conductor>
+    </result>
+    
+    <result id="194988">
+      <result code="4">4</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

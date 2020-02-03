@@ -1,0 +1,49 @@
+<contest-event id="41018">
+  <event-date date="1924-7-9">July 9, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Richmond Contest</name>
+  <contest id="1241">
+    <name>Richmond Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>richmond-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2874">Comrades in Arms</test-piece>
+  </test-piece>
+
+  <venue id="3557">Richmond, North Yorkshire, England, UK</venue>
+  <notes>March contest - 1st Muker, 2nd Reeth, 3rd Keld.
+3 bands competed.</notes>
+
+  <created>Oct. 29, 2018, 1:17 p.m.</created>
+  <last-modified>Oct. 29, 2018, 1:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297889">
+      <result code="1">1</result>
+      <band id="2900">Muker Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297890">
+      <result code="2">2</result>
+      <band id="5300">Reeth Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297891">
+      <result code="3">3</result>
+      <band id="11553">Keld</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

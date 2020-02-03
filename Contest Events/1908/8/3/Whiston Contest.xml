@@ -1,0 +1,50 @@
+<contest-event id="40338">
+  <event-date date="1908-8-3">Aug. 3, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whiston Contest</name>
+  <contest id="2303">
+    <name>Whiston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whiston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1664">Whiston, South Yorkshire</venue>
+  <notes>March contest - 1st Houghton Main.
+Best cornet and euphonium - Rotherham Main.
+3 bands competed.</notes>
+
+  <created>Sept. 23, 2018, 1:02 p.m.</created>
+  <last-modified>Sept. 23, 2018, 1:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293509">
+      <result code="1">1</result>
+      <band id="6951">Rotherham Main Colliery</band>
+      <conductor id="305005">William Lerigo</conductor>
+    </result>
+    
+    <result id="293510">
+      <result code="2">2</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="311791">William Wilson</conductor>
+    </result>
+    
+    <result id="293511">
+      <result code="3">3</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="303178">Major Hitchen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

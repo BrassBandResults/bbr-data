@@ -1,0 +1,71 @@
+<contest-event id="28350">
+  <event-date date="1913-9-6">Sept. 6, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coxlodge Contest</name>
+  <contest id="3054">
+    <name>Coxlodge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cox-lodge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4837">Football Ground, Regent Road, Gosforth</venue>
+  <notes>5 bands competed
+
+Choice of test piece: &quot;Bohemian Girl&quot; or &quot;Amelia&quot;
+
+March: 1. Harton, 2. Boldon</notes>
+
+  <created>June 7, 2014, 6:04 p.m.</created>
+  <last-modified>June 7, 2014, 6:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202215">
+      <result code="1">1</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+      <test-piece id="3001">Adelia</test-piece>
+    </result>
+    
+    <result id="202216">
+      <result code="2">2</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="303519">S. F. Howells</conductor>
+    </result>
+    
+    <result id="202217">
+      <result code="3">3</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="298945">William Calvert</conductor>
+    </result>
+    
+    <result id="202218">
+      <result code="4">4</result>
+      <band id="923">Boldon Colliery Band</band>
+      <conductor id="307472">T. Pick</conductor>
+    </result>
+    
+    <result id="202219">
+      <result code="5">5</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="202220">
+      <result code="W">Withdrawn</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

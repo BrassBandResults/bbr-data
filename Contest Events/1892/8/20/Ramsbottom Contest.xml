@@ -1,0 +1,74 @@
+<contest-event id="33168">
+  <event-date date="1892-8-20">Aug. 20, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ramsbottom Contest</name>
+  <contest id="1765">
+    <name>Ramsbottom Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ramsbottom-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1003">Il Giuramento [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="6004">Ramsbottom, Lancashire</venue>
+  <notes>Prizes - 1st £20, 2nd £12, 3rd £6, 4th £4, 5th £2.
+March contest - 1st Clayton le Moors, 2nd Goodshaw.
+</notes>
+
+  <created>Oct. 23, 2015, 1:33 p.m.</created>
+  <last-modified>Nov. 14, 2019, 11:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="239089">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="239090">
+      <result code="2">2</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="239091">
+      <result code="3">3</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="239092">
+      <result code="4">4</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="239093">
+      <result code="5">5</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="239525">
+      <result code="">Unknown Result</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="239094">
+      <result code="">Unknown Result</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

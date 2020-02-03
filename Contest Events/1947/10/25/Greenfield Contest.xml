@@ -1,0 +1,67 @@
+<contest-event id="36345">
+  <event-date date="1947-10-25">Oct. 25, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Greenfield Contest</name>
+  <contest id="2628">
+    <name>Greenfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>greenfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1687">Recollections of Mendelssohn</test-piece>
+  </test-piece>
+
+  <venue id="4313">Greenfield Mill Social Club, Greenfield, Yorkshire</venue>
+  <notes>1st annual contest.
+13 bands competed</notes>
+
+  <created>Oct. 21, 2016, 11:20 a.m.</created>
+  <last-modified>Jan. 11, 2020, 5:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="263454">
+      <result code="1">1</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="298123">Jack Boddice</conductor>
+    </result>
+    
+    <result id="263455">
+      <result code="2">2</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="308335">Albert Robinson</conductor>
+    </result>
+    
+    <result id="263456">
+      <result code="3">3</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304560">
+      <result code="4">4</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="318922">Robert Dacre</conductor>
+    </result>
+    
+    <result id="281096">
+      <result code="">Unknown Result</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="301330">J. F. Fletcher</conductor>
+    </result>
+    
+    <result id="314615">
+      <result code="">Unknown Result</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="41146">
+  <event-date date="1925-6-1">June 1, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class C)</name>
+  <contest id="3100">
+    <name>Llandovery Contest (Class C)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1663">Gems of Sir Henry Bishop</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 5, 2018, 5:37 p.m.</created>
+  <last-modified>Nov. 5, 2018, 5:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298842">
+      <result code="1">1</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302061">J. Gravell</conductor>
+    </result>
+    
+    <result id="298843">
+      <result code="2">2</result>
+      <band id="10608">Swansea St. John Ambulance</band>
+      <conductor id="318301">Paul Jenkins</conductor>
+    </result>
+    
+    <result id="298844">
+      <result code="3">3</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="304288">T. J. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

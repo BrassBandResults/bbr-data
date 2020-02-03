@@ -1,0 +1,55 @@
+<contest-event id="25011">
+  <event-date date="1934-7-21">July 21, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oldham Contest (Section A)</name>
+  <contest id="3514">
+    <name>Oldham Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="377">Oldham Contest</group>
+    <slug>oldham-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1554">Rienzi [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3497">Alexandra Park, Oldham, Lancashire</venue>
+  <notes>  14th annual contest promoted on behalf of Oldham Royal Infirmary.
+ 4 bands competed.</notes>
+
+  <created>Nov. 8, 2013, 11 a.m.</created>
+  <last-modified>Jan. 31, 2014, 9:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182197">
+      <result code="1">1</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="306456">Harold Moss</conductor>
+    </result>
+    
+    <result id="182198">
+      <result code="2">2</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="182224">
+      <result code="3">3</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="182199">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

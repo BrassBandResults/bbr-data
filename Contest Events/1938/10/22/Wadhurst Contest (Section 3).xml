@@ -1,0 +1,42 @@
+<contest-event id="28525">
+  <event-date date="1938-10-22">Oct. 22, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wadhurst Contest (Section 3)</name>
+  <contest id="5030">
+    <name>Wadhurst Contest (Section 3)</name>
+    <order>30</order>
+    <contest-type id="6">March &amp; Hymn Contest</contest-type>
+    <group id="511">Wadhurst Contest</group>
+    <slug>wadhurst-contest-section-3</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4182">Wadhurst, Sussex</venue>
+  <notes>Hymn: 1. Forest Row, 2. Hastings</notes>
+
+  <created>June 11, 2014, 10:49 p.m.</created>
+  <last-modified>June 11, 2014, 10:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="203067">
+      <result code="1">1</result>
+      <band id="8615">Hastings &amp; St. Leonards</band>
+      <conductor id="305991">T. Medhurst</conductor>
+    </result>
+    
+    <result id="203068">
+      <result code="2">2</result>
+      <band id="8706">Forest Row &amp; District</band>
+      <conductor id="306833">Kenneth Nutt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

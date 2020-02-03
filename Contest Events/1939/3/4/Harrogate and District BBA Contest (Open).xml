@@ -1,0 +1,74 @@
+<contest-event id="25233">
+  <event-date date="1939-3-4">March 4, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Harrogate and District BBA Contest (Open)</name>
+  <contest id="1496">
+    <name>Harrogate and District BBA Contest (Open)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="164">Harrogate and District BBA Contest</group>
+    <slug>harrogate-and-district-bba-contest-open</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1368">Recollections of Weber</test-piece>
+  </test-piece>
+
+  <venue id="4249">Temperance Hall, Keighley, Yorkshire</venue>
+  <notes>March contest - 1st Horsforth, 2nd Salts, 3rd Burley.
+  Hymn tune contest - 1st Salts, 2nd Horsforth.
+  7 bands competed.</notes>
+
+  <created>Nov. 21, 2013, 2:04 p.m.</created>
+  <last-modified>Jan. 24, 2019, 11:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="183737">
+      <result code="1">1</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="302807">Herbert Bowdin Hawley</conductor>
+    </result>
+    
+    <result id="183738">
+      <result code="2">2</result>
+      <band id="2614">Horsforth Subscription</band>
+      <conductor id="310025">George W. Sykes</conductor>
+    </result>
+    
+    <result id="183739">
+      <result code="3">3</result>
+      <band id="2455">Keighley Band</band>
+      <conductor id="303106">J. Hillary</conductor>
+    </result>
+    
+    <result id="183741">
+      <result code="">Unknown Result</result>
+      <band id="3271">Bradford Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183742">
+      <result code="">Unknown Result</result>
+      <band id="3194">Burley &amp; Ilkley</band>
+      <conductor id="311009">W. I. Warburton</conductor>
+    </result>
+    
+    <result id="183740">
+      <result code="">Unknown Result</result>
+      <band id="340">Ripon City Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183743">
+      <result code="">Unknown Result</result>
+      <band id="137">Wetherby and District Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

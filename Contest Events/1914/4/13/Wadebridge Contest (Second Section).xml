@@ -1,0 +1,58 @@
+<contest-event id="40498">
+  <event-date date="1914-4-13">April 13, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wadebridge Contest (Second Section)</name>
+  <contest id="6343">
+    <name>Wadebridge Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wadebridge-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="2055">Wadebridge, Cornwall</venue>
+  <notes>Best cornet - Stenalees.
+Best trombone - Bugle.
+Best Bass - Foxhole.
+3rd annual contest
+4 bands competed.</notes>
+
+  <created>Oct. 2, 2018, 11:57 a.m.</created>
+  <last-modified>Oct. 2, 2018, 12:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294654">
+      <result code="1">1</result>
+      <band id="4281">Foxhole Silver</band>
+      <conductor id="309898">J. Stubbs</conductor>
+    </result>
+    
+    <result id="294655">
+      <result code="2">2</result>
+      <band id="539">Bugle Silver Band</band>
+      <conductor id="311612">Edwin J. Williams Snr</conductor>
+    </result>
+    
+    <result id="294656">
+      <result code="3">3</result>
+      <band id="6463">Stenalees Silver Band</band>
+      <conductor id="304997">Jack Lennon</conductor>
+    </result>
+    
+    <result id="294653">
+      <result code="4">4</result>
+      <band id="4013">St. Agnes Silver Band</band>
+      <conductor id="308326">Harry Robins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

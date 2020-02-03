@@ -1,0 +1,80 @@
+<contest-event id="25157">
+  <event-date date="1937-8-14">Aug. 14, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bolton Royal Infirmary Contest</name>
+  <contest id="2826">
+    <name>Bolton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bolton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2728">Recollections of Wales</test-piece>
+  </test-piece>
+
+  <venue id="4450">Victoria Hall, Bolton, Greater Manchester, England, UK</venue>
+  <notes>March contest(own choice) - 1st Farnworth Old, 2nd Bolton Borough.
+  Promoted in aid of Bolton Royal Infirmary.
+  8 bands competed.</notes>
+
+  <created>Nov. 17, 2013, 4:21 p.m.</created>
+  <last-modified>Jan. 18, 2019, 4:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="183151">
+      <result code="1">1</result>
+      <band id="3850">Blackrod Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183152">
+      <result code="2">2</result>
+      <band id="4276">Halliwell</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183153">
+      <result code="3">3</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183154">
+      <result code="4">4</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183157">
+      <result code="">Unknown Result</result>
+      <band id="3249">Bolton Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183158">
+      <result code="">Unknown Result</result>
+      <band id="4353">Bolton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183156">
+      <result code="">Unknown Result</result>
+      <band id="8969">I.O.R. Bolton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183155">
+      <result code="">Unknown Result</result>
+      <band id="4564">Kearsley Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

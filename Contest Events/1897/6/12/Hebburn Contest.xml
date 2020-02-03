@@ -1,0 +1,85 @@
+<contest-event id="13235">
+  <event-date date="1897-6-12">June 12, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hebburn Contest</name>
+  <contest id="1913">
+    <name>Hebburn Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hebburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2133">Hebburn Colliery, County Durham</venue>
+  <notes>Prizes: £10, £5, £3, £1
+March contest: 1. Hartlepool Temperance, 2. Westwood</notes>
+
+  <created>May 5, 2012, 2:43 p.m.</created>
+  <last-modified>May 5, 2012, 2:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105168">
+      <result code="1">1</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="105169">
+      <result code="1">1</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="105170">
+      <result code="3">3</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="307392">George Perry</conductor>
+    </result>
+    
+    <result id="105171">
+      <result code="4">4</result>
+      <band id="4512">Barrington</band>
+      <conductor id="310181">R. D. Taylor</conductor>
+    </result>
+    
+    <result id="105172">
+      <result code="">Unknown Result</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105175">
+      <result code="">Unknown Result</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105176">
+      <result code="">Unknown Result</result>
+      <band id="6924">South Shields Garibaldi</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105173">
+      <result code="">Unknown Result</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105174">
+      <result code="">Unknown Result</result>
+      <band id="8050">St Paul&#39;s Gateshead</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

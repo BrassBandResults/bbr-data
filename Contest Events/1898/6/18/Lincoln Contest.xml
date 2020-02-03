@@ -1,0 +1,79 @@
+<contest-event id="13536">
+  <event-date date="1898-6-18">June 18, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lincoln Contest</name>
+  <contest id="1644">
+    <name>Lincoln Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lincoln-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2047">Lincoln Arboretum, Lincoln, Lincolnshire, England, UK</venue>
+  <notes>Prizes: £12, £10, £5, £2 10s, £1
+8 bands competed</notes>
+
+  <created>May 22, 2012, 9:08 p.m.</created>
+  <last-modified>July 16, 2019, 10:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="107327">
+      <result code="1">1</result>
+      <band id="8158">Lincoln Ruston&#39;s Silver</band>
+      <conductor id="297727">William Belcher</conductor>
+    </result>
+    
+    <result id="107328">
+      <result code="2">2</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="107329">
+      <result code="3">3</result>
+      <band id="3605">Hasland</band>
+      <conductor id="306448">H. T. Mosley</conductor>
+    </result>
+    
+    <result id="107330">
+      <result code="4">4</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="107331">
+      <result code="5">5</result>
+      <band id="7802">Wakefield Belle Vue</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="107334">
+      <result code="">Unknown Result</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107333">
+      <result code="">Unknown Result</result>
+      <band id="5867">Lincoln Excelsior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107332">
+      <result code="">Unknown Result</result>
+      <band id="8432">Lincoln St. Michael&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

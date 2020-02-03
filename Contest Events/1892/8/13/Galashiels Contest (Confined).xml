@@ -1,0 +1,73 @@
+<contest-event id="22289">
+  <event-date date="1892-8-13">Aug. 13, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Galashiels Contest (Confined)</name>
+  <contest id="4410">
+    <name>Galashiels Contest (Confined)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>galashiels-contest-confined</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1506">Joan of Arc [Round]</test-piece>
+  </test-piece>
+
+  <venue id="3661">Gala Park, Galashiels</venue>
+  <notes>Prizes: £15, £8, £4.
+7 bands competed</notes>
+
+  <created>July 19, 2013, 11:17 p.m.</created>
+  <last-modified>June 3, 2019, 8:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="165899">
+      <result code="1">1</result>
+      <band id="2057">Alva Town</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="165902">
+      <result code="1">1</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="312302">W. Atkinson</conductor>
+    </result>
+    
+    <result id="165905">
+      <result code="3">3</result>
+      <band id="4976">Galashiels Rifle Volunteers</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="165904">
+      <result code="">Unknown Result</result>
+      <band id="334">St. Ronan&#39;s Silver Band</band>
+      <conductor id="310203">J. Teasdale</conductor>
+    </result>
+    
+    <result id="165901">
+      <result code="">Unknown Result</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="165900">
+      <result code="">Unknown Result</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="299218">W. G. Chapman</conductor>
+    </result>
+    
+    <result id="165903">
+      <result code="">Unknown Result</result>
+      <band id="5469">Sauchie &amp; District</band>
+      <conductor id="305799">John McBeath</conductor>
+    </result>
+    
+  </results>
+</contest-event>

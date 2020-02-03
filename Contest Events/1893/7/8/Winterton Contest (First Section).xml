@@ -1,0 +1,61 @@
+<contest-event id="11836">
+  <event-date date="1893-7-8">July 8, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Winterton Contest (First Section)</name>
+  <contest id="2251">
+    <name>Winterton Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="260">Winterton Contest</group>
+    <slug>winterton-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1824">Night and Morning</test-piece>
+  </test-piece>
+
+  <venue id="1633">Winterton, Lincolnshire, England, UK</venue>
+  <notes>4 bands competed
+Prizes: £5, £2, £1</notes>
+
+  <created>April 7, 2012, 6:59 p.m.</created>
+  <last-modified>June 7, 2019, 1:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95739">
+      <result code="1">1</result>
+      <band id="7583">Scunthorpe Rifles</band>
+      <conductor id="300647">J. Durney</conductor>
+    </result>
+    
+    <result id="95740">
+      <result code="2">2</result>
+      <band id="4589">Brigg Subscription Band</band>
+      <conductor id="310689">George Twigg</conductor>
+    </result>
+    
+    <result id="95741">
+      <result code="3">3</result>
+      <band id="7584">Barton Model</band>
+      <conductor id="309427">R. Smith</conductor>
+    </result>
+    
+    <result id="138891">
+      <result code="">Unknown Result</result>
+      <band id="7973">Barton Excelsior</band>
+      <conductor id="301416">R. Dewey</conductor>
+    </result>
+    
+    <result id="138890">
+      <result code="D">Disqualified</result>
+      <band id="10508">Scunthorpe Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

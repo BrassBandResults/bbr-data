@@ -1,0 +1,77 @@
+<contest-event id="37972">
+  <event-date date="1904-5-24">May 24, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nottingham Contest</name>
+  <contest id="1185">
+    <name>Nottingham Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>nottingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3908">Ruddington Hall Park, Nottingham</venue>
+  <notes>1st day of contests at the Notts Agricultural Show
+Prizes - 1st £20 and cup, 2nd £12 and trombone, 3rd £5, 4th £3, 5th £2.
+Waltz contest: 1. Rushden Temperance, 2. Hucknall, 3. Kettering Town
+Best euphonium - Irwell Bank.
+Best cornet - Hucknall Temperance.
+6 bands competed.</notes>
+
+  <created>May 18, 2017, 8:49 a.m.</created>
+  <last-modified>Aug. 27, 2018, 9:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274360">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1426">Lortzing</test-piece>
+    </result>
+    
+    <result id="292227">
+      <result code="2">2</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1426">Lortzing</test-piece>
+    </result>
+    
+    <result id="292226">
+      <result code="3">3</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
+    </result>
+    
+    <result id="274361">
+      <result code="4">4</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
+    </result>
+    
+    <result id="274362">
+      <result code="5">5</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
+    </result>
+    
+    <result id="274363">
+      <result code="6">6</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

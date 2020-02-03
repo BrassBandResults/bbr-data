@@ -1,0 +1,58 @@
+<contest-event id="9953">
+  <event-date date="1905-4-24">April 24, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rugby Contest</name>
+  <contest id="1797">
+    <name>Rugby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rugby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1584">La Cenerentola</test-piece>
+  </test-piece>
+
+  <venue id="1503">Rugby, Warwickshire</venue>
+  <notes>
+  1st prize £10.
+  2nd prize £6.
+  3rd prize £3.
+  March contest won by Stamford Town.</notes>
+
+  <created>Feb. 4, 2012, 10:32 a.m.</created>
+  <last-modified>May 21, 2012, 8:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84550">
+      <result code="1">1</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84551">
+      <result code="2">2</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84552">
+      <result code="3">3</result>
+      <band id="491">Stamford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84553">
+      <result code="4">4</result>
+      <band id="6587">Leicester Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

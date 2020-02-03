@@ -1,0 +1,66 @@
+<contest-event id="35893">
+  <event-date date="1903-11-21">Nov. 21, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Elsecar Contest</name>
+  <contest id="1796">
+    <name>Elsecar Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>elsecar-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2869">La Favorita</test-piece>
+  </test-piece>
+
+  <venue id="1268">Elsecar, South Yorkshire</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Aug. 11, 2016, 9:55 a.m.</created>
+  <last-modified>Aug. 11, 2016, 9:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="260430">
+      <result code="1">1</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="260437">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="315331">F. Boothroyd</conductor>
+    </result>
+    
+    <result id="260438">
+      <result code="3">3</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="260439">
+      <result code="4">4</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="303178">Major Hitchen</conductor>
+    </result>
+    
+    <result id="260434">
+      <result code="">Unknown Result</result>
+      <band id="3694">Denaby Main Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260441">
+      <result code="">Unknown Result</result>
+      <band id="9885">Kilnhurst Alliance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="28836">
+  <event-date date="1932-9-10">Sept. 10, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheringham Contest</name>
+  <contest id="5405">
+    <name>Sheringham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheringham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4895">Sheringham, Norfolk, England, UK</venue>
+  <notes>Sheringham Hospital Carnival Sports.
+Prizes - 1st £15 and cup, 2nd £10 and cup, 3rd £6 and cup, 4th £4.</notes>
+
+  <created>June 27, 2014, 10:10 a.m.</created>
+  <last-modified>Dec. 21, 2018, 10:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="265586">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="299625">P. W. Cook</conductor>
+    </result>
+    
+    <result id="265585">
+      <result code="2">2</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="311095">C. A. Waters</conductor>
+    </result>
+    
+    <result id="206014">
+      <result code="">Unknown Result</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="299827">Ellerby Cox (30ies)</conductor>
+    </result>
+    
+    <result id="265587">
+      <result code="">Unknown Result</result>
+      <band id="296">Soham Comrades Band</band>
+      <conductor id="312272">Charles A. Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

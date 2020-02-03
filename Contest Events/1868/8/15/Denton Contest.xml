@@ -1,0 +1,48 @@
+<contest-event id="13260">
+  <event-date date="1868-8-15">Aug. 15, 1868<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Denton Contest</name>
+  <contest id="1280">
+    <name>Denton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>denton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  
+  <notes>Was this own choice or set piece?</notes>
+
+  <created>May 7, 2012, 6:31 a.m.</created>
+  <last-modified>March 12, 2018, 9:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="285503">
+      <result code="1">1</result>
+      <band id="3489">Wednesbury Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="285504">
+      <result code="2">2</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105369">
+      <result code="5">5</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="306022">James Melling</conductor>
+    </result>
+    
+  </results>
+</contest-event>

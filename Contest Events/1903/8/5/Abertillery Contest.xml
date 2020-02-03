@@ -1,0 +1,59 @@
+<contest-event id="21940">
+  <event-date date="1903-8-5">Aug. 5, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abertillery Contest</name>
+  <contest id="770">
+    <name>Abertillery Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abertillery</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="1859">Abertillery, Blaenau Gwent, Wales, UK</venue>
+  <notes>
+  Prizes - 1st £14, 2nd £8, 3rd £4, 4th £2.
+  March contest - 1st(£1.1s) Cory.
+  Best cornet - Ferndale.
+  Best trombone - Tillery Colliery.
+  4 bands competed.</notes>
+
+  <created>June 17, 2013, 9:56 a.m.</created>
+  <last-modified>July 26, 2016, 10:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162833">
+      <result code="1">1</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302243">John Griffiths</conductor>
+    </result>
+    
+    <result id="162834">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="162835">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="162836">
+      <result code="4">4</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

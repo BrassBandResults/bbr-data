@@ -1,0 +1,92 @@
+<contest-event id="13348">
+  <event-date date="1897-8-7">Aug. 7, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hebden Bridge Contest</name>
+  <contest id="1605">
+    <name>Hebden Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hebden-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6004">Macbeth</test-piece>
+  </test-piece>
+
+  <venue id="161">Hebden Bridge, West Yorkshire</venue>
+  <notes>March contest: 1. Water, 2. Heptonstall
+Prizes: £10, £6, £4, £2
+10 bands competed</notes>
+
+  <created>May 10, 2012, 9:03 p.m.</created>
+  <last-modified>July 10, 2019, 7:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105866">
+      <result code="1">1</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="239354">
+      <result code="2">2</result>
+      <band id="2538">Water Band Rossendale</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="105867">
+      <result code="2">2</result>
+      <band id="3536">Nazebottom Temperance</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="105869">
+      <result code="4">4</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="105870">
+      <result code="">Unknown Result</result>
+      <band id="3535">Royal George</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="105871">
+      <result code="">Unknown Result</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="105872">
+      <result code="">Unknown Result</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="307110">H. Parker</conductor>
+    </result>
+    
+    <result id="105873">
+      <result code="">Unknown Result</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="105874">
+      <result code="">Unknown Result</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="313226">Arthur Hirst</conductor>
+    </result>
+    
+    <result id="105875">
+      <result code="">Unknown Result</result>
+      <band id="6151">Northowram Subscription</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+  </results>
+</contest-event>

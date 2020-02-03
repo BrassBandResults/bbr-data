@@ -1,0 +1,48 @@
+<contest-event id="13386">
+  <event-date date="1897-9-8">Sept. 8, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest</name>
+  <contest id="1399">
+    <name>Chepstow Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2420">Gems of Victorian Melody</test-piece>
+  </test-piece>
+
+  <venue id="1313">Chepstow, Monmouthshire</venue>
+  <notes></notes>
+
+  <created>May 11, 2012, 5:31 p.m.</created>
+  <last-modified>July 11, 2019, 6:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106146">
+      <result code="1">1</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106147">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106148">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

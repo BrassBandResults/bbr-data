@@ -1,0 +1,52 @@
+<contest-event id="11165">
+  <event-date date="1906-11-24">Nov. 24, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Walsall Contest</name>
+  <contest id="1912">
+    <name>Walsall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>walsall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1271">Carmelite</test-piece>
+  </test-piece>
+
+  <venue id="1352">Walsall, West Midlands</venue>
+  <notes>
+
+  1st prize £6 and cup.
+  2nd prize £4.
+  3rd prize £2.</notes>
+
+  <created>March 14, 2012, 11:09 p.m.</created>
+  <last-modified>March 14, 2012, 11:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="92427">
+      <result code="1">1</result>
+      <band id="7251">Tipton St.Martin&#39;s</band>
+      <conductor id="308285">J. Roberts</conductor>
+    </result>
+    
+    <result id="92428">
+      <result code="2">2</result>
+      <band id="6591">Wellingborough Town</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="92429">
+      <result code="3">3</result>
+      <band id="6656">Moira Colliery</band>
+      <conductor id="297192">James Astle</conductor>
+    </result>
+    
+  </results>
+</contest-event>

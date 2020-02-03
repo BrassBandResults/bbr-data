@@ -1,0 +1,75 @@
+<contest-event id="12378">
+  <event-date date="1899-5-23">May 23, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luton Contest</name>
+  <contest id="2529">
+    <name>Luton Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="321">Luton Contest</group>
+    <slug>luton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1899">Luton, Bedfordshire, England, UK</venue>
+  <notes>Promoted by Luton Red Cross band.
+ Prizes - 1st £12, 2nd £8, 3rd £4, 4th £2, 5th £1.
+6 bands competed.
+</notes>
+
+  <created>April 13, 2012, 4:57 p.m.</created>
+  <last-modified>Jan. 30, 2020, 10:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98976">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98977">
+      <result code="2">2</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98978">
+      <result code="3">3</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98979">
+      <result code="4">4</result>
+      <band id="8178">Walthamstow Town Silver</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98980">
+      <result code="5">5</result>
+      <band id="7862">Kettering United</band>
+      <conductor id="307848">Arthur Quincey</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="98981">
+      <result code="">Unknown Result</result>
+      <band id="7770">St Alban&#39;s Abbey</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

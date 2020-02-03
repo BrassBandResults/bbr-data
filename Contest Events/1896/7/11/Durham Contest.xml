@@ -1,0 +1,70 @@
+<contest-event id="12998">
+  <event-date date="1896-7-11">July 11, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham Contest</name>
+  <contest id="1901">
+    <name>Durham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>durham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1918">Wales</test-piece>
+  </test-piece>
+
+  <venue id="3025">Wharton Park, Durham</venue>
+  <notes>March contest: 1. Murton, 2. Hartlepool Temperance, 3. Gateshead
+
+Prizes: £20, £12, £7, £5, £3
+
+Hartlepool Operatic and Consett were disqualified for not taking part in the massed bands piece - having originally been awarded 2nd and 4th placings.</notes>
+
+  <created>April 29, 2012, 8:31 p.m.</created>
+  <last-modified>Dec. 31, 2016, 4:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103532">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="103533">
+      <result code="2">2</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="103534">
+      <result code="3">3</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="103535">
+      <result code="4">4</result>
+      <band id="8050">St Paul&#39;s Gateshead</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="103537">
+      <result code="D">Disqualified</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="103536">
+      <result code="D">Disqualified</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

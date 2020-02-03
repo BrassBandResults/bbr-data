@@ -1,0 +1,50 @@
+<contest-event id="13606">
+  <event-date date="1898-8-1">Aug. 1, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandilo Contest</name>
+  <contest id="2022">
+    <name>Llandilo Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="223">Llandilo Contest</group>
+    <slug>llandilo-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1405">Llandilo, Pembrokeshire, Wales, UK</venue>
+  <notes>Prizes: £10, £5, £3
+March contest: 1. Trebanos, 2. Llansamlet
+3 bands competed</notes>
+
+  <created>May 28, 2012, 9:16 p.m.</created>
+  <last-modified>July 19, 2019, 9:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107802">
+      <result code="1">1</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="107803">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="107804">
+      <result code="3">3</result>
+      <band id="7931">Llansamlet</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

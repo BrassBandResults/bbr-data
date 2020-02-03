@@ -1,0 +1,84 @@
+<contest-event id="23654">
+  <event-date date="1908-5-16">May 16, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radcliffe Contest</name>
+  <contest id="1662">
+    <name>Radcliffe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>radcliffe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1273">Narcissa</test-piece>
+  </test-piece>
+
+  <venue id="1757">Radcliffe</venue>
+  <notes>9 bands competed</notes>
+
+  <created>Sept. 10, 2013, 8:42 p.m.</created>
+  <last-modified>Sept. 21, 2018, 9 p.m.</last-modified>
+
+  <results>
+    
+    <result id="173267">
+      <result code="1">1</result>
+      <band id="398">Tottington Public Band</band>
+      <conductor id="303272">Bedan Holding</conductor>
+    </result>
+    
+    <result id="173268">
+      <result code="2">2</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="173269">
+      <result code="3">3</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="318342">A. Kay</conductor>
+    </result>
+    
+    <result id="173270">
+      <result code="4">4</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="318279">R. Bradbury</conductor>
+    </result>
+    
+    <result id="293295">
+      <result code="">Unknown Result</result>
+      <band id="2636">Prestwich Borough</band>
+      <conductor id="307313">William Peatfield</conductor>
+    </result>
+    
+    <result id="293296">
+      <result code="">Unknown Result</result>
+      <band id="12828">Howarth Mill (Salford)</band>
+      <conductor id="307313">William Peatfield</conductor>
+    </result>
+    
+    <result id="293297">
+      <result code="">Unknown Result</result>
+      <band id="4368">Little Lever Temperance</band>
+      <conductor id="301858">George Gittens</conductor>
+    </result>
+    
+    <result id="293298">
+      <result code="">Unknown Result</result>
+      <band id="2651">Eaton Works Band</band>
+      <conductor id="318454">James Wright</conductor>
+    </result>
+    
+    <result id="239589">
+      <result code="">Unknown Result</result>
+      <band id="5589">Millgate</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

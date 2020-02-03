@@ -1,0 +1,74 @@
+<contest-event id="15901">
+  <event-date date="1909-8-21">Aug. 21, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkcaldy Contest</name>
+  <contest id="1019">
+    <name>Kirkcaldy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkcaldy-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1683">National Airs</test-piece>
+  </test-piece>
+
+  <venue id="582">Raith Park, Kirkcaldy, Fife, Scotland, UK</venue>
+  <notes>
+  Prizes  1st £20 and cup, 2nd £15, 3rd 10, 4th £5, 5th £3, 6th £2, 7th £1.
+</notes>
+
+  <created>Nov. 7, 2012, 11:31 a.m.</created>
+  <last-modified>Nov. 7, 2012, 11:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="122526">
+      <result code="1">1</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="122527">
+      <result code="2">2</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="122528">
+      <result code="3">3</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="122529">
+      <result code="4">4</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="122530">
+      <result code="5">5</result>
+      <band id="5504">Hamilton Palace Colliery</band>
+      <conductor id="309464">W. Smith</conductor>
+    </result>
+    
+    <result id="122531">
+      <result code="6">6</result>
+      <band id="5227">Dunnikier Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="122532">
+      <result code="7">7</result>
+      <band id="6894">Douglas Water</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

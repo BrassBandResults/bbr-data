@@ -1,0 +1,89 @@
+<contest-event id="21905">
+  <event-date date="1903-7-20">July 20, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lanark Contest</name>
+  <contest id="1923">
+    <name>Lanark Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lanark-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1361">Lanark, South Lanarkshire, Scotland, UK</venue>
+  <notes>Promoted by Douglas Colliery Band
+Prizes - 1st £20, 2nd £12, 3rd £8, 4th £4, 5th £2, 6th £1.
+March contest  -  1st  Milnwood, 2nd Bo&#39;ness  Carriden.
+  8 bands competed.</notes>
+
+  <created>June 16, 2013, 1:50 p.m.</created>
+  <last-modified>July 29, 2018, 10:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162669">
+      <result code="1">1</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="162667">
+      <result code="2">2</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="162666">
+      <result code="3">3</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="162671">
+      <result code="4">4</result>
+      <band id="5672">Bellshill Town</band>
+      <conductor id="310852">Albert Wade</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="162670">
+      <result code="5">5</result>
+      <band id="1226">Broxburn Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="162673">
+      <result code="6">6</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="162668">
+      <result code="">Unknown Result</result>
+      <band id="4650">Newton Colliery</band>
+      <conductor id="297014">T. Anderson</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="162672">
+      <result code="">Unknown Result</result>
+      <band id="6786">Overtown</band>
+      <conductor id="312085">R. B. Wyper</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

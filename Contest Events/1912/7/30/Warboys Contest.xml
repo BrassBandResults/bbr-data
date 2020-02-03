@@ -1,0 +1,45 @@
+<contest-event id="13140">
+  <event-date date="1912-7-30">July 30, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Warboys Contest</name>
+  <contest id="2763">
+    <name>Warboys Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>warboys-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="2115">Warboys, Cambridgeshire</venue>
+  <notes>  
+
+  Trombone medal to Manea, Cornet medal to Ramsey Town. 
+  Only two bands competed.</notes>
+
+  <created>May 2, 2012, 3:11 p.m.</created>
+  <last-modified>May 3, 2012, 2:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104380">
+      <result code="1">1</result>
+      <band id="2475">Manea Silver Band</band>
+      <conductor id="304312">Joseph Greaves Jubb</conductor>
+    </result>
+    
+    <result id="104382">
+      <result code="2">2</result>
+      <band id="8257">Ramsey Town [Cambridgeshire]</band>
+      <conductor id="309697">G. H. Steele</conductor>
+    </result>
+    
+  </results>
+</contest-event>

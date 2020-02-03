@@ -1,0 +1,80 @@
+<contest-event id="21822">
+  <event-date date="1903-5-30">May 30, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>  March contest  -  1st  Great Western, 2nd Lewis Merthyr.
+  8 bands competed.
+</notes>
+
+  <created>June 12, 2013, 7:47 p.m.</created>
+  <last-modified>June 12, 2013, 11:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162159">
+      <result code="1">1</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="162160">
+      <result code="2">2</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="162161">
+      <result code="3">3</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="309046">E. Sheridan</conductor>
+    </result>
+    
+    <result id="162193">
+      <result code="">Unknown Result</result>
+      <band id="10759">Abertillery Town</band>
+      <conductor id="319659">Brian Wright</conductor>
+    </result>
+    
+    <result id="162194">
+      <result code="">Unknown Result</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="298560">J. Broom</conductor>
+    </result>
+    
+    <result id="162195">
+      <result code="">Unknown Result</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="305285">Mr Lott</conductor>
+    </result>
+    
+    <result id="162196">
+      <result code="">Unknown Result</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="313390">R. Jones</conductor>
+    </result>
+    
+    <result id="162197">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="301339">Rufus Fletcher</conductor>
+    </result>
+    
+  </results>
+</contest-event>

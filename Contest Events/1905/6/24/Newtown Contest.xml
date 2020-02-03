@@ -1,0 +1,68 @@
+<contest-event id="10221">
+  <event-date date="1905-6-24">June 24, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newtown Contest</name>
+  <contest id="1889">
+    <name>Newtown Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newtown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1336">Newtown, Powys, Wales, UK</venue>
+  <notes>1st prize £35, 2nd prize £25, 3rd prize £15,m 4th prize £10, 5th prize £5.
+March contest 1st Ferndale, 2nd Wingates.
+6 bands competed.</notes>
+
+  <created>Feb. 12, 2012, 6:08 p.m.</created>
+  <last-modified>Sept. 5, 2018, 9:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="86478">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="86479">
+      <result code="2">2</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="86480">
+      <result code="3">3</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="86481">
+      <result code="4">4</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="86482">
+      <result code="5">5</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="86483">
+      <result code="6">6</result>
+      <band id="2793">Crewe Temperance</band>
+      <conductor id="309898">J. Stubbs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

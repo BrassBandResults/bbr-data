@@ -1,0 +1,112 @@
+<contest-event id="12388">
+  <event-date date="1899-6-3">June 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Slaithwaite Contest</name>
+  <contest id="1840">
+    <name>Slaithwaite Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>slaithwaite-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3559">Pleasure Grounds, Slaithwaite, Yorkshire</venue>
+  <notes>Promoted by Upper Slaithwaite Brass Band
+
+  1st prize £10.
+  2nd prize £6.
+  3rd prize £4.
+  4th prize £2.
+  5th prize £1.
+
+  March contest 1st (£1) Linthwaite, 2nd (10s.) Glodwick.
+
+  12 bands competed.</notes>
+
+  <created>April 13, 2012, 8:21 p.m.</created>
+  <last-modified>July 28, 2019, 8:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99059">
+      <result code="1">1</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="99060">
+      <result code="2">2</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="99061">
+      <result code="3">3</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310145">J. Taylor</conductor>
+    </result>
+    
+    <result id="99062">
+      <result code="4">4</result>
+      <band id="3535">Royal George</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="99063">
+      <result code="5">5</result>
+      <band id="2573">Norland</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="99069">
+      <result code="">Unknown Result</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="99066">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="99064">
+      <result code="">Unknown Result</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="99070">
+      <result code="">Unknown Result</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="99068">
+      <result code="">Unknown Result</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="99065">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="99067">
+      <result code="">Unknown Result</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

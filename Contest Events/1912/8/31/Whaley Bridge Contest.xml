@@ -1,0 +1,62 @@
+<contest-event id="15623">
+  <event-date date="1912-8-31">Aug. 31, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whaley Bridge Contest</name>
+  <contest id="3122">
+    <name>Whaley Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whaley-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="2417">Whaley Bridge, Derbyshire, England, UK</venue>
+  <notes>
+
+  March contest 1st Mossley.</notes>
+
+  <created>Oct. 27, 2012, 10:15 a.m.</created>
+  <last-modified>Oct. 27, 2012, 10:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="120718">
+      <result code="1">1</result>
+      <band id="2617">Wilmslow Public</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="120717">
+      <result code="2">2</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="299692">Robert Cooper</conductor>
+    </result>
+    
+    <result id="120720">
+      <result code="3">3</result>
+      <band id="497">Burbage Buxton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="120719">
+      <result code="4">4</result>
+      <band id="778">Whaley Bridge Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="120721">
+      <result code="">Unknown Result</result>
+      <band id="2558">Peak Dale Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

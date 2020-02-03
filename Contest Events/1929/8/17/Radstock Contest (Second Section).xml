@@ -1,0 +1,43 @@
+<contest-event id="24506">
+  <event-date date="1929-8-17">Aug. 17, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radstock Contest (Second Section)</name>
+  <contest id="4663">
+    <name>Radstock Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="447">Radstock Contest</group>
+    <slug>radstock-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1016">The Spirit of Youth</test-piece>
+  </test-piece>
+
+  <venue id="4018">Radstock, Somerset, England, UK</venue>
+  <notes>  Prizes - 1st £5, 2nd £3.
+  2 bands competed.</notes>
+
+  <created>Oct. 14, 2013, 8:38 a.m.</created>
+  <last-modified>Oct. 14, 2013, 8:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="178991">
+      <result code="1">1</result>
+      <band id="5778">Paulton Silver</band>
+      <conductor id="304535">R. W. Kingman</conductor>
+    </result>
+    
+    <result id="178992">
+      <result code="2">2</result>
+      <band id="2069">Bridgwater Imperial</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+  </results>
+</contest-event>

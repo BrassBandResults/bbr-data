@@ -1,0 +1,78 @@
+<contest-event id="22785">
+  <event-date date="1900-8-4">Aug. 4, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abthorpe Contest</name>
+  <contest id="2637">
+    <name>Abthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3757">Vicarage Grounds, Abthorpe, Northamptonshire</venue>
+  <notes>12 bands entered, 6 competed
+March contest: 1. Rugby (&quot;Viva Pettee&quot;), 2. Yardley (&quot;Imperial&quot;), 3. Abthorpe (&quot;Hero of the South&quot;).
+Best soprano - Astcote.
+Best trombone - Rugby.
+Best cornet - Yardley Goboin.
+Best euphonium - Abthorpe.
+</notes>
+
+  <created>Aug. 13, 2013, 9:08 p.m.</created>
+  <last-modified>June 16, 2018, 9:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="168259">
+      <result code="1">1</result>
+      <band id="7160">Yardley Gobion</band>
+      <conductor id="304759">Joseph R. Lambert</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168263">
+      <result code="2">2</result>
+      <band id="5911">Rugby Town</band>
+      <conductor id="301244">J. Finch</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168260">
+      <result code="3">3</result>
+      <band id="7227">Astcote United</band>
+      <conductor id="305240">J. Long</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168261">
+      <result code="4">4</result>
+      <band id="7977">Abthorpe</band>
+      <conductor id="306101">W. Middleton</conductor>
+      <test-piece id="1738">Songs of the Sea</test-piece>
+    </result>
+    
+    <result id="168264">
+      <result code="">Unknown Result</result>
+      <band id="7975">Silverstone Silver</band>
+      <conductor id="298593">F. Brown</conductor>
+      <test-piece id="1738">Songs of the Sea</test-piece>
+    </result>
+    
+    <result id="168262">
+      <result code="">Unknown Result</result>
+      <band id="7979">Bugbrooke</band>
+      <conductor id="297138">A. Ashby</conductor>
+      <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

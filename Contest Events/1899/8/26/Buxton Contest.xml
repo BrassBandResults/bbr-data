@@ -1,0 +1,84 @@
+<contest-event id="12654">
+  <event-date date="1899-8-26">Aug. 26, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Buxton Contest</name>
+  <contest id="1247">
+    <name>Buxton Contest [1800s]</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>buxton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3760">Silverlands, Buxton</venue>
+  <notes>Promoted by Buxton Town Band8 bands entered, 5 competed
+1st prize £15 and cup.
+  2nd prize £10.
+  3rd prize £5.
+  4th prize £3.
+March contest 1st (£1) Chesterfield Borough.</notes>
+
+  <created>April 18, 2012, 5:55 p.m.</created>
+  <last-modified>July 28, 2019, 3:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100863">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100864">
+      <result code="2">2</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="100865">
+      <result code="3">3</result>
+      <band id="1863">New Mills Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="100866">
+      <result code="4">4</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+      <test-piece id="1316">Memories of Rossini [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="167079">
+      <result code="5">5</result>
+      <band id="4520">Hanley Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205453">
+      <result code="W">Withdrawn</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205454">
+      <result code="W">Withdrawn</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205455">
+      <result code="W">Withdrawn</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,84 @@
+<contest-event id="21761">
+  <event-date date="1903-4-13">April 13, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnet Contest</name>
+  <contest id="2142">
+    <name>Barnet Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnet-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2393">Casket of Gems</test-piece>
+  </test-piece>
+
+  <venue id="1558">Barnet, Borough of Barnet, Greater London, England, UK</venue>
+  <notes>
+  Prizes  -  1st 9 guineas, 2nd 6 guineas, 3rd 4 guineas, 4th 2 guineas.
+  March contest - 1st Luton, 2nd Watford Artizans.
+  Best cornet - Luton.
+  Best horn, soprano,tombone and euphonium - Gravesend.
+5th annual contest
+  8 bands competed.</notes>
+
+  <created>June 9, 2013, 9:28 a.m.</created>
+  <last-modified>July 22, 2018, 2:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="161642">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="161640">
+      <result code="2">2</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="161647">
+      <result code="3">3</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="161644">
+      <result code="4">4</result>
+      <band id="7771">Northfleet Temperance</band>
+      <conductor id="303856">J. Jackson</conductor>
+    </result>
+    
+    <result id="161643">
+      <result code="">Unknown Result</result>
+      <band id="4799">New Barnet</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="161641">
+      <result code="">Unknown Result</result>
+      <band id="6604">Hampstead Silver</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="161645">
+      <result code="">Unknown Result</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="310849">Frank Waddington</conductor>
+    </result>
+    
+    <result id="161646">
+      <result code="">Unknown Result</result>
+      <band id="622">Watford</band>
+      <conductor id="296920">L. Allison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

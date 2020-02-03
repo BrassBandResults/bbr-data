@@ -1,0 +1,74 @@
+<contest-event id="38915">
+  <event-date date="1889-7-15">July 15, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rotherham Contest</name>
+  <contest id="2492">
+    <name>Rotherham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rotherham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4389">Brinsworth Sports Ground, Rotherham, Yorkshire</venue>
+  <notes>Prizes -1st £15, 2nd £7, 3rd £3.
+March contest - 1st(£2) Leeds Forge, 2nd(£1) Rotherham.
+4 bands competed.</notes>
+
+  <created>Dec. 1, 2017, 10:35 a.m.</created>
+  <last-modified>Jan. 27, 2018, 9:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283118">
+      <result code="1">1</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283117">
+      <result code="2">2</result>
+      <band id="3378">Batley Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283119">
+      <result code="3">3</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283116">
+      <result code="4">4</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283120">
+      <result code="W">Withdrawn</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283122">
+      <result code="W">Withdrawn</result>
+      <band id="10376">Sheffield Prince of Wales</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283121">
+      <result code="W">Withdrawn</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

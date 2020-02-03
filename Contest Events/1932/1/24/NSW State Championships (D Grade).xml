@@ -1,0 +1,54 @@
+<contest-event id="35793">
+  <event-date date="1932-1-24">Jan. 24, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (D Grade)</name>
+  <contest id="619">
+    <name>NSW State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1066">Gems of Old England</test-piece>
+  </test-piece>
+
+  <venue id="5166">New South Wales (State), Australia</venue>
+  <notes></notes>
+
+  <created>July 28, 2016, 1:03 a.m.</created>
+  <last-modified>Sept. 21, 2016, 11:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259800">
+      <result code="1">1</result>
+      <band id="14102">Westmead Boys Home</band>
+      <conductor id="302980">Jock Herron</conductor>
+    </result>
+    
+    <result id="259801">
+      <result code="2">2</result>
+      <band id="14104">Manning River District</band>
+      <conductor id="315261">M. Sneddon</conductor>
+    </result>
+    
+    <result id="259802">
+      <result code="3">3</result>
+      <band id="14094">Crows Nest Citizens</band>
+      <conductor id="298345">Les Bragg</conductor>
+    </result>
+    
+    <result id="259803">
+      <result code="3">3</result>
+      <band id="14089">Liverpool Municipal</band>
+      <conductor id="315263">J. Laing</conductor>
+    </result>
+    
+  </results>
+</contest-event>

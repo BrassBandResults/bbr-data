@@ -1,0 +1,62 @@
+<contest-event id="17302">
+  <event-date date="1946-9-7">Sept. 7, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nanpean Contest (Section 3)</name>
+  <contest id="3738">
+    <name>Nanpean Contest (Section 3)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>nanpean-contest-section-3</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2274">Hereward</test-piece>
+  </test-piece>
+
+  <venue id="2853">Old Pound, Nanpean, Cornwall</venue>
+  <notes>March contest  1st Newlyn East, 2nd Mabe, 3rd Pymouth, 4th Porthleven Town.
+Hymn tune  1st Newlyn, 2nd Porthleven, 3rd Mabe, 4th Penwithick.
+Prizes - 1st £12, 2nd £9, 3rd £7.</notes>
+
+  <created>Dec. 24, 2012, 11:53 a.m.</created>
+  <last-modified>Feb. 11, 2019, 10:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="131219">
+      <result code="1">1</result>
+      <band id="6754">Mabe Band</band>
+      <conductor id="310285">John Thomas</conductor>
+    </result>
+    
+    <result id="131220">
+      <result code="2">2</result>
+      <band id="1774">St Newlyn East</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="131221">
+      <result code="3">3</result>
+      <band id="528">Soundhouse Brass</band>
+      <conductor id="311280">Charles Welsh</conductor>
+    </result>
+    
+    <result id="131222">
+      <result code="">Unknown Result</result>
+      <band id="10240">Penwithick Silver Band</band>
+      <conductor id="297789">Harold Bennett</conductor>
+    </result>
+    
+    <result id="131223">
+      <result code="">Unknown Result</result>
+      <band id="563">Porthleven Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

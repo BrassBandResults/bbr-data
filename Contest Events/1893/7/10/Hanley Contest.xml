@@ -1,0 +1,60 @@
+<contest-event id="11837">
+  <event-date date="1893-7-10">July 10, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hanley Contest</name>
+  <contest id="2381">
+    <name>Hanley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hanley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1825">Fallen Leaves</test-piece>
+  </test-piece>
+
+  <venue id="2009">Hanley, Stoke on Trent</venue>
+  <notes>5 bands competed</notes>
+
+  <created>April 7, 2012, 7:10 p.m.</created>
+  <last-modified>June 7, 2019, 2:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95742">
+      <result code="1">1</result>
+      <band id="2515">Burslem Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="95743">
+      <result code="2">2</result>
+      <band id="12453">Bucknall</band>
+      <conductor id="317340">Alfred Turner</conductor>
+    </result>
+    
+    <result id="95744">
+      <result code="3">3</result>
+      <band id="4520">Hanley Excelsior</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="95745">
+      <result code="4">4</result>
+      <band id="7585">Hanley Amateurs</band>
+      <conductor id="310670">William Turner</conductor>
+    </result>
+    
+    <result id="309502">
+      <result code="5">5</result>
+      <band id="18031">Milton (Staffordshire)</band>
+      <conductor id="317322">William Turner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

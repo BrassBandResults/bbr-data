@@ -1,0 +1,71 @@
+<contest-event id="18194">
+  <event-date date="1892-7-22">July 22, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Driffield Contest</name>
+  <contest id="1877">
+    <name>Driffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>driffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1322">Driffield, Yorkshire</venue>
+  <notes>Driffield &amp; East Riding Agricultural Show
+
+5 village bands competed
+
+Quickstep: 1. Cranswick, 2. Hunmanby
+
+Prizes £4, £2, £1</notes>
+
+  <created>Feb. 13, 2013, 5:38 p.m.</created>
+  <last-modified>Sept. 9, 2016, 8:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261604">
+      <result code="1">1</result>
+      <band id="14262">Cranswick</band>
+      <conductor id="315459">Mr Welburn</conductor>
+      <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+    </result>
+    
+    <result id="261605">
+      <result code="2">2</result>
+      <band id="3136">Hunmanby and District</band>
+      <conductor id="315455">W. Raylor</conductor>
+      <test-piece id="3867">Christmas Morn</test-piece>
+    </result>
+    
+    <result id="261606">
+      <result code="3">3</result>
+      <band id="5249">Nafferton</band>
+      <conductor id="315460">A. Marshall</conductor>
+      <test-piece id="2269">Rose d&#39;Amour</test-piece>
+    </result>
+    
+    <result id="261666">
+      <result code="">Unknown Result</result>
+      <band id="14270">Nafferton Station Mills</band>
+      <conductor id="315457">W. Hoggard</conductor>
+      <test-piece id="3866">Caprice (Smith)</test-piece>
+    </result>
+    
+    <result id="261665">
+      <result code="">Unknown Result</result>
+      <band id="14269">Thixendale</band>
+      <conductor id="315456">Thomas Andrew</conductor>
+      <test-piece id="1569">The Village Festival</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="36803">
+  <event-date date="1934-6-23">June 23, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reepham Contest (Class B)</name>
+  <contest id="4898">
+    <name>Reepham Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>reepham-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3326">Reepham, Norfolk</venue>
+  <notes>March contest - 1st Dereham, 2nd New Buckenham.
+6 bands competed.</notes>
+
+  <created>Jan. 7, 2017, 10:42 a.m.</created>
+  <last-modified>Jan. 7, 2017, 10:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="266881">
+      <result code="1">1</result>
+      <band id="9548">Manningtree British Legion</band>
+      <conductor id="306389">H. A. Morris</conductor>
+    </result>
+    
+    <result id="266882">
+      <result code="2">2</result>
+      <band id="840">Dereham Band</band>
+      <conductor id="315751">W. Tebbitt</conductor>
+    </result>
+    
+    <result id="266883">
+      <result code="3">3</result>
+      <band id="843">New Buckenham Silver Band</band>
+      <conductor id="300920">W. A. Emms</conductor>
+    </result>
+    
+    <result id="266884">
+      <result code="">Unknown Result</result>
+      <band id="10644">Hindolveston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266886">
+      <result code="">Unknown Result</result>
+      <band id="11576">Rickinghall</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266885">
+      <result code="">Unknown Result</result>
+      <band id="11337">Rockland and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

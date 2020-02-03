@@ -1,0 +1,75 @@
+<contest-event id="41567">
+  <event-date date="1931-7-11">July 11, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Contest</name>
+  <contest id="1411">
+    <name>Doncaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1442">Grand Selection: Mendelssohn&#39;s Works [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1408">Corn Exchange, Doncaster</venue>
+  <notes>March contest - 1st Hickleton, 2nd Bullcroft.
+Prizes - 1st £10 and cup, 2nd £8, 3rd £6, 4th £4.
+11th annual contest for Doncaster Infirmary.
+7 bands competed.</notes>
+
+  <created>Dec. 15, 2018, 9:58 p.m.</created>
+  <last-modified>Dec. 16, 2018, 12:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="302432">
+      <result code="1">1</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="307097">W. Park</conductor>
+    </result>
+    
+    <result id="302433">
+      <result code="2">2</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">T. Hunter</conductor>
+    </result>
+    
+    <result id="302434">
+      <result code="3">3</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="312103">Albert Yates</conductor>
+    </result>
+    
+    <result id="302435">
+      <result code="4">4</result>
+      <band id="3579">Emley Public</band>
+      <conductor id="311559">J. Wilkinson</conductor>
+    </result>
+    
+    <result id="302437">
+      <result code="">Unknown Result</result>
+      <band id="1544">Askern Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302438">
+      <result code="">Unknown Result</result>
+      <band id="5014">Doncaster Railway Foundry Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302436">
+      <result code="">Unknown Result</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

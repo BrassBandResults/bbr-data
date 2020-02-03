@@ -1,0 +1,86 @@
+<contest-event id="37553">
+  <event-date date="1927-7-2">July 2, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sacriston Contest</name>
+  <contest id="1886">
+    <name>Sacriston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sacriston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2624">Any Wright and Round Waltz</test-piece>
+  </test-piece>
+
+  <venue id="1334">Sacriston, County Durham</venue>
+  <notes>Prizes - 1st £9, 2nd £5, 3rd £2, 4th £1.
+March contest - 1st Bearpark, 2nd Craghead.
+9 bands competed.</notes>
+
+  <created>March 16, 2017, 2:12 p.m.</created>
+  <last-modified>Nov. 21, 2018, 3:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="271592">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="271593">
+      <result code="2">2</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="302375">Gus Haigh</conductor>
+    </result>
+    
+    <result id="271594">
+      <result code="3">3</result>
+      <band id="11413">Bearpark Colliery</band>
+      <conductor id="300298">J. Deighton</conductor>
+    </result>
+    
+    <result id="271595">
+      <result code="4">4</result>
+      <band id="14873">Esh Colliery</band>
+      <conductor id="311571">W. Wilkinson</conductor>
+    </result>
+    
+    <result id="300296">
+      <result code="5">5</result>
+      <band id="6746">Urpeth Colliery</band>
+      <conductor id="312138">James Young</conductor>
+    </result>
+    
+    <result id="300299">
+      <result code="">Unknown Result</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300300">
+      <result code="">Unknown Result</result>
+      <band id="6856">Hamsteels Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300297">
+      <result code="">Unknown Result</result>
+      <band id="6652">Langley Park Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300298">
+      <result code="">Unknown Result</result>
+      <band id="3371">Lumley 6th Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

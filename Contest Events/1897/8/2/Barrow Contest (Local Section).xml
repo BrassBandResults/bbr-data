@@ -1,0 +1,48 @@
+<contest-event id="13340">
+  <event-date date="1897-8-2">Aug. 2, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest (Local Section)</name>
+  <contest id="2401">
+    <name>Barrow Contest (Local Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest-local-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="885">Barrow-in-Furness, Cumbria, England, UK</venue>
+  <notes>Prize: £12</notes>
+
+  <created>May 10, 2012, 8:31 p.m.</created>
+  <last-modified>May 10, 2012, 8:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="151462">
+      <result code="1">1</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="151463">
+      <result code="2">2</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="105817">
+      <result code="">Unknown Result</result>
+      <band id="7656">St. James (Millom)</band>
+      <conductor id="309464">W. Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

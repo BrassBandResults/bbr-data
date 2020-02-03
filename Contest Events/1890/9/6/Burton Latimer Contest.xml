@@ -1,0 +1,64 @@
+<contest-event id="13791">
+  <event-date date="1890-9-6">Sept. 6, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burton Latimer Contest</name>
+  <contest id="2336">
+    <name>Burton Latimer Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>burton-latimer-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1893">Lyric Garland</test-piece>
+  </test-piece>
+
+  <venue id="2249">Burton Latimer, Northamptonshire, England, UK</venue>
+  <notes>Organised by Burton Latimer Britannia Brass Band.
+Kettering Town disqualified for fielding a player from Kingston Mills Band.  The decision to disqualify them was not well received by the Kettering Town Band supporters and extra police were sent for from Kettering to control the event.
+Reported in Northampton Herald, 13th September 1890.
+Prizes - 1st £11.11s. and euphonium, 2nd £5 and baritone, 3rd £3 and soprano.
+3 bands competed.</notes>
+
+  <created>June 16, 2012, 12:14 p.m.</created>
+  <last-modified>May 24, 2019, 8:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="110127">
+      <result code="1">1</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110128">
+      <result code="2">2</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110129">
+      <result code="3">3</result>
+      <band id="7535">Rothwell Town [Northamptonshire]</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="110131">
+      <result code="D">Disqualified</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="110130">
+      <result code="W">Withdrawn</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

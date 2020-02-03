@@ -1,0 +1,58 @@
+<contest-event id="35353">
+  <event-date date="1920-10-23">Oct. 23, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2804">Dinorah [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>TEST SELECTION  &quot;Dinorah &quot; Arranger Ord Hume</notes>
+
+  <created>May 22, 2016, 3:34 a.m.</created>
+  <last-modified>Dec. 18, 2017, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="254767">
+      <result code="1">1</result>
+      <band id="2180">Glenelg Brass Band</band>
+      <conductor id="309945">Ossie Summerton</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="254768">
+      <result code="2">2</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="299502">Percy Code</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="254769">
+      <result code="3">3</result>
+      <band id="7855">Wonthaggi Citizens</band>
+      <conductor id="306767">Hugh Niven</conductor>
+      <test-piece id="1671">Spohr&#39;s Works</test-piece>
+    </result>
+    
+    <result id="254770">
+      <result code="4">4</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="296918">Charles Allison</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

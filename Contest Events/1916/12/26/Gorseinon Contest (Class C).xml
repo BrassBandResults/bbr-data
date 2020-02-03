@@ -1,0 +1,61 @@
+<contest-event id="28813">
+  <event-date date="1916-12-26">Dec. 26, 1916<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gorseinon Contest (Class C)</name>
+  <contest id="5400">
+    <name>Gorseinon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gorseinon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3765">Prince and Peasant</test-piece>
+  </test-piece>
+
+  <venue id="4890">Gorseinon</venue>
+  <notes>Prizes - 1st £6, 2nd £3, 3rd £1.
+5 bands competed.</notes>
+
+  <created>June 26, 2014, 4:30 p.m.</created>
+  <last-modified>Oct. 6, 2018, 9:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="205934">
+      <result code="1">1</result>
+      <band id="12242">Kenfig Hill</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="295215">
+      <result code="2">2</result>
+      <band id="9689">Caerau</band>
+      <conductor id="304322">W. Jury</conductor>
+    </result>
+    
+    <result id="295217">
+      <result code="3">3</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="302537">D. Hanney</conductor>
+    </result>
+    
+    <result id="295214">
+      <result code="">Unknown Result</result>
+      <band id="6969">Waunarlwydd</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="295216">
+      <result code="">Unknown Result</result>
+      <band id="17397">Gorseinon Temperance</band>
+      <conductor id="309956">H. Sutcliffe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

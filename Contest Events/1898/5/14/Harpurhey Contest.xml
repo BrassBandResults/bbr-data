@@ -1,0 +1,54 @@
+<contest-event id="13437">
+  <event-date date="1898-5-14">May 14, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Harpurhey Contest</name>
+  <contest id="1337">
+    <name>Harpurhey Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>harpurhey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1958">Now or Never</test-piece>
+  </test-piece>
+
+  <venue id="852">Harpurhey, Manchester, Greater Manchester, England, UK</venue>
+  <notes>Cornet medal won by Fred Townley (Rhodes Bleachworks)</notes>
+
+  <created>May 12, 2012, 9:25 p.m.</created>
+  <last-modified>Dec. 6, 2018, 1:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106633">
+      <result code="1">1</result>
+      <band id="8028">Dob Lane (Failsworth)</band>
+      <conductor id="311400">J. White</conductor>
+    </result>
+    
+    <result id="106634">
+      <result code="2">2</result>
+      <band id="7966">Great Ancoats Mission</band>
+      <conductor id="297629">J. H. Baxter</conductor>
+    </result>
+    
+    <result id="106635">
+      <result code="3">3</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="308950">F. Sharpe</conductor>
+    </result>
+    
+    <result id="106636">
+      <result code="4">4</result>
+      <band id="3589">Rhodes Bleach Works</band>
+      <conductor id="314492">J. H. White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

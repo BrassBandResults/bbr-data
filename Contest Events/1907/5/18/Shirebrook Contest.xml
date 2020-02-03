@@ -1,0 +1,93 @@
+<contest-event id="11287">
+  <event-date date="1907-5-18">May 18, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shirebrook Contest</name>
+  <contest id="1943">
+    <name>Shirebrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="255">Shirebrook Contest</group>
+    <slug>shirebrook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1171">Gems of Haydn [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1380">Shirebrook, Derbyshire</venue>
+  <notes>
+
+  1st prize £5 and cup.
+  2nd prize £3.
+  3rd prize £2.
+  4th prize £1.
+
+  March contest 1st Mansfield Excelsior,  2nd  Clowne.
+
+  9 bands competed.</notes>
+
+  <created>March 19, 2012, 4:36 p.m.</created>
+  <last-modified>March 19, 2012, 4:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93227">
+      <result code="1">1</result>
+      <band id="6792">Clowne Silver</band>
+      <conductor id="298278">G. W. Bowes</conductor>
+    </result>
+    
+    <result id="93228">
+      <result code="2">2</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="311791">William Wilson</conductor>
+    </result>
+    
+    <result id="93229">
+      <result code="3">3</result>
+      <band id="11888">Bestwood Colliery</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="93230">
+      <result code="4">4</result>
+      <band id="489">Shirebrook Band</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+    </result>
+    
+    <result id="93232">
+      <result code="">Unknown Result</result>
+      <band id="6794">Beeston Humber</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93235">
+      <result code="">Unknown Result</result>
+      <band id="7169">Heanor Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93231">
+      <result code="">Unknown Result</result>
+      <band id="6580">Mansfield Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93233">
+      <result code="">Unknown Result</result>
+      <band id="7304">Newhall (Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93234">
+      <result code="">Unknown Result</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

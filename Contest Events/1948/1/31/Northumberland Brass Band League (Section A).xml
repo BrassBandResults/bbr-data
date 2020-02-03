@@ -1,0 +1,81 @@
+<contest-event id="25441">
+  <event-date date="1948-1-31">Jan. 31, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northumberland Brass Band League (Section A)</name>
+  <contest id="3585">
+    <name>Northumberland Brass Band League (Section A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northumberland-brass-band-league-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5786">Any Liverpool Journal Piece</test-piece>
+  </test-piece>
+
+  <venue id="2473">Gateshead, Tyne and Wear, England, UK</venue>
+  <notes></notes>
+
+  <created>Dec. 4, 2013, 10:26 a.m.</created>
+  <last-modified>Feb. 18, 2019, 2:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184880">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+      <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="184881">
+      <result code="2">2</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+    <result id="184882">
+      <result code="3">3</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="308830">John Dennis Scoins</conductor>
+      <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+    </result>
+    
+    <result id="184883">
+      <result code="4">4</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="184885">
+      <result code="">Unknown Result</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="304951">Robert Lee</conductor>
+    </result>
+    
+    <result id="184887">
+      <result code="">Unknown Result</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="304951">Robert Lee</conductor>
+    </result>
+    
+    <result id="184884">
+      <result code="">Unknown Result</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="184886">
+      <result code="">Unknown Result</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

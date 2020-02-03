@@ -1,0 +1,87 @@
+<contest-event id="12851">
+  <event-date date="1889-7-27">July 27, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brighouse Contest</name>
+  <contest id="2496">
+    <name>Brighouse Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brighouse-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1567">Cinq Mars [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2045">Football Ground, Brighouse, West Yorkshire</venue>
+  <notes>Promoted by Brighouse Old Subscription Band.
+Prizes - 1st £20, 2nd £12, 3rd £6, 4th £3, 5th £1.
+March contest 1st (£2) Besses o th Barn, 2nd (£1) Linthwaite.
+6 bands competed.</notes>
+
+  <created>April 27, 2012, 5:09 p.m.</created>
+  <last-modified>Nov. 13, 2017, 10:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102106">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="102107">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="102108">
+      <result code="3">3</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="102109">
+      <result code="4">4</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="102110">
+      <result code="5">5</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="102111">
+      <result code="6">6</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="217777">
+      <result code="W">Withdrawn</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="217779">
+      <result code="W">Withdrawn</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="217778">
+      <result code="W">Withdrawn</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

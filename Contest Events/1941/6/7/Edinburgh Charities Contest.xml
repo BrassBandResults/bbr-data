@@ -1,0 +1,83 @@
+<contest-event id="35187">
+  <event-date date="1941-6-7">June 7, 1941<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Edinburgh Charities Contest</name>
+  <contest id="679">
+    <name>Edinburgh Charities Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>edinburgh-charities-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="389">Princes Street Gardens, Edinburgh</venue>
+  <notes>March contest - 1st Douglas Colliery, 2nd Wellesley Col, 3rd Tullis Russell.
+Hymn tune contest - 1st Tullis Russell, 2nd tie between Parkhead Forge and Barry Ostlere &amp; Shepherd
+Best section 2 band - Douglas Colliery.
+Best section 3 band - Parkhead Forge.
+Best section 4 band - Prestonlinks Colliery.
+8 bands competed</notes>
+
+  <created>April 27, 2016, 8:42 a.m.</created>
+  <last-modified>Jan. 29, 2019, 4:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="303636">
+      <result code="1">1</result>
+      <band id="1728">Barry, Ostlere &amp; Shepherd</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="303637">
+      <result code="2">2</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="307331">William Pegg</conductor>
+    </result>
+    
+    <result id="303638">
+      <result code="3">3</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="313096">J. H. Haldane</conductor>
+    </result>
+    
+    <result id="303639">
+      <result code="4">4</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="318760">J. Faulds</conductor>
+    </result>
+    
+    <result id="303640">
+      <result code="5">5</result>
+      <band id="1697">Parkhead Forge (Glasgow)</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="303643">
+      <result code="">Unknown Result</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303642">
+      <result code="">Unknown Result</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="303641">
+      <result code="">Unknown Result</result>
+      <band id="4378">Monktonhall Colliery Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

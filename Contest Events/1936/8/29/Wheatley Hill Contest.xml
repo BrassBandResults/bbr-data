@@ -1,0 +1,62 @@
+<contest-event id="28506">
+  <event-date date="1936-8-29">Aug. 29, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wheatley Hill Contest</name>
+  <contest id="4542">
+    <name>Wheatley Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wheatley-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2761">Wheatley Hill, Durham</venue>
+  <notes>Prizes: £7
+
+March: 1. Wingate, 2. Thornley, 3. Sunderland</notes>
+
+  <created>June 11, 2014, 12:07 p.m.</created>
+  <last-modified>Feb. 18, 2016, 10:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="202968">
+      <result code="1">1</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202969">
+      <result code="2">2</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202970">
+      <result code="3">3</result>
+      <band id="1921">Dawdon Lodge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202971">
+      <result code="">Unknown Result</result>
+      <band id="2628">Sunderland Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202972">
+      <result code="W">Withdrawn</result>
+      <band id="5350">Trimdon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

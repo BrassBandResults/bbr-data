@@ -1,0 +1,73 @@
+<contest-event id="40436">
+  <event-date date="1913-5-12">May 12, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class A)</name>
+  <contest id="2236">
+    <name>Llandovery Contest (Class A)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £12 and shield, 2nd £6, 3rd £3.
+7 bands competed</notes>
+
+  <created>Sept. 30, 2018, 8:35 a.m.</created>
+  <last-modified>Sept. 30, 2018, 1:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294221">
+      <result code="1">1</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311599">David Williams</conductor>
+    </result>
+    
+    <result id="294222">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="294223">
+      <result code="3">3</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="294227">
+      <result code="3">3</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="294224">
+      <result code="">Unknown Result</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+    <result id="294225">
+      <result code="">Unknown Result</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="294226">
+      <result code="">Unknown Result</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,87 @@
+<contest-event id="15808">
+  <event-date date="1909-6-19">June 19, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Thorne Contest</name>
+  <contest id="2556">
+    <name>Thorne Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>thorne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1900">Old Favourites</test-piece>
+  </test-piece>
+
+  <venue id="1911">Thorne, South Yorkshire</venue>
+  <notes>
+  Prizes  1st £15, 2nd £8, 3rd £5, 4th £3.
+
+  9 bands competed.</notes>
+
+  <created>Nov. 3, 2012, 9:22 a.m.</created>
+  <last-modified>Sept. 3, 2016, 9:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121915">
+      <result code="1">1</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="309848">Charles Stott</conductor>
+    </result>
+    
+    <result id="121916">
+      <result code="2">2</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="303178">Major Hitchen</conductor>
+    </result>
+    
+    <result id="121917">
+      <result code="3">3</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="121918">
+      <result code="4">4</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="121920">
+      <result code="">Unknown Result</result>
+      <band id="3694">Denaby Main Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121922">
+      <result code="">Unknown Result</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121923">
+      <result code="">Unknown Result</result>
+      <band id="8296">Doncaster Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121919">
+      <result code="">Unknown Result</result>
+      <band id="6625">Goole South Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121921">
+      <result code="">Unknown Result</result>
+      <band id="123">Knottingley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

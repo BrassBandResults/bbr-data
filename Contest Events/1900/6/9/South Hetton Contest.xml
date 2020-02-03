@@ -1,0 +1,86 @@
+<contest-event id="22692">
+  <event-date date="1900-6-9">June 9, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Hetton Contest</name>
+  <contest id="2552">
+    <name>South Hetton Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-hetton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1318">Norma</test-piece>
+  </test-piece>
+
+  <venue id="1906">South Hetton, County Durham</venue>
+  <notes>Prizes: £10, £5, £2
+
+March: 1. Seaham, 2. South Derwent</notes>
+
+  <created>Aug. 11, 2013, 10:52 p.m.</created>
+  <last-modified>Aug. 11, 2013, 10:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="167745">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167746">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167747">
+      <result code="3">3</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310417">James Thurlow</conductor>
+    </result>
+    
+    <result id="167748">
+      <result code="3">3</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167752">
+      <result code="">Unknown Result</result>
+      <band id="7836">Birtley Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167753">
+      <result code="">Unknown Result</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167749">
+      <result code="">Unknown Result</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167751">
+      <result code="">Unknown Result</result>
+      <band id="7425">Seaham Bottle Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167750">
+      <result code="">Unknown Result</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

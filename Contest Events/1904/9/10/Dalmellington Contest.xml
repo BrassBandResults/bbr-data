@@ -1,0 +1,86 @@
+<contest-event id="37978">
+  <event-date date="1904-9-10">Sept. 10, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dalmellington Contest</name>
+  <contest id="1972">
+    <name>Dalmellington Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="310">Dalmellington Contest</group>
+    <slug>dalmellington-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1403">Dalmellington, Ayrshire</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>May 18, 2017, 9:43 a.m.</created>
+  <last-modified>Sept. 3, 2018, 6:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="274386">
+      <result code="1">1</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">W. Smith</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="274387">
+      <result code="2">2</result>
+      <band id="5553">Maybole Burgh</band>
+      <conductor id="308992">William Shaw</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="274388">
+      <result code="3">3</result>
+      <band id="6636">Beith</band>
+      <conductor id="309464">W. Smith</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="274389">
+      <result code="4">4</result>
+      <band id="6554">Auchinleck</band>
+      <conductor id="310365">Robert Thomson</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="274390">
+      <result code="5">5</result>
+      <band id="6637">Dalry</band>
+      <conductor id="316624">Mr Baxter</conductor>
+      <test-piece id="913">Stradella - overture [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="274391">
+      <result code="6">6</result>
+      <band id="5009">New Cumnock</band>
+      <conductor id="303821">Alexander Irvine</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="274392">
+      <result code="7">7</result>
+      <band id="317">Dunaskin Doon Band</band>
+      <conductor id="300867">J. Ellis</conductor>
+      <test-piece id="913">Stradella - overture [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="274393">
+      <result code="8">8</result>
+      <band id="5467">Lugar</band>
+      <conductor id="316625">Mr Etherington</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

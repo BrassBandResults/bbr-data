@@ -1,0 +1,100 @@
+<contest-event id="12906">
+  <event-date date="1912-5-11">May 11, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Worksop Contest</name>
+  <contest id="2707">
+    <name>Worksop Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>worksop-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="2062">Worksop, Nottinghamshire</venue>
+  <notes>
+
+  1st prize £5 and cup.
+  2nd prize £3.
+  3rd prize £3.
+
+  March contest 1st (£1) Lincoln Malleable, 2nd (10s.) Grimesthorpe.
+
+  10 bands competed.
+
+  2nd annual contest organised by Shireoaks Colliery Band.</notes>
+
+  <created>April 28, 2012, 11:20 a.m.</created>
+  <last-modified>April 28, 2012, 11:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="102611">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="299827">Ellerby Cox (30ies)</conductor>
+    </result>
+    
+    <result id="102612">
+      <result code="2">2</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="102613">
+      <result code="3">3</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="298020">William Blackburn</conductor>
+    </result>
+    
+    <result id="140958">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="297232">R. Atkinson</conductor>
+    </result>
+    
+    <result id="102614">
+      <result code="">Unknown Result</result>
+      <band id="4141">Chesterfield Town &amp; Old Comrades</band>
+      <conductor id="309039">L. Sheppard</conductor>
+    </result>
+    
+    <result id="102620">
+      <result code="">Unknown Result</result>
+      <band id="8159">Rotherham and Masbrough</band>
+      <conductor id="300556">E. N. Draycott</conductor>
+    </result>
+    
+    <result id="102615">
+      <result code="">Unknown Result</result>
+      <band id="6792">Clowne Silver</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="102618">
+      <result code="">Unknown Result</result>
+      <band id="8158">Lincoln Ruston&#39;s Silver</band>
+      <conductor id="299827">Ellerby Cox (30ies)</conductor>
+    </result>
+    
+    <result id="102617">
+      <result code="">Unknown Result</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="305005">William Lerigo</conductor>
+    </result>
+    
+    <result id="102616">
+      <result code="">Unknown Result</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="299490">W. Cocking</conductor>
+    </result>
+    
+  </results>
+</contest-event>

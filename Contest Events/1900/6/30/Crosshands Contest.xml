@@ -1,0 +1,48 @@
+<contest-event id="37341">
+  <event-date date="1900-6-30">June 30, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crosshands Contest</name>
+  <contest id="6115">
+    <name>Crosshands Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crosshands-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2571">Belisario [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4244">Cross Hands, Carmarthenshire</venue>
+  <notes>March contest(The Royal Welsh): 1. Cwmmawr</notes>
+
+  <created>Feb. 23, 2017, 2:47 p.m.</created>
+  <last-modified>June 14, 2018, 9:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270433">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="301041">Walter Exley</conductor>
+    </result>
+    
+    <result id="270434">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="270435">
+      <result code="3">3</result>
+      <band id="7619">Cymmawr</band>
+      <conductor id="302670">Tom Harris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

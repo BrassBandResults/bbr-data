@@ -1,0 +1,54 @@
+<contest-event id="23065">
+  <event-date date="1902-3-31">March 31, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest (Local Section)</name>
+  <contest id="2696">
+    <name>Lydney Contest (Local Section)</name>
+    <order>3</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="480">Lydney Contest</group>
+    <slug>lydney-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3845">Lydney Park, Lydney, Gloucestershire</venue>
+  <notes>Prizes: £4, £2, £1</notes>
+
+  <created>Aug. 17, 2013, 9:19 p.m.</created>
+  <last-modified>Aug. 17, 2013, 9:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="169884">
+      <result code="1">1</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="313350">T. James</conductor>
+    </result>
+    
+    <result id="169885">
+      <result code="2">2</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169886">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="318155">J. Sier</conductor>
+    </result>
+    
+    <result id="169887">
+      <result code="4">4</result>
+      <band id="11297">Gloucestershire Volunteer Artillery (Cinderford)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

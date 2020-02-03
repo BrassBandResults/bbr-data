@@ -20,29 +20,36 @@
   </test-piece>
 
   <venue id="170">Lubetkin Theatre, East Durham College, Peterlee</venue>
-  <notes></notes>
+  <notes>Best Euphonium - Colin Moss (Kippax)
+Best Trombone Section - Kippax
+Best Principal Cornet - Neil Darbyshire (Kippax)
+Best Bass Section - Backworth Colliery
+Best 4th Section Band - Backworth Colliery</notes>
 
   <created>Jan. 27, 2020, 8:31 p.m.</created>
-  <last-modified>Jan. 27, 2020, 8:33 p.m.</last-modified>
+  <last-modified>Feb. 2, 2020, 11:04 p.m.</last-modified>
 
   <results>
     
-    <result id="314978">
-      <result code="">Unknown Result</result>
-      <band id="580">Backworth Colliery Band</band>
-      <conductor id="310730">Unknown</conductor>
+    <result id="315010">
+      <result code="1">1</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="310429">Stephen Tighe</conductor>
+      <test-piece id="6215">Endurance</test-piece>
     </result>
     
-    <result id="314979">
-      <result code="">Unknown Result</result>
+    <result id="315011">
+      <result code="2">2</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="319914">Calum Hartwell</conductor>
+      <test-piece id="570">St. Andrews Variations [Fernie]</test-piece>
+    </result>
+    
+    <result id="315012">
+      <result code="3">3</result>
       <band id="8768">Craghead Colliery Band</band>
       <conductor id="318867">Stephen Goddard</conductor>
-    </result>
-    
-    <result id="314980">
-      <result code="">Unknown Result</result>
-      <band id="131">Kippax Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <test-piece id="285">A Malvern Suite</test-piece>
     </result>
     
   </results>

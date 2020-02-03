@@ -1,0 +1,60 @@
+<contest-event id="11725">
+  <event-date date="1907-9-7">Sept. 7, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Winlaton Contest</name>
+  <contest id="2325">
+    <name>Winlaton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>winlaton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1909">Il Barbiere di Siviglia [unknown arranger]</test-piece>
+  </test-piece>
+
+  
+  <notes>  1st prize £6.6s. and cornet.
+  2nd prize £4.
+  3rd prize £2.10s.
+  
+  March contest 1st Felling Colliery.
+
+  4 bands competed.</notes>
+
+  <created>April 6, 2012, 4:05 p.m.</created>
+  <last-modified>April 26, 2012, 9:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95072">
+      <result code="1">1</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="95073">
+      <result code="2">2</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="302878">F. Hedley</conductor>
+    </result>
+    
+    <result id="95074">
+      <result code="3">3</result>
+      <band id="7183">Ovington Band</band>
+      <conductor id="302878">F. Hedley</conductor>
+    </result>
+    
+    <result id="95075">
+      <result code="4">4</result>
+      <band id="577">Dunston Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

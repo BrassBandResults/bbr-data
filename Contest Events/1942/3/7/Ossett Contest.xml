@@ -1,0 +1,55 @@
+<contest-event id="26209">
+  <event-date date="1942-3-7">March 7, 1942<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ossett Contest</name>
+  <contest id="1845">
+    <name>Ossett Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ossett-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1938">Emilia</test-piece>
+  </test-piece>
+
+  <venue id="1297">Ossett, West Yorkshire, England, UK</venue>
+  <notes>March: 1. Gawthorpe Victoria, 2. Salts
+Prizes - 1st £10, 2nd £6, 3rd £3, 4th £1.10s.</notes>
+
+  <created>Jan. 29, 2014, 11 p.m.</created>
+  <last-modified>Jan. 29, 2019, 6:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="189770">
+      <result code="1">1</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="304433">Harold Kemp</conductor>
+    </result>
+    
+    <result id="189771">
+      <result code="2">2</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="297211">H. F. Atkins</conductor>
+    </result>
+    
+    <result id="189772">
+      <result code="3">3</result>
+      <band id="3271">Bradford Victoria</band>
+      <conductor id="297233">Tom Atkinson</conductor>
+    </result>
+    
+    <result id="189773">
+      <result code="">Unknown Result</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

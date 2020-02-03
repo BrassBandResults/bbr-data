@@ -1,0 +1,71 @@
+<contest-event id="17897">
+  <event-date date="1890-7-24">July 24, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Selby Contest</name>
+  <contest id="1400">
+    <name>Selby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>selby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1363">Selby, North Yorkshire, England, UK</venue>
+  <notes>Selby Horticultural Show
+
+Quickstep (bands never having won prize over £15): 1. Rothwell, 2. Selby Rifles/Selby Model divided
+
+Quickstep (Open): 1. Leeds Forge, 2. Wyke Old
+</notes>
+
+  <created>Feb. 4, 2013, 5:11 p.m.</created>
+  <last-modified>Feb. 4, 2013, 5:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135288">
+      <result code="1">1</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135289">
+      <result code="2">2</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="135290">
+      <result code="3">3</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="135291">
+      <result code="4">4</result>
+      <band id="10311">Selby Rifles</band>
+      <conductor id="310637">Edward Turner</conductor>
+    </result>
+    
+    <result id="135292">
+      <result code="5">5</result>
+      <band id="10378">Selby Model</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135293">
+      <result code="W">Withdrawn</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

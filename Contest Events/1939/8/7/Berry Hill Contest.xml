@@ -1,0 +1,57 @@
+<contest-event id="26217">
+  <event-date date="1939-8-7">Aug. 7, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Berry Hill Contest</name>
+  <contest id="5083">
+    <name>Berry Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>berry-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1367">Over the Hills</test-piece>
+  </test-piece>
+
+  <venue id="4446">Berry Hill, Gloucestershire, England, UK</venue>
+  <notes>
+  Prizes - 1st £12 and cup, 2nd £6, 3rd £2.
+  March contest - 1st Pillowell Silver.
+  1st contest promoted by Berry Hill Sports Committee.</notes>
+
+  <created>Jan. 30, 2014, 10:42 a.m.</created>
+  <last-modified>Jan. 30, 2014, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189804">
+      <result code="1">1</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="189805">
+      <result code="2">2</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="299025">H. Carpenter</conductor>
+    </result>
+    
+    <result id="189807">
+      <result code="3">3</result>
+      <band id="10210">Parkend Silver</band>
+      <conductor id="298593">F. Brown</conductor>
+    </result>
+    
+    <result id="189806">
+      <result code="3">3</result>
+      <band id="11327">Two Bridges</band>
+      <conductor id="298092">H. Bloxsome</conductor>
+    </result>
+    
+  </results>
+</contest-event>

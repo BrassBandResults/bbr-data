@@ -1,0 +1,55 @@
+<contest-event id="13691">
+  <event-date date="1936-9-12">Sept. 12, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luton Contest</name>
+  <contest id="2529">
+    <name>Luton Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="321">Luton Contest</group>
+    <slug>luton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="108">Lorenzo</test-piece>
+  </test-piece>
+
+  <venue id="2216">Luton Town Football Ground, Luton, Bedfordshire, England, UK</venue>
+  <notes>Hymn Tune contest - 1st Enfield, 2nd Finedon, 3rd Erith.
+4 bands competed.</notes>
+
+  <created>June 8, 2012, 7:24 p.m.</created>
+  <last-modified>Jan. 2, 2014, 1:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="109090">
+      <result code="1">1</result>
+      <band id="1686">Enfield Band</band>
+      <conductor id="299061">Edward Sydney Carter</conductor>
+    </result>
+    
+    <result id="109092">
+      <result code="2">2</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308051">A. G. Remington</conductor>
+    </result>
+    
+    <result id="109091">
+      <result code="3">3</result>
+      <band id="3628">Erith British Legion</band>
+      <conductor id="309167">J. W. Simpson</conductor>
+    </result>
+    
+    <result id="109089">
+      <result code="4">4</result>
+      <band id="2983">Bedford Trades</band>
+      <conductor id="299861">R. W. Crane</conductor>
+    </result>
+    
+  </results>
+</contest-event>

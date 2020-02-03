@@ -1,0 +1,75 @@
+<contest-event id="12408">
+  <event-date date="1895-4-27">April 27, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Keighley Contest</name>
+  <contest id="1244">
+    <name>Keighley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>keighley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1880">Beauties of England</test-piece>
+  </test-piece>
+
+  <venue id="3308">Victoria Park, Keighley</venue>
+  <notes>7 bands entered, 3 competed
+Prizes: £25, £15, £10
+March contest: 1. Wyke, 2. Black Dyke, 3. Besses
+Trombone solo: 1. W. Lawson, 2. C. Jeffry, 3. F. Bower(34 bands competed</notes>
+
+  <created>April 13, 2012, 10:14 p.m.</created>
+  <last-modified>June 17, 2019, 6:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99213">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="99214">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="99215">
+      <result code="3">3</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="146612">
+      <result code="W">Withdrawn</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="146613">
+      <result code="W">Withdrawn</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="146614">
+      <result code="W">Withdrawn</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="146615">
+      <result code="W">Withdrawn</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

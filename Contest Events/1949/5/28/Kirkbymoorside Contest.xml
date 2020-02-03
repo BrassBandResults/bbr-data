@@ -1,0 +1,56 @@
+<contest-event id="26321">
+  <event-date date="1949-5-28">May 28, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkbymoorside Contest</name>
+  <contest id="3771">
+    <name>Kirkbymoorside Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkbymoorside-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2624">Any Wright and Round Waltz</test-piece>
+  </test-piece>
+
+  <venue id="2914">Castle Fields, Kirkbymoorside</venue>
+  <notes>Own choice waltz, march and hymn tune contest
+March contest - 1st Easington Public, 2nd Hetton Silver, 3rd Shildon.
+  Hymn tune contest - 1st Easington Public, 2nd Rothwell Temperance, 3rd Hetton Silver.</notes>
+
+  <created>Feb. 12, 2014, 9:29 a.m.</created>
+  <last-modified>Feb. 27, 2019, 10:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190651">
+      <result code="1">1</result>
+      <band id="4772">Shildon British Railways</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="190652">
+      <result code="2">2</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="190653">
+      <result code="3">3</result>
+      <band id="3351">Easington Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="190654">
+      <result code="">Unknown Result</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

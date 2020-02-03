@@ -1,0 +1,60 @@
+<contest-event id="25585">
+  <event-date date="1926-8-14">Aug. 14, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radstock Contest (First Section)</name>
+  <contest id="4662">
+    <name>Radstock Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="447">Radstock Contest</group>
+    <slug>radstock-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2564">Oberon [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4018">Radstock, Somerset, England, UK</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Dec. 11, 2013, 10:37 p.m.</created>
+  <last-modified>Nov. 12, 2018, 5:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299777">
+      <result code="1">1</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="300127">R. W. Davidson</conductor>
+    </result>
+    
+    <result id="299778">
+      <result code="2">2</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="299779">
+      <result code="3">3</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+    </result>
+    
+    <result id="299780">
+      <result code="">Unknown Result</result>
+      <band id="3988">Keynsham Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299781">
+      <result code="">Unknown Result</result>
+      <band id="10619">Midsomer Norton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

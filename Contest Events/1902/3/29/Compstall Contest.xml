@@ -1,0 +1,80 @@
+<contest-event id="23061">
+  <event-date date="1902-3-29">March 29, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Compstall Contest</name>
+  <contest id="1795">
+    <name>Compstall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>compstall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2582">Songs of Shakespeare</test-piece>
+  </test-piece>
+
+  <venue id="1267">Compstall, Cheshire</venue>
+  <notes>Prizes - 1st £7 and cornet, 2nd £4 and trombone, 3rd £4, 4th £2, 5th £1.
+March contest - 1st (£10 Ferranti&#39;s, 2nd (10s.) Pickup Bank,.
+8 bands competed.</notes>
+
+  <created>Aug. 17, 2013, 8:11 p.m.</created>
+  <last-modified>July 2, 2018, 6:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169870">
+      <result code="1">1</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="318030">Joseph Thompson</conductor>
+    </result>
+    
+    <result id="259272">
+      <result code="2">2</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="259273">
+      <result code="3">3</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="259274">
+      <result code="4">4</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="259275">
+      <result code="">Unknown Result</result>
+      <band id="3663">Ferranti&#39;s Works</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="259276">
+      <result code="">Unknown Result</result>
+      <band id="7886">Newton Moor</band>
+      <conductor id="319217">William Taylor</conductor>
+    </result>
+    
+    <result id="291106">
+      <result code="">Unknown Result</result>
+      <band id="1863">New Mills Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="259277">
+      <result code="">Unknown Result</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="24005">
+  <event-date date="1927-8-13">Aug. 13, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radstock Contest (First Section)</name>
+  <contest id="4662">
+    <name>Radstock Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="447">Radstock Contest</group>
+    <slug>radstock-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4018">Radstock, Somerset, England, UK</venue>
+  <notes>
+  Prizes - 1st £25 and shield, 2nd £12, 3rd £8, 4th £5.
+  8 bands competed.</notes>
+
+  <created>Sept. 23, 2013, 5:10 p.m.</created>
+  <last-modified>Oct. 26, 2017, 9:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175433">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="175434">
+      <result code="2">2</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="312126">Cliff Young</conductor>
+    </result>
+    
+    <result id="175435">
+      <result code="3">3</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="175436">
+      <result code="4">4</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="300231">R. W. Davison</conductor>
+    </result>
+    
+    <result id="175440">
+      <result code="">Unknown Result</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175437">
+      <result code="">Unknown Result</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="299660">Charles Cooper</conductor>
+    </result>
+    
+    <result id="175438">
+      <result code="">Unknown Result</result>
+      <band id="3988">Keynsham Brass Band</band>
+      <conductor id="300057">E. Dally</conductor>
+    </result>
+    
+    <result id="175439">
+      <result code="">Unknown Result</result>
+      <band id="10619">Midsomer Norton Silver</band>
+      <conductor id="305736">A. F. Matthews</conductor>
+    </result>
+    
+  </results>
+</contest-event>

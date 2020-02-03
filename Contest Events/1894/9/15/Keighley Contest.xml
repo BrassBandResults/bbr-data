@@ -1,0 +1,67 @@
+<contest-event id="12323">
+  <event-date date="1894-9-15">Sept. 15, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Keighley Contest</name>
+  <contest id="1244">
+    <name>Keighley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>keighley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3308">Victoria Park, Keighley</venue>
+  <notes>Promoted by Keighley Horticultural Sociery
+5 bands competed
+Prizes: £15, £7 10s, £5, £3 10s, £2</notes>
+
+  <created>April 12, 2012, 11:57 a.m.</created>
+  <last-modified>Nov. 28, 2019, 2:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98616">
+      <result code="1">1</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="303856">J. Jackson</conductor>
+      <test-piece id="2570">Mendelssohn [arr. Round]</test-piece>
+    </result>
+    
+    <result id="98617">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="307879">George Raine</conductor>
+      <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="98618">
+      <result code="3">3</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301861">Edward Gittins</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="98619">
+      <result code="4">4</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="98620">
+      <result code="5">5</result>
+      <band id="4356">Denholme</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="1841">Bellini [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,64 @@
+<contest-event id="15271">
+  <event-date date="1931-7-11">July 11, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fairford Contest (Section 1)</name>
+  <contest id="3937">
+    <name>Fairford Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="398">Fairford Contest</group>
+    <slug>fairford-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1049">The Mastersingers</test-piece>
+  </test-piece>
+
+  <venue id="1210">Fairford, Gloucestershire, England, UK</venue>
+  <notes>  Prizes  1st £26.10s.0d. and cup,  2nd £13.10s.0d. 3rd £6.
+Best horn, trombone and euphonium  -  Rothwell Temperance, best cornet - Hanwell.
+5 bands competed.
+
+  </notes>
+
+  <created>Oct. 12, 2012, 4:36 p.m.</created>
+  <last-modified>Dec. 15, 2018, 10:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118517">
+      <result code="1">1</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="309126">Nathan Sidebottom</conductor>
+    </result>
+    
+    <result id="118518">
+      <result code="2">2</result>
+      <band id="1215">Morris Motors Band</band>
+      <conductor id="311912">Sydney Wood</conductor>
+    </result>
+    
+    <result id="118519">
+      <result code="3">3</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="302440">
+      <result code="">Unknown Result</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302441">
+      <result code="">Unknown Result</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

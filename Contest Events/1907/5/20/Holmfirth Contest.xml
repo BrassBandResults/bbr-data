@@ -1,0 +1,61 @@
+<contest-event id="11317">
+  <event-date date="1907-5-20">May 20, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holmfirth Contest</name>
+  <contest id="1034">
+    <name>Holmfirth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="406">Holmfirth Contest</group>
+    <slug>holmfirth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1789">True Friendship</test-piece>
+  </test-piece>
+
+  <venue id="1306">Holmfirth, West Yorkshire, England, UK</venue>
+  <notes>1st prize £3.10s., 2nd prize £2, 3rd prize £1, 4th prize 12s.6d.
+4 bands competed</notes>
+
+  <created>March 20, 2012, 5:43 p.m.</created>
+  <last-modified>Sept. 17, 2018, 9:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93338">
+      <result code="1">1</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="303539">J. Hoyle</conductor>
+    </result>
+    
+    <result id="93339">
+      <result code="2">2</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="297725">John Belcher</conductor>
+    </result>
+    
+    <result id="93340">
+      <result code="3">3</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="299457">A. Clough</conductor>
+    </result>
+    
+    <result id="93341">
+      <result code="4">4</result>
+      <band id="4191">Hepworth Iron Works</band>
+      <conductor id="301235">H. Fieldsend</conductor>
+    </result>
+    
+    <result id="293033">
+      <result code="W">Withdrawn</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

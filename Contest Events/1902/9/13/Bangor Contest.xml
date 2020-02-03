@@ -1,0 +1,62 @@
+<contest-event id="23216">
+  <event-date date="1902-9-13">Sept. 13, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bangor Contest</name>
+  <contest id="4510">
+    <name>Bangor Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bangor-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1567">Cinq Mars [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2508">Bangor, Gwynedd, Wales, UK</venue>
+  <notes>National Eisteddfod of Wales
+5 bands competed
+</notes>
+
+  <created>Aug. 21, 2013, 3:14 p.m.</created>
+  <last-modified>July 11, 2018, 1:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170723">
+      <result code="1">1</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="170725">
+      <result code="1">1</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="170722">
+      <result code="">Unknown Result</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="170724">
+      <result code="">Unknown Result</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="170726">
+      <result code="">Unknown Result</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,70 @@
+<contest-event id="18015">
+  <event-date date="1947-6-14">June 14, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hinckley Contest (Second Section)</name>
+  <contest id="3819">
+    <name>Hinckley Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hinckley-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1687">Recollections of Mendelssohn</test-piece>
+  </test-piece>
+
+  <venue id="1771">Hinckley, Leicestershire, England, UK</venue>
+  <notes>Prizes - 1st £20 and trophy, 2nd £15, 3rd £10, 4th £5.
+Highest placed Leicester Association Band - Snibston.
+ Highest Section 3 band - Kibworth.
+Gainsborough Britannia placed 1st but disqualified for breach of rules.
+18 bands competed</notes>
+
+  <created>Feb. 7, 2013, 11:31 p.m.</created>
+  <last-modified>Feb. 13, 2019, 1:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="136040">
+      <result code="1">1</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="136041">
+      <result code="2">2</result>
+      <band id="274">William Davis Construction Group Band</band>
+      <conductor id="309062">G. Shillian</conductor>
+    </result>
+    
+    <result id="136042">
+      <result code="3">3</result>
+      <band id="4288">Nuneaton Borough</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="136043">
+      <result code="4">4</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="302992">George Hespe</conductor>
+    </result>
+    
+    <result id="136044">
+      <result code="">Unknown Result</result>
+      <band id="120">Kibworth Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="136045">
+      <result code="D">Disqualified</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

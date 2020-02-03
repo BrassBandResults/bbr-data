@@ -1,0 +1,57 @@
+<contest-event id="6873">
+  <event-date date="1860-8-27">Aug. 27, 1860<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Gardens Band Contest</name>
+  <contest id="1156">
+    <name>Sheffield Gardens Band Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>sheffield-gardens-band-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="662">Botanical Gardens, Sheffield</venue>
+  <notes>20 band entered, 11 competed
+
+Prizes: £12, £8, £5, £2</notes>
+
+  <created>July 19, 2011, 5:55 p.m.</created>
+  <last-modified>Aug. 25, 2015, 4:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="235175">
+      <result code="1">1</result>
+      <band id="2509">Chesterfield Rifle Corps Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1255">La Sonnambula [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="235176">
+      <result code="2">2</result>
+      <band id="10660">Doncaster Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="235177">
+      <result code="3">3</result>
+      <band id="18277">Rotherham Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="235178">
+      <result code="4">4</result>
+      <band id="2970">Holmfirth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

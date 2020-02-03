@@ -1,0 +1,85 @@
+<contest-event id="14758">
+  <event-date date="1931-5-26">May 26, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Huddersfield Contest </name>
+  <contest id="1869">
+    <name>Huddersfield Band of Hope Union Contest </name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="455">Huddersfield Band of Hope Union Contest</group>
+    <slug>huddersfield-contest-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2869">La Favorita</test-piece>
+  </test-piece>
+
+  <venue id="5653">Greenhead Park, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes>march contest - 1st Bentley, 2nd Hade Edge.
+9 bands competed.</notes>
+
+  <created>Sept. 18, 2012, 10:52 a.m.</created>
+  <last-modified>Dec. 13, 2018, 2:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="302301">
+      <result code="1">1</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="312007">W. Wormald</conductor>
+    </result>
+    
+    <result id="302302">
+      <result code="2">2</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="297414">S. Bamford</conductor>
+    </result>
+    
+    <result id="302303">
+      <result code="3">3</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="302304">
+      <result code="4">4</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="115857">
+      <result code="5">5</result>
+      <band id="445">Yeadon Old Band</band>
+      <conductor id="303883">Walter Jackson</conductor>
+    </result>
+    
+    <result id="302305">
+      <result code="">Unknown Result</result>
+      <band id="142">Clifton and Lightcliffe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302306">
+      <result code="">Unknown Result</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302307">
+      <result code="">Unknown Result</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302308">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

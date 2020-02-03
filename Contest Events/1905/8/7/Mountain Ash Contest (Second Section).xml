@@ -1,0 +1,65 @@
+<contest-event id="10397">
+  <event-date date="1905-8-7">Aug. 7, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mountain Ash Contest (Second Section)</name>
+  <contest id="1800">
+    <name>Mountain Ash Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mountain-ash-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1670">Gems of Cambria</test-piece>
+  </test-piece>
+
+  <venue id="1271">Mountain Ash, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>
+  1st prize £10.
+  2nd prize £7.
+  3rd prize £3.
+
+  5 bands competed.</notes>
+
+  <created>Feb. 17, 2012, 10:10 p.m.</created>
+  <last-modified>Feb. 17, 2012, 10:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="87490">
+      <result code="1">1</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="87491">
+      <result code="2">2</result>
+      <band id="6623">Penrhiw</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="87492">
+      <result code="3">3</result>
+      <band id="6595">Cwmparc</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="87493">
+      <result code="">Unknown Result</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="300719">T. Eastwood</conductor>
+    </result>
+    
+    <result id="87494">
+      <result code="">Unknown Result</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="310273">G. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

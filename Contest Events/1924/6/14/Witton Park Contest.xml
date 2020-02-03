@@ -1,0 +1,67 @@
+<contest-event id="40989">
+  <event-date date="1924-6-14">June 14, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Witton Park Contest</name>
+  <contest id="2136">
+    <name>Witton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>witton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2823">Woodland Revels</test-piece>
+  </test-piece>
+
+  <venue id="1554">Witton Park, County Durham</venue>
+  <notes>March contest - 1st St Helens, 2nd Brancepeth.
+6 bands competed.</notes>
+
+  <created>Oct. 27, 2018, 11:07 a.m.</created>
+  <last-modified>Oct. 27, 2018, 11:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297667">
+      <result code="1">1</result>
+      <band id="6689">Peases West</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="297668">
+      <result code="2">2</result>
+      <band id="6271">Butterknowle</band>
+      <conductor id="310203">J. Teasdale</conductor>
+    </result>
+    
+    <result id="297669">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="297670">
+      <result code="4">4</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="297672">
+      <result code="">Unknown Result</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297671">
+      <result code="">Unknown Result</result>
+      <band id="5103">St Helens (Bishop Auckland)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

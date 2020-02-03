@@ -1,0 +1,74 @@
+<contest-event id="42283">
+  <event-date date="1892-8-20">Aug. 20, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ardwick Contest</name>
+  <contest id="2767">
+    <name>Ardwick Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ardwick-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1825">Fallen Leaves</test-piece>
+  </test-piece>
+
+  <venue id="2119">Ardwick, Manchester</venue>
+  <notes>March contest - 1st Cliviger, 2nd M.S. and L.
+Prizes - £6 and cornet, 2nd £4 and trombone, 3rd £3, 4th £2, 5th £1.
+</notes>
+
+  <created>June 3, 2019, 9:11 a.m.</created>
+  <last-modified>Nov. 14, 2019, 8 a.m.</last-modified>
+
+  <results>
+    
+    <result id="309154">
+      <result code="1">1</result>
+      <band id="3656">St. James Gorton</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="309155">
+      <result code="2">2</result>
+      <band id="2601">Cliviger</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="309156">
+      <result code="3">3</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="309157">
+      <result code="4">4</result>
+      <band id="10383">Newton &amp; District</band>
+      <conductor id="314492">J. H. White</conductor>
+    </result>
+    
+    <result id="309158">
+      <result code="5">5</result>
+      <band id="480">Tintwistle Band</band>
+      <conductor id="309467">Whitham Smith</conductor>
+    </result>
+    
+    <result id="313730">
+      <result code="">Unknown Result</result>
+      <band id="3675">Boothfold</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309159">
+      <result code="">Unknown Result</result>
+      <band id="4064">British Railways (Gorton Works)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="18883">
+  <event-date date="1893-7-22">July 22, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Helston Contest</name>
+  <contest id="2451">
+    <name>Helston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>helston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1650">Haddon Hall</test-piece>
+  </test-piece>
+
+  <venue id="3188">Nansloe, Helston</venue>
+  <notes>Prizes: £7 and 9 guinea cornet, £5 and 7 guinea trombone, £4 and 1 guinea sheet music, £2</notes>
+
+  <created>March 5, 2013, 9:48 p.m.</created>
+  <last-modified>March 5, 2013, 9:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="141527">
+      <result code="1">1</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="141528">
+      <result code="2">2</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="141529">
+      <result code="3">3</result>
+      <band id="10615">Hayle Rifle Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="141530">
+      <result code="4">4</result>
+      <band id="7632">Hayle Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,75 @@
+<contest-event id="17270">
+  <event-date date="1883-8-4">Aug. 4, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St.George&#39;s (Bristol) Contest</name>
+  <contest id="3724">
+    <name>St.George&#39;s (Bristol) Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-george-s-bristol-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1500">Hours of Beauty</test-piece>
+  </test-piece>
+
+  <venue id="1104">St Georges, Bristol</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Dec. 23, 2012, 8:48 p.m.</created>
+  <last-modified>Nov. 1, 2017, 10:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131083">
+      <result code="1">1</result>
+      <band id="6186">Warmley Tower</band>
+      <conductor id="311198">George Webb</conductor>
+      <test-piece id="1501">Pot Pourri</test-piece>
+    </result>
+    
+    <result id="131078">
+      <result code="2">2</result>
+      <band id="6185">Greenway&#39;s Brass and Reed (Downend)</band>
+      <conductor id="308693">C. Sandells</conductor>
+      <test-piece id="1502">Notre chere Alsace</test-piece>
+    </result>
+    
+    <result id="131077">
+      <result code="3">3</result>
+      <band id="6184">Downend</band>
+      <conductor id="307817">J. Punter</conductor>
+      <test-piece id="1463">Fete Musicale</test-piece>
+    </result>
+    
+    <result id="131079">
+      <result code="W">Withdrawn</result>
+      <band id="6187">1st Gloucester Engineers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="131080">
+      <result code="W">Withdrawn</result>
+      <band id="6188">Red White and Blue Ribbon Army</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="131081">
+      <result code="W">Withdrawn</result>
+      <band id="6189">Street Good Templars</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="131082">
+      <result code="W">Withdrawn</result>
+      <band id="6190">Trafalgar Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

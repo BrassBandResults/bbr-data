@@ -1,0 +1,62 @@
+<contest-event id="25501">
+  <event-date date="1923-8-18">Aug. 18, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gainsborough Contest</name>
+  <contest id="1624">
+    <name>Gainsborough Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gainsborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="880">Mirella [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1880">Gainsborough</venue>
+  <notes>Promoted by Gainsborough Britannia Ironworks Band
+
+March: 1. Hickleton, 2. Ruston&#39;s</notes>
+
+  <created>Dec. 9, 2013, 10:02 p.m.</created>
+  <last-modified>Dec. 9, 2013, 10:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185134">
+      <result code="1">1</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185135">
+      <result code="2">2</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185133">
+      <result code="3">3</result>
+      <band id="578">Kingsway Printers Cleethorpes</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185136">
+      <result code="4">4</result>
+      <band id="8158">Lincoln Ruston&#39;s Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185137">
+      <result code="">Unknown Result</result>
+      <band id="2626">Scunthorpe Borough British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

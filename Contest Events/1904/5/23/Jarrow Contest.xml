@@ -1,0 +1,94 @@
+<contest-event id="23280">
+  <event-date date="1904-5-23">May 23, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Jarrow Contest</name>
+  <contest id="1860">
+    <name>Jarrow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="221">Jarrow Contest</group>
+    <slug>jarrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2031">Memories of Mendelssohn</test-piece>
+  </test-piece>
+
+  <venue id="3909">Recreation Ground, Jarrow, County Durham</venue>
+  <notes>Promoted by Jarrow Borough Band
+
+1st Section contest
+
+Open March contest: 1. Cockerton, 2. Heworth, 3. Spencer&#39;s</notes>
+
+  <created>Aug. 25, 2013, 10:54 p.m.</created>
+  <last-modified>Aug. 25, 2013, 11:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171170">
+      <result code="1">1</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171171">
+      <result code="2">2</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171172">
+      <result code="3">3</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171173">
+      <result code="4">4</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171175">
+      <result code="">Unknown Result</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171174">
+      <result code="">Unknown Result</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171176">
+      <result code="">Unknown Result</result>
+      <band id="9525">Linton Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274359">
+      <result code="W">Withdrawn</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274358">
+      <result code="W">Withdrawn</result>
+      <band id="6632">Browney Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274357">
+      <result code="W">Withdrawn</result>
+      <band id="6924">South Shields Garibaldi</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

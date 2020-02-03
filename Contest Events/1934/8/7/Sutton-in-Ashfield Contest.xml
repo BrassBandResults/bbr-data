@@ -1,0 +1,62 @@
+<contest-event id="26058">
+  <event-date date="1934-8-7">Aug. 7, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sutton-in-Ashfield Contest</name>
+  <contest id="3129">
+    <name>Sutton-in-Ashfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sutton-in-ashfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="2422">Sutton-in-Ashfield, Nottinghamshire</venue>
+  <notes>March contest - 1st Ripley, 2nd Kirkby Old.
+Prizes - 1st £8 and cup, 2nd £4, 3rd £2, 4th £1.
+5 bands competed.</notes>
+
+  <created>Jan. 22, 2014, 2:24 p.m.</created>
+  <last-modified>Jan. 10, 2017, 9:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="188658">
+      <result code="1">1</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="308663">W. J. Saint</conductor>
+    </result>
+    
+    <result id="267028">
+      <result code="2">2</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="300725">Tom Eastwood</conductor>
+    </result>
+    
+    <result id="267029">
+      <result code="3">3</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="299660">Charles Cooper</conductor>
+    </result>
+    
+    <result id="267030">
+      <result code="4">4</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="309450">Samuel Smith</conductor>
+    </result>
+    
+    <result id="267031">
+      <result code="5">5</result>
+      <band id="8287">Hardwick Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

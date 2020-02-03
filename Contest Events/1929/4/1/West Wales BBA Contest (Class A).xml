@@ -1,0 +1,78 @@
+<contest-event id="24251">
+  <event-date date="1929-4-1">April 1, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2355">Egmont [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="7108">Pavilion, Station Road, Llanelly, Carmarthenshire</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Oct. 3, 2013, 7:46 a.m.</created>
+  <last-modified>May 6, 2019, 1:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="177008">
+      <result code="1">1</result>
+      <band id="12297">Burry Port Town</band>
+      <conductor id="304063">David John</conductor>
+    </result>
+    
+    <result id="177009">
+      <result code="2">2</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="177010">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304248">Mal Jones</conductor>
+    </result>
+    
+    <result id="177014">
+      <result code="">Unknown Result</result>
+      <band id="8405">Cwmavon</band>
+      <conductor id="307864">James Radcliffe</conductor>
+    </result>
+    
+    <result id="177011">
+      <result code="">Unknown Result</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="177015">
+      <result code="">Unknown Result</result>
+      <band id="7072">Gorseinon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177013">
+      <result code="">Unknown Result</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="299098">A. Casey</conductor>
+    </result>
+    
+    <result id="177012">
+      <result code="">Unknown Result</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="308018">H. Rees</conductor>
+    </result>
+    
+  </results>
+</contest-event>

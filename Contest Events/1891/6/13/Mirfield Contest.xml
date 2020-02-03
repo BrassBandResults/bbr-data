@@ -1,0 +1,105 @@
+<contest-event id="17961">
+  <event-date date="1891-6-13">June 13, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mirfield Contest</name>
+  <contest id="1767">
+    <name>Mirfield Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mirfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="963">Linda di Chamounix [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3007">Football Field, Mirfield, West Yorkshire, England, UK</venue>
+  <notes>1st annual contest promoted by Mirfield Rifle Band.
+Prizes - 1st £14, 2nd £8, 3rd £5, 4th £3, 5th £1.
+Quickstep: 1st(£2) Dewsbury Old, 2nd(£1) Whitley.
+12 bands competed.</notes>
+
+  <created>Feb. 6, 2013, 6:05 p.m.</created>
+  <last-modified>Feb. 2, 2018, 5:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135697">
+      <result code="1">1</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="135698">
+      <result code="2">2</result>
+      <band id="3608">Dewsbury Temperance</band>
+      <conductor id="310200">H. Teale</conductor>
+    </result>
+    
+    <result id="135699">
+      <result code="3">3</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="135700">
+      <result code="4">4</result>
+      <band id="2573">Norland</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="135701">
+      <result code="5">5</result>
+      <band id="4404">Brighouse Subscription</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="284288">
+      <result code="">Unknown Result</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135702">
+      <result code="">Unknown Result</result>
+      <band id="11288">Whitley Lower</band>
+      <conductor id="317404">T. Ramsden</conductor>
+    </result>
+    
+    <result id="284289">
+      <result code="">Unknown Result</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="284290">
+      <result code="">Unknown Result</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="284291">
+      <result code="">Unknown Result</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="284292">
+      <result code="">Unknown Result</result>
+      <band id="3378">Batley Victoria</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="284293">
+      <result code="">Unknown Result</result>
+      <band id="3563">Rishworth Subscription</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

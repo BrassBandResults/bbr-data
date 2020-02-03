@@ -1,0 +1,116 @@
+<contest-event id="22791">
+  <event-date date="1900-8-11">Aug. 11, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rochdale Contest</name>
+  <contest id="798">
+    <name>Rochdale Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="148">Rochdale Annual Brass Band Festival</group>
+    <slug>rochdale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3801">King&#39;s Road, Rochdale</venue>
+  <notes>March contest: 1. Irwell, 2. Shaw.
+3rd annual contest
+12 bands competed.</notes>
+
+  <created>Aug. 13, 2013, 10:15 p.m.</created>
+  <last-modified>June 16, 2018, 4:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168305">
+      <result code="1">1</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168312">
+      <result code="2">2</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="168308">
+      <result code="3">3</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168303">
+      <result code="4">4</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="168311">
+      <result code="5">5</result>
+      <band id="2573">Norland</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="168304">
+      <result code="">Unknown Result</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="168307">
+      <result code="">Unknown Result</result>
+      <band id="5589">Millgate</band>
+      <conductor id="300643">Fred Durham</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="168302">
+      <result code="">Unknown Result</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="168310">
+      <result code="">Unknown Result</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="168309">
+      <result code="">Unknown Result</result>
+      <band id="3589">Rhodes Bleach Works</band>
+      <conductor id="314492">J. H. White</conductor>
+      <test-piece id="2565">Betley</test-piece>
+    </result>
+    
+    <result id="168313">
+      <result code="">Unknown Result</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168306">
+      <result code="">Unknown Result</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

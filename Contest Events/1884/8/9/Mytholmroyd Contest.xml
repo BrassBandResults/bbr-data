@@ -1,0 +1,73 @@
+<contest-event id="17383">
+  <event-date date="1884-8-9">Aug. 9, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mytholmroyd Contest</name>
+  <contest id="3236">
+    <name>Mytholmroyd Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mytholmroyd</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2482">Mytholmroyd, West Yorkshire, England, UK</venue>
+  <notes>Prizes: £10, £5, £2, £1
+Mytholmroyd Flower Show and Sports.
+5 bands competed.</notes>
+
+  <created>Dec. 28, 2012, 6:48 p.m.</created>
+  <last-modified>May 6, 2019, 9:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="131897">
+      <result code="1">1</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="309166">James Simpson</conductor>
+      <test-piece id="5172">No. 1</test-piece>
+    </result>
+    
+    <result id="131896">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="1517">Rosalind</test-piece>
+    </result>
+    
+    <result id="131895">
+      <result code="3">3</result>
+      <band id="2573">Norland</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+      <test-piece id="1514">Jeanette</test-piece>
+    </result>
+    
+    <result id="281500">
+      <result code="4">4</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="307879">George Raine</conductor>
+      <test-piece id="1517">Rosalind</test-piece>
+    </result>
+    
+    <result id="131898">
+      <result code="5">5</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="302723">George Hartley</conductor>
+      <test-piece id="1500">Hours of Beauty</test-piece>
+    </result>
+    
+    <result id="282541">
+      <result code="W">Withdrawn</result>
+      <band id="18129">Sowerby Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

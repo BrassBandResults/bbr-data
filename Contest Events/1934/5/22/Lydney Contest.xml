@@ -1,0 +1,62 @@
+<contest-event id="27005">
+  <event-date date="1934-5-22">May 22, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest</name>
+  <contest id="2491">
+    <name>Lydney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lydney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4601">Bathurst Park, Lydney, Gloucestershire</venue>
+  <notes>Choice of test pieces: &quot;Echoes of Spring&quot; or &quot;A Souvenir of Shakespeare&quot;
+March: 1. Taff Merthyr, 2. Lydney Town.
+5 bands competed</notes>
+
+  <created>April 8, 2014, 7:38 p.m.</created>
+  <last-modified>Jan. 2, 2017, 9:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194978">
+      <result code="1">1</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="307395">Herbert S. Perry</conductor>
+    </result>
+    
+    <result id="194979">
+      <result code="2">2</result>
+      <band id="8976">Taff Merthyr Colliery</band>
+      <conductor id="311645">Joseph Williams</conductor>
+    </result>
+    
+    <result id="194980">
+      <result code="3">3</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="194981">
+      <result code="4">4</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="266686">
+      <result code="5">5</result>
+      <band id="2428">Abertysswg Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

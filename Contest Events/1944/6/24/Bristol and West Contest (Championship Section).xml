@@ -1,0 +1,68 @@
+<contest-event id="24855">
+  <event-date date="1944-6-24">June 24, 1944<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bristol and West Contest (Championship Section)</name>
+  <contest id="3726">
+    <name>Bristol and West Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="457">Bristol and West Contest</group>
+    <slug>bristol-and-west-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="531">Academic Festival Overture</test-piece>
+  </test-piece>
+
+  <venue id="4204">Filton, Gloucestershire, England, UK</venue>
+  <notes>Prizes: £50, £20, £10
+
+March: 1. Fairey, 2. B.A.C.</notes>
+
+  <created>Nov. 4, 2013, 10:13 a.m.</created>
+  <last-modified>Jan. 23, 2015, 11:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181569">
+      <result code="1">1</result>
+      <band id="6">Fairey Band</band>
+      <conductor id="306423">Harry Mortimer</conductor>
+    </result>
+    
+    <result id="181570">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="305152">Reg Little</conductor>
+    </result>
+    
+    <result id="181571">
+      <result code="3">3</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="307395">Herbert S. Perry</conductor>
+    </result>
+    
+    <result id="181572">
+      <result code="4">4</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="219647">
+      <result code="W">Withdrawn</result>
+      <band id="11605">Bristol Aircraft Company (Accrington Works)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="219648">
+      <result code="W">Withdrawn</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,91 @@
+<contest-event id="12461">
+  <event-date date="1895-5-25">May 25, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Boothfold Contest</name>
+  <contest id="2352">
+    <name>Boothfold Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>boothfold-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1872">Aurora [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1959">Boothfold, Lancashire, England, UK</venue>
+  <notes>March contest: 1. Rawtenstall, 2. Wingates
+10 bands competed</notes>
+
+  <created>April 14, 2012, 9:05 p.m.</created>
+  <last-modified>June 17, 2019, 7:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99590">
+      <result code="1">1</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99591">
+      <result code="2">2</result>
+      <band id="8281">Bradford Prize</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99592">
+      <result code="3">3</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99593">
+      <result code="4">4</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99594">
+      <result code="5">5</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="310253">
+      <result code="">Unknown Result</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="319339">J. R. Fielding</conductor>
+    </result>
+    
+    <result id="99596">
+      <result code="">Unknown Result</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99597">
+      <result code="">Unknown Result</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99598">
+      <result code="">Unknown Result</result>
+      <band id="5589">Millgate</band>
+      <conductor id="313280">J. Howarth</conductor>
+    </result>
+    
+    <result id="99599">
+      <result code="">Unknown Result</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

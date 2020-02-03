@@ -1,0 +1,61 @@
+<contest-event id="24655">
+  <event-date date="1948-7-3">July 3, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Seaton Contest</name>
+  <contest id="3821">
+    <name>Seaton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>seaton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3023">Seaton, Cumbria, England, UK</venue>
+  <notes>Hymn tune (own choice) - 1st Aspatria, 2nd Clifton.
+8 bands competed.</notes>
+
+  <created>Oct. 23, 2013, 9:32 a.m.</created>
+  <last-modified>Feb. 19, 2019, 3:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255927">
+      <result code="1">1</result>
+      <band id="13929">Clifton (Penrith)</band>
+      <conductor id="309279">I. Small</conductor>
+    </result>
+    
+    <result id="255924">
+      <result code="2">2</result>
+      <band id="2588">Maryport Albion</band>
+      <conductor id="297752">W. Bell</conductor>
+    </result>
+    
+    <result id="255925">
+      <result code="3">3</result>
+      <band id="7505">Aspatria</band>
+      <conductor id="297234">W. J. Atkinson</conductor>
+    </result>
+    
+    <result id="255926">
+      <result code="4">4</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="311513">L. Wigham</conductor>
+    </result>
+    
+    <result id="180248">
+      <result code="">Unknown Result</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="302703">Bill Hart</conductor>
+    </result>
+    
+  </results>
+</contest-event>

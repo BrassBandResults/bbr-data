@@ -1,0 +1,67 @@
+<contest-event id="10719">
+  <event-date date="1906-6-4">June 4, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nenthead Contest</name>
+  <contest id="2091">
+    <name>Nenthead Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>nenthead-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2433">John O&#39;Gaunt [1900s]</test-piece>
+  </test-piece>
+
+  <venue id="1523">Nenthead, Cumbria, England, UK</venue>
+  <notes>  1st prize £9.
+  2nd prize £4.10s.
+  3rd prize £2.
+  4th prize £1.
+
+  March contest 1st Hexham C.of E. Temperance, 2nd Stanhope.
+
+  5 bands competed.</notes>
+
+  <created>Feb. 28, 2012, 2:48 p.m.</created>
+  <last-modified>April 19, 2013, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="89553">
+      <result code="1">1</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="306214">J. Mitford</conductor>
+    </result>
+    
+    <result id="89554">
+      <result code="2">2</result>
+      <band id="7042">Hexham Church of England Temperance</band>
+      <conductor id="299105">H. Cassel Jnr</conductor>
+    </result>
+    
+    <result id="89555">
+      <result code="3">3</result>
+      <band id="7232">South Tyne</band>
+      <conductor id="311580">F. Willey</conductor>
+    </result>
+    
+    <result id="89556">
+      <result code="4">4</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="310998">W. Walton</conductor>
+    </result>
+    
+    <result id="89557">
+      <result code="5">5</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

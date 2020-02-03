@@ -1,0 +1,81 @@
+<contest-event id="22476">
+  <event-date date="1899-8-5">Aug. 5, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Helens Contest</name>
+  <contest id="2362">
+    <name>St. Helens Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2563">Beautiful Switzerland</test-piece>
+  </test-piece>
+
+  <venue id="6873">Sutton Road, St. Helens, Lancashire</venue>
+  <notes>
+
+March contest - 1st Earlstown, 2nd Chadderton.
+8 bands competed.</notes>
+
+  <created>Aug. 9, 2013, 2:20 p.m.</created>
+  <last-modified>June 11, 2018, 7:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="289523">
+      <result code="1">1</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="289520">
+      <result code="2">2</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="289518">
+      <result code="3">3</result>
+      <band id="6995">Parr St Peter&#39;s</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="289521">
+      <result code="4">4</result>
+      <band id="5190">Withnell Fold</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="289519">
+      <result code="">Unknown Result</result>
+      <band id="3692">St. Annes on the Sea</band>
+      <conductor id="305094">T. Lightbourne</conductor>
+    </result>
+    
+    <result id="289525">
+      <result code="">Unknown Result</result>
+      <band id="6996">Widnes St. Mary&#39;s</band>
+      <conductor id="307996">J. Redmond</conductor>
+    </result>
+    
+    <result id="289522">
+      <result code="">Unknown Result</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="289524">
+      <result code="">Unknown Result</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,74 @@
+<contest-event id="28008">
+  <event-date date="1908-12-5">Dec. 5, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2197">The Amber Witch [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="6028">Tower Circus, Blackpool, Lancashire, England, UK</venue>
+  <notes>2nd annual Fylde BBA contest.
+March: 1. Blackpool Lifeboat, 2. Freckleton Subs.
+7 bands competed.</notes>
+
+  <created>May 29, 2014, 4:16 p.m.</created>
+  <last-modified>Sept. 24, 2018, 10:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="200664">
+      <result code="1">1</result>
+      <band id="4621">Kirkham Subscription</band>
+      <conductor id="298242">J. H. Boulton</conductor>
+    </result>
+    
+    <result id="200665">
+      <result code="2">2</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="307949">Peter Rawstrone</conductor>
+    </result>
+    
+    <result id="200666">
+      <result code="3">3</result>
+      <band id="9498">Blackpool South Shore Subscription</band>
+      <conductor id="310194">W. E. Taylor</conductor>
+    </result>
+    
+    <result id="293820">
+      <result code="">Unknown Result</result>
+      <band id="3692">St. Annes on the Sea</band>
+      <conductor id="305094">T. Lightbourne</conductor>
+    </result>
+    
+    <result id="200667">
+      <result code="">Unknown Result</result>
+      <band id="7580">Blackpool Lifeboat</band>
+      <conductor id="312080">T. Wylie</conductor>
+    </result>
+    
+    <result id="293821">
+      <result code="">Unknown Result</result>
+      <band id="10903">Poulton-Le-Fylde Band</band>
+      <conductor id="308310">T. E. Roberts</conductor>
+    </result>
+    
+    <result id="293822">
+      <result code="">Unknown Result</result>
+      <band id="3224">Blackpool County Borough AFS</band>
+      <conductor id="309658">D. Stansfield</conductor>
+    </result>
+    
+  </results>
+</contest-event>

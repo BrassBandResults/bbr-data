@@ -1,0 +1,61 @@
+<contest-event id="41223">
+  <event-date date="1926-5-29">May 29, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leigh Contest (Local Section)</name>
+  <contest id="6435">
+    <name>Leigh Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>leigh-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="6631">Athletic Ground, Charles Street, Leigh, Lancashire</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £10, 3rd £5, 4th £2.
+5 bands competed.</notes>
+
+  <created>Nov. 9, 2018, 2:50 p.m.</created>
+  <last-modified>Nov. 9, 2018, 2:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299499">
+      <result code="1">1</result>
+      <band id="1650">Cadishead Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="299500">
+      <result code="2">2</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="299501">
+      <result code="3">3</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="301067">Abram Fairclough</conductor>
+    </result>
+    
+    <result id="299502">
+      <result code="4">4</result>
+      <band id="4074">Lowton Silver</band>
+      <conductor id="301067">Abram Fairclough</conductor>
+    </result>
+    
+    <result id="299503">
+      <result code="5">5</result>
+      <band id="1499">Bedford (Leigh) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

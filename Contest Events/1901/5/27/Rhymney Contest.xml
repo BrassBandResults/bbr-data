@@ -1,0 +1,67 @@
+<contest-event id="39982">
+  <event-date date="1901-5-27">May 27, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>Prizes - 1st £9, 2nd £6, 3rd £3.
+6 bands competed.</notes>
+
+  <created>June 20, 2018, 10:25 p.m.</created>
+  <last-modified>June 20, 2018, 10:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="290609">
+      <result code="1">1</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="300719">T. Eastwood</conductor>
+    </result>
+    
+    <result id="290607">
+      <result code="2">2</result>
+      <band id="8031">Treharris</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="290605">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297327">J. Bailey</conductor>
+    </result>
+    
+    <result id="290604">
+      <result code="">Unknown Result</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="290606">
+      <result code="">Unknown Result</result>
+      <band id="7498">Dowlais Town</band>
+      <conductor id="304904">W. Layman</conductor>
+    </result>
+    
+    <result id="290608">
+      <result code="">Unknown Result</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="311617">Geoff Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

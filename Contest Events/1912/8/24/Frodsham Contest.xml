@@ -1,0 +1,73 @@
+<contest-event id="15521">
+  <event-date date="1912-8-24">Aug. 24, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Frodsham Contest</name>
+  <contest id="3319">
+    <name>Frodsham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>frodsham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2344">Songs of Old England</test-piece>
+  </test-piece>
+
+  <venue id="2552">Frodsham, Cheshire</venue>
+  <notes>March contest 1st Nutgrove, 2nd Glazebury.
+7 bands competed.</notes>
+
+  <created>Oct. 22, 2012, 6:29 p.m.</created>
+  <last-modified>Sept. 28, 2018, 7:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="120175">
+      <result code="1">1</result>
+      <band id="1448">Glazebury</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="120176">
+      <result code="2">2</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="315316">John Hill</conductor>
+    </result>
+    
+    <result id="120177">
+      <result code="3">3</result>
+      <band id="6762">Aigburth Subscription</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="120178">
+      <result code="4">4</result>
+      <band id="4620">Kirkdale Public</band>
+      <conductor id="307783">Edwin Pryce</conductor>
+    </result>
+    
+    <result id="120179">
+      <result code="">Unknown Result</result>
+      <band id="8376">Birkenhead L. and N.W</band>
+      <conductor id="309568">J. T. Spencer</conductor>
+    </result>
+    
+    <result id="120180">
+      <result code="">Unknown Result</result>
+      <band id="7091">Preston Brook</band>
+      <conductor id="309350">E. Smith</conductor>
+    </result>
+    
+    <result id="120181">
+      <result code="">Unknown Result</result>
+      <band id="4137">Ellesmere Port Public</band>
+      <conductor id="298626">T. Brown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

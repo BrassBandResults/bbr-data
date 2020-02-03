@@ -1,0 +1,50 @@
+<contest-event id="23385">
+  <event-date date="1904-7-14">July 14, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chacewater Contest</name>
+  <contest id="4550">
+    <name>Chacewater Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chacewater-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2602">Songs of Schubert</test-piece>
+  </test-piece>
+
+  <venue id="3933">Chacewater, Cornwall, England, UK</venue>
+  <notes>Chacewater Show
+
+Prizes: £12, £8, £4</notes>
+
+  <created>Sept. 2, 2013, 8:01 p.m.</created>
+  <last-modified>May 17, 2017, 10:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171858">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="310737">William Uren</conductor>
+    </result>
+    
+    <result id="171860">
+      <result code="2">2</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171859">
+      <result code="3">3</result>
+      <band id="10533">Perranporth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

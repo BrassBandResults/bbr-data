@@ -1,0 +1,72 @@
+<contest-event id="22949">
+  <event-date date="1901-8-3">Aug. 3, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hyde Contest</name>
+  <contest id="3235">
+    <name>Hyde Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hyde</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="3831">Hyde Park, Hyde, Cheshire</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Aug. 15, 2013, 8:21 p.m.</created>
+  <last-modified>June 26, 2018, 9:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169181">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="169182">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="299065">John Frederick Carter</conductor>
+    </result>
+    
+    <result id="169183">
+      <result code="3">3</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="169184">
+      <result code="4">4</result>
+      <band id="7616">Hyde Borough</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="290864">
+      <result code="">Unknown Result</result>
+      <band id="13499">Droylsden Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290863">
+      <result code="">Unknown Result</result>
+      <band id="7886">Newton Moor</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290862">
+      <result code="">Unknown Result</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

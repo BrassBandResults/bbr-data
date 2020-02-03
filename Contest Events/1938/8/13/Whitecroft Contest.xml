@@ -1,0 +1,86 @@
+<contest-event id="26124">
+  <event-date date="1938-8-13">Aug. 13, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitecroft Contest</name>
+  <contest id="4141">
+    <name>Whitecroft Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitecroft-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="789">Wayside Scenes</test-piece>
+  </test-piece>
+
+  <venue id="3417">Whitecroft, Gloucestershire</venue>
+  <notes>  Prizes - 1st £6 and cup, 2nd £3, 3rd £1.
+  March contest - 1st Lydney.
+  9 bands competed.</notes>
+
+  <created>Jan. 24, 2014, 11:19 a.m.</created>
+  <last-modified>Jan. 24, 2014, 11:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189078">
+      <result code="1">1</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="189079">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="189080">
+      <result code="3">3</result>
+      <band id="11872">Lydbrook Onward Band</band>
+      <conductor id="299289">Maynard Childs</conductor>
+    </result>
+    
+    <result id="189081">
+      <result code="4">4</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="305996">C. F. Meek</conductor>
+    </result>
+    
+    <result id="189085">
+      <result code="">Unknown Result</result>
+      <band id="11799">Brimscombe British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189082">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="303212">R. O. Hodges</conductor>
+    </result>
+    
+    <result id="189086">
+      <result code="">Unknown Result</result>
+      <band id="2031">Nailsworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189084">
+      <result code="">Unknown Result</result>
+      <band id="11327">Two Bridges</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189083">
+      <result code="">Unknown Result</result>
+      <band id="540">Wotton and District Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

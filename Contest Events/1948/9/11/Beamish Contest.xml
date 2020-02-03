@@ -1,0 +1,58 @@
+<contest-event id="28654">
+  <event-date date="1948-9-11">Sept. 11, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Beamish Contest</name>
+  <contest id="1841">
+    <name>Beamish Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>beamish-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1293">Beamish, County Durham, England, UK</venue>
+  <notes>Promoted by Beamish Colliery Band
+
+10 bands competed
+
+March: 1. Sunderland Transport</notes>
+
+  <created>June 19, 2014, 9:58 a.m.</created>
+  <last-modified>June 1, 2016, 5:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="204670">
+      <result code="1">1</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="305498">Joseph Mains</conductor>
+    </result>
+    
+    <result id="255969">
+      <result code="2">2</result>
+      <band id="8758">Cambois Workmen&#39;s</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+    <result id="256366">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="306092">H. Middlemas</conductor>
+    </result>
+    
+    <result id="204671">
+      <result code="4">4</result>
+      <band id="2628">Sunderland Borough Band</band>
+      <conductor id="298672">T. T. Bryce</conductor>
+    </result>
+    
+  </results>
+</contest-event>

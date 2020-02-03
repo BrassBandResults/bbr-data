@@ -1,0 +1,49 @@
+<contest-event id="19620">
+  <event-date date="1938-9-3">Sept. 3, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reepham Contest (Class B)</name>
+  <contest id="4088">
+    <name>Reepham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>reepham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3326">Reepham, Norfolk</venue>
+  <notes>
+  March contest - 1st Hindolveston, 2nd Isleham.</notes>
+
+  <created>March 24, 2013, 10:40 p.m.</created>
+  <last-modified>Nov. 20, 2013, 12:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="183562">
+      <result code="1">1</result>
+      <band id="10644">Hindolveston</band>
+      <conductor id="308570">Edgar Ruffles</conductor>
+    </result>
+    
+    <result id="183563">
+      <result code="2">2</result>
+      <band id="10670">Isleham Jubilee</band>
+      <conductor id="297050">R. E. Andus</conductor>
+    </result>
+    
+    <result id="183564">
+      <result code="3">3</result>
+      <band id="3891">Lakenheath Silver Band</band>
+      <conductor id="299524">C. C. Coleman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

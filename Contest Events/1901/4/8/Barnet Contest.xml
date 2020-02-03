@@ -1,0 +1,101 @@
+<contest-event id="38466">
+  <event-date date="1901-4-8">April 8, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnet Contest</name>
+  <contest id="2142">
+    <name>Barnet Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnet-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1558">Barnet, Borough of Barnet, Greater London, England, UK</venue>
+  <notes>10 bands competed
+March contest: 1. Luton, 2. Northfleet</notes>
+
+  <created>July 18, 2017, 11:48 a.m.</created>
+  <last-modified>June 20, 2018, 11:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="281921">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="281922">
+      <result code="2">2</result>
+      <band id="7771">Northfleet Temperance</band>
+      <conductor id="303861">J. Jackson</conductor>
+      <test-piece id="1174">Crispino [arr. Round]</test-piece>
+    </result>
+    
+    <result id="290474">
+      <result code="3">3</result>
+      <band id="622">Watford</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+      <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="278247">
+      <result code="4">4</result>
+      <band id="4799">New Barnet</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="290477">
+      <result code="5">5</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="290479">
+      <result code="6">6</result>
+      <band id="8178">Walthamstow Town Silver</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="290475">
+      <result code="">Unknown Result</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="290476">
+      <result code="">Unknown Result</result>
+      <band id="6871">Ilford Horns Temperance</band>
+      <conductor id="311781">R. Wilson</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="290478">
+      <result code="">Unknown Result</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="304907">W. Layzell</conductor>
+      <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="290480">
+      <result code="">Unknown Result</result>
+      <band id="10618">London Silver</band>
+      <conductor id="299707">Sam Cope</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

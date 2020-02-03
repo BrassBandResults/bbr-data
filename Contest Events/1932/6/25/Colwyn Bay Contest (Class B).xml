@@ -1,0 +1,55 @@
+<contest-event id="23811">
+  <event-date date="1932-6-25">June 25, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest (Class B)</name>
+  <contest id="4608">
+    <name>Colwyn Bay Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="6355">Eirias Park, Colwyn Bay, North Wales</venue>
+  <notes>Prizes - 1st £12, 2nd £8, 3rd £4.
+  4 bands competed.</notes>
+
+  <created>Sept. 13, 2013, 7:30 a.m.</created>
+  <last-modified>Dec. 7, 2016, 2:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="173860">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="297781">Charles Bennett</conductor>
+    </result>
+    
+    <result id="173861">
+      <result code="2">2</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="302916">Andrew Henderson</conductor>
+    </result>
+    
+    <result id="173862">
+      <result code="3">3</result>
+      <band id="6533">Carnarvon</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="173863">
+      <result code="4">4</result>
+      <band id="3434">Machno Vale Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

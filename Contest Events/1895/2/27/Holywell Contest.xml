@@ -1,0 +1,87 @@
+<contest-event id="12342">
+  <event-date date="1895-2-27">Feb. 27, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holywell Contest</name>
+  <contest id="2435">
+    <name>Holywell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>holywell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1670">Gems of Cambria</test-piece>
+  </test-piece>
+
+  <venue id="1824">Assembly Rooms, Holywell</venue>
+  <notes>1st prize: 10 guineas.
+Believed Oak Alyn later disqualified.
+March contest - tie between St Mary&#39;s and Wrexham.
+9 bands competed</notes>
+
+  <created>April 12, 2012, 7:35 p.m.</created>
+  <last-modified>June 16, 2019, 10:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98756">
+      <result code="1">1</result>
+      <band id="6996">Widnes St. Mary&#39;s</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="98757">
+      <result code="2">2</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="98758">
+      <result code="3">3</result>
+      <band id="7613">Wrexham Borough</band>
+      <conductor id="310643">George Turner</conductor>
+    </result>
+    
+    <result id="98764">
+      <result code="">Unknown Result</result>
+      <band id="4780">Colwyn Bay</band>
+      <conductor id="304201">Edwin Jones</conductor>
+    </result>
+    
+    <result id="98759">
+      <result code="">Unknown Result</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="98760">
+      <result code="">Unknown Result</result>
+      <band id="7778">Llanerchymor</band>
+      <conductor id="303617">Thomas Hughes</conductor>
+    </result>
+    
+    <result id="98761">
+      <result code="">Unknown Result</result>
+      <band id="4509">Voel Gaer</band>
+      <conductor id="304242">L. P. Jones</conductor>
+    </result>
+    
+    <result id="98762">
+      <result code="">Unknown Result</result>
+      <band id="671">Holywell Band</band>
+      <conductor id="316244">C.S. Jones</conductor>
+    </result>
+    
+    <result id="98763">
+      <result code="">Unknown Result</result>
+      <band id="7841">Penrhyn Side</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

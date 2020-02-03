@@ -1,0 +1,60 @@
+<contest-event id="39773">
+  <event-date date="1910-5-16">May 16, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ellesmere Contest</name>
+  <contest id="6037">
+    <name>Ellesmere Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ellesmere-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1280">A Continental Tour</test-piece>
+  </test-piece>
+
+  <venue id="6238">Ellesmere, Shropshire</venue>
+  <notes>Prizes - 1st £12, 2nd £6, 3rd £3.
+March contest - 1st(£1) Biddulph, 2nd(10s.) Birkenhead.
+4 bands competed.</notes>
+
+  <created>May 30, 2018, 7:43 p.m.</created>
+  <last-modified>June 7, 2018, 8:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288596">
+      <result code="1">1</result>
+      <band id="2685">Birkenhead Borough</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1280">A Continental Tour</test-piece>
+    </result>
+    
+    <result id="288598">
+      <result code="2">2</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1280">A Continental Tour</test-piece>
+    </result>
+    
+    <result id="288597">
+      <result code="3">3</result>
+      <band id="9791">Whixall</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="5576">An American Tour</test-piece>
+    </result>
+    
+    <result id="288595">
+      <result code="4">4</result>
+      <band id="17096">Goodwin&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="5576">An American Tour</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

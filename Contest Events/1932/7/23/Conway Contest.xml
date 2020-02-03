@@ -1,0 +1,63 @@
+<contest-event id="23365">
+  <event-date date="1932-7-23">July 23, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Conway Contest</name>
+  <contest id="2545">
+    <name>Conway Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>conway-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1016">The Spirit of Youth</test-piece>
+  </test-piece>
+
+  <venue id="1897">Conway, North Wales</venue>
+  <notes>Prizes - 1st £12.12s. and cup, 2nd £6.6s., 3rd £3.3s.
+  Hymn tune contest - 1st(£1.1s.) Rhos Silver.
+  March Contest - 1st Rhos Silver.
+  5 bands competed.</notes>
+
+  <created>Sept. 1, 2013, 2:29 p.m.</created>
+  <last-modified>Dec. 10, 2016, 1:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171678">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="297781">Charles Bennett</conductor>
+    </result>
+    
+    <result id="171679">
+      <result code="2">2</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="302916">Andrew Henderson</conductor>
+    </result>
+    
+    <result id="171680">
+      <result code="3">3</result>
+      <band id="667">Conwy Town</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="171682">
+      <result code="">Unknown Result</result>
+      <band id="9661">Bethesda</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171681">
+      <result code="">Unknown Result</result>
+      <band id="3434">Machno Vale Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

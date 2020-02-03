@@ -1,0 +1,66 @@
+<contest-event id="18220">
+  <event-date date="1892-8-1">Aug. 1, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham Contest</name>
+  <contest id="1901">
+    <name>Durham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>durham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1574">Mozart [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3025">Wharton Park, Durham</venue>
+  <notes>5 bands competed
+
+Quickstep: 1. West Hartlepool Borough, 2. Whitworth</notes>
+
+  <created>Feb. 14, 2013, 10:17 a.m.</created>
+  <last-modified>Feb. 14, 2013, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="137307">
+      <result code="1">1</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="303865">Joseph Jackson</conductor>
+      <test-piece id="2246">Le Prophete [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="137304">
+      <result code="2">2</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="1005">L&#39;Etoile du Nord [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="137305">
+      <result code="3">3</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137303">
+      <result code="4">4</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="137306">
+      <result code="5">5</result>
+      <band id="6215">Darlington Sons of Temperance</band>
+      <conductor id="303251">J. A. Hoggett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

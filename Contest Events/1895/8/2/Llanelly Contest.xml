@@ -1,0 +1,105 @@
+<contest-event id="12566">
+  <event-date date="1895-8-2">Aug. 2, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanelly Contest</name>
+  <contest id="2607">
+    <name>Llanelly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="430">Llanelly Contest</group>
+    <slug>llanelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1860">Schubert [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2458">Llanelli, Carmarthenshire, Wales, UK</venue>
+  <notes>16 bands entered
+Prizes: £40 and cornet, £30, £20, £10
+Trombone solo contest: 1. F. Hanney, Morriston
+6 bands competed</notes>
+
+  <created>April 16, 2012, 5:46 p.m.</created>
+  <last-modified>June 24, 2019, 6:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100330">
+      <result code="1">1</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hannay</conductor>
+    </result>
+    
+    <result id="100331">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="100332">
+      <result code="3">3</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="100333">
+      <result code="4">4</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="100334">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="312740">R. Dawson</conductor>
+    </result>
+    
+    <result id="100335">
+      <result code="">Unknown Result</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310543">Thomas Trachsel</conductor>
+    </result>
+    
+    <result id="148938">
+      <result code="W">Withdrawn</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="148936">
+      <result code="W">Withdrawn</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="148933">
+      <result code="W">Withdrawn</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="148934">
+      <result code="W">Withdrawn</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="148937">
+      <result code="W">Withdrawn</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="148935">
+      <result code="W">Withdrawn</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

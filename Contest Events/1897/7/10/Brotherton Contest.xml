@@ -1,0 +1,68 @@
+<contest-event id="13312">
+  <event-date date="1897-7-10">July 10, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotherton Contest</name>
+  <contest id="2024">
+    <name>Brotherton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotherton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2083">Brotherton</venue>
+  <notes>Prizes: £5, £2, £1
+March contest: 1. Crigglestone, 2. Mexborough Railway
+6 bands competed</notes>
+
+  <created>May 9, 2012, 11:06 p.m.</created>
+  <last-modified>July 9, 2019, 8:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105637">
+      <result code="1">1</result>
+      <band id="7157">Castleford Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105638">
+      <result code="2">2</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105639">
+      <result code="2">2</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105640">
+      <result code="">Unknown Result</result>
+      <band id="8278">Crigglestone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105642">
+      <result code="">Unknown Result</result>
+      <band id="8345">Wragby</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105641">
+      <result code="D">Disqualified</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

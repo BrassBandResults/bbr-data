@@ -1,0 +1,60 @@
+<contest-event id="38838">
+  <event-date date="1885-8-11">Aug. 11, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Clay Cross Contest</name>
+  <contest id="1277">
+    <name>Clay Cross Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>clay-cross-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1557">Reminiscences of Verdi</test-piece>
+  </test-piece>
+
+  <venue id="1565">Clay Cross, Derbyshire</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Nov. 25, 2017, 5:44 p.m.</created>
+  <last-modified>Nov. 25, 2017, 5:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282546">
+      <result code="1">1</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282547">
+      <result code="2">2</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282548">
+      <result code="3">3</result>
+      <band id="6213">Chesterfield and Hasland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282549">
+      <result code="4">4</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282550">
+      <result code="D">Disqualified</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

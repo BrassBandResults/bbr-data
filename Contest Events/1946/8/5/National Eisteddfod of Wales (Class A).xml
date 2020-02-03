@@ -1,0 +1,67 @@
+<contest-event id="17287">
+  <event-date date="1946-8-5">Aug. 5, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class A)</name>
+  <contest id="3279">
+    <name>National Eisteddfod of Wales (Class A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1335">Liszt</test-piece>
+  </test-piece>
+
+  <venue id="1271">Mountain Ash, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>Prizes - 1st £40, 2nd £20, 3rd £10.
+6 bands competed</notes>
+
+  <created>Dec. 24, 2012, 9:10 a.m.</created>
+  <last-modified>Feb. 7, 2019, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="131160">
+      <result code="1">1</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="312378">W. Haydn Bebb</conductor>
+    </result>
+    
+    <result id="131161">
+      <result code="2">2</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="305178">Dan Lloyd</conductor>
+    </result>
+    
+    <result id="131162">
+      <result code="3">3</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="131163">
+      <result code="4">4</result>
+      <band id="4">Cory Band</band>
+      <conductor id="298625">Stan Brown</conductor>
+    </result>
+    
+    <result id="255596">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255595">
+      <result code="">Unknown Result</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

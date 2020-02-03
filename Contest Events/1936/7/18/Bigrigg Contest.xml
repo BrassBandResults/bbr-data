@@ -1,0 +1,62 @@
+<contest-event id="41664">
+  <event-date date="1936-7-18">July 18, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bigrigg Contest</name>
+  <contest id="4874">
+    <name>Bigrigg Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bigrigg-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2729">Minstrel Memories</test-piece>
+  </test-piece>
+
+  <venue id="4220">Bigrigg, Cumbria, England, UK</venue>
+  <notes>Hymn tune contest - 1st Frizington, 2nd Workington.
+Prizes - 1st £8 and cup, 2nd £4, 3rd £2, 4th £1.
+5 bands competed.</notes>
+
+  <created>Jan. 11, 2019, 12:39 p.m.</created>
+  <last-modified>Jan. 11, 2019, 12:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="303356">
+      <result code="1">1</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="303357">
+      <result code="2">2</result>
+      <band id="1510">Workington</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="303358">
+      <result code="3">3</result>
+      <band id="2597">Lowca Colliery</band>
+      <conductor id="304478">W. Kerr</conductor>
+    </result>
+    
+    <result id="303359">
+      <result code="">Unknown Result</result>
+      <band id="7622">Frizington St Paul&#39;s</band>
+      <conductor id="318740">J. Moore</conductor>
+    </result>
+    
+    <result id="303360">
+      <result code="">Unknown Result</result>
+      <band id="4355">Solway</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

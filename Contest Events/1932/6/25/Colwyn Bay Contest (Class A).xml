@@ -1,0 +1,55 @@
+<contest-event id="23810">
+  <event-date date="1932-6-25">June 25, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest (Class A)</name>
+  <contest id="4607">
+    <name>Colwyn Bay Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="930">Il Bravo [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="6355">Eirias Park, Colwyn Bay, North Wales</venue>
+  <notes>Prizes - 1st £20, 2nd £10, 3rd 5.
+  4 bands competed.</notes>
+
+  <created>Sept. 13, 2013, 7:26 a.m.</created>
+  <last-modified>Dec. 7, 2016, 2:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="173856">
+      <result code="1">1</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="173857">
+      <result code="2">2</result>
+      <band id="12337">Gresford Colliery</band>
+      <conductor id="308931">Charles Sharley</conductor>
+    </result>
+    
+    <result id="173859">
+      <result code="3">3</result>
+      <band id="5214">Cynfi</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="173858">
+      <result code="3">3</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

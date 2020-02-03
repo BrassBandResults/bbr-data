@@ -1,0 +1,49 @@
+<contest-event id="38909">
+  <event-date date="1889-6-10">June 10, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest</name>
+  <contest id="4451">
+    <name>West Stanley Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>west-stanley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2324">Fierrabras</test-piece>
+  </test-piece>
+
+  <venue id="908">West Stanley, County Durham</venue>
+  <notes>Prizes - 1st £15, 2nd £7, 3rd £5.
+Marcvh contest - 1st South Derwent.</notes>
+
+  <created>Nov. 30, 2017, 11:07 a.m.</created>
+  <last-modified>Nov. 4, 2019, 12:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283082">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="283083">
+      <result code="2">2</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="304419">Mr. Kelly</conductor>
+    </result>
+    
+    <result id="283084">
+      <result code="3">3</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+  </results>
+</contest-event>

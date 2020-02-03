@@ -1,0 +1,84 @@
+<contest-event id="23116">
+  <event-date date="1902-5-24">May 24, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hebburn Contest</name>
+  <contest id="1913">
+    <name>Hebburn Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hebburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3581">New Victoria Running Grounds, Hebburn</venue>
+  <notes>Promoted by Hebburn Colliery Prize Band
+
+Choice of test pieces: &quot;Gems from Sullivan&#39;s Operas 3&quot;, &quot;The Slave&quot;, &quot;Beethoven&quot;
+
+Prizes: £10, £5, £4, £3, £2
+
+Open to bands which had not won a cash prize exceeding £10 during 1900 and up to date of entry.</notes>
+
+  <created>Aug. 18, 2013, 7:01 p.m.</created>
+  <last-modified>Nov. 29, 2013, 7:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170190">
+      <result code="1">1</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="170191">
+      <result code="2">2</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170192">
+      <result code="3">3</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170193">
+      <result code="4">4</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170196">
+      <result code="">Unknown Result</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170195">
+      <result code="">Unknown Result</result>
+      <band id="6924">South Shields Garibaldi</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170194">
+      <result code="">Unknown Result</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170197">
+      <result code="">Unknown Result</result>
+      <band id="6071">Tynemouth Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,87 @@
+<contest-event id="12561">
+  <event-date date="1895-7-27">July 27, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Platt Bridge Contest</name>
+  <contest id="2331">
+    <name>Platt Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>platt-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1884">Phyllis</test-piece>
+  </test-piece>
+
+  <venue id="2036">Platt Bridge, Wigan, Lancashire</venue>
+  <notes>Prizes: £11 and a sheep, £7, £4, £2, £1
+
+March: 1. Skelmersdale, 2. Crooke
+</notes>
+
+  <created>April 16, 2012, 5:02 p.m.</created>
+  <last-modified>May 21, 2012, 8:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100306">
+      <result code="1">1</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="100307">
+      <result code="2">2</result>
+      <band id="6221">Firs Lane</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="100308">
+      <result code="3">3</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100309">
+      <result code="4">4</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="100310">
+      <result code="5">5</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="100313">
+      <result code="">Unknown Result</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100311">
+      <result code="">Unknown Result</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100314">
+      <result code="">Unknown Result</result>
+      <band id="4279">Hindley Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100312">
+      <result code="">Unknown Result</result>
+      <band id="6573">Wrightington Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

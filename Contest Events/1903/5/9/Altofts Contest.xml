@@ -1,0 +1,88 @@
+<contest-event id="21787">
+  <event-date date="1903-5-9">May 9, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Altofts Contest</name>
+  <contest id="2520">
+    <name>Altofts Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>altofts-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3550">Altofts, Normanton, West Yorkshire</venue>
+  <notes>  Test piece - choice of Seraglio or Scottish Memories.Prizes - 1st £7, 2nd £4, 3rd £2.10s., 4th £1.10s.
+  March contest  -  1st(£1) Rothwell, 2nd(10s.) Armley &amp; Wortley.
+  Promoted by Altofts West Riding Band.
+  9 bands competed.
+</notes>
+
+  <created>June 11, 2013, 3:30 a.m.</created>
+  <last-modified>Jan. 8, 2020, 11:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="161882">
+      <result code="1">1</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="161885">
+      <result code="2">2</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="298500">J. Brock</conductor>
+    </result>
+    
+    <result id="161877">
+      <result code="3">3</result>
+      <band id="3178">Birstall Old</band>
+      <conductor id="309902">Tom Stubley</conductor>
+    </result>
+    
+    <result id="161878">
+      <result code="4">4</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="305524">J. Mallinson</conductor>
+    </result>
+    
+    <result id="161879">
+      <result code="">Unknown Result</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="161880">
+      <result code="">Unknown Result</result>
+      <band id="3608">Dewsbury Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="161881">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="161883">
+      <result code="">Unknown Result</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="161884">
+      <result code="">Unknown Result</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

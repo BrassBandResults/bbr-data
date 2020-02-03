@@ -1,0 +1,54 @@
+<contest-event id="40281">
+  <event-date date="1906-12-25">Dec. 25, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Conway Contest</name>
+  <contest id="2545">
+    <name>Conway Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>conway-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1640">Llewellyn</test-piece>
+  </test-piece>
+
+  <venue id="1897">Conway, North Wales</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Sept. 17, 2018, 10 a.m.</created>
+  <last-modified>Sept. 17, 2018, 10:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293021">
+      <result code="1">1</result>
+      <band id="13236">Aberconway School</band>
+      <conductor id="305064">J. Lewis</conductor>
+    </result>
+    
+    <result id="293022">
+      <result code="2">2</result>
+      <band id="2740">Penmaenmawr Silver</band>
+      <conductor id="299806">W. Coverley</conductor>
+    </result>
+    
+    <result id="293020">
+      <result code="">Unknown Result</result>
+      <band id="6547">Old Colwyn</band>
+      <conductor id="304225">J. Jones</conductor>
+    </result>
+    
+    <result id="293023">
+      <result code="">Unknown Result</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="311596">D. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

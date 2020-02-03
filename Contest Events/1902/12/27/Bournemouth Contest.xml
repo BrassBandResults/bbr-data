@@ -1,0 +1,74 @@
+<contest-event id="26682">
+  <event-date date="1902-12-27">Dec. 27, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bournemouth Contest</name>
+  <contest id="2742">
+    <name>Bournemouth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bournemouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2271">Iolanthe (selection)</test-piece>
+  </test-piece>
+
+  <venue id="2097">Bournemouth, Dorset, England, UK</venue>
+  <notes>March contest: 1. 4th Hants, 2. Lymington, 3. Street. 
+
+Winton and Branksome only competed in the march contest</notes>
+
+  <created>March 23, 2014, 9:06 a.m.</created>
+  <last-modified>April 7, 2017, 4:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="272898">
+      <result code="1">1</result>
+      <band id="6715">Lymington Town</band>
+      <conductor id="302757">Frank Haskell</conductor>
+    </result>
+    
+    <result id="272899">
+      <result code="2">2</result>
+      <band id="6716">Street Brass and Reed</band>
+      <conductor id="303622">F. E. Huish</conductor>
+    </result>
+    
+    <result id="272901">
+      <result code="3">3</result>
+      <band id="6719">Poole Town</band>
+      <conductor id="306913">Robert Charles Old</conductor>
+    </result>
+    
+    <result id="272902">
+      <result code="4">4</result>
+      <band id="14954">4th Volunteer Battalion Hampshire Regiment</band>
+      <conductor id="297863">F. Bertini</conductor>
+    </result>
+    
+    <result id="272900">
+      <result code="5">5</result>
+      <band id="2510">Blandford Band</band>
+      <conductor id="309219">E. Skivington</conductor>
+    </result>
+    
+    <result id="272896">
+      <result code="">Unknown Result</result>
+      <band id="6717">Branksome Town</band>
+      <conductor id="316384">W. H. Fish</conductor>
+    </result>
+    
+    <result id="272897">
+      <result code="">Unknown Result</result>
+      <band id="6927">Winton Brass</band>
+      <conductor id="299212">J. H. Chapman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="10024">
+  <event-date date="1905-5-20">May 20, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chester-le-Street Contest (Second Section)</name>
+  <contest id="1832">
+    <name>Chester-le-Street Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="508">Chester-le-Street Contest</group>
+    <slug>chester-le-street-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1650">Haddon Hall</test-piece>
+  </test-piece>
+
+  <venue id="928">Chester-le-Street, County Durham</venue>
+  <notes>International contest between England and Scotland. 4 bands from the Scottish Amateur BBA competed against 4 bands from the Durham and Northumberland BBA.
+8 bands competed.
+</notes>
+
+  <created>Feb. 6, 2012, 3:29 p.m.</created>
+  <last-modified>Sept. 6, 2018, 9:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="84965">
+      <result code="1">1</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="84966">
+      <result code="2">2</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="306471">J. Moulding</conductor>
+    </result>
+    
+    <result id="84967">
+      <result code="3">3</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="318440">Edwin R. Pritchard</conductor>
+    </result>
+    
+    <result id="84968">
+      <result code="4">4</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="84969">
+      <result code="">Unknown Result</result>
+      <band id="5388">Chester-le-Street</band>
+      <conductor id="303593">J. Hughes</conductor>
+    </result>
+    
+    <result id="84970">
+      <result code="">Unknown Result</result>
+      <band id="5496">Methil Town</band>
+      <conductor id="313307">James Ord Hume</conductor>
+    </result>
+    
+    <result id="84971">
+      <result code="">Unknown Result</result>
+      <band id="5478">Shotts Foundry</band>
+      <conductor id="307862">J. Radcliffe</conductor>
+    </result>
+    
+    <result id="84972">
+      <result code="">Unknown Result</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="303597">J. G. Hughes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

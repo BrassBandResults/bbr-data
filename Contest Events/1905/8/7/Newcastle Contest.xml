@@ -1,0 +1,62 @@
+<contest-event id="10371">
+  <event-date date="1905-8-7">Aug. 7, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Contest</name>
+  <contest id="1046">
+    <name>Newcastle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="160">Newcastle upon Tyne Contest</group>
+    <slug>newcastle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1644">Memories of Donizetti</test-piece>
+  </test-piece>
+
+  <venue id="2497">Newcastle-upon-Tyne</venue>
+  <notes>1st prize £12, 2nd prize £8, 3rd prize £5, 4th prize £2.
+March contest 1st Spencers Works, 2nd Backworth, 3rd Chester-le-Street.
+5 bands competed</notes>
+
+  <created>Feb. 17, 2012, 4:14 p.m.</created>
+  <last-modified>Sept. 11, 2018, 7:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87371">
+      <result code="1">1</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="87372">
+      <result code="2">2</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="87373">
+      <result code="3">3</result>
+      <band id="5388">Chester-le-Street</band>
+      <conductor id="303593">J. Hughes</conductor>
+    </result>
+    
+    <result id="87374">
+      <result code="4">4</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="87375">
+      <result code="5">5</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

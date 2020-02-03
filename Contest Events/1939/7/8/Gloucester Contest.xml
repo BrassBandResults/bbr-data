@@ -1,0 +1,57 @@
+<contest-event id="26203">
+  <event-date date="1939-7-8">July 8, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gloucester Contest</name>
+  <contest id="4854">
+    <name>Gloucester Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gloucester-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1368">Recollections of Weber</test-piece>
+  </test-piece>
+
+  <venue id="4443">Gloucester Park, Gloucester</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £8, 3rd £6.
+  March contest - 1st Blaina and District, 2nd City of Coventry.
+  3 bands competed.
+</notes>
+
+  <created>Jan. 29, 2014, 5:29 p.m.</created>
+  <last-modified>Jan. 29, 2014, 5:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="189746">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="189747">
+      <result code="2">2</result>
+      <band id="2207">John Thompson Works Band</band>
+      <conductor id="298843">C. Butler</conductor>
+    </result>
+    
+    <result id="189748">
+      <result code="3">3</result>
+      <band id="1931">Jaguar Cars (City of Coventry)</band>
+      <conductor id="305502">W. B. Major</conductor>
+    </result>
+    
+    <result id="189749">
+      <result code="W">Withdrawn</result>
+      <band id="8138">Brynmawr R.V</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

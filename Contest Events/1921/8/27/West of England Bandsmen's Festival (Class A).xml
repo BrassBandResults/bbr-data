@@ -1,0 +1,53 @@
+<contest-event id="21453">
+  <event-date date="1921-8-27">Aug. 27, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Bandsmen&#39;s Festival (Class A)</name>
+  <contest id="4256">
+    <name>West of England Bandsmen&#39;s Festival (Class A)</name>
+    <order>500</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="60">West of England Bandsmen&#39;s Festival (Bugle)</group>
+    <slug>west-of-england-bandsmen-s-festival-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2452">Le Prophete [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3510">Peniel Farm, Bugle, Cornwall, England, UK</venue>
+  <notes>Hymn (own choice):
+2 St. Austell
+3 St. Dennis
+3 Kingswood Evangel
+
+Placings as per WEBF website - but surely one 3rd should be 1st?</notes>
+
+  <created>May 17, 2013, 2:39 p.m.</created>
+  <last-modified>May 17, 2013, 2:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="157828">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="157827">
+      <result code="2">2</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="303119">J. M. Hinchcliffe</conductor>
+    </result>
+    
+    <result id="157826">
+      <result code="3">3</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

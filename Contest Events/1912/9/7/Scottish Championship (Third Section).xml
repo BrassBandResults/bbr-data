@@ -1,0 +1,84 @@
+<contest-event id="7397">
+  <event-date date="1912-9-7">Sept. 7, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1112">Macbeth [Verdi arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="800">Marine Gardens, Portobello, Midlothian, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 3, 2011, 1:36 p.m.</created>
+  <last-modified>Oct. 29, 2012, 11:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="66573">
+      <result code="1">1</result>
+      <band id="5475">Gorebridge and Arniston</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="66574">
+      <result code="2">2</result>
+      <band id="657">Penicuik Silver</band>
+      <conductor id="296924">William Allison</conductor>
+    </result>
+    
+    <result id="66575">
+      <result code="3">3</result>
+      <band id="5500">Duddingston</band>
+      <conductor id="303240">George Hogg</conductor>
+    </result>
+    
+    <result id="66576">
+      <result code="4">4</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="66579">
+      <result code="6">6</result>
+      <band id="655">Peebles Burgh Silver</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="66577">
+      <result code="">Unknown Result</result>
+      <band id="5499">Bannockburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="66578">
+      <result code="">Unknown Result</result>
+      <band id="5501">Kelty Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="66580">
+      <result code="">Unknown Result</result>
+      <band id="5502">Tranent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="66581">
+      <result code="">Unknown Result</result>
+      <band id="1240">West Calder Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

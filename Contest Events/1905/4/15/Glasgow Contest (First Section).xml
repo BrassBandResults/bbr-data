@@ -1,0 +1,54 @@
+<contest-event id="9944">
+  <event-date date="1905-4-15">April 15, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glasgow Contest (First Section)</name>
+  <contest id="1790">
+    <name>Glasgow Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>glasgow-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1584">La Cenerentola</test-piece>
+  </test-piece>
+
+  <venue id="207">Glasgow, Glasgow City, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 3, 2012, 5:14 p.m.</created>
+  <last-modified>May 21, 2012, 8:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84467">
+      <result code="1">1</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="84468">
+      <result code="2">2</result>
+      <band id="4530">Jamestown Temperance</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="84469">
+      <result code="3">3</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="84470">
+      <result code="4">4</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

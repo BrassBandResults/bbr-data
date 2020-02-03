@@ -1,0 +1,54 @@
+<contest-event id="35951">
+  <event-date date="1924-7-12">July 12, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fairford Contest</name>
+  <contest id="1719">
+    <name>Fairford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="398">Fairford Contest</group>
+    <slug>fairford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1210">Fairford, Gloucestershire, England, UK</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Aug. 20, 2016, 9:30 a.m.</created>
+  <last-modified>Aug. 20, 2016, 10:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="260841">
+      <result code="1">1</result>
+      <band id="828">Wolverton Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260857">
+      <result code="2">2</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260858">
+      <result code="3">3</result>
+      <band id="1255">Stinchcombe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260859">
+      <result code="4">4</result>
+      <band id="11719">Cardiff St Albans</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

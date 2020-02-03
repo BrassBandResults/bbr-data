@@ -1,0 +1,48 @@
+<contest-event id="26022">
+  <event-date date="1934-5-5">May 5, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deal Contest</name>
+  <contest id="5061">
+    <name>Deal Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>deal-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4415">Deal, Kent</venue>
+  <notes>Kent Miners&#39; May Day</notes>
+
+  <created>Jan. 21, 2014, 11:30 p.m.</created>
+  <last-modified>Jan. 21, 2014, 11:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188448">
+      <result code="1">1</result>
+      <band id="618">Betteshanger Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188449">
+      <result code="2">2</result>
+      <band id="8616">Chislet Colliery Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188450">
+      <result code="3">3</result>
+      <band id="833">Snowdown Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="38811">
+  <event-date date="1883-8-18">Aug. 18, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2762">Hallelujah Chorus [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>5 bands competed.
+3rd annual contest.</notes>
+
+  <created>Nov. 23, 2017, 11:57 a.m.</created>
+  <last-modified>Dec. 31, 2017, 3:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282369">
+      <result code="1">1</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="282370">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="304010">Henry Jenkinson</conductor>
+    </result>
+    
+    <result id="282371">
+      <result code="3">3</result>
+      <band id="10037">Lob Mills (Todmorden)</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="282372">
+      <result code="4">4</result>
+      <band id="3563">Rishworth Subscription</band>
+      <conductor id="313844">Joseph Paley</conductor>
+    </result>
+    
+    <result id="282373">
+      <result code="5">5</result>
+      <band id="4404">Brighouse Subscription</band>
+      <conductor id="317365">W. Whittaker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

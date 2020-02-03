@@ -1,0 +1,82 @@
+<contest-event id="25874">
+  <event-date date="1937-8-28">Aug. 28, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haworth Contest</name>
+  <contest id="1689">
+    <name>Haworth Contest</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1520">Il Pirata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1194">Central Park, Haworth, Yorkshire</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £8, 3rd £4, 4th £2.
+  March Contest - 1st(£2) Yorkshire Copper Works, 2nd(£1) Standfast Works.
+  Hymn tune contest - 1st Denby Dale, 2nd Hade Edge.
+  Promoted by Haworth Prize Band.
+  8 bands competed.</notes>
+
+  <created>Jan. 15, 2014, 2:03 p.m.</created>
+  <last-modified>Jan. 19, 2019, 11:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187566">
+      <result code="1">1</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="187567">
+      <result code="2">2</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="187568">
+      <result code="3">3</result>
+      <band id="17707">Standfast Works</band>
+      <conductor id="298632">Arthur Brownbill</conductor>
+    </result>
+    
+    <result id="187569">
+      <result code="4">4</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="300855">Joseph Elliott</conductor>
+    </result>
+    
+    <result id="187571">
+      <result code="">Unknown Result</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187570">
+      <result code="">Unknown Result</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187572">
+      <result code="">Unknown Result</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187573">
+      <result code="">Unknown Result</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

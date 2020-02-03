@@ -1,0 +1,73 @@
+<contest-event id="17618">
+  <event-date date="1888-9-1">Sept. 1, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mytholmroyd Contest</name>
+  <contest id="3236">
+    <name>Mytholmroyd Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mytholmroyd</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2770">The Bohemian Girl [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2482">Mytholmroyd, West Yorkshire, England, UK</venue>
+  <notes>Quickstep: 1. Oats Royd, 2. Elland.
+5 bands competed.</notes>
+
+  <created>Jan. 25, 2013, 9:20 p.m.</created>
+  <last-modified>Aug. 31, 2016, 11:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="133773">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133774">
+      <result code="2">2</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133775">
+      <result code="3">3</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133776">
+      <result code="4">4</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133777">
+      <result code="5">5</result>
+      <band id="145">Elland Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261344">
+      <result code="W">Withdrawn</result>
+      <band id="3636">Platting Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261345">
+      <result code="W">Withdrawn</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

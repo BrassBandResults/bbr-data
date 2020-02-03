@@ -1,0 +1,84 @@
+<contest-event id="26979">
+  <event-date date="1927-7-9">July 9, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Contest</name>
+  <contest id="1411">
+    <name>Doncaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="395">Doncaster, South Yorkshire, England, UK</venue>
+  <notes>Choice of A Garland of Classics or Il Flauto Magico.
+March: 1. Yorkshire Main, 2. Bentley Colliery
+Prizes - 1st £10 and cup, 2nd £8, 3rd £6, 4th £4.
+7 bands competed</notes>
+
+  <created>April 6, 2014, 10:20 p.m.</created>
+  <last-modified>Nov. 21, 2018, 9:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194855">
+      <result code="1">1</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="296931">T. Allsop</conductor>
+      <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="194856">
+      <result code="2">2</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="312007">W. Wormald</conductor>
+      <test-piece id="639">A Garland of Classics</test-piece>
+    </result>
+    
+    <result id="194857">
+      <result code="3">3</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">T. Hunter</conductor>
+      <test-piece id="639">A Garland of Classics</test-piece>
+    </result>
+    
+    <result id="194858">
+      <result code="4">4</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="297663">Ernest Beaumont</conductor>
+    </result>
+    
+    <result id="300343">
+      <result code="">Unknown Result</result>
+      <band id="1544">Askern Colliery Band</band>
+      <conductor id="310082">William Tams</conductor>
+    </result>
+    
+    <result id="194859">
+      <result code="">Unknown Result</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="300722">T. Eastwood</conductor>
+    </result>
+    
+    <result id="300342">
+      <result code="">Unknown Result</result>
+      <band id="2494">Worksop Miners Welfare Band</band>
+      <conductor id="307673">Clyde Pressley</conductor>
+    </result>
+    
+    <result id="300389">
+      <result code="W">Withdrawn</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

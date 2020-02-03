@@ -1,0 +1,80 @@
+<contest-event id="17980">
+  <event-date date="1891-7-18">July 18, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Heanor Contest (Testpiece)</name>
+  <contest id="2265">
+    <name>Heanor Contest (Testpiece)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="262">Heanor Contest</group>
+    <slug>heanor-testpiece</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3014">Shipley Hall, Heanor</venue>
+  <notes>7 bands competed
+Prizes: £12 and 8 guinea cornet, £8 and 6 guinea trombone, £5
+Quickstep: 1. Kettering, 2. Rushden, 3. Heanor</notes>
+
+  <created>Feb. 7, 2013, 6:23 p.m.</created>
+  <last-modified>Nov. 17, 2017, 10:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135890">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="135891">
+      <result code="2">2</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="135888">
+      <result code="3">3</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135889">
+      <result code="4">4</result>
+      <band id="7169">Heanor Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135892">
+      <result code="5">5</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135894">
+      <result code="6">6</result>
+      <band id="5209">Codnor United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135893">
+      <result code="7">7</result>
+      <band id="3641">Robin Hood</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260866">
+      <result code="W">Withdrawn</result>
+      <band id="12837">Newcastle Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

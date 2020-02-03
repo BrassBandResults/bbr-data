@@ -1,0 +1,54 @@
+<contest-event id="28393">
+  <event-date date="1927-5-28">May 28, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brighton Contest (Section A)</name>
+  <contest id="2889">
+    <name>Brighton Contest (Section A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brighton-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2378">I Pagliacci</test-piece>
+  </test-piece>
+
+  <venue id="1257">Brighton, Sussex</venue>
+  <notes></notes>
+
+  <created>June 9, 2014, 11:19 a.m.</created>
+  <last-modified>June 9, 2014, 11:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="207520">
+      <result code="1">1</result>
+      <band id="12298">Hythe Town</band>
+      <conductor id="302235">G. Griffiths</conductor>
+    </result>
+    
+    <result id="207521">
+      <result code="2">2</result>
+      <band id="6860">Edmonton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="207522">
+      <result code="3">3</result>
+      <band id="12299">Tillings (Brighton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="207523">
+      <result code="4">4</result>
+      <band id="6708">Crawley Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

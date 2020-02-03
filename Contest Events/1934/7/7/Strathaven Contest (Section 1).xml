@@ -1,0 +1,54 @@
+<contest-event id="24995">
+  <event-date date="1934-7-7">July 7, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Strathaven Contest (Section 1)</name>
+  <contest id="3248">
+    <name>Strathaven Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="428">Strathaven Contest</group>
+    <slug>strathaven-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2492">Strathaven, Lanarkshire</venue>
+  <notes>  4 bands competed.</notes>
+
+  <created>Nov. 8, 2013, 9:26 a.m.</created>
+  <last-modified>Jan. 7, 2017, 3:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182122">
+      <result code="1">1</result>
+      <band id="4803">Darvel Burgh</band>
+      <conductor id="308409">Fred Rogan</conductor>
+    </result>
+    
+    <result id="182123">
+      <result code="2">2</result>
+      <band id="1272">Bellshill &amp; District Concert Brass</band>
+      <conductor id="297790">Herbert Bennett</conductor>
+    </result>
+    
+    <result id="182124">
+      <result code="">Unknown Result</result>
+      <band id="646">Croy Silver Band</band>
+      <conductor id="310365">Robert Thomson</conductor>
+    </result>
+    
+    <result id="182125">
+      <result code="">Unknown Result</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

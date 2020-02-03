@@ -1,0 +1,67 @@
+<contest-event id="29912">
+  <event-date date="1943-6-26">June 26, 1943<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Championships (Championship Section)</name>
+  <contest id="9">
+    <name>Yorkshire Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="534">Themes from Symphony No. 5 [Beethoven]</test-piece>
+  </test-piece>
+
+  <venue id="495">Odsal Stadium, Bradford</venue>
+  <notes>This contest (began 1943?) was not run as an Area contest in the Nationals sequence, but the 1945 running of this event was taken as the first running of the North Eastern (later Yorkshire) area contest. Also referred to as &quot;Yorkshire Festival&quot;.
+1st prize: £50, 2nd £20, 3rd £10.</notes>
+
+  <created>Oct. 29, 2014, 2:32 a.m.</created>
+  <last-modified>Jan. 30, 2019, 3:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="212319">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="307286">Arthur Oakes Pearce</conductor>
+    </result>
+    
+    <result id="212320">
+      <result code="2">2</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="310356">W. H. Thompson</conductor>
+    </result>
+    
+    <result id="212321">
+      <result code="3">3</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="297311">Albert Badrick</conductor>
+    </result>
+    
+    <result id="212322">
+      <result code="4">4</result>
+      <band id="1694">Halifax Home Guard</band>
+      <conductor id="299111">Tom Casson</conductor>
+    </result>
+    
+    <result id="212323">
+      <result code="">Unknown Result</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212324">
+      <result code="">Unknown Result</result>
+      <band id="3390">Huddersfield Home Guard</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

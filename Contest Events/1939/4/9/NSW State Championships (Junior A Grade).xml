@@ -1,0 +1,48 @@
+<contest-event id="36028">
+  <event-date date="1939-4-9">April 9, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (Junior A Grade)</name>
+  <contest id="647">
+    <name>NSW State Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3859">Songs of Homeland</test-piece>
+  </test-piece>
+
+  <venue id="323">Sydney, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>Sept. 6, 2016, 3:35 a.m.</created>
+  <last-modified>Sept. 22, 2016, 2:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="261540">
+      <result code="1">1</result>
+      <band id="17623">Sydney Schools&#39; Boys</band>
+      <conductor id="309159">Ted Simons</conductor>
+    </result>
+    
+    <result id="261541">
+      <result code="2">2</result>
+      <band id="13713">Kincumber Orphanage</band>
+      <conductor id="304921">Bill Leahy</conductor>
+    </result>
+    
+    <result id="261542">
+      <result code="3">3</result>
+      <band id="13769">Bexley Municipal Boys</band>
+      <conductor id="311267">Dick Wells</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,73 @@
+<contest-event id="17361">
+  <event-date date="1947-3-1">March 1, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>London &amp; Home Counties BBA Spring Contest (Second Section)</name>
+  <contest id="5033">
+    <name>London &amp; Home Counties BBA Spring Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="492">London &amp; Home Counties BBA Spring Contest</group>
+    <slug>london-home-counties-bba-spring-contest--5033</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1209">Aroldo [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="5760">Central Hall, The Broadway, Tooting, London</venue>
+  <notes>Prizes: £7, £5, £3.
+7 bands competed</notes>
+
+  <created>Dec. 27, 2012, 11:20 a.m.</created>
+  <last-modified>Feb. 12, 2019, 1:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131777">
+      <result code="1">1</result>
+      <band id="2133">Ercol</band>
+      <conductor id="306654">S. Nesbitt</conductor>
+    </result>
+    
+    <result id="131778">
+      <result code="2">2</result>
+      <band id="45">Staines Brass</band>
+      <conductor id="308701">W. J. Sanders</conductor>
+    </result>
+    
+    <result id="131779">
+      <result code="3">3</result>
+      <band id="4332">Aveley Band</band>
+      <conductor id="306718">L. R. J. Nicholls</conductor>
+    </result>
+    
+    <result id="221039">
+      <result code="4">4</result>
+      <band id="8742">Bethnal Green Silver</band>
+      <conductor id="299195">A. E. Chandler</conductor>
+    </result>
+    
+    <result id="221040">
+      <result code="">Unknown Result</result>
+      <band id="8186">Camberwell Silver</band>
+      <conductor id="304518">A. E. King</conductor>
+    </result>
+    
+    <result id="221041">
+      <result code="">Unknown Result</result>
+      <band id="3628">Erith British Legion</band>
+      <conductor id="302851">E. Headford</conductor>
+    </result>
+    
+    <result id="221042">
+      <result code="">Unknown Result</result>
+      <band id="2819">Romford</band>
+      <conductor id="297239">H. Attridge</conductor>
+    </result>
+    
+  </results>
+</contest-event>

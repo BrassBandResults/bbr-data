@@ -1,0 +1,68 @@
+<contest-event id="10263">
+  <event-date date="1905-7-8">July 8, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dewsbury Contest</name>
+  <contest id="1033">
+    <name>Dewsbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dewsbury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1351">Dewsbury, West Yorkshire, England, UK</venue>
+  <notes>Prizes - 1st £8, 2nd £5, 3rd £3, 4th £1.10s.
+ March contest 1st Gawthorpe Victoria, 2nd Dewsbury Temperance.
+6 bands competed.</notes>
+
+  <created>Feb. 13, 2012, 1:31 p.m.</created>
+  <last-modified>Sept. 10, 2018, 6:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="86721">
+      <result code="1">1</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="86722">
+      <result code="2">2</result>
+      <band id="3173">Ravensthorpe Subscription</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+    <result id="86723">
+      <result code="3">3</result>
+      <band id="6616">Idle and Thackley</band>
+      <conductor id="310395">S. Thornton</conductor>
+    </result>
+    
+    <result id="86724">
+      <result code="4">4</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="305618">J. T. Marsden</conductor>
+    </result>
+    
+    <result id="86726">
+      <result code="">Unknown Result</result>
+      <band id="3175">Rothwell Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="86725">
+      <result code="">Unknown Result</result>
+      <band id="3608">Dewsbury Temperance</band>
+      <conductor id="309004">J.W. Sheard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

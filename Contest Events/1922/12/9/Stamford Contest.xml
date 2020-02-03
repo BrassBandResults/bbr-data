@@ -1,0 +1,61 @@
+<contest-event id="25485">
+  <event-date date="1922-12-9">Dec. 9, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stamford Contest</name>
+  <contest id="2351">
+    <name>Stamford Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stamford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4327">Broad Street, Stamford, Lincolnshire, England, UK</venue>
+  <notes>7 bands competed
+</notes>
+
+  <created>Dec. 9, 2013, 8:10 p.m.</created>
+  <last-modified>Oct. 13, 2018, 9:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185084">
+      <result code="1">1</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185085">
+      <result code="2">2</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185086">
+      <result code="3">3</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185087">
+      <result code="4">4</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296114">
+      <result code="5">5</result>
+      <band id="491">Stamford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

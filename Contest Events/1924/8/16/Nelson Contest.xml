@@ -1,0 +1,62 @@
+<contest-event id="25616">
+  <event-date date="1924-8-16">Aug. 16, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="771">William Tell [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1424">Nelson, Lancashire, England, UK</venue>
+  <notes>March: 1. Holme, 2. Lowerhouse.
+Prizes - 1st £25 and cup, 2nd £12.10s., 3rd £7, 4th £5, 5th £3.
+5 bands competed.</notes>
+
+  <created>Dec. 16, 2013, 6:14 p.m.</created>
+  <last-modified>Oct. 30, 2018, 9:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185578">
+      <result code="1">1</result>
+      <band id="1714">Lowerhouse Mills Burnley</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="185579">
+      <result code="2">2</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="185580">
+      <result code="3">3</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="309396">Joe Smith</conductor>
+    </result>
+    
+    <result id="185581">
+      <result code="4">4</result>
+      <band id="8194">Blackburn Coronation</band>
+      <conductor id="308370">R. Robinson</conductor>
+    </result>
+    
+    <result id="185582">
+      <result code="4">4</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="299460">F. Clough</conductor>
+    </result>
+    
+  </results>
+</contest-event>

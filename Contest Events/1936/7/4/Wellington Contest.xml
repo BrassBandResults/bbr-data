@@ -1,0 +1,54 @@
+<contest-event id="41658">
+  <event-date date="1936-7-4">July 4, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellington Contest</name>
+  <contest id="2532">
+    <name>Wellington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1096">Autumn Echoes</test-piece>
+  </test-piece>
+
+  <venue id="1579">Wellington, Shropshire</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Jan. 10, 2019, 4:04 p.m.</created>
+  <last-modified>Jan. 10, 2019, 4:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="303303">
+      <result code="1">1</result>
+      <band id="1692">Sankey&#39;s Castle Works</band>
+      <conductor id="318827">W. Shaker</conductor>
+    </result>
+    
+    <result id="303304">
+      <result code="2">2</result>
+      <band id="4022">Lilleshall Collieries</band>
+      <conductor id="308198">J. Rigby</conductor>
+    </result>
+    
+    <result id="303305">
+      <result code="">Unknown Result</result>
+      <band id="9881">Madeley Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303306">
+      <result code="">Unknown Result</result>
+      <band id="4068">Oswestry Excelsior Silver Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

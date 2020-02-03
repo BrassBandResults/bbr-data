@@ -1,0 +1,55 @@
+<contest-event id="39775">
+  <event-date date="1910-5-16">May 16, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class B)</name>
+  <contest id="2097">
+    <name>Llandovery Contest (Class B)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2197">The Amber Witch [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £8, 2nd £4, 3rd £2.
+4 bands competed.</notes>
+
+  <created>May 30, 2018, 8:14 p.m.</created>
+  <last-modified>May 30, 2018, 8:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288604">
+      <result code="1">1</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="288605">
+      <result code="2">2</result>
+      <band id="7073">Brynamman Volunteers</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="288606">
+      <result code="3">3</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="288603">
+      <result code="4">4</result>
+      <band id="9773">Taibach</band>
+      <conductor id="318423">James Coombes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

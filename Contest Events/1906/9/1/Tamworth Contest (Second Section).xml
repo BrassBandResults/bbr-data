@@ -1,0 +1,72 @@
+<contest-event id="11084">
+  <event-date date="1906-9-1">Sept. 1, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tamworth Contest (Second Section)</name>
+  <contest id="2165">
+    <name>Tamworth Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="256">Tamworth Contest</group>
+    <slug>tamworth-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1724">Latona</test-piece>
+  </test-piece>
+
+  <venue id="3943">Castle Grounds, Tamworth, Staffordshire</venue>
+  <notes>&quot;Confined Contest&quot; for local bands only
+
+  1st prize £3.
+  2nd prize £2.
+  3rd prize £1.
+
+  6 bands competed.</notes>
+
+  <created>March 12, 2012, 8:02 p.m.</created>
+  <last-modified>Sept. 10, 2013, 12:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="91715">
+      <result code="1">1</result>
+      <band id="6656">Moira Colliery</band>
+      <conductor id="309327">C. Smith</conductor>
+    </result>
+    
+    <result id="91716">
+      <result code="2">2</result>
+      <band id="7192">Tamworth Excelsior</band>
+      <conductor id="306605">E. Nash</conductor>
+    </result>
+    
+    <result id="91717">
+      <result code="3">3</result>
+      <band id="6643">Tamworth Town</band>
+      <conductor id="300528">T. Downes</conductor>
+    </result>
+    
+    <result id="91721">
+      <result code="4">4</result>
+      <band id="347">Amington Band</band>
+      <conductor id="300195">A. Davis</conductor>
+    </result>
+    
+    <result id="91722">
+      <result code="">Unknown Result</result>
+      <band id="7193">Water Orton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="91723">
+      <result code="">Unknown Result</result>
+      <band id="7194">Atherstone Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

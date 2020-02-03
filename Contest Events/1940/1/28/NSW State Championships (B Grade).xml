@@ -1,0 +1,56 @@
+<contest-event id="35831">
+  <event-date date="1940-1-28">Jan. 28, 1940<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (B Grade)</name>
+  <contest id="617">
+    <name>NSW State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>MUSIC   unknown</notes>
+
+  <created>Aug. 2, 2016, 5:52 a.m.</created>
+  <last-modified>Sept. 22, 2016, 3:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="260005">
+      <result code="1">1</result>
+      <band id="14135">Australian Consolidated Industries</band>
+      <conductor id="315284">Sid Rowlands</conductor>
+    </result>
+    
+    <result id="260006">
+      <result code="2">2</result>
+      <band id="13755">Ryde District</band>
+      <conductor id="306723">G. Nichols</conductor>
+    </result>
+    
+    <result id="260007">
+      <result code="3">3</result>
+      <band id="11807">Bathurst District</band>
+      <conductor id="310954">Harold Walmsley</conductor>
+      <test-piece id="535">Oliver Cromwell</test-piece>
+    </result>
+    
+    <result id="260008">
+      <result code="4">4</result>
+      <band id="14136">Rockdale District Boys</band>
+      <conductor id="315285">Bill Couighlan</conductor>
+      <test-piece id="3640">Knight Errant</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

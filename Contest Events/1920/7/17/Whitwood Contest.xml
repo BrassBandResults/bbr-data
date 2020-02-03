@@ -1,0 +1,58 @@
+<contest-event id="26873">
+  <event-date date="1920-7-17">July 17, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitwood Contest</name>
+  <contest id="5167">
+    <name>Whitwood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitwood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4570">Whitwood</venue>
+  <notes>Promoted by Whitwood Colliery Band
+
+9 bands competed
+
+March: 1. South Elmsall, 2. Batley Old</notes>
+
+  <created>April 2, 2014, 6:59 p.m.</created>
+  <last-modified>April 2, 2014, 7:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194318">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194319">
+      <result code="2">2</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194320">
+      <result code="3">3</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194321">
+      <result code="4">4</result>
+      <band id="11517">Bramley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

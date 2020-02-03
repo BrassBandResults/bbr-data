@@ -1,0 +1,72 @@
+<contest-event id="35795">
+  <event-date date="1890-5-26">May 26, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest</name>
+  <contest id="1858">
+    <name>Caerphilly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5254">Heavens Are Telling (Creation) arr. Haigh</test-piece>
+  </test-piece>
+
+  <venue id="3173">Castle Grounds, Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes></notes>
+
+  <created>July 29, 2016, 8:47 a.m.</created>
+  <last-modified>July 11, 2017, 11:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259812">
+      <result code="1">1</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259815">
+      <result code="2">2</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259816">
+      <result code="3">3</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259817">
+      <result code="">Unknown Result</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259814">
+      <result code="">Unknown Result</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259813">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259811">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

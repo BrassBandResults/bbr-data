@@ -1,0 +1,48 @@
+<contest-event id="38770">
+  <event-date date="1908-8-8">Aug. 8, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newburn Contest</name>
+  <contest id="2306">
+    <name>Newburn Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1667">Newburn, Newcastle-upon-Tyne</venue>
+  <notes></notes>
+
+  <created>Nov. 20, 2017, 5:12 p.m.</created>
+  <last-modified>Nov. 20, 2017, 5:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282071">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="282072">
+      <result code="2">2</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="282073">
+      <result code="3">3</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

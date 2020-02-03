@@ -1,0 +1,79 @@
+<contest-event id="24737">
+  <event-date date="1936-9-5">Sept. 5, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Walthamstow Contest (Section 1)</name>
+  <contest id="2829">
+    <name>Walthamstow Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="550">Walthamstow Contest</group>
+    <slug>walthamstow-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="612">Lloyd Park, Walthamstow, Waltham Forest, Greater London, England, UK</venue>
+  <notes>Prizes - 1st £15 and cuip, 2nd £7, 3rd £5.
+ 8 bands competed.</notes>
+
+  <created>Oct. 26, 2013, 7:18 p.m.</created>
+  <last-modified>Jan. 14, 2019, 7:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180772">
+      <result code="1">1</result>
+      <band id="1686">Enfield Band</band>
+      <conductor id="299061">Edward Sydney Carter</conductor>
+    </result>
+    
+    <result id="180773">
+      <result code="2">2</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="297181">David Aspinall</conductor>
+    </result>
+    
+    <result id="180774">
+      <result code="3">3</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="180775">
+      <result code="4">4</result>
+      <band id="620">Croydon Brass Band</band>
+      <conductor id="306116">E. W. Miles</conductor>
+    </result>
+    
+    <result id="180776">
+      <result code="">Unknown Result</result>
+      <band id="6860">Edmonton</band>
+      <conductor id="310704">W. Tyrrell</conductor>
+    </result>
+    
+    <result id="180777">
+      <result code="">Unknown Result</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="180778">
+      <result code="">Unknown Result</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="180779">
+      <result code="">Unknown Result</result>
+      <band id="4766">Wood Green Brass</band>
+      <conductor id="300469">Wilfred Dolling</conductor>
+    </result>
+    
+  </results>
+</contest-event>

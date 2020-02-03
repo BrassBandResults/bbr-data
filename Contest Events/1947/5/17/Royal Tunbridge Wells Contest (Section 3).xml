@@ -1,0 +1,48 @@
+<contest-event id="18000">
+  <event-date date="1947-5-17">May 17, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 3)</name>
+  <contest id="1044">
+    <name>Royal Tunbridge Wells Contest (Section 3)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-3</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2215">Calverley Grounds, Tunbridge Wells, Kent</venue>
+  <notes></notes>
+
+  <created>Feb. 7, 2013, 10:25 p.m.</created>
+  <last-modified>Feb. 7, 2013, 10:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="136471">
+      <result code="1">1</result>
+      <band id="10427">Lewes Town</band>
+      <conductor id="310098">Arthur King Tappin</conductor>
+    </result>
+    
+    <result id="135984">
+      <result code="2">2</result>
+      <band id="8142">Crowborough Silver</band>
+      <conductor id="301201">W. Fermor</conductor>
+    </result>
+    
+    <result id="135985">
+      <result code="3">3</result>
+      <band id="8615">Hastings &amp; St. Leonards</band>
+      <conductor id="305991">T. Medhurst</conductor>
+    </result>
+    
+  </results>
+</contest-event>

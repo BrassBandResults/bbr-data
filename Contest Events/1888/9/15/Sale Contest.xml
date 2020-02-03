@@ -1,0 +1,111 @@
+<contest-event id="11219">
+  <event-date date="1888-9-15">Sept. 15, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sale Contest</name>
+  <contest id="2200">
+    <name>Sale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2944">Botanical Gardens, Sale</venue>
+  <notes>Prizes - 1st £12, 2nd £7.10s., 3rd £4, 4th £2, 5th £1.
+The 4 withdrawals were owing to the darkness and unable to see their music.
+9 bands competed.
+16 bands entered</notes>
+
+  <created>March 16, 2012, 7:24 p.m.</created>
+  <last-modified>Jan. 27, 2018, 4:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="92780">
+      <result code="1">1</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="92781">
+      <result code="2">2</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="311924">Charles Woodcock</conductor>
+    </result>
+    
+    <result id="92782">
+      <result code="3">3</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="92783">
+      <result code="4">4</result>
+      <band id="7267">Bredbury and Romiley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="92789">
+      <result code="5">5</result>
+      <band id="3657">Stretford Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238637">
+      <result code="">Unknown Result</result>
+      <band id="3693">Droylsden Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238636">
+      <result code="">Unknown Result</result>
+      <band id="9500">Northwich Adelaide</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238638">
+      <result code="">Unknown Result</result>
+      <band id="3656">St. James Gorton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238635">
+      <result code="">Unknown Result</result>
+      <band id="7497">Verdin Adelaide</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133783">
+      <result code="W">Withdrawn</result>
+      <band id="6127">Chorlton-cum-Hardy</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133782">
+      <result code="W">Withdrawn</result>
+      <band id="2636">Prestwich Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133780">
+      <result code="W">Withdrawn</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133781">
+      <result code="W">Withdrawn</result>
+      <band id="12909">Swinton Town [Lancs.]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

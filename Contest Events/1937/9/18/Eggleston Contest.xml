@@ -1,0 +1,68 @@
+<contest-event id="25882">
+  <event-date date="1937-9-18">Sept. 18, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eggleston Contest</name>
+  <contest id="3373">
+    <name>Eggleston Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="344">Eggleston Contest</group>
+    <slug>eggleston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5786">Any Liverpool Journal Piece</test-piece>
+  </test-piece>
+
+  <venue id="2597">Eggleston, County Durham</venue>
+  <notes>Prizes - 1st £7, 2nd £3, 3rd £1.
+Hymn tune contest - 1st (10s.) West Hartlepool Mission.
+6 bands competed</notes>
+
+  <created>Jan. 17, 2014, 8:18 a.m.</created>
+  <last-modified>Jan. 19, 2019, 11:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187624">
+      <result code="1">1</result>
+      <band id="2637">Consett-Whitbread Trophy</band>
+      <conductor id="311941">J. Woodhead</conductor>
+    </result>
+    
+    <result id="187625">
+      <result code="2">2</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310919">Richard Walker</conductor>
+    </result>
+    
+    <result id="187626">
+      <result code="3">3</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="300254">Wilfred Dawson</conductor>
+    </result>
+    
+    <result id="187629">
+      <result code="">Unknown Result</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187628">
+      <result code="">Unknown Result</result>
+      <band id="5300">Reeth Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187627">
+      <result code="">Unknown Result</result>
+      <band id="4772">Shildon British Railways</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

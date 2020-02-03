@@ -1,0 +1,48 @@
+<contest-event id="12464">
+  <event-date date="1895-6-1">June 1, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cramlington Contest</name>
+  <contest id="1531">
+    <name>Cramlington Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>cramlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4421">Cramlington Park, Northumberland</venue>
+  <notes>Prizes: £18 9s, £12 7s, £3</notes>
+
+  <created>April 14, 2012, 9:13 p.m.</created>
+  <last-modified>April 7, 2017, 8 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99607">
+      <result code="1">1</result>
+      <band id="7628">Walbottle Temperance</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="99608">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="99609">
+      <result code="3">3</result>
+      <band id="4513">Broomhill</band>
+      <conductor id="296855">T. Alderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

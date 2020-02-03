@@ -1,0 +1,54 @@
+<contest-event id="24708">
+  <event-date date="1935-6-29">June 29, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Romford Contest (Championship of Essex)</name>
+  <contest id="1219">
+    <name>Romford Contest (Championship of Essex)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="194">Romford Contest</group>
+    <slug>romford-contest-championship-of-essex</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2838">Raphael Park, Romford, Essex</venue>
+  <notes></notes>
+
+  <created>Oct. 25, 2013, 7:36 p.m.</created>
+  <last-modified>Jan. 22, 2014, 5:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180619">
+      <result code="1">1</result>
+      <band id="6864">Leyton Borough</band>
+      <conductor id="303130">Harold Hind</conductor>
+    </result>
+    
+    <result id="180620">
+      <result code="2">2</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="308984">P. Shaw</conductor>
+    </result>
+    
+    <result id="180621">
+      <result code="3">3</result>
+      <band id="11378">Walthamstow British Legion</band>
+      <conductor id="300703">H. J. Easey</conductor>
+    </result>
+    
+    <result id="180622">
+      <result code="4">4</result>
+      <band id="3348">Rainham Working Men&#39;s Club</band>
+      <conductor id="310268">D. J. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

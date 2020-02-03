@@ -1,0 +1,57 @@
+<contest-event id="25326">
+  <event-date date="1910-8-13">Aug. 13, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2204">Weber&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="3251">Football Field, Seed Hill, Nelson, Lancashire, England, UK</venue>
+  <notes>Prizes: £15, £10, £5, £3, £2.
+Promoted by Nelson Flower Show.
+4 bands competed
+</notes>
+
+  <created>Nov. 27, 2013, 10:24 p.m.</created>
+  <last-modified>June 3, 2018, 6:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184380">
+      <result code="1">1</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="184381">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="184382">
+      <result code="3">3</result>
+      <band id="894">Earby Band</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="184383">
+      <result code="4">4</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

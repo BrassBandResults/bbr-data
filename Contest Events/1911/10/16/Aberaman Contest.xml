@@ -1,0 +1,61 @@
+<contest-event id="39697">
+  <event-date date="1911-10-16">Oct. 16, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aberaman Contest</name>
+  <contest id="6113">
+    <name>Aberaman Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>aberaman-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5578">An Italian Carnival</test-piece>
+  </test-piece>
+
+  <venue id="6429">Aberaman, Glamorgan</venue>
+  <notes>March contest - 1st Ynyshir, 2nd Penrhiw.
+5 bands competed.</notes>
+
+  <created>May 24, 2018, 11:35 a.m.</created>
+  <last-modified>May 24, 2018, 11:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287754">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297327">J. Bailey</conductor>
+    </result>
+    
+    <result id="287750">
+      <result code="2">2</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="287752">
+      <result code="2">2</result>
+      <band id="6623">Penrhiw</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="287751">
+      <result code="">Unknown Result</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="301485">N. France</conductor>
+    </result>
+    
+    <result id="287753">
+      <result code="">Unknown Result</result>
+      <band id="7570">Bargoed</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

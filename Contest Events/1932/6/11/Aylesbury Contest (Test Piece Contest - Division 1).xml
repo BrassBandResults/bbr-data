@@ -1,0 +1,63 @@
+<contest-event id="13969">
+  <event-date date="1932-6-11">June 11, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aylesbury Contest (Test Piece Contest - Division 1)</name>
+  <contest id="2956">
+    <name>Aylesbury Printing Works Band Contest (Test Piece Contest - Division 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="383">Aylesbury Printing Works Band Contest</group>
+    <slug>aylesbury-contest-test-piece-contest-division-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1304">Gounod [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="2286">Hazell&#39;s Social &amp; Sport Club Ground, Aylesbury, Buckinghamshire, England, UK</venue>
+  <notes>Fifth Annual Contest organised by Aylesbury Printing Works Silver Band.
+Prizes - 1st £15 and cup, 2nd £8 and shield, 3rd £5 and cup.
+ Programme reproduced in Strike up the Band, Anthony J Ward.
+5 bands competed</notes>
+
+  <created>July 8, 2012, 11:39 a.m.</created>
+  <last-modified>Dec. 21, 2018, 11:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="111804">
+      <result code="1">1</result>
+      <band id="6003">St. Pancras</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="111805">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="111808">
+      <result code="3">3</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="111807">
+      <result code="">Unknown Result</result>
+      <band id="620">Croydon Brass Band</band>
+      <conductor id="306118">H. W. Miles</conductor>
+    </result>
+    
+    <result id="111806">
+      <result code="">Unknown Result</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

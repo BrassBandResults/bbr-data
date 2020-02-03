@@ -1,0 +1,75 @@
+<contest-event id="22005">
+  <event-date date="1903-9-3">Sept. 3, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Langford Contest</name>
+  <contest id="1030">
+    <name>Langford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>langford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="3603">Langford, Bedfordshire, England, UK</venue>
+  <notes>  March contest - 1. Bedford, 2. Biggleswade Vol, 3. Peterborough, 4. Hitchin
+Arlesey withdrew, and were compensated to the tune of £7, due to their coach/conductor R. Ryan being asked to take over the adjudication from Mr Dimmock who did not appear.
+6 bands competed
+</notes>
+
+  <created>June 22, 2013, 7:24 a.m.</created>
+  <last-modified>Aug. 9, 2016, 12:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="163197">
+      <result code="1">1</result>
+      <band id="435">Bedford Town Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="163198">
+      <result code="2">2</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="298603">H. N. Brown</conductor>
+    </result>
+    
+    <result id="163199">
+      <result code="3">3</result>
+      <band id="10963">3rd V.B. Bedfordshire Regiment (Biggleswade)</band>
+      <conductor id="299678">J. G. Cooper</conductor>
+    </result>
+    
+    <result id="163200">
+      <result code="4">4</result>
+      <band id="617">Hitchin Band</band>
+      <conductor id="305776">E. Mayes</conductor>
+    </result>
+    
+    <result id="163201">
+      <result code="5">5</result>
+      <band id="6811">Spalding Town</band>
+      <conductor id="311061">W. Waring</conductor>
+    </result>
+    
+    <result id="163202">
+      <result code="6">6</result>
+      <band id="6356">Biggleswade Town</band>
+      <conductor id="301727">F. H. Gee</conductor>
+    </result>
+    
+    <result id="211263">
+      <result code="W">Withdrawn</result>
+      <band id="7910">Arlesey Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

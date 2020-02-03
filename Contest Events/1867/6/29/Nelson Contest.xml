@@ -1,0 +1,105 @@
+<contest-event id="7282">
+  <event-date date="1867-6-29">June 29, 1867<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1424">Nelson, Lancashire, England, UK</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+
+
+  8 bands competed.
+Prizes: £20 and 6 guinea cornet, £10 and 6 guinea soprano, £5, £2 10s, £1
+
+</notes>
+
+  <created>Sept. 27, 2011, 11:20 a.m.</created>
+  <last-modified>June 8, 2012, 9:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="81269">
+      <result code="1">1</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="305272">John Lord</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="92801">
+      <result code="2">2</result>
+      <band id="2455">Keighley Band</band>
+      <conductor id="306105">John Midgley</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="92802">
+      <result code="3">3</result>
+      <band id="7022">Todmorden Amateur</band>
+      <conductor id="298535">William Brooke</conductor>
+      <test-piece id="1359">Martha [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="92803">
+      <result code="4">4</result>
+      <band id="5105">Healey Hall Band</band>
+      <conductor id="304849">Joseph Law</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109120">
+      <result code="5">5</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="308609">W. Ruston</conductor>
+      <test-piece id="1931">Macbeth [unknown composer, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109121">
+      <result code="">Unknown Result</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="300585">James Duerden</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109119">
+      <result code="">Unknown Result</result>
+      <band id="3498">Buttershaw Mills (Bradford)</band>
+      <conductor id="303855">Henry Jackson</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109122">
+      <result code="">Unknown Result</result>
+      <band id="5020">Kirkburton</band>
+      <conductor id="307945">M. Rawlinson</conductor>
+      <test-piece id="1931">Macbeth [unknown composer, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109123">
+      <result code="W">Withdrawn</result>
+      <band id="18368">Shipley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109124">
+      <result code="W">Withdrawn</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

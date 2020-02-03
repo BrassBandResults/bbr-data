@@ -1,0 +1,58 @@
+<contest-event id="38072">
+  <event-date date="1904-7-23">July 23, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chapeltown Contest</name>
+  <contest id="2020">
+    <name>Chapeltown Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chapeltown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2957">Cricket Field, Chapeltown, Sheffield</venue>
+  <notes>6 bands competed
+
+Choice of test piece: &quot;La Favorita&quot; or &quot;Songs of Schubert&quot;
+
+March contest: 1. Grimesthorpe, 2. Canklow</notes>
+
+  <created>May 24, 2017, 3:25 p.m.</created>
+  <last-modified>May 24, 2017, 3:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="274842">
+      <result code="1">1</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="274843">
+      <result code="2">2</result>
+      <band id="3559">Wombwell Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274844">
+      <result code="3">3</result>
+      <band id="6581">Canklow</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274845">
+      <result code="4">4</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

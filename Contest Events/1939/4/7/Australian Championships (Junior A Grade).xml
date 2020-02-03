@@ -1,0 +1,42 @@
+<contest-event id="41907">
+  <event-date date="1939-4-7">April 7, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior A Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="7069">Maryborough Show Ground    Maryborough  Queensland</venue>
+  <notes></notes>
+
+  <created>March 8, 2019, 10:15 p.m.</created>
+  <last-modified>March 8, 2019, 10:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="305311">
+      <result code="1">1</result>
+      <band id="17306">Maryborough Boys</band>
+      <conductor id="311364">Sam Whitaker</conductor>
+    </result>
+    
+    <result id="305312">
+      <result code="2">2</result>
+      <band id="17344">Lismore Citizens &amp; Boys   (NSW)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

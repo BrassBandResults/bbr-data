@@ -1,0 +1,72 @@
+<contest-event id="38900">
+  <event-date date="1888-9-24">Sept. 24, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sandbach Contest</name>
+  <contest id="2373">
+    <name>Sandbach Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sandbach-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1727">Sandbach, Cheshire, England, UK</venue>
+  <notes>5 bands competed.
+</notes>
+
+  <created>Nov. 29, 2017, 9:22 p.m.</created>
+  <last-modified>Oct. 31, 2019, 4 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283042">
+      <result code="1">1</result>
+      <band id="17208">Hanley Church Mission</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2957">Victory Overture</test-piece>
+    </result>
+    
+    <result id="283009">
+      <result code="2">2</result>
+      <band id="8103">Burslem Port Vale</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="283010">
+      <result code="3">3</result>
+      <band id="6601">Congleton Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="283012">
+      <result code="">Unknown Result</result>
+      <band id="9869">Wheelock Heath</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="283011">
+      <result code="">Unknown Result</result>
+      <band id="6130">6th Staffordshire Rifle Volunteers (Burslem)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1573">Excelsior [Round]</test-piece>
+    </result>
+    
+    <result id="313096">
+      <result code="W">Withdrawn</result>
+      <band id="16556">Hanley Mission</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

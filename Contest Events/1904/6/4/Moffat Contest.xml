@@ -1,0 +1,61 @@
+<contest-event id="40202">
+  <event-date date="1904-6-4">June 4, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Moffat Contest</name>
+  <contest id="1890">
+    <name>Moffat Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>moffat-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1337">Moffat, Dumfriesshire</venue>
+  <notes>Prizes - 1st £30, 2nd £15, 3rd £10, 4th £5, 5th £3.
+5 bands competed</notes>
+
+  <created>Aug. 28, 2018, 10:21 a.m.</created>
+  <last-modified>Aug. 30, 2018, 9:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292264">
+      <result code="1">1</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="292261">
+      <result code="2">2</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="312302">W. Atkinson</conductor>
+    </result>
+    
+    <result id="292263">
+      <result code="3">3</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="292265">
+      <result code="4">4</result>
+      <band id="658">Dumfries Town</band>
+      <conductor id="299958">James Crozier</conductor>
+    </result>
+    
+    <result id="292262">
+      <result code="5">5</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

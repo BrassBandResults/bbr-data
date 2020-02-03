@@ -1,0 +1,62 @@
+<contest-event id="25678">
+  <event-date date="1928-5-26">May 26, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Penzance Contest (First Section)</name>
+  <contest id="4547">
+    <name>Penzance Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="435">Penzance Contest</group>
+    <slug>penzance-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3942">St. Clare, Penzance, Cornwall</venue>
+  <notes>Prizes: £20, £14, £8
+
+Hymn: 1. Camborne, 2. St Dennis, 3. Newquay</notes>
+
+  <created>Dec. 20, 2013, 5:03 p.m.</created>
+  <last-modified>Dec. 20, 2013, 5:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186001">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="186002">
+      <result code="2">2</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="186003">
+      <result code="3">3</result>
+      <band id="8612">Hayle Silver</band>
+      <conductor id="310090">John Tanner</conductor>
+    </result>
+    
+    <result id="186004">
+      <result code="">Unknown Result</result>
+      <band id="1296">Newquay Band</band>
+      <conductor id="304319">William Juleff</conductor>
+    </result>
+    
+    <result id="186000">
+      <result code="">Unknown Result</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="311939">E. F. Woodhead</conductor>
+    </result>
+    
+  </results>
+</contest-event>

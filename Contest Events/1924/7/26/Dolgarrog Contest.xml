@@ -1,0 +1,55 @@
+<contest-event id="41020">
+  <event-date date="1924-7-26">July 26, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgarrog Contest</name>
+  <contest id="6419">
+    <name>Dolgarrog Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgarrog-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2823">Woodland Revels</test-piece>
+  </test-piece>
+
+  <venue id="6993">Dolgarrog, Caernarvonshire</venue>
+  <notes>March contest - 1st Llandulas, 2nd Llan Festiniog.
+4 bands competed.</notes>
+
+  <created>Oct. 29, 2018, 4:47 p.m.</created>
+  <last-modified>Oct. 29, 2018, 4:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297913">
+      <result code="1">1</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="297915">
+      <result code="">Unknown Result</result>
+      <band id="12764">Flint Choral Societies</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297914">
+      <result code="">Unknown Result</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297916">
+      <result code="">Unknown Result</result>
+      <band id="4570">Llanrwst Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

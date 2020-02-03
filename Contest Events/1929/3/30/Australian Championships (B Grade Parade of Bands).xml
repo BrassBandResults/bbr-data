@@ -1,0 +1,58 @@
+<contest-event id="41739">
+  <event-date date="1929-3-30">March 30, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade Parade of Bands)</name>
+  <contest id="3015">
+    <name>Australian Championships (B Grade Parade of Bands)</name>
+    <order>1020</order>
+    <contest-type id="20">March Contest (Music and Inspection Points)</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade-parade-of-bands</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6066">Mackay, Queensland, Australia</venue>
+  <notes>Judged on music only</notes>
+
+  <created>Jan. 31, 2019, 9:47 p.m.</created>
+  <last-modified>Jan. 31, 2019, 9:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="303877">
+      <result code="1">1</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="318856">F. G. W. McLeod</conductor>
+      <test-piece id="2488">March: The Black Knight</test-piece>
+    </result>
+    
+    <result id="303878">
+      <result code="2">2</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+      <test-piece id="2622">March: The Call of the Road</test-piece>
+    </result>
+    
+    <result id="303879">
+      <result code="2">2</result>
+      <band id="13737">Cairns Railway</band>
+      <conductor id="302934">J. Henry</conductor>
+      <test-piece id="2534">March: The Victor&#39;s Return</test-piece>
+    </result>
+    
+    <result id="303880">
+      <result code="4">4</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="299893">Len Crew</conductor>
+      <test-piece id="2752">March: Brilliant</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

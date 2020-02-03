@@ -1,0 +1,80 @@
+<contest-event id="24364">
+  <event-date date="1928-7-14">July 14, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Strathaven Contest (Section 2)</name>
+  <contest id="3249">
+    <name>Strathaven Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="428">Strathaven Contest</group>
+    <slug>strathaven-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="4106">West Overton Park, Strathaven, Lanarkshire</venue>
+  <notes>
+  Prizes - 1st £12 and cup, 2nd £8, 3rd 4.
+  8 bands competed.</notes>
+
+  <created>Oct. 7, 2013, 7:09 a.m.</created>
+  <last-modified>Nov. 27, 2018, 12:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="177824">
+      <result code="1">1</result>
+      <band id="375">Renfrew Burgh Band</band>
+      <conductor id="307318">John Peckham</conductor>
+    </result>
+    
+    <result id="177825">
+      <result code="2">2</result>
+      <band id="5482">Stonehouse [Lanarkshire]</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="177826">
+      <result code="3">3</result>
+      <band id="646">Croy Silver Band</band>
+      <conductor id="310365">Robert Thomson</conductor>
+    </result>
+    
+    <result id="177827">
+      <result code="">Unknown Result</result>
+      <band id="5477">Banknock Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177830">
+      <result code="">Unknown Result</result>
+      <band id="649">Coalburn Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177831">
+      <result code="">Unknown Result</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177828">
+      <result code="">Unknown Result</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177829">
+      <result code="">Unknown Result</result>
+      <band id="5229">Duntocher</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

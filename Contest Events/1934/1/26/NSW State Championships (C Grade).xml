@@ -1,0 +1,54 @@
+<contest-event id="35805">
+  <event-date date="1934-1-26">Jan. 26, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (C Grade)</name>
+  <contest id="618">
+    <name>NSW State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="529">The Crusaders</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>Only Starter.</notes>
+
+  <created>July 31, 2016, 11:19 p.m.</created>
+  <last-modified>Sept. 21, 2016, 11:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259910">
+      <result code="1">1</result>
+      <band id="13705">Petersham - Dulwich Hill [NSW]</band>
+      <conductor id="300860">R. H. Elliott</conductor>
+    </result>
+    
+    <result id="259912">
+      <result code="W">Withdrawn</result>
+      <band id="12002">Central Coast Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259911">
+      <result code="W">Withdrawn</result>
+      <band id="13710">Paddington Municipal</band>
+      <conductor id="309301">A. Smith</conductor>
+    </result>
+    
+    <result id="259913">
+      <result code="W">Withdrawn</result>
+      <band id="14123">St.George District Boys</band>
+      <conductor id="312044">Howard Wright</conductor>
+    </result>
+    
+  </results>
+</contest-event>

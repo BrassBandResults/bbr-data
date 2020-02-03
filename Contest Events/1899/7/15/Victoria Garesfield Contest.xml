@@ -1,0 +1,74 @@
+<contest-event id="12442">
+  <event-date date="1899-7-15">July 15, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victoria Garesfield Contest</name>
+  <contest id="2570">
+    <name>Victoria Garesfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>victoria-garesfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1855">Sunny Spain</test-piece>
+  </test-piece>
+
+  <venue id="1927">Victoria Garesfield, County Durham</venue>
+  <notes>
+
+  1st prize £10.
+  2nd prize £5.
+  3rd prize £3.
+  4th prize £2.
+  5th prize £1.
+
+  March contest 1st (£1  Consett Ironworks,  2nd (10s.) Westwood.</notes>
+
+  <created>April 14, 2012, 4:25 p.m.</created>
+  <last-modified>April 14, 2012, 4:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99455">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="99456">
+      <result code="2">2</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="99457">
+      <result code="3">3</result>
+      <band id="6921">Throckley</band>
+      <conductor id="302879">J. Hedley</conductor>
+    </result>
+    
+    <result id="99458">
+      <result code="4">4</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="99459">
+      <result code="5">5</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="99460">
+      <result code="6">6</result>
+      <band id="7832">Hamsterley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

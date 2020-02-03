@@ -1,0 +1,74 @@
+<contest-event id="28652">
+  <event-date date="1948-8-28">Aug. 28, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cirencester Contest (Open Section)</name>
+  <contest id="3891">
+    <name>Cirencester Contest (Open Section)</name>
+    <order>210</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="400">Cirencester Contest</group>
+    <slug>cirencester-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1687">Recollections of Mendelssohn</test-piece>
+  </test-piece>
+
+  <venue id="4874">Grammar School Playing Fields, Cirencester</venue>
+  <notes>March: 1. Woodfalls, 2. Drybrook, 3. Kingswood
+Deportment: 1. City of Gloucester, 2. Lydney, 3. Drybrook.
+Prizes - 1st £20 and cup, 2nd £15, 3rd £10, 4th £5.</notes>
+
+  <created>June 18, 2014, 5:49 p.m.</created>
+  <last-modified>Feb. 22, 2019, 10:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="204652">
+      <result code="1">1</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204653">
+      <result code="2">2</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204654">
+      <result code="3">3</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255966">
+      <result code="4">4</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255967">
+      <result code="5">5</result>
+      <band id="2133">Ercol</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204656">
+      <result code="">Unknown Result</result>
+      <band id="8342">City of Gloucester Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204655">
+      <result code="">Unknown Result</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

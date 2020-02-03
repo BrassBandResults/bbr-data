@@ -1,0 +1,70 @@
+<contest-event id="15018">
+  <event-date date="1912-8-3">Aug. 3, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Houghton Main Contest</name>
+  <contest id="3137">
+    <name>Houghton Main Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>houghton-main-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="1653">Houghton Main, South Yorkshire</venue>
+  <notes>
+
+  Waltz contest 1st Horbury, 2nd Dannemora,  3rd Rockingham.
+
+  6 bands competed.</notes>
+
+  <created>Oct. 1, 2012, 4:15 p.m.</created>
+  <last-modified>Oct. 1, 2012, 4:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="117057">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="117058">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="117059">
+      <result code="3">3</result>
+      <band id="133">Horbury Victoria Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="117060">
+      <result code="4">4</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="117061">
+      <result code="">Unknown Result</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="300247">L. Dawson</conductor>
+    </result>
+    
+    <result id="117062">
+      <result code="">Unknown Result</result>
+      <band id="3564">Wombwell Town</band>
+      <conductor id="303178">Major Hitchen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

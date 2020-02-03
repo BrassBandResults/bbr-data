@@ -1,0 +1,43 @@
+<contest-event id="18769">
+  <event-date date="1945-8-25">Aug. 25, 1945<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Huddersfield &amp; District BBA Contest (Section B)</name>
+  <contest id="3492">
+    <name>Huddersfield &amp; District BBA September Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="450">Huddersfield &amp; District BBA September Contest</group>
+    <slug>huddersfield-district-bba-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="789">Wayside Scenes</test-piece>
+  </test-piece>
+
+  <venue id="5653">Greenhead Park, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes> March contest 1st Flockton, 2nd Marsden M.I.
+2 bands competed.</notes>
+
+  <created>March 2, 2013, 4:57 p.m.</created>
+  <last-modified>June 7, 2018, 10:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="140784">
+      <result code="1">1</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="304362">Willie Kaye</conductor>
+    </result>
+    
+    <result id="140785">
+      <result code="2">2</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="297218">N. Atkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

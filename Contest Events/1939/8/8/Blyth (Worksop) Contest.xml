@@ -1,0 +1,57 @@
+<contest-event id="26222">
+  <event-date date="1939-8-8">Aug. 8, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blyth (Worksop) Contest</name>
+  <contest id="5085">
+    <name>Blyth (Worksop) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blyth-worksop-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1368">Recollections of Weber</test-piece>
+  </test-piece>
+
+  <venue id="4447">The Showground, Blyth Hall Park, Blyth, Notts</venue>
+  <notes> Prizes - 1st £10 and cup, 2nd £7, 3rd £5.
+  March contest - 1st(£2) Brodsworth Colliery, 2nd(£1) Firbeck Colliery.
+  Promoted by Blyth Agricultural Society.
+  4 bands competed.</notes>
+
+  <created>Jan. 30, 2014, 11:12 a.m.</created>
+  <last-modified>Sept. 6, 2016, 11:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189825">
+      <result code="1">1</result>
+      <band id="1690">Firbeck Colliery</band>
+      <conductor id="303113">Alexander Hilton</conductor>
+    </result>
+    
+    <result id="189826">
+      <result code="2">2</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="307097">W. Park</conductor>
+    </result>
+    
+    <result id="189827">
+      <result code="3">3</result>
+      <band id="876">Harworth Brass</band>
+      <conductor id="304455">H. Kennedy</conductor>
+    </result>
+    
+    <result id="189828">
+      <result code="4">4</result>
+      <band id="3320">Attercliffe Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

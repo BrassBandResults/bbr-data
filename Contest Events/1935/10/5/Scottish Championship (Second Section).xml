@@ -1,0 +1,68 @@
+<contest-event id="7577">
+  <event-date date="1935-10-5">Oct. 5, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Second Section)</name>
+  <contest id="63">
+    <name>Scottish Championship (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1362">I Due Foscari</test-piece>
+  </test-piece>
+
+  <venue id="1419">Hamilton, South Lanarkshire, Scotland, UK</venue>
+  <notes>15 bands played.
+
+Prizes: £10, £6 10s, £4 10s, £2 10s, £1, 10s</notes>
+
+  <created>Oct. 7, 2011, 2:51 p.m.</created>
+  <last-modified>Aug. 7, 2013, 10:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="68174">
+      <result code="1">1</result>
+      <band id="5468">Lesmahagow Miners</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="68175">
+      <result code="2">2</result>
+      <band id="5452">Gartsherrie Silver</band>
+      <conductor id="302047">Gregor Grant</conductor>
+    </result>
+    
+    <result id="68176">
+      <result code="3">3</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="302391">John Haldane</conductor>
+    </result>
+    
+    <result id="68177">
+      <result code="4">4</result>
+      <band id="5554">Knightswood Silver</band>
+      <conductor id="300867">J. Ellis</conductor>
+    </result>
+    
+    <result id="166868">
+      <result code="5">5</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166869">
+      <result code="6">6</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

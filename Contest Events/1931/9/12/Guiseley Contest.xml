@@ -1,0 +1,78 @@
+<contest-event id="14760">
+  <event-date date="1931-9-12">Sept. 12, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Guiseley Contest</name>
+  <contest id="1272">
+    <name>Guiseley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>guiseley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1056">The Golden Age</test-piece>
+  </test-piece>
+
+  <venue id="4221">White Cross Pleasure Grounds, Guiseley, Yorkshire</venue>
+  <notes>  13 bands competed.</notes>
+
+  <created>Sept. 18, 2012, 11:04 a.m.</created>
+  <last-modified>Dec. 17, 2018, 12:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="115860">
+      <result code="1">1</result>
+      <band id="445">Yeadon Old Band</band>
+      <conductor id="303883">Walter Jackson</conductor>
+    </result>
+    
+    <result id="181258">
+      <result code="2">2</result>
+      <band id="3821">West Ardsley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181259">
+      <result code="3">3</result>
+      <band id="3309">South Kirkby</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181260">
+      <result code="4">4</result>
+      <band id="2614">Horsforth Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181261">
+      <result code="5">5</result>
+      <band id="10084">Wilsden Boys</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181262">
+      <result code="6">6</result>
+      <band id="11601">Thornbury Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302506">
+      <result code="">Unknown Result</result>
+      <band id="3196">Guiseley Brass Band</band>
+      <conductor id="309782">W. Stevenson</conductor>
+    </result>
+    
+    <result id="302505">
+      <result code="">Unknown Result</result>
+      <band id="3576">Stourton Memorial</band>
+      <conductor id="306700">John W. Newton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

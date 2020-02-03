@@ -1,0 +1,67 @@
+<contest-event id="24785">
+  <event-date date="1932-9-3">Sept. 3, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Huddersfield &amp; District BBA Contest (Section A)</name>
+  <contest id="3491">
+    <name>Huddersfield &amp; District BBA September Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="450">Huddersfield &amp; District BBA September Contest</group>
+    <slug>huddersfield-district-bba-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="966">Undine</test-piece>
+  </test-piece>
+
+  <venue id="5653">Greenhead Park, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes>  Result of own choice section - 1st Elland, 2nd Honley, 3rd Denby Dale.
+6 bands competed.</notes>
+
+  <created>Oct. 31, 2013, 11:32 a.m.</created>
+  <last-modified>March 30, 2017, 12:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181223">
+      <result code="1">1</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="304362">Willie Kaye</conductor>
+    </result>
+    
+    <result id="181224">
+      <result code="2">2</result>
+      <band id="2612">Denby United Silver Prize Band</band>
+      <conductor id="304362">Willie Kaye</conductor>
+    </result>
+    
+    <result id="181225">
+      <result code="3">3</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="181226">
+      <result code="4">4</result>
+      <band id="3579">Emley Public</band>
+      <conductor id="311559">J. Wilkinson</conductor>
+    </result>
+    
+    <result id="265527">
+      <result code="">Unknown Result</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="304361">W. Kaye</conductor>
+    </result>
+    
+    <result id="265528">
+      <result code="">Unknown Result</result>
+      <band id="145">Elland Silver Band</band>
+      <conductor id="299951">Jerry Crowther</conductor>
+    </result>
+    
+  </results>
+</contest-event>

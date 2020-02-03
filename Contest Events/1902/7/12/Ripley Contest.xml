@@ -1,0 +1,57 @@
+<contest-event id="37580">
+  <event-date date="1902-7-12">July 12, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ripley Contest</name>
+  <contest id="2150">
+    <name>Ripley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ripley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3360">Nottingham Road, Ripley, Derbyshire</venue>
+  <notes>Prizes: £11, £7, £4
+March contest: 1. Riddings, 2. Lea Mills, 3. Pinxton.
+5 bands competed.</notes>
+
+  <created>March 17, 2017, 5:15 p.m.</created>
+  <last-modified>July 9, 2018, 9:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="271754">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="271755">
+      <result code="2">2</result>
+      <band id="292">Riddings Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="271756">
+      <result code="3">3</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="271757">
+      <result code="">Unknown Result</result>
+      <band id="7834">Pinxton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,76 @@
+<contest-event id="21869">
+  <event-date date="1903-7-11">July 11, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wolsingham Contest</name>
+  <contest id="1986">
+    <name>Wolsingham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wolsingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2202">Sweet Songs of Old</test-piece>
+  </test-piece>
+
+  <venue id="1417">Wolsingham, County Durham, England, UK</venue>
+  <notes>
+  March contest - 1st Etherley.
+Prizes - 1st £7, 2nd £2, 3rd £1.
+March contest (Farewell My Comrades) - 1st Etherley.
+7 bands competed.</notes>
+
+  <created>June 15, 2013, 1:56 p.m.</created>
+  <last-modified>Aug. 1, 2018, 9:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162510">
+      <result code="1">1</result>
+      <band id="6690">Auckland Park</band>
+      <conductor id="308895">T. Sellars</conductor>
+    </result>
+    
+    <result id="259625">
+      <result code="2">2</result>
+      <band id="7752">Wolsingham</band>
+      <conductor id="303565">W. H. Hudson</conductor>
+    </result>
+    
+    <result id="162512">
+      <result code="3">3</result>
+      <band id="6689">Peases West</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+    <result id="259627">
+      <result code="">Unknown Result</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="310998">W. Walton</conductor>
+    </result>
+    
+    <result id="259628">
+      <result code="">Unknown Result</result>
+      <band id="8171">Witton Park</band>
+      <conductor id="318159">W. Mudd</conductor>
+    </result>
+    
+    <result id="162511">
+      <result code="">Unknown Result</result>
+      <band id="6876">Etherley</band>
+      <conductor id="310203">J. Teasdale</conductor>
+    </result>
+    
+    <result id="259626">
+      <result code="">Unknown Result</result>
+      <band id="6688">Frosterley</band>
+      <conductor id="308192">R. Ridley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

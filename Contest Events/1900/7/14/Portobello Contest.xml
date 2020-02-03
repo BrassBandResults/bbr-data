@@ -1,0 +1,62 @@
+<contest-event id="22765">
+  <event-date date="1900-7-14">July 14, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Portobello Contest</name>
+  <contest id="1513">
+    <name>Portobello Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>portobello-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="3711">Brighton Park, Portobello</venue>
+  <notes>Promoted by Portobello Band
+March: 1. Carron, 2. Armadale.
+5 bands competed.</notes>
+
+  <created>Aug. 13, 2013, 4:26 p.m.</created>
+  <last-modified>June 14, 2018, 6:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168186">
+      <result code="1">1</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="168187">
+      <result code="2">2</result>
+      <band id="4531">Carron Iron Works</band>
+      <conductor id="305419">Frank MacDonald</conductor>
+    </result>
+    
+    <result id="168188">
+      <result code="3">3</result>
+      <band id="4533">Polton Mills</band>
+      <conductor id="298610">John Brown</conductor>
+    </result>
+    
+    <result id="168189">
+      <result code="4">4</result>
+      <band id="4534">Bonnyrigg and District</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="168190">
+      <result code="5">5</result>
+      <band id="2103">Armadale Burgh</band>
+      <conductor id="306502">William Muirhead</conductor>
+    </result>
+    
+  </results>
+</contest-event>

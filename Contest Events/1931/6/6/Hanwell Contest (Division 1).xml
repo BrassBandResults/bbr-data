@@ -1,0 +1,54 @@
+<contest-event id="15093">
+  <event-date date="1931-6-6">June 6, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hanwell Contest (Division 1)</name>
+  <contest id="3164">
+    <name>Hanwell Contest (Division 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="305">Hanwell Contest</group>
+    <slug>hanwell-contest-division-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1204">Lohengrin [arr. Johnstone]</test-piece>
+  </test-piece>
+
+  <venue id="2443">Elthorne Park, Hanwell, Ealing, Greater London, England, UK</venue>
+  <notes>  Best soloist - trombone  Yiewsley and West Drayton.</notes>
+
+  <created>Oct. 8, 2012, 2:14 p.m.</created>
+  <last-modified>Oct. 17, 2012, 9:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118007">
+      <result code="1">1</result>
+      <band id="4527">Willesden</band>
+      <conductor id="305959">C. McManus</conductor>
+    </result>
+    
+    <result id="118008">
+      <result code="2">2</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="311095">C. A. Waters</conductor>
+    </result>
+    
+    <result id="118009">
+      <result code="3">3</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="286256">
+      <result code="">Unknown Result</result>
+      <band id="601">Yiewsley and West Drayton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

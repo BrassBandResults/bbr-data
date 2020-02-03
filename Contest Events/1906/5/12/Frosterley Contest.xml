@@ -1,0 +1,74 @@
+<contest-event id="10618">
+  <event-date date="1906-5-12">May 12, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Frosterley Contest</name>
+  <contest id="2067">
+    <name>Frosterley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>frosterley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1709">Memories of Weber</test-piece>
+  </test-piece>
+
+  <venue id="1505">Frosterley, County Durham</venue>
+  <notes>
+
+  1st prize £10.
+  2nd prize £3.
+  3rd prize £2.
+
+  March contest 1st £1) Cockerton, 2nd (10s.) Stanhope.
+
+  6 bands competed.</notes>
+
+  <created>Feb. 24, 2012, 5:36 p.m.</created>
+  <last-modified>Feb. 24, 2012, 5:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="88876">
+      <result code="1">1</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="311154">William Watson</conductor>
+    </result>
+    
+    <result id="88877">
+      <result code="2">2</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">W. Turnbull</conductor>
+    </result>
+    
+    <result id="88878">
+      <result code="3">3</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="88881">
+      <result code="">Unknown Result</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="88879">
+      <result code="">Unknown Result</result>
+      <band id="6876">Etherley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="88880">
+      <result code="">Unknown Result</result>
+      <band id="5278">West Auckland and St.Helens Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

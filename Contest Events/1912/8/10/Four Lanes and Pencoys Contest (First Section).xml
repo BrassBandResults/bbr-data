@@ -1,0 +1,55 @@
+<contest-event id="15495">
+  <event-date date="1912-8-10">Aug. 10, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Four Lanes and Pencoys Contest (First Section)</name>
+  <contest id="3309">
+    <name>Four Lanes and Pencoys Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="464">Four Lanes and Pencoys Contest</group>
+    <slug>four-lanes-and-pencoys-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2542">Four Lanes, Redruth, Cornwall</venue>
+  <notes>Best cornet and trombone - Camborne.
+  4 bands competed.</notes>
+
+  <created>Oct. 21, 2012, 2:10 p.m.</created>
+  <last-modified>Sept. 28, 2018, 2:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119946">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="310737">William Uren</conductor>
+    </result>
+    
+    <result id="119947">
+      <result code="2">2</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="311733">R. Wills</conductor>
+    </result>
+    
+    <result id="119948">
+      <result code="3">3</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="304319">William Juleff</conductor>
+    </result>
+    
+    <result id="119949">
+      <result code="4">4</result>
+      <band id="4281">Foxhole Silver</band>
+      <conductor id="306312">John Morcom</conductor>
+    </result>
+    
+  </results>
+</contest-event>

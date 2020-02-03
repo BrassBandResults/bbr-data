@@ -1,0 +1,55 @@
+<contest-event id="26189">
+  <event-date date="1939-7-1">July 1, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Woodfalls Contest (Second Section)</name>
+  <contest id="5078">
+    <name>Woodfalls Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>woodfalls-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4440">Woodfalls, Wiltshire, England, UK</venue>
+  <notes>  March contest - 1st Christchurch, 2nd Calne.
+  4 bands competed.</notes>
+
+  <created>Jan. 29, 2014, 2:15 p.m.</created>
+  <last-modified>Jan. 29, 2014, 2:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="189651">
+      <result code="1">1</result>
+      <band id="8699">Christchurch Town</band>
+      <conductor id="310507">C. R. Toogood</conductor>
+    </result>
+    
+    <result id="189652">
+      <result code="2">2</result>
+      <band id="1263">Calne Silver Band</band>
+      <conductor id="304998">W. Lennon</conductor>
+    </result>
+    
+    <result id="189653">
+      <result code="3">3</result>
+      <band id="310">Hyde Band</band>
+      <conductor id="309105">S. C. Shutler</conductor>
+    </result>
+    
+    <result id="189654">
+      <result code="4">4</result>
+      <band id="3978">Amesbury Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

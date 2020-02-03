@@ -1,0 +1,49 @@
+<contest-event id="25732">
+  <event-date date="1930-7-26">July 26, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oldham Contest</name>
+  <contest id="3472">
+    <name>Oldham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>oldham-contest-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="3497">Alexandra Park, Oldham, Lancashire</venue>
+  <notes>Prizes - 1st £17 and cup, 2nd £12, 3rd £6.
+3 bands competed</notes>
+
+  <created>Dec. 25, 2013, 7:47 p.m.</created>
+  <last-modified>April 21, 2019, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="286249">
+      <result code="1">1</result>
+      <band id="16949">Baxendale&#39;s Works</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="301891">
+      <result code="2">2</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="304874">G. Lawson</conductor>
+    </result>
+    
+    <result id="301892">
+      <result code="3">3</result>
+      <band id="4143">Alexandra LMS</band>
+      <conductor id="299692">Robert Cooper</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,106 @@
+<contest-event id="13831">
+  <event-date date="1900-5-12">May 12, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dunstable Contest</name>
+  <contest id="1966">
+    <name>Dunstable Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>dunstable-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1398">Dunstable, Bedfordshire, England, UK</venue>
+  <notes>Waltz Competition Results:
+1st Prize - Northfleet
+2nd Prize - Finedon Old
+Reported in Contest Field, June 1900.
+9 bands competed.</notes>
+
+  <created>June 19, 2012, 7:30 p.m.</created>
+  <last-modified>June 12, 2018, 8:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="110420">
+      <result code="1">1</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="167648">
+      <result code="2">2</result>
+      <band id="7771">Northfleet Temperance</band>
+      <conductor id="303856">J. Jackson</conductor>
+    </result>
+    
+    <result id="110422">
+      <result code="3">3</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="167643">
+      <result code="4">4</result>
+      <band id="4798">Dunstable Excelsior</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="167647">
+      <result code="">Unknown Result</result>
+      <band id="4799">New Barnet</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="167649">
+      <result code="">Unknown Result</result>
+      <band id="8178">Walthamstow Town Silver</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="167641">
+      <result code="">Unknown Result</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="167645">
+      <result code="">Unknown Result</result>
+      <band id="7929">Hanslope Excelsior</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="167642">
+      <result code="">Unknown Result</result>
+      <band id="11270">Apsley Mills</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="167644">
+      <result code="W">Withdrawn</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="167650">
+      <result code="W">Withdrawn</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167646">
+      <result code="W">Withdrawn</result>
+      <band id="622">Watford</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

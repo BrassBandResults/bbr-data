@@ -1,0 +1,48 @@
+<contest-event id="13492">
+  <event-date date="1931-1-31">Jan. 31, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oadby Contest (Section 1)</name>
+  <contest id="2846">
+    <name>Oadby Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="366">Oadby Contest</group>
+    <slug>oadby-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1960">Concert Suite [Cui]</test-piece>
+  </test-piece>
+
+  <venue id="2181">Oadby, Leicestershire, England, UK</venue>
+  <notes></notes>
+
+  <created>May 19, 2012, 8:54 a.m.</created>
+  <last-modified>Dec. 4, 2012, 10:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106983">
+      <result code="1">1</result>
+      <band id="5921">Whetstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106984">
+      <result code="2">2</result>
+      <band id="386">Croft Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106986">
+      <result code="3">3</result>
+      <band id="2349">Fleckney Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,76 @@
+<contest-event id="25346">
+  <event-date date="1902-5-17">May 17, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grangetown Contest</name>
+  <contest id="2103">
+    <name>Grangetown Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="349">Grangetown Contest</group>
+    <slug>grangetown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4270">Recreation Ground, Grangetown, North Yorkshire</venue>
+  <notes>Promoted by Cleveland Steelworks Band
+Choice of test pieces: &quot;Beethoven&quot; or &quot;The Slave&quot;
+Prizes: £10, £6, £4, £1
+7 bands competed.
+</notes>
+
+  <created>Nov. 29, 2013, 7:19 p.m.</created>
+  <last-modified>July 4, 2018, 9:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="271204">
+      <result code="1">1</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="299950">J. Crowther</conductor>
+    </result>
+    
+    <result id="271205">
+      <result code="2">2</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="271206">
+      <result code="3">3</result>
+      <band id="5391">Guisborough 1st N.Y.V.A.</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="271207">
+      <result code="4">4</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="291181">
+      <result code="">Unknown Result</result>
+      <band id="6629">Brotton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291182">
+      <result code="">Unknown Result</result>
+      <band id="7086">Port Clarence</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291183">
+      <result code="">Unknown Result</result>
+      <band id="6682">South Bank Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

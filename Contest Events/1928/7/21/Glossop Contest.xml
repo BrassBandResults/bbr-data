@@ -1,0 +1,49 @@
+<contest-event id="24380">
+  <event-date date="1928-7-21">July 21, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glossop Contest</name>
+  <contest id="1448">
+    <name>Glossop Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>glossop-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi</test-piece>
+  </test-piece>
+
+  <venue id="1901">Glossop, Derbyshire</venue>
+  <notes>Prizes - 1st £16 and cup, 2nd £10, 3rd £6.
+3 bands competed.</notes>
+
+  <created>Oct. 7, 2013, 11:36 a.m.</created>
+  <last-modified>Nov. 27, 2018, 9:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="177897">
+      <result code="1">1</result>
+      <band id="766">Chapel-en-le-Frith Band</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="177898">
+      <result code="2">2</result>
+      <band id="1668">Hollingworth</band>
+      <conductor id="306784">H. Norbury</conductor>
+    </result>
+    
+    <result id="177899">
+      <result code="3">3</result>
+      <band id="8298">Gorton Silver Band</band>
+      <conductor id="312016">F. Worth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

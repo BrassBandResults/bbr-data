@@ -1,0 +1,70 @@
+<contest-event id="25493">
+  <event-date date="1923-7-21">July 21, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shirebrook Contest</name>
+  <contest id="1943">
+    <name>Shirebrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="255">Shirebrook Contest</group>
+    <slug>shirebrook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4330">Colliery Cricket Field, Shirebrook, Derbyshire</venue>
+  <notes>Prizes - 1st £22 and cup, 2nd £15, 3rd £7, 4th £5.
+March: 1. South Elmsall, 2. Kirkby Old.
+Choice of Sailor Songs or Lucia di Lammermoor.
+6 bands competed
+</notes>
+
+  <created>Dec. 9, 2013, 9:34 p.m.</created>
+  <last-modified>Oct. 19, 2018, 10:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185110">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="185111">
+      <result code="2">2</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="185113">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="296723">
+      <result code="">Unknown Result</result>
+      <band id="4141">Chesterfield Town &amp; Old Comrades</band>
+      <conductor id="309039">L. Sheppard</conductor>
+    </result>
+    
+    <result id="185112">
+      <result code="">Unknown Result</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296724">
+      <result code="">Unknown Result</result>
+      <band id="489">Shirebrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

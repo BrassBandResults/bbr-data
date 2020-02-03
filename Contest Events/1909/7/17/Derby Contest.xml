@@ -1,0 +1,80 @@
+<contest-event id="15844">
+  <event-date date="1909-7-17">July 17, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2205">La Gitana</test-piece>
+  </test-piece>
+
+  <venue id="485">Derby, Derbyshire, England, UK</venue>
+  <notes>  Prizes 1st £7, 2nd £4, 3rd £2, 4th £1.
+
+  8 bands competed.</notes>
+
+  <created>Nov. 5, 2012, 1:52 p.m.</created>
+  <last-modified>Nov. 5, 2012, 2:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122225">
+      <result code="1">1</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122226">
+      <result code="2">2</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122227">
+      <result code="3">3</result>
+      <band id="7092">Derby Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122228">
+      <result code="4">4</result>
+      <band id="4572">Stapleford Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122230">
+      <result code="">Unknown Result</result>
+      <band id="6852">Alvaston and Boulton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122231">
+      <result code="">Unknown Result</result>
+      <band id="9854">Derby Junction Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122232">
+      <result code="">Unknown Result</result>
+      <band id="7170">Derby Keddleston Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122229">
+      <result code="">Unknown Result</result>
+      <band id="9853">Derby Postmen</band>
+      <conductor id="319634">C.T. Nuttall</conductor>
+    </result>
+    
+  </results>
+</contest-event>

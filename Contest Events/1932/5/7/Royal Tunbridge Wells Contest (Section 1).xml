@@ -1,0 +1,49 @@
+<contest-event id="24801">
+  <event-date date="1932-5-7">May 7, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 1)</name>
+  <contest id="1043">
+    <name>Royal Tunbridge Wells Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="966">Undine</test-piece>
+  </test-piece>
+
+  <venue id="2215">Calverley Grounds, Tunbridge Wells, Kent</venue>
+  <notes>Prizes - 1st £4.4s., 2nd £3, 3rd £2.
+3 bands competed.</notes>
+
+  <created>Nov. 1, 2013, 10:44 p.m.</created>
+  <last-modified>Dec. 20, 2018, 4:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181374">
+      <result code="1">1</result>
+      <band id="5438">City of Canterbury</band>
+      <conductor id="309470">W. H. Smith</conductor>
+    </result>
+    
+    <result id="181375">
+      <result code="2">2</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="309469">W. A.  Smith</conductor>
+    </result>
+    
+    <result id="181376">
+      <result code="3">3</result>
+      <band id="4802">Caterham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

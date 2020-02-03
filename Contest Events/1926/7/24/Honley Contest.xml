@@ -1,0 +1,61 @@
+<contest-event id="41247">
+  <event-date date="1926-7-24">July 24, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Honley Contest</name>
+  <contest id="1358">
+    <name>Honley Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="337">Honley Contest</group>
+    <slug>honley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2564">Oberon [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="877">Honley, West Yorkshire</venue>
+  <notes>March contest - 1st Sowerby Bridge, 2nd Bradford City.
+5 bands competed</notes>
+
+  <created>Nov. 12, 2018, 11:56 a.m.</created>
+  <last-modified>Nov. 12, 2018, noon</last-modified>
+
+  <results>
+    
+    <result id="299705">
+      <result code="1">1</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299706">
+      <result code="2">2</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299707">
+      <result code="3">3</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299708">
+      <result code="4">4</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299709">
+      <result code="5">5</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

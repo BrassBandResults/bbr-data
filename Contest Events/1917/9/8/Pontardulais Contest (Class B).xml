@@ -1,0 +1,56 @@
+<contest-event id="40603">
+  <event-date date="1917-9-8">Sept. 8, 1917<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontardulais Contest (Class B)</name>
+  <contest id="6370">
+    <name>Pontardulais Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontardulais-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="538">I Lombardi</test-piece>
+  </test-piece>
+
+  <venue id="5684">Coedbach, Pontardulais, Glamorgan, Wales</venue>
+  <notes>Promoted by Pontardulais band.
+Prizes n- 1st £8, 2nd £4, 3rd £2.
+4 bands competed.</notes>
+
+  <created>Oct. 8, 2018, 2:45 p.m.</created>
+  <last-modified>Oct. 8, 2018, 2:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295425">
+      <result code="1">1</result>
+      <band id="17397">Gorseinon Temperance</band>
+      <conductor id="309956">H. Sutcliffe</conductor>
+    </result>
+    
+    <result id="295423">
+      <result code="2">2</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="307741">Ernest Pritchard</conductor>
+    </result>
+    
+    <result id="295424">
+      <result code="3">3</result>
+      <band id="6969">Waunarlwydd</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="295426">
+      <result code="4">4</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

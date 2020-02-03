@@ -1,0 +1,48 @@
+<contest-event id="39623">
+  <event-date date="1911-8-12">Aug. 12, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Vaynol Contest</name>
+  <contest id="4159">
+    <name>Vaynol Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>vaynol-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5575">A Cambrian Tour</test-piece>
+  </test-piece>
+
+  <venue id="3454">Vaynol Park, Gwynedd, Wales, UK</venue>
+  <notes>Prizes - 1st £18, 2nd £6, 3rd £3.</notes>
+
+  <created>May 19, 2018, 6:28 a.m.</created>
+  <last-modified>May 22, 2018, 8:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287265">
+      <result code="1">1</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="287264">
+      <result code="2">2</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="287263">
+      <result code="3">3</result>
+      <band id="17061">Bangor City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
