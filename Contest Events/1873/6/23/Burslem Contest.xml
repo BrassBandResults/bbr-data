@@ -1,0 +1,97 @@
+<contest-event id="8492">
+  <event-date date="1873-6-23">June 23, 1873<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burslem Contest</name>
+  <contest id="1514">
+    <name>Burslem Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>burslem-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2182">Le Comte Ory</test-piece>
+  </test-piece>
+
+  <venue id="983">Porthill Park, Burslem</venue>
+  <notes>Prizes: £35 15s, £22 10s, £17 9s, £11 7s
+
+
+See
+http://www.ibew.org.uk/misc4287.htm
+
+Band Contest - Porthill Park, Burslem
+A contest of brass bands took place Porthill Park. Eight bands competed, and the prizes were won by the following: Kingston (near Manchester), first; Stalybridge Old Band, second; Compstall Bridge, third; 1st Staffordshire Artillery, fourth.</notes>
+
+  <created>Dec. 7, 2011, 3:58 p.m.</created>
+  <last-modified>Oct. 21, 2012, 2:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="75425">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310185">Reuben Taylor</conductor>
+    </result>
+    
+    <result id="75426">
+      <result code="2">2</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="308000">John Reece</conductor>
+    </result>
+    
+    <result id="75427">
+      <result code="3">3</result>
+      <band id="2792">Compstall Band</band>
+      <conductor id="306616">John Naylor</conductor>
+    </result>
+    
+    <result id="75428">
+      <result code="4">4</result>
+      <band id="5905">1st Staffordshire Artillery</band>
+      <conductor id="300253">Thomas Dawson</conductor>
+    </result>
+    
+    <result id="119964">
+      <result code="5">5</result>
+      <band id="9710">Denton and Haughton Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119969">
+      <result code="6">6</result>
+      <band id="9711">Congleton Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119965">
+      <result code="7">7</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119967">
+      <result code="8">8</result>
+      <band id="8967">20th Staffordshire Volunteer Rifles (Bromwich)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119968">
+      <result code="">Unknown Result</result>
+      <band id="6159">Derby Rifle Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119966">
+      <result code="">Unknown Result</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

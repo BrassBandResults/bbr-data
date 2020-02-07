@@ -1,0 +1,69 @@
+<contest-event id="13784">
+  <event-date date="1868-5-9">May 9, 1868<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Salterforth Contest</name>
+  <contest id="2923">
+    <name>Salterforth Contest</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id=""></group>
+    <slug>salterforth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2243">Aqueduct Field, Salterforth</venue>
+  <notes>Order of play drawn at 3.30, contest commenced at 4 p.m.
+At the conclusion of the contest, prior to the decision of the judge, the united bands were instructed to play “God Save the Queen,” and “any band refusing to join shall forfeit the prize which otherwise might be due.” 
+
+First prize. £4 4s and one “Star Jupiter” cornet, value £9 9s., of the highest class fabrication of the celebrated manufacturer, F. Besson, London, presented by the committee. 
+Second Prize, £3 3s.
+Solo Prize, £1 1s., for B flat cornets: John Wilkinson, Kelbrook Band.
+
+For the solo prize, on B flat cornets, the test piece was “ The Last Rose of Summer” (with variations) and the contestants were : 
+Joseph Windle, Ribblesdale Band 
+James Bailey, Earby Band 
+Thomas Whittaker, Model Band 
+John Wilkinson, Kelbrook Band. </notes>
+
+  <created>June 14, 2012, 2:24 p.m.</created>
+  <last-modified>June 19, 2012, 10:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="110066">
+      <result code="1">1</result>
+      <band id="894">Earby Band</band>
+      <conductor id="308596">William Rushworth</conductor>
+      <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110067">
+      <result code="2">2</result>
+      <band id="8607">Barnoldswick Model</band>
+      <conductor id="305272">John Lord</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110068">
+      <result code="3">3</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="308596">William Rushworth</conductor>
+      <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110069">
+      <result code="4">4</result>
+      <band id="8610">Kelbrook</band>
+      <conductor id="303960">W. Jasper</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

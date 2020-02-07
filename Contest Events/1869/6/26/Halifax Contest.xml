@@ -1,0 +1,86 @@
+<contest-event id="13786">
+  <event-date date="1869-6-26">June 26, 1869<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Halifax Contest</name>
+  <contest id="1157">
+    <name>Halifax Contest</name>
+    <order>5</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="340">Halifax Contest</group>
+    <slug>halifax-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1455">Kyrie and Gloria from Mozart&#39;s 12th Mass [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="945">Piece Hall, Halifax, Yorkshire</venue>
+  <notes>Prizes: 20 guineas, 10 guineas, 6 guineas, 4 guineas, 2 guineas
+
+</notes>
+
+  <created>June 14, 2012, 9:27 p.m.</created>
+  <last-modified>Jan. 13, 2020, 11:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="110100">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="305247">Samuel Longbottom</conductor>
+    </result>
+    
+    <result id="110095">
+      <result code="2">2</result>
+      <band id="3297">Dewsbury Rifle Corps</band>
+      <conductor id="297271">Frank Auty</conductor>
+    </result>
+    
+    <result id="110096">
+      <result code="3">3</result>
+      <band id="3498">Buttershaw Mills (Bradford)</band>
+      <conductor id="303855">Henry Jackson</conductor>
+    </result>
+    
+    <result id="110103">
+      <result code="4">4</result>
+      <band id="5445">Stainland</band>
+      <conductor id="297814">W. Benson</conductor>
+    </result>
+    
+    <result id="110098">
+      <result code="5">5</result>
+      <band id="4016">Dodsworth&#39;s</band>
+      <conductor id="300457">J. W. Dodsworth</conductor>
+    </result>
+    
+    <result id="110097">
+      <result code="">Unknown Result</result>
+      <band id="8532">Luddendenfoot</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110099">
+      <result code="">Unknown Result</result>
+      <band id="4404">Brighouse Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110101">
+      <result code="">Unknown Result</result>
+      <band id="3718">Elland Upper Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110102">
+      <result code="">Unknown Result</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
