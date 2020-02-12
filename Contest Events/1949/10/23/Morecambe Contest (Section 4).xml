@@ -13,17 +13,19 @@
     
     
   </contest>
-  
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
   <test-piece>
     
   </test-piece>
 
   <venue id="2589">Winter Gardens, Morecambe, Lancashire</venue>
-  <notes>Choice of Pride of the Forest, Mountain Chief or Knights of Old.
+  <notes>Afternoon contest consisted of own choice test piece and march.
+
+Evening contest test piece was choice of &quot;Pride of the Forest&quot;, &quot;Mountain Chief&quot; or &quot;Knights of Old&quot;.
 12 bands competed.</notes>
 
   <created>Dec. 4, 2012, 10:58 a.m.</created>
-  <last-modified>June 30, 2016, 8:28 a.m.</last-modified>
+  <last-modified>Feb. 11, 2020, 10:43 a.m.</last-modified>
 
   <results>
     
@@ -31,36 +33,84 @@
       <result code="1">1</result>
       <band id="7480">Birdwell Brass</band>
       <conductor id="309310">Albert Smith</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
     </result>
     
     <result id="258303">
       <result code="2">2</result>
       <band id="3187">Skipton Prize</band>
       <conductor id="309339">Clarence Smith</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
     </result>
     
     <result id="258304">
       <result code="3">3</result>
       <band id="394">Brindle Band</band>
       <conductor id="306456">Harold Moss</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
     </result>
     
     <result id="258323">
       <result code="4">4</result>
       <band id="2515">Burslem Band</band>
       <conductor id="300220">Roland Davis</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
     </result>
     
     <result id="258315">
       <result code="5">5</result>
       <band id="4643">Lansil Works Lancaster</band>
       <conductor id="309956">H. Sutcliffe</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
+    </result>
+    
+    <result id="315132">
+      <result code="">Unknown Result</result>
+      <band id="349">Flookburgh Band</band>
+      <conductor id="309481">W. Smithers</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
+    </result>
+    
+    <result id="315133">
+      <result code="">Unknown Result</result>
+      <band id="6759">Litherland Silver</band>
+      <conductor id="310678">Thomas Turton</conductor>
+      <test-piece id="1097">Knights of Old</test-piece>
+    </result>
+    
+    <result id="315130">
+      <result code="">Unknown Result</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="305095">Clifford Lightbown</conductor>
+      <test-piece id="1097">Knights of Old</test-piece>
+    </result>
+    
+    <result id="315131">
+      <result code="">Unknown Result</result>
+      <band id="2562">Ecclesfield Silver</band>
+      <conductor id="310336">James Thompson</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
     </result>
     
     <result id="258316">
       <result code="">Unknown Result</result>
       <band id="2791">Calder Vale Subscription</band>
       <conductor id="298632">Arthur Brownbill</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
+    </result>
+    
+    <result id="315134">
+      <result code="">Unknown Result</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="309279">I. Small</conductor>
+      <test-piece id="1097">Knights of Old</test-piece>
+    </result>
+    
+    <result id="315135">
+      <result code="">Unknown Result</result>
+      <band id="3592">Stockport L.M.S.</band>
+      <conductor id="309473">W. S. Smith</conductor>
+      <test-piece id="422">Pride of the Forest</test-piece>
     </result>
     
   </results>
