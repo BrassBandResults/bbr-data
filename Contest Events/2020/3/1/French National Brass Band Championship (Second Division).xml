@@ -22,26 +22,29 @@
   <notes></notes>
 
   <created>April 27, 2019, 9:49 p.m.</created>
-  <last-modified>Dec. 6, 2019, 11:56 p.m.</last-modified>
+  <last-modified>March 2, 2020, 3:34 p.m.</last-modified>
 
   <results>
     
-    <result id="314354">
-      <result code="">Unknown Result</result>
-      <band id="4887">Brass Band de la Côte Picarde</band>
-      <conductor id="305286">Philippe Lottin</conductor>
-    </result>
-    
-    <result id="314355">
-      <result code="">Unknown Result</result>
+    <result id="315605">
+      <result code="1">1</result>
       <band id="12866">Brass Band du Hainaut</band>
       <conductor id="298653">Thibaut Bruniaux</conductor>
+      <test-piece id="5497">Mystic Echoes</test-piece>
     </result>
     
     <result id="314356">
-      <result code="">Unknown Result</result>
+      <result code="2">2</result>
       <band id="1253">Orchestre de Cuivres d&#39;Amiens</band>
       <conductor id="298472">Eric Brisse</conductor>
+      <test-piece id="521">Suite Gothique</test-piece>
+    </result>
+    
+    <result id="315608">
+      <result code="3">3</result>
+      <band id="4887">Brass Band de la Côte Picarde</band>
+      <conductor id="305286">Philippe Lottin</conductor>
+      <test-piece id="5551">Lions of Legend</test-piece>
     </result>
     
   </results>

@@ -26,28 +26,28 @@
 
   <results>
     
-    <result id="314359">
-      <result code="">Unknown Result</result>
-      <band id="13011">Brass Band de la Vienne</band>
-      <conductor id="299247">Mathias Charton</conductor>
-    </result>
-    
-    <result id="314360">
-      <result code="">Unknown Result</result>
-      <band id="1759">Brass band des Pays de la Loire</band>
-      <conductor id="319841">Hans Loirs</conductor>
-    </result>
-    
     <result id="314358">
-      <result code="">Unknown Result</result>
+      <result code="1">1</result>
       <band id="13007">Brass Band Les Coniques</band>
       <conductor id="318941">Antoine Fréart</conductor>
     </result>
     
+    <result id="314360">
+      <result code="2">2</result>
+      <band id="1759">Brass band des Pays de la Loire</band>
+      <conductor id="319841">Hans Loirs</conductor>
+    </result>
+    
     <result id="314357">
-      <result code="">Unknown Result</result>
+      <result code="3">3</result>
       <band id="13009">Brass Band Lorient Bretagne Sud (3BS)</band>
       <conductor id="317698">Bernard Galinier</conductor>
+    </result>
+    
+    <result id="314359">
+      <result code="4">4</result>
+      <band id="13011">Brass Band de la Vienne</band>
+      <conductor id="299247">Mathias Charton</conductor>
     </result>
     
     <result id="314361">
