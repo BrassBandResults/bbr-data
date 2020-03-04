@@ -13,16 +13,17 @@
     
     
   </contest>
-  
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
 
   <venue id="42">Pavilion Theatre, Rhyl</venue>
-  <notes>Hymn tune contest - 1st Northop 89, 2nd Bala 85.</notes>
+  <notes>Hymn tune contest - 1st Northop 89, 2nd Bala 85.
+</notes>
 
   <created>May 16, 2014, 4:01 p.m.</created>
-  <last-modified>May 16, 2014, 4:03 p.m.</last-modified>
+  <last-modified>March 3, 2020, 6:16 p.m.</last-modified>
 
   <results>
     
@@ -42,6 +43,12 @@
       <result code="3">3</result>
       <band id="1348">Flint Town Silver</band>
       <conductor id="300628">J. Dunn</conductor>
+    </result>
+    
+    <result id="315687">
+      <result code="">Unknown Result</result>
+      <band id="858">Aberystwyth Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
     </result>
     
     <result id="198077">
