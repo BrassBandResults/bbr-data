@@ -1,0 +1,87 @@
+<contest-event id="11968">
+  <event-date date="1894-3-26">March 26, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carlisle Contest (Local Section)</name>
+  <contest id="2436">
+    <name>Carlisle Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>carlisle-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1780">Gems of Scotia</test-piece>
+  </test-piece>
+
+  <venue id="1826">Castle Yard, Carlisle</venue>
+  <notes>March contest: 1. Carlisle Artillery, 2. Derwent, 3. Carlisle Rifle
+Cornet and trombone prizes to Derwent
+Euphonium prize to Kirkhouse.
+9 bands competed.</notes>
+
+  <created>April 8, 2012, 4:37 p.m.</created>
+  <last-modified>June 11, 2019, 12:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96286">
+      <result code="1">1</result>
+      <band id="7617">Kirkhouse</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="96287">
+      <result code="2">2</result>
+      <band id="3677">Derwent Iron and Steel Works</band>
+      <conductor id="300713">George Eastwood</conductor>
+    </result>
+    
+    <result id="96289">
+      <result code="">Unknown Result</result>
+      <band id="7618">Carlisle Rifle Volunteers</band>
+      <conductor id="312302">W. Atkinson</conductor>
+    </result>
+    
+    <result id="309672">
+      <result code="">Unknown Result</result>
+      <band id="7526">Haltwhistle Volunteer</band>
+      <conductor id="302923">J. Henderson</conductor>
+    </result>
+    
+    <result id="309673">
+      <result code="">Unknown Result</result>
+      <band id="7600">St John&#39;s (Workington)</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="309674">
+      <result code="">Unknown Result</result>
+      <band id="7657">Whitehaven Rifles</band>
+      <conductor id="301907">John Goddard</conductor>
+    </result>
+    
+    <result id="309676">
+      <result code="">Unknown Result</result>
+      <band id="7604">Newbrough</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+    <result id="96288">
+      <result code="">Unknown Result</result>
+      <band id="6302">Carlisle Artillery</band>
+      <conductor id="314394">T. Valentine</conductor>
+    </result>
+    
+    <result id="309675">
+      <result code="">Unknown Result</result>
+      <band id="18068">Dumfries Rifle Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,58 @@
+<contest-event id="17162">
+  <event-date date="1881-7-1">July 1, 1881<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackburn Contest</name>
+  <contest id="3499">
+    <name>Blackburn Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blackburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2814">The Park, Blackburn</venue>
+  <notes>Contest to determine the two local bands that would have the honour of playing concerts in the park that season.  </notes>
+
+  <created>Dec. 19, 2012, 10:05 a.m.</created>
+  <last-modified>Dec. 19, 2012, 10:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="130324">
+      <result code="1">1</result>
+      <band id="3792">Blackburn Borough</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="130321">
+      <result code="1">1</result>
+      <band id="6084">Blackburn Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1455">Kyrie and Gloria from Mozart&#39;s 12th Mass [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="130322">
+      <result code="2">2</result>
+      <band id="10161">Blackburn All Saints</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="130323">
+      <result code="2">2</result>
+      <band id="10162">Blackburn Guide</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2258">Popular Airs</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

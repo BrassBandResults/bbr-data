@@ -1,0 +1,43 @@
+<contest-event id="12243">
+  <event-date date="1894-8-4">Aug. 4, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Witton Park Contest</name>
+  <contest id="2136">
+    <name>Witton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>witton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1859">Kinder Waltzes</test-piece>
+  </test-piece>
+
+  <venue id="1554">Witton Park, County Durham</venue>
+  <notes>2 bands competed
+Prizes: £10, £4</notes>
+
+  <created>April 10, 2012, 8:08 p.m.</created>
+  <last-modified>June 14, 2019, 9:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98144">
+      <result code="1">1</result>
+      <band id="6085">New Shildon Temperance</band>
+      <conductor id="297014">T. Anderson</conductor>
+    </result>
+    
+    <result id="98145">
+      <result code="2">2</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+  </results>
+</contest-event>

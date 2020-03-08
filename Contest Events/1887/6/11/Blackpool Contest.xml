@@ -1,0 +1,86 @@
+<contest-event id="9265">
+  <event-date date="1887-6-11">June 11, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1001">Cinq Mars [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1043">Raikes Hall Gardens, Blackpool</venue>
+  <notes>20 bands entered, 9 competed
+Prizes: £30, £20, £15, £10, £7, £5.
+6 winning bands had to attend once each to give a concert (two bands each subsequent Saturday) and receive £15 until July 6th when all 6 would play for a prize of £20. Each unsuccessful band would receive £5. Test piece on July 6 was &#39;Victory&#39;.</notes>
+
+  <created>Dec. 29, 2011, 10:47 p.m.</created>
+  <last-modified>May 11, 2019, 8:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80141">
+      <result code="1">1</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="80142">
+      <result code="2">2</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="80143">
+      <result code="3">3</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="283069">
+      <result code="4">4</result>
+      <band id="16556">Hanley Mission</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="80145">
+      <result code="5">5</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="301806">S. Gilberthorpe</conductor>
+    </result>
+    
+    <result id="80146">
+      <result code="6">6</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="197371">
+      <result code="">Unknown Result</result>
+      <band id="12041">Wincham Old Temperance</band>
+      <conductor id="319152">J.T. Candlin</conductor>
+    </result>
+    
+    <result id="197370">
+      <result code="">Unknown Result</result>
+      <band id="2497">Bury Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="197369">
+      <result code="">Unknown Result</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

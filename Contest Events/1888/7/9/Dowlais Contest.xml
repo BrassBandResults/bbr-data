@@ -1,0 +1,72 @@
+<contest-event id="36555">
+  <event-date date="1888-7-9">July 9, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dowlais Contest</name>
+  <contest id="2611">
+    <name>Dowlais Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dowlais-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1963">Dowlais, Glamorgan</venue>
+  <notes></notes>
+
+  <created>Nov. 17, 2016, 11:39 a.m.</created>
+  <last-modified>Nov. 17, 2016, 2:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="264650">
+      <result code="1">1</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="313121">George Hanney</conductor>
+    </result>
+    
+    <result id="264649">
+      <result code="2">2</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305677">Richard Martyn</conductor>
+    </result>
+    
+    <result id="264647">
+      <result code="3">3</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="307688">James Prestwood</conductor>
+    </result>
+    
+    <result id="264648">
+      <result code="">Unknown Result</result>
+      <band id="6182">Merthyr Volunteer</band>
+      <conductor id="304272">Robert Jones</conductor>
+    </result>
+    
+    <result id="264651">
+      <result code="">Unknown Result</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="308989">Robert Shaw</conductor>
+    </result>
+    
+    <result id="264652">
+      <result code="">Unknown Result</result>
+      <band id="461">Ebbw Vale Band</band>
+      <conductor id="315652">John Lewis</conductor>
+    </result>
+    
+    <result id="264653">
+      <result code="">Unknown Result</result>
+      <band id="6261">Tredegar Volunteer</band>
+      <conductor id="315653">G. Templeton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,86 @@
+<contest-event id="7694">
+  <event-date date="1895-4-13">April 13, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colne Contest</name>
+  <contest id="1303">
+    <name>Colne Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="329">Colne Contest</group>
+    <slug>colne</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1734">Colne, Lancashire</venue>
+  <notes>12th annual contest promoted by Colne band. Prizes: £12 4s and euphonium, £9 and baritone, £6 and soprano, £4, £2
+March contest: 1. Linthwaite, 2. Eagley
+7 bands competed</notes>
+
+  <created>Oct. 13, 2011, 6:29 p.m.</created>
+  <last-modified>June 16, 2019, 11:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98837">
+      <result code="1">1</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301861">Edward Gittins</conductor>
+    </result>
+    
+    <result id="98838">
+      <result code="2">2</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="304354">Ralph Kay</conductor>
+    </result>
+    
+    <result id="98839">
+      <result code="3">3</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="98840">
+      <result code="4">4</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="68810">
+      <result code="5">5</result>
+      <band id="3187">Skipton Prize</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="98841">
+      <result code="">Unknown Result</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="98842">
+      <result code="">Unknown Result</result>
+      <band id="396">Littleborough Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="146611">
+      <result code="W">Withdrawn</result>
+      <band id="6574">Clitheroe Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="146610">
+      <result code="W">Withdrawn</result>
+      <band id="894">Earby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="12346">
+  <event-date date="1895-4-1">April 1, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brynmawr Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="3311">Market Hall, Brynmawr</venue>
+  <notes>Prizes: £15, £5
+6 bands competed</notes>
+
+  <created>April 12, 2012, 8:04 p.m.</created>
+  <last-modified>June 16, 2019, 11:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98780">
+      <result code="1">1</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="98781">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="308620">James Ryan</conductor>
+    </result>
+    
+    <result id="98782">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="98783">
+      <result code="">Unknown Result</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="98784">
+      <result code="">Unknown Result</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302243">John Griffiths</conductor>
+    </result>
+    
+    <result id="98785">
+      <result code="">Unknown Result</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="315380">Joseph Burrows</conductor>
+    </result>
+    
+  </results>
+</contest-event>

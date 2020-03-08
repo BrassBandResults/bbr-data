@@ -1,0 +1,55 @@
+<contest-event id="29567">
+  <event-date date="1858-8-24">Aug. 24, 1858<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wolsingham Contest</name>
+  <contest id="1986">
+    <name>Wolsingham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wolsingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1693">Hallelujah Chorus [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1417">Wolsingham, County Durham, England, UK</venue>
+  <notes>Wear Valley Horticultural Show
+
+3 bands entered and competed
+
+Prizes: £10, £5, £3, £2</notes>
+
+  <created>Oct. 13, 2014, 1:15 p.m.</created>
+  <last-modified>Oct. 13, 2014, 1:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="210663">
+      <result code="1">1</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="303250">H. Hoggett</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="210661">
+      <result code="2">2</result>
+      <band id="6111">New Shildon Juvenile Temperance</band>
+      <conductor id="312189">Robert de Lacy</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="210662">
+      <result code="3">3</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="297229">John Atkinson</conductor>
+      <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

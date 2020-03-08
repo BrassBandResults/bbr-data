@@ -1,0 +1,43 @@
+<contest-event id="42204">
+  <event-date date="1887-8-16">Aug. 16, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanelly Contest</name>
+  <contest id="2607">
+    <name>Llanelly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="430">Llanelly Contest</group>
+    <slug>llanelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2770">The Bohemian Girl [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2458">Llanelli, Carmarthenshire, Wales, UK</venue>
+  <notes>Promoted by Lllanelly Horticultural Society.
+2 bands competed.</notes>
+
+  <created>May 13, 2019, 9:18 a.m.</created>
+  <last-modified>May 13, 2019, 9:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="308583">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="300793">T. C. Edwards</conductor>
+    </result>
+    
+    <result id="308584">
+      <result code="2">2</result>
+      <band id="17971">Llanelly Rifle Volunteers</band>
+      <conductor id="319207">S. J. Parfrey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

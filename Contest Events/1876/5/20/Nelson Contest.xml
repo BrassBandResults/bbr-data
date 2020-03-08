@@ -1,0 +1,87 @@
+<contest-event id="8689">
+  <event-date date="1876-5-20">May 20, 1876<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1011">Nelson Railway Station, Nelson, Lancashire, England, UK</venue>
+  <notes>12 bands entered, 8 competed
+
+Prizes: £20, £15, £10, £6, £4</notes>
+
+  <created>Dec. 9, 2011, 8:58 p.m.</created>
+  <last-modified>Nov. 26, 2013, 7:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76427">
+      <result code="1">1</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2248">Stiffelio [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="76429">
+      <result code="2">2</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="76425">
+      <result code="3">3</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="311468">Harrison Whittaker</conductor>
+      <test-piece id="1334">Robert il Diavolo [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="76431">
+      <result code="4">4</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="305617">Isaac Marsden</conductor>
+      <test-piece id="921">L&#39;Africaine [arr. Grosse]</test-piece>
+    </result>
+    
+    <result id="76430">
+      <result code="5">5</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2826">Tannhäuser [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="76432">
+      <result code="">Unknown Result</result>
+      <band id="6013">Laneshawbridge</band>
+      <conductor id="313780">Edward Newton</conductor>
+    </result>
+    
+    <result id="76426">
+      <result code="">Unknown Result</result>
+      <band id="3726">Newchurch</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="76428">
+      <result code="">Unknown Result</result>
+      <band id="2538">Water Band Rossendale</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="2826">Tannhäuser [arr. Gladney]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

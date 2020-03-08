@@ -1,0 +1,55 @@
+<contest-event id="12345">
+  <event-date date="1895-3-4">March 4, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Broughton Contest</name>
+  <contest id="2541">
+    <name>Broughton (Flintshire) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>broughton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1871">Oh, Father Whose Almighty Power</test-piece>
+  </test-piece>
+
+  <venue id="3310">Brake Schoolroom, Moss, Wrexham, Wales, UK</venue>
+  <notes>March contest - 1st Oak Alyn.
+Only one prize awarded.</notes>
+
+  <created>April 12, 2012, 7:59 p.m.</created>
+  <last-modified>June 16, 2019, 10:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98776">
+      <result code="1">1</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="98777">
+      <result code="">Unknown Result</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="309772">C. Stevenson</conductor>
+    </result>
+    
+    <result id="98778">
+      <result code="">Unknown Result</result>
+      <band id="7806">Rhosrobin</band>
+      <conductor id="305186">Samuel Lloyd</conductor>
+    </result>
+    
+    <result id="98779">
+      <result code="">Unknown Result</result>
+      <band id="7844">Ffrwd</band>
+      <conductor id="302237">Henry Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

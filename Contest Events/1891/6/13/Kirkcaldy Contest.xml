@@ -1,0 +1,81 @@
+<contest-event id="10331">
+  <event-date date="1891-6-13">June 13, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkcaldy Contest</name>
+  <contest id="1019">
+    <name>Kirkcaldy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkcaldy-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="582">Raith Park, Kirkcaldy, Fife, Scotland, UK</venue>
+  <notes>7 bands competed
+Euphonium solo: Henry Kerr (Hawick)
+Source:
+The Dundee Courier &amp; Argus (Dundee, Scotland), Monday, June 15, 1891; Issue 11838.
+1st annual contest promoted by Kirkcaldy Trades band.</notes>
+
+  <created>Feb. 15, 2012, 8:10 p.m.</created>
+  <last-modified>May 26, 2019, 8:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="87113">
+      <result code="1">1</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="994">Faust [Spohr arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="87114">
+      <result code="2">2</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="87115">
+      <result code="3">3</result>
+      <band id="1985">Bonnybridge &amp; District</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="994">Faust [Spohr arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="87116">
+      <result code="4">4</result>
+      <band id="1982">Cambusbarron</band>
+      <conductor id="303994">James Jenkins</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="87117">
+      <result code="5">5</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="281995">
+      <result code="">Unknown Result</result>
+      <band id="1988">Cleland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281994">
+      <result code="">Unknown Result</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

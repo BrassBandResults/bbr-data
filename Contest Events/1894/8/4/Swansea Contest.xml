@@ -1,0 +1,89 @@
+<contest-event id="12247">
+  <event-date date="1894-8-4">Aug. 4, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swansea Contest</name>
+  <contest id="2112">
+    <name>Swansea Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swansea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1860">Schubert [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6335">Vetch Field, Swansea, Glamorgan</venue>
+  <notes>Open Section
+4th annual contest promoted by the South Wales &amp; Monmouth Brass Band Association(previous 3 at Merthyr)
+1st prize 50 guineas challenge cup
+Solo cornet medal: Morriston
+Solo horn medal: Blaina
+9 bands competed.</notes>
+
+  <created>April 10, 2012, 8:39 p.m.</created>
+  <last-modified>June 14, 2019, 10:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98161">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="98162">
+      <result code="2">2</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hannay</conductor>
+    </result>
+    
+    <result id="98163">
+      <result code="3">3</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="98164">
+      <result code="4">4</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="145023">
+      <result code="">Unknown Result</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145022">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145024">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145026">
+      <result code="">Unknown Result</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145025">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="17970">
+  <event-date date="1891-7-11">July 11, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oldbury Contest</name>
+  <contest id="3809">
+    <name>Oldbury Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>oldbury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1820">Leisure Times</test-piece>
+  </test-piece>
+
+  <venue id="3009">Langley Cricket Club Ground, Oldbury, Worcestershire, England, UK</venue>
+  <notes>Promoted by Langley Band
+Prizes: £4 and 11 guinea cornet, £3 and 6 guinea trombone, £3 and medal.
+March contest - 1st Kettering, 2nd Willenhall.
+6 bands competed.</notes>
+
+  <created>Feb. 7, 2013, 10:29 a.m.</created>
+  <last-modified>Nov. 17, 2017, 10:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135817">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="135819">
+      <result code="2">2</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="135818">
+      <result code="3">3</result>
+      <band id="7944">Finedon New</band>
+      <conductor id="308951">Harry Sharpe</conductor>
+    </result>
+    
+    <result id="135820">
+      <result code="">Unknown Result</result>
+      <band id="10403">Blackheath Prince of Wales</band>
+      <conductor id="309468">W. Smith</conductor>
+    </result>
+    
+    <result id="135821">
+      <result code="">Unknown Result</result>
+      <band id="10404">Biddulph Valley Ironworks</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

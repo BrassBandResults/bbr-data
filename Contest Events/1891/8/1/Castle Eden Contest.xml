@@ -1,0 +1,64 @@
+<contest-event id="18005">
+  <event-date date="1891-8-1">Aug. 1, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Castle Eden Contest</name>
+  <contest id="2443">
+    <name>Castle Eden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>castle-eden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2320">Nonpareil</test-piece>
+  </test-piece>
+
+  <venue id="1797">Castle Eden, County Durham, England, UK</venue>
+  <notes>Prizes: £10, £4, £2
+Quickstep: 1. Castle Eden.
+5 bands competed.
+
+</notes>
+
+  <created>Feb. 7, 2013, 10:55 p.m.</created>
+  <last-modified>Feb. 8, 2018, 4:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="136003">
+      <result code="1">1</result>
+      <band id="3541">Castle Eden</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="136004">
+      <result code="2">2</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="299739">George Cornforth</conductor>
+    </result>
+    
+    <result id="136005">
+      <result code="3">3</result>
+      <band id="7608">Hartlepool Recreation</band>
+      <conductor id="298871">J. Byers</conductor>
+    </result>
+    
+    <result id="284440">
+      <result code="">Unknown Result</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="303251">J. A. Hoggett</conductor>
+    </result>
+    
+    <result id="284441">
+      <result code="">Unknown Result</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+  </results>
+</contest-event>

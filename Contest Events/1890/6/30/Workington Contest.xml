@@ -1,0 +1,55 @@
+<contest-event id="17891">
+  <event-date date="1890-6-30">June 30, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest</name>
+  <contest id="1334">
+    <name>Workington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2786">Rigoletto [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2982">Hall Park, Workington</venue>
+  <notes>Workington United Friendly Societies
+Prizes - 1st £12 and cornet, 2nd £6 and trombone, 3rd £5 and flugel, 4th £2.</notes>
+
+  <created>Feb. 4, 2013, 4:20 p.m.</created>
+  <last-modified>May 23, 2019, 1:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135246">
+      <result code="1">1</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+    </result>
+    
+    <result id="135247">
+      <result code="2">2</result>
+      <band id="9882">Workington St Cuthbert&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135249">
+      <result code="3">3</result>
+      <band id="10377">Maryport Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135248">
+      <result code="3">3</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

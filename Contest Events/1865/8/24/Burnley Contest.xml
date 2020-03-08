@@ -1,0 +1,88 @@
+<contest-event id="7203">
+  <event-date date="1865-8-24">Aug. 24, 1865<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burnley Contest</name>
+  <contest id="1264">
+    <name>Burnley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>burnley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1100">Orpheus [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3076">Brunshaw Bottom, Burnley</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+
+Prizes: £12 and 16 guinea bombardon, £8 and 9 guinea tenor horn, £4 and 7 guinea soprano, 9 guinea cornet</notes>
+
+  <created>Sept. 5, 2011, 8 p.m.</created>
+  <last-modified>Jan. 18, 2014, 8:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="108028">
+      <result code="1">1</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="311468">Harrison Whittaker</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="108026">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="304640">George Knowles</conductor>
+      <test-piece id="1257">Lucrezia Borgia [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="108031">
+      <result code="3">3</result>
+      <band id="5105">Healey Hall Band</band>
+      <conductor id="304849">Joseph Law</conductor>
+      <test-piece id="1255">La Sonnambula [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="108029">
+      <result code="4">4</result>
+      <band id="6577">Burnley Artillery</band>
+      <conductor id="301389">Mr. Ford</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="108030">
+      <result code="">Unknown Result</result>
+      <band id="7275">Bacup Wellington</band>
+      <conductor id="297509">Wright Barnes</conductor>
+      <test-piece id="1243">Preciosa [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="108032">
+      <result code="">Unknown Result</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="300585">James Duerden</conductor>
+      <test-piece id="919">Reminiscences of Auber</test-piece>
+    </result>
+    
+    <result id="108033">
+      <result code="">Unknown Result</result>
+      <band id="6082">Padiham (84th L.R.V.)</band>
+      <conductor id="312014">Mr. Worsick</conductor>
+      <test-piece id="2816">Robin Hood [MacFarren, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="108027">
+      <result code="W">Withdrawn</result>
+      <band id="3493">Clay Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

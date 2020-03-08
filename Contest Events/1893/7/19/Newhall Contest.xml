@@ -1,0 +1,61 @@
+<contest-event id="11844">
+  <event-date date="1893-7-19">July 19, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newhall Contest</name>
+  <contest id="1916">
+    <name>Newhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1360">The Bronze Horse</test-piece>
+  </test-piece>
+
+  <venue id="1355">Newhall, Derbyshire</venue>
+  <notes>March contest: 1. Hugglescote, 2. Church Gresley
+3 bands withdrew owing to difficulty of the test piece.</notes>
+
+  <created>April 7, 2012, 8:01 p.m.</created>
+  <last-modified>Nov. 21, 2019, 1:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95792">
+      <result code="1">1</result>
+      <band id="3302">Hugglescote &amp; Ellistown</band>
+      <conductor id="307990">A. S. Redgate</conductor>
+    </result>
+    
+    <result id="95793">
+      <result code="2">2</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="309580">
+      <result code="W">Withdrawn</result>
+      <band id="11497">Earl Shilton Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309578">
+      <result code="W">Withdrawn</result>
+      <band id="7507">Hugglescote Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309579">
+      <result code="W">Withdrawn</result>
+      <band id="7597">Ibstock Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

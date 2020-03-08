@@ -1,0 +1,76 @@
+<contest-event id="17879">
+  <event-date date="1890-6-7">June 7, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Copley Contest</name>
+  <contest id="1657">
+    <name>Copley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>copley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1916">St. Paul [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1152">Copley, near Halifax</venue>
+  <notes>Promoted by Copley Mills Band
+
+10 bands entered, 7 competed
+
+Prizes: £12, £7, £4, £2</notes>
+
+  <created>Feb. 4, 2013, 10:46 a.m.</created>
+  <last-modified>Feb. 4, 2013, 10:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="135160">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="135161">
+      <result code="2">2</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+    </result>
+    
+    <result id="135162">
+      <result code="3">3</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="135163">
+      <result code="4">4</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="135165">
+      <result code="">Unknown Result</result>
+      <band id="3378">Batley Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135166">
+      <result code="">Unknown Result</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135164">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

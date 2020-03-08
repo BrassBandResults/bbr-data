@@ -1,0 +1,92 @@
+<contest-event id="12234">
+  <event-date date="1894-7-28">July 28, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1841">Bellini [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3251">Football Field, Seed Hill, Nelson, Lancashire, England, UK</venue>
+  <notes>Promoted by Nelson Prize Band
+10 bands entered, 4 failed to turn up. Only 4 bands competed however. Besses and Wyke complained about the adjudicator and his alleged connection with Black Dyke, and could not be induced to compete and left the ground complaining of alleged partiality.
+Prizes: £20, £12, £8, 5</notes>
+
+  <created>April 10, 2012, 7:03 p.m.</created>
+  <last-modified>June 14, 2019, 10:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98110">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="98111">
+      <result code="2">2</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="307582">Collinson Poole</conductor>
+    </result>
+    
+    <result id="98112">
+      <result code="3">3</result>
+      <band id="3671">Briercliffe Prize Brass Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="98113">
+      <result code="4">4</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310580">Harry Trickett</conductor>
+    </result>
+    
+    <result id="145011">
+      <result code="W">Withdrawn</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145013">
+      <result code="W">Withdrawn</result>
+      <band id="6574">Clitheroe Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145016">
+      <result code="W">Withdrawn</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145015">
+      <result code="W">Withdrawn</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145014">
+      <result code="W">Withdrawn</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145012">
+      <result code="W">Withdrawn</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

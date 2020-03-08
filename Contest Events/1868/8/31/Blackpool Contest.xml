@@ -1,0 +1,63 @@
+<contest-event id="8256">
+  <event-date date="1868-8-31">Aug. 31, 1868<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1991">Herculaneum</test-piece>
+  </test-piece>
+
+  <venue id="1043">Raikes Hall Gardens, Blackpool</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+
+5 bands competed.</notes>
+
+  <created>Nov. 11, 2011, 12:06 p.m.</created>
+  <last-modified>Nov. 20, 2013, 11:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="92846">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="81271">
+      <result code="2">2</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="92847">
+      <result code="3">3</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="92848">
+      <result code="4">4</result>
+      <band id="4899">Saltaire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="92849">
+      <result code="5">5</result>
+      <band id="7481">Burnley Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

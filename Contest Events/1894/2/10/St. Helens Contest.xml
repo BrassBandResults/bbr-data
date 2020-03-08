@@ -1,0 +1,86 @@
+<contest-event id="11955">
+  <event-date date="1894-2-10">Feb. 10, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Helens Contest</name>
+  <contest id="2362">
+    <name>St. Helens Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1842">La Enchanteresse</test-piece>
+  </test-piece>
+
+  <venue id="1823">Circus, North Road, St. Helens</venue>
+  <notes>9 bands competed
+
+March contest: 1. Earlestown Viaduct (Simoon)</notes>
+
+  <created>April 8, 2012, 3:41 p.m.</created>
+  <last-modified>June 21, 2017, 3:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96215">
+      <result code="1">1</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="96216">
+      <result code="2">2</result>
+      <band id="3611">Sutton Road</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="96217">
+      <result code="3">3</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="310731">F. Unsworth</conductor>
+    </result>
+    
+    <result id="97427">
+      <result code="">Unknown Result</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="97426">
+      <result code="">Unknown Result</result>
+      <band id="7667">Holy Trinity (Parr)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="97423">
+      <result code="">Unknown Result</result>
+      <band id="3723">Over Darwen Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="97424">
+      <result code="">Unknown Result</result>
+      <band id="6995">Parr St Peter&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="97428">
+      <result code="">Unknown Result</result>
+      <band id="7668">Portico</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="97425">
+      <result code="">Unknown Result</result>
+      <band id="7666">Ravenhead St. John&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

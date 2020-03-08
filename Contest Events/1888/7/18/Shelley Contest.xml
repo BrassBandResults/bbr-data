@@ -1,0 +1,79 @@
+<contest-event id="9310">
+  <event-date date="1888-7-18">July 18, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shelley Contest</name>
+  <contest id="1666">
+    <name>Shelley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shelley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1172">Shelley</venue>
+  <notes>Prizes: £14 9s, £12 9s, £8 7s, £2
+Brass band News September 1888 shows Batley Old as winners.</notes>
+
+  <created>Jan. 1, 2012, 12:48 p.m.</created>
+  <last-modified>May 18, 2019, 12:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80422">
+      <result code="1">1</result>
+      <band id="3378">Batley Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80426">
+      <result code="2">2</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80428">
+      <result code="3">3</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80427">
+      <result code="4">4</result>
+      <band id="6286">Wooldale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80421">
+      <result code="">Unknown Result</result>
+      <band id="6150">Mold Green United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80423">
+      <result code="">Unknown Result</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80424">
+      <result code="">Unknown Result</result>
+      <band id="6287">Heckmondwike Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80425">
+      <result code="">Unknown Result</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
