@@ -13,41 +13,50 @@
     
     
   </contest>
-  <contest-type-override id="17">March &amp; Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <contest-type-override id="7">March &amp; Own Choice Test Piece Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
 
   <venue id="7277">Attenborough Centre for the Creative Arts, University of Sussex</venue>
-  <notes></notes>
+  <notes>Best March - Staines
+Conductor’s Prize – Mark McLauchlin
+Best Tenor Trombone – Derek Muir, Staines
+Best Bass Trombone – Jane Stewart, LGB
+Best Horn Section – Staines
+Best Bass Section – Staines</notes>
 
   <created>Jan. 22, 2020, 10:16 a.m.</created>
-  <last-modified>Feb. 26, 2020, 2:41 p.m.</last-modified>
+  <last-modified>March 8, 2020, 9:15 p.m.</last-modified>
 
   <results>
     
     <result id="315486">
-      <result code="">Unknown Result</result>
+      <result code="1">1</result>
       <band id="598">Horsham Borough</band>
       <conductor id="316323">Mark McLauchlin</conductor>
-    </result>
-    
-    <result id="315487">
-      <result code="">Unknown Result</result>
-      <band id="623">LGB Brass</band>
-      <conductor id="309788">Ian Stewart</conductor>
-    </result>
-    
-    <result id="315488">
-      <result code="">Unknown Result</result>
-      <band id="45">Staines Brass</band>
-      <conductor id="296814">Tariq Ahmed</conductor>
+      <test-piece id="6118">Legacy</test-piece>
     </result>
     
     <result id="315485">
-      <result code="">Unknown Result</result>
+      <result code="2">2</result>
       <band id="332">The Egham Band</band>
-      <conductor id="302131">Gareth Green</conductor>
+      <conductor id="311407">Melvin White</conductor>
+      <test-piece id="6118">Legacy</test-piece>
+    </result>
+    
+    <result id="315487">
+      <result code="3">3</result>
+      <band id="623">LGB Brass</band>
+      <conductor id="309788">Ian Stewart</conductor>
+      <test-piece id="6118">Legacy</test-piece>
+    </result>
+    
+    <result id="315488">
+      <result code="4">4</result>
+      <band id="45">Staines Brass</band>
+      <conductor id="296814">Tariq Ahmed</conductor>
+      <test-piece id="6118">Legacy</test-piece>
     </result>
     
   </results>
