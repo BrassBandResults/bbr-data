@@ -1,0 +1,91 @@
+<contest-event id="10821">
+  <event-date date="1906-6-16">June 16, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dewsbury Contest</name>
+  <contest id="1033">
+    <name>Dewsbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dewsbury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1271">Carmelite</test-piece>
+  </test-piece>
+
+  <venue id="1351">Dewsbury, West Yorkshire, England, UK</venue>
+  <notes>
+
+  1st prize £8, and cup.
+  2nd prize £5.
+  3rd prize £3.
+  4th prize £1.10s.
+
+  March contest 1st Scapegoat Hill, 2nd Gawthorpe Victoria.</notes>
+
+  <created>March 5, 2012, 2:09 p.m.</created>
+  <last-modified>March 5, 2012, 2:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90280">
+      <result code="1">1</result>
+      <band id="3178">Birstall Old</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="90281">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="90282">
+      <result code="3">3</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="90283">
+      <result code="4">4</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="307286">Arthur Oakes Pearce</conductor>
+    </result>
+    
+    <result id="90284">
+      <result code="">Unknown Result</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90286">
+      <result code="">Unknown Result</result>
+      <band id="5885">Huddersfield Fire Brigade</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90287">
+      <result code="">Unknown Result</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90288">
+      <result code="">Unknown Result</result>
+      <band id="6614">Pudsey Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90285">
+      <result code="">Unknown Result</result>
+      <band id="3173">Ravensthorpe Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

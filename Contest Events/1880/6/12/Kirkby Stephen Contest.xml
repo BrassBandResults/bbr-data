@@ -1,0 +1,72 @@
+<contest-event id="38585">
+  <event-date date="1880-6-12">June 12, 1880<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkby Stephen Contest</name>
+  <contest id="1626">
+    <name>Kirkby Stephen Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>kirkby-stephen</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4402">Hills Bottom, Kirkby Stephen</venue>
+  <notes>Each band played two pieces</notes>
+
+  <created>Sept. 16, 2017, 8:44 a.m.</created>
+  <last-modified>Sept. 16, 2017, 8:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="279642">
+      <result code="1">1</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="311468">Harrison Whittaker</conductor>
+      <test-piece id="1334">Robert il Diavolo [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="279637">
+      <result code="2">2</result>
+      <band id="6099">Blair and Co. (Stockton)</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="1334">Robert il Diavolo [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="279641">
+      <result code="3">3</result>
+      <band id="12916">Workington Rifles</band>
+      <conductor id="317175">H. W. Williams</conductor>
+      <test-piece id="1560">La Sonnambula [arr. Round]</test-piece>
+    </result>
+    
+    <result id="279638">
+      <result code="4">4</result>
+      <band id="6125">Woodlands Colliery [Durham]</band>
+      <conductor id="317006">Mr Woods</conductor>
+      <test-piece id="2532">Recollections of Meyerbeer [arr. Greenwood]</test-piece>
+    </result>
+    
+    <result id="279639">
+      <result code="">Unknown Result</result>
+      <band id="3601">New Shildon</band>
+      <conductor id="300403">Edward Dinsdale</conductor>
+      <test-piece id="1985">Don Giovanni [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="279640">
+      <result code="">Unknown Result</result>
+      <band id="16292">Hawes Good Templars</band>
+      <conductor id="317174">H. L. Metcalfe</conductor>
+      <test-piece id="1463">Fete Musicale</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

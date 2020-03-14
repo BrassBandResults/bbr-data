@@ -1,0 +1,54 @@
+<contest-event id="13600">
+  <event-date date="1898-7-30">July 30, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eston Contest</name>
+  <contest id="2501">
+    <name>Eston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1955">Memories of Mozart</test-piece>
+  </test-piece>
+
+  <venue id="1941">Eston, North Yorkshire</venue>
+  <notes>March contest: 1. Hebburn Colliery, 2. Wingate Grange</notes>
+
+  <created>May 28, 2012, 9:09 p.m.</created>
+  <last-modified>May 28, 2012, 9:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107764">
+      <result code="1">1</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="107765">
+      <result code="2">2</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="107766">
+      <result code="3">3</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="298014">A. Blackburn</conductor>
+    </result>
+    
+    <result id="107767">
+      <result code="">Unknown Result</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

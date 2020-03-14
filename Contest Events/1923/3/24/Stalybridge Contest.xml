@@ -1,0 +1,60 @@
+<contest-event id="33313">
+  <event-date date="1923-3-24">March 24, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stalybridge Contest</name>
+  <contest id="1210">
+    <name>Stalybridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stalybridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1239">La Traviata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3089">Town Hall, Stalybridge, Cheshire</venue>
+  <notes>18 bands competed.</notes>
+
+  <created>Nov. 2, 2015, 10:13 a.m.</created>
+  <last-modified>Nov. 2, 2015, 10:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="240106">
+      <result code="1">1</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="300683">John Edward Dyson</conductor>
+    </result>
+    
+    <result id="240107">
+      <result code="2">2</result>
+      <band id="3306">Royton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240108">
+      <result code="3">3</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240109">
+      <result code="4">4</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240110">
+      <result code="5">5</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

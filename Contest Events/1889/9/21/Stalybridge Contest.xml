@@ -1,0 +1,93 @@
+<contest-event id="17789">
+  <event-date date="1889-9-21">Sept. 21, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stalybridge Contest</name>
+  <contest id="1210">
+    <name>Stalybridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stalybridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1573">Excelsior [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2060">Drill Hall, Walmsley Street, Stalybridge</venue>
+  <notes>Promoted by Stalybridge Borough Band
+Prizes: £14, £9, £5, £3, £1
+Quickstep: 1. Clayton, 2. Glossop, 3. Mossley, 4. Middleton
+12 bands entered, 10 competed</notes>
+
+  <created>Jan. 31, 2013, 11:27 a.m.</created>
+  <last-modified>May 22, 2019, 12:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134692">
+      <result code="1">1</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134690">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134694">
+      <result code="3">3</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134696">
+      <result code="4">4</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134695">
+      <result code="5">5</result>
+      <band id="185">Middleton Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134691">
+      <result code="">Unknown Result</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134699">
+      <result code="">Unknown Result</result>
+      <band id="3378">Batley Victoria</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="134693">
+      <result code="">Unknown Result</result>
+      <band id="263">Grange Moor Brass Band</band>
+      <conductor id="301276">J. Fisher</conductor>
+    </result>
+    
+    <result id="134697">
+      <result code="">Unknown Result</result>
+      <band id="2757">Milnrow Band</band>
+      <conductor id="312339">James Barker</conductor>
+    </result>
+    
+    <result id="134698">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

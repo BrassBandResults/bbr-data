@@ -1,0 +1,86 @@
+<contest-event id="35724">
+  <event-date date="1902-3-31">March 31, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnet Contest</name>
+  <contest id="2142">
+    <name>Barnet Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnet-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2582">Songs of Shakespeare</test-piece>
+  </test-piece>
+
+  <venue id="1558">Barnet, Borough of Barnet, Greater London, England, UK</venue>
+  <notes>Prizes - 1st £9.9s., 2nd £6.6s., 3rd £4.4s.,4th £2.2s.
+March contest  - 1st Luton, 2nd Northfleet.
+9 bands competed.</notes>
+
+  <created>July 21, 2016, 12:32 p.m.</created>
+  <last-modified>July 2, 2018, 7:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259347">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="302329">George Guy</conductor>
+    </result>
+    
+    <result id="259348">
+      <result code="2">2</result>
+      <band id="7771">Northfleet Temperance</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="259349">
+      <result code="3">3</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="259350">
+      <result code="4">4</result>
+      <band id="622">Watford</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+    <result id="259352">
+      <result code="">Unknown Result</result>
+      <band id="6604">Hampstead Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259354">
+      <result code="">Unknown Result</result>
+      <band id="4799">New Barnet</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259351">
+      <result code="">Unknown Result</result>
+      <band id="6003">St. Pancras</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259355">
+      <result code="">Unknown Result</result>
+      <band id="6328">Walthamstow Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259353">
+      <result code="">Unknown Result</result>
+      <band id="8178">Walthamstow Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

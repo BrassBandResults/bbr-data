@@ -1,0 +1,61 @@
+<contest-event id="23109">
+  <event-date date="1902-5-19">May 19, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southern Counties Association Contest (2nd Section)</name>
+  <contest id="2599">
+    <name>Southern Counties Association Contest (2nd Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="463">Southern Counties Association Contest</group>
+    <slug>southern-counties-association-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2583">Faust [Gounod arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="2405">Haslemere, Surrey</venue>
+  <notes>March: 1. Haslemere Town, 2. Haslemere Institute, 3. Reigate, 4. Wokingham Volunteers
+</notes>
+
+  <created>Aug. 18, 2013, 3:37 p.m.</created>
+  <last-modified>Aug. 18, 2013, 3:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170170">
+      <result code="1">1</result>
+      <band id="834">Haslemere Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170172">
+      <result code="2">2</result>
+      <band id="11300">1st V.B. Berks Regiment (Wokingham)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170171">
+      <result code="2">2</result>
+      <band id="6706">Reigate Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170173">
+      <result code="3">3</result>
+      <band id="6710">Haslemere Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170174">
+      <result code="4">4</result>
+      <band id="6705">Ardingly</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

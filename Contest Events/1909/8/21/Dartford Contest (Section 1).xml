@@ -1,0 +1,54 @@
+<contest-event id="15904">
+  <event-date date="1909-8-21">Aug. 21, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dartford Contest (Section 1)</name>
+  <contest id="1909">
+    <name>Dartford Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="216">Dartford Contest</group>
+    <slug>dartford-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2043">Rienzi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1349">Dartford, Kent, England, UK</venue>
+  <notes>  4 bands competed.</notes>
+
+  <created>Nov. 7, 2012, 11:57 a.m.</created>
+  <last-modified>Nov. 7, 2012, noon</last-modified>
+
+  <results>
+    
+    <result id="122547">
+      <result code="1">1</result>
+      <band id="1706">GWR Paddington</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="122548">
+      <result code="2">2</result>
+      <band id="6331">Chesham Town</band>
+      <conductor id="307762">T. Proctor</conductor>
+    </result>
+    
+    <result id="122549">
+      <result code="3">3</result>
+      <band id="6325">Battersea Borough</band>
+      <conductor id="303844">B. Jackson</conductor>
+    </result>
+    
+    <result id="122550">
+      <result code="4">4</result>
+      <band id="6604">Hampstead Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

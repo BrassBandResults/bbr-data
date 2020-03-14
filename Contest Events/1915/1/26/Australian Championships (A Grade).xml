@@ -1,0 +1,60 @@
+<contest-event id="34178">
+  <event-date date="1915-1-26">Jan. 26, 1915<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>Two own choice selections, no set test.
+
+There were a number of withdrawals owing to war.</notes>
+
+  <created>Feb. 28, 2016, 10:43 p.m.</created>
+  <last-modified>Dec. 13, 2017, 1:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="246934">
+      <result code="1">1</result>
+      <band id="2411">Newtown Band [Australia]</band>
+      <conductor id="304480">Ernest Kerry</conductor>
+      <test-piece id="2374">Faust [Berlioz arr. Owen]</test-piece>
+    </result>
+    
+    <result id="246935">
+      <result code="2">2</result>
+      <band id="11249">Metropolitan (Sydney)</band>
+      <conductor id="307070">John Palmer</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="246936">
+      <result code="3">3</result>
+      <band id="2269">Parramatta City Band</band>
+      <conductor id="310120">Albert Taylor</conductor>
+      <test-piece id="2824">William Tell [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="246937">
+      <result code="4">4</result>
+      <band id="13692">Rockdale  District</band>
+      <conductor id="310898">Charles Walker</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

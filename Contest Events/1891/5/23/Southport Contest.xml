@@ -1,0 +1,91 @@
+<contest-event id="17956">
+  <event-date date="1891-5-23">May 23, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southport Contest</name>
+  <contest id="1547">
+    <name>Southport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2320">Nonpareil</test-piece>
+  </test-piece>
+
+  <venue id="1010">Winter Gardens, Southport</venue>
+  <notes>14 bands entered, 10 competed
+Prizes: £15, £10, £5, £3, £1</notes>
+
+  <created>Feb. 6, 2013, 2:39 p.m.</created>
+  <last-modified>May 27, 2019, 12:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135664">
+      <result code="1">1</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="135665">
+      <result code="2">2</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="308359">J. R. Robinson</conductor>
+    </result>
+    
+    <result id="135666">
+      <result code="3">3</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="135667">
+      <result code="4">4</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="135668">
+      <result code="5">5</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="303879">Robert Jackson</conductor>
+    </result>
+    
+    <result id="135669">
+      <result code="">Unknown Result</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="308769">
+      <result code="">Unknown Result</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="311914">William Wood</conductor>
+    </result>
+    
+    <result id="308770">
+      <result code="">Unknown Result</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="308771">
+      <result code="">Unknown Result</result>
+      <band id="2636">Prestwich Borough</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="308772">
+      <result code="">Unknown Result</result>
+      <band id="17190">Stalybridge Ancient Shepherds</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,64 @@
+<contest-event id="11983">
+  <event-date date="1894-5-5">May 5, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Copley Contest</name>
+  <contest id="1657">
+    <name>Copley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>copley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1152">Copley, near Halifax</venue>
+  <notes>Promoted by Copley Mills Band
+
+15 bands competed
+
+Prizes: 1, £12, 2, £7, 3, £4, 4, £2, 5, £1</notes>
+
+  <created>April 8, 2012, 5:34 p.m.</created>
+  <last-modified>April 8, 2012, 5:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96376">
+      <result code="1">1</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="96377">
+      <result code="2">2</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="96378">
+      <result code="3">3</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="96379">
+      <result code="4">4</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="96380">
+      <result code="5">5</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,50 @@
+<contest-event id="26859">
+  <event-date date="1919-8-16">Aug. 16, 1919<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shiremoor Contest</name>
+  <contest id="5165">
+    <name>Shiremoor Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shiremoor-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1683">National Airs</test-piece>
+  </test-piece>
+
+  <venue id="4893">Backworth Station, Shiremoor</venue>
+  <notes>£40 in prizes
+
+March: 1. North Seaton, 2. Hebburn, 3. Coxlodge</notes>
+
+  <created>April 2, 2014, 5:53 p.m.</created>
+  <last-modified>June 26, 2014, 10:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194245">
+      <result code="1">1</result>
+      <band id="7933">Hebburn Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194246">
+      <result code="2">2</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194247">
+      <result code="3">3</result>
+      <band id="2722">Coxlodge Institute Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

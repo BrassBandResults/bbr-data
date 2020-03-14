@@ -1,0 +1,81 @@
+<contest-event id="10365">
+  <event-date date="1905-8-5">Aug. 5, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkham Contest</name>
+  <contest id="1970">
+    <name>Kirkham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkham-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1401">Kirkham, Lancashire</venue>
+  <notes>1st prize £15, 2nd prize £10, 3rd prize £5, 4th prize £3, 5th prize £2.
+March contest 1st (£2) Goodshaw, 2nd (£1) Gossage&#39;s.
+7 bands competed.</notes>
+
+  <created>Feb. 17, 2012, 3:09 p.m.</created>
+  <last-modified>Sept. 10, 2018, 9:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87340">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="87341">
+      <result code="2">2</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="87342">
+      <result code="3">3</result>
+      <band id="3692">St. Annes on the Sea</band>
+      <conductor id="305094">T. Lightbourne</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="87343">
+      <result code="4">4</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="87344">
+      <result code="5">5</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="300323">R. Dennison</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="87346">
+      <result code="">Unknown Result</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="302452">William Halliwell</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="87345">
+      <result code="">Unknown Result</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="3216">Donizetti [arr. Rimmer]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

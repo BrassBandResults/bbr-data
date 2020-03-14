@@ -1,0 +1,77 @@
+<contest-event id="8039">
+  <event-date date="1899-8-7">Aug. 7, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest</name>
+  <contest id="1372">
+    <name>Barrow Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="885">Barrow-in-Furness, Cumbria, England, UK</venue>
+  <notes>  1st prize £35.
+  2nd prize £20.
+  3rd prize £15.
+  4th prize £10.
+  5th prize £5.
+  6th prize £3.</notes>
+
+  <created>Nov. 3, 2011, 6:39 p.m.</created>
+  <last-modified>July 10, 2017, 7:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100039">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2801">Die Walküre</test-piece>
+    </result>
+    
+    <result id="72641">
+      <result code="2">2</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="301261">Squire Firth</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="100040">
+      <result code="3">3</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="100041">
+      <result code="4">4</result>
+      <band id="5674">Frizington St. Joseph</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="100042">
+      <result code="5">5</result>
+      <band id="934">Dalton Town Band</band>
+      <conductor id="299069">John Carter</conductor>
+      <test-piece id="2826">Tannhäuser [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="100043">
+      <result code="6">6</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="305781">A. McAlister</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

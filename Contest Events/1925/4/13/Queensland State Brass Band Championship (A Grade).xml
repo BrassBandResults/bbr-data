@@ -1,0 +1,48 @@
+<contest-event id="40716">
+  <event-date date="1925-4-13">April 13, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5689">No.1  Part 2 of Schcherazade No.3 &amp; 4   /   No.2   Rienzi</test-piece>
+  </test-piece>
+
+  <venue id="330">Brisbane, Queensland, Australia</venue>
+  <notes>No.2 Test points listed under Own Choice</notes>
+
+  <created>Oct. 14, 2018, 9:28 p.m.</created>
+  <last-modified>Jan. 7, 2019, 12:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296148">
+      <result code="1">1</result>
+      <band id="12283">Collingwood Citizens</band>
+      <conductor id="304131">Frank Johnston</conductor>
+    </result>
+    
+    <result id="296149">
+      <result code="2">2</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="299574">Jim Compton</conductor>
+    </result>
+    
+    <result id="296150">
+      <result code="3">3</result>
+      <band id="17432">Townsville Railway  (Qld)</band>
+      <conductor id="302087">Lou Gray</conductor>
+    </result>
+    
+  </results>
+</contest-event>

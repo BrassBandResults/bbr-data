@@ -1,0 +1,72 @@
+<contest-event id="11318">
+  <event-date date="1907-5-20">May 20, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bromley Contest (First Section)</name>
+  <contest id="2179">
+    <name>Bromley Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="235">Bromley Contest</group>
+    <slug>bromley-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1783">Saffo</test-piece>
+  </test-piece>
+
+  <venue id="1463">Bromley, Kent</venue>
+  <notes> 7 bands competed.</notes>
+
+  <created>March 20, 2012, 5:50 p.m.</created>
+  <last-modified>Sept. 17, 2018, 9:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93342">
+      <result code="1">1</result>
+      <band id="1706">GWR Paddington</band>
+      <conductor id="309056">W. J. Douglas Sherriff</conductor>
+    </result>
+    
+    <result id="93343">
+      <result code="2">2</result>
+      <band id="1686">Enfield Band</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="93344">
+      <result code="3">3</result>
+      <band id="6325">Battersea Borough</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="93345">
+      <result code="">Unknown Result</result>
+      <band id="7231">Dartford Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93347">
+      <result code="">Unknown Result</result>
+      <band id="6948">Deptford Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93346">
+      <result code="">Unknown Result</result>
+      <band id="6334">New North Middlesex</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93348">
+      <result code="">Unknown Result</result>
+      <band id="6336">Southwark Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

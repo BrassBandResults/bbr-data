@@ -1,0 +1,68 @@
+<contest-event id="10096">
+  <event-date date="1905-6-12">June 12, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Grinstead Contest (First Section)</name>
+  <contest id="1865">
+    <name>East Grinstead Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="217">East Grinstead Contest</group>
+    <slug>east-grinstead-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="920">Un Ballo in Maschera [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1311">East Grinstead, Sussex</venue>
+  <notes>
+
+  1st prize £10.
+  2nd prize £8.
+  3rd prize £6.
+  4th prize £4.
+  5th prize £1.10s.
+
+  March contest 1st (£1) Reading Borough, 2nd (10s.) East Grinstead Town.</notes>
+
+  <created>Feb. 11, 2012, 11:09 a.m.</created>
+  <last-modified>Feb. 11, 2012, 11:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="85586">
+      <result code="1">1</result>
+      <band id="6703">East Grinstead Town</band>
+      <conductor id="310176">O. H. Taylor</conductor>
+    </result>
+    
+    <result id="85587">
+      <result code="2">2</result>
+      <band id="6704">Reading Borough</band>
+      <conductor id="300804">H. Eggleton</conductor>
+    </result>
+    
+    <result id="85588">
+      <result code="3">3</result>
+      <band id="11868">Cranleigh Military</band>
+      <conductor id="298026">J. Blacklidge</conductor>
+    </result>
+    
+    <result id="85589">
+      <result code="4">4</result>
+      <band id="6705">Ardingly</band>
+      <conductor id="297298">L. Backshall</conductor>
+    </result>
+    
+    <result id="85590">
+      <result code="5">5</result>
+      <band id="6706">Reigate Town</band>
+      <conductor id="297589">Walter Bashford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

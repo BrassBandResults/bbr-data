@@ -1,0 +1,56 @@
+<contest-event id="40232">
+  <event-date date="1904-8-20">Aug. 20, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mumbles Contest (Section B)</name>
+  <contest id="1918">
+    <name>Mumbles Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="224">Mumbles Contest</group>
+    <slug>mumbles-contest-section-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1663">Gems of Sir Henry Bishop</test-piece>
+  </test-piece>
+
+  <venue id="6889">Mumbles Pier, Glamorgan</venue>
+  <notes>3rd annual contest.
+4 bands competed.
+</notes>
+
+  <created>Aug. 31, 2018, 6:12 a.m.</created>
+  <last-modified>Aug. 31, 2018, 6:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292549">
+      <result code="1">1</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311620">Henry Williams</conductor>
+    </result>
+    
+    <result id="292547">
+      <result code="2">2</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="301485">N. France</conductor>
+    </result>
+    
+    <result id="292546">
+      <result code="3">3</result>
+      <band id="6968">Swansea Temperance</band>
+      <conductor id="318300">D. Davies</conductor>
+    </result>
+    
+    <result id="292548">
+      <result code="4">4</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="302636">A. G. Harries</conductor>
+    </result>
+    
+  </results>
+</contest-event>

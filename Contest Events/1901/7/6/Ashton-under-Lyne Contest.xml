@@ -1,0 +1,80 @@
+<contest-event id="22936">
+  <event-date date="1901-7-6">July 6, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashton-under-Lyne Contest</name>
+  <contest id="2050">
+    <name>Ashton-under-Lyne Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashton-under-lyne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="3825">Hurst Cross, Ashton-under-Lyne</venue>
+  <notes>Prizes: £15, £9,
+8 bands competed.
+</notes>
+
+  <created>Aug. 15, 2013, 5:13 p.m.</created>
+  <last-modified>June 22, 2018, 9:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169091">
+      <result code="1">1</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301861">Edward Gittins</conductor>
+    </result>
+    
+    <result id="169092">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="169093">
+      <result code="3">3</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="169094">
+      <result code="4">4</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="169095">
+      <result code="5">5</result>
+      <band id="3692">St. Annes on the Sea</band>
+      <conductor id="305094">T. Lightbourne</conductor>
+    </result>
+    
+    <result id="290718">
+      <result code="">Unknown Result</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="290717">
+      <result code="">Unknown Result</result>
+      <band id="5894">Albert Memorial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290716">
+      <result code="">Unknown Result</result>
+      <band id="7886">Newton Moor</band>
+      <conductor id="310193">William Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

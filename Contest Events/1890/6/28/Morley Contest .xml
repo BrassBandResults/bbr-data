@@ -1,0 +1,74 @@
+<contest-event id="17888">
+  <event-date date="1890-6-28">June 28, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morley Contest </name>
+  <contest id="1364">
+    <name>Morley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>morley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2315">Nil Desperandum</test-piece>
+  </test-piece>
+
+  <venue id="2048">Queens Park, Morley, West Yorkshire</venue>
+  <notes>10 bands entered, 7 competed
+
+Prizes: £10 and 7 guinea tenor horn, £5 an 6 guinea trombone, £3 and baton, £2, £1</notes>
+
+  <created>Feb. 4, 2013, 11:31 a.m.</created>
+  <last-modified>Nov. 15, 2017, 11:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135230">
+      <result code="1">1</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135232">
+      <result code="2">2</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135233">
+      <result code="3">3</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135236">
+      <result code="4">4</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135231">
+      <result code="5">5</result>
+      <band id="3378">Batley Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135234">
+      <result code="">Unknown Result</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135235">
+      <result code="">Unknown Result</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,74 @@
+<contest-event id="40929">
+  <event-date date="1923-8-25">Aug. 25, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Youlgrave Contest</name>
+  <contest id="6408">
+    <name>Youlgrave Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>youlgrave-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="6977">Youlgrave, Derbyshire</venue>
+  <notes>March contest - 1st Swanwick, 2nd Cheetham Hill.
+Prizes - 1st £15 and cup, 2nd £8, 3rd £4, 4th £2.
+7 bands competed.</notes>
+
+  <created>Oct. 24, 2018, 11:28 a.m.</created>
+  <last-modified>Oct. 24, 2018, 11:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297168">
+      <result code="1">1</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="308659">J. Saint</conductor>
+    </result>
+    
+    <result id="297169">
+      <result code="2">2</result>
+      <band id="4141">Chesterfield Town &amp; Old Comrades</band>
+      <conductor id="309039">L. Sheppard</conductor>
+    </result>
+    
+    <result id="297170">
+      <result code="2">2</result>
+      <band id="3605">Hasland</band>
+      <conductor id="306462">T. Mossley</conductor>
+    </result>
+    
+    <result id="297171">
+      <result code="4">4</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="314519">J. Wildgoose</conductor>
+    </result>
+    
+    <result id="297172">
+      <result code="">Unknown Result</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="297174">
+      <result code="">Unknown Result</result>
+      <band id="3855">Crich Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297173">
+      <result code="">Unknown Result</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

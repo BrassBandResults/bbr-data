@@ -1,0 +1,62 @@
+<contest-event id="22975">
+  <event-date date="1901-8-17">Aug. 17, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ockbrook Contest</name>
+  <contest id="2000">
+    <name>Ockbrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ockbrook-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="1432">Ockbrook, Derbyshire, England, UK</venue>
+  <notes>Prizes - 1st £6, 2nd £4.10s., 3rd £3, 4th £1.10s.
+Promoted by Ockbrook and Borrowash Flower Show.
+5 bands competed.</notes>
+
+  <created>Aug. 16, 2013, 9:42 a.m.</created>
+  <last-modified>June 25, 2018, 8:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="290836">
+      <result code="1">1</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290834">
+      <result code="2">2</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290837">
+      <result code="3">3</result>
+      <band id="8025">Ilkeston Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290835">
+      <result code="4">4</result>
+      <band id="5193">Shepshed Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290833">
+      <result code="5">5</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

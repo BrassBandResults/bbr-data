@@ -1,0 +1,70 @@
+<contest-event id="15863">
+  <event-date date="1909-7-31">July 31, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Loughborough Contest</name>
+  <contest id="1207">
+    <name>Loughborough Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>loughborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1901">Verdi&#39;s Works [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1103">Elms Park, Loughborough</venue>
+  <notes>
+
+  3rd and 4th divided between Leicester Excelsior and Long Eaton.
+
+  6 bands competed.</notes>
+
+  <created>Nov. 6, 2012, 10:56 a.m.</created>
+  <last-modified>Nov. 6, 2012, 11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="122351">
+      <result code="1">1</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122352">
+      <result code="2">2</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122353">
+      <result code="3">3</result>
+      <band id="6587">Leicester Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122354">
+      <result code="3">3</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="122355">
+      <result code="">Unknown Result</result>
+      <band id="3524">Derby United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122356">
+      <result code="">Unknown Result</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

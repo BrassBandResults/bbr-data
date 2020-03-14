@@ -1,0 +1,93 @@
+<contest-event id="12748">
+  <event-date date="1895-11-16">Nov. 16, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leigh Contest</name>
+  <contest id="1631">
+    <name>Leigh Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>leigh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="596">Eureka</test-piece>
+  </test-piece>
+
+  <venue id="1786">Leigh, Lancashire</venue>
+  <notes>Promoted by the Lancashire Brass Band Association
+15 bands entered, 10 competed
+£21 in prizes
+2nd annual contest</notes>
+
+  <created>April 19, 2012, 10:32 p.m.</created>
+  <last-modified>June 24, 2019, 11:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101410">
+      <result code="1">1</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="101411">
+      <result code="2">2</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="101412">
+      <result code="3">3</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="101413">
+      <result code="4">4</result>
+      <band id="3666">Birch Mills</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="101414">
+      <result code="5">5</result>
+      <band id="6221">Firs Lane</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="101415">
+      <result code="6">6</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="101416">
+      <result code="">Unknown Result</result>
+      <band id="6996">Widnes St. Mary&#39;s</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="101417">
+      <result code="">Unknown Result</result>
+      <band id="3600">St. George&#39;s Pendleton</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="101418">
+      <result code="">Unknown Result</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="101419">
+      <result code="">Unknown Result</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

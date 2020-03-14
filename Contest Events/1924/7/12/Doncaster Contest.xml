@@ -1,0 +1,86 @@
+<contest-event id="26930">
+  <event-date date="1924-7-12">July 12, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Contest</name>
+  <contest id="1411">
+    <name>Doncaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="771">William Tell [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="395">Doncaster, South Yorkshire, England, UK</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £8, 3rd £6, 4th £4.
+March: 1. Hickleton, 2. Worksop
+9 bands competed</notes>
+
+  <created>April 4, 2014, 9:29 p.m.</created>
+  <last-modified>Oct. 29, 2018, 1:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194609">
+      <result code="1">1</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="307097">William Park</conductor>
+    </result>
+    
+    <result id="194610">
+      <result code="2">2</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">T. Hunter</conductor>
+    </result>
+    
+    <result id="194611">
+      <result code="3">3</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311038">Thomas F. Ward</conductor>
+    </result>
+    
+    <result id="194612">
+      <result code="4">4</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297892">
+      <result code="">Unknown Result</result>
+      <band id="17489">Doncaster Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297894">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297893">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297895">
+      <result code="">Unknown Result</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194613">
+      <result code="">Unknown Result</result>
+      <band id="2494">Worksop Miners Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

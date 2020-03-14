@@ -1,0 +1,75 @@
+<contest-event id="13271">
+  <event-date date="1912-5-25">May 25, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Featherstone Contest</name>
+  <contest id="2784">
+    <name>Featherstone Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>featherstone-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1946">Old Abbey</test-piece>
+  </test-piece>
+
+  <venue id="4076">Featherstone Hotel, Featherstone, West Yorkshire, England, UK</venue>
+  <notes>
+  March contest  1st Wakefield City,  2nd East Ardsley.
+
+  7 bands competed.</notes>
+
+  <created>May 7, 2012, 4:44 p.m.</created>
+  <last-modified>Jan. 20, 2014, 11:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105470">
+      <result code="1">1</result>
+      <band id="405">Nottingham City Transport Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="105474">
+      <result code="2">2</result>
+      <band id="4452">Wakefield City</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="105473">
+      <result code="3">3</result>
+      <band id="4595">East Ardsley and Thorpe</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="105471">
+      <result code="4">4</result>
+      <band id="6017">Whitwood Colliery</band>
+      <conductor id="311594">Charles Williams</conductor>
+    </result>
+    
+    <result id="105469">
+      <result code="5">5</result>
+      <band id="123">Knottingley Silver Band</band>
+      <conductor id="297663">Ernest Beaumont</conductor>
+    </result>
+    
+    <result id="105468">
+      <result code="">Unknown Result</result>
+      <band id="7968">Featherstone Model</band>
+      <conductor id="306487">J. Moxon</conductor>
+    </result>
+    
+    <result id="105472">
+      <result code="">Unknown Result</result>
+      <band id="3325">Brotherton Old</band>
+      <conductor id="297665">Harry Beaumont</conductor>
+    </result>
+    
+  </results>
+</contest-event>

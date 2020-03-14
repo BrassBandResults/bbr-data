@@ -1,0 +1,86 @@
+<contest-event id="13532">
+  <event-date date="1898-6-15">June 15, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Thorne Contest</name>
+  <contest id="2556">
+    <name>Thorne Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>thorne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1911">Thorne, South Yorkshire</venue>
+  <notes>Prizes: £15, £10, £5, £3, £2
+March contest: 1. Rotherham Temperance, 2. Wharncliffe Silkstone
+9 bands competed</notes>
+
+  <created>May 22, 2012, 8:52 p.m.</created>
+  <last-modified>July 17, 2019, 10:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="107273">
+      <result code="1">1</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="107274">
+      <result code="2">2</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="107275">
+      <result code="2">2</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="311558">Joseph Wilkinson</conductor>
+    </result>
+    
+    <result id="107276">
+      <result code="4">4</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="310193">William Taylor</conductor>
+    </result>
+    
+    <result id="107277">
+      <result code="5">5</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="314319">Colin Thom</conductor>
+    </result>
+    
+    <result id="107281">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="107278">
+      <result code="">Unknown Result</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="298159">A. W. Bone</conductor>
+    </result>
+    
+    <result id="107279">
+      <result code="">Unknown Result</result>
+      <band id="3146">Elsecar Main Colliery</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="107280">
+      <result code="">Unknown Result</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

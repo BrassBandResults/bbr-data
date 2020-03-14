@@ -1,0 +1,63 @@
+<contest-event id="9985">
+  <event-date date="1905-4-24">April 24, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lewisham Contest (2nd Section)</name>
+  <contest id="1808">
+    <name>Lewisham Contest (2nd Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lewisham-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1643">Gems of Irish Melody</test-piece>
+  </test-piece>
+
+  <venue id="1274">Lewisham, Borough of Lewisham, Greater London, England, UK</venue>
+  <notes>1st prize £4 and cup. 2nd prize £2. 3rd prize £1.
+Best cornet, horn and trombone - Southwark.
+Best euphonium - New North Middlesex.
+5 bands competed,</notes>
+
+  <created>Feb. 4, 2012, 4:27 p.m.</created>
+  <last-modified>Sept. 5, 2018, 10:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="84662">
+      <result code="1">1</result>
+      <band id="6336">Southwark Borough</band>
+      <conductor id="304866">W. E. Lawrence</conductor>
+    </result>
+    
+    <result id="84663">
+      <result code="2">2</result>
+      <band id="6334">New North Middlesex</band>
+      <conductor id="307975">John Reay</conductor>
+    </result>
+    
+    <result id="84664">
+      <result code="3">3</result>
+      <band id="601">Yiewsley and West Drayton Band</band>
+      <conductor id="298565">E. Brophy</conductor>
+    </result>
+    
+    <result id="84665">
+      <result code="">Unknown Result</result>
+      <band id="4908">Bromley</band>
+      <conductor id="306356">T. Morgan</conductor>
+    </result>
+    
+    <result id="84666">
+      <result code="">Unknown Result</result>
+      <band id="6341">Dartford Volunteers</band>
+      <conductor id="301038">L. T. Exeter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

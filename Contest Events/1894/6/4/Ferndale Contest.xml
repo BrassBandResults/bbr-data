@@ -1,0 +1,87 @@
+<contest-event id="12027">
+  <event-date date="1894-6-4">June 4, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ferndale Contest</name>
+  <contest id="1968">
+    <name>Ferndale Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="312">Ferndale Contest</group>
+    <slug>ferndale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1400">Ferndale, Glamorgan</venue>
+  <notes>9 bands competed
+Prizes: £15, £10, £5
+Soprano prize: Llanelly
+Euphonium prize: Blaina</notes>
+
+  <created>April 8, 2012, 10:14 p.m.</created>
+  <last-modified>June 12, 2019, 9:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96637">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="308620">James Ryan</conductor>
+    </result>
+    
+    <result id="96638">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="96639">
+      <result code="3">3</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="264136">
+      <result code="">Unknown Result</result>
+      <band id="7627">Abercanaid</band>
+      <conductor id="300164">James Davies</conductor>
+    </result>
+    
+    <result id="264138">
+      <result code="">Unknown Result</result>
+      <band id="14446">Aberdare Church Mission</band>
+      <conductor id="309415">Mr Smith</conductor>
+    </result>
+    
+    <result id="264134">
+      <result code="">Unknown Result</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="264139">
+      <result code="">Unknown Result</result>
+      <band id="10967">Mardy</band>
+      <conductor id="303504">W. R. Howe</conductor>
+    </result>
+    
+    <result id="264137">
+      <result code="">Unknown Result</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="264135">
+      <result code="">Unknown Result</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="319888">John J. Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

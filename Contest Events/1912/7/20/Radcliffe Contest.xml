@@ -1,0 +1,54 @@
+<contest-event id="40409">
+  <event-date date="1912-7-20">July 20, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radcliffe Contest</name>
+  <contest id="1662">
+    <name>Radcliffe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>radcliffe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2118">Bouquet of Ballads</test-piece>
+  </test-piece>
+
+  <venue id="6919">Radcliffe, Lancashire</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Sept. 27, 2018, 9:59 p.m.</created>
+  <last-modified>Sept. 27, 2018, 10:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293984">
+      <result code="1">1</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="293985">
+      <result code="2">2</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="318454">James Wright</conductor>
+    </result>
+    
+    <result id="293987">
+      <result code="3">3</result>
+      <band id="398">Tottington Public Band</band>
+      <conductor id="303272">Bedan Holding</conductor>
+    </result>
+    
+    <result id="293986">
+      <result code="4">4</result>
+      <band id="3670">Victoria Hall (Bolton)</band>
+      <conductor id="317093">Harold Bennett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

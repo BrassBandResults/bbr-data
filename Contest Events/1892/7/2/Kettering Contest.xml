@@ -1,0 +1,88 @@
+<contest-event id="13804">
+  <event-date date="1892-7-2">July 2, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kettering Contest</name>
+  <contest id="2367">
+    <name>Kettering Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kettering-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1986">El Dorado</test-piece>
+  </test-piece>
+
+  <venue id="2251">North Park, Kettering</venue>
+  <notes>2nd Annual Contest organised by Kettering Town Band.
+Prizes: £14 and 12 guinea cornet, £7 and £12 tenor horn, £4 and 7 guinea flugel horn, £4
+Quickstep results: - 1st Prize Raunds Temperance, 2nd Prize Earls Barton Britannia
+Reported in Northampton Herald, 8th July 1892
+7 bands competed</notes>
+
+  <created>June 16, 2012, 6:07 p.m.</created>
+  <last-modified>May 30, 2019, 9:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="110207">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="110208">
+      <result code="2">2</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110209">
+      <result code="3">3</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110210">
+      <result code="4">4</result>
+      <band id="3524">Derby United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110212">
+      <result code="">Unknown Result</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="110213">
+      <result code="">Unknown Result</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="110211">
+      <result code="">Unknown Result</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110215">
+      <result code="W">Withdrawn</result>
+      <band id="7535">Rothwell Town [Northamptonshire]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110214">
+      <result code="W">Withdrawn</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

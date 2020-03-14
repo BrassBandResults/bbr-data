@@ -1,0 +1,103 @@
+<contest-event id="22398">
+  <event-date date="1921-3-26">March 26, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kelvin Hall Contest</name>
+  <contest id="4426">
+    <name>Kelvin Hall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kelvin-hall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2551">Memories of Beethoven [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="3680">Kelvin Hall, Glasgow</venue>
+  <notes>Promoted by Glasgow Corporation Parks Department
+</notes>
+
+  <created>Aug. 6, 2013, 3:09 p.m.</created>
+  <last-modified>Aug. 6, 2013, 3:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="166612">
+      <result code="1">1</result>
+      <band id="5503">Glasgow Co-op Bakery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166614">
+      <result code="2">2</result>
+      <band id="5509">Hutchesontown</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166619">
+      <result code="3">3</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166615">
+      <result code="4">4</result>
+      <band id="5231">Glasgow Loco Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166611">
+      <result code="">Unknown Result</result>
+      <band id="5524">Clyde Workers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166633">
+      <result code="">Unknown Result</result>
+      <band id="11178">Glasgow Sons of Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166613">
+      <result code="">Unknown Result</result>
+      <band id="1727">Govan Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166616">
+      <result code="">Unknown Result</result>
+      <band id="1697">Parkhead Forge (Glasgow)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166617">
+      <result code="">Unknown Result</result>
+      <band id="5309">Pollokshaws Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166618">
+      <result code="">Unknown Result</result>
+      <band id="5474">Possilpark</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166610">
+      <result code="">Unknown Result</result>
+      <band id="5560">RNVR (Clyde Division)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166621">
+      <result code="">Unknown Result</result>
+      <band id="11177">Tradeston Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

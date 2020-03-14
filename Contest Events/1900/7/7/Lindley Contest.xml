@@ -1,0 +1,83 @@
+<contest-event id="8071">
+  <event-date date="1900-7-7">July 7, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lindley Contest</name>
+  <contest id="1047">
+    <name>Lindley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lindley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="600">Lindley, Huddersfield</venue>
+  <notes>Promoted by Lindley Band
+
+Prizes: £10, £7, £5, £2, £1
+
+March 1. Holme, 2. Hinchliffe, 3. Friendly</notes>
+
+  <created>Nov. 4, 2011, 7:12 p.m.</created>
+  <last-modified>June 11, 2018, 9:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168175">
+      <result code="1">1</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168176">
+      <result code="2">2</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168177">
+      <result code="3">3</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168178">
+      <result code="4">4</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="73025">
+      <result code="5">5</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301261">Squire Firth</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168180">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168179">
+      <result code="">Unknown Result</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

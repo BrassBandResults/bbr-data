@@ -1,0 +1,59 @@
+<contest-event id="23203">
+  <event-date date="1902-8-13">Aug. 13, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cannock Contest</name>
+  <contest id="1198">
+    <name>Cannock Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="213">Cannock Contest</group>
+    <slug>cannock-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3837">Athletic Grounds, Cannock, Staffordshire</venue>
+  <notes>Prizes: £15, £12.
+March contest - 1st Wednesbury, 2nd Willenhall.
+Best cornet and horn - Willenhall.
+Best soprano euphonium and trombone - Wednesbury.
+4 bands competed,.
+</notes>
+
+  <created>Aug. 20, 2013, 6:25 p.m.</created>
+  <last-modified>July 10, 2018, 3 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170642">
+      <result code="1">1</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170643">
+      <result code="2">2</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170641">
+      <result code="3">3</result>
+      <band id="6757">Walsall Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170644">
+      <result code="4">4</result>
+      <band id="5285">Cannock</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="13528">
+  <event-date date="1898-6-4">June 4, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haltwhistle Contest</name>
+  <contest id="2087">
+    <name>Haltwhistle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haltwhistle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3709">Bellister Castle, Haltwhistle, Northumberland</venue>
+  <notes>4 bands competed
+March contest: 1. Workington, 2. Consett</notes>
+
+  <created>May 22, 2012, 8:44 p.m.</created>
+  <last-modified>July 16, 2019, 10:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="107233">
+      <result code="1">1</result>
+      <band id="1510">Workington</band>
+      <conductor id="305310">George Lowden</conductor>
+    </result>
+    
+    <result id="107234">
+      <result code="2">2</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="107235">
+      <result code="3">3</result>
+      <band id="7526">Haltwhistle Volunteer</band>
+      <conductor id="297323">F. Bailey</conductor>
+    </result>
+    
+    <result id="107236">
+      <result code="4">4</result>
+      <band id="7832">Hamsterley Colliery</band>
+      <conductor id="309508">Thomas Snowdon</conductor>
+    </result>
+    
+  </results>
+</contest-event>

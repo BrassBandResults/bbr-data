@@ -1,0 +1,72 @@
+<contest-event id="40960">
+  <event-date date="1924-5-10">May 10, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackrod Contest</name>
+  <contest id="2323">
+    <name>Blackrod Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="326">Blackrod Contest</group>
+    <slug>blackrod</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1843">Pomona</test-piece>
+  </test-piece>
+
+  <venue id="1752">Blackrod, Lancashire</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Oct. 26, 2018, 10:10 a.m.</created>
+  <last-modified>Oct. 26, 2018, 10:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297456">
+      <result code="1">1</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="301132">Richard Farrington</conductor>
+    </result>
+    
+    <result id="297457">
+      <result code="2">2</result>
+      <band id="1720">Wrightington &amp; Heskin</band>
+      <conductor id="302817">William Haydock</conductor>
+    </result>
+    
+    <result id="297458">
+      <result code="3">3</result>
+      <band id="398">Tottington Public Band</band>
+      <conductor id="303272">Bedan Holding</conductor>
+    </result>
+    
+    <result id="297459">
+      <result code="4">4</result>
+      <band id="3660">Dingle</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="297460">
+      <result code="5">5</result>
+      <band id="3366">Weldbank Prize</band>
+      <conductor id="307339">William Pemberton</conductor>
+    </result>
+    
+    <result id="297462">
+      <result code="">Unknown Result</result>
+      <band id="8194">Blackburn Coronation</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297461">
+      <result code="">Unknown Result</result>
+      <band id="215">Rivington and Adlington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

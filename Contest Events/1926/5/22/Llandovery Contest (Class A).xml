@@ -1,0 +1,79 @@
+<contest-event id="41213">
+  <event-date date="1926-5-22">May 22, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class A)</name>
+  <contest id="2236">
+    <name>Llandovery Contest (Class A)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £15 and shield, 2nd £10, 3rd £3.
+8 bands competed.</notes>
+
+  <created>Nov. 9, 2018, 11:05 a.m.</created>
+  <last-modified>Nov. 9, 2018, 11:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="299437">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="306407">Tal Morris</conductor>
+    </result>
+    
+    <result id="299438">
+      <result code="2">2</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="303413">John Hopkins</conductor>
+    </result>
+    
+    <result id="299439">
+      <result code="3">3</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="308018">H. Rees</conductor>
+    </result>
+    
+    <result id="299443">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299441">
+      <result code="">Unknown Result</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299440">
+      <result code="">Unknown Result</result>
+      <band id="789">Llanelli Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299444">
+      <result code="">Unknown Result</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299442">
+      <result code="">Unknown Result</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

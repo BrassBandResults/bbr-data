@@ -1,0 +1,71 @@
+<contest-event id="41003">
+  <event-date date="1922-4-17">April 17, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3216">Donizetti [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3766">Toowoomba, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>Oct. 29, 2018, 12:35 a.m.</created>
+  <last-modified>Oct. 29, 2018, 12:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297776">
+      <result code="1">1</result>
+      <band id="1713">Newcastle Steel Works</band>
+      <conductor id="297320">Albert Baile</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="297777">
+      <result code="2">2</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+      <test-piece id="1559">Wagner [arr. Round]</test-piece>
+    </result>
+    
+    <result id="297778">
+      <result code="3">3</result>
+      <band id="5771">Maryborough City Band [Victoria]</band>
+      <conductor id="318232">Bill Ryder   Snr</conductor>
+      <test-piece id="3538">Tristan and Isolde</test-piece>
+    </result>
+    
+    <result id="297779">
+      <result code="4">4</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="300200">Bill Davis</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="297780">
+      <result code="5">5</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="312041">Frank Wright</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="297781">
+      <result code="W">Withdrawn</result>
+      <band id="16669">South Sydney Model  (NSW)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

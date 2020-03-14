@@ -1,0 +1,48 @@
+<contest-event id="14908">
+  <event-date date="1912-5-25">May 25, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haslemere Contest (Class B)</name>
+  <contest id="3104">
+    <name>Haslemere Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haslemere-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="525">Carmen</test-piece>
+  </test-piece>
+
+  <venue id="2405">Haslemere, Surrey</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Sept. 29, 2012, 7:42 a.m.</created>
+  <last-modified>Sept. 27, 2018, 6:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="116569">
+      <result code="1">1</result>
+      <band id="7449">Petworth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="116570">
+      <result code="2">2</result>
+      <band id="7575">Midhurst</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="116571">
+      <result code="3">3</result>
+      <band id="6710">Haslemere Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

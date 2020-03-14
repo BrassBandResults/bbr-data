@@ -1,0 +1,70 @@
+<contest-event id="18045">
+  <event-date date="1891-8-31">Aug. 31, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aberdare Contest</name>
+  <contest id="1641">
+    <name>Aberdare Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>aberdare-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1839">Pride of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="3033">Temperance Hall, Aberdare</venue>
+  <notes>South Wales &amp; Monmouthshire Contest
+Test march was &quot;The Red Rover&quot; - J. Jubb
+Quickstep: 1. Pentre
+Prizes: £12, £7, £4, £2.
+6 bands competed</notes>
+
+  <created>Feb. 8, 2013, 11:35 a.m.</created>
+  <last-modified>May 27, 2019, 9:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="136223">
+      <result code="1">1</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="307688">James Prestwood</conductor>
+    </result>
+    
+    <result id="136219">
+      <result code="2">2</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="136221">
+      <result code="3">3</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="298048">John Blamey</conductor>
+    </result>
+    
+    <result id="136222">
+      <result code="4">4</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="304300">William Jones</conductor>
+    </result>
+    
+    <result id="136224">
+      <result code="">Unknown Result</result>
+      <band id="10417">Aberavon Excelsior</band>
+      <conductor id="304277">S. Blethyn Jones</conductor>
+    </result>
+    
+    <result id="136220">
+      <result code="">Unknown Result</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="311596">D. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

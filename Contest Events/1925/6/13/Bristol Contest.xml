@@ -1,0 +1,54 @@
+<contest-event id="41157">
+  <event-date date="1925-6-13">June 13, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bristol Contest</name>
+  <contest id="1233">
+    <name>Bristol Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bristol-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3118">Fishponds, Bristol</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Nov. 5, 2018, 9:03 p.m.</created>
+  <last-modified>Nov. 5, 2018, 9:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298923">
+      <result code="1">1</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="298924">
+      <result code="2">2</result>
+      <band id="8196">Pontypool Town and District</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="298925">
+      <result code="3">3</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="299842">J. Cozens</conductor>
+    </result>
+    
+    <result id="298926">
+      <result code="4">4</result>
+      <band id="9072">Fishponds Argyle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

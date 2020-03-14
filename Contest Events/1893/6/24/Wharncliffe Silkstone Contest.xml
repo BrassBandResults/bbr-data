@@ -1,0 +1,64 @@
+<contest-event id="11789">
+  <event-date date="1893-6-24">June 24, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wharncliffe Silkstone Contest</name>
+  <contest id="2364">
+    <name>Wharncliffe Silkstone Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wharncliffe-silkstone-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1986">El Dorado</test-piece>
+  </test-piece>
+
+  <venue id="2923">Hoyland Common</venue>
+  <notes>Promoted by Wharncliffe Silkstone Band
+Quickstep: 1. Glossop, 2. Barnsley
+Prizes - 1st £12 and cornet, 2nd £8 and cornet, 3rd £5 and baton,  4th £3.
+11 bands competed
+</notes>
+
+  <created>April 7, 2012, 8:04 a.m.</created>
+  <last-modified>June 7, 2019, 1:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95370">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="95371">
+      <result code="2">2</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="95372">
+      <result code="3">3</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="319324">Charles Hall</conductor>
+    </result>
+    
+    <result id="95373">
+      <result code="4">4</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="309491">
+      <result code="">Unknown Result</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

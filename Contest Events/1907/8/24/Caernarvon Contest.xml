@@ -1,0 +1,66 @@
+<contest-event id="11660">
+  <event-date date="1907-8-24">Aug. 24, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caernarvon Contest</name>
+  <contest id="2217">
+    <name>Caernarvon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caernarvon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1149">Caernarfon, Gwynedd, Wales, UK</venue>
+  <notes>
+
+  1st prize £15.
+  2nd prize £7.
+  3rd prize £3.
+
+  5 bands competed.</notes>
+
+  <created>April 6, 2012, 8:19 a.m.</created>
+  <last-modified>May 21, 2012, 8:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94815">
+      <result code="1">1</result>
+      <band id="2700">Llanberis Silver</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="94816">
+      <result code="2">2</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="94817">
+      <result code="3">3</result>
+      <band id="5214">Cynfi</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="94818">
+      <result code="">Unknown Result</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="313862">John Partington</conductor>
+    </result>
+    
+    <result id="94819">
+      <result code="">Unknown Result</result>
+      <band id="5215">Moeltryfan</band>
+      <conductor id="318327">W.T. Sarah</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,86 @@
+<contest-event id="40597">
+  <event-date date="1917-8-6">Aug. 6, 1917<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blaenavon Contest</name>
+  <contest id="2668">
+    <name>Blaenavon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blaenavon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5671">Sweet English Songs</test-piece>
+  </test-piece>
+
+  <venue id="6941">Blaenavon, Monmouthshire</venue>
+  <notes>Prizes - 1st £10, 2nd £5, 3rd £3, 4th £1.
+March contest - 1st Cwmaman, 2nd Gilfach Goch.
+9 bands competed.</notes>
+
+  <created>Oct. 8, 2018, 12:24 p.m.</created>
+  <last-modified>Oct. 8, 2018, 12:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295398">
+      <result code="1">1</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="307762">T. Proctor</conductor>
+    </result>
+    
+    <result id="295393">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="303517">Robert Samuel Howells</conductor>
+    </result>
+    
+    <result id="295391">
+      <result code="3">3</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="295394">
+      <result code="4">4</result>
+      <band id="8418">Abergorchy</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="295392">
+      <result code="5">5</result>
+      <band id="6260">Gilfachgoch</band>
+      <conductor id="318462">William Patterson</conductor>
+    </result>
+    
+    <result id="295395">
+      <result code="">Unknown Result</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="298560">J. Broom</conductor>
+    </result>
+    
+    <result id="295397">
+      <result code="">Unknown Result</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="317968">W. Greenwood</conductor>
+    </result>
+    
+    <result id="295399">
+      <result code="">Unknown Result</result>
+      <band id="8031">Treharris</band>
+      <conductor id="318463">Harold Hirst</conductor>
+    </result>
+    
+    <result id="295396">
+      <result code="">Unknown Result</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="310285">John Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

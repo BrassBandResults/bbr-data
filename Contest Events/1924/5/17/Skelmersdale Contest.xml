@@ -1,0 +1,79 @@
+<contest-event id="40962">
+  <event-date date="1924-5-17">May 17, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Skelmersdale Contest</name>
+  <contest id="1208">
+    <name>Skelmersdale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="180">Skelmersdale Contest</group>
+    <slug>skelmersdale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1843">Pomona</test-piece>
+  </test-piece>
+
+  <venue id="4097">Skelmersdale, Lancashire, England, UK</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £10, 3rd £6, 4th £4.
+8 bands competed.</notes>
+
+  <created>Oct. 26, 2018, 10:23 a.m.</created>
+  <last-modified>Oct. 26, 2018, 10:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297473">
+      <result code="1">1</result>
+      <band id="3850">Blackrod Public</band>
+      <conductor id="298733">Percy Bullough</conductor>
+    </result>
+    
+    <result id="297474">
+      <result code="2">2</result>
+      <band id="1720">Wrightington &amp; Heskin</band>
+      <conductor id="302817">William Haydock</conductor>
+    </result>
+    
+    <result id="297475">
+      <result code="3">3</result>
+      <band id="12627">Ormskirk</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="297476">
+      <result code="4">4</result>
+      <band id="6762">Aigburth Subscription</band>
+      <conductor id="311056">Henry Wareing</conductor>
+    </result>
+    
+    <result id="297478">
+      <result code="">Unknown Result</result>
+      <band id="3660">Dingle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297479">
+      <result code="">Unknown Result</result>
+      <band id="6759">Litherland Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297477">
+      <result code="">Unknown Result</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297480">
+      <result code="">Unknown Result</result>
+      <band id="3366">Weldbank Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

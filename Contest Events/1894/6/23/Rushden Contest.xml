@@ -1,0 +1,82 @@
+<contest-event id="12135">
+  <event-date date="1894-6-23">June 23, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rushden Contest</name>
+  <contest id="2361">
+    <name>Rushden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rushden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2782">William Tell [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1714">Rushden, Northamptonshire, England, UK</venue>
+  <notes>Promoted by Rushden Temperance Brass Band
+7 bands competed
+March contest: 1. Earls Barton Old, 2. Luton
+Prizes: 11 guineas and 9 guinea cornet, £5 and 7 guinea trombone, £5, £2 10s
+Reported in Northampton Herald, 30th June 1894</notes>
+
+  <created>April 9, 2012, 2:25 p.m.</created>
+  <last-modified>Nov. 26, 2019, 1:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="97370">
+      <result code="1">1</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="97371">
+      <result code="2">2</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="97372">
+      <result code="3">3</result>
+      <band id="819">Luton Band</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="97373">
+      <result code="4">4</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="111112">
+      <result code="">Unknown Result</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="111113">
+      <result code="">Unknown Result</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="111114">
+      <result code="">Unknown Result</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="308951">Harry Sharpe</conductor>
+    </result>
+    
+    <result id="143870">
+      <result code="W">Withdrawn</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

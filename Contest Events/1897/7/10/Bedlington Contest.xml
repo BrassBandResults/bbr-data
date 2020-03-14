@@ -1,0 +1,44 @@
+<contest-event id="13309">
+  <event-date date="1897-7-10">July 10, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bedlington Contest</name>
+  <contest id="2802">
+    <name>Bedlington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bedlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1934">Victoria Regina</test-piece>
+  </test-piece>
+
+  <venue id="213">Bedlington, Northumberland</venue>
+  <notes>Only two bands competed
+Prizes: £10 10s, £4
+March contest: 1. Ashington Model, 2. Barrington</notes>
+
+  <created>May 9, 2012, 11 p.m.</created>
+  <last-modified>July 9, 2019, 8:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105615">
+      <result code="1">1</result>
+      <band id="4510">Ashington Model</band>
+      <conductor id="310181">R. D. Taylor</conductor>
+    </result>
+    
+    <result id="105616">
+      <result code="2">2</result>
+      <band id="4512">Barrington</band>
+      <conductor id="310181">R. D. Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,103 @@
+<contest-event id="10438">
+  <event-date date="1905-8-26">Aug. 26, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cleethorpes Contest</name>
+  <contest id="2001">
+    <name>Cleethorpes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cleethorpes-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3963">Victoria Gardens, Cleethorpes, Lincolnshire, England, UK</venue>
+  <notes>Choice of test pieces: &quot;Echoes of Scotland&quot; or &quot;Le Pre-aux-Clercs&quot;
+
+  1st prize £10.10s.
+  2nd prize £7.
+  3rd prize £3.
+  4th prize £2.
+
+  March contest  1st(£1) Barton Cycle Works, 2nd(10s.) Dannemore.
+
+  10 bands competed.</notes>
+
+  <created>Feb. 18, 2012, 2:50 p.m.</created>
+  <last-modified>Sept. 9, 2013, 7:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="87728">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="299827">Ellerby Cox (30ies)</conductor>
+      <test-piece id="1662">Echoes of Scotland</test-piece>
+    </result>
+    
+    <result id="87729">
+      <result code="2">2</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="311390">George White</conductor>
+      <test-piece id="1662">Echoes of Scotland</test-piece>
+    </result>
+    
+    <result id="87730">
+      <result code="3">3</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+      <test-piece id="940">Le Pre-aux-Clercs [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="87731">
+      <result code="4">4</result>
+      <band id="3559">Wombwell Temperance</band>
+      <conductor id="297596">Amos Bastow</conductor>
+      <test-piece id="1662">Echoes of Scotland</test-piece>
+    </result>
+    
+    <result id="87735">
+      <result code="">Unknown Result</result>
+      <band id="6581">Canklow</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87737">
+      <result code="">Unknown Result</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87734">
+      <result code="">Unknown Result</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87736">
+      <result code="">Unknown Result</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87733">
+      <result code="">Unknown Result</result>
+      <band id="12902">Scunthorpe Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87732">
+      <result code="">Unknown Result</result>
+      <band id="3267">Stocksbridge Old Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

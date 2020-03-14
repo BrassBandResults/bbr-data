@@ -1,0 +1,98 @@
+<contest-event id="38776">
+  <event-date date="1882-7-29">July 29, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Littleborough Contest</name>
+  <contest id="2717">
+    <name>Littleborough Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>littleborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5853">Cricket Club, Littleborough, Lancashire</venue>
+  <notes>4th annual contest promoted by Littleborough Public Band.
+9 bands competed.</notes>
+
+  <created>Nov. 21, 2017, 9:08 a.m.</created>
+  <last-modified>Dec. 7, 2017, 5:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282141">
+      <result code="1">1</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="282148">
+      <result code="2">2</result>
+      <band id="2523">Radcliffe Temperance Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="282149">
+      <result code="3">3</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="309166">James Simpson</conductor>
+      <test-piece id="1708">Hohenlinden</test-piece>
+    </result>
+    
+    <result id="282144">
+      <result code="4">4</result>
+      <band id="894">Earby Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="282143">
+      <result code="5">5</result>
+      <band id="2518">Great Horton Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="282452">
+      <result code="">Unknown Result</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="282453">
+      <result code="">Unknown Result</result>
+      <band id="185">Middleton Band</band>
+      <conductor id="317258">James Wood</conductor>
+    </result>
+    
+    <result id="282147">
+      <result code="">Unknown Result</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="312562">A. E. Butterworth</conductor>
+    </result>
+    
+    <result id="282145">
+      <result code="">Unknown Result</result>
+      <band id="2519">Heywood Borough Band</band>
+      <conductor id="311914">William Wood</conductor>
+    </result>
+    
+    <result id="282142">
+      <result code="W">Withdrawn</result>
+      <band id="2511">Dewsbury Band</band>
+      <conductor id="297270">Charles Auty</conductor>
+    </result>
+    
+    <result id="282146">
+      <result code="W">Withdrawn</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="307328">John Peers</conductor>
+    </result>
+    
+  </results>
+</contest-event>

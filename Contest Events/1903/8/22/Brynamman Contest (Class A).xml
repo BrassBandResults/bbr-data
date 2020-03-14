@@ -1,0 +1,56 @@
+<contest-event id="21965">
+  <event-date date="1903-8-22">Aug. 22, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brynamman Contest (Class A)</name>
+  <contest id="2667">
+    <name>Brynamman Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brynamman-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3765">Prince and Peasant</test-piece>
+  </test-piece>
+
+  <venue id="2011">Brynamman, Glamorgan</venue>
+  <notes> Best soprano, cornet, horn and bass - Protheroes.
+  Best euphonium - Trebanos
+4 bands competed.</notes>
+
+  <created>June 20, 2013, 5:30 a.m.</created>
+  <last-modified>Aug. 15, 2018, 12:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291859">
+      <result code="1">1</result>
+      <band id="6966">Protheroe&#39;s Silver</band>
+      <conductor id="307763">Thomas Proctor</conductor>
+    </result>
+    
+    <result id="163004">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="291860">
+      <result code="3">3</result>
+      <band id="7482">Cwmtawe District Training Band</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="163006">
+      <result code="4">4</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="301339">Rufus Fletcher</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="13336">
+  <event-date date="1897-7-31">July 31, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Witton Park Contest</name>
+  <contest id="2136">
+    <name>Witton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>witton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1554">Witton Park, County Durham</venue>
+  <notes>Witton Park Flower Show
+Prizes: £13 8s, £10 7s, £4
+March contest: 1. Spennymoor Temperance
+4 bands competed.</notes>
+
+  <created>May 10, 2012, 8:24 p.m.</created>
+  <last-modified>July 9, 2019, 5:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105796">
+      <result code="1">1</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="298014">A. Blackburn</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="105797">
+      <result code="2">2</result>
+      <band id="7615">Harrogate Temperance</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="105798">
+      <result code="3">3</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">J. A. Mutton</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="105799">
+      <result code="">Unknown Result</result>
+      <band id="8171">Witton Park</band>
+      <conductor id="306491">John Mudd</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,58 @@
+<contest-event id="15792">
+  <event-date date="1909-6-1">June 1, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest (Open Section)</name>
+  <contest id="3406">
+    <name>Chepstow Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1313">Chepstow, Monmouthshire</venue>
+  <notes>
+
+  Prizes 1st £15 and cup, 2nd £10, 3rd £5.
+
+  4 bands competed.</notes>
+
+  <created>Nov. 2, 2012, 3:45 p.m.</created>
+  <last-modified>Nov. 2, 2012, 3:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="121800">
+      <result code="1">1</result>
+      <band id="6570">Bristol Imperial</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="121801">
+      <result code="2">2</result>
+      <band id="8340">Tipton and Princes End</band>
+      <conductor id="307185">J. Partington</conductor>
+    </result>
+    
+    <result id="121802">
+      <result code="3">3</result>
+      <band id="5989">Willenhall Britannia Band</band>
+      <conductor id="308289">James Roberts</conductor>
+    </result>
+    
+    <result id="121803">
+      <result code="4">4</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

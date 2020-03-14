@@ -1,0 +1,95 @@
+<contest-event id="22761">
+  <event-date date="1900-8-18">Aug. 18, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shildon Contest</name>
+  <contest id="2152">
+    <name>Shildon Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shildon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1567">Shildon, County Durham</venue>
+  <notes>Shildon Show
+Prizes: £10, £8, £4.
+Best cornet - Milburns.
+Best euphonium - Eston Miners.
+9 bands competed.
+</notes>
+
+  <created>Aug. 13, 2013, 4:07 p.m.</created>
+  <last-modified>March 4, 2019, 5:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168378">
+      <result code="1">1</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168379">
+      <result code="2">2</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168380">
+      <result code="3">3</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="168381">
+      <result code="4">4</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="299955">W. Crowther</conductor>
+    </result>
+    
+    <result id="168382">
+      <result code="4">4</result>
+      <band id="4655">Eston Miners</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="168383">
+      <result code="">Unknown Result</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">J. A. Mutton</conductor>
+    </result>
+    
+    <result id="168384">
+      <result code="">Unknown Result</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="309508">Thomas Snowdon</conductor>
+    </result>
+    
+    <result id="305218">
+      <result code="">Unknown Result</result>
+      <band id="6690">Auckland Park</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168386">
+      <result code="">Unknown Result</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+    <result id="168387">
+      <result code="W">Withdrawn</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

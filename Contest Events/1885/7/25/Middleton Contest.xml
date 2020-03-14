@@ -1,0 +1,75 @@
+<contest-event id="13285">
+  <event-date date="1885-7-25">July 25, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Middleton Contest</name>
+  <contest id="2754">
+    <name>Middleton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>middleton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1594">&#39;Worthy is the Lamb&#39; from &#39;The Messiah&#39; [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2107">Middleton, Manchester</venue>
+  <notes>Test pieces: &quot;Worthy is the Lamb and amen and Wendische Wiesen&quot; - or Besses own choice?
+1st prize: £14
+4th contest promoted by Middleton Public Brass Band
+7 bands competed.</notes>
+
+  <created>May 8, 2012, 10:46 a.m.</created>
+  <last-modified>May 7, 2019, 2:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105530">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="132096">
+      <result code="2">2</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="132097">
+      <result code="3">3</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="132098">
+      <result code="4">4</result>
+      <band id="2519">Heywood Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="132099">
+      <result code="5">5</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261319">
+      <result code="">Unknown Result</result>
+      <band id="6183">Audenshaw and Droylsden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261318">
+      <result code="">Unknown Result</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

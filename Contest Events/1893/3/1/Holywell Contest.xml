@@ -1,0 +1,58 @@
+<contest-event id="12257">
+  <event-date date="1893-3-1">March 1, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holywell Contest</name>
+  <contest id="2435">
+    <name>Holywell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>holywell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1863">Thou Alone art Holy (Mass in C)</test-piece>
+  </test-piece>
+
+  <venue id="1824">Assembly Rooms, Holywell</venue>
+  <notes>Prize: £7 7s
+
+March contest: 1. Wrexham
+
+Holywell Volunteers only played in the march contest</notes>
+
+  <created>April 10, 2012, 9:42 p.m.</created>
+  <last-modified>Sept. 24, 2016, 8:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98198">
+      <result code="1">1</result>
+      <band id="7613">Wrexham Borough</band>
+      <conductor id="310643">George Turner</conductor>
+    </result>
+    
+    <result id="98199">
+      <result code="">Unknown Result</result>
+      <band id="7777">Holywell Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98200">
+      <result code="">Unknown Result</result>
+      <band id="7778">Llanerchymor</band>
+      <conductor id="303617">Thomas Hughes</conductor>
+    </result>
+    
+    <result id="230894">
+      <result code="">Unknown Result</result>
+      <band id="4509">Voel Gaer</band>
+      <conductor id="304242">L. P. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,69 @@
+<contest-event id="40027">
+  <event-date date="1901-9-9">Sept. 9, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tredegar Contest (Class B)</name>
+  <contest id="4351">
+    <name>Tredegar Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tredegar-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="5578">Tredegar, Blaenau Gwent, Wales, UK</venue>
+  <notes>March contest - 1st Abertillery Town.
+Best trombone - Cory&#39;s.
+6 bands competed.
+</notes>
+
+  <created>June 28, 2018, 6:22 a.m.</created>
+  <last-modified>July 2, 2019, 9:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="290941">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="290939">
+      <result code="2">2</result>
+      <band id="8031">Treharris</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="290938">
+      <result code="3">3</result>
+      <band id="10759">Abertillery Town</band>
+      <conductor id="319659">Brian Wright</conductor>
+    </result>
+    
+    <result id="290937">
+      <result code="">Unknown Result</result>
+      <band id="7623">Nelson Temperance</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+    <result id="290940">
+      <result code="">Unknown Result</result>
+      <band id="8138">Brynmawr R.V</band>
+      <conductor id="305078">W. Lewis</conductor>
+    </result>
+    
+    <result id="290942">
+      <result code="">Unknown Result</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="312394">H. Bentley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

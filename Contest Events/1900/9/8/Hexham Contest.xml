@@ -1,0 +1,60 @@
+<contest-event id="39928">
+  <event-date date="1900-9-8">Sept. 8, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hexham Contest</name>
+  <contest id="2298">
+    <name>Hexham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hexham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="3136">Abbey Grounds, Hexham, Northumberland, England, UK</venue>
+  <notes>5 bands competed</notes>
+
+  <created>June 17, 2018, 9:40 a.m.</created>
+  <last-modified>June 17, 2018, 9:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="289844">
+      <result code="1">1</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="289842">
+      <result code="2">2</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="289841">
+      <result code="3">3</result>
+      <band id="10438">Beamish Colliery</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+    <result id="289845">
+      <result code="4">4</result>
+      <band id="7759">Mickley Temperance</band>
+      <conductor id="301879">J. Glanville</conductor>
+    </result>
+    
+    <result id="289843">
+      <result code="5">5</result>
+      <band id="9632">Edwards&#39; Shipyard</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+    </result>
+    
+  </results>
+</contest-event>

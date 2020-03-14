@@ -1,0 +1,99 @@
+<contest-event id="9295">
+  <event-date date="1888-5-19">May 19, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Copley Contest</name>
+  <contest id="1657">
+    <name>Copley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>copley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2784">The Last Judgement [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1152">Copley, near Halifax</venue>
+  <notes>Prizes: £12, £7, £4, £2
+Quickstep: 1. Leeds Forge, 2. Oats Royd.
+11 bands competed.
+</notes>
+
+  <created>Jan. 1, 2012, 11:29 a.m.</created>
+  <last-modified>Nov. 8, 2017, 8:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="281727">
+      <result code="1">1</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="281731">
+      <result code="2">2</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="281732">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="281733">
+      <result code="4">4</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="281725">
+      <result code="">Unknown Result</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="281726">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="281728">
+      <result code="">Unknown Result</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="281729">
+      <result code="">Unknown Result</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="281730">
+      <result code="">Unknown Result</result>
+      <band id="2518">Great Horton Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="281735">
+      <result code="">Unknown Result</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="281734">
+      <result code="">Unknown Result</result>
+      <band id="5900">West Vale Works Band (Greetland)</band>
+      <conductor id="317305">E. Holroyde</conductor>
+    </result>
+    
+  </results>
+</contest-event>

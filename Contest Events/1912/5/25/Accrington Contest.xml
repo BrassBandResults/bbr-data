@@ -1,0 +1,76 @@
+<contest-event id="13269">
+  <event-date date="1912-5-25">May 25, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Accrington Contest</name>
+  <contest id="1253">
+    <name>Accrington Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>accrington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2145">Moorhead Park, Accrington</venue>
+  <notes>1st prize £10 and cup, 2nd prize £5, 3rd prize £3, 4th prize £2, 5th prize £1.
+Best trombone Nelson Old.
+Best soprano, cornet and euphonium Darwen Borough.
+Best baritone Barrow Shipyard.
+5 bands competed.</notes>
+
+  <created>May 7, 2012, 3:37 p.m.</created>
+  <last-modified>Sept. 27, 2018, 6:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105452">
+      <result code="1">1</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="105451">
+      <result code="2">2</result>
+      <band id="6638">Darwen Borough Prize Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="105453">
+      <result code="3">3</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="299069">John Carter</conductor>
+    </result>
+    
+    <result id="105450">
+      <result code="4">4</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="105449">
+      <result code="5">5</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="105454">
+      <result code="D">Disqualified</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105455">
+      <result code="W">Withdrawn</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

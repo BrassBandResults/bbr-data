@@ -1,0 +1,67 @@
+<contest-event id="25612">
+  <event-date date="1924-6-21">June 21, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lowerhouse Mills Contest</name>
+  <contest id="4990">
+    <name>Lowerhouse Mills Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lowerhouse-mills-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="771">William Tell [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4349">Lowerhouse Mills Club Grounds, Burnley</venue>
+  <notes>Prizes: £30, £15, £7 10s, £4.
+6 bands competed.</notes>
+
+  <created>Dec. 13, 2013, 10:31 p.m.</created>
+  <last-modified>Oct. 27, 2018, 8:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185555">
+      <result code="1">1</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="185556">
+      <result code="2">2</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="185557">
+      <result code="3">3</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="311913">W. Wood</conductor>
+    </result>
+    
+    <result id="185558">
+      <result code="4">4</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="311401">John Henry White</conductor>
+    </result>
+    
+    <result id="297702">
+      <result code="">Unknown Result</result>
+      <band id="8194">Blackburn Coronation</band>
+      <conductor id="308370">R. Robinson</conductor>
+    </result>
+    
+    <result id="297703">
+      <result code="">Unknown Result</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="307568">W. Pollard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

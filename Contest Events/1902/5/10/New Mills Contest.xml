@@ -1,0 +1,100 @@
+<contest-event id="23093">
+  <event-date date="1902-5-10">May 10, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Mills Contest</name>
+  <contest id="2311">
+    <name>New Mills Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-mills-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2582">Songs of Shakespeare</test-piece>
+  </test-piece>
+
+  <venue id="3851">Cricket Ground, New Mills, Derbyshire</venue>
+  <notes>Promoted by New Mills Old Prize Band
+Prizes totalled £25 10s
+March: Edgeley and Earlestown divided.
+11 bands competed.
+</notes>
+
+  <created>Aug. 18, 2013, 10:56 a.m.</created>
+  <last-modified>July 3, 2018, 9:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170071">
+      <result code="1">1</result>
+      <band id="3370">Edgeley</band>
+      <conductor id="306627">George Needham</conductor>
+    </result>
+    
+    <result id="170072">
+      <result code="2">2</result>
+      <band id="3663">Ferranti&#39;s Works</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="170073">
+      <result code="3">3</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="170074">
+      <result code="4">4</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="170075">
+      <result code="5">5</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="170076">
+      <result code="">Unknown Result</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="291154">
+      <result code="">Unknown Result</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="307627">Benson Powell</conductor>
+    </result>
+    
+    <result id="291155">
+      <result code="">Unknown Result</result>
+      <band id="7886">Newton Moor</band>
+      <conductor id="310193">William Taylor</conductor>
+    </result>
+    
+    <result id="291156">
+      <result code="">Unknown Result</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="291157">
+      <result code="">Unknown Result</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="291158">
+      <result code="">Unknown Result</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

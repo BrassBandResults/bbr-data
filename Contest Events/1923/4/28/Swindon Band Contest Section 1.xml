@@ -1,0 +1,43 @@
+<contest-event id="33869">
+  <event-date date="1923-4-28">April 28, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swindon Band Contest Section 1</name>
+  <contest id="4628">
+    <name>Swindon Band Contest Section 1</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>swindon-band-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1204">Lohengrin [arr. Johnstone]</test-piece>
+  </test-piece>
+
+  <venue id="2619">Swindon, Wiltshire, England, UK</venue>
+  <notes>March contest - 1st Kingswood, 2nd Wolverton.
+Only 2 bands competed.</notes>
+
+  <created>Feb. 1, 2016, 11:24 a.m.</created>
+  <last-modified>Sept. 24, 2016, 9:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="246018">
+      <result code="1">1</result>
+      <band id="828">Wolverton Town Band</band>
+      <conductor id="298550">Frank Brooks</conductor>
+    </result>
+    
+    <result id="246019">
+      <result code="2">2</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+  </results>
+</contest-event>

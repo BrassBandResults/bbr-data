@@ -1,0 +1,55 @@
+<contest-event id="15422">
+  <event-date date="1897-11-18">Nov. 18, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leigh Contest</name>
+  <contest id="1631">
+    <name>Leigh Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>leigh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1933">Smiles and Tears</test-piece>
+  </test-piece>
+
+  <venue id="2511">Assembly Rooms, Leigh</venue>
+  <notes>This contest was confined to Bands within the Leigh District. Mr. Alldred was the Bandmaster of the Atherton Rifle Volunteer Band. The test piece was the Waltz &quot;Smiles and Tears&quot; (Round)
+4 bands competed</notes>
+
+  <created>Oct. 18, 2012, 8:14 a.m.</created>
+  <last-modified>Jan. 20, 2020, 11:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119461">
+      <result code="1">1</result>
+      <band id="8125">Leigh Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119462">
+      <result code="2">2</result>
+      <band id="1499">Bedford (Leigh) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119463">
+      <result code="3">3</result>
+      <band id="6221">Firs Lane</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119464">
+      <result code="4">4</result>
+      <band id="6333">Leigh Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

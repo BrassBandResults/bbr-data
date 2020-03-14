@@ -1,0 +1,48 @@
+<contest-event id="38791">
+  <event-date date="1883-7-14">July 14, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mossley Contest</name>
+  <contest id="2453">
+    <name>Mossley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mossley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1560">La Sonnambula [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6008">Mossley, Lancashire</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Nov. 22, 2017, 3:49 p.m.</created>
+  <last-modified>Nov. 22, 2017, 3:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282235">
+      <result code="1">1</result>
+      <band id="2524">Radcliffe Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="282236">
+      <result code="2">2</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="282237">
+      <result code="3">3</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

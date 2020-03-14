@@ -1,0 +1,81 @@
+<contest-event id="26918">
+  <event-date date="1924-6-7">June 7, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marsden Contest</name>
+  <contest id="2589">
+    <name>Marsden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marsden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="771">William Tell [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4575">Ing Lees Park, Marsden</venue>
+  <notes>Promoted by Marsden Brass Band.
+Prizes - 1st £20, 2nd £15, 3rd £10, 4th £5.
+March: 1. Friendly, 2. Carlton, 3. Hinchliffe Mill.
+8 bands competed.</notes>
+
+  <created>April 4, 2014, 8:30 p.m.</created>
+  <last-modified>Oct. 26, 2018, 10:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297549">
+      <result code="1">1</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="194560">
+      <result code="2">2</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="194561">
+      <result code="3">3</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="194562">
+      <result code="4">4</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="297550">
+      <result code="">Unknown Result</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="194565">
+      <result code="">Unknown Result</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="300725">Tom Eastwood</conductor>
+    </result>
+    
+    <result id="194564">
+      <result code="">Unknown Result</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="194563">
+      <result code="">Unknown Result</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

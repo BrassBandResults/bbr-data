@@ -1,0 +1,64 @@
+<contest-event id="12898">
+  <event-date date="1912-4-8">April 8, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Redhill Contest (Second Section)</name>
+  <contest id="2702">
+    <name>Redhill Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>redhill-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5577">Well of Love</test-piece>
+  </test-piece>
+
+  <venue id="2058">Wiggie Lane Gardens, Redhill, Surrey</venue>
+  <notes>1st prize £6.15s. and shield, 2nd prize £4.15s., 3rd prize £3.5s., 4th prize £2.5s.
+March contest 1st (£1) Caterham United, 2nd (15s.) Fleet Town, 3rd (10s.) Redhill Men&#39;s Own.
+Medal for best flugal to Fleet Town.
+Medal for best side drummer to Redhill Men&#39;s Own.
+5 bands competed.</notes>
+
+  <created>April 28, 2012, 8:43 a.m.</created>
+  <last-modified>Sept. 27, 2018, 12:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102532">
+      <result code="1">1</result>
+      <band id="2149">Reading Spring Gardens Brass Band</band>
+      <conductor id="303211">J. Hodges</conductor>
+    </result>
+    
+    <result id="102533">
+      <result code="2">2</result>
+      <band id="4802">Caterham</band>
+      <conductor id="303659">Charles Hunt</conductor>
+    </result>
+    
+    <result id="102534">
+      <result code="3">3</result>
+      <band id="9532">Fleet</band>
+      <conductor id="308248">J. A. Ritchie</conductor>
+    </result>
+    
+    <result id="102535">
+      <result code="4">4</result>
+      <band id="8141">Redhill Men&#39;s Own</band>
+      <conductor id="297589">Walter Bashford</conductor>
+    </result>
+    
+    <result id="102536">
+      <result code="5">5</result>
+      <band id="8142">Crowborough Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

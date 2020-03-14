@@ -1,0 +1,55 @@
+<contest-event id="12465">
+  <event-date date="1895-6-1">June 1, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holmfirth Contest</name>
+  <contest id="1034">
+    <name>Holmfirth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="406">Holmfirth Contest</group>
+    <slug>holmfirth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1882">Odaliska</test-piece>
+  </test-piece>
+
+  <venue id="3337">Crown Bottom, Holmfirth</venue>
+  <notes>4 bands competed
+Prizes: £5, £3, £2</notes>
+
+  <created>April 14, 2012, 9:19 p.m.</created>
+  <last-modified>June 17, 2019, 9:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99611">
+      <result code="1">1</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="99612">
+      <result code="2">2</result>
+      <band id="5885">Huddersfield Fire Brigade</band>
+      <conductor id="303123">George Hinchliffe</conductor>
+    </result>
+    
+    <result id="99613">
+      <result code="3">3</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="99614">
+      <result code="4">4</result>
+      <band id="6286">Wooldale</band>
+      <conductor id="298520">Allen Brook</conductor>
+    </result>
+    
+  </results>
+</contest-event>

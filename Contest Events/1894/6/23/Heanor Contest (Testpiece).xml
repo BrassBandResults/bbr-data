@@ -1,0 +1,73 @@
+<contest-event id="12126">
+  <event-date date="1894-6-23">June 23, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Heanor Contest (Testpiece)</name>
+  <contest id="2265">
+    <name>Heanor Contest (Testpiece)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="262">Heanor Contest</group>
+    <slug>heanor-testpiece</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1639">Recreation Ground, Heanor</venue>
+  <notes>Promoted by Heanor Old Brass Band
+5 bands competed
+Prizes: £10, £6, £3, £2</notes>
+
+  <created>April 9, 2012, 1:59 p.m.</created>
+  <last-modified>June 12, 2019, 10:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="97330">
+      <result code="1">1</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="310187">Sam Taylor</conductor>
+      <test-piece id="2248">Stiffelio [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="97331">
+      <result code="2">2</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="97332">
+      <result code="3">3</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="302178">C. A. Gregory</conductor>
+      <test-piece id="1841">Bellini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="97333">
+      <result code="4">4</result>
+      <band id="5208">Heanor Church Temperance</band>
+      <conductor id="308952">J. Sharpe</conductor>
+      <test-piece id="1226">Operatic Selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="97705">
+      <result code="5">5</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="299676">J. B. Cooper</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="97706">
+      <result code="W">Withdrawn</result>
+      <band id="3605">Hasland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

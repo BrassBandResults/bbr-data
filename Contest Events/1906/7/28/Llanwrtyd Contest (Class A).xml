@@ -1,0 +1,67 @@
+<contest-event id="10909">
+  <event-date date="1906-7-28">July 28, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanwrtyd Contest (Class A)</name>
+  <contest id="2131">
+    <name>Llanwrtyd Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="254">Llanwrtyd Contest</group>
+    <slug>llanwrtyd-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1640">Llewellyn</test-piece>
+  </test-piece>
+
+  <venue id="1549">Llanwrtyd, Powys, Wales, UK</venue>
+  <notes>1st prize £12, 2nd prize £6, 3rd prize £3.
+6 bands competed.</notes>
+
+  <created>March 9, 2012, 4:45 p.m.</created>
+  <last-modified>Sept. 15, 2018, 8 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90715">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="90716">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="318324">Morgan Jenkins</conductor>
+    </result>
+    
+    <result id="90717">
+      <result code="3">3</result>
+      <band id="6966">Protheroe&#39;s Silver</band>
+      <conductor id="307763">Thomas Proctor</conductor>
+    </result>
+    
+    <result id="292965">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311620">Henry Williams</conductor>
+    </result>
+    
+    <result id="292966">
+      <result code="">Unknown Result</result>
+      <band id="6763">Llandilo</band>
+      <conductor id="314110">W. Scott</conductor>
+    </result>
+    
+    <result id="292967">
+      <result code="">Unknown Result</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+  </results>
+</contest-event>

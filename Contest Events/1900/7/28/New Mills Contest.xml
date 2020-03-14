@@ -1,0 +1,73 @@
+<contest-event id="22774">
+  <event-date date="1900-7-28">July 28, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Mills Contest</name>
+  <contest id="2311">
+    <name>New Mills Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-mills-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3419">High Lee, New Mills, Derbyshire</venue>
+  <notes>Promoted by New Mills Old Prize Band
+
+7 bands competed
+
+Prizes: £10, £7, £4, £3, £2
+
+March: 1. Mossley, 2. Thornsett
+</notes>
+
+  <created>Aug. 13, 2013, 5:34 p.m.</created>
+  <last-modified>June 11, 2018, 9:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168224">
+      <result code="1">1</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="168225">
+      <result code="2">2</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="168226">
+      <result code="3">3</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="289819">
+      <result code="4">4</result>
+      <band id="8435">Buxton Town</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="168228">
+      <result code="5">5</result>
+      <band id="1671">Stretford Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="168229">
+      <result code="">Unknown Result</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

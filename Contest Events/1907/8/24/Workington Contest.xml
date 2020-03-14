@@ -1,0 +1,68 @@
+<contest-event id="11661">
+  <event-date date="1907-8-24">Aug. 24, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest</name>
+  <contest id="1334">
+    <name>Workington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1630">Il Trovatore - Fantasia [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="850">Workington, Cumbria, England, UK</venue>
+  <notes>1st prize £35 and cup, 2nd prize £20, 3rd prize £10, 4th prize £5.
+6 bands competed.
+  </notes>
+
+  <created>April 6, 2012, 8:24 a.m.</created>
+  <last-modified>Sept. 20, 2018, 11:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="94821">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="94822">
+      <result code="2">2</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="305217">Ben Lodge</conductor>
+    </result>
+    
+    <result id="94823">
+      <result code="3">3</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="94824">
+      <result code="4">4</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="94826">
+      <result code="">Unknown Result</result>
+      <band id="2584">Lower Ince Temperance</band>
+      <conductor id="296931">T. Allsop</conductor>
+    </result>
+    
+    <result id="94825">
+      <result code="">Unknown Result</result>
+      <band id="1510">Workington</band>
+      <conductor id="308840">Herbert Scott</conductor>
+    </result>
+    
+  </results>
+</contest-event>

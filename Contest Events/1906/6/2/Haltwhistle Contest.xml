@@ -1,0 +1,74 @@
+<contest-event id="10704">
+  <event-date date="1906-6-2">June 2, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haltwhistle Contest</name>
+  <contest id="2087">
+    <name>Haltwhistle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haltwhistle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2433">John O&#39;Gaunt [1900s]</test-piece>
+  </test-piece>
+
+  <venue id="1522">Haltwhistle, Northumberland</venue>
+  <notes>  1st prize £8, 2nd prize £3.10s, 3rd prize £2, 4th prize £1.
+March contest 1st Hexham Excelsior,  2nd Throckley.
+7 bands competed</notes>
+
+  <created>Feb. 27, 2012, 8:43 p.m.</created>
+  <last-modified>Sept. 14, 2018, 9:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="89486">
+      <result code="1">1</result>
+      <band id="6921">Throckley</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="94034">
+      <result code="2">2</result>
+      <band id="7637">Ashington Silver</band>
+      <conductor id="307227">George Patterson</conductor>
+    </result>
+    
+    <result id="89488">
+      <result code="3">3</result>
+      <band id="7042">Hexham Church of England Temperance</band>
+      <conductor id="299105">H. Cassel Jnr</conductor>
+    </result>
+    
+    <result id="89489">
+      <result code="4">4</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="306214">J. Mitford</conductor>
+    </result>
+    
+    <result id="89491">
+      <result code="">Unknown Result</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89492">
+      <result code="">Unknown Result</result>
+      <band id="6919">Percy Main North Eastern Railway</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89490">
+      <result code="">Unknown Result</result>
+      <band id="7232">South Tyne</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,75 @@
+<contest-event id="6797">
+  <event-date date="1859-9-5">Sept. 5, 1859<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Enderby Jackson&#39;s Bristol Contest</name>
+  <contest id="1132">
+    <name>Enderby Jackson&#39;s Bristol Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>enderby-jackson-s-contest-at-clifton-zoo-1132</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2855">The Bristol Waltzes</test-piece>
+  </test-piece>
+
+  <venue id="649">Zoological Gardens, Clifton, Bristol</venue>
+  <notes>13 bands entered, 7 competed
+
+Prizes: £15, £8, £4, £2, £1</notes>
+
+  <created>July 12, 2011, 2:15 p.m.</created>
+  <last-modified>Aug. 25, 2015, 3:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="60743">
+      <result code="1">1</result>
+      <band id="4915">Gloucester Band</band>
+      <conductor id="300670">J. Dyer</conductor>
+    </result>
+    
+    <result id="60744">
+      <result code="2">2</result>
+      <band id="4916">East Challow Band</band>
+      <conductor id="311923">A. Woodcock</conductor>
+      <test-piece id="1607">Viva Tu</test-piece>
+    </result>
+    
+    <result id="60745">
+      <result code="3">3</result>
+      <band id="4917">Batchelors&#39; Brothers Saxe-Horn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="60747">
+      <result code="4">4</result>
+      <band id="4918">Merthyr Tydfil</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="60748">
+      <result code="5">5</result>
+      <band id="4919">Bilston Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210740">
+      <result code="">Unknown Result</result>
+      <band id="12343">Bristol Mechanics</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210739">
+      <result code="">Unknown Result</result>
+      <band id="12342">Dudley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

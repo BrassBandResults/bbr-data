@@ -1,0 +1,67 @@
+<contest-event id="12212">
+  <event-date date="1899-4-17">April 17, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>
+  1st prize £12.
+  2nd prize £5.
+  3rd prize £2 divided between Plymouth Colliery and Nelson Temperance.
+
+  March contest 1st (£1.1s. Burryport)
+
+Another newspaper report gives Tonyrefail Silver the 1st prize in the march contest (the march was &quot;Royal Victor&quot;, by E. Sutton)</notes>
+
+  <created>April 10, 2012, 2:24 p.m.</created>
+  <last-modified>Aug. 9, 2013, 10:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98020">
+      <result code="1">1</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="98021">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">Phineas Ambler</conductor>
+    </result>
+    
+    <result id="98022">
+      <result code="3">3</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="302538">F. Hanney</conductor>
+    </result>
+    
+    <result id="98023">
+      <result code="3">3</result>
+      <band id="7623">Nelson Temperance</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+    <result id="167014">
+      <result code="5">5</result>
+      <band id="12297">Burry Port Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

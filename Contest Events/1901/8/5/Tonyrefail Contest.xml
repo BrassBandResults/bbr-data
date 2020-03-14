@@ -1,0 +1,68 @@
+<contest-event id="40013">
+  <event-date date="1901-8-5">Aug. 5, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tonyrefail Contest</name>
+  <contest id="6311">
+    <name>Tonyrefail Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tonyrefail-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="3585">Tonyrefail, Glamorgan</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £6, 3rd £3.
+March contest - 1st(£1) Cory&#39;s. 
+6 bands competed</notes>
+
+  <created>June 26, 2018, 5:54 a.m.</created>
+  <last-modified>June 26, 2018, 5:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="290859">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="290861">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="290857">
+      <result code="3">3</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="290860">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="290856">
+      <result code="">Unknown Result</result>
+      <band id="8031">Treharris</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="290858">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

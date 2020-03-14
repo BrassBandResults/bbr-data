@@ -1,0 +1,97 @@
+<contest-event id="21878">
+  <event-date date="1903-7-18">July 18, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shirebrook Contest</name>
+  <contest id="1943">
+    <name>Shirebrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="255">Shirebrook Contest</group>
+    <slug>shirebrook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1380">Shirebrook, Derbyshire</venue>
+  <notes>Best soprano - Hucknall Excelsior.
+  Best euphonium - Rotherham Borough.
+Prizes - 1st £12, 2nd £7, 3rd £4, 4th £2.
+March contest - 1st(£1) Rotherham, 2nd (10s.) Lea Mills.
+9 bands competed.</notes>
+
+  <created>June 15, 2013, 8:14 p.m.</created>
+  <last-modified>July 25, 2016, 8:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162567">
+      <result code="1">1</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="162568">
+      <result code="2">2</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="162569">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="162570">
+      <result code="4">4</result>
+      <band id="1906">Killamarsh Silver Band</band>
+      <conductor id="298779">George Burnham</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="162571">
+      <result code="5">5</result>
+      <band id="8434">East Kirkby Temperance</band>
+      <conductor id="315248">T. Elliott</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="259636">
+      <result code="">Unknown Result</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davidson</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="259637">
+      <result code="">Unknown Result</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="310187">Sam Taylor</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="259638">
+      <result code="">Unknown Result</result>
+      <band id="124">Chapeltown Silver Prize Band</band>
+      <conductor id="307539">A. Platts</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="259639">
+      <result code="">Unknown Result</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

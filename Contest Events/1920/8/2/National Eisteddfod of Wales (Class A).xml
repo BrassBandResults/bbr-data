@@ -1,0 +1,48 @@
+<contest-event id="38629">
+  <event-date date="1920-8-2">Aug. 2, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class A)</name>
+  <contest id="3279">
+    <name>National Eisteddfod of Wales (Class A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2815">Euryanthe [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6744">Barry, Glamorgan</venue>
+  <notes>Over 20 bands competed in the two sections</notes>
+
+  <created>Sept. 28, 2017, 9:26 a.m.</created>
+  <last-modified>Sept. 28, 2017, 9:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="280361">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="280362">
+      <result code="2">2</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="280363">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

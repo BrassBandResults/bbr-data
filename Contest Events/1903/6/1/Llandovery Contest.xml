@@ -1,0 +1,62 @@
+<contest-event id="21820">
+  <event-date date="1903-6-1">June 1, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest</name>
+  <contest id="2096">
+    <name>Llandovery Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £5, 3rd £3, 4th £1.
+March contest  -  1st Protheroe&#39;s, 2nd joint between Tycroes and Trebanos.
+5 bands competed.</notes>
+
+  <created>June 12, 2013, 7:38 p.m.</created>
+  <last-modified>July 27, 2018, 8:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162150">
+      <result code="1">1</result>
+      <band id="6966">Protheroe&#39;s Silver</band>
+      <conductor id="316105">A. T. Harris</conductor>
+    </result>
+    
+    <result id="162151">
+      <result code="2">2</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">D. Williams</conductor>
+    </result>
+    
+    <result id="162152">
+      <result code="3">3</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="162153">
+      <result code="4">4</result>
+      <band id="7322">Loughor Silver</band>
+      <conductor id="300319">Sam Bleddyn Dennis</conductor>
+    </result>
+    
+    <result id="162190">
+      <result code="5">5</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311620">Henry Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

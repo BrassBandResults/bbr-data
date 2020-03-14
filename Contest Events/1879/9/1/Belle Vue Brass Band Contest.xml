@@ -1,0 +1,62 @@
+<contest-event id="5570">
+  <event-date date="1879-9-1">Sept. 1, 1879<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belle Vue Brass Band Contest</name>
+  <contest id="6">
+    <name>British Open</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>british-open</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="999">The Last Judgement [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
+  <notes>Prizes: 1st: £30 2nd: 320 3rd: £15 4th: £12 5th: £7 
+
+34 bands entered, 21 competed</notes>
+
+  <created>April 19, 2011, 10:57 p.m.</created>
+  <last-modified>Oct. 26, 2014, 10:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="48085">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301154">Joseph Fawcett</conductor>
+    </result>
+    
+    <result id="48086">
+      <result code="2">2</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="48087">
+      <result code="3">3</result>
+      <band id="6397">Barnsley Volunteers</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="48088">
+      <result code="4">4</result>
+      <band id="4899">Saltaire Band</band>
+      <conductor id="313844">Joseph Paley</conductor>
+    </result>
+    
+    <result id="48089">
+      <result code="5">5</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

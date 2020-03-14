@@ -1,0 +1,73 @@
+<contest-event id="21827">
+  <event-date date="1903-6-1">June 1, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest (Amateur Contest)</name>
+  <contest id="2094">
+    <name>West Stanley Contest (Amateur Contest)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="227">West Stanley Contest</group>
+    <slug>west-stanley-contest-amateur-contest-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="908">West Stanley, County Durham</venue>
+  <notes>
+  7 bands competed.</notes>
+
+  <created>June 12, 2013, 10:32 p.m.</created>
+  <last-modified>July 23, 2016, 6 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162182">
+      <result code="1">1</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="162183">
+      <result code="2">2</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="162184">
+      <result code="3">3</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="162185">
+      <result code="4">4</result>
+      <band id="6195">Beamish</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="162186">
+      <result code="5">5</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="259557">
+      <result code="">Unknown Result</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259558">
+      <result code="">Unknown Result</result>
+      <band id="6279">West Pelton Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

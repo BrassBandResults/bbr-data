@@ -1,0 +1,80 @@
+<contest-event id="22979">
+  <event-date date="1901-8-17">Aug. 17, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hebden Bridge Contest</name>
+  <contest id="1605">
+    <name>Hebden Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hebden-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="938">Belisario [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="161">Hebden Bridge, West Yorkshire</venue>
+  <notes>March: 1. Norland, 2. Cleckheaton
+Prizes: £9, £5, £3, £2.
+8 bands competed</notes>
+
+  <created>Aug. 16, 2013, 10:05 a.m.</created>
+  <last-modified>June 26, 2018, 5:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169365">
+      <result code="1">1</result>
+      <band id="22">Hepworth (Cookson Homes)</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="169366">
+      <result code="2">2</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="169367">
+      <result code="3">3</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="169368">
+      <result code="4">4</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="169369">
+      <result code="5">5</result>
+      <band id="2573">Norland</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="290853">
+      <result code="">Unknown Result</result>
+      <band id="3173">Ravensthorpe Subscription</band>
+      <conductor id="302400">Charles Haley</conductor>
+    </result>
+    
+    <result id="290854">
+      <result code="">Unknown Result</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="290855">
+      <result code="">Unknown Result</result>
+      <band id="145">Elland Silver Band</band>
+      <conductor id="310145">J. Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

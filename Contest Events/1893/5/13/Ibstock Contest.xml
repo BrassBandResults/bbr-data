@@ -1,0 +1,94 @@
+<contest-event id="11745">
+  <event-date date="1893-5-13">May 13, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ibstock Contest</name>
+  <contest id="2337">
+    <name>Ibstock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ibstock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1819">Balmoral</test-piece>
+  </test-piece>
+
+  <venue id="1693">Ibstock, Leicestershire, England, UK</venue>
+  <notes>Promoted by Ibstock Excelsior Brass Band.
+
+10 bands competed.
+
+Prizes: £6, £4, £2, £1</notes>
+
+  <created>April 6, 2012, 6:04 p.m.</created>
+  <last-modified>Oct. 5, 2013, 8:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95182">
+      <result code="1">1</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="311403">J. T. White</conductor>
+    </result>
+    
+    <result id="95183">
+      <result code="2">2</result>
+      <band id="7507">Hugglescote Town</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="95184">
+      <result code="3">3</result>
+      <band id="8565">Earl Shilton Silver Prize</band>
+      <conductor id="299669">H. Cooper</conductor>
+    </result>
+    
+    <result id="95185">
+      <result code="4">4</result>
+      <band id="3302">Hugglescote &amp; Ellistown</band>
+      <conductor id="301048">E. Eyre</conductor>
+    </result>
+    
+    <result id="177717">
+      <result code="">Unknown Result</result>
+      <band id="497">Burbage Buxton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177716">
+      <result code="">Unknown Result</result>
+      <band id="11497">Earl Shilton Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177714">
+      <result code="">Unknown Result</result>
+      <band id="11495">Ibstock Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177715">
+      <result code="">Unknown Result</result>
+      <band id="11496">Swadlincote Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177718">
+      <result code="">Unknown Result</result>
+      <band id="10612">Tutbury Saxtuba</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177719">
+      <result code="">Unknown Result</result>
+      <band id="10634">Whitwick Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

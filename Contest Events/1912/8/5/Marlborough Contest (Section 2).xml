@@ -1,0 +1,48 @@
+<contest-event id="15461">
+  <event-date date="1912-8-5">Aug. 5, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marlborough Contest (Section 2)</name>
+  <contest id="3298">
+    <name>Marlborough Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="357">Marlborough Contest</group>
+    <slug>marlborough-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1422">Harvest Home</test-piece>
+  </test-piece>
+
+  <venue id="5416">Furze Coppice, Savernake Forest, Marlborough, Wiltshire</venue>
+  <notes>3 bands competed in selection.  Overton only played in march contest.</notes>
+
+  <created>Oct. 20, 2012, 1:01 p.m.</created>
+  <last-modified>Oct. 21, 2014, 2:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119713">
+      <result code="1">1</result>
+      <band id="8284">Southampton Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119714">
+      <result code="2">2</result>
+      <band id="9691">Baughurst Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119715">
+      <result code="3">3</result>
+      <band id="9692">Urchfont</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

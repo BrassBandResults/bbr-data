@@ -1,0 +1,78 @@
+<contest-event id="11882">
+  <event-date date="1892-8-13">Aug. 13, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lincoln Contest</name>
+  <contest id="1644">
+    <name>Lincoln Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lincoln-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2047">Lincoln Arboretum, Lincoln, Lincolnshire, England, UK</venue>
+  <notes>1st prize £35.
+Prizes: £35, £15, £10
+
+Oddfellows Fete</notes>
+
+  <created>April 8, 2012, 10:50 a.m.</created>
+  <last-modified>June 3, 2019, 1:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95956">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="137507">
+      <result code="2">2</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137508">
+      <result code="3">3</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2570">Mendelssohn [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137506">
+      <result code="4">4</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137510">
+      <result code="5">5</result>
+      <band id="5867">Lincoln Excelsior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309182">
+      <result code="6">6</result>
+      <band id="18033">Lincoln Malleable Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137509">
+      <result code="7">7</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

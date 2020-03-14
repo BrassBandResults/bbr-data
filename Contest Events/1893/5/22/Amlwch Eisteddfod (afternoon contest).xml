@@ -1,0 +1,49 @@
+<contest-event id="11754">
+  <event-date date="1893-5-22">May 22, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Amlwch Eisteddfod (afternoon contest)</name>
+  <contest id="2343">
+    <name>Amlwch Eisteddfod (afternoon contest)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="265">Amlwch Eisteddfod</group>
+    <slug>amlwch-eisteddfod-afternoon-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1074">The Forest Queen</test-piece>
+  </test-piece>
+
+  <venue id="1698">Amlwch, Isle of Anglesey, Wales, UK</venue>
+  <notes>Prize - £15.
+March contest was won by Portmadoc Band</notes>
+
+  <created>April 6, 2012, 7:50 p.m.</created>
+  <last-modified>June 6, 2019, 9:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95213">
+      <result code="1">1</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="99667">
+      <result code="">Unknown Result</result>
+      <band id="7885">Portmadoc</band>
+      <conductor id="308178">James Rider</conductor>
+    </result>
+    
+    <result id="99668">
+      <result code="">Unknown Result</result>
+      <band id="6255">Vaynol</band>
+      <conductor id="297285">Mr. Ayres</conductor>
+    </result>
+    
+  </results>
+</contest-event>

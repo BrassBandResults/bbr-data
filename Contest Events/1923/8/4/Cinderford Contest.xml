@@ -1,0 +1,55 @@
+<contest-event id="40909">
+  <event-date date="1923-8-4">Aug. 4, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cinderford Contest</name>
+  <contest id="2783">
+    <name>Cinderford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cinderford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="880">Mirella [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3271">Cinderford, Gloucestershire, England, UK</venue>
+  <notes>March contest - 1st Treharris, 2nd Oakdale.
+4 bands competed</notes>
+
+  <created>Oct. 22, 2018, 3:15 p.m.</created>
+  <last-modified>Oct. 22, 2018, 3:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296991">
+      <result code="1">1</result>
+      <band id="17398">Oakdale Institute</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="296992">
+      <result code="2">2</result>
+      <band id="8031">Treharris</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="296993">
+      <result code="3">3</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="318503">William Weedall</conductor>
+    </result>
+    
+    <result id="296994">
+      <result code="4">4</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="15969">
+  <event-date date="1909-12-11">Dec. 11, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Shields Contest</name>
+  <contest id="1385">
+    <name>South Shields Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-shields-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2554">Der Freischütz [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="896">South Shields</venue>
+  <notes>March contest  1st Murton Colliery, 2nd St Hilda Colliery.</notes>
+
+  <created>Nov. 8, 2012, 2:34 p.m.</created>
+  <last-modified>Nov. 13, 2017, 9:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="122990">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="122991">
+      <result code="2">2</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="122992">
+      <result code="3">3</result>
+      <band id="6924">South Shields Garibaldi</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="122993">
+      <result code="4">4</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+  </results>
+</contest-event>

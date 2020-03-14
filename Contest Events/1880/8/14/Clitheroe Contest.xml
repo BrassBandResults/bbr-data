@@ -1,0 +1,62 @@
+<contest-event id="13282">
+  <event-date date="1880-8-14">Aug. 14, 1880<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Clitheroe Contest</name>
+  <contest id="1262">
+    <name>Clitheroe Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>clitheroe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="772">Clitheroe</venue>
+  <notes>4th prize: £5.10.00
+Prizes: 20 guineas, 12 guineas, 8 guineas, 5 guineas, 3 guineas</notes>
+
+  <created>May 8, 2012, 10:38 a.m.</created>
+  <last-modified>Dec. 17, 2012, 9:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="129980">
+      <result code="1">1</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="129981">
+      <result code="2">2</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="129982">
+      <result code="3">3</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="105527">
+      <result code="4">4</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="129983">
+      <result code="5">5</result>
+      <band id="9673">Sabden</band>
+      <conductor id="300939">J. E. Entwistle</conductor>
+    </result>
+    
+  </results>
+</contest-event>

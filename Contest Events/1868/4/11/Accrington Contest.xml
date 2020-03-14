@@ -1,0 +1,99 @@
+<contest-event id="9742">
+  <event-date date="1868-4-11">April 11, 1868<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Accrington Contest</name>
+  <contest id="1253">
+    <name>Accrington Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>accrington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1983">Mount of Olives (Hallelujah to the Father) [Bacup band arrangement]</test-piece>
+  </test-piece>
+
+  <venue id="761">Accrington, Lancashire, England, UK</venue>
+  <notes>Accrington Agricultural Show
+
+11 bands competed
+Prizes: £25 and contra bass monstre value 15 guineas, £12 10s and cornet value 6 guineas, £6 10s and conert value £6, £4, £2</notes>
+
+  <created>Jan. 30, 2012, 3:30 p.m.</created>
+  <last-modified>June 9, 2012, 1:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="83602">
+      <result code="1">1</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="83603">
+      <result code="2">2</result>
+      <band id="7481">Burnley Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83604">
+      <result code="3">3</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83605">
+      <result code="4">4</result>
+      <band id="3723">Over Darwen Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83606">
+      <result code="5">5</result>
+      <band id="2616">Ramsbottom Rifle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109185">
+      <result code="">Unknown Result</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109186">
+      <result code="">Unknown Result</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109187">
+      <result code="">Unknown Result</result>
+      <band id="5000">Huddersfield Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83607">
+      <result code="">Unknown Result</result>
+      <band id="5105">Healey Hall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109188">
+      <result code="">Unknown Result</result>
+      <band id="8606">22nd Lancashire Artillery Volunteers (Church)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109189">
+      <result code="">Unknown Result</result>
+      <band id="18240">Darwen Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

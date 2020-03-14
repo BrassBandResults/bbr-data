@@ -1,0 +1,51 @@
+<contest-event id="9811">
+  <event-date date="1905-3-4">March 4, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bristol Contest</name>
+  <contest id="1233">
+    <name>Bristol Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bristol-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="388">Bristol, Bristol County, England, UK</venue>
+  <notes>  </notes>
+
+  <created>Feb. 1, 2012, 3:55 p.m.</created>
+  <last-modified>Sept. 4, 2018, 2:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84087">
+      <result code="1">1</result>
+      <band id="6552">3rd V.B. Glos. Regt</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+      <test-piece id="998">Romeo et Juliette [Gounod arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="84088">
+      <result code="2">2</result>
+      <band id="5143">2nd Gloucestershire Volunteer Engineers</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1914">Reminiscences of Gounod</test-piece>
+    </result>
+    
+    <result id="84089">
+      <result code="3">3</result>
+      <band id="6187">1st Gloucester Engineers</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1914">Reminiscences of Gounod</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

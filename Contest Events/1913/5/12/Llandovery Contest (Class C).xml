@@ -1,0 +1,55 @@
+<contest-event id="40433">
+  <event-date date="1913-5-12">May 12, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class C)</name>
+  <contest id="3100">
+    <name>Llandovery Contest (Class C)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2790">Gems of the Old Days</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £7, 2nd £4,3rd £2.
+4 bands competed.</notes>
+
+  <created>Sept. 30, 2018, 7 a.m.</created>
+  <last-modified>Sept. 30, 2018, 7:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294214">
+      <result code="1">1</result>
+      <band id="6763">Llandilo</band>
+      <conductor id="311106">W. B. Watkin</conductor>
+    </result>
+    
+    <result id="294215">
+      <result code="2">2</result>
+      <band id="789">Llanelli Band</band>
+      <conductor id="318995">David Williams</conductor>
+    </result>
+    
+    <result id="294212">
+      <result code="3">3</result>
+      <band id="11275">Royal Engineers Llanelly</band>
+      <conductor id="314394">T. Valentine</conductor>
+    </result>
+    
+    <result id="294213">
+      <result code="4">4</result>
+      <band id="11276">Rhosynberem</band>
+      <conductor id="300150">Edgar Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

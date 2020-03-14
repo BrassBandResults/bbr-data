@@ -1,0 +1,73 @@
+<contest-event id="40926">
+  <event-date date="1923-8-25">Aug. 25, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stanton Contest</name>
+  <contest id="3242">
+    <name>Stanton Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stanton</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2488">Stanton Hall, Stanton-by-Dale</venue>
+  <notes>March contest - 1st Hinchliffe Mill, 2nd Bentley Colliery, 3rd Worksop Town.
+7 bands competed.</notes>
+
+  <created>Oct. 23, 2018, 12:19 p.m.</created>
+  <last-modified>Oct. 23, 2018, 12:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297123">
+      <result code="1">1</result>
+      <band id="1665">Bolsover Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="297124">
+      <result code="2">2</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="312007">W. Wormald</conductor>
+    </result>
+    
+    <result id="297125">
+      <result code="3">3</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="297126">
+      <result code="4">4</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="299457">A. Clough</conductor>
+    </result>
+    
+    <result id="297127">
+      <result code="">Unknown Result</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="318579">G. Butler</conductor>
+    </result>
+    
+    <result id="297129">
+      <result code="">Unknown Result</result>
+      <band id="4895">Stapleford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297128">
+      <result code="">Unknown Result</result>
+      <band id="2494">Worksop Miners Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="38392">
+  <event-date date="1885-4-3">April 3, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cardiff Contest</name>
+  <contest id="1023">
+    <name>Cardiff Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="244">Cardiff Contest</group>
+    <slug>cardiff-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1002">Il Seraglio</test-piece>
+  </test-piece>
+
+  <venue id="6691">Public Hall, Cardiff</venue>
+  <notes></notes>
+
+  <created>July 7, 2017, 11:27 a.m.</created>
+  <last-modified>July 7, 2017, 11:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="277899">
+      <result code="1">1</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="308989">Robert Shaw</conductor>
+    </result>
+    
+    <result id="277896">
+      <result code="">Unknown Result</result>
+      <band id="15898">Cardiff United Liberal</band>
+      <conductor id="317022">D. Burns</conductor>
+    </result>
+    
+    <result id="277900">
+      <result code="">Unknown Result</result>
+      <band id="461">Ebbw Vale Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277898">
+      <result code="">Unknown Result</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277897">
+      <result code="">Unknown Result</result>
+      <band id="10212">Penrhiwfer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

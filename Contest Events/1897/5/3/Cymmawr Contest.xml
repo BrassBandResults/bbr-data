@@ -1,0 +1,56 @@
+<contest-event id="13180">
+  <event-date date="1897-5-3">May 3, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cymmawr Contest</name>
+  <contest id="2771">
+    <name>Cwmmawr Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cymmawr-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1918">Wales</test-piece>
+  </test-piece>
+
+  <venue id="2124">Cymmawr</venue>
+  <notes>Prizes: £7 and cornet, £4, £2
+March contest: 1. Pontyberem, 2. Cwmmawr
+4 bands competed</notes>
+
+  <created>May 4, 2012, 9 p.m.</created>
+  <last-modified>July 7, 2019, 9:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104685">
+      <result code="1">1</result>
+      <band id="7530">St John&#39;s Pontyberem</band>
+      <conductor id="302636">A. G. Harries</conductor>
+    </result>
+    
+    <result id="104686">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="302535">George Hannay</conductor>
+    </result>
+    
+    <result id="104687">
+      <result code="3">3</result>
+      <band id="7619">Cymmawr</band>
+      <conductor id="302670">Tom Harris</conductor>
+    </result>
+    
+    <result id="104688">
+      <result code="">Unknown Result</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">Phineas Ambler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

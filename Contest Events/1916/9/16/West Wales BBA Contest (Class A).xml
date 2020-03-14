@@ -1,0 +1,66 @@
+<contest-event id="40562">
+  <event-date date="1916-9-16">Sept. 16, 1916<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3161">Siege of Rochelle (arr. Sutton)</test-piece>
+  </test-piece>
+
+  <venue id="3568">Pontardulais, Swansea, Wales, UK</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £8, 3rd £3.6 bands competed.</notes>
+
+  <created>Oct. 5, 2018, 12:41 p.m.</created>
+  <last-modified>Oct. 5, 2018, 1:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295162">
+      <result code="1">1</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="310854">Fred Wade</conductor>
+    </result>
+    
+    <result id="295164">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="295159">
+      <result code="3">3</result>
+      <band id="9506">Calfaria Clydach</band>
+      <conductor id="304288">T. J. Jones</conductor>
+    </result>
+    
+    <result id="295160">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="295161">
+      <result code="">Unknown Result</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="295163">
+      <result code="">Unknown Result</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

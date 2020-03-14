@@ -1,0 +1,81 @@
+<contest-event id="13325">
+  <event-date date="1897-7-24">July 24, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhodes Contest</name>
+  <contest id="2808">
+    <name>Rhodes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhodes-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1933">Smiles and Tears</test-piece>
+  </test-piece>
+
+  <venue id="2153">Rhodes, Middleton</venue>
+  <notes>Promoted by the Rhodes New Works Band
+Limited to bands which had not won a prize over £7 during 1896-97
+Prizes: £7, £5, £3, £2, £1.
+7 bands competed</notes>
+
+  <created>May 10, 2012, 8:01 p.m.</created>
+  <last-modified>July 9, 2019, 6:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105712">
+      <result code="1">1</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="311359">Albert Whipp</conductor>
+    </result>
+    
+    <result id="105713">
+      <result code="2">2</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="311359">Albert Whipp</conductor>
+    </result>
+    
+    <result id="105714">
+      <result code="3">3</result>
+      <band id="185">Middleton Band</band>
+      <conductor id="307649">P. Power</conductor>
+    </result>
+    
+    <result id="105715">
+      <result code="4">4</result>
+      <band id="9737">Rawtenstall Public</band>
+      <conductor id="315800">T. H. Hoyle</conductor>
+    </result>
+    
+    <result id="105716">
+      <result code="5">5</result>
+      <band id="8028">Dob Lane (Failsworth)</band>
+      <conductor id="314492">J. H. White</conductor>
+    </result>
+    
+    <result id="105717">
+      <result code="">Unknown Result</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="298705">J. H. Buckley</conductor>
+    </result>
+    
+    <result id="105718">
+      <result code="">Unknown Result</result>
+      <band id="8125">Leigh Public</band>
+      <conductor id="313691">William Miller</conductor>
+    </result>
+    
+    <result id="105719">
+      <result code="W">Withdrawn</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

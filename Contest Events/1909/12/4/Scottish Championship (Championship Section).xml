@@ -1,0 +1,90 @@
+<contest-event id="7418">
+  <event-date date="1909-12-4">Dec. 4, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Championship Section)</name>
+  <contest id="37">
+    <name>Scottish Championship (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="316">Der Fliegende Holländer (The Flying Dutchman) [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="259">Waverley Market, Edinburgh</venue>
+  <notes></notes>
+
+  <created>Oct. 3, 2011, 3:48 p.m.</created>
+  <last-modified>May 28, 2018, 10:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="66874">
+      <result code="1">1</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="66875">
+      <result code="2">2</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="66876">
+      <result code="3">3</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="66877">
+      <result code="4">4</result>
+      <band id="4533">Polton Mills</band>
+      <conductor id="298610">John Brown</conductor>
+    </result>
+    
+    <result id="66878">
+      <result code="5">5</result>
+      <band id="1050">Forfar Instrumental</band>
+      <conductor id="304750">John Lamb</conductor>
+    </result>
+    
+    <result id="66880">
+      <result code="">Unknown Result</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="66883">
+      <result code="">Unknown Result</result>
+      <band id="5613">Portobello</band>
+      <conductor id="318009">R. Thorburn</conductor>
+    </result>
+    
+    <result id="66881">
+      <result code="">Unknown Result</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="66882">
+      <result code="">Unknown Result</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="66879">
+      <result code="">Unknown Result</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="300395">F. Dimmock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

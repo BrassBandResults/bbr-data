@@ -1,0 +1,66 @@
+<contest-event id="39613">
+  <event-date date="1911-8-19">Aug. 19, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkcaldy Contest (Fife Section)</name>
+  <contest id="3443">
+    <name>Kirkcaldy Contest (Fife Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkcaldy-contest-fife-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="582">Raith Park, Kirkcaldy, Fife, Scotland, UK</venue>
+  <notes>Prizes - 1st £5, 2nd £4, 3rd £3, 4th £2, 5th £1.
+5 bands competed.</notes>
+
+  <created>May 17, 2018, 9:08 p.m.</created>
+  <last-modified>May 17, 2018, 9:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287201">
+      <result code="1">1</result>
+      <band id="5227">Dunnikier Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+      <test-piece id="2990">British Melodies</test-piece>
+    </result>
+    
+    <result id="287203">
+      <result code="2">2</result>
+      <band id="5497">Coaltown of Wemyss</band>
+      <conductor id="306950">James Ord Hume</conductor>
+      <test-piece id="1308">Reminiscences of England</test-piece>
+    </result>
+    
+    <result id="287205">
+      <result code="3">3</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="305725">D. Mathieson</conductor>
+      <test-piece id="2116">For King and Country</test-piece>
+    </result>
+    
+    <result id="287202">
+      <result code="4">4</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="306363">W. E. Morgan</conductor>
+      <test-piece id="1174">Crispino [arr. Round]</test-piece>
+    </result>
+    
+    <result id="287204">
+      <result code="5">5</result>
+      <band id="5547">Kirkcaldy BB</band>
+      <conductor id="317955">D. Pearson</conductor>
+      <test-piece id="5572">Carl Rosa</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

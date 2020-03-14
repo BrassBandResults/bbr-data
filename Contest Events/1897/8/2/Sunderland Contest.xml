@@ -1,0 +1,78 @@
+<contest-event id="13342">
+  <event-date date="1897-8-2">Aug. 2, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sunderland Contest</name>
+  <contest id="2116">
+    <name>Sunderland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sunderland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1934">Victoria Regina</test-piece>
+  </test-piece>
+
+  <venue id="1542">Sunderland</venue>
+  <notes>March contest: 1. Sunderland East End, 2. Hetton and District,</notes>
+
+  <created>May 10, 2012, 8:42 p.m.</created>
+  <last-modified>May 10, 2012, 8:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105825">
+      <result code="1">1</result>
+      <band id="4655">Eston Miners</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="105826">
+      <result code="2">2</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="307392">George Perry</conductor>
+    </result>
+    
+    <result id="105827">
+      <result code="3">3</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="105828">
+      <result code="4">4</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="305455">John Mackintosh</conductor>
+    </result>
+    
+    <result id="105829">
+      <result code="5">5</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105830">
+      <result code="6">6</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105831">
+      <result code="">Unknown Result</result>
+      <band id="8229">Candlish&#39;s Bottle Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105832">
+      <result code="">Unknown Result</result>
+      <band id="5882">Monkwearmouth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

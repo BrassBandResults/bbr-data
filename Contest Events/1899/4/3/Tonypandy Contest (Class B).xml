@@ -1,0 +1,72 @@
+<contest-event id="11977">
+  <event-date date="1899-4-3">April 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tonypandy Contest (Class B)</name>
+  <contest id="1646">
+    <name>Tonypandy Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="198">Tonypandy Contest</group>
+    <slug>tonypandy-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1847">Gems of Modern Melody</test-piece>
+  </test-piece>
+
+  <venue id="1618">Tonypandy, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>1st prize £10.
+  2nd prize £6.
+  3rd prize £3.
+
+  March contest  1st Abertillery Silver, 2nd Nelson Temperance.
+
+10 bands entered,  6 bands competed.</notes>
+
+  <created>April 8, 2012, 5:13 p.m.</created>
+  <last-modified>July 26, 2019, 9:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96337">
+      <result code="1">1</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="96338">
+      <result code="2">2</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="300719">T. Eastwood</conductor>
+    </result>
+    
+    <result id="96339">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">Phineas Ambler</conductor>
+    </result>
+    
+    <result id="96340">
+      <result code="4">4</result>
+      <band id="7623">Nelson Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="96341">
+      <result code="5">5</result>
+      <band id="10759">Abertillery Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="96342">
+      <result code="6">6</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

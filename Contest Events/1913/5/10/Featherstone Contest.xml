@@ -1,0 +1,62 @@
+<contest-event id="26830">
+  <event-date date="1913-5-10">May 10, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Featherstone Contest</name>
+  <contest id="2784">
+    <name>Featherstone Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>featherstone-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2530">Red Poppies</test-piece>
+  </test-piece>
+
+  <venue id="2140">Featherstone, West Yorkshire, England, UK</venue>
+  <notes>14 bands competed
+
+March: 1. Royston, 2. Southowram</notes>
+
+  <created>April 2, 2014, 12:14 p.m.</created>
+  <last-modified>April 2, 2014, 12:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194094">
+      <result code="1">1</result>
+      <band id="3178">Birstall Old</band>
+      <conductor id="306628">Harry Needham</conductor>
+    </result>
+    
+    <result id="194095">
+      <result code="2">2</result>
+      <band id="4134">Southowram Subscription</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="194096">
+      <result code="3">3</result>
+      <band id="4452">Wakefield City</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="194097">
+      <result code="4">4</result>
+      <band id="3173">Ravensthorpe Subscription</band>
+      <conductor id="299188">R. G. Chambers</conductor>
+    </result>
+    
+    <result id="194098">
+      <result code="">Unknown Result</result>
+      <band id="18364">Royston Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

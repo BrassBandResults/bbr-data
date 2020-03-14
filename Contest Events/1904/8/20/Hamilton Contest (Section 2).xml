@@ -1,0 +1,62 @@
+<contest-event id="38110">
+  <event-date date="1904-8-20">Aug. 20, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hamilton Contest (Section 2)</name>
+  <contest id="1989">
+    <name>Hamilton Contest (Section 2)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hamilton-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1645">Songs of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="6606">Hamilton Park Racecourse, Hamilton, Lanarkshire</venue>
+  <notes>Prizes - 1st £9, 2nd £7, 3rd £5, 4th£3.
+ Best euphonium - Thorniewood.
+5 bands competed.</notes>
+
+  <created>May 30, 2017, 10:21 a.m.</created>
+  <last-modified>Aug. 31, 2018, 5:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274994">
+      <result code="1">1</result>
+      <band id="5228">Thorniewood</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+    </result>
+    
+    <result id="274995">
+      <result code="2">2</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="274996">
+      <result code="3">3</result>
+      <band id="12133">Gartsherrie Ironworks</band>
+      <conductor id="311042">James Wardlaw</conductor>
+    </result>
+    
+    <result id="274997">
+      <result code="4">4</result>
+      <band id="6842">Blantyre Public</band>
+      <conductor id="314271">E. Sutton</conductor>
+    </result>
+    
+    <result id="292531">
+      <result code="5">5</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="39779">
+  <event-date date="1910-5-17">May 17, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2816">Robin Hood [MacFarren, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>12th annual Eistedffod.
+6 bands competed.</notes>
+
+  <created>May 30, 2018, 9:25 p.m.</created>
+  <last-modified>May 30, 2018, 9:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288637">
+      <result code="1">1</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="317968">W. Greenwood</conductor>
+    </result>
+    
+    <result id="288639">
+      <result code="2">2</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="309431">R. C. Smith</conductor>
+    </result>
+    
+    <result id="288636">
+      <result code="3">3</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="288634">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="288635">
+      <result code="">Unknown Result</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="302069">A. Gray</conductor>
+    </result>
+    
+    <result id="288638">
+      <result code="">Unknown Result</result>
+      <band id="5166">Blaengarw</band>
+      <conductor id="304904">W. Layman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

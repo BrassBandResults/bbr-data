@@ -1,0 +1,55 @@
+<contest-event id="39715">
+  <event-date date="1911-6-5">June 5, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridgend Contest</name>
+  <contest id="1665">
+    <name>Bridgend Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bridgend-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3458">Land of the Shamrock</test-piece>
+  </test-piece>
+
+  <venue id="1395">Bridgend, Bridgend County, Wales, UK</venue>
+  <notes>March contest - 1st Blaengarw, 2nd Cory, 3rd Ogmore.
+4 bands competed.</notes>
+
+  <created>May 25, 2018, 11:48 a.m.</created>
+  <last-modified>May 25, 2018, 11:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287854">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="287856">
+      <result code="2">2</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="287857">
+      <result code="3">3</result>
+      <band id="5166">Blaengarw</band>
+      <conductor id="304904">W. Layman</conductor>
+    </result>
+    
+    <result id="287855">
+      <result code="">Unknown Result</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="301832">Samuel Gillard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,65 @@
+<contest-event id="17913">
+  <event-date date="1890-8-9">Aug. 9, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darlington Contest</name>
+  <contest id="1455">
+    <name>Darlington Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>darlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2990">Springfield, St Paul&#39;s Church, Darlington</venue>
+  <notes>Darlington North End Amalgamated and Industrial Society Show
+
+Bands within 30 miles of Darlington
+
+Prizes: £12, £8, £5
+
+Quickstep: 1. Cockerton
+</notes>
+
+  <created>Feb. 4, 2013, 11:10 p.m.</created>
+  <last-modified>Feb. 24, 2020, 10:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="135352">
+      <result code="1">1</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2300">Symphonic</test-piece>
+    </result>
+    
+    <result id="135351">
+      <result code="2">2</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+    <result id="135349">
+      <result code="3">3</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+    <result id="135350">
+      <result code="4">4</result>
+      <band id="6294">Egglestone</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

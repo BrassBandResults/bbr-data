@@ -1,0 +1,63 @@
+<contest-event id="17322">
+  <event-date date="1883-8-28">Aug. 28, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wombwell Contest</name>
+  <contest id="2734">
+    <name>Wombwell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wombwell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2088">Wombwell</venue>
+  <notes>Prizes: £12, £5, £3</notes>
+
+  <created>Dec. 25, 2012, 9:35 p.m.</created>
+  <last-modified>July 4, 2017, 12:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131376">
+      <result code="1">1</result>
+      <band id="43">Old Silkstone</band>
+      <conductor id="309884">Coniah Stringer</conductor>
+      <test-piece id="2452">Le Prophete [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="131377">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+      <test-piece id="2257">Reminiscences of Meyerbeer [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="131378">
+      <result code="3">3</result>
+      <band id="3622">Wombwell and Houghton United</band>
+      <conductor id="299944">W. I. Crossley</conductor>
+      <test-piece id="1502">Notre chere Alsace</test-piece>
+    </result>
+    
+    <result id="131379">
+      <result code="W">Withdrawn</result>
+      <band id="8444">Barnsley Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="131375">
+      <result code="W">Withdrawn</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

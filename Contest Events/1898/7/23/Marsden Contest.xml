@@ -1,0 +1,93 @@
+<contest-event id="13563">
+  <event-date date="1898-7-23">July 23, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marsden Contest</name>
+  <contest id="2589">
+    <name>Marsden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marsden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="280">Marsden, West Yorkshire</venue>
+  <notes>1st annual contest promoted by Marsden band.
+Prizes: £8, £5, £3, £2, £1
+March contest: 1. Glodwick, 2. Royal George
+10 bands competed</notes>
+
+  <created>May 22, 2012, 10:32 p.m.</created>
+  <last-modified>July 18, 2019, 10:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107515">
+      <result code="1">1</result>
+      <band id="3666">Birch Mills</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="107516">
+      <result code="2">2</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="107517">
+      <result code="3">3</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="107518">
+      <result code="4">4</result>
+      <band id="3535">Royal George</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="107519">
+      <result code="5">5</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="107520">
+      <result code="">Unknown Result</result>
+      <band id="8163">Lees Old</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="107521">
+      <result code="">Unknown Result</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="107522">
+      <result code="">Unknown Result</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="311367">W. Whitaker</conductor>
+    </result>
+    
+    <result id="107523">
+      <result code="">Unknown Result</result>
+      <band id="6617">Upper Slaithwaite</band>
+      <conductor id="302373">D. Haigh</conductor>
+    </result>
+    
+    <result id="107524">
+      <result code="">Unknown Result</result>
+      <band id="3487">Heckmondwike Albion</band>
+      <conductor id="319412">B. Colbeck</conductor>
+    </result>
+    
+  </results>
+</contest-event>

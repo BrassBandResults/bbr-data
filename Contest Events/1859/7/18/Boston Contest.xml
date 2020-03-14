@@ -1,0 +1,72 @@
+<contest-event id="9999">
+  <event-date date="1859-7-18">July 18, 1859<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Boston Contest</name>
+  <contest id="1179">
+    <name>Boston Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="271">Boston Contest</group>
+    <slug>boston-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1302">Boston, Lincolnshire, England, UK</venue>
+  <notes>Prizes: £12, £6, £4, £3, £1</notes>
+
+  <created>Feb. 4, 2012, 6:37 p.m.</created>
+  <last-modified>Oct. 23, 2012, 9:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84759">
+      <result code="1">1</result>
+      <band id="4961">Hull Druids</band>
+      <conductor id="309437">Richard Smith</conductor>
+    </result>
+    
+    <result id="84756">
+      <result code="2">2</result>
+      <band id="4954">Hull Brunswick</band>
+      <conductor id="309437">Richard Smith</conductor>
+    </result>
+    
+    <result id="84753">
+      <result code="3">3</result>
+      <band id="6621">Alliance Brass Band (Horncastle)</band>
+      <conductor id="311022">F. M. Ward</conductor>
+    </result>
+    
+    <result id="84755">
+      <result code="4">4</result>
+      <band id="5014">Doncaster Railway Foundry Band</band>
+      <conductor id="297967">G.F. Birkenshaw Snr</conductor>
+    </result>
+    
+    <result id="84754">
+      <result code="5">5</result>
+      <band id="7205">Lincoln City Band</band>
+      <conductor id="311022">F. M. Ward</conductor>
+    </result>
+    
+    <result id="262442">
+      <result code="">Unknown Result</result>
+      <band id="14373">Calverton Town</band>
+      <conductor id="306376">S. Morley</conductor>
+    </result>
+    
+    <result id="84758">
+      <result code="">Unknown Result</result>
+      <band id="6622">United Harmonic (Boston)</band>
+      <conductor id="303858">J. Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

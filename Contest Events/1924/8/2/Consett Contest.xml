@@ -1,0 +1,64 @@
+<contest-event id="26937">
+  <event-date date="1924-8-2">Aug. 2, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Consett Contest</name>
+  <contest id="1625">
+    <name>Consett Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>consett-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2822">Recollections of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="1110">Vicarage Grounds, Consett</venue>
+  <notes>Promoted by Crookhall Victory Band
+
+Street march: 1. Peases West, 2. Burnhope, 3. Burnopfield
+
+March on bandstand: 1. Peases West, 2. Morrison Colliery</notes>
+
+  <created>April 5, 2014, 9:52 p.m.</created>
+  <last-modified>April 5, 2014, 9:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194644">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194645">
+      <result code="2">2</result>
+      <band id="6689">Peases West</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194646">
+      <result code="3">3</result>
+      <band id="3369">Burnhope Colliery Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194647">
+      <result code="">Unknown Result</result>
+      <band id="6700">Burnopfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194648">
+      <result code="">Unknown Result</result>
+      <band id="2637">Consett-Whitbread Trophy</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="38209">
+  <event-date date="1857-9-4">Sept. 4, 1857<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bishop Auckland Contest</name>
+  <contest id="2144">
+    <name>Bishop Auckland Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="354">Bishop Auckland Contest</group>
+    <slug>bishop-auckland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5072">Bonny Dundee Quadrilles</test-piece>
+  </test-piece>
+
+  <venue id="1359">Auckland Park, Bishop Auckland</venue>
+  <notes>Prizes 12 guineas and 6 guineas</notes>
+
+  <created>June 10, 2017, 1:05 p.m.</created>
+  <last-modified>June 10, 2017, 1:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="275714">
+      <result code="1">1</result>
+      <band id="4964">Royal Wear Yacht Club (Sunderland)</band>
+      <conductor id="312189">Robert de Lacy</conductor>
+    </result>
+    
+    <result id="275715">
+      <result code="2">2</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="303250">H. Hoggett</conductor>
+    </result>
+    
+    <result id="275716">
+      <result code="3">3</result>
+      <band id="587">Barnard Castle</band>
+      <conductor id="298365">Mr Brandon</conductor>
+    </result>
+    
+    <result id="275717">
+      <result code="4">4</result>
+      <band id="5057">Staindrop</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+    <result id="275718">
+      <result code="W">Withdrawn</result>
+      <band id="3601">New Shildon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

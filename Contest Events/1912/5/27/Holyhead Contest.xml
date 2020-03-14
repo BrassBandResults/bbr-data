@@ -1,0 +1,50 @@
+<contest-event id="13272">
+  <event-date date="1912-5-27">May 27, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holyhead Contest</name>
+  <contest id="2785">
+    <name>Holyhead Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>holyhead-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="2141">Holyhead, Isle of Anglesey, Wales, UK</venue>
+  <notes>
+
+  3 bands competed.</notes>
+
+  <created>May 7, 2012, 4:51 p.m.</created>
+  <last-modified>Aug. 24, 2016, 10:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105475">
+      <result code="1">1</result>
+      <band id="346">Menai Bridge Brass Band</band>
+      <conductor id="308904">George Senogles</conductor>
+    </result>
+    
+    <result id="105480">
+      <result code="2">2</result>
+      <band id="8333">Llangefni</band>
+      <conductor id="310308">Walter Thomas</conductor>
+    </result>
+    
+    <result id="105479">
+      <result code="3">3</result>
+      <band id="8334">Holyhead Town Band</band>
+      <conductor id="310297">O. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

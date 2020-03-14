@@ -1,0 +1,66 @@
+<contest-event id="37313">
+  <event-date date="1900-6-4">June 4, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest (Class C)</name>
+  <contest id="3981">
+    <name>Caerphilly Contest (Class C)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1881">Recollections of Carl Rosa</test-piece>
+  </test-piece>
+
+  <venue id="3173">Castle Grounds, Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes>6 bands competed</notes>
+
+  <created>Feb. 21, 2017, 9:42 p.m.</created>
+  <last-modified>June 13, 2018, 8:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270327">
+      <result code="1">1</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="270328">
+      <result code="2">2</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310676">W. Turtle</conductor>
+    </result>
+    
+    <result id="270329">
+      <result code="3">3</result>
+      <band id="6596">Deri</band>
+      <conductor id="307641">William Powell</conductor>
+    </result>
+    
+    <result id="289627">
+      <result code="">Unknown Result</result>
+      <band id="7756">St. Saviour&#39;s (Cardiff) Silver</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+    <result id="289628">
+      <result code="">Unknown Result</result>
+      <band id="6595">Cwmparc</band>
+      <conductor id="310558">W. Treharne</conductor>
+    </result>
+    
+    <result id="289629">
+      <result code="">Unknown Result</result>
+      <band id="12696">Tylorstown</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

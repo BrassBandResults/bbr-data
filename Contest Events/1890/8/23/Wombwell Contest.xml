@@ -1,0 +1,74 @@
+<contest-event id="17921">
+  <event-date date="1890-8-23">Aug. 23, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wombwell Contest</name>
+  <contest id="2734">
+    <name>Wombwell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wombwell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2315">Nil Desperandum</test-piece>
+  </test-piece>
+
+  <venue id="2088">Wombwell</venue>
+  <notes>Prizes - 1st £14, 2nd £8, 3rd £4, 4th £2,
+Quickstep: 1.  Dewsbury, 2. Mirfield, 3. Rotherham
+10 bands entered, 7 competed</notes>
+
+  <created>Feb. 4, 2013, 11:47 p.m.</created>
+  <last-modified>May 24, 2019, 8:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="135392">
+      <result code="1">1</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="135393">
+      <result code="2">2</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135394">
+      <result code="3">3</result>
+      <band id="4062">Mirfield Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135395">
+      <result code="4">4</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260249">
+      <result code="">Unknown Result</result>
+      <band id="43">Old Silkstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135396">
+      <result code="">Unknown Result</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260248">
+      <result code="">Unknown Result</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

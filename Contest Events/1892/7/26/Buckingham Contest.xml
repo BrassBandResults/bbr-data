@@ -1,0 +1,75 @@
+<contest-event id="18206">
+  <event-date date="1892-7-26">July 26, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Buckingham Contest</name>
+  <contest id="3856">
+    <name>Buckingham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>buckingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3070">Brookfields, Buckingham, Buckinghamshire, England, UK</venue>
+  <notes>Buckingham Flower Show
+
+4 bands competed, playing two pieces each
+
+Prizes: £20 and 6 guinea trombone, 10 guineas, 7 guineas
+</notes>
+
+  <created>Feb. 14, 2013, 9:32 a.m.</created>
+  <last-modified>Feb. 14, 2013, 9:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="137263">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2248">Stiffelio [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="137264">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137265">
+      <result code="3">3</result>
+      <band id="7944">Finedon New</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137266">
+      <result code="4">4</result>
+      <band id="416">Langley Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1820">Leisure Times</test-piece>
+    </result>
+    
+    <result id="261515">
+      <result code="W">Withdrawn</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261516">
+      <result code="W">Withdrawn</result>
+      <band id="819">Luton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

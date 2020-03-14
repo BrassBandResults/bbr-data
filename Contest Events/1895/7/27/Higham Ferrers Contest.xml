@@ -1,0 +1,63 @@
+<contest-event id="12563">
+  <event-date date="1895-7-27">July 27, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Higham Ferrers Contest</name>
+  <contest id="2517">
+    <name>Higham Ferrers Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>higham-ferrers-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1871">Higham Ferrers</venue>
+  <notes>4 bands competed
+March contest: 1. Rushden, 2. Earls Barton
+2nd annual contest organised by Higham Ferres Town Prize Band
+Prizes: £15, £10, £6, £3</notes>
+
+  <created>April 16, 2012, 5:10 p.m.</created>
+  <last-modified>June 22, 2019, 9:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100319">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100320">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="100321">
+      <result code="3">3</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100322">
+      <result code="4">4</result>
+      <band id="819">Luton Band</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="148914">
+      <result code="W">Withdrawn</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

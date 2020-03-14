@@ -1,0 +1,74 @@
+<contest-event id="23391">
+  <event-date date="1904-8-1">Aug. 1, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1646">Recollections of Flotow</test-piece>
+  </test-piece>
+
+  <venue id="3934">Derby School Ground</venue>
+  <notes>6 bands competed
+
+March: 1. Belper United, 2. Alvaston</notes>
+
+  <created>Sept. 2, 2013, 9 p.m.</created>
+  <last-modified>Sept. 2, 2013, 9:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171904">
+      <result code="1">1</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="315248">T. Elliott</conductor>
+    </result>
+    
+    <result id="171905">
+      <result code="2">2</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="302841">James Haywood</conductor>
+    </result>
+    
+    <result id="171907">
+      <result code="3">3</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="297237">J. Attewell</conductor>
+    </result>
+    
+    <result id="171908">
+      <result code="4">4</result>
+      <band id="6852">Alvaston and Boulton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171902">
+      <result code="">Unknown Result</result>
+      <band id="7092">Derby Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171903">
+      <result code="">Unknown Result</result>
+      <band id="4776">Derby Sax and Tuba</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171906">
+      <result code="">Unknown Result</result>
+      <band id="6887">Bentinck Colliery</band>
+      <conductor id="311403">J. T. White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

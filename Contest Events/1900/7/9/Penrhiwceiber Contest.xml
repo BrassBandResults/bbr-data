@@ -1,0 +1,67 @@
+<contest-event id="37344">
+  <event-date date="1900-7-9">July 9, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Penrhiwceiber Contest</name>
+  <contest id="5476">
+    <name>Penrhiwceiber Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>penrhiwceiber-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="5300">Penrhiwceiber, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>March contest: 1. Treharris.
+6 bands competed.</notes>
+
+  <created>Feb. 23, 2017, 6:26 p.m.</created>
+  <last-modified>June 14, 2018, 6:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270443">
+      <result code="1">1</result>
+      <band id="8031">Treharris</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="270444">
+      <result code="2">2</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="270445">
+      <result code="3">3</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="300719">T. Eastwood</conductor>
+    </result>
+    
+    <result id="289698">
+      <result code="">Unknown Result</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="301472">T. Foxhall</conductor>
+    </result>
+    
+    <result id="289699">
+      <result code="">Unknown Result</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">Phineas Ambler</conductor>
+    </result>
+    
+    <result id="289700">
+      <result code="">Unknown Result</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="297821">Henry Bentley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

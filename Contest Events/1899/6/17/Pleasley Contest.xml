@@ -1,0 +1,69 @@
+<contest-event id="12413">
+  <event-date date="1899-6-17">June 17, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pleasley Contest</name>
+  <contest id="2030">
+    <name>Pleasley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pleasley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1460">Pleasley, Derbyshire</venue>
+  <notes>1st prize £8.10s. and cup, 2nd prize £5, 3rd prize £2, 4th prize £1.
+March contest 1st (£1) Hucknall Temperance,  2nd (10s.) Kirkby United.
+Best trombone - J.Salt, Hucknall Temperance. 
+6 bands competed.</notes>
+
+  <created>April 14, 2012, 8:38 a.m.</created>
+  <last-modified>Jan. 31, 2020, 11:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99281">
+      <result code="1">1</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="99282">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+    </result>
+    
+    <result id="99283">
+      <result code="3">3</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="314319">Colin Thom</conductor>
+    </result>
+    
+    <result id="99284">
+      <result code="4">4</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="99286">
+      <result code="">Unknown Result</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="99285">
+      <result code="">Unknown Result</result>
+      <band id="8158">Lincoln Ruston&#39;s Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

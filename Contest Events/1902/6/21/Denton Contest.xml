@@ -1,0 +1,58 @@
+<contest-event id="40063">
+  <event-date date="1902-6-21">June 21, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Denton Contest</name>
+  <contest id="1280">
+    <name>Denton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>denton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="6887">Jolly Hatters Grounds, Denton, Lancashire</venue>
+  <notes>Prizes - 1st £12, 2nd £9, 3rd £6, 4th £3.
+March contest - 1st Kingston Mills, 2nd Glossop Old.
+Best soprano - F.Forbes, best horn - E.Fielding, best euphonium - J.Jennings, best baritone W.Duckworth (all Kingston Mills.
+Best trombone - J.Locker (Denton).
+Challenge contest between 4 local bands.</notes>
+
+  <created>July 5, 2018, 7:41 a.m.</created>
+  <last-modified>July 5, 2018, 7:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291225">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="291226">
+      <result code="2">2</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="291227">
+      <result code="3">3</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="291228">
+      <result code="4">4</result>
+      <band id="7616">Hyde Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
