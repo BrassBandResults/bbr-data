@@ -15,14 +15,14 @@
   </contest>
   <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
   <test-piece>
-    
+    <test-piece id="242">Stantonbury Festival</test-piece>
   </test-piece>
 
   <venue id="401">Stavanger Konserthus (Kuppelhallen), Stavanger, Rogaland, Norway</venue>
   <notes></notes>
 
   <created>July 31, 2012, 10:24 a.m.</created>
-  <last-modified>Aug. 27, 2012, 9:50 a.m.</last-modified>
+  <last-modified>March 15, 2020, 8:41 p.m.</last-modified>
 
   <results>
     
@@ -30,6 +30,7 @@
       <result code="1">1</result>
       <band id="5662">Tasta Skolekorps</band>
       <conductor id="312233">Morten Øvrebekk</conductor>
+      <test-piece id="2149">Aspirations</test-piece>
     </result>
     
     <result id="114109">
@@ -42,37 +43,43 @@
     <result id="114110">
       <result code="3">3</result>
       <band id="5664">Skodvin Skulemusikk</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="308636">Knut Harald Rydland</conductor>
+      <test-piece id="348">Contest Day</test-piece>
     </result>
     
     <result id="114111">
       <result code="4">4</result>
       <band id="5658">Sæbø Skulemusikklag</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="304210">Gareth A. Jones</conductor>
+      <test-piece id="241">Dimensions</test-piece>
     </result>
     
     <result id="114112">
       <result code="5">5</result>
       <band id="5773">Skeie Skolekorps</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="304340">Geir Karlson</conductor>
+      <test-piece id="619">The Prizewinners</test-piece>
     </result>
     
     <result id="114113">
       <result code="6">6</result>
       <band id="5657">Smørås Skolemusikk</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="303181">Oddmund Hjartåker</conductor>
+      <test-piece id="619">The Prizewinners</test-piece>
     </result>
     
     <result id="114114">
       <result code="7">7</result>
       <band id="5659">Manger Skulemusikklag</band>
       <conductor id="301871">Eirik Gjerdevik</conductor>
+      <test-piece id="285">A Malvern Suite</test-piece>
     </result>
     
     <result id="114115">
       <result code="8">8</result>
       <band id="6142">Røyken Skoles Musikkorps</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="305398">Heidi Hesselberg Løken</conductor>
+      <test-piece id="6013">Oregon</test-piece>
     </result>
     
   </results>
