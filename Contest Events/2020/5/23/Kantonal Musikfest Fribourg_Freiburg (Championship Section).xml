@@ -1,17 +1,17 @@
 <contest-event id="43155">
   <event-date date="2020-5-23">May 23, 2020<event-date>
   <event-date-resolution>D</event-date-resolution>
-  <name>Kantonal Musikfest Fribourg, Freiburg (Championship Section)</name>
-  <contest id="6580">
-    <name>Kantonal Musikfest Fribourg, Freiburg (Championship Section)</name>
+  <name>Kantonal Musikfest Fribourg/Freiburg (Championship Section)</name>
+  <contest id="4393">
+    <name>Kantonal Musikfest Fribourg/Freiburg (Championship Section)</name>
     <order>0</order>
     <contest-type id="11">Set Test and Own Choice</contest-type>
-    <group id=""></group>
-    <slug>kantonal-musikfest-fribourg-freiburg-cha-6580</slug>
+    <group id="411">Kantonal Musikfest Fribourg/Freiburg</group>
+    <slug>kantonal-musikfest-fribourg-freiburg-cha-4393</slug>
     
     <notes>None</notes>
-    
-    
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
   </contest>
   
   <test-piece>
@@ -19,15 +19,15 @@
   </test-piece>
 
   <venue id="6174">Romont, FR, Switzerland</venue>
-  <notes></notes>
+  <no-contest>&gt; Cancelled due to Corona Virus -Crisis (rescheduled if possible).</no-contest>
 
   <created>Jan. 19, 2020, 3:03 p.m.</created>
-  <last-modified>Feb. 16, 2020, 4:51 p.m.</last-modified>
+  <last-modified>March 18, 2020, 2:53 p.m.</last-modified>
 
   <results>
     
     <result id="314805">
-      <result code="">Unknown Result</result>
+      <result code="">Cancelled</result>
       <band id="8832">Fanfare Paroissiale de Siviriez</band>
       <conductor id="299042">Laurent Carrel</conductor>
       <test-piece id="3175">Journey of the Lone Wolf</test-piece>
