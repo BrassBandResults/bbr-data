@@ -1,5 +1,5 @@
 <contest-event id="6504">
-  <event-date date="1911-7-16">July 16, 1911<event-date>
+  <event-date date="1911-7-15">July 15, 1911<event-date>
   <event-date-resolution>D</event-date-resolution>
   <name>Earl&#39;s Court Contest (Championship Section)</name>
   <contest id="1081">
@@ -13,16 +13,18 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="2378">I Pagliacci</test-piece>
   </test-piece>
 
   <venue id="212">Empress Hall, Earl&#39;s Court, County of London, England, UK</venue>
-  <notes>35 bands entered</notes>
+  <notes>35 bands entered
+
+</notes>
 
   <created>June 16, 2011, 1:45 p.m.</created>
-  <last-modified>May 22, 2018, 8:20 a.m.</last-modified>
+  <last-modified>March 20, 2020, 11:58 a.m.</last-modified>
 
   <results>
     
@@ -41,6 +43,24 @@
     <result id="57129">
       <result code="3">3</result>
       <band id="610">Crystal Palace Band</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="316256">
+      <result code="">Unknown Result</result>
+      <band id="7231">Dartford Town</band>
+      <conductor id="301814">H. E. Gilder</conductor>
+    </result>
+    
+    <result id="316255">
+      <result code="">Unknown Result</result>
+      <band id="7243">North London Excelsior</band>
+      <conductor id="307827">John Pursglove</conductor>
+    </result>
+    
+    <result id="316257">
+      <result code="">Unknown Result</result>
+      <band id="6336">Southwark Borough</band>
       <conductor id="306359">Tom Morgan</conductor>
     </result>
     
