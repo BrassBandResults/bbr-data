@@ -19,10 +19,11 @@
   </test-piece>
 
   <venue id="1897">Conway, North Wales</venue>
-  <notes>4 bands competed.</notes>
+  <notes>4 bands competed.
+</notes>
 
   <created>Sept. 17, 2018, 10 a.m.</created>
-  <last-modified>Sept. 17, 2018, 10:03 a.m.</last-modified>
+  <last-modified>March 27, 2020, 4:01 p.m.</last-modified>
 
   <results>
     
@@ -38,16 +39,16 @@
       <conductor id="299806">W. Coverley</conductor>
     </result>
     
+    <result id="316675">
+      <result code="4">4</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="311599">David Williams</conductor>
+    </result>
+    
     <result id="293020">
       <result code="">Unknown Result</result>
       <band id="6547">Old Colwyn</band>
       <conductor id="304225">J. Jones</conductor>
-    </result>
-    
-    <result id="293023">
-      <result code="">Unknown Result</result>
-      <band id="1820">Llandudno Band</band>
-      <conductor id="311596">D. Williams</conductor>
     </result>
     
   </results>
