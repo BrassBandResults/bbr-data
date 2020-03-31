@@ -13,16 +13,17 @@
     
     
   </contest>
-  
+  <contest-type-override id="20">March Contest (Music and Inspection Points)</contest-type-override>
   <test-piece>
     
   </test-piece>
 
   <venue id="7279">Ballarat Oval  Ballarat  Victoria  Australia</venue>
-  <notes></notes>
+  <notes>Inspection / Drill points listed under Inspection
+Run as part of the Royal South Street Eisteddfod</notes>
 
   <created>March 30, 2020, 2:54 a.m.</created>
-  <last-modified>March 30, 2020, 2:54 a.m.</last-modified>
+  <last-modified>March 30, 2020, 5:49 a.m.</last-modified>
 
   <results>
     
@@ -72,7 +73,7 @@
       <result code="7">7</result>
       <band id="18511">Bathurst District  (NSW)</band>
       <conductor id="313521">Sam Lewins</conductor>
-      <test-piece id="6247">March  &quot;The Bathurst&quot;</test-piece>
+      <test-piece id="6303">March  &quot; Bathurst&quot;</test-piece>
     </result>
     
     <result id="316876">
@@ -86,12 +87,14 @@
       <result code="10">10</result>
       <band id="18636">Rozelle District  (NSW)</band>
       <conductor id="313563">Alf Lovell</conductor>
+      <test-piece id="6304">March  &quot; Mikora&quot;</test-piece>
     </result>
     
     <result id="316878">
       <result code="11">11</result>
       <band id="18637">Derwent Regiment  -- Hobart  (Tas)</band>
       <conductor id="303416">Thomas Hopkins</conductor>
+      <test-piece id="6302">March  &quot; Besses&quot;</test-piece>
     </result>
     
   </results>
