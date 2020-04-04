@@ -1,0 +1,54 @@
+<contest-event id="43357">
+  <event-date date="1971-4-25">April 25, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Isle of Man Festival (Section B)</name>
+  <contest id="3603">
+    <name>Isle of Man Festival (Section B)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="369">Isle of Man Festival</group>
+    <slug>isle-of-man-festival-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1176">A Czech Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="2196">Villa Marina (Royal Hall), Douglas, Isle of Man</venue>
+  <notes></notes>
+
+  <created>April 3, 2020, 10:58 a.m.</created>
+  <last-modified>April 3, 2020, 11:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="317036">
+      <result code="1">1</result>
+      <band id="193">Douglas Town Band</band>
+      <conductor id="299925">James Crosbie</conductor>
+    </result>
+    
+    <result id="317043">
+      <result code="2">2</result>
+      <band id="7826">Castletown</band>
+      <conductor id="298639">H. Mylchreest</conductor>
+    </result>
+    
+    <result id="317038">
+      <result code="3">3</result>
+      <band id="8045">Laxey Temperance</band>
+      <conductor id="316465">Leo Arnold</conductor>
+    </result>
+    
+    <result id="317044">
+      <result code="4">4</result>
+      <band id="3414">Rushen Silver Band</band>
+      <conductor id="298640">J. Crebbin</conductor>
+    </result>
+    
+  </results>
+</contest-event>
