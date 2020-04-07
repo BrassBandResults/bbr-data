@@ -20,27 +20,35 @@
 
   <venue id="353">Ballarat, Victoria, Australia</venue>
   <notes>Australian A Grade Championship
-Collingwood Citizen awarded Australian Championship on countback being winners of the Test Selection
-Results entered in above championship
+Collingwood Citizen awarded Championship on countback being winners of the Test Selection
 
-Contests suspended 1916 - 1918  (War Years)
-</notes>
+
+Contests suspended 1916 - 1918  (War Years)</notes>
 
   <created>Dec. 13, 2017, 10:58 p.m.</created>
-  <last-modified>Jan. 9, 2018, 11:27 p.m.</last-modified>
+  <last-modified>April 7, 2020, 2:16 a.m.</last-modified>
 
   <results>
-    
-    <result id="283423">
-      <result code="1">1</result>
-      <band id="12283">Collingwood Citizens</band>
-      <conductor id="304131">Frank Johnston</conductor>
-    </result>
     
     <result id="283424">
       <result code="1">1</result>
       <band id="16613">Malvern Tramways  (Vic)</band>
       <conductor id="309101">Harry Shugg</conductor>
+      <test-piece id="3538">Tristan and Isolde</test-piece>
+    </result>
+    
+    <result id="283423">
+      <result code="1">1</result>
+      <band id="12283">Collingwood Citizens</band>
+      <conductor id="304131">Frank Johnston</conductor>
+      <test-piece id="1370">Beethoven&#39;s Works [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="317196">
+      <result code="3">3</result>
+      <band id="2195">Warrnambool City Band</band>
+      <conductor id="300207">George Davis</conductor>
+      <test-piece id="1441">Heroic</test-piece>
     </result>
     
   </results>

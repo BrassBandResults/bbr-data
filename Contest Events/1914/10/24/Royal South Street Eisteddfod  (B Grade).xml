@@ -13,17 +13,16 @@
     
     
   </contest>
-  
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
   <test-piece>
     <test-piece id="2206">Viva Beethoven [arr. Ord Hume]</test-piece>
   </test-piece>
 
   <venue id="353">Ballarat, Victoria, Australia</venue>
-  <notes>Australian &quot;B&quot; Grade Championship
-Results entered in above Championshipo</notes>
+  <notes></notes>
 
   <created>Dec. 13, 2017, 12:41 a.m.</created>
-  <last-modified>March 26, 2018, 3:13 p.m.</last-modified>
+  <last-modified>April 7, 2020, 1:29 a.m.</last-modified>
 
   <results>
     
@@ -31,6 +30,35 @@ Results entered in above Championshipo</notes>
       <result code="1">1</result>
       <band id="2173">City of Ballarat Municipal Brass Band</band>
       <conductor id="299502">Percy Code</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="317187">
+      <result code="2">2</result>
+      <band id="2195">Warrnambool City Band</band>
+      <conductor id="300207">George Davis</conductor>
+      <test-piece id="2204">Weber&#39;s Works</test-piece>
+    </result>
+    
+    <result id="317188">
+      <result code="3">3</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="319940">John Booth - Gore</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="317189">
+      <result code="4">4</result>
+      <band id="16565">Footscray Municipal  (Vic)</band>
+      <conductor id="299501">John Code</conductor>
+      <test-piece id="5750">Verd&#39;s Works</test-piece>
+    </result>
+    
+    <result id="317190">
+      <result code="5">5</result>
+      <band id="18677">Australian Light Horse  --  Goulburn (NSW)</band>
+      <conductor id="299501">John Code</conductor>
+      <test-piece id="1334">Robert il Diavolo [unknown arranger]</test-piece>
     </result>
     
   </results>
