@@ -13,7 +13,7 @@
     
     
   </contest>
-  
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
@@ -22,26 +22,38 @@
   <notes>5 bands competed.</notes>
 
   <created>March 5, 2016, 12:21 p.m.</created>
-  <last-modified>March 5, 2016, 12:23 p.m.</last-modified>
+  <last-modified>April 16, 2020, 1:11 p.m.</last-modified>
 
   <results>
     
-    <result id="247616">
+    <result id="317508">
       <result code="1">1</result>
       <band id="882">Coleshill Town Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="305734">A. Matthews</conductor>
     </result>
     
-    <result id="247617">
+    <result id="317509">
       <result code="2">2</result>
       <band id="482">Bilton Silver (Rugby) Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="303336">Alan Holmes</conductor>
     </result>
     
-    <result id="247618">
+    <result id="317510">
       <result code="3">3</result>
       <band id="4099">Quarrybank Silver Prize Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="301621">F. Gallier</conductor>
+    </result>
+    
+    <result id="317507">
+      <result code="">Unknown Result</result>
+      <band id="18719">Kings Rise Boys School</band>
+      <conductor id="316472">Doug Harris</conductor>
+    </result>
+    
+    <result id="317506">
+      <result code="">Unknown Result</result>
+      <band id="4167">Uplands (Smethwick)</band>
+      <conductor id="305734">A. Matthews</conductor>
     </result>
     
   </results>
