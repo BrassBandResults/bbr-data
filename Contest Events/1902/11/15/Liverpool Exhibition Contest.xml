@@ -13,16 +13,18 @@
     
     
   </contest>
-  
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
   <test-piece>
     
   </test-piece>
 
   <venue id="6759">North Haymarket, Liverpool</venue>
-  <notes>March contest - 1st Warrington, 2nd Earlestown, 3rd Formby, 4th Aigburth.</notes>
+  <notes>March contest - 1st Warrington, 2nd Earlestown, 3rd Formby, 4th Aigburth.
+Prizes - £10 and cup, £9 and shield, £8, £7, £6.
+</notes>
 
   <created>July 11, 2018, 9:16 p.m.</created>
-  <last-modified>July 11, 2018, 9:21 p.m.</last-modified>
+  <last-modified>May 5, 2020, 8:21 p.m.</last-modified>
 
   <results>
     
@@ -47,6 +49,18 @@
     <result id="291558">
       <result code="4">4</result>
       <band id="7896">Formby Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="318263">
+      <result code="5">5</result>
+      <band id="2685">Birkenhead Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="318264">
+      <result code="">Unknown Result</result>
+      <band id="6762">Aigburth Subscription</band>
       <conductor id="310730">Unknown</conductor>
     </result>
     
