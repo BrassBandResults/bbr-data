@@ -13,18 +13,18 @@
     
     
   </contest>
-  
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
   <test-piece>
     <test-piece id="1746">Songs of Scotland</test-piece>
   </test-piece>
 
   <venue id="3582">Wigton, Cumbria, England, UK</venue>
-  <notes> Prizes - 1st £20, 2nd £10, 3rd £5, 4th £3.10s., 5th £1.10s.,
+  <notes>Prizes - 1st £20, 2nd £10, 3rd £5, 4th £3.10s., 5th £1.10s.,
  March contest - 1st(£3.10s.) Hebburn, 2nd(£1.10s.) Liddlesdale, 3rd(10s.) Workington Artillery.
   6 bands competed.</notes>
 
   <created>June 16, 2013, 8:57 p.m.</created>
-  <last-modified>Aug. 15, 2018, 10:28 a.m.</last-modified>
+  <last-modified>May 19, 2020, 11:51 a.m.</last-modified>
 
   <results>
     
@@ -32,36 +32,42 @@
       <result code="1">1</result>
       <band id="1575">Hebburn Colliery</band>
       <conductor id="307057">John Paley</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
     </result>
     
     <result id="162766">
       <result code="2">2</result>
       <band id="4850">Liddesdale Temperance</band>
       <conductor id="299958">James Crozier</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
     </result>
     
     <result id="162767">
       <result code="2">2</result>
       <band id="1510">Workington</band>
       <conductor id="305310">George Lowden</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
     </result>
     
     <result id="162768">
       <result code="4">4</result>
       <band id="2593">Great Clifton Silver</band>
       <conductor id="301277">J. J. Fisher</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
     </result>
     
     <result id="162769">
       <result code="5">5</result>
       <band id="6921">Throckley</band>
       <conductor id="302169">J. A. Greenwood</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
     </result>
     
     <result id="291850">
       <result code="6">6</result>
       <band id="7964">Aspatria Fire Brigade</band>
       <conductor id="319414">J. Wilkinson</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
     </result>
     
   </results>
