@@ -1,5 +1,5 @@
 <contest-event id="42959">
-  <event-date date="2020-11-28">Nov. 28, 2020<event-date>
+  <event-date date="2020-11-29">Nov. 29, 2020<event-date>
   <event-date-resolution>D</event-date-resolution>
   <name>Swiss National Championships (First Division)</name>
   <contest id="12">
@@ -15,14 +15,14 @@
   </contest>
   
   <test-piece>
-    
+    <test-piece id="6151">Bipolarity</test-piece>
   </test-piece>
 
-  <venue id="1026">Music and Convention Centre (Auditorium Stravinski), Montreux, VD, Switzerland</venue>
-  <notes></notes>
+  <venue id="6030">Music and Convention Centre (Miles Davis Hall), Montreux, VD, Switzerland</venue>
+  <notes>Line Up First - Fourth Section provisionally. Def. Info in early October.</notes>
 
   <created>Nov. 27, 2019, 1:59 p.m.</created>
-  <last-modified>Nov. 27, 2019, 1:59 p.m.</last-modified>
+  <last-modified>May 25, 2020, 3:18 p.m.</last-modified>
 
   <results>
     
@@ -30,6 +30,12 @@
       <result code="">Unknown Result</result>
       <band id="10026">Brass Band 43</band>
       <conductor id="306664">Olivier Neuhaus</conductor>
+    </result>
+    
+    <result id="318880">
+      <result code="">Unknown Result</result>
+      <band id="87">Brass Band Breitenbach</band>
+      <conductor id="306596">Reto Naef</conductor>
     </result>
     
     <result id="314014">
@@ -50,16 +56,34 @@
       <conductor id="314476">Aldo Werlen</conductor>
     </result>
     
+    <result id="318879">
+      <result code="">Unknown Result</result>
+      <band id="89">Brass Band MG Reiden</band>
+      <conductor id="301573">Roland Fröscher</conductor>
+    </result>
+    
     <result id="314017">
       <result code="">Unknown Result</result>
       <band id="74">Brass Band Treize Etoiles B</band>
       <conductor id="301445">Eric Fournier</conductor>
     </result>
     
+    <result id="318882">
+      <result code="">Unknown Result</result>
+      <band id="86">Brass Band Uri</band>
+      <conductor id="309708">Markus Steimen</conductor>
+    </result>
+    
     <result id="314022">
       <result code="">Unknown Result</result>
       <band id="1070">Ensemble de Cuivres AMBITUS</band>
       <conductor id="317909">Gilles Rocha</conductor>
+    </result>
+    
+    <result id="318881">
+      <result code="">Unknown Result</result>
+      <band id="4934">Ensemble de Cuivres la Covatte Coeuve</band>
+      <conductor id="306944">Boris Oppliger</conductor>
     </result>
     
     <result id="314024">
