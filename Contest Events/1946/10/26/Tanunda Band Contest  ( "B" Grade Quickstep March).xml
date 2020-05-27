@@ -1,13 +1,13 @@
-<contest-event id="43620">
+<contest-event id="43624">
   <event-date date="1946-10-26">Oct. 26, 1946<event-date>
   <event-date-resolution>D</event-date-resolution>
-  <name>Tanunda Band Contest   (&quot;B&quot; Grade)</name>
-  <contest id="6608">
-    <name>Tanunda Band Contest   (&quot;B&quot; Grade)</name>
+  <name>Tanunda Band Contest  ( &quot;B&quot; Grade Quickstep March)</name>
+  <contest id="6612">
+    <name>Tanunda Band Contest  ( &quot;B&quot; Grade Quickstep March)</name>
     <order>0</order>
-    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <contest-type id="20">March Contest (Music and Inspection Points)</contest-type>
     <group id=""></group>
-    <slug>tanunda-band-contest-b-grade</slug>
+    <slug>tanunda-band-contest-b-grade-quickstep-march</slug>
     
     <notes>None</notes>
     
@@ -19,47 +19,44 @@
   </test-piece>
 
   <venue id="7316">Tanunda Recreation Grounds  , Tanunda,  South Australia,  Australia</venue>
-  <notes>Percy Jones was the appointed adjudicator but took sick just prior to the commencement of the contest and taken to hospital,  Dave Hopkins. filled the breach
+  <notes>Drill points listed under Inspection</notes>
 
-Contest consisted off    own choice  Overture  (points listed under Test )
-Own choice Hymn &amp; Waltz  (points combined &amp; listed under Own Choice)</notes>
-
-  <created>May 26, 2020, 12:15 a.m.</created>
-  <last-modified>May 26, 2020, 12:28 a.m.</last-modified>
+  <created>May 27, 2020, 12:56 a.m.</created>
+  <last-modified>May 27, 2020, 1:21 a.m.</last-modified>
 
   <results>
     
-    <result id="318915">
+    <result id="318946">
       <result code="1">1</result>
-      <band id="19086">Henley &amp; Grange Municipal</band>
-      <conductor id="320196">Clair Bail</conductor>
-    </result>
-    
-    <result id="318916">
-      <result code="2">2</result>
       <band id="2178">Tanunda Town Band</band>
       <conductor id="320197">Arthur John</conductor>
     </result>
     
-    <result id="318917">
-      <result code="3">3</result>
+    <result id="318947">
+      <result code="2">2</result>
       <band id="18758">Prospect City   (Sth Aust)</band>
       <conductor id="317511">Bert Harding</conductor>
     </result>
     
-    <result id="318918">
+    <result id="318948">
+      <result code="3">3</result>
+      <band id="2179">St. John Ambulance Band [Adelaide]</band>
+      <conductor id="320196">Clair Bail</conductor>
+    </result>
+    
+    <result id="318949">
       <result code="4">4</result>
       <band id="18759">Kensington &amp; Norwood Municipal  (Sth Aust)</band>
       <conductor id="320086">Otto Lovell</conductor>
     </result>
     
-    <result id="318919">
+    <result id="318950">
       <result code="5">5</result>
       <band id="19087">Port Adelaide Municipal</band>
       <conductor id="310730">Unknown</conductor>
     </result>
     
-    <result id="318920">
+    <result id="318951">
       <result code="W">Withdrawn</result>
       <band id="2192">Whyalla Citizens&#39; Band</band>
       <conductor id="310730">Unknown</conductor>
