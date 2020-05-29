@@ -13,7 +13,7 @@
     
     
   </contest>
-  
+  <contest-type-override id="4">March Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
@@ -21,15 +21,18 @@
   <venue id="5962">Lenggenwil, SG, Switzerland</venue>
   <notes>&gt; held on May 25th &amp; 26th
 
-.. Bands, very much Wind (mixed Brass/Wind - sep. Saturday* &amp; Sunday in Jury G &amp; H; sep. Bands with Evolutions)
+77 Bands, very much Wind (mixed Brass/Wind and Sections - sep. Saturday till Draw 49 &amp; Sunday in Jury G &amp; H and sep. Bands with Evolutions)
 
 Winner Sat G: Musikverein Konkordia Au (Wind Band, Second Section), 86.67 Points
 Winner Sat H: Stadtmusik Altstätten (Wind Band, First Section), 89.67 Points
 Winner Evolutions Sat: Blechharmonie Kirchberg SG, 93.67 Points
-Winner Evolutions Sun: Musikgesellschaft Bazenheid, 87.67 Points</notes>
+Winner Evolutions Sun: Musikgesellschaft Bazenheid, 87.67 Points
+
+Jury G: Begert Hasler, Rütsche
+Jury H: Kühnis, Speck, Wohlwend</notes>
 
   <created>May 27, 2020, 9:02 a.m.</created>
-  <last-modified>May 27, 2020, 9:18 a.m.</last-modified>
+  <last-modified>May 28, 2020, 5:42 a.m.</last-modified>
 
   <results>
     
@@ -43,6 +46,18 @@ Winner Evolutions Sun: Musikgesellschaft Bazenheid, 87.67 Points</notes>
       <result code="1">1</result>
       <band id="77">Liberty Brass Band Ostschweiz</band>
       <conductor id="308501">Stefan Roth</conductor>
+    </result>
+    
+    <result id="319041">
+      <result code="2">2</result>
+      <band id="108">Liberty Brass Band Junior</band>
+      <conductor id="305341">Christoph Luchsinger</conductor>
+    </result>
+    
+    <result id="319042">
+      <result code="3">3</result>
+      <band id="9463">Musikgesellschaft Eggersriet</band>
+      <conductor id="318096">Roman Schnelli</conductor>
     </result>
     
   </results>
