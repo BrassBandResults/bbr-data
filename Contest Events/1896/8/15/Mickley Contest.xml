@@ -1,0 +1,81 @@
+<contest-event id="20248">
+  <event-date date="1896-8-15">Aug. 15, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mickley Contest</name>
+  <contest id="2015">
+    <name>Mickley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mickley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1448">Mickley, Northumberland, England, UK</venue>
+  <notes>Open to bands that had not won a prize exceeding £10 since January 1st, 1892
+
+Prizes: £15, £8, £4, £3, £2, £1, 10s
+
+Quickstep: 1. Westwood, 2. Barrington</notes>
+
+  <created>April 1, 2013, 6:19 p.m.</created>
+  <last-modified>April 1, 2013, 6:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150362">
+      <result code="1">1</result>
+      <band id="7526">Haltwhistle Volunteer</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="150361">
+      <result code="2">2</result>
+      <band id="4512">Barrington</band>
+      <conductor id="310181">R. D. Taylor</conductor>
+      <test-piece id="1005">L&#39;Etoile du Nord [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="150365">
+      <result code="3">3</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2300">Symphonic</test-piece>
+    </result>
+    
+    <result id="150360">
+      <result code="4">4</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+      <test-piece id="1415">Souvenir de Meyerbeer [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="150364">
+      <result code="5">5</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="150366">
+      <result code="">Unknown Result</result>
+      <band id="7425">Seaham Bottle Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="150363">
+      <result code="">Unknown Result</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

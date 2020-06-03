@@ -1,0 +1,93 @@
+<contest-event id="33237">
+  <event-date date="1910-6-25">June 25, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newtown Contest</name>
+  <contest id="1889">
+    <name>Newtown Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newtown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2204">Weber&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="1336">Newtown, Powys, Wales, UK</venue>
+  <notes>Prizes - 1st £35, 2nd £20, 3rd £15, 4th £10, 5th £5.
+Welsh section - 1st(£10) Ferndale, 2nd(£5) Aberaman Original.
+March contest - 1st(£2) Irwell Springs, 2nd(£1) Ferndale.
+10 bands competed.</notes>
+
+  <created>Oct. 30, 2015, 10:30 a.m.</created>
+  <last-modified>May 31, 2018, 9:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="239717">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="239718">
+      <result code="2">2</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="239719">
+      <result code="3">3</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="306841">Walter Nuttall</conductor>
+    </result>
+    
+    <result id="239720">
+      <result code="4">4</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="239721">
+      <result code="5">5</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="288710">
+      <result code="">Unknown Result</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="288711">
+      <result code="">Unknown Result</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="312118">Joseph York</conductor>
+    </result>
+    
+    <result id="288712">
+      <result code="">Unknown Result</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="314394">T. Valentine</conductor>
+    </result>
+    
+    <result id="288713">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="288714">
+      <result code="">Unknown Result</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

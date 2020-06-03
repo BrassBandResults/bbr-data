@@ -1,0 +1,60 @@
+<contest-event id="12847">
+  <event-date date="1889-6-24">June 24, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridgend Contest</name>
+  <contest id="1665">
+    <name>Bridgend Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bridgend-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="1395">Bridgend, Bridgend County, Wales, UK</venue>
+  <notes></notes>
+
+  <created>April 27, 2012, 4:03 p.m.</created>
+  <last-modified>April 27, 2012, 4:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102082">
+      <result code="1">1</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305677">Richard Martyn</conductor>
+    </result>
+    
+    <result id="102083">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="303504">W. R. Howe</conductor>
+    </result>
+    
+    <result id="102084">
+      <result code="">Unknown Result</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="300793">T. C. Edwards</conductor>
+    </result>
+    
+    <result id="102085">
+      <result code="W">Withdrawn</result>
+      <band id="8114">Bute (Treherbert)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102086">
+      <result code="W">Withdrawn</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

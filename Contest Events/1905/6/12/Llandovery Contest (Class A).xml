@@ -1,0 +1,61 @@
+<contest-event id="40255">
+  <event-date date="1905-6-12">June 12, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class A)</name>
+  <contest id="2236">
+    <name>Llandovery Contest (Class A)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5640">The Hero of Wales</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £5, 3rd £2,
+5 bands competed.</notes>
+
+  <created>Sept. 6, 2018, 6:11 p.m.</created>
+  <last-modified>Sept. 6, 2018, 6:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="292701">
+      <result code="1">1</result>
+      <band id="7482">Cwmtawe District Training Band</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="292703">
+      <result code="2">2</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David Williams</conductor>
+    </result>
+    
+    <result id="292704">
+      <result code="3">3</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311620">Henry Williams</conductor>
+    </result>
+    
+    <result id="292700">
+      <result code="">Unknown Result</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="306340">H. H. Morgan</conductor>
+    </result>
+    
+    <result id="292702">
+      <result code="">Unknown Result</result>
+      <band id="6763">Llandilo</band>
+      <conductor id="308840">Herbert Scott</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="13350">
+  <event-date date="1897-8-7">Aug. 7, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rufford Contest</name>
+  <contest id="2813">
+    <name>Rufford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rufford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1933">Smiles and Tears</test-piece>
+  </test-piece>
+
+  <venue id="2158">Rufford</venue>
+  <notes>March contest: 1. Banks Rechabites
+5 bands competed</notes>
+
+  <created>May 10, 2012, 9:07 p.m.</created>
+  <last-modified>July 10, 2019, 6:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105888">
+      <result code="1">1</result>
+      <band id="6995">Parr St Peter&#39;s</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="105889">
+      <result code="2">2</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="297081">William Appleton</conductor>
+    </result>
+    
+    <result id="105890">
+      <result code="3">3</result>
+      <band id="3826">Eccleston Subscription</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="105891">
+      <result code="4">4</result>
+      <band id="7272">Blackburn Old</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="105892">
+      <result code="5">5</result>
+      <band id="1501">Banks Brass</band>
+      <conductor id="298098">J. Blundell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

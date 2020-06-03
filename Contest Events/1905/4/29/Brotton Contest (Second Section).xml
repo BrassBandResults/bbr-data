@@ -1,0 +1,54 @@
+<contest-event id="10006">
+  <event-date date="1905-4-29">April 29, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotton Contest (Second Section)</name>
+  <contest id="1820">
+    <name>Brotton Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotton-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="913">Stradella - overture [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1015">Brotton, Cleveland</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Feb. 5, 2012, 12:42 p.m.</created>
+  <last-modified>Sept. 5, 2018, 7:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84804">
+      <result code="1">1</result>
+      <band id="1637">Skinningrove Miners Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84805">
+      <result code="2">2</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84806">
+      <result code="3">3</result>
+      <band id="6630">Warrenby</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84807">
+      <result code="4">4</result>
+      <band id="6028">Loftus</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

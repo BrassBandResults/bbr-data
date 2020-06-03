@@ -1,0 +1,62 @@
+<contest-event id="36002">
+  <event-date date="1892-4-18">April 18, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abergavenny Contest</name>
+  <contest id="1801">
+    <name>Abergavenny Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="323">Abergavenny Contest</group>
+    <slug>abergavenny-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2770">The Bohemian Girl [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1825">Abergavenny Castle, Abergavenny, Monmouthshire, Wales, UK</venue>
+  <notes>Abergavenny Eisteddfod
+Prizes: £20, £5, £2 10s.
+5 bands competed</notes>
+
+  <created>Aug. 27, 2016, 10:13 p.m.</created>
+  <last-modified>May 29, 2019, 4:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261229">
+      <result code="1">1</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+    <result id="261230">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="306082">F. Meyrick</conductor>
+    </result>
+    
+    <result id="261231">
+      <result code="3">3</result>
+      <band id="6261">Tredegar Volunteer</band>
+      <conductor id="302593">Tom Hardy</conductor>
+    </result>
+    
+    <result id="261232">
+      <result code="">Unknown Result</result>
+      <band id="1865">Blaenavon Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261233">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

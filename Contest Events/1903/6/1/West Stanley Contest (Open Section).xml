@@ -1,0 +1,93 @@
+<contest-event id="21826">
+  <event-date date="1903-6-1">June 1, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest (Open Section)</name>
+  <contest id="1862">
+    <name>West Stanley Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="227">West Stanley Contest</group>
+    <slug>west-stanley-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2463">Mercadante</test-piece>
+  </test-piece>
+
+  <venue id="908">West Stanley, County Durham</venue>
+  <notes>Prizes - 1st £30, 2nd £20, 3rd £15, 4th £10, 5th £5.
+March contest - 1st(£3) and 2nd(£1.10s.) divided between Wyke and Murton Colliery. 3rd(10s.) divided between Spencer&#39;s Steelworks, West Pelton and Backworth.
+15th annual contest
+  10 bands competed.</notes>
+
+  <created>June 12, 2013, 10:28 p.m.</created>
+  <last-modified>July 28, 2018, 12:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162177">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="162178">
+      <result code="2">2</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="162179">
+      <result code="3">3</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="162180">
+      <result code="4">4</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="162181">
+      <result code="5">5</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="259559">
+      <result code="">Unknown Result</result>
+      <band id="6279">West Pelton Volunteers</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="259560">
+      <result code="">Unknown Result</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="259561">
+      <result code="">Unknown Result</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="259562">
+      <result code="">Unknown Result</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="299956">W. H. Crowther</conductor>
+    </result>
+    
+    <result id="259563">
+      <result code="">Unknown Result</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="298278">G. W. Bowes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

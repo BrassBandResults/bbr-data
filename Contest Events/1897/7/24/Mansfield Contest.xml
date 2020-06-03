@@ -1,0 +1,73 @@
+<contest-event id="13326">
+  <event-date date="1897-7-24">July 24, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mansfield Contest</name>
+  <contest id="2621">
+    <name>Mansfield Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mansfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1975">Mansfield, Nottinghamshire, England, UK</venue>
+  <notes>Prizes: £5, £3, £2, £1
+Waltz contest: 1. Grimesthorpe, 2. Kirkby United, 3. Rothervale</notes>
+
+  <created>May 10, 2012, 8:06 p.m.</created>
+  <last-modified>May 10, 2012, 8:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105730">
+      <result code="1">1</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="305612">Charles Marsden</conductor>
+    </result>
+    
+    <result id="105731">
+      <result code="2">2</result>
+      <band id="5186">Alfreton Church</band>
+      <conductor id="311690">William Williams</conductor>
+    </result>
+    
+    <result id="105732">
+      <result code="3">3</result>
+      <band id="5187">Codnor Primitives</band>
+      <conductor id="308952">J. Sharpe</conductor>
+    </result>
+    
+    <result id="105733">
+      <result code="4">4</result>
+      <band id="5209">Codnor United</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="105735">
+      <result code="">Unknown Result</result>
+      <band id="7875">Barrow Hill Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105734">
+      <result code="">Unknown Result</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105736">
+      <result code="">Unknown Result</result>
+      <band id="8173">Rothervale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

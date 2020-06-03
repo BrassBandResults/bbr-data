@@ -1,0 +1,72 @@
+<contest-event id="38359">
+  <event-date date="1863-9-12">Sept. 12, 1863<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Boston Contest</name>
+  <contest id="1179">
+    <name>Boston Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="271">Boston Contest</group>
+    <slug>boston-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6683">Liquorpond Street, Boston, Lincolnshire</venue>
+  <notes>Each band played two selections</notes>
+
+  <created>June 29, 2017, 12:11 p.m.</created>
+  <last-modified>June 29, 2017, 12:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="277724">
+      <result code="1">1</result>
+      <band id="5147">Nottingham Ventil Horn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277729">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="316991">Mr Knowles</conductor>
+    </result>
+    
+    <result id="277727">
+      <result code="3">3</result>
+      <band id="8489">21st West Yorkshire Volunteer Rifles (Doncaster)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277730">
+      <result code="4">4</result>
+      <band id="14247">Manchester and Sheffield Locomotive (New Holland)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277728">
+      <result code="5">5</result>
+      <band id="15844">Werrington Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277725">
+      <result code="">Unknown Result</result>
+      <band id="10250">Barton-on-Humber Ropery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277726">
+      <result code="">Unknown Result</result>
+      <band id="3735">Lincoln Beevor Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

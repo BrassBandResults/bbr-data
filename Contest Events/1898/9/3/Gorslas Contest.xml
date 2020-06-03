@@ -1,0 +1,49 @@
+<contest-event id="15370">
+  <event-date date="1898-9-3">Sept. 3, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gorslas Contest</name>
+  <contest id="3262">
+    <name>Gorslas Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gorslas-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2494">Gorslas</venue>
+  <notes>Prizes: £8, £3, £1
+March contest: 1. Llanelly Town</notes>
+
+  <created>Oct. 15, 2012, 4:58 p.m.</created>
+  <last-modified>Oct. 15, 2012, 4:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119014">
+      <result code="1">1</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="119015">
+      <result code="2">2</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="260294">
+      <result code="3">3</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

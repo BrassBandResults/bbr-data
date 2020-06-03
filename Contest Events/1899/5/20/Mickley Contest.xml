@@ -1,0 +1,76 @@
+<contest-event id="12338">
+  <event-date date="1899-5-20">May 20, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mickley Contest</name>
+  <contest id="2015">
+    <name>Mickley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mickley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1855">Sunny Spain</test-piece>
+  </test-piece>
+
+  <venue id="1448">Mickley, Northumberland, England, UK</venue>
+  <notes>1st prize £10 and 2nd prize £2.10s. divided between Westwood and Throckley.
+  3rd prize £1.10s.
+  4th prize £1.
+March contest 1st (£1) Westwood, 2nd (10s.) Backworth Institute.
+7 bands competed.</notes>
+
+  <created>April 12, 2012, 4:06 p.m.</created>
+  <last-modified>July 27, 2019, 9:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98728">
+      <result code="1">1</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="98729">
+      <result code="1">1</result>
+      <band id="6921">Throckley</band>
+      <conductor id="302879">J. Hedley</conductor>
+    </result>
+    
+    <result id="98730">
+      <result code="3">3</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="98731">
+      <result code="4">4</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="299105">H. Cassel Jnr</conductor>
+    </result>
+    
+    <result id="98732">
+      <result code="">Unknown Result</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="306214">J. Mitford</conductor>
+    </result>
+    
+    <result id="98733">
+      <result code="">Unknown Result</result>
+      <band id="7759">Mickley Temperance</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="98734">
+      <result code="">Unknown Result</result>
+      <band id="6693">Marley Hill</band>
+      <conductor id="319435">J. Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

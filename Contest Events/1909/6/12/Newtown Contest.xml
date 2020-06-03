@@ -1,0 +1,78 @@
+<contest-event id="15800">
+  <event-date date="1909-6-12">June 12, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newtown Contest</name>
+  <contest id="1889">
+    <name>Newtown Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newtown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1901">Verdi&#39;s Works [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1336">Newtown, Powys, Wales, UK</venue>
+  <notes>
+
+  Prizes  1st £35, 2nd £25, 3rd £15, 4th £10, 5th £5.
+
+  March contest 1st Foden&#39;s, 2nd Aberaman.
+  
+  7 bands competed.</notes>
+
+  <created>Nov. 3, 2012, 7:41 a.m.</created>
+  <last-modified>Oct. 29, 2015, 3:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="121845">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="121846">
+      <result code="2">2</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="121847">
+      <result code="3">3</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="121848">
+      <result code="4">4</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="121849">
+      <result code="5">5</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="121851">
+      <result code="">Unknown Result</result>
+      <band id="6353">Albion Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121850">
+      <result code="">Unknown Result</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

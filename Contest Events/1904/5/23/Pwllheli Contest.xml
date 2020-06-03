@@ -1,0 +1,68 @@
+<contest-event id="40190">
+  <event-date date="1904-5-23">May 23, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pwllheli Contest</name>
+  <contest id="1217">
+    <name>Pwllheli Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pwllheli-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5625">The Mountaineer</test-piece>
+  </test-piece>
+
+  <venue id="1524">Pwllheli, Gwynedd, Wales, UK</venue>
+  <notes>March contest - 1st Royal Oakley, 2nd St. Tudno.
+6 bands competed.
+</notes>
+
+  <created>Aug. 27, 2018, 6:02 a.m.</created>
+  <last-modified>March 27, 2020, 4:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="292160">
+      <result code="1">1</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="318302">A. Wade</conductor>
+    </result>
+    
+    <result id="316676">
+      <result code="2">2</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="311599">David Williams</conductor>
+    </result>
+    
+    <result id="292165">
+      <result code="3">3</result>
+      <band id="11835">Penrhyndeudraeth</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="292161">
+      <result code="">Unknown Result</result>
+      <band id="8133">Eifel</band>
+      <conductor id="318258">J. D. Griffiths</conductor>
+    </result>
+    
+    <result id="292162">
+      <result code="">Unknown Result</result>
+      <band id="6095">Garn</band>
+      <conductor id="308301">O. G. Roberts</conductor>
+    </result>
+    
+    <result id="292164">
+      <result code="">Unknown Result</result>
+      <band id="17308">Beddgelert</band>
+      <conductor id="318259">H. B. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

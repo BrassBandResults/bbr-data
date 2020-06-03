@@ -1,0 +1,61 @@
+<contest-event id="18242">
+  <event-date date="1892-8-13">Aug. 13, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Annfield Plain Contest</name>
+  <contest id="2449">
+    <name>Annfield Plain Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>annfield-plain-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1574">Mozart [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4185">Annfield Plain, County Durham, England, UK</venue>
+  <notes>Annfield Plain Musical and Athletic Company
+Prizes: £12, £7, £4, £2
+Quickstep: 1. Whitworth, 2. Annfield.
+4 bands competed</notes>
+
+  <created>Feb. 14, 2013, 3:43 p.m.</created>
+  <last-modified>June 2, 2019, 8:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="137525">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="309508">Thomas Snowdon</conductor>
+      <test-piece id="2257">Reminiscences of Meyerbeer [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="137524">
+      <result code="2">2</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="309508">Thomas Snowdon</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137526">
+      <result code="3">3</result>
+      <band id="6195">Beamish</band>
+      <conductor id="308393">John Rodham</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137527">
+      <result code="4">4</result>
+      <band id="6693">Marley Hill</band>
+      <conductor id="300452">W. J. Dodds</conductor>
+      <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,103 @@
+<contest-event id="12225">
+  <event-date date="1894-7-21">July 21, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pemberton Contest</name>
+  <contest id="1309">
+    <name>Pemberton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pemberton</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1843">Pomona</test-piece>
+  </test-piece>
+
+  <venue id="831">Pemberton</venue>
+  <notes>Promoted by Pemberton Old Band
+Prizes: £11, £7, £4, £2, £1
+1st and 2nd prizes shared
+Euphonium medal: Crooke
+Soprano medal: Skelmersdale
+Sheep divided between Crooke and Wingates
+March contest: 1. Hindley Public
+9 bands competed</notes>
+
+  <created>April 10, 2012, 6:09 p.m.</created>
+  <last-modified>Nov. 27, 2019, 5:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98068">
+      <result code="1">1</result>
+      <band id="18682">Crooke</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="98069">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="98070">
+      <result code="3">3</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="98071">
+      <result code="4">4</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="297966">F. Birkenshaw</conductor>
+    </result>
+    
+    <result id="98072">
+      <result code="5">5</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="277619">
+      <result code="">Unknown Result</result>
+      <band id="7493">Goose Green</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277620">
+      <result code="">Unknown Result</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98073">
+      <result code="">Unknown Result</result>
+      <band id="4279">Hindley Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277618">
+      <result code="">Unknown Result</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277621">
+      <result code="W">Withdrawn</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277622">
+      <result code="W">Withdrawn</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="11908">
+  <event-date date="1893-8-19">Aug. 19, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hinckley Contest</name>
+  <contest id="2417">
+    <name>Hinckley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hinckley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1838">Judas Maccabeus</test-piece>
+  </test-piece>
+
+  <venue id="1771">Hinckley, Leicestershire, England, UK</venue>
+  <notes>Promoted by Hinckley Excelsior Brass Band</notes>
+
+  <created>April 8, 2012, 12:23 p.m.</created>
+  <last-modified>April 8, 2012, 12:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96052">
+      <result code="1">1</result>
+      <band id="7605">Enderby Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="96053">
+      <result code="2">2</result>
+      <band id="7677">Burbage Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="96054">
+      <result code="3">3</result>
+      <band id="7606">Polesworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

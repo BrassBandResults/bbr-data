@@ -1,0 +1,80 @@
+<contest-event id="12625">
+  <event-date date="1899-8-12">Aug. 12, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashton-in-Makerfield Contest</name>
+  <contest id="2626">
+    <name>Ashton-in-Makerfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashton-in-makerfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1977">Ashton-in-Makerfield, Lancashire</venue>
+  <notes>8 bands entered, 6 competed
+1st prize £15.  2nd prize £8.  3rd prize £4.  4th prize £2.  5th prize £1.
+Promoted by Ashton in Makerfield Congregational Temperance Band.</notes>
+
+  <created>April 18, 2012, 3:05 p.m.</created>
+  <last-modified>July 28, 2019, 12:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100647">
+      <result code="1">1</result>
+      <band id="18682">Crooke</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100648">
+      <result code="2">2</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100649">
+      <result code="3">3</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100650">
+      <result code="4">4</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100651">
+      <result code="5">5</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100652">
+      <result code="6">6</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="267286">
+      <result code="W">Withdrawn</result>
+      <band id="14511">Ashton St Thomas</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267287">
+      <result code="W">Withdrawn</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

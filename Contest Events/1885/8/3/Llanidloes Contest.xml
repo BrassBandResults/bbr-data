@@ -1,0 +1,51 @@
+<contest-event id="38829">
+  <event-date date="1885-8-3">Aug. 3, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanidloes Contest</name>
+  <contest id="1956">
+    <name>Llanidloes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llanidloes-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1893">Lyric Garland</test-piece>
+  </test-piece>
+
+  <venue id="1388">Llanidloes, Powys, Wales, UK</venue>
+  <notes>Prizes - 1st £28, 2nd £15, 3rd £8.
+4th annual contest.
+3 bands competed
+</notes>
+
+  <created>Nov. 24, 2017, 10:24 p.m.</created>
+  <last-modified>May 9, 2019, 3:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282487">
+      <result code="1">1</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282488">
+      <result code="2">2</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282489">
+      <result code="3">3</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

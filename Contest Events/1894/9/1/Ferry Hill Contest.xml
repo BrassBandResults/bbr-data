@@ -1,0 +1,85 @@
+<contest-event id="7004">
+  <event-date date="1894-9-1">Sept. 1, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ferry Hill Contest</name>
+  <contest id="1212">
+    <name>Ferry Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ferry-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="2524">Ferryhill, County Durham, England, UK</venue>
+  <notes>9 bands competed
+Prizes: 1. £19 9s, 2. £5, 3. £2</notes>
+
+  <created>Aug. 13, 2011, 11:36 a.m.</created>
+  <last-modified>Nov. 30, 2019, 4:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="61850">
+      <result code="1">1</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="61851">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="61852">
+      <result code="3">3</result>
+      <band id="5204">Whitworth Colliery</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="146268">
+      <result code="">Unknown Result</result>
+      <band id="7633">Hartlepool N.E.R</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="146300">
+      <result code="">Unknown Result</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="146301">
+      <result code="">Unknown Result</result>
+      <band id="6085">New Shildon Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="146312">
+      <result code="">Unknown Result</result>
+      <band id="6096">Thornaby Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="146311">
+      <result code="">Unknown Result</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303865">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="146313">
+      <result code="">Unknown Result</result>
+      <band id="6215">Darlington Sons of Temperance</band>
+      <conductor id="303251">J. A. Hoggett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="22809">
+  <event-date date="1900-8-25">Aug. 25, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hawick Contest</name>
+  <contest id="1941">
+    <name>Hawick Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hawick-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2572">Songs of Old Scotland</test-piece>
+  </test-piece>
+
+  <venue id="1378">Buccleuch Park, Hawick</venue>
+  <notes>Hawick Horticultural Society Show
+Prizes: £40, £20, £10
+8 bands entered, 3 competed</notes>
+
+  <created>Aug. 14, 2013, 10:13 a.m.</created>
+  <last-modified>Aug. 2, 2019, 12:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168405">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="168406">
+      <result code="2">2</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="168407">
+      <result code="3">3</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="168431">
+      <result code="W">Withdrawn</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168432">
+      <result code="W">Withdrawn</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168429">
+      <result code="W">Withdrawn</result>
+      <band id="11284">Newcastleton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168428">
+      <result code="W">Withdrawn</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168430">
+      <result code="W">Withdrawn</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="40290">
+  <event-date date="1908-2-8">Feb. 8, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3740">Rossini&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="1249">Swansea, Swansea County, Wales, UK</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Sept. 21, 2018, 10:20 a.m.</created>
+  <last-modified>Sept. 21, 2018, 10:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293148">
+      <result code="1">1</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="306340">H. H. Morgan</conductor>
+    </result>
+    
+    <result id="293147">
+      <result code="2">2</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="311943">Jim Woodhead</conductor>
+    </result>
+    
+    <result id="293150">
+      <result code="3">3</result>
+      <band id="7073">Brynamman Volunteers</band>
+      <conductor id="304158">A. O. Jones</conductor>
+    </result>
+    
+    <result id="293149">
+      <result code="4">4</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

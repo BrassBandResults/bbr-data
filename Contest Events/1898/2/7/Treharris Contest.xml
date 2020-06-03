@@ -1,0 +1,44 @@
+<contest-event id="13402">
+  <event-date date="1898-2-7">Feb. 7, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treharris Contest</name>
+  <contest id="2673">
+    <name>Treharris Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treharris-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1866">Caledonia</test-piece>
+  </test-piece>
+
+  <venue id="2015">Treharris</venue>
+  <notes>March contest &quot;Mount Washington&quot;: 1. Abercanaid, 2. Treharris
+2 bands competed
+</notes>
+
+  <created>May 11, 2012, 6:09 p.m.</created>
+  <last-modified>Jan. 20, 2017, 11:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106253">
+      <result code="1">1</result>
+      <band id="7627">Abercanaid</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="106254">
+      <result code="2">2</result>
+      <band id="8031">Treharris</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

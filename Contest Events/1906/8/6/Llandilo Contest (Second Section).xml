@@ -1,0 +1,52 @@
+<contest-event id="10968">
+  <event-date date="1906-8-6">Aug. 6, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandilo Contest (Second Section)</name>
+  <contest id="1974">
+    <name>Llandilo Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="223">Llandilo Contest</group>
+    <slug>llandilo-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1640">Llewellyn</test-piece>
+  </test-piece>
+
+  <venue id="1405">Llandilo, Pembrokeshire, Wales, UK</venue>
+  <notes>1st prize £8, 2nd prize £4, 3rd prize £2.
+3 bands competed.</notes>
+
+  <created>March 10, 2012, 9:21 a.m.</created>
+  <last-modified>Sept. 15, 2018, 7:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90920">
+      <result code="1">1</result>
+      <band id="6763">Llandilo</band>
+      <conductor id="308840">Herbert Scott</conductor>
+      <test-piece id="1739">Songs of Balfe</test-piece>
+    </result>
+    
+    <result id="90921">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+      <test-piece id="1738">Songs of the Sea</test-piece>
+    </result>
+    
+    <result id="90922">
+      <result code="3">3</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="311596">David Williams</conductor>
+      <test-piece id="1739">Songs of Balfe</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

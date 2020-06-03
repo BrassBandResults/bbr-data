@@ -1,0 +1,97 @@
+<contest-event id="10018">
+  <event-date date="1905-5-20">May 20, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northfield Contest</name>
+  <contest id="1828">
+    <name>Northfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1286">Northfield, Birmingham</venue>
+  <notes>Promoted by the Northfield Institute Prize Band
+
+  1st prize £6 and challenge cup.
+  2nd prize £4.
+  3rd prize £3.
+  4th prize £1.10s.
+
+  March contest 1st (£1) Long Buckby, 2nd (10s.) Birmingham City.</notes>
+
+  <created>Feb. 5, 2012, 10:48 p.m.</created>
+  <last-modified>March 3, 2015, 10:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="84912">
+      <result code="1">1</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="84913">
+      <result code="2">2</result>
+      <band id="6610">Dudley Town [Midlands]</band>
+      <conductor id="303747">W. E. Hyde</conductor>
+    </result>
+    
+    <result id="84914">
+      <result code="3">3</result>
+      <band id="6640">Halesowen Temperance</band>
+      <conductor id="303586">Fred Hughes</conductor>
+    </result>
+    
+    <result id="84915">
+      <result code="4">4</result>
+      <band id="6611">Blackheath</band>
+      <conductor id="309458">Thomas Smith</conductor>
+    </result>
+    
+    <result id="84920">
+      <result code="5">5</result>
+      <band id="416">Langley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84919">
+      <result code="">Unknown Result</result>
+      <band id="6642">Acocks Green</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84917">
+      <result code="">Unknown Result</result>
+      <band id="6641">Baskerville</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84916">
+      <result code="">Unknown Result</result>
+      <band id="2569">Birmingham City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84921">
+      <result code="">Unknown Result</result>
+      <band id="6643">Tamworth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84918">
+      <result code="">Unknown Result</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

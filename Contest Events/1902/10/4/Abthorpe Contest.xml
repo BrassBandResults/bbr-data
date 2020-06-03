@@ -1,0 +1,82 @@
+<contest-event id="23221">
+  <event-date date="1902-10-4">Oct. 4, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abthorpe Contest</name>
+  <contest id="2637">
+    <name>Abthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5604">A Garland of Song</test-piece>
+  </test-piece>
+
+  <venue id="3757">Vicarage Grounds, Abthorpe, Northamptonshire</venue>
+  <notes>11 bands competed
+
+March contest: 1. Hanslope, 2. Stony Stratford, 3. Kettering
+
+Parade contest: 1. Bourneville, 2. Astcote, 3. Blakesley</notes>
+
+  <created>Aug. 21, 2013, 5:14 p.m.</created>
+  <last-modified>July 9, 2018, 4:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170770">
+      <result code="1">1</result>
+      <band id="3324">Rugby Steam Shed</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170771">
+      <result code="2">2</result>
+      <band id="6744">Kettering Victoria Mission</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170769">
+      <result code="3">3</result>
+      <band id="7438">Blakesley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170772">
+      <result code="4">4</result>
+      <band id="7929">Hanslope Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170768">
+      <result code="">Unknown Result</result>
+      <band id="7227">Astcote United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170767">
+      <result code="">Unknown Result</result>
+      <band id="2693">Bournville Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170774">
+      <result code="">Unknown Result</result>
+      <band id="11310">Quarry Bank Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170773">
+      <result code="">Unknown Result</result>
+      <band id="6347">Stony Stratford Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

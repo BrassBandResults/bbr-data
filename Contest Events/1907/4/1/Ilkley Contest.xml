@@ -1,0 +1,72 @@
+<contest-event id="11246">
+  <event-date date="1907-4-1">April 1, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ilkley Contest</name>
+  <contest id="1573">
+    <name>Ilkley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ilkley</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1171">Gems of Haydn [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1500">Ilkley, Yorkshire</venue>
+  <notes>
+  1st prize £8 and cup.
+  2nd prize £6.
+  3rd prize £4.10s.
+  4th prize £3.
+  5th prize £2.
+  6th prize £1.10s.</notes>
+
+  <created>March 18, 2012, 12:29 p.m.</created>
+  <last-modified>March 18, 2012, 12:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="92991">
+      <result code="1">1</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="92992">
+      <result code="2">2</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="92993">
+      <result code="3">3</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="311463">E. Whitman</conductor>
+    </result>
+    
+    <result id="92994">
+      <result code="4">4</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="308840">Herbert Scott</conductor>
+    </result>
+    
+    <result id="92995">
+      <result code="5">5</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="92996">
+      <result code="6">6</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="307286">Arthur Oakes Pearce</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="11712">
+  <event-date date="1907-9-7">Sept. 7, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brandon Colliery Contest</name>
+  <contest id="1843">
+    <name>Brandon Colliery Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="341">Brandon Colliery Contest</group>
+    <slug>brandon-colliery-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1797">Prairie Queen</test-piece>
+  </test-piece>
+
+  <venue id="1295">Brandon, County Durham, England, UK</venue>
+  <notes>  1st prize £8.
+  2nd prize £4.
+  3rd prize £2.
+  4th prize £1.
+
+  6 bands competed.
+</notes>
+
+  <created>April 6, 2012, 1:38 p.m.</created>
+  <last-modified>March 23, 2020, 10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94976">
+      <result code="1">1</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="94977">
+      <result code="2">2</result>
+      <band id="4504">Birtley Town</band>
+      <conductor id="303593">J. Hughes</conductor>
+    </result>
+    
+    <result id="94978">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="94979">
+      <result code="4">4</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="298945">William Calvert</conductor>
+    </result>
+    
+    <result id="94981">
+      <result code="">Unknown Result</result>
+      <band id="5177">Sacriston Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="94980">
+      <result code="">Unknown Result</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

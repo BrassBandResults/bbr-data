@@ -1,0 +1,62 @@
+<contest-event id="35982">
+  <event-date date="1891-10-5">Oct. 5, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hirwain Contest</name>
+  <contest id="6041">
+    <name>Hirwain Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hirwain-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="4233">Hirwaun, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>Brass Band News November 1891 shows result as 1st Sguborwen, 2nd Tredegar, 3rd Maesteg.
+Prizes - 1st £10, 2nd £5, 3rd £1.
+5 bands competed</notes>
+
+  <created>Aug. 24, 2016, 8:39 a.m.</created>
+  <last-modified>May 28, 2019, 9:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="261001">
+      <result code="1">1</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="261002">
+      <result code="2">2</result>
+      <band id="14230">North Dunraven</band>
+      <conductor id="315398">J. R. Allen</conductor>
+    </result>
+    
+    <result id="261003">
+      <result code="3">3</result>
+      <band id="6261">Tredegar Volunteer</band>
+      <conductor id="302593">Tom Hardy</conductor>
+    </result>
+    
+    <result id="261004">
+      <result code="">Unknown Result</result>
+      <band id="10417">Aberavon Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261005">
+      <result code="">Unknown Result</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

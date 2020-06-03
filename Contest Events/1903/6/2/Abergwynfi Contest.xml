@@ -1,0 +1,56 @@
+<contest-event id="21825">
+  <event-date date="1903-6-2">June 2, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abergwynfi Contest</name>
+  <contest id="4314">
+    <name>Abergwynfi Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abergwynfi-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="3556">Abergwynfi, Neath Port Talbot, Wales, UK</venue>
+  <notes>  March contest  -  1st Blaengawr.
+  Best cornet - Ogmore Vale.
+  4 bands competed.</notes>
+
+  <created>June 12, 2013, 8 p.m.</created>
+  <last-modified>Dec. 15, 2014, 7:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162173">
+      <result code="1">1</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="309431">R. C. Smith</conductor>
+    </result>
+    
+    <result id="162174">
+      <result code="2">2</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="162198">
+      <result code="3">3</result>
+      <band id="5166">Blaengarw</band>
+      <conductor id="310410">Thomas Threlfall</conductor>
+    </result>
+    
+    <result id="162175">
+      <result code="4">4</result>
+      <band id="10157">Tonypandy Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

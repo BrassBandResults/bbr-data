@@ -1,0 +1,67 @@
+<contest-event id="13376">
+  <event-date date="1897-8-28">Aug. 28, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sherburn Hill Contest</name>
+  <contest id="2820">
+    <name>Sherburn Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sherburn-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1934">Victoria Regina</test-piece>
+  </test-piece>
+
+  <venue id="2162">Sherburn Hill</venue>
+  <notes>Prizes: £8 and cornet, £3 and trombone, £1
+March contest: 1. Thornley Colliery, 2. Chester-le-Street C.E.T.S.</notes>
+
+  <created>May 10, 2012, 11:10 p.m.</created>
+  <last-modified>May 10, 2012, 11:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106048">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106049">
+      <result code="2">2</result>
+      <band id="583">Trimdon Concert Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106050">
+      <result code="3">3</result>
+      <band id="8128">Chester-le-Street Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106052">
+      <result code="">Unknown Result</result>
+      <band id="8351">Herrington Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106051">
+      <result code="">Unknown Result</result>
+      <band id="8350">North Biddick Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106053">
+      <result code="">Unknown Result</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

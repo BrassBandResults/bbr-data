@@ -1,0 +1,56 @@
+<contest-event id="12493">
+  <event-date date="1899-7-19">July 19, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sunderland Contest</name>
+  <contest id="2116">
+    <name>Sunderland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sunderland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3748">Ryhope Road, Sunderland</venue>
+  <notes>Sunderland Horse and Dog Show
+
+4 bands competed</notes>
+
+  <created>April 15, 2012, 1:57 p.m.</created>
+  <last-modified>Aug. 9, 2013, 7:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99842">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310795">Edward Vest</conductor>
+    </result>
+    
+    <result id="99843">
+      <result code="2">2</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="305455">John Mackintosh</conductor>
+    </result>
+    
+    <result id="99844">
+      <result code="3">3</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="99845">
+      <result code="4">4</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310417">James Thurlow</conductor>
+    </result>
+    
+  </results>
+</contest-event>

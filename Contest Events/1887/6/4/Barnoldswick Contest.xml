@@ -1,0 +1,100 @@
+<contest-event id="9264">
+  <event-date date="1887-6-4">June 4, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnoldswick Contest</name>
+  <contest id="1648">
+    <name>Barnoldswick Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="335">Barnoldswick Contest</group>
+    <slug>barnoldswick-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1154">Liberal Club, Barnoldswick</venue>
+  <notes>Prizes: £25, £15, £10, £5, £3
+Quickstep: 1. Black Dyke, 2. Besses.
+7 bands competed.
+</notes>
+
+  <created>Dec. 29, 2011, 10:41 p.m.</created>
+  <last-modified>March 7, 2020, 7:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80133">
+      <result code="1">1</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="80134">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="80135">
+      <result code="3">3</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="80136">
+      <result code="4">4</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="80137">
+      <result code="5">5</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="197367">
+      <result code="">Unknown Result</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="197368">
+      <result code="">Unknown Result</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="80139">
+      <result code="W">Withdrawn</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80138">
+      <result code="W">Withdrawn</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80140">
+      <result code="W">Withdrawn</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

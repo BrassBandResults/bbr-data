@@ -1,0 +1,57 @@
+<contest-event id="13539">
+  <event-date date="1898-6-25">June 25, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Earls Barton Contest</name>
+  <contest id="2749">
+    <name>Earls Barton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>earls-barton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2103">Earls Barton</venue>
+  <notes>2nd Contest of the Northamptoshire Brass Band League, Division 1
+Each band had to play Halevy snd then Moses in Egypt.
+Reported in Northampton Herald, 2nd July 1898
+4 bands competed</notes>
+
+  <created>May 22, 2012, 9:23 p.m.</created>
+  <last-modified>July 17, 2019, 12:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107355">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="107356">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="107357">
+      <result code="3">3</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="107358">
+      <result code="4">4</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,59 @@
+<contest-event id="23113">
+  <event-date date="1902-5-19">May 19, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest (Amateur Contest)</name>
+  <contest id="2094">
+    <name>West Stanley Contest (Amateur Contest)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="227">West Stanley Contest</group>
+    <slug>west-stanley-contest-amateur-contest-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3853">Store Field, Stanley</venue>
+  <notes>Prizes - 1st £15, 2nd £10, 3rd £7, 4th £5.
+4 bands competed</notes>
+
+  <created>Aug. 18, 2013, 5:14 p.m.</created>
+  <last-modified>July 3, 2018, 6:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170180">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="5602">Chatelaine</test-piece>
+    </result>
+    
+    <result id="170181">
+      <result code="2">2</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+      <test-piece id="4339">Dreams of the Ocean</test-piece>
+    </result>
+    
+    <result id="170182">
+      <result code="3">3</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="5602">Chatelaine</test-piece>
+    </result>
+    
+    <result id="170183">
+      <result code="4">4</result>
+      <band id="11301">Tanfield and Stanley</band>
+      <conductor id="304493">E. Keskeys</conductor>
+      <test-piece id="4339">Dreams of the Ocean</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

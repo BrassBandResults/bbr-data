@@ -1,0 +1,61 @@
+<contest-event id="12690">
+  <event-date date="1899-10-7">Oct. 7, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandudno Contest (First Section)</name>
+  <contest id="2655">
+    <name>Llandudno Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llandudno-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1844">Herold [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="160">Llandudno, Conwy, Wales, UK</venue>
+  <notes>Prize - £15.
+Only one band attended.</notes>
+
+  <created>April 19, 2012, 7:36 p.m.</created>
+  <last-modified>July 28, 2019, 5:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101090">
+      <result code="1">1</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="167096">
+      <result code="W">Withdrawn</result>
+      <band id="671">Holywell Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167097">
+      <result code="W">Withdrawn</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167099">
+      <result code="W">Withdrawn</result>
+      <band id="7613">Wrexham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167098">
+      <result code="W">Withdrawn</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

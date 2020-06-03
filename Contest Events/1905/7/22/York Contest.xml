@@ -1,0 +1,81 @@
+<contest-event id="10282">
+  <event-date date="1905-7-22">July 22, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>York Contest</name>
+  <contest id="1223">
+    <name>York Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>york-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1366">York, North Yorkshire, England, UK</venue>
+  <notes>Horticultural Show promoted by workers at Rowntrees Cocoa Works, York
+Test pieces: &quot;Gems of Mendelssohn&quot;, &quot;La Cenerentola&quot;, &quot;Mikado&quot; and &quot;Gems of Irish Melody&quot;
+1st prize £20, 2nd prize £12,3rd prize £8,4th prize £6,5th prize £4, 6th prize £2.
+8 bands competed.</notes>
+
+  <created>Feb. 13, 2012, 4:57 p.m.</created>
+  <last-modified>Sept. 7, 2018, 11:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="86832">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="86833">
+      <result code="2">2</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+    <result id="86834">
+      <result code="3">3</result>
+      <band id="6625">Goole South Street</band>
+      <conductor id="307382">G. Perrett</conductor>
+    </result>
+    
+    <result id="86835">
+      <result code="4">4</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="86836">
+      <result code="5">5</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="305523">H. Mallinson</conductor>
+    </result>
+    
+    <result id="86837">
+      <result code="6">6</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="311154">William Watson</conductor>
+    </result>
+    
+    <result id="86839">
+      <result code="">Unknown Result</result>
+      <band id="6774">Castle Howard Reformatory School</band>
+      <conductor id="297836">G. Berfert</conductor>
+    </result>
+    
+    <result id="86838">
+      <result code="">Unknown Result</result>
+      <band id="3177">York City Brass</band>
+      <conductor id="309806">F. W. Stockdale</conductor>
+    </result>
+    
+  </results>
+</contest-event>

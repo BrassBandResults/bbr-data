@@ -1,0 +1,57 @@
+<contest-event id="23263">
+  <event-date date="1903-8-29">Aug. 29, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashington Contest</name>
+  <contest id="2395">
+    <name>Ashington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1002">Il Seraglio</test-piece>
+  </test-piece>
+
+  <venue id="3900">People&#39;s Park, Ashington, Northumberland, England, UK</venue>
+  <notes>Choice of test pieces: &quot;Il Seraglio&quot;, &quot;Rustic Scenes&quot; or &quot;Scottish Memories&quot;
+Prizes: £12, £5, £3, £1 10s
+March: 1. Hebburn, 2. Heworth
+4 bands competed.</notes>
+
+  <created>Aug. 24, 2013, 6:55 p.m.</created>
+  <last-modified>Aug. 19, 2018, 12:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171028">
+      <result code="1">1</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="308149">J. Richardson</conductor>
+    </result>
+    
+    <result id="171031">
+      <result code="2">2</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="171029">
+      <result code="3">3</result>
+      <band id="9525">Linton Colliery</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="171030">
+      <result code="4">4</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="302593">Tom Hardy</conductor>
+    </result>
+    
+  </results>
+</contest-event>

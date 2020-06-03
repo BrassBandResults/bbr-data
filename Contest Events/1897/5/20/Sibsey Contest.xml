@@ -1,0 +1,67 @@
+<contest-event id="13196">
+  <event-date date="1897-5-20">May 20, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sibsey Contest</name>
+  <contest id="2773">
+    <name>Sibsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sibsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1934">Victoria Regina</test-piece>
+  </test-piece>
+
+  <venue id="2127">Sibsey, Lincolnshire, England, UK</venue>
+  <notes>Prizes: £10 11s and cornet, £5 3s and trombone, £3 10s, £1 10s
+March contest: 1. Hucknall Temperance, 2. Lincoln Malleable</notes>
+
+  <created>May 4, 2012, 10:29 p.m.</created>
+  <last-modified>May 4, 2012, 10:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104834">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="104835">
+      <result code="2">2</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="104836">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="104837">
+      <result code="4">4</result>
+      <band id="8158">Lincoln Ruston&#39;s Silver</band>
+      <conductor id="303971">Charles Jeffrey</conductor>
+    </result>
+    
+    <result id="104839">
+      <result code="">Unknown Result</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104838">
+      <result code="">Unknown Result</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

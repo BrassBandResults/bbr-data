@@ -1,0 +1,85 @@
+<contest-event id="12505">
+  <event-date date="1899-7-22">July 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marsden Contest</name>
+  <contest id="2589">
+    <name>Marsden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marsden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="280">Marsden, West Yorkshire</venue>
+  <notes>
+  1st prize £7 and cornet valued at £9.9s.
+  2nd prize £4 and trombone valued at £7.7s.
+  3rd prize £4.
+  4th prize £2.
+  5th prize £1.
+
+  March contest 1st Glodwick, 2nd Linthwaite.</notes>
+
+  <created>April 15, 2012, 2:45 p.m.</created>
+  <last-modified>Nov. 29, 2013, 10:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99938">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="99939">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="99940">
+      <result code="3">3</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="99941">
+      <result code="4">4</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="99942">
+      <result code="5">5</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="99943">
+      <result code="">Unknown Result</result>
+      <band id="3535">Royal George</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="99944">
+      <result code="">Unknown Result</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="99945">
+      <result code="">Unknown Result</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

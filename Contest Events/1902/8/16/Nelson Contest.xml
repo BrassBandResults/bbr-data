@@ -1,0 +1,79 @@
+<contest-event id="23201">
+  <event-date date="1902-8-16">Aug. 16, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1906">Cynthia</test-piece>
+  </test-piece>
+
+  <venue id="1424">Nelson, Lancashire, England, UK</venue>
+  <notes>March: 1. Nelson, 2 divided. Earby &amp; Smirthwaite.
+6 bands competed.</notes>
+
+  <created>Aug. 20, 2013, 5:30 p.m.</created>
+  <last-modified>July 10, 2018, 7:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170634">
+      <result code="1">1</result>
+      <band id="3671">Briercliffe Prize Brass Band</band>
+      <conductor id="302175">T. Greenwood</conductor>
+    </result>
+    
+    <result id="170630">
+      <result code="2">2</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="170629">
+      <result code="3">3</result>
+      <band id="894">Earby Band</band>
+      <conductor id="308592">William Rushton</conductor>
+    </result>
+    
+    <result id="170632">
+      <result code="4">4</result>
+      <band id="4274">Brierfield Public</band>
+      <conductor id="311470">J. Whittaker</conductor>
+    </result>
+    
+    <result id="170635">
+      <result code="5">5</result>
+      <band id="11307">Smirthwaite Temperance</band>
+      <conductor id="317868">H. Turner</conductor>
+    </result>
+    
+    <result id="170631">
+      <result code="6">6</result>
+      <band id="6351">Pendle Forest</band>
+      <conductor id="318168">J. Hart</conductor>
+    </result>
+    
+    <result id="170633">
+      <result code="W">Withdrawn</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170636">
+      <result code="W">Withdrawn</result>
+      <band id="9909">Cowling Temperance Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

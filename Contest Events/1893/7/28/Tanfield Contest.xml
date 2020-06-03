@@ -1,0 +1,75 @@
+<contest-event id="18884">
+  <event-date date="1893-7-28">July 28, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tanfield Contest</name>
+  <contest id="2388">
+    <name>Tanfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tanfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3189">Sleningford Park, near Ripon</venue>
+  <notes>Tanfield Horticultural Show
+Own choice - but not with a piece with which they had taken a first prize in 1891-1892
+Prizes: £20, £10, £5
+7 bands competed.</notes>
+
+  <created>March 5, 2013, 9:56 p.m.</created>
+  <last-modified>June 7, 2019, 3:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="141561">
+      <result code="1">1</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="141562">
+      <result code="2">2</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="141563">
+      <result code="3">3</result>
+      <band id="3597">Leeds Engineers</band>
+      <conductor id="300462">J. Doherty</conductor>
+    </result>
+    
+    <result id="197416">
+      <result code="">Unknown Result</result>
+      <band id="6215">Darlington Sons of Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197419">
+      <result code="">Unknown Result</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197417">
+      <result code="">Unknown Result</result>
+      <band id="6085">New Shildon Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197418">
+      <result code="">Unknown Result</result>
+      <band id="340">Ripon City Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

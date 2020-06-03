@@ -1,0 +1,79 @@
+<contest-event id="42284">
+  <event-date date="1892-9-10">Sept. 10, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Widnes Contest</name>
+  <contest id="2391">
+    <name>Widnes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>widnes-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1832">Medusa</test-piece>
+  </test-piece>
+
+  <venue id="7140">Drill Hall, Widnes, Lancashire, England, UK</venue>
+  <notes>1st annual contest promoted by Widnes Subscription band.
+7 bands competed.</notes>
+
+  <created>June 3, 2019, 7:13 p.m.</created>
+  <last-modified>June 3, 2019, 7:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="309190">
+      <result code="1">1</result>
+      <band id="7518">Ashton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309191">
+      <result code="2">2</result>
+      <band id="6549">Warrington League</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309192">
+      <result code="3">3</result>
+      <band id="18034">Helsby Church</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309193">
+      <result code="4">4</result>
+      <band id="18035">Widnes Jubilee</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309194">
+      <result code="5">5</result>
+      <band id="6996">Widnes St. Mary&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309195">
+      <result code="6">6</result>
+      <band id="10455">Roughdale&#39;s (St. Helens)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309196">
+      <result code="7">7</result>
+      <band id="6845">Frodsham Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309197">
+      <result code="W">Withdrawn</result>
+      <band id="7525">Cave Brown (Ashton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

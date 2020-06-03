@@ -1,0 +1,93 @@
+<contest-event id="11790">
+  <event-date date="1893-6-24">June 24, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Macclesfield Contest</name>
+  <contest id="1632">
+    <name>Macclesfield Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>macclesfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1719">Macclesfield, Cheshire, England, UK</venue>
+  <notes>March contest: 1. Bradford, 2. Denton
+Prizes - 1st £12, 2nd £10, 3rd £4.10s., 4th £2, 5th £1.1s.
+10 bands competed</notes>
+
+  <created>April 7, 2012, 8:08 a.m.</created>
+  <last-modified>June 7, 2019, 6:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95374">
+      <result code="1">1</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95375">
+      <result code="2">2</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="95376">
+      <result code="3">3</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="95377">
+      <result code="4">4</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="305068">Joseph Lewis</conductor>
+    </result>
+    
+    <result id="95378">
+      <result code="5">5</result>
+      <band id="4064">M.S. and L. Railway Gorton</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="138143">
+      <result code="">Unknown Result</result>
+      <band id="9711">Congleton Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138140">
+      <result code="">Unknown Result</result>
+      <band id="502">Fairfield (Buxton) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138141">
+      <result code="">Unknown Result</result>
+      <band id="6654">Leek Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138142">
+      <result code="">Unknown Result</result>
+      <band id="10458">Leek Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138144">
+      <result code="">Unknown Result</result>
+      <band id="7419">Tutbury Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

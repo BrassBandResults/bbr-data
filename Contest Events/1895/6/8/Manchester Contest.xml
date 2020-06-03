@@ -1,0 +1,97 @@
+<contest-event id="12487">
+  <event-date date="1895-6-8">June 8, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester Contest</name>
+  <contest id="1617">
+    <name>Manchester Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>manchester-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1630">Il Trovatore - Fantasia [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1765">Botanical Gardens, Old Trafford, Manchester</venue>
+  <notes>Prizes: £20, £10, £7 10s, £5, £4, £3
+11 bands competed</notes>
+
+  <created>April 15, 2012, 8:15 a.m.</created>
+  <last-modified>Dec. 6, 2019, 1:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99758">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="99759">
+      <result code="2">2</result>
+      <band id="15818">Ancoats Excelsior</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="99760">
+      <result code="3">3</result>
+      <band id="7593">Onward Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="99761">
+      <result code="4">4</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="99762">
+      <result code="5">5</result>
+      <band id="3675">Boothfold</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="99763">
+      <result code="6">6</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="99766">
+      <result code="">Unknown Result</result>
+      <band id="1663">Irlam Silver Band</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+    <result id="99768">
+      <result code="">Unknown Result</result>
+      <band id="3535">Royal George</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="99767">
+      <result code="">Unknown Result</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="99765">
+      <result code="">Unknown Result</result>
+      <band id="7822">Bridgewater Street Mission</band>
+      <conductor id="307857">J. Race</conductor>
+    </result>
+    
+    <result id="99764">
+      <result code="">Unknown Result</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

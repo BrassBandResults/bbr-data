@@ -1,0 +1,72 @@
+<contest-event id="3416">
+  <event-date date="1887-10-1">Oct. 1, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Adelaide Jubilee Exhibition</name>
+  <contest id="633">
+    <name>Adelaide Jubilee Exhibition</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>adelaide-jubilee-exhibition</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="356">Exhibition Building, Adelaide, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Dec. 27, 2010, 10:38 a.m.</created>
+  <last-modified>Aug. 11, 2013, 4:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="32389">
+      <result code="1">1</result>
+      <band id="2407">Adelaide Eastern Suburbs Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2559">La Vestale [arr. Round]</test-piece>
+    </result>
+    
+    <result id="32390">
+      <result code="2">2</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="298720">Thomas E. Bulch</conductor>
+      <test-piece id="2295">Weber Fantasia [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="167508">
+      <result code="3">3</result>
+      <band id="11263">Moonta</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="167510">
+      <result code="">Unknown Result</result>
+      <band id="9334">Metropolitan Brass</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="167509">
+      <result code="">Unknown Result</result>
+      <band id="8987">South Australian Police</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="167507">
+      <result code="">Unknown Result</result>
+      <band id="11262">Southern Suburban Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1235">Der Freischütz [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

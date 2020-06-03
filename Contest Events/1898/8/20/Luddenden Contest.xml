@@ -1,0 +1,86 @@
+<contest-event id="15337">
+  <event-date date="1898-8-20">Aug. 20, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>Prizes: £10, £6, £3, £1
+March contest: 1. Cleckheaton Victoria, 2. Sowerby Bridge
+9 bands competed</notes>
+
+  <created>Oct. 15, 2012, 1:12 p.m.</created>
+  <last-modified>July 19, 2019, 11:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118829">
+      <result code="1">1</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="118830">
+      <result code="2">2</result>
+      <band id="7022">Todmorden Amateur</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="118831">
+      <result code="2">2</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="118832">
+      <result code="4">4</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="118833">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="118834">
+      <result code="">Unknown Result</result>
+      <band id="3536">Nazebottom Temperance</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="118835">
+      <result code="">Unknown Result</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+    </result>
+    
+    <result id="118837">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="118836">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="11033">
+  <event-date date="1906-8-18">Aug. 18, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gawthorpe Contest</name>
+  <contest id="2153">
+    <name>Gawthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gawthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1271">Carmelite</test-piece>
+  </test-piece>
+
+  <venue id="1569">Gawthorpe, West Yorkshire</venue>
+  <notes>
+
+  1st p;rize £8.
+  2nd prize £5.
+  3rd prize £3.
+  4th prize £2.
+  5th prize £1.
+
+  March contest 1st Birstall Old,  2nd Scapegoat Hill.</notes>
+
+  <created>March 11, 2012, 7:22 p.m.</created>
+  <last-modified>March 11, 2012, 7:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="91198">
+      <result code="1">1</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="91199">
+      <result code="2">2</result>
+      <band id="3178">Birstall Old</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="91200">
+      <result code="3">3</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="311463">E. Whitman</conductor>
+    </result>
+    
+    <result id="91201">
+      <result code="4">4</result>
+      <band id="6583">Cleckheaton Temperance</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="91202">
+      <result code="5">5</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,86 @@
+<contest-event id="40043">
+  <event-date date="1901-12-26">Dec. 26, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morriston Contest</name>
+  <contest id="6086">
+    <name>Morriston Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>morriston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1693">Hallelujah Chorus [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4468">Morriston, Glamorgan</venue>
+  <notes>Prizes - 1st £10, 2nd £5, 3rd £2.
+March contest (King Carnival) - 1st bTrebanos, 2nd divided between Pontyberem and Tycroes.
+9 bands competed.</notes>
+
+  <created>June 29, 2018, 9:26 p.m.</created>
+  <last-modified>June 29, 2018, 9:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291054">
+      <result code="1">1</result>
+      <band id="8289">Pontyberem United</band>
+      <conductor id="302636">A. G. Harries</conductor>
+    </result>
+    
+    <result id="291053">
+      <result code="2">2</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David Williams</conductor>
+    </result>
+    
+    <result id="291055">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="291048">
+      <result code="">Unknown Result</result>
+      <band id="15960">Neath Borough</band>
+      <conductor id="318145">T. J. Dennis</conductor>
+    </result>
+    
+    <result id="291049">
+      <result code="">Unknown Result</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="318146">Theo Evans</conductor>
+    </result>
+    
+    <result id="291050">
+      <result code="">Unknown Result</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="318139">R. Castle</conductor>
+    </result>
+    
+    <result id="291051">
+      <result code="">Unknown Result</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="291052">
+      <result code="">Unknown Result</result>
+      <band id="7931">Llansamlet</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+    <result id="291056">
+      <result code="">Unknown Result</result>
+      <band id="7322">Loughor Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

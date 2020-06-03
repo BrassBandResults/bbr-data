@@ -1,0 +1,86 @@
+<contest-event id="6915">
+  <event-date date="1859-9-5">Sept. 5, 1859<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Peterborough Contest</name>
+  <contest id="1175">
+    <name>Peterborough Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>peterborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2201">Tout Hill, Peterborough</venue>
+  <notes>Sources:
+http://www.ibew.org.uk/misc37.htm
+Northampton Mercury, 10th September 1859
+
+Open to all amateur bands throughout England.
+
+Prizes: £15, £8, £4, £2, £1
+
+The advertisment for the contest states &quot;the nervous are particularly invited to be present&quot; !</notes>
+
+  <created>July 21, 2011, 10:01 a.m.</created>
+  <last-modified>Oct. 11, 2015, 3:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="61416">
+      <result code="1">1</result>
+      <band id="5014">Doncaster Railway Foundry Band</band>
+      <conductor id="297967">G.F. Birkenshaw Snr</conductor>
+      <test-piece id="1359">Martha [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="107838">
+      <result code="2">2</result>
+      <band id="4961">Hull Druids</band>
+      <conductor id="308093">Joseph Rhodes</conductor>
+      <test-piece id="1359">Martha [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="107839">
+      <result code="3">3</result>
+      <band id="2509">Chesterfield Rifle Corps Band</band>
+      <conductor id="309235">Henry Slack</conductor>
+      <test-piece id="1255">La Sonnambula [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="107841">
+      <result code="4">4</result>
+      <band id="2348">Thrapston Town</band>
+      <conductor id="305302">P. Loveday</conductor>
+      <test-piece id="1967">La Petite Guerre</test-piece>
+    </result>
+    
+    <result id="107840">
+      <result code="5">5</result>
+      <band id="8463">Peterborough Great Northern Railway Locomotive</band>
+      <conductor id="310680">E. Tuxworth</conductor>
+      <test-piece id="1968">Alma</test-piece>
+    </result>
+    
+    <result id="107837">
+      <result code="D">Disqualified</result>
+      <band id="5074">Northampton Amateur</band>
+      <conductor id="297160">George Ashton</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="107842">
+      <result code="W">Withdrawn</result>
+      <band id="6609">Whittlesea Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

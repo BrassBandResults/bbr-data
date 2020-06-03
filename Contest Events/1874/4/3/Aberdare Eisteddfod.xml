@@ -1,0 +1,42 @@
+<contest-event id="38622">
+  <event-date date="1874-4-3">April 3, 1874<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aberdare Eisteddfod</name>
+  <contest id="5397">
+    <name>Aberdare Eisteddfod</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>aberdare-eisteddfod</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2276">Then round about the starry throne</test-piece>
+  </test-piece>
+
+  <venue id="1676">Aberdare, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>2 bands competed</notes>
+
+  <created>Sept. 27, 2017, 12:05 p.m.</created>
+  <last-modified>Sept. 27, 2017, 12:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="280311">
+      <result code="1">1</result>
+      <band id="12345">12th Glamorgan (Merthyr Tydfil) Rifle Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="280312">
+      <result code="2">2</result>
+      <band id="16344">Cwmbach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

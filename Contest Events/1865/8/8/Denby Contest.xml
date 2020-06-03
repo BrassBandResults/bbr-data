@@ -1,0 +1,53 @@
+<contest-event id="7116">
+  <event-date date="1865-8-8">Aug. 8, 1865<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Denby Contest</name>
+  <contest id="1238">
+    <name>Denby Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>denby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="740">Denby</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+
+
+In addition to the exhibition a grand brass band contest took place, the names of the bands being the Matlock, the Ilkeston, and the Sutton-in-Ashfield. The first prize, a silver cornet, value thirteen guineas, was awarded to the Matlock; the second, a baritone, value ten guineas, to the Ilkeston; and the third, a euphonium, value seven guineas, to the Sutton-in-Ashfield. Tom Godrich, the celebrated comic singer, also appeared in character, and performed at intervals, much to the gratification of all. The amusements concluded with a grand display of fireworks by Professor Chadwick, of Ilkeston. Tea and other refreshments were provided by Mrs. Hewitt, of the Union Inn.
+</notes>
+
+  <created>Aug. 26, 2011, 11:09 a.m.</created>
+  <last-modified>Nov. 17, 2015, 11:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="63383">
+      <result code="1">1</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="63384">
+      <result code="2">2</result>
+      <band id="7542">Ilkeston Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="63385">
+      <result code="3">3</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

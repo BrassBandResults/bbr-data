@@ -1,0 +1,96 @@
+<contest-event id="10004">
+  <event-date date="1905-4-29">April 29, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yeadon Contest</name>
+  <contest id="1357">
+    <name>Yeadon Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="351">Yeadon Contest</group>
+    <slug>yeadon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1648">Souvenir of Spain</test-piece>
+  </test-piece>
+
+  <venue id="1860">Yeadon, West Yorkshire</venue>
+  <notes>  1st prize £10.
+  2nd prize £5.
+  3rd prize £3.
+  4th prize 2.
+  5th prize 1.
+
+  March contest 1st (£1) Bradford City, 2nd (10s.) Rothwell Temperance.</notes>
+
+  <created>Feb. 4, 2012, 10:03 p.m.</created>
+  <last-modified>May 21, 2012, 8:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84768">
+      <result code="1">1</result>
+      <band id="3559">Wombwell Temperance</band>
+      <conductor id="298434">James Brier</conductor>
+    </result>
+    
+    <result id="84769">
+      <result code="2">2</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="84770">
+      <result code="3">3</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="84771">
+      <result code="4">4</result>
+      <band id="6624">Bradford Postmen</band>
+      <conductor id="298434">James Brier</conductor>
+    </result>
+    
+    <result id="84772">
+      <result code="5">5</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="84777">
+      <result code="">Unknown Result</result>
+      <band id="4593">Baildon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84775">
+      <result code="">Unknown Result</result>
+      <band id="11517">Bramley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84774">
+      <result code="">Unknown Result</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84773">
+      <result code="">Unknown Result</result>
+      <band id="6625">Goole South Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84776">
+      <result code="">Unknown Result</result>
+      <band id="3756">Stanningley and District Sub</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="23422">
+  <event-date date="1904-8-20">Aug. 20, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Helens Contest</name>
+  <contest id="2362">
+    <name>St. Helens Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1079">Rob Roy</test-piece>
+  </test-piece>
+
+  <venue id="3739">St. Helens Park, St. Helens</venue>
+  <notes>Waltz contest: 1. Nutgrove, 2. Parr Temperance, 3. Parr St Peters.
+5 bands competed.</notes>
+
+  <created>Sept. 3, 2013, 3:02 p.m.</created>
+  <last-modified>Aug. 31, 2018, 5:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="172130">
+      <result code="1">1</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="172131">
+      <result code="2">2</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="315316">John Hill</conductor>
+    </result>
+    
+    <result id="172132">
+      <result code="3">3</result>
+      <band id="3611">Sutton Road</band>
+      <conductor id="297078">John Appleton</conductor>
+    </result>
+    
+    <result id="292539">
+      <result code="4">4</result>
+      <band id="6644">Ravenhead Silver</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="292538">
+      <result code="5">5</result>
+      <band id="6995">Parr St Peter&#39;s</band>
+      <conductor id="297078">John Appleton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

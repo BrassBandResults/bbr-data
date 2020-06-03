@@ -1,0 +1,83 @@
+<contest-event id="13813">
+  <event-date date="1892-9-3">Sept. 3, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burton Latimer Contest</name>
+  <contest id="2336">
+    <name>Burton Latimer Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>burton-latimer-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2249">Burton Latimer, Northamptonshire, England, UK</venue>
+  <notes>3rd Annual Contest organised by Burton Latimer Britannia Band
+
+Quickstep Results:
+
+1st Prize Kettering Town
+2nd Prize Rushden Temperance
+3rd Prize Desborough Old
+
+Reported in Northampton Herald, 9th September 1892
+
+
+Prizes: £20, £13, £9 9s, £3</notes>
+
+  <created>June 17, 2012, 2:09 p.m.</created>
+  <last-modified>June 3, 2019, 8:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="110264">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="110265">
+      <result code="2">2</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="110266">
+      <result code="3">3</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110267">
+      <result code="4">4</result>
+      <band id="7944">Finedon New</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="110268">
+      <result code="5">5</result>
+      <band id="7947">Desborough Old</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="137735">
+      <result code="W">Withdrawn</result>
+      <band id="2000">Gretton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137734">
+      <result code="W">Withdrawn</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

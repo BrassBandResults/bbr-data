@@ -1,0 +1,67 @@
+<contest-event id="12511">
+  <event-date date="1899-7-29">July 29, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eston Contest</name>
+  <contest id="2501">
+    <name>Eston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1941">Eston, North Yorkshire</venue>
+  <notes>
+  1st prize £10.
+  2nd prize £5.
+  3rd prize £2 divided between Willington and  Middlesbrough Er\imus.
+  
+  March contest 1st (£1) Cleveland Steel Works, (10s.) 2nd West Hartlepool Borough.
+
+  5 bands competed.</notes>
+
+  <created>April 15, 2012, 4:21 p.m.</created>
+  <last-modified>April 15, 2012, 4:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100003">
+      <result code="1">1</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="100004">
+      <result code="2">2</result>
+      <band id="6628">Charltons Star of Hope</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="100005">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="100006">
+      <result code="3">3</result>
+      <band id="7920">Middlesbrough Erimus</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="100007">
+      <result code="5">5</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

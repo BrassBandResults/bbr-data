@@ -1,0 +1,66 @@
+<contest-event id="11832">
+  <event-date date="1907-12-7">Dec. 7, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1830">Songs of Handel</test-piece>
+  </test-piece>
+
+  <venue id="1043">Raikes Hall Gardens, Blackpool</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>April 7, 2012, 6:11 p.m.</created>
+  <last-modified>Sept. 21, 2018, 9:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95708">
+      <result code="1">1</result>
+      <band id="4621">Kirkham Subscription</band>
+      <conductor id="302184">E. Gregson</conductor>
+    </result>
+    
+    <result id="95709">
+      <result code="2">2</result>
+      <band id="7579">Blackpool Ambulance</band>
+      <conductor id="309658">D. Stansfield</conductor>
+    </result>
+    
+    <result id="95710">
+      <result code="3">3</result>
+      <band id="7580">Blackpool Lifeboat</band>
+      <conductor id="312080">T. Wylie</conductor>
+    </result>
+    
+    <result id="95712">
+      <result code="">Unknown Result</result>
+      <band id="7581">Blackpool Artillery</band>
+      <conductor id="310194">W. E. Taylor</conductor>
+    </result>
+    
+    <result id="95711">
+      <result code="">Unknown Result</result>
+      <band id="3692">St. Annes on the Sea</band>
+      <conductor id="305094">T. Lightbourne</conductor>
+    </result>
+    
+    <result id="95713">
+      <result code="">Unknown Result</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="307949">Peter Rawstrone</conductor>
+    </result>
+    
+  </results>
+</contest-event>

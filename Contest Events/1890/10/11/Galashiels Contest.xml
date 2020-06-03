@@ -1,0 +1,87 @@
+<contest-event id="29934">
+  <event-date date="1890-10-11">Oct. 11, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Galashiels Contest</name>
+  <contest id="2019">
+    <name>Galashiels Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>galashiels-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="963">Linda di Chamounix [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3158">Volunteer Hall, Galashiels, Scottish Borders, Scotland, UK</venue>
+  <notes>9 bands entered, 6 competed
+
+Prizes £25, £15, £10, £5
+</notes>
+
+  <created>Oct. 29, 2014, 6:30 p.m.</created>
+  <last-modified>June 12, 2019, 8:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="260465">
+      <result code="1">1</result>
+      <band id="1028">Galashiels Town</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="212550">
+      <result code="2">2</result>
+      <band id="1985">Bonnybridge &amp; District</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="260466">
+      <result code="3">3</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="260468">
+      <result code="4">4</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="314484">Thomas Wheelwright</conductor>
+    </result>
+    
+    <result id="260464">
+      <result code="">Unknown Result</result>
+      <band id="4976">Galashiels Rifle Volunteers</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="260467">
+      <result code="">Unknown Result</result>
+      <band id="334">St. Ronan&#39;s Silver Band</band>
+      <conductor id="310203">Joseph Teasdale</conductor>
+    </result>
+    
+    <result id="260462">
+      <result code="W">Withdrawn</result>
+      <band id="5672">Bellshill Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260461">
+      <result code="W">Withdrawn</result>
+      <band id="5613">Portobello</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260463">
+      <result code="W">Withdrawn</result>
+      <band id="10557">Selkirk Junior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

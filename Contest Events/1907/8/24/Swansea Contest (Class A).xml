@@ -1,0 +1,80 @@
+<contest-event id="11698">
+  <event-date date="1907-8-24">Aug. 24, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swansea Contest (Class A)</name>
+  <contest id="2318">
+    <name>Swansea Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swansea-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1249">Swansea, Swansea County, Wales, UK</venue>
+  <notes>Prizes: £20, £12, £7, £3
+
+  8 bands competed.</notes>
+
+  <created>April 6, 2012, 9:22 a.m.</created>
+  <last-modified>Sept. 10, 2013, 7:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94884">
+      <result code="1">1</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="94885">
+      <result code="2">2</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="302239">John Griffiths</conductor>
+    </result>
+    
+    <result id="94886">
+      <result code="3">3</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="94887">
+      <result code="4">4</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="94888">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="94889">
+      <result code="">Unknown Result</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="94890">
+      <result code="">Unknown Result</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="94891">
+      <result code="">Unknown Result</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

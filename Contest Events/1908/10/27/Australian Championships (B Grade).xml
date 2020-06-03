@@ -1,0 +1,78 @@
+<contest-event id="34188">
+  <event-date date="1908-10-27">Oct. 27, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3570">Scotland Forever</test-piece>
+  </test-piece>
+
+  <venue id="6805">Ballarat Oval, Ballarat, Victoria, Australia</venue>
+  <notes>in as part of the Royal South Street Eisteddfod</notes>
+
+  <created>March 1, 2016, 12:36 a.m.</created>
+  <last-modified>April 21, 2020, 12:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="246989">
+      <result code="1">1</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+      <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="246990">
+      <result code="2">2</result>
+      <band id="2398">Prout&#39;s (Ballarat)</band>
+      <conductor id="307776">Arthur Prout</conductor>
+      <test-piece id="1323">Ivanhoe</test-piece>
+    </result>
+    
+    <result id="246991">
+      <result code="3">3</result>
+      <band id="12283">Collingwood Citizens</band>
+      <conductor id="304131">Frank Johnston</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="246992">
+      <result code="4">4</result>
+      <band id="2394">Barrier Industrial Unions&#39; Band</band>
+      <conductor id="309944">Ernie Summerton</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="246993">
+      <result code="5">5</result>
+      <band id="13204">St. Kilda City [Victoria]</band>
+      <conductor id="310526">H. W. Towers</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
+    </result>
+    
+    <result id="246994">
+      <result code="6">6</result>
+      <band id="2417">Queenstown Band</band>
+      <conductor id="320005">W. A. Reid</conductor>
+    </result>
+    
+    <result id="246995">
+      <result code="7">7</result>
+      <band id="13108">I.O.R. Band (Geelong)</band>
+      <conductor id="310094">J. T. Tansey</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

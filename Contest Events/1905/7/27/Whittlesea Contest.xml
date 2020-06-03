@@ -1,0 +1,61 @@
+<contest-event id="10341">
+  <event-date date="1905-7-27">July 27, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whittlesea Contest</name>
+  <contest id="1949">
+    <name>Whittlesea Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whittlesea-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1584">La Cenerentola</test-piece>
+  </test-piece>
+
+  <venue id="1383">Whittlesea, Cambridgeshire</venue>
+  <notes>Prizes :- 1st £10, 2nd £5. 3rd £3. 4th £2.
+5 bands competed</notes>
+
+  <created>Feb. 16, 2012, 3:30 p.m.</created>
+  <last-modified>Sept. 11, 2018, 6:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87204">
+      <result code="1">1</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87205">
+      <result code="2">2</result>
+      <band id="6323">Peterborough Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87206">
+      <result code="3">3</result>
+      <band id="6609">Whittlesea Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87207">
+      <result code="4">4</result>
+      <band id="6349">Wisbech Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87208">
+      <result code="5">5</result>
+      <band id="6608">Whittlesey Kings Dyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

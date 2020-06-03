@@ -1,0 +1,62 @@
+<contest-event id="12314">
+  <event-date date="1894-9-3">Sept. 3, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treorchy Contest</name>
+  <contest id="2180">
+    <name>Treorchy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treorchy-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1586">Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>Prizes: £15, £7, £3
+March contest: 1. Llanelly Town
+5 bands competed</notes>
+
+  <created>April 12, 2012, 11:04 a.m.</created>
+  <last-modified>April 23, 2020, 7:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98567">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="98568">
+      <result code="2">2</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="98569">
+      <result code="3">3</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="312148">William Young</conductor>
+    </result>
+    
+    <result id="317761">
+      <result code="">Unknown Result</result>
+      <band id="15599">Dowlais and Merthyr Inn</band>
+      <conductor id="306362">W. Morgan</conductor>
+    </result>
+    
+    <result id="317762">
+      <result code="">Unknown Result</result>
+      <band id="14446">Aberdare Church Mission</band>
+      <conductor id="297968">W. Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

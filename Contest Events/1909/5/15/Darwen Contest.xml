@@ -1,0 +1,88 @@
+<contest-event id="15756">
+  <event-date date="1909-5-15">May 15, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darwen Contest</name>
+  <contest id="1766">
+    <name>Darwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1901">Verdi&#39;s Works [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="2408">Bold Venture Park, Darwen</venue>
+  <notes>  Fergie Suter cup for best band within tem mile radius - Goodshaw.
+
+  9 bands competed.
+
+Quickstep: 1. Crosfield&#39;s, 2. Goodshaw</notes>
+
+  <created>Nov. 2, 2012, 8:51 a.m.</created>
+  <last-modified>July 13, 2015, 3:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="121572">
+      <result code="1">1</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="121573">
+      <result code="2">2</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="121574">
+      <result code="3">3</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121575">
+      <result code="4">4</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="121577">
+      <result code="">Unknown Result</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121580">
+      <result code="">Unknown Result</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121576">
+      <result code="">Unknown Result</result>
+      <band id="6949">Irwell Street Mission (Salford)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121578">
+      <result code="">Unknown Result</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121579">
+      <result code="">Unknown Result</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

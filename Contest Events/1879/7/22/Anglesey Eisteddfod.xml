@@ -1,0 +1,44 @@
+<contest-event id="17015">
+  <event-date date="1879-7-22">July 22, 1879<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Anglesey Eisteddfod</name>
+  <contest id="3686">
+    <name>Anglesey Eisteddfod</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="423">Anglesey Eisteddfod</group>
+    <slug>anglesey-eisteddfod</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3152">Concordia Fantasia</test-piece>
+  </test-piece>
+
+  <venue id="2141">Holyhead, Isle of Anglesey, Wales, UK</venue>
+  <notes>2 bands competed
+
+Prize: 7 guineas</notes>
+
+  <created>Dec. 12, 2012, 11:56 p.m.</created>
+  <last-modified>Oct. 14, 2014, 7:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="129575">
+      <result code="1">1</result>
+      <band id="8132">Bangor Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="129576">
+      <result code="1">1</result>
+      <band id="10125">Holyhead Oddfellows</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

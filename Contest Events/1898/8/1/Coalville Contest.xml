@@ -1,0 +1,68 @@
+<contest-event id="13604">
+  <event-date date="1898-8-1">Aug. 1, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coalville Contest</name>
+  <contest id="2398">
+    <name>Coalville Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coalville-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1847">Gems of Modern Melody</test-piece>
+  </test-piece>
+
+  <venue id="1751">Coalville, Leicestershire, England, UK</venue>
+  <notes>Prizes: £10, £5, £2, £1 10s
+Quartette contest: 1. Belper, 2. Woodville, 3. Wednesbury
+6 bands competed</notes>
+
+  <created>May 28, 2012, 9:13 p.m.</created>
+  <last-modified>July 19, 2019, 9:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107785">
+      <result code="1">1</result>
+      <band id="3302">Hugglescote &amp; Ellistown</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107786">
+      <result code="2">2</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107787">
+      <result code="3">3</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107788">
+      <result code="4">4</result>
+      <band id="5193">Shepshed Town</band>
+      <conductor id="306644">C.H. Nelson</conductor>
+    </result>
+    
+    <result id="107790">
+      <result code="">Unknown Result</result>
+      <band id="7507">Hugglescote Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107789">
+      <result code="">Unknown Result</result>
+      <band id="8449">Wednesbury United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

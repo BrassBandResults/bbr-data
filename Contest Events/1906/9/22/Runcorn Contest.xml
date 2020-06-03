@@ -1,0 +1,57 @@
+<contest-event id="11105">
+  <event-date date="1906-9-22">Sept. 22, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Runcorn Contest</name>
+  <contest id="1991">
+    <name>Runcorn Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>runcorn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1739">Songs of Balfe</test-piece>
+  </test-piece>
+
+  <venue id="4547">Ackerley&#39;s Plantation, Runcorn, Cheshire, England, UK</venue>
+  <notes>  March contest  1st Runcorn Amateur,  2nd Runcorn Volunteers.
+Trophy won for the third time in a row and become the property of Runcorn Volunteers.
+Best cornet - Runcorn Amateur.
+4 bands competed</notes>
+
+  <created>March 13, 2012, 4:26 p.m.</created>
+  <last-modified>Sept. 15, 2018, 9:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="91910">
+      <result code="1">1</result>
+      <band id="2796">Runcorn Pioneer Band</band>
+      <conductor id="310900">F. J. Walker</conductor>
+    </result>
+    
+    <result id="91911">
+      <result code="2">2</result>
+      <band id="7090">Runcorn St Edward&#39;s</band>
+      <conductor id="307997">T. Redmond</conductor>
+    </result>
+    
+    <result id="91912">
+      <result code="3">3</result>
+      <band id="6845">Frodsham Volunteers</band>
+      <conductor id="304632">T. Knight</conductor>
+    </result>
+    
+    <result id="91913">
+      <result code="4">4</result>
+      <band id="7210">Runcorn Amateur</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

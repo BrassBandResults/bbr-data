@@ -1,0 +1,46 @@
+<contest-event id="20068">
+  <event-date date="1895-10-28">Oct. 28, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caergwrle Contest</name>
+  <contest id="2760">
+    <name>Caergwrle Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="475">Caergwrle Contest</group>
+    <slug>caergwrle-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1871">Oh, Father Whose Almighty Power</test-piece>
+  </test-piece>
+
+  <venue id="3390">Drill Shed, Caergwrle, Flintshire</venue>
+  <notes>Prize: £5
+
+March: 1. Oak Alyn (42), 2. Caergwrle (41)
+
+2 bands competed</notes>
+
+  <created>March 30, 2013, 10:48 a.m.</created>
+  <last-modified>Jan. 7, 2015, 6:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149472">
+      <result code="1">1</result>
+      <band id="11549">Caergwrle</band>
+      <conductor id="300885">W. Ellwood</conductor>
+    </result>
+    
+    <result id="149471">
+      <result code="2">2</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+    </result>
+    
+  </results>
+</contest-event>
