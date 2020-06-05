@@ -19,10 +19,11 @@
   </test-piece>
 
   <venue id="6682">Brisbane Town Centre, Queensland, Australia</venue>
-  <notes>Judged on music only</notes>
+  <notes>Judged on music only
+</notes>
 
   <created>March 3, 2019, 11:59 p.m.</created>
-  <last-modified>March 4, 2019, 12:23 a.m.</last-modified>
+  <last-modified>June 4, 2020, 11:56 p.m.</last-modified>
 
   <results>
     
@@ -42,18 +43,40 @@
       <result code="3">3</result>
       <band id="17299">Lismore Town   (NSW)</band>
       <conductor id="318250">T. S. Thomas</conductor>
+      <test-piece id="2607">March: The Cossack</test-piece>
+    </result>
+    
+    <result id="305201">
+      <result code="3">3</result>
+      <band id="6567">Manly Concert Band</band>
+      <conductor id="310954">Harold Walmsley</conductor>
+    </result>
+    
+    <result id="305204">
+      <result code="3">3</result>
+      <band id="9211">Charters Towers Concert Band</band>
+      <conductor id="304416">James Kelly</conductor>
+      <test-piece id="2607">March: The Cossack</test-piece>
+    </result>
+    
+    <result id="305205">
+      <result code="3">3</result>
+      <band id="17547">Mirani Brass</band>
+      <conductor id="302087">Lou Gray</conductor>
     </result>
     
     <result id="305196">
-      <result code="4">4</result>
+      <result code="7">7</result>
       <band id="17301">Moree Town  (NSW)</band>
       <conductor id="318251">O. H. Simpson</conductor>
+      <test-piece id="5838">March: Kings Cavalier</test-piece>
     </result>
     
     <result id="305197">
-      <result code="4">4</result>
+      <result code="7">7</result>
       <band id="9352">Longreach Town Band</band>
       <conductor id="309165">George Simpson</conductor>
+      <test-piece id="2534">March: The Victor&#39;s Return</test-piece>
     </result>
     
     <result id="305198">
@@ -68,12 +91,6 @@
       <conductor id="310730">Unknown</conductor>
     </result>
     
-    <result id="305201">
-      <result code="">Unknown Result</result>
-      <band id="6567">Manly Concert Band</band>
-      <conductor id="310954">Harold Walmsley</conductor>
-    </result>
-    
     <result id="305199">
       <result code="">Unknown Result</result>
       <band id="6568">Moreton Bay Band</band>
@@ -84,36 +101,28 @@
       <result code="">Unknown Result</result>
       <band id="11228">Ipswich Model</band>
       <conductor id="302625">Horace Harper</conductor>
+      <test-piece id="1417">March: Challenge</test-piece>
     </result>
     
     <result id="305203">
       <result code="">Unknown Result</result>
       <band id="17736">Kyogle Citizens  (NSW)</band>
       <conductor id="310730">Unknown</conductor>
-    </result>
-    
-    <result id="305204">
-      <result code="">Unknown Result</result>
-      <band id="9211">Charters Towers Concert Band</band>
-      <conductor id="304416">James Kelly</conductor>
-    </result>
-    
-    <result id="305205">
-      <result code="">Unknown Result</result>
-      <band id="17547">Mirani Brass</band>
-      <conductor id="302087">Lou Gray</conductor>
+      <test-piece id="5883">March: The Cornet</test-piece>
     </result>
     
     <result id="305210">
       <result code="">Unknown Result</result>
       <band id="17739">Grafton / South Grafton  Citizens  (NSW)</band>
       <conductor id="308512">J. Rowan</conductor>
+      <test-piece id="5183">March: Caractacus</test-piece>
     </result>
     
     <result id="305206">
       <result code="">Unknown Result</result>
       <band id="13738">Ayr Citizens</band>
       <conductor id="318214">A. W. Wellings</conductor>
+      <test-piece id="3126">March: Appreciation</test-piece>
     </result>
     
     <result id="305207">

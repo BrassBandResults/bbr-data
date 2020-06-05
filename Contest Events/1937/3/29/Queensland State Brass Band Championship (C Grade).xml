@@ -15,18 +15,17 @@
   </contest>
   <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="3281">I Capuleti [arr. Rimmer]</test-piece>
   </test-piece>
 
   <venue id="7075">Brisbane Cricket Ground, Queensland, Australia</venue>
   <notes>Other Disciplines
 Hymn  (own choice)
 Street March  (own Choice)
-Oval Test Music March  &quot; The Fighting 40th  ( Maxwell)
-</notes>
+Oval Test Music March  &quot; The Fighting 40th  ( Maxwell)</notes>
 
   <created>Aug. 24, 2018, 4:40 a.m.</created>
-  <last-modified>March 4, 2019, 4:37 a.m.</last-modified>
+  <last-modified>June 4, 2020, 11:18 p.m.</last-modified>
 
   <results>
     
@@ -54,8 +53,14 @@ Oval Test Music March  &quot; The Fighting 40th  ( Maxwell)
       <conductor id="308512">J. Rowan</conductor>
     </result>
     
-    <result id="292066">
+    <result id="292065">
       <result code="5">5</result>
+      <band id="17301">Moree Town  (NSW)</band>
+      <conductor id="318251">O. H. Simpson</conductor>
+    </result>
+    
+    <result id="292066">
+      <result code="6">6</result>
       <band id="9352">Longreach Town Band</band>
       <conductor id="309165">George Simpson</conductor>
     </result>
@@ -76,12 +81,6 @@ Oval Test Music March  &quot; The Fighting 40th  ( Maxwell)
       <result code="">Unknown Result</result>
       <band id="17736">Kyogle Citizens  (NSW)</band>
       <conductor id="310730">Unknown</conductor>
-    </result>
-    
-    <result id="292065">
-      <result code="">Unknown Result</result>
-      <band id="17301">Moree Town  (NSW)</band>
-      <conductor id="318251">O. H. Simpson</conductor>
     </result>
     
   </results>
