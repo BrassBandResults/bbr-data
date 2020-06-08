@@ -13,7 +13,7 @@
     
     
   </contest>
-  
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
@@ -23,7 +23,7 @@
 5 bands competed</notes>
 
   <created>Aug. 31, 2018, 6:21 p.m.</created>
-  <last-modified>Aug. 31, 2018, 6:27 p.m.</last-modified>
+  <last-modified>June 7, 2020, 9:31 p.m.</last-modified>
 
   <results>
     
@@ -31,30 +31,35 @@
       <result code="1">1</result>
       <band id="662">Hetton Silver Band</band>
       <conductor id="309866">William Straughan</conductor>
+      <test-piece id="1426">Lortzing</test-piece>
     </result>
     
     <result id="292579">
       <result code="2">2</result>
       <band id="3237">Brandon Colliery</band>
       <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
     </result>
     
     <result id="292581">
       <result code="3">3</result>
       <band id="6689">Peases West</band>
       <conductor id="306491">John Mudd</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
     </result>
     
     <result id="292578">
       <result code="4">4</result>
       <band id="7305">Cockfield</band>
       <conductor id="318159">W. Mudd</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
     </result>
     
     <result id="292577">
       <result code="">Unknown Result</result>
       <band id="7445">Oakenshaw [Durham]</band>
       <conductor id="318298">William Thompson</conductor>
+      <test-piece id="4869">Beatrice di Tenda</test-piece>
     </result>
     
   </results>
