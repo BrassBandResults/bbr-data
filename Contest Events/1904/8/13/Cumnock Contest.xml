@@ -13,17 +13,16 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="5855">Stradella Overture</test-piece>
   </test-piece>
 
   <venue id="1564">Cumnock, East Ayrshire, Scotland, UK</venue>
-  <notes>8 bands competed
-</notes>
+  <notes>8 bands competed</notes>
 
   <created>May 18, 2017, 9:57 a.m.</created>
-  <last-modified>May 18, 2017, 9:58 a.m.</last-modified>
+  <last-modified>June 8, 2020, 3:26 p.m.</last-modified>
 
   <results>
     
@@ -43,6 +42,18 @@
       <result code="3">3</result>
       <band id="6554">Auchinleck</band>
       <conductor id="310365">Robert Thomson</conductor>
+    </result>
+    
+    <result id="319379">
+      <result code="4">4</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="299027">Albert A. Carr</conductor>
+    </result>
+    
+    <result id="319380">
+      <result code="5">5</result>
+      <band id="5553">Maybole Burgh</band>
+      <conductor id="308992">William Shaw</conductor>
     </result>
     
   </results>
