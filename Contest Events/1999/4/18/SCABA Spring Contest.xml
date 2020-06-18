@@ -19,10 +19,12 @@
   </test-piece>
 
   <venue id="1257">Brighton, Sussex</venue>
-  <notes>118th SCABA Spring Contest</notes>
+  <notes>118th SCABA Spring Contest
+Best Instrumentalist - Cornet, Brass Band Willebroek
+Best Basses - Brass Band Willebroek</notes>
 
   <created>May 3, 2009, 5:06 p.m.</created>
-  <last-modified>Feb. 2, 2012, 1:12 p.m.</last-modified>
+  <last-modified>June 17, 2020, 5:11 p.m.</last-modified>
 
   <results>
     
@@ -30,6 +32,7 @@
       <result code="1">1</result>
       <band id="40">Brass Band Willebroek</band>
       <conductor id="310826">Frans Violet</conductor>
+      <test-piece id="86">Between the Moon and Mexico</test-piece>
     </result>
     
     <result id="3637">
@@ -55,6 +58,12 @@
       <result code="5">5</result>
       <band id="408">Hanwell Band</band>
       <conductor id="300650">John Durrant</conductor>
+    </result>
+    
+    <result id="319659">
+      <result code="W">Withdrawn</result>
+      <band id="280">Friary Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
     </result>
     
   </results>
