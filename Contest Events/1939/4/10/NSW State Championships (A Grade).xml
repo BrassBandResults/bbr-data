@@ -1,0 +1,62 @@
+<contest-event id="35827">
+  <event-date date="1939-4-10">April 10, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (A Grade)</name>
+  <contest id="565">
+    <name>NSW State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+  </test-piece>
+
+  <venue id="6072">Sydney Town Hall, Sydney, New South Wales, Australia</venue>
+  <notes>Marching Championship
+....  Band    .................Drum Major  ........pts
+1.   N S W  Government Railway  ,   Frank Austen  ,  177 pts
+2.   Westmead Boys&#39; Home   ,  Bob Llewellyn  ,  176
+3.   Westmead Old Boys&#39;  ,  P.Muir  ,  171</notes>
+
+  <created>Aug. 2, 2016, 12:02 a.m.</created>
+  <last-modified>April 15, 2017, 3:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259992">
+      <result code="1">1</result>
+      <band id="9373">St. John Ambulance Brigade Band (District of NSW)</band>
+      <conductor id="297320">Albert Baile</conductor>
+      <test-piece id="43">An Epic Symphony</test-piece>
+    </result>
+    
+    <result id="259993">
+      <result code="2">2</result>
+      <band id="13746">N S W  Railways</band>
+      <conductor id="299776">Charles Coughlan</conductor>
+      <test-piece id="529">The Crusaders</test-piece>
+    </result>
+    
+    <result id="259994">
+      <result code="3">3</result>
+      <band id="13172">Manly Municipal</band>
+      <conductor id="307430">Jerry Pheloung</conductor>
+      <test-piece id="43">An Epic Symphony</test-piece>
+    </result>
+    
+    <result id="259995">
+      <result code="4">4</result>
+      <band id="14102">Westmead Boys Home</band>
+      <conductor id="309945">Ossie Summerton</conductor>
+      <test-piece id="518">A Downland Suite</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

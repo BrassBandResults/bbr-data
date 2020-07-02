@@ -1,0 +1,54 @@
+<contest-event id="34080">
+  <event-date date="1936-8-15">Aug. 15, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Orpington Contest (First Section)</name>
+  <contest id="5360">
+    <name>Orpington Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="549">Orpington Contest</group>
+    <slug>orpington-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="108">Lorenzo</test-piece>
+  </test-piece>
+
+  <venue id="4372">Oldfield, High Street, Orpington, Kent</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Feb. 17, 2016, 3:22 p.m.</created>
+  <last-modified>Jan. 14, 2019, 4:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="246306">
+      <result code="1">1</result>
+      <band id="12623">Enfield Central</band>
+      <conductor id="299061">Edward Sydney Carter</conductor>
+    </result>
+    
+    <result id="246307">
+      <result code="2">2</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="246308">
+      <result code="3">3</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="246309">
+      <result code="4">4</result>
+      <band id="11581">Islington Prize</band>
+      <conductor id="300052">G. Daley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

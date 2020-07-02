@@ -1,0 +1,54 @@
+<contest-event id="35449">
+  <event-date date="1948-7-3">July 3, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eynsham Contest</name>
+  <contest id="3820">
+    <name>Eynsham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eynsham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1097">Knights of Old</test-piece>
+  </test-piece>
+
+  <venue id="3022">Eynsham, Oxfordshire, England, UK</venue>
+  <notes>March contest - 1st Didcot, 2nd Campden, 3rd Chipping Norton.</notes>
+
+  <created>June 1, 2016, 10:53 a.m.</created>
+  <last-modified>June 1, 2016, 10:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="255931">
+      <result code="1">1</result>
+      <band id="1864">Witney Town Band</band>
+      <conductor id="306433">G. A. Morton</conductor>
+    </result>
+    
+    <result id="255932">
+      <result code="2">2</result>
+      <band id="2842">Chipping Norton Silver Band </band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255933">
+      <result code="3">3</result>
+      <band id="7512">Campden Town</band>
+      <conductor id="306433">G. A. Morton</conductor>
+    </result>
+    
+    <result id="255935">
+      <result code="">Unknown Result</result>
+      <band id="7991">Didcot and Northbourne Silver Band</band>
+      <conductor id="308608">F. Rust</conductor>
+    </result>
+    
+  </results>
+</contest-event>

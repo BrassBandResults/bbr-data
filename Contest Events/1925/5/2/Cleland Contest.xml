@@ -1,0 +1,60 @@
+<contest-event id="22420">
+  <event-date date="1925-5-2">May 2, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cleland Contest</name>
+  <contest id="4432">
+    <name>Cleland Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cleland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3686">Miners&#39; Welfare Institute, Cleland</venue>
+  <notes>West of Scotland Brass Band Association contest
+
+6 bands competed
+
+March contest: 1. Cleland, 2. Newmilns, 3. Coatbridge
+Cornet: Cleland
+Euphonium: Dalziel</notes>
+
+  <created>Aug. 6, 2013, 7:45 p.m.</created>
+  <last-modified>Aug. 6, 2013, 7:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="166748">
+      <result code="1">1</result>
+      <band id="1988">Cleland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166749">
+      <result code="2">2</result>
+      <band id="5523">Dalziel Steelworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166750">
+      <result code="3">3</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166751">
+      <result code="4">4</result>
+      <band id="1984">Coatbridge Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

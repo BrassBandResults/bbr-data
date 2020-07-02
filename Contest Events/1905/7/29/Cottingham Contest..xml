@@ -1,0 +1,62 @@
+<contest-event id="10347">
+  <event-date date="1905-7-29">July 29, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cottingham Contest.</name>
+  <contest id="1955">
+    <name>Cottingham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cottingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1584">La Cenerentola</test-piece>
+  </test-piece>
+
+  <venue id="1387">Cottingham, East Yorkshire</venue>
+  <notes>1st prize £10. 2nd prize £5. 3rd prize £2.10s.
+March contest 1st Barton, 2nd Goole.
+5 bands competed</notes>
+
+  <created>Feb. 16, 2012, 4:49 p.m.</created>
+  <last-modified>Sept. 11, 2018, 6:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87249">
+      <result code="1">1</result>
+      <band id="6625">Goole South Street</band>
+      <conductor id="307382">George Perrett</conductor>
+    </result>
+    
+    <result id="87250">
+      <result code="2">2</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="87251">
+      <result code="3">3</result>
+      <band id="3626">Hull Wilson&#39;s</band>
+      <conductor id="300317">H. Dennis</conductor>
+    </result>
+    
+    <result id="87252">
+      <result code="">Unknown Result</result>
+      <band id="6799">Driffield Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87253">
+      <result code="">Unknown Result</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

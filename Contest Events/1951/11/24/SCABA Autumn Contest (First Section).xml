@@ -1,0 +1,54 @@
+<contest-event id="35702">
+  <event-date date="1951-11-24">Nov. 24, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SCABA Autumn Contest (First Section)</name>
+  <contest id="189">
+    <name>SCABA Autumn Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="33">SCABA Autumn Contest</group>
+    <slug>scaba-autumn-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1749">Eroica Symphony</test-piece>
+  </test-piece>
+
+  <venue id="3161">Dorking Halls, Dorking, Surrey, England, UK</venue>
+  <notes></notes>
+
+  <created>July 11, 2016, 2:24 p.m.</created>
+  <last-modified>March 13, 2019, 1:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259029">
+      <result code="1">1</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="310890">C. Walder</conductor>
+    </result>
+    
+    <result id="259030">
+      <result code="2">2</result>
+      <band id="6678">Horley Brass Band</band>
+      <conductor id="299670">Harold Cooper</conductor>
+    </result>
+    
+    <result id="259031">
+      <result code="3">3</result>
+      <band id="10135">Crawley Silver</band>
+      <conductor id="311024">G. Ward</conductor>
+    </result>
+    
+    <result id="259032">
+      <result code="4">4</result>
+      <band id="10449">Seaford British Legion</band>
+      <conductor id="300351">W. Detchfield</conductor>
+    </result>
+    
+  </results>
+</contest-event>

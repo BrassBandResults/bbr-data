@@ -1,0 +1,67 @@
+<contest-event id="10953">
+  <event-date date="1906-8-3">Aug. 3, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnard Castle Contest</name>
+  <contest id="1167">
+    <name>Barnard Castle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnard-castle-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1077">Beauty&#39;s Bower</test-piece>
+  </test-piece>
+
+  <venue id="671">Castle Grounds, Barnard Castle</venue>
+  <notes>
+  1st prize £8.
+  2nd prize £3.
+  3rd prize £1.
+
+  March contest 1st Willington, 2nd West Auckland.
+
+  5 bands competed.</notes>
+
+  <created>March 9, 2012, 10:14 p.m.</created>
+  <last-modified>March 9, 2012, 10:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90843">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="90844">
+      <result code="2">2</result>
+      <band id="5788">Evenwood Model</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90845">
+      <result code="3">3</result>
+      <band id="5367">Hunwick Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90847">
+      <result code="">Unknown Result</result>
+      <band id="587">Barnard Castle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90846">
+      <result code="">Unknown Result</result>
+      <band id="5278">West Auckland and St.Helens Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

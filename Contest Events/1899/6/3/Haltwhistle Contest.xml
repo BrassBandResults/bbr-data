@@ -1,0 +1,49 @@
+<contest-event id="12383">
+  <event-date date="1899-6-3">June 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haltwhistle Contest</name>
+  <contest id="2087">
+    <name>Haltwhistle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haltwhistle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1855">Sunny Spain</test-piece>
+  </test-piece>
+
+  <venue id="1522">Haltwhistle, Northumberland</venue>
+  <notes>March contest  1st Westwood, 2nd Frizington St Paul&#39;s
+3 bands competed</notes>
+
+  <created>April 13, 2012, 5:51 p.m.</created>
+  <last-modified>July 28, 2019, 7:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99010">
+      <result code="1">1</result>
+      <band id="7622">Frizington St Paul&#39;s</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="99011">
+      <result code="2">2</result>
+      <band id="7839">Westwood</band>
+      <conductor id="302610">Luke Harker</conductor>
+    </result>
+    
+    <result id="99012">
+      <result code="3">3</result>
+      <band id="7865">Bardon Mill</band>
+      <conductor id="308660">Matthew Saint</conductor>
+    </result>
+    
+  </results>
+</contest-event>

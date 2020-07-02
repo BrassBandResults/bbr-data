@@ -1,0 +1,62 @@
+<contest-event id="35392">
+  <event-date date="1946-8-31">Aug. 31, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Bromwich Contest (Section 1)</name>
+  <contest id="3833">
+    <name>West Bromwich Contest (Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>west-bromwich-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1045">Songs of England [Bath]</test-piece>
+  </test-piece>
+
+  <venue id="1764">West Bromwich, West Midlands</venue>
+  <notes>March contest - 1st Fisher and Ludlow, 2nd Greenway Moor, 3rd Langley.
+Prizes - 1st £15, 2nd £10, 3rd £6, 4th £3.
+10 bands competed.</notes>
+
+  <created>May 25, 2016, 6:05 a.m.</created>
+  <last-modified>June 26, 2020, 2:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255621">
+      <result code="1">1</result>
+      <band id="493">City of Birmingham Band</band>
+      <conductor id="296895">George Allen</conductor>
+    </result>
+    
+    <result id="255622">
+      <result code="2">2</result>
+      <band id="416">Langley Band</band>
+      <conductor id="300220">Roland Davis</conductor>
+    </result>
+    
+    <result id="255623">
+      <result code="3">3</result>
+      <band id="1000">Greenway Selectus Band</band>
+      <conductor id="297337">Thomas Bailey</conductor>
+    </result>
+    
+    <result id="255624">
+      <result code="4">4</result>
+      <band id="4090">Ibstock Welfare</band>
+      <conductor id="310727">T. Underwood</conductor>
+    </result>
+    
+    <result id="255625">
+      <result code="5">5</result>
+      <band id="882">Coleshill Town Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

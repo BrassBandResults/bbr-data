@@ -1,0 +1,67 @@
+<contest-event id="36064">
+  <event-date date="1948-8-14">Aug. 14, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Woodland Contest</name>
+  <contest id="3822">
+    <name>Woodland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>woodland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="3024">Shaw Park, Woodland, County Durham</venue>
+  <notes>March contest - 1st Brandon, 2nd Butterknowle, 3rd Murton.
+</notes>
+
+  <created>Sept. 14, 2016, 8:51 a.m.</created>
+  <last-modified>Feb. 22, 2019, 11:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="261829">
+      <result code="1">1</result>
+      <band id="3369">Burnhope Colliery Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261830">
+      <result code="2">2</result>
+      <band id="6271">Butterknowle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261831">
+      <result code="3">3</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261832">
+      <result code="4">4</result>
+      <band id="2730">Wardley Colliery Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261833">
+      <result code="5">5</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304774">
+      <result code="">Unknown Result</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

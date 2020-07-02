@@ -1,0 +1,54 @@
+<contest-event id="5156">
+  <event-date date="1951-3-31">March 31, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO Yorkshire (Championship Section)</name>
+  <contest id="670">
+    <name>CISWO Yorkshire (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="903">Brahms</test-piece>
+  </test-piece>
+
+  <venue id="3258">City Hall, Sheffield</venue>
+  <notes></notes>
+
+  <created>April 1, 2011, 1:09 a.m.</created>
+  <last-modified>June 8, 2014, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76525">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="302992">George Hespe</conductor>
+    </result>
+    
+    <result id="192835">
+      <result code="2">2</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="45053">
+      <result code="3">3</result>
+      <band id="4888">Royston New Monckton Colliery Institute</band>
+      <conductor id="301438">William Foster</conductor>
+    </result>
+    
+    <result id="45054">
+      <result code="4">4</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="306115">Harry Mileman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

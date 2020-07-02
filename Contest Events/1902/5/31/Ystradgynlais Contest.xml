@@ -1,0 +1,55 @@
+<contest-event id="40060">
+  <event-date date="1902-5-31">May 31, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ystradgynlais Contest</name>
+  <contest id="4796">
+    <name>Ystradgynlais Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ystradgynlais-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="3232">Ystradgynlais, Powys, Wales, UK</venue>
+  <notes>March contest - 1st Cwmtawe, 2nd Protheroe&#39;s.
+4 bands competed.</notes>
+
+  <created>July 5, 2018, 6:57 a.m.</created>
+  <last-modified>July 5, 2018, 7:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291210">
+      <result code="1">1</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="291211">
+      <result code="2">2</result>
+      <band id="7482">Cwmtawe District Training Band</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="291209">
+      <result code="3">3</result>
+      <band id="6966">Protheroe&#39;s Silver</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="291208">
+      <result code="4">4</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

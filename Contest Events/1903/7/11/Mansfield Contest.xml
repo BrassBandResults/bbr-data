@@ -1,0 +1,82 @@
+<contest-event id="21867">
+  <event-date date="1903-7-11">July 11, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mansfield Contest</name>
+  <contest id="2621">
+    <name>Mansfield Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mansfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3891">Show Ground, Chesterfield Road, Mansfield</venue>
+  <notes>  Best euphonium - Harry Thorpe - Kirkby-in-Ashfield.
+  Best cornet - F.Crossley - East Kirkby.
+  Promoted by Mansfield &amp; District Agricultural Society.
+  7 bands competed.</notes>
+
+  <created>June 15, 2013, 12:22 p.m.</created>
+  <last-modified>Aug. 15, 2018, 9:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162502">
+      <result code="1">1</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="310187">Sam Taylor</conductor>
+      <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="259629">
+      <result code="2">2</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="315248">T. Elliott</conductor>
+      <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="162498">
+      <result code="3">3</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="162500">
+      <result code="4">4</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+      <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="162497">
+      <result code="5">5</result>
+      <band id="6580">Mansfield Excelsior</band>
+      <conductor id="310187">Sam Taylor</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="162499">
+      <result code="">Unknown Result</result>
+      <band id="7834">Pinxton</band>
+      <conductor id="301488">Rowland France</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="162501">
+      <result code="">Unknown Result</result>
+      <band id="6579">Newstead Colliery</band>
+      <conductor id="307127">Isaac Parkin</conductor>
+      <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

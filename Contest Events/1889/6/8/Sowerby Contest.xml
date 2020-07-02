@@ -1,0 +1,56 @@
+<contest-event id="38908">
+  <event-date date="1889-6-8">June 8, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sowerby Contest</name>
+  <contest id="1658">
+    <name>Sowerby Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>sowerby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6795">Pye Nest Park, Sowerby, West Yorkshire</venue>
+  <notes>Prizes - 1st £15, 2nd £8, 3rd £4, 4th £2.
+March contest - 1st (£1) Wyke, 2nd (10s.) Todmorden Old.
+4 bands competed.</notes>
+
+  <created>Nov. 30, 2017, 11 a.m.</created>
+  <last-modified>Jan. 27, 2018, 9:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283078">
+      <result code="1">1</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283079">
+      <result code="2">2</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283080">
+      <result code="3">3</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283081">
+      <result code="4">4</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

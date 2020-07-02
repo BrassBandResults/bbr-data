@@ -1,0 +1,58 @@
+<contest-event id="12622">
+  <event-date date="1899-8-12">Aug. 12, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dumfries Contest (Open Section)</name>
+  <contest id="2625">
+    <name>Dumfries Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dumfries-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1844">Herold [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="873">Dumfries, Scotland</venue>
+  <notes>1st prize £20 and cup.
+  2nd prize £18.
+  3rd prize £10.
+  4th prize £5.
+4 bands competed.</notes>
+
+  <created>April 18, 2012, 2:46 p.m.</created>
+  <last-modified>Jan. 11, 2017, 7:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100628">
+      <result code="1">1</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100629">
+      <result code="2">2</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="100630">
+      <result code="3">3</result>
+      <band id="4850">Liddesdale Temperance</band>
+      <conductor id="299958">James Crozier</conductor>
+    </result>
+    
+    <result id="100631">
+      <result code="4">4</result>
+      <band id="5588">Frizington Town</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

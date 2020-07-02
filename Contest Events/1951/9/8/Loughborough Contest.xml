@@ -1,0 +1,49 @@
+<contest-event id="35671">
+  <event-date date="1951-9-8">Sept. 8, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Loughborough Contest</name>
+  <contest id="1207">
+    <name>Loughborough Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>loughborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="578">Hinchingbrooke</test-piece>
+  </test-piece>
+
+  <venue id="166">Loughborough, Leicestershire, England, UK</venue>
+  <notes>3 bands competed.
+6th annual contest.</notes>
+
+  <created>July 9, 2016, 9:28 p.m.</created>
+  <last-modified>Jan. 26, 2017, 10:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="258890">
+      <result code="1">1</result>
+      <band id="120">Kibworth Band</band>
+      <conductor id="306275">Edward Moore</conductor>
+    </result>
+    
+    <result id="258891">
+      <result code="2">2</result>
+      <band id="2695">Heage Band</band>
+      <conductor id="309078">D. Shore</conductor>
+    </result>
+    
+    <result id="258892">
+      <result code="3">3</result>
+      <band id="2717">Basford Hall Colliery Welfare</band>
+      <conductor id="297387">John Baldwin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

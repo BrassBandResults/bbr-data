@@ -1,0 +1,82 @@
+<contest-event id="12655">
+  <event-date date="1899-8-26">Aug. 26, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Machen Contest</name>
+  <contest id="1868">
+    <name>Machen Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="322">Machen Contest</group>
+    <slug>machen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1881">Recollections of Carl Rosa</test-piece>
+  </test-piece>
+
+  <venue id="1312">Machen, Caerphilly, Wales, UK</venue>
+  <notes>1st prize £5 and cup.
+  2nd prize £2.10s.
+  3rd prize £1.10s.
+  4th prize £1.
+ 8 bands competed.</notes>
+
+  <created>April 18, 2012, 6:02 p.m.</created>
+  <last-modified>July 28, 2019, 4:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100867">
+      <result code="1">1</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="298048">John Blamey</conductor>
+    </result>
+    
+    <result id="100868">
+      <result code="2">2</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310676">W. Turtle</conductor>
+    </result>
+    
+    <result id="100869">
+      <result code="3">3</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="100876">
+      <result code="4">4</result>
+      <band id="3436">Barry Brass Band</band>
+      <conductor id="300256">H. W. Day</conductor>
+    </result>
+    
+    <result id="100871">
+      <result code="">Unknown Result</result>
+      <band id="12696">Tylorstown</band>
+      <conductor id="300174">Mr Davies</conductor>
+    </result>
+    
+    <result id="100872">
+      <result code="">Unknown Result</result>
+      <band id="7863">Rhiwderin</band>
+      <conductor id="313409">T. Powell</conductor>
+    </result>
+    
+    <result id="100874">
+      <result code="">Unknown Result</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="300781">Lewis Edwards</conductor>
+    </result>
+    
+    <result id="100873">
+      <result code="">Unknown Result</result>
+      <band id="6596">Deri</band>
+      <conductor id="307641">William Powell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

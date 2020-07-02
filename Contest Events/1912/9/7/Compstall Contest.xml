@@ -1,0 +1,74 @@
+<contest-event id="15625">
+  <event-date date="1912-9-7">Sept. 7, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Compstall Contest</name>
+  <contest id="1795">
+    <name>Compstall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>compstall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="1267">Compstall, Cheshire</venue>
+  <notes>
+
+  7 bands competed.</notes>
+
+  <created>Oct. 27, 2012, 10:49 a.m.</created>
+  <last-modified>Oct. 27, 2012, 3:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="120732">
+      <result code="1">1</result>
+      <band id="3670">Victoria Hall (Bolton)</band>
+      <conductor id="317093">Harold Bennett</conductor>
+    </result>
+    
+    <result id="120733">
+      <result code="2">2</result>
+      <band id="4276">Halliwell</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="120734">
+      <result code="3">3</result>
+      <band id="3215">Levenshulme</band>
+      <conductor id="303634">Alfred Hulme</conductor>
+    </result>
+    
+    <result id="120735">
+      <result code="4">4</result>
+      <band id="4428">Heaton Mersey and District</band>
+      <conductor id="304985">Dan Leigh</conductor>
+    </result>
+    
+    <result id="120766">
+      <result code="">Unknown Result</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="120767">
+      <result code="">Unknown Result</result>
+      <band id="9727">Weaste</band>
+      <conductor id="318967">John Newton</conductor>
+    </result>
+    
+    <result id="120768">
+      <result code="">Unknown Result</result>
+      <band id="3315">South Salford</band>
+      <conductor id="318967">John Newton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

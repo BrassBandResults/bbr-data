@@ -1,0 +1,74 @@
+<contest-event id="15818">
+  <event-date date="1909-7-3">July 3, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class C)</name>
+  <contest id="2114">
+    <name>Pontypridd Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2205">La Gitana</test-piece>
+  </test-piece>
+
+  <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>
+
+  7 bands competed.</notes>
+
+  <created>Nov. 3, 2012, 10:59 a.m.</created>
+  <last-modified>Nov. 3, 2012, 11:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121995">
+      <result code="1">1</result>
+      <band id="6350">Tonypandy Hibernia</band>
+      <conductor id="310274">G. H. Thomas</conductor>
+    </result>
+    
+    <result id="121996">
+      <result code="2">2</result>
+      <band id="8043">Maesteg Hibernian</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="121997">
+      <result code="3">3</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="300258">W. W. Day</conductor>
+    </result>
+    
+    <result id="121998">
+      <result code="4">4</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="121999">
+      <result code="">Unknown Result</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="301339">Rufus Fletcher</conductor>
+    </result>
+    
+    <result id="122000">
+      <result code="">Unknown Result</result>
+      <band id="7573">McLaren&#39;s Workmen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122001">
+      <result code="">Unknown Result</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="42285">
+  <event-date date="1892-9-10">Sept. 10, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shildon Contest</name>
+  <contest id="2152">
+    <name>Shildon Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shildon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2770">The Bohemian Girl [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1567">Shildon, County Durham</venue>
+  <notes>Contest promoted by New Shildon Temperance band.
+March contest - 1st Hartlepool Operatic, 2nd Hartlepool Borough.
+Prizes - 1st £16, 2nd £8, 3rd £4.
+3 bands competed.</notes>
+
+  <created>June 3, 2019, 9:28 p.m.</created>
+  <last-modified>June 3, 2019, 9:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="309220">
+      <result code="1">1</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="309222">
+      <result code="2">2</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="303865">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="309221">
+      <result code="3">3</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

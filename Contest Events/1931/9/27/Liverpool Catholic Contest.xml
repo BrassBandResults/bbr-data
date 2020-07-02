@@ -1,0 +1,43 @@
+<contest-event id="24790">
+  <event-date date="1931-9-27">Sept. 27, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Liverpool Catholic Contest</name>
+  <contest id="4823">
+    <name>Liverpool Catholic Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>liverpool-catholic-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1839">Pride of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="4196">Stanley Greyhound Track, Old Swan, Liverpool,</venue>
+  <notes>Restricted to Catholic Bands only.
+10 bands competed</notes>
+
+  <created>Nov. 1, 2013, 7:11 a.m.</created>
+  <last-modified>Nov. 1, 2013, 7:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="181263">
+      <result code="1">1</result>
+      <band id="10014">St Edward&#39;s Orphanage (Liverpool)</band>
+      <conductor id="305082">J. J. Leyland</conductor>
+    </result>
+    
+    <result id="181264">
+      <result code="2">2</result>
+      <band id="11602">Mount Carmel</band>
+      <conductor id="298299">Captain Box</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="24300">
+  <event-date date="1929-5-20">May 20, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class B)</name>
+  <contest id="2097">
+    <name>Llandovery Contest (Class B)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>
+  5 bands competed.</notes>
+
+  <created>Oct. 4, 2013, 11:09 a.m.</created>
+  <last-modified>Aug. 17, 2016, 9 a.m.</last-modified>
+
+  <results>
+    
+    <result id="177389">
+      <result code="1">1</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302062">T. J. Gravell</conductor>
+    </result>
+    
+    <result id="177390">
+      <result code="2">2</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="177391">
+      <result code="3">3</result>
+      <band id="7072">Gorseinon</band>
+      <conductor id="309551">T. W. Speak</conductor>
+    </result>
+    
+    <result id="177393">
+      <result code="">Unknown Result</result>
+      <band id="10616">Penclawdd Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177392">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

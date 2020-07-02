@@ -1,0 +1,44 @@
+<contest-event id="17298">
+  <event-date date="1946-9-14">Sept. 14, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Walthamstow Contest (Section 1)</name>
+  <contest id="2829">
+    <name>Walthamstow Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="550">Walthamstow Contest</group>
+    <slug>walthamstow-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="518">A Downland Suite</test-piece>
+  </test-piece>
+
+  <venue id="612">Lloyd Park, Walthamstow, Waltham Forest, Greater London, England, UK</venue>
+  <notes>Prizes: £15, £7, £5
+
+2 bands competed</notes>
+
+  <created>Dec. 24, 2012, 11:29 a.m.</created>
+  <last-modified>Feb. 11, 2019, 11:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="131204">
+      <result code="1">1</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="301697">Frederick Lonsdale Garth</conductor>
+    </result>
+    
+    <result id="131205">
+      <result code="2">2</result>
+      <band id="622">Watford</band>
+      <conductor id="303726">R. Hutchinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

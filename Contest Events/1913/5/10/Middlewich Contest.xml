@@ -1,0 +1,54 @@
+<contest-event id="40443">
+  <event-date date="1913-5-10">May 10, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Middlewich Contest</name>
+  <contest id="3119">
+    <name>Middlewich Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>middlewich-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2790">Gems of the Old Days</test-piece>
+  </test-piece>
+
+  <venue id="2415">Middlewich, Cheshire, England, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Sept. 30, 2018, 10:44 a.m.</created>
+  <last-modified>Sept. 30, 2018, 10:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294266">
+      <result code="1">1</result>
+      <band id="8033">Congleton Excelsior</band>
+      <conductor id="308985">Percy Shaw</conductor>
+    </result>
+    
+    <result id="294267">
+      <result code="2">2</result>
+      <band id="3180">Middlewich Centenary Band</band>
+      <conductor id="303420">John Hopkinson</conductor>
+    </result>
+    
+    <result id="294268">
+      <result code="3">3</result>
+      <band id="2617">Wilmslow Public</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="294269">
+      <result code="4">4</result>
+      <band id="2580">Knutsford &amp; Alderley</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="35084">
+  <event-date date="1932-3-29">March 29, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3676">Tschaikowsky [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="7044">Marybough Showground  Queensland</venue>
+  <notes>Two set tests, 
+N0.2 Test points listed under Own Choice
+
+Other Disciplines
+Hymn  (own Choice)
+Street March  (own choice)
+Oval March test Music  &quot; Lyonia&quot;  (Trussell)</notes>
+
+  <created>April 14, 2016, 12:41 a.m.</created>
+  <last-modified>Feb. 20, 2019, 9:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="252972">
+      <result code="1">1</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="299893">Len Crew</conductor>
+    </result>
+    
+    <result id="252973">
+      <result code="2">2</result>
+      <band id="5801">Windsor Municipal</band>
+      <conductor id="307374">Harold Perkins</conductor>
+    </result>
+    
+    <result id="252974">
+      <result code="3">3</result>
+      <band id="6431">Maryborough Federal [Queensland]</band>
+      <conductor id="311364">Sam Whitaker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

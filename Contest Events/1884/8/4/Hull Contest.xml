@@ -1,0 +1,79 @@
+<contest-event id="38824">
+  <event-date date="1884-8-4">Aug. 4, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hull Contest</name>
+  <contest id="1248">
+    <name>Hull Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>hull-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1135">Botanic Gardens, Hull</venue>
+  <notes>Promoted by Hull Friendly Society.
+Prizes - 1st £25, 2nd £15, 3rd £10, 4th £5.
+6 bands competed.
+
+
+
+
+</notes>
+
+  <created>Nov. 24, 2017, 4:31 p.m.</created>
+  <last-modified>April 21, 2020, 10:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="282460">
+      <result code="1">1</result>
+      <band id="43">Old Silkstone</band>
+      <conductor id="309884">Coniah Stringer</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="282461">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="307879">George Raine</conductor>
+      <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="282462">
+      <result code="3">3</result>
+      <band id="2518">Great Horton Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="282463">
+      <result code="4">4</result>
+      <band id="3527">Gainsborough Rifles</band>
+      <conductor id="297727">William Belcher</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="282464">
+      <result code="">Unknown Result</result>
+      <band id="6128">Hull Orphanage</band>
+      <conductor id="317381">Jesse Mason</conductor>
+      <test-piece id="1339">Il Giuramento [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="282465">
+      <result code="">Unknown Result</result>
+      <band id="5349">Hull Rifle Band</band>
+      <conductor id="317382">J. W. Woodcock</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

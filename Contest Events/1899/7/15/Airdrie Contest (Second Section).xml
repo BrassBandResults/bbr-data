@@ -1,0 +1,80 @@
+<contest-event id="12444">
+  <event-date date="1899-7-15">July 15, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Airdrie Contest (Second Section)</name>
+  <contest id="2572">
+    <name>Airdrie Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="275">Airdrie Contest</group>
+    <slug>airdrie-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3747">Store Park, Clarkston, Airdrie</venue>
+  <notes>Promoted by Clarkston Brass Band.
+Info - Contest Field September 1899.</notes>
+
+  <created>April 14, 2012, 4:38 p.m.</created>
+  <last-modified>July 9, 2017, 9:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99465">
+      <result code="1">1</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1887">La Fille de Madame Angot</test-piece>
+    </result>
+    
+    <result id="99466">
+      <result code="2">2</result>
+      <band id="4981">Crofthead Brass Band</band>
+      <conductor id="307270">George Peacock</conductor>
+      <test-piece id="1887">La Fille de Madame Angot</test-piece>
+    </result>
+    
+    <result id="99467">
+      <result code="3">3</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1866">Caledonia</test-piece>
+    </result>
+    
+    <result id="99468">
+      <result code="4">4</result>
+      <band id="7880">Armadale Jubilee</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1887">La Fille de Madame Angot</test-piece>
+    </result>
+    
+    <result id="167058">
+      <result code="">Unknown Result</result>
+      <band id="6842">Blantyre Public</band>
+      <conductor id="309530">John Somerville</conductor>
+      <test-piece id="1866">Caledonia</test-piece>
+    </result>
+    
+    <result id="167057">
+      <result code="">Unknown Result</result>
+      <band id="5234">Dykehead</band>
+      <conductor id="304648">James Knox</conductor>
+      <test-piece id="1887">La Fille de Madame Angot</test-piece>
+    </result>
+    
+    <result id="167056">
+      <result code="">Unknown Result</result>
+      <band id="11318">Larkhall Public</band>
+      <conductor id="309311">Alex Smith</conductor>
+      <test-piece id="1866">Caledonia</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

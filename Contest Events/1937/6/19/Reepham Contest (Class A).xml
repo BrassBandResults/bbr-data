@@ -1,0 +1,56 @@
+<contest-event id="25135">
+  <event-date date="1937-6-19">June 19, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reepham Contest (Class A)</name>
+  <contest id="4897">
+    <name>Reepham Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>reepham-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3326">Reepham, Norfolk</venue>
+  <notes>March contest - 1st Reepham, 2nd Great Bentley.
+  5th annual contest.
+  4 bands competed.</notes>
+
+  <created>Nov. 16, 2013, 10:18 a.m.</created>
+  <last-modified>Jan. 18, 2019, 1:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="183037">
+      <result code="1">1</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="306841">Walter Nuttall</conductor>
+    </result>
+    
+    <result id="183038">
+      <result code="2">2</result>
+      <band id="10715">Great Bentley</band>
+      <conductor id="309387">J. W. Smith</conductor>
+    </result>
+    
+    <result id="183039">
+      <result code="">Unknown Result</result>
+      <band id="315">City of Cambridge Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183040">
+      <result code="">Unknown Result</result>
+      <band id="8398">Sheringham Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

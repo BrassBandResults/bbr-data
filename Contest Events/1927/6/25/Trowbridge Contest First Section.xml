@@ -1,0 +1,68 @@
+<contest-event id="23970">
+  <event-date date="1927-6-25">June 25, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trowbridge Contest First Section</name>
+  <contest id="4647">
+    <name>Trowbridge Contest First Section</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="468">Trowbridge Contest</group>
+    <slug>trowbridge-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4012">Trowbridge, Wiltshire, England, UK</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £10, 3rd £6.
+  Deportment - 1st Radstock, 2nd Aldbourne.
+  6 bands competed.</notes>
+
+  <created>Sept. 21, 2013, 7:32 a.m.</created>
+  <last-modified>Nov. 21, 2018, 10:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="175184">
+      <result code="1">1</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="299800">J. Couzens</conductor>
+    </result>
+    
+    <result id="175185">
+      <result code="2">2</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="300231">R. W. Davison</conductor>
+    </result>
+    
+    <result id="175186">
+      <result code="3">3</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="175188">
+      <result code="">Unknown Result</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="175539">
+      <result code="">Unknown Result</result>
+      <band id="10619">Midsomer Norton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175187">
+      <result code="">Unknown Result</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

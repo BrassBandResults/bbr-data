@@ -1,0 +1,62 @@
+<contest-event id="24673">
+  <event-date date="1934-9-8">Sept. 8, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Louth Contest</name>
+  <contest id="3826">
+    <name>Louth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>louth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="3036">Louth, Lincolnshire, England, UK</venue>
+  <notes>Prizes - 1st £5 and shield, 2nd £3 and cup, 3rd £2.
+  March contest - 1st(£1) Cleethorpes, 2nd(10s.) Barton.
+  5 bands competed.</notes>
+
+  <created>Oct. 24, 2013, 8:21 a.m.</created>
+  <last-modified>Jan. 10, 2017, 10:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180397">
+      <result code="1">1</result>
+      <band id="578">Kingsway Printers Cleethorpes</band>
+      <conductor id="298191">W. Booth</conductor>
+    </result>
+    
+    <result id="180398">
+      <result code="2">2</result>
+      <band id="319">Barton Town Band</band>
+      <conductor id="318874">M. Thompson</conductor>
+    </result>
+    
+    <result id="180401">
+      <result code="3">3</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="306837">Harvey Nuttall</conductor>
+    </result>
+    
+    <result id="180400">
+      <result code="">Unknown Result</result>
+      <band id="7205">Lincoln City Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180399">
+      <result code="">Unknown Result</result>
+      <band id="911">Barnetby Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,82 @@
+<contest-event id="21904">
+  <event-date date="1903-7-25">July 25, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rishton Contest</name>
+  <contest id="1506">
+    <name>Rishton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rishton</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3573">Cricket Field, Blackburn Road, Rishton, Lancashire</venue>
+  <notes>  Prizes - 1st £12, 2nd £8, 3rd £5, 4th £2, 5th £1.
+1st annual contest promoted by Rishton Old Band.
+ 9 bands entered, 8 bands competed.
+
+Choice of test pieces: &quot;Casket of Gems&quot;, &quot;Gems of British Song&quot; or &quot;Don Pasquale&quot;</notes>
+
+  <created>June 16, 2013, 1:43 p.m.</created>
+  <last-modified>July 25, 2016, 9:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162658">
+      <result code="1">1</result>
+      <band id="12449">Blackburn Town</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="162659">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="162660">
+      <result code="3">3</result>
+      <band id="6648">Wilpshire</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="162661">
+      <result code="4">4</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="162662">
+      <result code="5">5</result>
+      <band id="5271">Helmshore Prize Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="162663">
+      <result code="">Unknown Result</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="162664">
+      <result code="">Unknown Result</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="162665">
+      <result code="">Unknown Result</result>
+      <band id="7197">Newhallhey</band>
+      <conductor id="312897">R. Fletcher</conductor>
+    </result>
+    
+  </results>
+</contest-event>

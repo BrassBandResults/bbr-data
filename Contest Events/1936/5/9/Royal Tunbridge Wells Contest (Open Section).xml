@@ -1,0 +1,55 @@
+<contest-event id="21266">
+  <event-date date="1936-5-9">May 9, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Open Section)</name>
+  <contest id="1042">
+    <name>Royal Tunbridge Wells Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="108">Lorenzo</test-piece>
+  </test-piece>
+
+  <venue id="2759">Tunbridge Wells, Kent</venue>
+  <notes>  15th annual contest.
+4 bands competed.</notes>
+
+  <created>May 10, 2013, 7:26 a.m.</created>
+  <last-modified>Nov. 12, 2013, 11:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="156845">
+      <result code="1">1</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="311095">C. A. Waters</conductor>
+    </result>
+    
+    <result id="156846">
+      <result code="2">2</result>
+      <band id="10666">Rochester City</band>
+      <conductor id="303130">Harold Hind</conductor>
+    </result>
+    
+    <result id="182518">
+      <result code="">Unknown Result</result>
+      <band id="5438">City of Canterbury</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182519">
+      <result code="">Unknown Result</result>
+      <band id="4657">Hoo Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

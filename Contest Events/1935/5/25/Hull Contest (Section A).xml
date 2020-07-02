@@ -1,0 +1,49 @@
+<contest-event id="25033">
+  <event-date date="1935-5-25">May 25, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hull Contest (Section A)</name>
+  <contest id="4544">
+    <name>Hull Contest (Section A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hull-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="941">Recollections of Schumann</test-piece>
+  </test-piece>
+
+  <venue id="1568">Kingston-upon-Hull, East Riding of Yorkshire, England, UK</venue>
+  <notes>
+  March contest - 1st Hull Waterloo, 2nd Cleethorpes.</notes>
+
+  <created>Nov. 9, 2013, 12:03 p.m.</created>
+  <last-modified>Nov. 9, 2013, 12:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182327">
+      <result code="1">1</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="306794">C. E. Norman</conductor>
+    </result>
+    
+    <result id="182328">
+      <result code="2">2</result>
+      <band id="578">Kingsway Printers Cleethorpes</band>
+      <conductor id="298191">W. Booth</conductor>
+    </result>
+    
+    <result id="182329">
+      <result code="3">3</result>
+      <band id="3631">British Oil and Cake Mills</band>
+      <conductor id="306258">C. S. Moon</conductor>
+    </result>
+    
+  </results>
+</contest-event>

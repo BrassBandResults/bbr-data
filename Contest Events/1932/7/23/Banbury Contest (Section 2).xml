@@ -1,0 +1,42 @@
+<contest-event id="23369">
+  <event-date date="1932-7-23">July 23, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Banbury Contest (Section 2)</name>
+  <contest id="3256">
+    <name>Banbury Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="307">Banbury Contest</group>
+    <slug>banbury-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="1642">Banbury, Oxfordshire</venue>
+  <notes>2 bands competed.</notes>
+
+  <created>Sept. 1, 2013, 4:28 p.m.</created>
+  <last-modified>Sept. 1, 2013, 7:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171713">
+      <result code="1">1</result>
+      <band id="431">Towcester Studio Band</band>
+      <conductor id="298585">Charles Brown</conductor>
+    </result>
+    
+    <result id="171714">
+      <result code="2">2</result>
+      <band id="9610">Banbury Borough and British Legion</band>
+      <conductor id="297543">George Barrett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,88 @@
+<contest-event id="14925">
+  <event-date date="1912-6-8">June 8, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Hiendley Contest</name>
+  <contest id="3105">
+    <name>South Hiendley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-hiendley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="2407">South Hiendley, Wakefield, West Yorkshire</venue>
+  <notes>
+
+  9 bands competed.
+
+  March contest 1st Hemsworth Colliery, 2nd Bentley Colliery.</notes>
+
+  <created>Sept. 29, 2012, 9:12 a.m.</created>
+  <last-modified>Sept. 29, 2012, 9:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="116613">
+      <result code="1">1</result>
+      <band id="4549">Hemsworth Colliery</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="116614">
+      <result code="2">2</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="116615">
+      <result code="3">3</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="298020">William Blackburn</conductor>
+    </result>
+    
+    <result id="116616">
+      <result code="4">4</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="309028">Isaac Shepherd</conductor>
+    </result>
+    
+    <result id="116617">
+      <result code="">Unknown Result</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="308298">Marshall Roberts</conductor>
+    </result>
+    
+    <result id="116618">
+      <result code="">Unknown Result</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="307097">William Park</conductor>
+    </result>
+    
+    <result id="116619">
+      <result code="">Unknown Result</result>
+      <band id="632">Royston Town</band>
+      <conductor id="298690">George Buckle</conductor>
+    </result>
+    
+    <result id="116620">
+      <result code="">Unknown Result</result>
+      <band id="8159">Rotherham and Masbrough</band>
+      <conductor id="311755">E. Wilson</conductor>
+    </result>
+    
+    <result id="116621">
+      <result code="">Unknown Result</result>
+      <band id="6017">Whitwood Colliery</band>
+      <conductor id="311594">Charles Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

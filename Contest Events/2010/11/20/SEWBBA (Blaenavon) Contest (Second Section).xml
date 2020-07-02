@@ -1,0 +1,61 @@
+<contest-event id="43804">
+  <event-date date="2010-11-20">Nov. 20, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Blaenavon) Contest (Second Section)</name>
+  <contest id="1477">
+    <name>SEWBBA (Blaenavon) Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="70">SEWBBA (Blaenavon) Contest</group>
+    <slug>sewbba-blaenavon-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="286">A Salford Sinfonietta</test-piece>
+  </test-piece>
+
+  <venue id="156">Workmen&#39;s Hall, Blaenavon</venue>
+  <notes>Prizes - 1st £350, 2nd £250, 3rd £150.
+4 bands competed.</notes>
+
+  <created>July 1, 2020, 9:33 p.m.</created>
+  <last-modified>July 1, 2020, 9:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="320230">
+      <result code="1">1</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="308253">Gareth Ritter</conductor>
+    </result>
+    
+    <result id="320231">
+      <result code="2">2</result>
+      <band id="358">Cross Keys Silver Band</band>
+      <conductor id="298259">Kerry Bowden</conductor>
+    </result>
+    
+    <result id="320232">
+      <result code="3">3</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="300158">Glyn Davies</conductor>
+    </result>
+    
+    <result id="320233">
+      <result code="4">4</result>
+      <band id="463">Upper Rhondda Brass Band</band>
+      <conductor id="306878">Patrick O&#39;Leary</conductor>
+    </result>
+    
+    <result id="320229">
+      <result code="W">Withdrawn</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="303987">Christian Jenkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

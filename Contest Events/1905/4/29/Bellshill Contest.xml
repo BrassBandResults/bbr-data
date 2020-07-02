@@ -1,0 +1,98 @@
+<contest-event id="10008">
+  <event-date date="1905-4-29">April 29, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bellshill Contest</name>
+  <contest id="1821">
+    <name>Bellshill Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="233">Bellshill Contest</group>
+    <slug>bellshill-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1585">Mikado</test-piece>
+  </test-piece>
+
+  <venue id="1279">Bellshill, Lanarkshire</venue>
+  <notes>Prizes - 1st £10, 2nd £6, 3rd £5,m 4th £3., 5th prize £2 and 6th prize £1 divided between Kilsyth and Co-op Bakery. 7th prize 10s.
+  March contest 1st (£1) Glasgow Loco Works, 2nd (10s.) divided between Douglas Colliery and Sauchie.
+</notes>
+
+  <created>Feb. 5, 2012, 3:14 p.m.</created>
+  <last-modified>April 24, 2020, 6:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84815">
+      <result code="1">1</result>
+      <band id="5231">Glasgow Loco Works</band>
+      <conductor id="305856">J. McDade</conductor>
+    </result>
+    
+    <result id="84816">
+      <result code="2">2</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="84817">
+      <result code="3">3</result>
+      <band id="5234">Dykehead</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+    </result>
+    
+    <result id="84818">
+      <result code="4">4</result>
+      <band id="9634">Coatbridge St. Augustine&#39;s</band>
+      <conductor id="298369">H. Brankin</conductor>
+    </result>
+    
+    <result id="84820">
+      <result code="5">5</result>
+      <band id="5503">Glasgow Co-op Bakery</band>
+      <conductor id="300014">W. Curtis</conductor>
+    </result>
+    
+    <result id="84819">
+      <result code="5">5</result>
+      <band id="5551">Kilsyth Miners&#39; Welfare</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="84821">
+      <result code="7">7</result>
+      <band id="6557">Springburn Public</band>
+      <conductor id="307727">A. Prime</conductor>
+    </result>
+    
+    <result id="84824">
+      <result code="">Unknown Result</result>
+      <band id="4991">Cumbernauld</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84823">
+      <result code="">Unknown Result</result>
+      <band id="6555">Milngavie</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84825">
+      <result code="">Unknown Result</result>
+      <band id="5583">Rutherglen Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84822">
+      <result code="">Unknown Result</result>
+      <band id="5469">Sauchie &amp; District</band>
+      <conductor id="306027">Frank Mellor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

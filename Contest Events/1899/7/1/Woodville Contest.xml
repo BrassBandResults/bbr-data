@@ -1,0 +1,51 @@
+<contest-event id="28729">
+  <event-date date="1899-7-1">July 1, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Woodville Contest</name>
+  <contest id="1014">
+    <name>Woodville Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>woodville-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1342">Woodville, Derbyshire, England, UK</venue>
+  <notes>Promoted by the South Derbyshire League
+
+3 bands competed
+</notes>
+
+  <created>June 24, 2014, 1:31 p.m.</created>
+  <last-modified>June 24, 2014, 1:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="205441">
+      <result code="1">1</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205439">
+      <result code="2">2</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205440">
+      <result code="3">3</result>
+      <band id="11496">Swadlincote Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

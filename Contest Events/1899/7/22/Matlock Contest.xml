@@ -1,0 +1,90 @@
+<contest-event id="6997">
+  <event-date date="1899-7-22">July 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Matlock Contest</name>
+  <contest id="1205">
+    <name>Matlock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>matlock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1097">Old English Hotel, Matlock Bridge</venue>
+  <notes>Promoted by Matlock United Prize Brass Band
+
+1st prize £6.
+2nd prize £4.
+3rd prize £2.
+4th prize £1.
+
+March contest held on same day:
+
+1.(£1) Handsworth Woodhouse
+2.(10s.) Barrow Hill
+
+8 bands competed.</notes>
+
+  <created>Aug. 13, 2011, 10:40 a.m.</created>
+  <last-modified>Aug. 9, 2013, 7:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="61784">
+      <result code="1">1</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="299621">J. W. Cook</conductor>
+    </result>
+    
+    <result id="61785">
+      <result code="2">2</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="301210">R. Few</conductor>
+    </result>
+    
+    <result id="61786">
+      <result code="3">3</result>
+      <band id="11888">Bestwood Colliery</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="61787">
+      <result code="4">4</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="61788">
+      <result code="">Unknown Result</result>
+      <band id="5186">Alfreton Church</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61789">
+      <result code="">Unknown Result</result>
+      <band id="5187">Codnor Primitives</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61790">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61791">
+      <result code="">Unknown Result</result>
+      <band id="1670">Staveley Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

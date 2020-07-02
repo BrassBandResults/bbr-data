@@ -1,0 +1,70 @@
+<contest-event id="15385">
+  <event-date date="1898-9-17">Sept. 17, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Contest</name>
+  <contest id="1046">
+    <name>Newcastle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="160">Newcastle upon Tyne Contest</group>
+    <slug>newcastle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1255">La Sonnambula [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2497">Newcastle-upon-Tyne</venue>
+  <notes>Northern Association Junior Contest
+
+Prizes: £5, £3, £2, £1, 10s
+March contest: 1.  Jarrow Borough, 2. Sunderland East End
+</notes>
+
+  <created>Oct. 15, 2012, 5:55 p.m.</created>
+  <last-modified>Jan. 28, 2020, 4:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119108">
+      <result code="1">1</result>
+      <band id="8050">St Paul&#39;s Gateshead</band>
+      <conductor id="309619">J. B. Stack</conductor>
+    </result>
+    
+    <result id="119109">
+      <result code="2">2</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="119110">
+      <result code="3">3</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="305455">John Mackintosh</conductor>
+    </result>
+    
+    <result id="119111">
+      <result code="4">4</result>
+      <band id="8430">Felling Temperance</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+    <result id="119112">
+      <result code="5">5</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="307392">George Perry</conductor>
+    </result>
+    
+    <result id="314983">
+      <result code="6">6</result>
+      <band id="8437">Dudley Temperance [Northumberland]</band>
+      <conductor id="319847">R. Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

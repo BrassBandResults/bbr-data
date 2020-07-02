@@ -1,0 +1,43 @@
+<contest-event id="26119">
+  <event-date date="1939-7-1">July 1, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 2)</name>
+  <contest id="2881">
+    <name>Royal Tunbridge Wells Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="4433">Queen&#39;s Lawns, Margate</venue>
+  <notes>Royal Tunbridge Wells &amp; District Band Federation 1st open band contest. 
+2 bands competed</notes>
+
+  <created>Jan. 23, 2014, 11:38 p.m.</created>
+  <last-modified>Jan. 25, 2019, 11:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189033">
+      <result code="1">1</result>
+      <band id="11780">Sevenoaks Town</band>
+      <conductor id="300613">A. Dunkley</conductor>
+    </result>
+    
+    <result id="189034">
+      <result code="2">2</result>
+      <band id="10718">Glynn Vivian Miners&#39; Mission (Deal)</band>
+      <conductor id="297200">R. Aston</conductor>
+    </result>
+    
+  </results>
+</contest-event>

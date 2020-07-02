@@ -1,0 +1,62 @@
+<contest-event id="12025">
+  <event-date date="1894-6-4">June 4, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holbeach Contest</name>
+  <contest id="2450">
+    <name>Holbeach Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>holbeach-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4386">Holbeach, Lincolnshire, England, UK</venue>
+  <notes>Trombone prize: Gainsborough Britannia
+Prizes: £10, £4, £2
+Five bands competed</notes>
+
+  <created>April 8, 2012, 9:59 p.m.</created>
+  <last-modified>Nov. 26, 2019, 12:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96629">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="297727">William Belcher</conductor>
+    </result>
+    
+    <result id="96630">
+      <result code="2">2</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="96631">
+      <result code="3">3</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="97571">
+      <result code="">Unknown Result</result>
+      <band id="4214">March Brass 2000</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="97570">
+      <result code="">Unknown Result</result>
+      <band id="491">Stamford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

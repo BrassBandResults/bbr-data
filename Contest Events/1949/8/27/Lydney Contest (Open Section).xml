@@ -1,0 +1,56 @@
+<contest-event id="35578">
+  <event-date date="1949-8-27">Aug. 27, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest (Open Section)</name>
+  <contest id="3434">
+    <name>Lydney Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="480">Lydney Contest</group>
+    <slug>lydney-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1375">Recollections of Beethoven [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="1846">Lydney, Gloucestershire</venue>
+  <notes>March contest - 1st Drybrook, 2nd Lydney.
+Prizes - 1st £30, 2nd £15, 3rd £10.
+</notes>
+
+  <created>June 30, 2016, 9:54 a.m.</created>
+  <last-modified>March 1, 2019, 12:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="258327">
+      <result code="1">1</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258328">
+      <result code="2">2</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258329">
+      <result code="3">3</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258330">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="35708">
+  <event-date date="1951-7-14">July 14, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest</name>
+  <contest id="2491">
+    <name>Lydney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lydney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1846">Lydney, Gloucestershire</venue>
+  <notes>March contest - 1st Cory, 2nd Drybrook.
+Prizes - 1st £40 and cup, 2nd £20, 3rd £10.
+5 bands competed.
+</notes>
+
+  <created>July 11, 2016, 2:59 p.m.</created>
+  <last-modified>March 18, 2020, 3:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259047">
+      <result code="1">1</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="259048">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+    <result id="316192">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="304261">Oliver Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

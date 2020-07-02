@@ -1,0 +1,73 @@
+<contest-event id="21762">
+  <event-date date="1903-4-13">April 13, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wigan Contest</name>
+  <contest id="799">
+    <name>Wigan Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="153">Wigan Contest</group>
+    <slug>wigan-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2393">Casket of Gems</test-piece>
+  </test-piece>
+
+  <venue id="3884">Springfield Park, Wigan (existed 1897-1999)</venue>
+  <notes>  Prizes  -  1st £12, 2nd £8, 3rd £5, 4th £3, 5th £1.
+  7 bands competed.</notes>
+
+  <created>June 9, 2013, 9:41 a.m.</created>
+  <last-modified>Aug. 22, 2013, 9:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="161648">
+      <result code="1">1</result>
+      <band id="3307">Standish Subscription</band>
+      <conductor id="315076">John Rutter</conductor>
+    </result>
+    
+    <result id="161649">
+      <result code="2">2</result>
+      <band id="18682">Crooke</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="161650">
+      <result code="3">3</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="307686">Thomas Preston</conductor>
+    </result>
+    
+    <result id="161651">
+      <result code="4">4</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="161652">
+      <result code="5">5</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="303264">H. Holden</conductor>
+    </result>
+    
+    <result id="161653">
+      <result code="">Unknown Result</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="161654">
+      <result code="">Unknown Result</result>
+      <band id="2584">Lower Ince Temperance</band>
+      <conductor id="296931">T. Allsop</conductor>
+    </result>
+    
+  </results>
+</contest-event>

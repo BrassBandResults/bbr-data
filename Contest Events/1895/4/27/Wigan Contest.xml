@@ -1,0 +1,92 @@
+<contest-event id="12406">
+  <event-date date="1895-4-27">April 27, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wigan Contest</name>
+  <contest id="799">
+    <name>Wigan Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="153">Wigan Contest</group>
+    <slug>wigan-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1872">Aurora [Round]</test-piece>
+  </test-piece>
+
+  <venue id="6679">Football Ground, Pemberton, Lancashire</venue>
+  <notes>Promoted by Wigan Rifles Band
+March contest: 1. Pemberton, 2. Wingates &amp; Gossages shared
+10 bands competed.</notes>
+
+  <created>April 13, 2012, 10:11 p.m.</created>
+  <last-modified>June 15, 2019, 9:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99203">
+      <result code="1">1</result>
+      <band id="18682">Crooke</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99204">
+      <result code="2">2</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99205">
+      <result code="3">3</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99206">
+      <result code="4">4</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99207">
+      <result code="5">5</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="99208">
+      <result code="">Unknown Result</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99209">
+      <result code="">Unknown Result</result>
+      <band id="3307">Standish Subscription</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="99210">
+      <result code="">Unknown Result</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99212">
+      <result code="">Unknown Result</result>
+      <band id="6996">Widnes St. Mary&#39;s</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="99211">
+      <result code="">Unknown Result</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

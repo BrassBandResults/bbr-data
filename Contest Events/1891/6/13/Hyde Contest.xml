@@ -1,0 +1,75 @@
+<contest-event id="17959">
+  <event-date date="1891-6-13">June 13, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hyde Contest</name>
+  <contest id="3235">
+    <name>Hyde Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hyde</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2770">The Bohemian Girl [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2955">Kingston Mills, Hyde</venue>
+  <notes>Promoted by Kingston Mills Band
+It is not known who the conductor of Mossley or Oldham Rifles were at this contest, but it is possible that Alexander Owen conducted all 7 bands.
+10 bands entered, 7 competed
+Prizes: £23 2s, £16 16s, £10 10s, £5 5s, £2 2s</notes>
+
+  <created>Feb. 6, 2013, 5:57 p.m.</created>
+  <last-modified>May 27, 2019, 5:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193418">
+      <result code="1">1</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="193419">
+      <result code="2">2</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="193420">
+      <result code="3">3</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="193421">
+      <result code="4">4</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="193422">
+      <result code="5">5</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="284262">
+      <result code="">Unknown Result</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284263">
+      <result code="">Unknown Result</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

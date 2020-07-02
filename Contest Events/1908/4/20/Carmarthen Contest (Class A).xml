@@ -1,0 +1,67 @@
+<contest-event id="40295">
+  <event-date date="1908-4-20">April 20, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carmarthen Contest (Class A)</name>
+  <contest id="3390">
+    <name>Carmarthen Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="352">Carmarthen Contest</group>
+    <slug>carmarthen-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3740">Rossini&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="1487">Carmarthen, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £12, 2nd £6, 3rd £3.
+6 bands competed</notes>
+
+  <created>Sept. 21, 2018, 1:24 p.m.</created>
+  <last-modified>Sept. 21, 2018, 1:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293192">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="293197">
+      <result code="2">2</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David Williams</conductor>
+    </result>
+    
+    <result id="293193">
+      <result code="3">3</result>
+      <band id="7482">Cwmtawe District Training Band</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="293194">
+      <result code="">Unknown Result</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="306340">H. H. Morgan</conductor>
+    </result>
+    
+    <result id="293195">
+      <result code="">Unknown Result</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="311943">Jim Woodhead</conductor>
+    </result>
+    
+    <result id="293196">
+      <result code="">Unknown Result</result>
+      <band id="6966">Protheroe&#39;s Silver</band>
+      <conductor id="309725">D. Stephens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

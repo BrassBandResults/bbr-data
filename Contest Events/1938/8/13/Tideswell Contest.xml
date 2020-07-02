@@ -1,0 +1,62 @@
+<contest-event id="26121">
+  <event-date date="1938-8-13">Aug. 13, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tideswell Contest</name>
+  <contest id="2676">
+    <name>Tideswell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tideswell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1276">Recollections of Balfe</test-piece>
+  </test-piece>
+
+  <venue id="4434">Tideswell, Derbyshire, England, UK</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £7, 3rd £4.
+  March contest - 1st Buxton Borough, 2nd Peak Dale.
+  5 bands competed.</notes>
+
+  <created>Jan. 24, 2014, 10:54 a.m.</created>
+  <last-modified>Jan. 23, 2019, 11:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189048">
+      <result code="1">1</result>
+      <band id="2558">Peak Dale Public</band>
+      <conductor id="302437">Reginald Hallam</conductor>
+    </result>
+    
+    <result id="189049">
+      <result code="2">2</result>
+      <band id="4371">Trafford Park Public</band>
+      <conductor id="304957">F. S. Leech</conductor>
+    </result>
+    
+    <result id="189050">
+      <result code="3">3</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="189052">
+      <result code="">Unknown Result</result>
+      <band id="11380">Buxton Borough</band>
+      <conductor id="311653">O. Williams</conductor>
+    </result>
+    
+    <result id="189051">
+      <result code="">Unknown Result</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

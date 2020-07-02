@@ -1,0 +1,55 @@
+<contest-event id="13027">
+  <event-date date="1896-8-1">Aug. 1, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Witton Park Contest</name>
+  <contest id="2136">
+    <name>Witton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>witton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1554">Witton Park, County Durham</venue>
+  <notes>Prizes: £11, £6
+4 bands competed</notes>
+
+  <created>April 30, 2012, 8:16 p.m.</created>
+  <last-modified>July 1, 2019, 10:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103741">
+      <result code="1">1</result>
+      <band id="6085">New Shildon Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="103742">
+      <result code="2">2</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="103743">
+      <result code="">Unknown Result</result>
+      <band id="6195">Beamish</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103744">
+      <result code="">Unknown Result</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

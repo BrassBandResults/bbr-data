@@ -1,0 +1,72 @@
+<contest-event id="16737">
+  <event-date date="1949-5-21">May 21, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest (First Section)</name>
+  <contest id="1568">
+    <name>Rhyl Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="108">Lorenzo</test-piece>
+  </test-piece>
+
+  <venue id="1029">Winter Gardens, Rhyl</venue>
+  <notes>British Bandsman May 28th page 4 states that 4th/5th was divided between Leyland Motors and Barrow Shipyard.  Page 7 of the same issue gives a tie of 4th/5th between Barrow Shipyard and Irwell Springs.</notes>
+
+  <created>Dec. 4, 2012, 10:47 a.m.</created>
+  <last-modified>May 26, 2016, 11:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="128239">
+      <result code="1">1</result>
+      <band id="493">City of Birmingham Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="128240">
+      <result code="2">2</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="311432">Alfred Whitehead</conductor>
+    </result>
+    
+    <result id="128241">
+      <result code="3">3</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="304256">Norman Jones</conductor>
+    </result>
+    
+    <result id="128243">
+      <result code="">Unknown Result</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="190608">
+      <result code="">Unknown Result</result>
+      <band id="1650">Cadishead Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="128244">
+      <result code="">Unknown Result</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="301697">Frederick Lonsdale Garth</conductor>
+    </result>
+    
+    <result id="128242">
+      <result code="">Unknown Result</result>
+      <band id="8">Leyland Band</band>
+      <conductor id="306456">Harold Moss</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="25833">
+  <event-date date="1932-7-30">July 30, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cinderford Contest</name>
+  <contest id="2783">
+    <name>Cinderford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cinderford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3271">Cinderford, Gloucestershire, England, UK</venue>
+  <notes>March contest - 1st Bristol N.U.R., 2nd Bream, 3rd Cwm.
+5 bands competed.</notes>
+
+  <created>Jan. 12, 2014, 10:36 p.m.</created>
+  <last-modified>Dec. 21, 2018, 10:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187259">
+      <result code="1">1</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="307395">Herbert S. Perry</conductor>
+    </result>
+    
+    <result id="265309">
+      <result code="2">2</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="265310">
+      <result code="3">3</result>
+      <band id="793">Cwm Town Band</band>
+      <conductor id="308420">Scott P. Rogers</conductor>
+    </result>
+    
+    <result id="265311">
+      <result code="4">4</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="305996">C. F. Meek</conductor>
+    </result>
+    
+    <result id="265312">
+      <result code="">Unknown Result</result>
+      <band id="359">Bream Silver Band</band>
+      <conductor id="304203">Evan Jones</conductor>
+    </result>
+    
+    <result id="265313">
+      <result code="">Unknown Result</result>
+      <band id="10464">Cinderford Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

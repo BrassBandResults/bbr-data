@@ -1,0 +1,51 @@
+<contest-event id="26228">
+  <event-date date="1939-8-19">Aug. 19, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest (Section A)</name>
+  <contest id="5086">
+    <name>Dearham Contest (Section A)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1369">L&#39;italiana in Algeri [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>Prizes - 1st £30 and cup, 2nd £20, 3rd £12, 4th £8.
+  March contest - 1st Carlisle St Stephens, 2nd Workington Town.
+  3 bands competed.
+</notes>
+
+  <created>Jan. 30, 2014, 2:52 p.m.</created>
+  <last-modified>Jan. 24, 2019, 10:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189888">
+      <result code="1">1</result>
+      <band id="660">Carlisle St. Stephens Band</band>
+      <conductor id="305330">William Lowes</conductor>
+    </result>
+    
+    <result id="189889">
+      <result code="2">2</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="189890">
+      <result code="3">3</result>
+      <band id="1510">Workington</band>
+      <conductor id="304478">W. Kerr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,87 @@
+<contest-event id="39612">
+  <event-date date="1911-8-19">Aug. 19, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkcaldy Contest</name>
+  <contest id="1019">
+    <name>Kirkcaldy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkcaldy-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="582">Raith Park, Kirkcaldy, Fife, Scotland, UK</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £15, 3rd £10, 4th £5, 5th £3.
+8 bands competed.</notes>
+
+  <created>May 17, 2018, 8:55 p.m.</created>
+  <last-modified>May 17, 2018, 9:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287197">
+      <result code="1">1</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="3042">The Flying Dutchman [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="287196">
+      <result code="2">2</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+      <test-piece id="3042">The Flying Dutchman [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="287198">
+      <result code="3">3</result>
+      <band id="4533">Polton Mills</band>
+      <conductor id="298610">John Brown</conductor>
+      <test-piece id="2204">Weber&#39;s Works</test-piece>
+    </result>
+    
+    <result id="287194">
+      <result code="4">4</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="287195">
+      <result code="5">5</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1642">Leonora</test-piece>
+    </result>
+    
+    <result id="287193">
+      <result code="">Unknown Result</result>
+      <band id="5227">Dunnikier Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="287199">
+      <result code="">Unknown Result</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="305725">David Mathieson</conductor>
+      <test-piece id="2116">For King and Country</test-piece>
+    </result>
+    
+    <result id="287200">
+      <result code="">Unknown Result</result>
+      <band id="2106">St John&#39;s (Port Glasgow)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="921">L&#39;Africaine [arr. Grosse]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

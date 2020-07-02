@@ -1,0 +1,60 @@
+<contest-event id="35129">
+  <event-date date="1929-4-3">April 3, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1022">The Water Carrier</test-piece>
+  </test-piece>
+
+  <venue id="6066">Mackay, Queensland, Australia</venue>
+  <notes>Two Test Selections 
+No.2 points listed under Own Choice, 
+Compulsory Disciplines
+Opera Selection (  Music Own Choice )
+Hymn Tune        (  &quot;  &quot;  &quot;  &quot;  &quot;  &quot;  &quot;  &quot;  &quot;   )
+Street March Music ( &quot;  &quot;  &quot;  &quot;  &quot;  &quot;  &quot;  &quot;  )
+Oval March  Test Music  &quot;  The Vanquished&quot;</notes>
+
+  <created>April 19, 2016, 6:41 a.m.</created>
+  <last-modified>Jan. 31, 2019, 12:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253229">
+      <result code="1">1</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="318856">F. G. W. McLeod</conductor>
+    </result>
+    
+    <result id="253228">
+      <result code="1">1</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+    <result id="253231">
+      <result code="3">3</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="299893">Len Crew</conductor>
+    </result>
+    
+    <result id="253230">
+      <result code="4">4</result>
+      <band id="13737">Cairns Railway</band>
+      <conductor id="302934">J. Henry</conductor>
+    </result>
+    
+  </results>
+</contest-event>

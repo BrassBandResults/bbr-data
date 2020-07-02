@@ -1,0 +1,51 @@
+<contest-event id="18512">
+  <event-date date="1952-11-29">Nov. 29, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northants Amateur Brass Band Association (Championship Section)</name>
+  <contest id="2884">
+    <name>Northants Amateur Brass Band Association (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="284">Northants Amateur Brass Band Association</group>
+    <slug>northants-amateur-brass-band-association-2884</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2347">Schubert&#39;s Unfinished Symphony [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2217">Windmill Hall, Rushden, Northamptonshire, England, UK</venue>
+  <notes>
+  March contest  1st Rushden, 2nd Finedon, 3rd Raunds.
+
+  5 bands competed.</notes>
+
+  <created>Feb. 23, 2013, 5:05 p.m.</created>
+  <last-modified>Feb. 23, 2013, 5:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="139241">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="308803">William Scholes</conductor>
+    </result>
+    
+    <result id="139242">
+      <result code="2">2</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308051">A. G. Remington</conductor>
+    </result>
+    
+    <result id="139243">
+      <result code="3">3</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="307359">Owen Pentelow</conductor>
+    </result>
+    
+  </results>
+</contest-event>

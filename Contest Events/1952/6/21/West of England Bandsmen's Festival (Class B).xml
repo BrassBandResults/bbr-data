@@ -1,0 +1,68 @@
+<contest-event id="18386">
+  <event-date date="1952-6-21">June 21, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Bandsmen&#39;s Festival (Class B)</name>
+  <contest id="4257">
+    <name>West of England Bandsmen&#39;s Festival (Class B)</name>
+    <order>510</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="60">West of England Bandsmen&#39;s Festival (Bugle)</group>
+    <slug>west-of-england-bandsmen-s-festival-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2453">Melodies of Long Ago</test-piece>
+  </test-piece>
+
+  <venue id="3510">Peniel Farm, Bugle, Cornwall, England, UK</venue>
+  <notes>Chorus contest (&#39;O Father Whose Almighty Power&#39; - Handel):
+1 St Stythians, 83
+2 St Ives, 80
+3 Indian Queens, 78
+
+Best Player:
+1 Vivian Downing, St. Stythians
+2 J. Yelland, Indian Queens
+3 R. Gluyas, St. Stythians</notes>
+
+  <created>Feb. 19, 2013, 4:49 p.m.</created>
+  <last-modified>May 20, 2013, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="138689">
+      <result code="1">1</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="301358">E. Floyd</conductor>
+    </result>
+    
+    <result id="138690">
+      <result code="2">2</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="298418">C. E. Brewer</conductor>
+    </result>
+    
+    <result id="138691">
+      <result code="3">3</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="138692">
+      <result code="4">4</result>
+      <band id="1777">Indian Queens Silver</band>
+      <conductor id="304625">Ford Knight</conductor>
+    </result>
+    
+    <result id="138693">
+      <result code="5">5</result>
+      <band id="2459">St Ives Town</band>
+      <conductor id="299654">Stanley Coombes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

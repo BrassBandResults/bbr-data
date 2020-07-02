@@ -1,0 +1,43 @@
+<contest-event id="41528">
+  <event-date date="1930-8-16">Aug. 16, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Allendale Contest (Local Section)</name>
+  <contest id="6458">
+    <name>Allendale Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>allendale-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="1234">Allendale, Northumberland, England, UK</venue>
+  <notes>March contest - 1st Braes of Allen.
+Prizes - 1st £5 and cup, 2nd £2.</notes>
+
+  <created>Dec. 10, 2018, 1:47 p.m.</created>
+  <last-modified>Dec. 10, 2018, 2:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="302032">
+      <result code="1">1</result>
+      <band id="10439">Braes of Allen</band>
+      <conductor id="301235">H. Fieldsend</conductor>
+    </result>
+    
+    <result id="302033">
+      <result code="2">2</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="302575">J. G. Harding</conductor>
+    </result>
+    
+  </results>
+</contest-event>

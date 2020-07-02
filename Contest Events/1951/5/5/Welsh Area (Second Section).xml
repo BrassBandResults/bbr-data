@@ -1,0 +1,60 @@
+<contest-event id="20325">
+  <event-date date="1951-5-5">May 5, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Second Section)</name>
+  <contest id="41">
+    <name>Welsh Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="526">The English Maiden</test-piece>
+  </test-piece>
+
+  <venue id="3084">Welfare Hall, Gwaun-cae-Gurwen</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>April 6, 2013, 12:51 p.m.</created>
+  <last-modified>July 7, 2016, 10:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="150782">
+      <result code="1">1</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="306339">Harold Morgan</conductor>
+    </result>
+    
+    <result id="169215">
+      <result code="2">2</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="304261">Oliver Jones</conductor>
+    </result>
+    
+    <result id="192883">
+      <result code="3">3</result>
+      <band id="8725">Bridgend &amp; District Silver</band>
+      <conductor id="298663">A. R. Bryant</conductor>
+    </result>
+    
+    <result id="192884">
+      <result code="">Unknown Result</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="299098">A. Casey</conductor>
+    </result>
+    
+    <result id="192885">
+      <result code="">Unknown Result</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="298696">Cornelius Buckley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

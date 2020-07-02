@@ -1,0 +1,61 @@
+<contest-event id="25822">
+  <event-date date="1931-6-25">June 25, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Selby Contest</name>
+  <contest id="1400">
+    <name>Selby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>selby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4381">Recreation Ground, Selby, Yorkshire</venue>
+  <notes>Prizes - 1st £14, 2nd £7, 3rd £3.
+March: 1. Bentley, 2. Stanley, 3. Rowntrees</notes>
+
+  <created>Jan. 12, 2014, 4:44 p.m.</created>
+  <last-modified>Dec. 14, 2018, 5:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187213">
+      <result code="1">1</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="312007">W. Wormald</conductor>
+    </result>
+    
+    <result id="187215">
+      <result code="2">2</result>
+      <band id="432">Shepherd Group Band</band>
+      <conductor id="304757">H. Lambert</conductor>
+    </result>
+    
+    <result id="187216">
+      <result code="3">3</result>
+      <band id="441">Stanley Newmarket Colliery Band</band>
+      <conductor id="303285">Percy Holgate</conductor>
+    </result>
+    
+    <result id="187217">
+      <result code="4">4</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="309668">Pierre Stapleton</conductor>
+    </result>
+    
+    <result id="187214">
+      <result code="5">5</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

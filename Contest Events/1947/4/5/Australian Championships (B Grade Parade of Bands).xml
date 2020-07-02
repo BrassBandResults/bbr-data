@@ -1,0 +1,50 @@
+<contest-event id="41926">
+  <event-date date="1947-4-5">April 5, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade Parade of Bands)</name>
+  <contest id="3015">
+    <name>Australian Championships (B Grade Parade of Bands)</name>
+    <order>1020</order>
+    <contest-type id="20">March Contest (Music and Inspection Points)</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade-parade-of-bands</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="20">March Contest (Music and Inspection Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="936">Maryborough, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>March 12, 2019, 10:24 p.m.</created>
+  <last-modified>March 12, 2019, 10:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="305486">
+      <result code="1">1</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+      <test-piece id="5886">March: Oriental</test-piece>
+    </result>
+    
+    <result id="305487">
+      <result code="1">1</result>
+      <band id="12957">Maryborough City Band [Queensland]</band>
+      <conductor id="304416">James Kelly</conductor>
+      <test-piece id="2607">March: The Cossack</test-piece>
+    </result>
+    
+    <result id="305488">
+      <result code="3">3</result>
+      <band id="17788">Toowoomba R S L Municipal  (Qld)</band>
+      <conductor id="302995">Norm Hestridge</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="25476">
+  <event-date date="1922-8-19">Aug. 19, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 1)</name>
+  <contest id="1043">
+    <name>Royal Tunbridge Wells Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="927">Giralda [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4325">Rangers Football Ground, Tunbridge Wells, Kent</venue>
+  <notes>March: 1. Crowborough, 2. Copthorne</notes>
+
+  <created>Dec. 8, 2013, 8:42 p.m.</created>
+  <last-modified>Dec. 8, 2013, 8:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185015">
+      <result code="1">1</result>
+      <band id="3959">Copthorne Silver Band</band>
+      <conductor id="300877">W. Ellis</conductor>
+    </result>
+    
+    <result id="185014">
+      <result code="2">2</result>
+      <band id="8142">Crowborough Silver</band>
+      <conductor id="298446">Thomas Briggs</conductor>
+    </result>
+    
+    <result id="185012">
+      <result code="W">Withdrawn</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185013">
+      <result code="W">Withdrawn</result>
+      <band id="8682">Whyteleafe Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

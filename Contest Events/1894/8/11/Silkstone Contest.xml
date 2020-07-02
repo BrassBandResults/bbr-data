@@ -1,0 +1,56 @@
+<contest-event id="12270">
+  <event-date date="1894-8-11">Aug. 11, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Silkstone Contest</name>
+  <contest id="1614">
+    <name>Silkstone Contest</name>
+    <order>0</order>
+    <contest-type id="7">March &amp; Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>silkstone-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1780">Gems of Scotia</test-piece>
+  </test-piece>
+
+  <venue id="1865">Silkstone</venue>
+  <notes>Prizes: £12, £7, £4, £2 and Trombone
+
+March contest: 1. Wharncliffe Silkstone, 2. Thurlstone</notes>
+
+  <created>April 11, 2012, 4:34 p.m.</created>
+  <last-modified>April 11, 2012, 4:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98342">
+      <result code="1">1</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="310695">J. Tyas</conductor>
+    </result>
+    
+    <result id="98343">
+      <result code="2">2</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="98344">
+      <result code="3">3</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="305235">W. Lomas</conductor>
+    </result>
+    
+    <result id="98345">
+      <result code="4">4</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

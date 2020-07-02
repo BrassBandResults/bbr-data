@@ -1,0 +1,58 @@
+<contest-event id="16906">
+  <event-date date="1946-3-16">March 16, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Youth)</name>
+  <contest id="1121">
+    <name>North West Area (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-youth</slug>
+    <qualifies-for id="997">National Youth Brass Band Championships</qualifies-for>
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="590">Belle Vue (Kings Hall), Manchester, Greater Manchester, England, UK</venue>
+  <notes>
+
+  Prizes  1st £10 and Daily Herald Challenge Bowl, 2nd 8, 3rd £5, 4th £3.
+
+  6 bands competed.</notes>
+
+  <created>Dec. 6, 2012, 10:24 a.m.</created>
+  <last-modified>Dec. 6, 2012, 10:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="128916">
+      <result code="1">1</result>
+      <band id="223">Besses Boys Band</band>
+      <conductor id="318454">James Wright</conductor>
+    </result>
+    
+    <result id="128917">
+      <result code="2">2</result>
+      <band id="10080">Newton Heath Boys</band>
+      <conductor id="302627">Les Harper</conductor>
+    </result>
+    
+    <result id="128918">
+      <result code="3">3</result>
+      <band id="10081">27th Manchester Coy Boys Brigade</band>
+      <conductor id="302211">D. Griffin</conductor>
+    </result>
+    
+    <result id="128919">
+      <result code="4">4</result>
+      <band id="10013">Nazareth House (Ditton)</band>
+      <conductor id="307555">A. O. Polet</conductor>
+    </result>
+    
+  </results>
+</contest-event>

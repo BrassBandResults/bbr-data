@@ -1,0 +1,55 @@
+<contest-event id="24191">
+  <event-date date="1928-8-25">Aug. 25, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dronfield Contest</name>
+  <contest id="4698">
+    <name>Dronfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dronfield-contest-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi</test-piece>
+  </test-piece>
+
+  <venue id="4074">Dronfield, Derbyshire</venue>
+  <notes>
+  4 bands competed.</notes>
+
+  <created>Oct. 2, 2013, 10:32 a.m.</created>
+  <last-modified>July 12, 2016, 8:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176490">
+      <result code="1">1</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176491">
+      <result code="2">2</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176492">
+      <result code="3">3</result>
+      <band id="8287">Hardwick Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176493">
+      <result code="4">4</result>
+      <band id="3493">Clay Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

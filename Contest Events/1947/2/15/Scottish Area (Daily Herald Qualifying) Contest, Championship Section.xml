@@ -1,0 +1,54 @@
+<contest-event id="17003">
+  <event-date date="1947-2-15">Feb. 15, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Area (Daily Herald Qualifying) Contest, Championship Section</name>
+  <contest id="3679">
+    <name>Scottish Area Qualifying Contest (Championship Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="370">Scottish Area Qualifying Contest</group>
+    <slug>scottish-area-daily-herald-qualifying-co-3679</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="7">Scotland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1351">Akhnaton</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>Dec. 12, 2012, 4:58 p.m.</created>
+  <last-modified>Dec. 12, 2012, 4:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="129499">
+      <result code="1">1</result>
+      <band id="1697">Parkhead Forge (Glasgow)</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="129500">
+      <result code="2">2</result>
+      <band id="1240">West Calder Public Band</band>
+      <conductor id="310210">Charles Telfer</conductor>
+    </result>
+    
+    <result id="129501">
+      <result code="3">3</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="129502">
+      <result code="4">4</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="299061">Edward Sydney Carter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

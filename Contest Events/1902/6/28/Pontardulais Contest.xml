@@ -1,0 +1,55 @@
+<contest-event id="40079">
+  <event-date date="1902-6-28">June 28, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontardulais Contest</name>
+  <contest id="4328">
+    <name>Pontardulais Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontardulais-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5604">A Garland of Song</test-piece>
+  </test-piece>
+
+  <venue id="3568">Pontardulais, Swansea, Wales, UK</venue>
+  <notes>March contest - 1st Cwmtawe, 2nd Trebanos.
+Name of band drawn 3 not given in Brass Band News August 1902.</notes>
+
+  <created>July 6, 2018, 6:52 a.m.</created>
+  <last-modified>July 6, 2018, 6:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291316">
+      <result code="1">1</result>
+      <band id="7482">Cwmtawe District Training Band</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="291318">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302538">F. Hanney</conductor>
+    </result>
+    
+    <result id="291315">
+      <result code="3">3</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David Williams</conductor>
+    </result>
+    
+    <result id="291317">
+      <result code="4">4</result>
+      <band id="6966">Protheroe&#39;s Silver</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

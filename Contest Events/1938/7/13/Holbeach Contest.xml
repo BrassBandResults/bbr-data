@@ -1,0 +1,50 @@
+<contest-event id="26082">
+  <event-date date="1938-7-13">July 13, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holbeach Contest</name>
+  <contest id="2450">
+    <name>Holbeach Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>holbeach-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="800">Poetic Fancies</test-piece>
+  </test-piece>
+
+  <venue id="4386">Holbeach, Lincolnshire, England, UK</venue>
+  <notes>  Prizes - 1st £10.10s. and cup, 2nd £8.8s., 3rd £5.5s.
+  March contest - 1st Crowle, 2nd Boston, 3rd Waltham B.L.
+  Promoted by Holbeach British Legion.</notes>
+
+  <created>Jan. 23, 2014, 9:29 a.m.</created>
+  <last-modified>Jan. 23, 2014, 9:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="188799">
+      <result code="1">1</result>
+      <band id="2622">Crowle Town Silver</band>
+      <conductor id="309668">Pierre Stapleton</conductor>
+    </result>
+    
+    <result id="188800">
+      <result code="2">2</result>
+      <band id="7651">Boston Borough</band>
+      <conductor id="301013">T. Evans</conductor>
+    </result>
+    
+    <result id="188801">
+      <result code="3">3</result>
+      <band id="2681">Waltham British Legion</band>
+      <conductor id="318919">Ellerby Cox Snr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

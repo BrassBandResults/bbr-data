@@ -1,0 +1,48 @@
+<contest-event id="40199">
+  <event-date date="1904-5-21">May 21, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackburn Contest</name>
+  <contest id="3499">
+    <name>Blackburn Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blackburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1290">Blackburn, Lancashire</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Aug. 27, 2018, 10:22 a.m.</created>
+  <last-modified>June 25, 2020, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292241">
+      <result code="1">1</result>
+      <band id="6648">Wilpshire</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="292242">
+      <result code="2">2</result>
+      <band id="7272">Blackburn Old</band>
+      <conductor id="318265">J. E. Marsh</conductor>
+    </result>
+    
+    <result id="292243">
+      <result code="3">3</result>
+      <band id="3792">Blackburn Borough</band>
+      <conductor id="318266">T. Harrison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

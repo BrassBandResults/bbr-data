@@ -1,0 +1,67 @@
+<contest-event id="24379">
+  <event-date date="1928-7-14">July 14, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newhall Contest</name>
+  <contest id="1916">
+    <name>Newhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi</test-piece>
+  </test-piece>
+
+  <venue id="1355">Newhall, Derbyshire</venue>
+  <notes>  Prizes - 1st £12 and cup, 2nd £7 and cup, 3rd £5, 4th £3.
+  6 bands competed.</notes>
+
+  <created>Oct. 7, 2013, 11:30 a.m.</created>
+  <last-modified>Aug. 14, 2016, 9:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="177891">
+      <result code="1">1</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177892">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177893">
+      <result code="3">3</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177894">
+      <result code="4">4</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177896">
+      <result code="">Unknown Result</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177895">
+      <result code="">Unknown Result</result>
+      <band id="4358">Packmoor</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

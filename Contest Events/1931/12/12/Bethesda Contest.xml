@@ -1,0 +1,75 @@
+<contest-event id="24793">
+  <event-date date="1931-12-12">Dec. 12, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bethesda Contest</name>
+  <contest id="1572">
+    <name>Bethesda Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bethesda</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1056">The Golden Age</test-piece>
+  </test-piece>
+
+  <venue id="4197">Bethesda, Gwynedd, Wales, UK</venue>
+  <notes>  March contest - 1st Llanrug, 2nd Cynfi.
+  Hymn tune contest - 1st Flint, 2nd Cynfi.
+Prizes - 1st £12 and cup, 2nd £8, 3rd £4, 
+  7 bands competed.</notes>
+
+  <created>Nov. 1, 2013, 8:20 a.m.</created>
+  <last-modified>Dec. 18, 2018, 11:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="181280">
+      <result code="1">1</result>
+      <band id="5214">Cynfi</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="181281">
+      <result code="2">2</result>
+      <band id="2581">Summers&#39; Steel Works</band>
+      <conductor id="307163">T. Parry</conductor>
+    </result>
+    
+    <result id="181282">
+      <result code="3">3</result>
+      <band id="1348">Flint Town Silver</band>
+      <conductor id="303596">J. A. Hughes</conductor>
+    </result>
+    
+    <result id="181284">
+      <result code="">Unknown Result</result>
+      <band id="9661">Bethesda</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181285">
+      <result code="">Unknown Result</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181286">
+      <result code="">Unknown Result</result>
+      <band id="1554">Ruthin Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181283">
+      <result code="">Unknown Result</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="40768">
+  <event-date date="1923-5-19">May 19, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grays Contest</name>
+  <contest id="1926">
+    <name>Grays Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>grays-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2427">Scenes of Beauty</test-piece>
+  </test-piece>
+
+  <venue id="1365">Grays, Essex, England, UK</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Oct. 17, 2018, 4:06 p.m.</created>
+  <last-modified>Oct. 17, 2018, 4:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296433">
+      <result code="1">1</result>
+      <band id="611">Tilbury</band>
+      <conductor id="306713">G. Nicholls</conductor>
+    </result>
+    
+    <result id="296434">
+      <result code="2">2</result>
+      <band id="8182">Shoeburyness Railway</band>
+      <conductor id="310648">H. G. Turner</conductor>
+    </result>
+    
+    <result id="296435">
+      <result code="3">3</result>
+      <band id="10496">Stanford le Hope</band>
+      <conductor id="300951">C. F. Essen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="33810">
+  <event-date date="1947-4-6">April 6, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="634">Themes From Beethoven&#39;s 8th Symphony</test-piece>
+  </test-piece>
+
+  <venue id="7069">Maryborough Show Ground    Maryborough  Queensland</venue>
+  <notes></notes>
+
+  <created>Jan. 29, 2016, 3:27 a.m.</created>
+  <last-modified>March 11, 2019, 10:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="243092">
+      <result code="1">1</result>
+      <band id="6434">Maryborough Brass [Queensland]</band>
+      <conductor id="304131">Frank Johnston</conductor>
+    </result>
+    
+    <result id="243093">
+      <result code="2">2</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="299574">Jim Compton</conductor>
+    </result>
+    
+    <result id="243095">
+      <result code="3">3</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+    <result id="243094">
+      <result code="4">4</result>
+      <band id="12945">Collinsville Town</band>
+      <conductor id="297279">Perry Axford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

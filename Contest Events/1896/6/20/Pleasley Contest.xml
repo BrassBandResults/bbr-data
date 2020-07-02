@@ -1,0 +1,74 @@
+<contest-event id="12973">
+  <event-date date="1896-6-20">June 20, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pleasley Contest</name>
+  <contest id="2030">
+    <name>Pleasley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pleasley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1460">Pleasley, Derbyshire</venue>
+  <notes>1st annual contest promoted by Pleasley Colliery Band
+Restricted to bands which had not won over £5 in 1895/1896
+11 bands competed
+Prizes: £5, £3, £1 10s
+Cornet medal: E. Trout (Woodhouse)</notes>
+
+  <created>April 29, 2012, 1:30 p.m.</created>
+  <last-modified>June 27, 2019, 9:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="103368">
+      <result code="1">1</result>
+      <band id="292">Riddings Band</band>
+      <conductor id="302480">George Hames</conductor>
+      <test-piece id="2248">Stiffelio [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="103371">
+      <result code="2">2</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="299621">J. W. Cook</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="103370">
+      <result code="3">3</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="149858">
+      <result code="4">4</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="298500">J. Brock</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="103372">
+      <result code="">Unknown Result</result>
+      <band id="7434">Kirkby Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103369">
+      <result code="">Unknown Result</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

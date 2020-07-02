@@ -1,0 +1,50 @@
+<contest-event id="15253">
+  <event-date date="1931-6-13">June 13, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest</name>
+  <contest id="1022">
+    <name>Ruardean Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="356">Ruardean Contest</group>
+    <slug>ruardean-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1066">Gems of Old England</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>Prizes - 1st £12, 2nd £6.
+March contest  1st Bream,  2nd Yorkley Onward.
+5 bands competed.</notes>
+
+  <created>Oct. 12, 2012, 1:58 p.m.</created>
+  <last-modified>Dec. 14, 2018, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118457">
+      <result code="1">1</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="118458">
+      <result code="2">2</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="303209">Dick Hodges</conductor>
+    </result>
+    
+    <result id="118459">
+      <result code="3">3</result>
+      <band id="359">Bream Silver Band</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

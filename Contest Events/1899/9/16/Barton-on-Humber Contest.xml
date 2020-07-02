@@ -1,0 +1,79 @@
+<contest-event id="12676">
+  <event-date date="1899-9-16">Sept. 16, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barton-on-Humber Contest</name>
+  <contest id="2647">
+    <name>Barton-on-Humber Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barton-on-humber-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4884">Brigg Road, Barton-on-Humber, Lincolnshire, England, UK</venue>
+  <notes>  1st prize £6.
+  2nd prize £4.
+  3rd prize £2 and 4th prize £1.10s. divided between Scunthorpe Rifles and East Hull.
+5th prize £1.
+March contest 1st (£1) Scunthorpe Rifles, 2nd (10s.) divided between East Kirkby and Grimsby Borough.
+Best cornet - East Hull.
+Best soprano - Scunthorpe.
+Best euphonium and trombone - Grimsby Borough.</notes>
+
+  <created>April 19, 2012, 4:40 p.m.</created>
+  <last-modified>July 10, 2017, 9:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100977">
+      <result code="1">1</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="100978">
+      <result code="2">2</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="301210">R. Few</conductor>
+    </result>
+    
+    <result id="100979">
+      <result code="3">3</result>
+      <band id="6615">East Hull</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="100980">
+      <result code="3">3</result>
+      <band id="7583">Scunthorpe Rifles</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="100981">
+      <result code="5">5</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="298159">A. W. Bone</conductor>
+    </result>
+    
+    <result id="100982">
+      <result code="">Unknown Result</result>
+      <band id="4589">Brigg Subscription Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100983">
+      <result code="">Unknown Result</result>
+      <band id="7909">Grimsby County</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

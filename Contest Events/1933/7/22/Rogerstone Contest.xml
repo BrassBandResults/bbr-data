@@ -1,0 +1,79 @@
+<contest-event id="23919">
+  <event-date date="1933-7-22">July 22, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rogerstone Contest</name>
+  <contest id="4634">
+    <name>Rogerstone Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rogerstone-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1239">La Traviata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4001">Rogerstone, Newport, Wales, UK</venue>
+  <notes>March contest - 1st Taff Merthyr.
+  8 bands competed.</notes>
+
+  <created>Sept. 16, 2013, 12:34 p.m.</created>
+  <last-modified>Dec. 29, 2018, 10:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="174744">
+      <result code="1">1</result>
+      <band id="8138">Brynmawr R.V</band>
+      <conductor id="309729">Derek Stephens</conductor>
+    </result>
+    
+    <result id="174745">
+      <result code="2">2</result>
+      <band id="787">Oakdale Silver Band</band>
+      <conductor id="307146">David Parr</conductor>
+    </result>
+    
+    <result id="174746">
+      <result code="3">3</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="304040">M. Jeremiah</conductor>
+    </result>
+    
+    <result id="174748">
+      <result code="">Unknown Result</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174750">
+      <result code="">Unknown Result</result>
+      <band id="358">Cross Keys Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174749">
+      <result code="">Unknown Result</result>
+      <band id="793">Cwm Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174747">
+      <result code="">Unknown Result</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174751">
+      <result code="">Unknown Result</result>
+      <band id="8976">Taff Merthyr Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

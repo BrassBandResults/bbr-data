@@ -1,0 +1,86 @@
+<contest-event id="41529">
+  <event-date date="1930-8-23">Aug. 23, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Slaley Contest</name>
+  <contest id="6459">
+    <name>Slaley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>slaley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="7041">Slaley, Northumberland</venue>
+  <notes>March contest - 1st Brancepeth, 2nd Backworth, 3rd Netherton, 4th Bardon Mill.
+9 bands competed.
+Prizes - 1st £15, 2nd £10, 3rd £5..</notes>
+
+  <created>Dec. 10, 2018, 2:28 p.m.</created>
+  <last-modified>Dec. 10, 2018, 2:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="302034">
+      <result code="1">1</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="302035">
+      <result code="2">2</result>
+      <band id="3842">Netherton Colliery Workmens</band>
+      <conductor id="300873">Jack Wright</conductor>
+    </result>
+    
+    <result id="302036">
+      <result code="3">3</result>
+      <band id="4075">Mickley Collery Workmen&#39;s</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="302037">
+      <result code="4">4</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="302575">J. G. Harding</conductor>
+    </result>
+    
+    <result id="302038">
+      <result code="">Unknown Result</result>
+      <band id="7865">Bardon Mill</band>
+      <conductor id="305311">R. Lowden</conductor>
+    </result>
+    
+    <result id="302042">
+      <result code="">Unknown Result</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="302040">
+      <result code="">Unknown Result</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302041">
+      <result code="">Unknown Result</result>
+      <band id="6446">Haydon Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302039">
+      <result code="">Unknown Result</result>
+      <band id="8407">Westwood Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="18381">
+  <event-date date="1952-7-12">July 12, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Second Section)</name>
+  <contest id="3757">
+    <name>Stenalees Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2453">Melodies of Long Ago</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>
+
+  Chorus contest  1st StStythians, 2nd St Just, 3rd St Ives.</notes>
+
+  <created>Feb. 19, 2013, 3:45 p.m.</created>
+  <last-modified>Sept. 15, 2016, 8:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="138668">
+      <result code="1">1</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="301358">E. Floyd</conductor>
+    </result>
+    
+    <result id="138670">
+      <result code="2">2</result>
+      <band id="4285">St. Just Silver</band>
+      <conductor id="308106">A. G. Richards</conductor>
+    </result>
+    
+    <result id="138669">
+      <result code="3">3</result>
+      <band id="2459">St Ives Town</band>
+      <conductor id="299654">Stanley Coombes</conductor>
+    </result>
+    
+    <result id="138667">
+      <result code="">Unknown Result</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="138671">
+      <result code="">Unknown Result</result>
+      <band id="1777">Indian Queens Silver</band>
+      <conductor id="304625">Ford Knight</conductor>
+    </result>
+    
+    <result id="138672">
+      <result code="">Unknown Result</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="298418">C. E. Brewer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

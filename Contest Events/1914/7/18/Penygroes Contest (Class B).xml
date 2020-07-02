@@ -1,0 +1,67 @@
+<contest-event id="40520">
+  <event-date date="1914-7-18">July 18, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Penygroes Contest (Class B)</name>
+  <contest id="3361">
+    <name>Penygroes Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="530">Penygroes Contest</group>
+    <slug>penygroes-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1216">Zaar und Zimmermann</test-piece>
+  </test-piece>
+
+  <venue id="5430">Brynycwar Grounds, Penygroes, Llanelli, Carmarthenshire</venue>
+  <notes>Prizes - 1st £10, 2nd £6, 3rd £3, 4th £1.
+6 bands competed.</notes>
+
+  <created>Oct. 3, 2018, 9:32 p.m.</created>
+  <last-modified>Oct. 4, 2018, 8:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294884">
+      <result code="1">1</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="309754">D. I. Stevens</conductor>
+    </result>
+    
+    <result id="294880">
+      <result code="2">2</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="304288">T. J. Jones</conductor>
+    </result>
+    
+    <result id="294879">
+      <result code="3">3</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="310293">Llewellyn Thomas</conductor>
+    </result>
+    
+    <result id="294881">
+      <result code="3">3</result>
+      <band id="9506">Calfaria Clydach</band>
+      <conductor id="304288">T. J. Jones</conductor>
+    </result>
+    
+    <result id="294883">
+      <result code="">Unknown Result</result>
+      <band id="7361">Mond Silver</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="294882">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

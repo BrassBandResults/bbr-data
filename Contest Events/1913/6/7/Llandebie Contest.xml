@@ -1,0 +1,75 @@
+<contest-event id="40450">
+  <event-date date="1913-6-7">June 7, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandebie Contest</name>
+  <contest id="6344">
+    <name>Llandebie Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llandebie-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="6921">Llandebie, Ammanford, Carmarthen</venue>
+  <notes>Prizes - 1st £12, 2nd £6, 3rd £3.
+7 bands competed.
+
+</notes>
+
+  <created>Sept. 30, 2018, 1:29 p.m.</created>
+  <last-modified>March 27, 2020, 4:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294313">
+      <result code="1">1</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="316680">
+      <result code="2">2</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David Williams</conductor>
+    </result>
+    
+    <result id="316366">
+      <result code="3">3</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+    <result id="294309">
+      <result code="3">3</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="294308">
+      <result code="">Unknown Result</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="294310">
+      <result code="">Unknown Result</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="294311">
+      <result code="">Unknown Result</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

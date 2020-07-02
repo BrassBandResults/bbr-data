@@ -1,0 +1,80 @@
+<contest-event id="23246">
+  <event-date date="1903-7-11">July 11, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Philadelphia Contest</name>
+  <contest id="3303">
+    <name>Philadelphia Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>philadelphia-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2597">Scottish Memories</test-piece>
+  </test-piece>
+
+  <venue id="2532">Philadelphia, Tyne and Wear, England, UK</venue>
+  <notes>Prizes - 1st £8, 2nd £5, 3rd £2, 4th £1.
+March contest 1st(£1) divided between Sunderland and Hebburn.
+8 bands competed.</notes>
+
+  <created>Aug. 23, 2013, 12:47 p.m.</created>
+  <last-modified>July 25, 2016, 11:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170929">
+      <result code="1">1</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="298945">William Calvert</conductor>
+    </result>
+    
+    <result id="170931">
+      <result code="2">2</result>
+      <band id="6632">Browney Colliery</band>
+      <conductor id="297888">T. Bewick</conductor>
+    </result>
+    
+    <result id="170930">
+      <result code="3">3</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="170925">
+      <result code="4">4</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="170928">
+      <result code="">Unknown Result</result>
+      <band id="6918">Howden Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170932">
+      <result code="">Unknown Result</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170927">
+      <result code="">Unknown Result</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170926">
+      <result code="">Unknown Result</result>
+      <band id="10198">West Pelton and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

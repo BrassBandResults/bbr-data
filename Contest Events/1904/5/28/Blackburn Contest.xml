@@ -1,0 +1,80 @@
+<contest-event id="23285">
+  <event-date date="1904-5-28">May 28, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackburn Contest</name>
+  <contest id="3499">
+    <name>Blackburn Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blackburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3911">Witton Park, Blackburn</venue>
+  <notes>Promoted by Blackburn Ragged School Band
+
+Prizes: £30, £15, £10</notes>
+
+  <created>Aug. 25, 2013, 11:25 p.m.</created>
+  <last-modified>Feb. 13, 2015, 1:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171203">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="171204">
+      <result code="2">2</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="171205">
+      <result code="3">3</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="239406">
+      <result code="">Unknown Result</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171208">
+      <result code="">Unknown Result</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171207">
+      <result code="">Unknown Result</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171206">
+      <result code="">Unknown Result</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171209">
+      <result code="">Unknown Result</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

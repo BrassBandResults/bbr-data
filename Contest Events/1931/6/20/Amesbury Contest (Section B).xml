@@ -1,0 +1,54 @@
+<contest-event id="39420">
+  <event-date date="1931-6-20">June 20, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Amesbury Contest (Section B)</name>
+  <contest id="4902">
+    <name>Amesbury Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="496">Amesbury Contest</group>
+    <slug>amesbury-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1066">Gems of Old England</test-piece>
+  </test-piece>
+
+  <venue id="4175">Amesbury, Wiltshire, England, UK</venue>
+  <notes>Prizes - 1st £5 and trophy, 2nd £3 and trophy, </notes>
+
+  <created>April 1, 2018, 7:35 p.m.</created>
+  <last-modified>Dec. 12, 2018, 8:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="286259">
+      <result code="1">1</result>
+      <band id="1550">Tadley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="286260">
+      <result code="2">2</result>
+      <band id="310">Hyde Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="286261">
+      <result code="3">3</result>
+      <band id="8403">Market Lavington</band>
+      <conductor id="306055">J. H. Merritt</conductor>
+    </result>
+    
+    <result id="286262">
+      <result code="4">4</result>
+      <band id="7746">Hook and Odiham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

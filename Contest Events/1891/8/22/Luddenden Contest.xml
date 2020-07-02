@@ -1,0 +1,85 @@
+<contest-event id="26771">
+  <event-date date="1891-8-22">Aug. 22, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2806">Linda di Chamounix [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>March contest - 1st Cornholme, 2nd Norland.
+9 bands competed.</notes>
+
+  <created>March 31, 2014, 6:48 p.m.</created>
+  <last-modified>Feb. 14, 2018, 9:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="239010">
+      <result code="1">1</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="313226">Arthur Hirst</conductor>
+    </result>
+    
+    <result id="239011">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="297857">Stephen Berry</conductor>
+    </result>
+    
+    <result id="239012">
+      <result code="3">3</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="239013">
+      <result code="5">5</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="239014">
+      <result code="5">5</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="284605">
+      <result code="">Unknown Result</result>
+      <band id="6183">Audenshaw and Droylsden</band>
+      <conductor id="301556">Joseph Frith</conductor>
+    </result>
+    
+    <result id="284606">
+      <result code="">Unknown Result</result>
+      <band id="4404">Brighouse Subscription</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="284607">
+      <result code="">Unknown Result</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="284608">
+      <result code="">Unknown Result</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="305618">J. T. Marsden</conductor>
+    </result>
+    
+  </results>
+</contest-event>

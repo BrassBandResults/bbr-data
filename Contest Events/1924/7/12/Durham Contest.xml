@@ -1,0 +1,62 @@
+<contest-event id="26931">
+  <event-date date="1924-7-12">July 12, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham Contest</name>
+  <contest id="1901">
+    <name>Durham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>durham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3025">Wharton Park, Durham</venue>
+  <notes>10 bands competed
+
+March: 1. Craghead, 2. Urpeth</notes>
+
+  <created>April 4, 2014, 9:33 p.m.</created>
+  <last-modified>April 4, 2014, 9:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194614">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="302375">Gus Haigh</conductor>
+    </result>
+    
+    <result id="285620">
+      <result code="2">2</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="317746">G. Miller</conductor>
+    </result>
+    
+    <result id="194616">
+      <result code="3">3</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="304396">Joseph Kell</conductor>
+    </result>
+    
+    <result id="194617">
+      <result code="4">4</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="194618">
+      <result code="">Unknown Result</result>
+      <band id="6746">Urpeth Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

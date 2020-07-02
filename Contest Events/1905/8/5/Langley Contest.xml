@@ -1,0 +1,49 @@
+<contest-event id="10362">
+  <event-date date="1905-8-5">Aug. 5, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Langley Contest</name>
+  <contest id="1967">
+    <name>Langley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>langley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1399">Langley, Warwickshire</venue>
+  <notes>  1st prize £6, 2nd prize £4, 3rd prize £2.10s.
+March contest   1st (£1) Woodgate, 2nd (10s.) Blackheath.</notes>
+
+  <created>Feb. 17, 2012, 2:39 p.m.</created>
+  <last-modified>Sept. 11, 2018, 6:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87324">
+      <result code="1">1</result>
+      <band id="4919">Bilston Band</band>
+      <conductor id="301275">Herbert Fisher</conductor>
+    </result>
+    
+    <result id="87325">
+      <result code="2">2</result>
+      <band id="6332">Dudley Prize</band>
+      <conductor id="303747">W. E. Hyde</conductor>
+    </result>
+    
+    <result id="87326">
+      <result code="3">3</result>
+      <band id="6611">Blackheath</band>
+      <conductor id="303086">G. Hill</conductor>
+    </result>
+    
+  </results>
+</contest-event>

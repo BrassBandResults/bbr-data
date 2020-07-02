@@ -1,0 +1,98 @@
+<contest-event id="24755">
+  <event-date date="1931-4-4">April 4, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Westhoughton Contest</name>
+  <contest id="2213">
+    <name>Westhoughton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>westhoughton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1602">Westhoughton, Nr Bolton, Lancashire</venue>
+  <notes>  Prizes - 1st £20 and cup, 2nd £10, 3rd £5, 4th £3, 5th £2.
+  Promoted by Westhoughton Old Band.
+  11 bands competed.</notes>
+
+  <created>Oct. 28, 2013, 12:42 p.m.</created>
+  <last-modified>Dec. 12, 2018, 10:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180954">
+      <result code="1">1</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="180955">
+      <result code="2">2</result>
+      <band id="1650">Cadishead Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="180956">
+      <result code="3">3</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="301067">Abram Fairclough</conductor>
+    </result>
+    
+    <result id="180957">
+      <result code="4">4</result>
+      <band id="3850">Blackrod Public</band>
+      <conductor id="303029">J. Heyes</conductor>
+    </result>
+    
+    <result id="180958">
+      <result code="5">5</result>
+      <band id="2651">Eaton Works Band</band>
+      <conductor id="298985">J. R. Cannon</conductor>
+    </result>
+    
+    <result id="280557">
+      <result code="">Unknown Result</result>
+      <band id="16372">Atherton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180959">
+      <result code="">Unknown Result</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="303601">John W. Hughes</conductor>
+    </result>
+    
+    <result id="180962">
+      <result code="">Unknown Result</result>
+      <band id="2790">Bradshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180960">
+      <result code="">Unknown Result</result>
+      <band id="4368">Little Lever Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180963">
+      <result code="">Unknown Result</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="310678">Thomas Turton</conductor>
+    </result>
+    
+    <result id="180964">
+      <result code="">Unknown Result</result>
+      <band id="215">Rivington and Adlington Band</band>
+      <conductor id="300277">John Dean</conductor>
+    </result>
+    
+  </results>
+</contest-event>

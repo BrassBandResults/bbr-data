@@ -1,0 +1,84 @@
+<contest-event id="10010">
+  <event-date date="1905-5-6">May 6, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chester-le-Street Contest</name>
+  <contest id="1425">
+    <name>Chester-le-Street Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>chester-le-street-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1355">Romeo and Juliet [Tchaikovsky, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="928">Chester-le-Street, County Durham</venue>
+  <notes></notes>
+
+  <created>Feb. 5, 2012, 3:49 p.m.</created>
+  <last-modified>Feb. 5, 2012, 3:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84842">
+      <result code="1">1</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="298945">William Calvert</conductor>
+    </result>
+    
+    <result id="84843">
+      <result code="2">2</result>
+      <band id="5388">Chester-le-Street</band>
+      <conductor id="303593">J. Hughes</conductor>
+    </result>
+    
+    <result id="84844">
+      <result code="3">3</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+    <result id="84845">
+      <result code="4">4</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="84846">
+      <result code="5">5</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="303597">J. G. Hughes</conductor>
+    </result>
+    
+    <result id="84847">
+      <result code="6">6</result>
+      <band id="6631">Dunston Colliery</band>
+      <conductor id="302610">Luke Harker</conductor>
+    </result>
+    
+    <result id="84848">
+      <result code="">Unknown Result</result>
+      <band id="6632">Browney Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84849">
+      <result code="">Unknown Result</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84850">
+      <result code="">Unknown Result</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

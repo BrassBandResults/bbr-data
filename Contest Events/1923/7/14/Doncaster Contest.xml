@@ -1,0 +1,74 @@
+<contest-event id="28203">
+  <event-date date="1923-7-14">July 14, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Contest</name>
+  <contest id="1411">
+    <name>Doncaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4102">Glasgow Paddocks, Doncaster, Yorkshire</venue>
+  <notes>Prizes: £10 and cup, 2nd £8, 3rd £5, 4th £4.
+March: 1. Rawmarsh, 2. Wharncliffe
+7 bands competed</notes>
+
+  <created>June 4, 2014, 3:36 p.m.</created>
+  <last-modified>Oct. 20, 2018, 1:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="201557">
+      <result code="1">1</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="307097">William Park</conductor>
+    </result>
+    
+    <result id="201558">
+      <result code="2">2</result>
+      <band id="4146">Wharncliffe Woodmoor Colliery</band>
+      <conductor id="318559">T. Stubbs</conductor>
+    </result>
+    
+    <result id="201559">
+      <result code="3">3</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="201560">
+      <result code="4">4</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="296854">
+      <result code="">Unknown Result</result>
+      <band id="4601">Normanby Park Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="201561">
+      <result code="">Unknown Result</result>
+      <band id="278">Polypipe Rossington Band</band>
+      <conductor id="296852">Jonathan T. H. Alderson</conductor>
+    </result>
+    
+    <result id="296853">
+      <result code="">Unknown Result</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

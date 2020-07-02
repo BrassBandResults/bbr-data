@@ -1,0 +1,62 @@
+<contest-event id="41160">
+  <event-date date="1925-8-3">Aug. 3, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Witton Park Contest</name>
+  <contest id="2136">
+    <name>Witton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>witton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5765">Echoes of the Opera or Hiawatha</test-piece>
+  </test-piece>
+
+  <venue id="1554">Witton Park, County Durham</venue>
+  <notes>Prizes - 1st £8.10s., 2nd £5.10s., 3rd £3, 4th £1.10s.
+March contest - 1st Brancepeth, 2nd Leasingthorne.
+5 bands competed.</notes>
+
+  <created>Nov. 6, 2018, 11:50 a.m.</created>
+  <last-modified>Nov. 6, 2018, 11:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="298979">
+      <result code="1">1</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="301430">Joseph Foster</conductor>
+    </result>
+    
+    <result id="298980">
+      <result code="2">2</result>
+      <band id="5788">Evenwood Model</band>
+      <conductor id="296939">Israel Almond</conductor>
+    </result>
+    
+    <result id="298981">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="298982">
+      <result code="4">4</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="298983">
+      <result code="5">5</result>
+      <band id="574">Ferryhill Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

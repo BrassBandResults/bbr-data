@@ -1,0 +1,56 @@
+<contest-event id="36739">
+  <event-date date="1927-6-18">June 18, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sandbach Contest</name>
+  <contest id="2373">
+    <name>Sandbach Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sandbach-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="1727">Sandbach, Cheshire, England, UK</venue>
+  <notes>Promoted by Sandbach British Legion.
+Prizes - 1st £8, 2nd £4, 3rd £2.
+4 bands competed.</notes>
+
+  <created>Dec. 27, 2016, 3:05 p.m.</created>
+  <last-modified>Nov. 21, 2018, 11:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="266423">
+      <result code="1">1</result>
+      <band id="2684">Alderley Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266424">
+      <result code="2">2</result>
+      <band id="4358">Packmoor</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266425">
+      <result code="3">3</result>
+      <band id="3620">Wood Lane</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266426">
+      <result code="4">4</result>
+      <band id="1798">Kidsgrove Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="15496">
+  <event-date date="1912-8-7">Aug. 7, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bakewell Contest</name>
+  <contest id="3310">
+    <name>Bakewell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bakewell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+  </test-piece>
+
+  <venue id="2543">Bakewell, Derbyshire, England, UK</venue>
+  <notes>
+  Prizes  1st 10, 2nd £5, 3rd £3, 4th £1.
+
+  Four bands competed.</notes>
+
+  <created>Oct. 21, 2012, 2:42 p.m.</created>
+  <last-modified>Oct. 21, 2012, 2:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119970">
+      <result code="1">1</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="119971">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+    </result>
+    
+    <result id="119972">
+      <result code="3">3</result>
+      <band id="497">Burbage Buxton Band</band>
+      <conductor id="302399">A. Haley</conductor>
+    </result>
+    
+    <result id="119973">
+      <result code="4">4</result>
+      <band id="502">Fairfield (Buxton) Band</band>
+      <conductor id="297117">A. Arnold</conductor>
+    </result>
+    
+  </results>
+</contest-event>

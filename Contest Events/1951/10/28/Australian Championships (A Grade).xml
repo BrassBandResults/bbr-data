@@ -1,0 +1,86 @@
+<contest-event id="33656">
+  <event-date date="1951-10-28">Oct. 28, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="582">Robin Hood [Geehl]</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>Quickstep March was not included in championship aggregate</notes>
+
+  <created>Jan. 6, 2016, 9:43 p.m.</created>
+  <last-modified>March 15, 2018, 5:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="241663">
+      <result code="1">1</result>
+      <band id="9373">St. John Ambulance Brigade Band (District of NSW)</band>
+      <conductor id="297320">Albert Baile</conductor>
+      <test-piece id="43">An Epic Symphony</test-piece>
+    </result>
+    
+    <result id="241664">
+      <result code="2">2</result>
+      <band id="6434">Maryborough Brass [Queensland]</band>
+      <conductor id="304416">James Kelly</conductor>
+      <test-piece id="401">Freedom (Brass Band Symphony No. 1)</test-piece>
+    </result>
+    
+    <result id="241665">
+      <result code="3">3</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="305763">Bill May</conductor>
+    </result>
+    
+    <result id="241666">
+      <result code="4">4</result>
+      <band id="12927">Kingsville Yarraville Band</band>
+      <conductor id="298970">Tom Campbell</conductor>
+    </result>
+    
+    <result id="241667">
+      <result code="5">5</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="309101">Harry Shugg</conductor>
+    </result>
+    
+    <result id="241668">
+      <result code="6">6</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="317584">Norman Uren</conductor>
+    </result>
+    
+    <result id="241669">
+      <result code="7">7</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="303348">Jack Holmes</conductor>
+    </result>
+    
+    <result id="241670">
+      <result code="8">8</result>
+      <band id="18776">Perth City  R. S. L   (Wst Aust)</band>
+      <conductor id="299791">Charles Court</conductor>
+    </result>
+    
+    <result id="241671">
+      <result code="9">9</result>
+      <band id="2247">Stawell City Brass Band</band>
+      <conductor id="311960">Jack Woods</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="36019">
+  <event-date date="1892-6-6">June 6, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Porth Contest</name>
+  <contest id="2345">
+    <name>Porth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>porth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1898">Porth, Glamorgan</venue>
+  <notes>Quickstep contest(The Lion): 1 equals - Newtown and Morriston
+Prizes - 1st £21, 2nd £10.10s., 3rd £5.5s.</notes>
+
+  <created>Sept. 2, 2016, 3:04 p.m.</created>
+  <last-modified>May 30, 2019, 8:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261436">
+      <result code="1">1</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+    <result id="261441">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="303504">W. R. Howe</conductor>
+    </result>
+    
+    <result id="261440">
+      <result code="3">3</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+    <result id="261443">
+      <result code="">Unknown Result</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261437">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261438">
+      <result code="">Unknown Result</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261447">
+      <result code="">Unknown Result</result>
+      <band id="10454">Tonypandy United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261450">
+      <result code="">Unknown Result</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

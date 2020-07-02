@@ -1,0 +1,55 @@
+<contest-event id="29821">
+  <event-date date="1914-5-23">May 23, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mumbles Contest (Section B)</name>
+  <contest id="1918">
+    <name>Mumbles Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="224">Mumbles Contest</group>
+    <slug>mumbles-contest-section-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3166">The Troubadour</test-piece>
+  </test-piece>
+
+  <venue id="5438">Pier Pavilion, Mumbles, Glamorgan</venue>
+  <notes>Prizes - 1st £8, 2nd £4, 3rd £2.
+4 bands competed</notes>
+
+  <created>Oct. 21, 2014, 7:11 p.m.</created>
+  <last-modified>Oct. 3, 2018, 9:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="211764">
+      <result code="1">1</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="211765">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="211763">
+      <result code="3">3</result>
+      <band id="7361">Mond Silver</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="211766">
+      <result code="4">4</result>
+      <band id="789">Llanelli Band</band>
+      <conductor id="311596">David Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

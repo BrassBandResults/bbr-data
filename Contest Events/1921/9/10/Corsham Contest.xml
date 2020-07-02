@@ -1,0 +1,54 @@
+<contest-event id="25447">
+  <event-date date="1921-9-10">Sept. 10, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Corsham Contest</name>
+  <contest id="4960">
+    <name>Corsham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>corsham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2821">American Beauties</test-piece>
+  </test-piece>
+
+  <venue id="4314">Corsham, Wiltshire, England, UK</venue>
+  <notes>March (&quot;One for All&quot;): 1. Fishponds, 2. Aldbourne, 3. Kingswood</notes>
+
+  <created>Dec. 6, 2013, 7:10 p.m.</created>
+  <last-modified>Dec. 6, 2013, 7:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184923">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184924">
+      <result code="2">2</result>
+      <band id="7611">Hall of Freedom (Bristol)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184925">
+      <result code="3">3</result>
+      <band id="9073">Kingswood Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184926">
+      <result code="">Unknown Result</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

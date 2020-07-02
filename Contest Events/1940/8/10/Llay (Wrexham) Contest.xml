@@ -1,0 +1,62 @@
+<contest-event id="25300">
+  <event-date date="1940-8-10">Aug. 10, 1940<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llay (Wrexham) Contest</name>
+  <contest id="4929">
+    <name>Llay (Wrexham) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llay-wrexham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1073">The Call of Youth</test-piece>
+  </test-piece>
+
+  <venue id="4256">Llay Colliery, Llay, Denbighshire, Wales, UK</venue>
+  <notes>Prizes - 1st £6 and cup, 2nd £3, 3rd £1.10s.
+  March contest - 1st Platts Moston Colliery.
+  5 bands competed.</notes>
+
+  <created>Nov. 26, 2013, 12:36 p.m.</created>
+  <last-modified>Jan. 28, 2019, 10:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="184248">
+      <result code="1">1</result>
+      <band id="2648">Barton Hall Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184249">
+      <result code="2">2</result>
+      <band id="4197">Platt&#39;s Moston Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184250">
+      <result code="3">3</result>
+      <band id="11336">Coed Talon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184251">
+      <result code="">Unknown Result</result>
+      <band id="4778">Brymbo Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184252">
+      <result code="">Unknown Result</result>
+      <band id="10208">Chester Blue Coat School</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

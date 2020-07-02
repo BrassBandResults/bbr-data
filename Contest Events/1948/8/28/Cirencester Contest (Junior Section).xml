@@ -1,0 +1,62 @@
+<contest-event id="28653">
+  <event-date date="1948-8-28">Aug. 28, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cirencester Contest (Junior Section)</name>
+  <contest id="5388">
+    <name>Cirencester Contest (Junior Section)</name>
+    <order>280</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="400">Cirencester Contest</group>
+    <slug>cirencester-contest-junior-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4874">Grammar School Playing Fields, Cirencester</venue>
+  <notes>March: 1. Stroud, 2. Lydbrook, 3. Aldbourne
+Deportment: 1. Bristol, 2. Aldbourne, 3. Highworth
+Prizes - 1st £12 and shield, 2nd £9, 3rd £6, 4th £3.</notes>
+
+  <created>June 18, 2014, 5:52 p.m.</created>
+  <last-modified>Feb. 22, 2019, 10:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="204657">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204658">
+      <result code="2">2</result>
+      <band id="10204">Bristol St John&#39;s Ambulance</band>
+      <conductor id="312096">George Wilfrid Yabsley</conductor>
+    </result>
+    
+    <result id="204659">
+      <result code="3">3</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204661">
+      <result code="">Unknown Result</result>
+      <band id="2083">Highworth Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204660">
+      <result code="">Unknown Result</result>
+      <band id="2992">Stroud and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

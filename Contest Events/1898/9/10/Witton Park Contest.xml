@@ -1,0 +1,67 @@
+<contest-event id="15379">
+  <event-date date="1898-9-10">Sept. 10, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Witton Park Contest</name>
+  <contest id="2136">
+    <name>Witton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>witton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1554">Witton Park, County Durham</venue>
+  <notes>Prizes: £7, £3, £1
+March contest: Divided between Spennymoor Temperance and Oakenshaw</notes>
+
+  <created>Oct. 15, 2012, 5:36 p.m.</created>
+  <last-modified>Oct. 15, 2012, 5:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119066">
+      <result code="1">1</result>
+      <band id="8430">Felling Temperance</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+    <result id="119067">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119068">
+      <result code="3">3</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">J. A. Mutton</conductor>
+    </result>
+    
+    <result id="119069">
+      <result code="">Unknown Result</result>
+      <band id="6918">Howden Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119070">
+      <result code="">Unknown Result</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119071">
+      <result code="">Unknown Result</result>
+      <band id="7752">Wolsingham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

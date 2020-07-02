@@ -1,0 +1,54 @@
+<contest-event id="12580">
+  <event-date date="1895-8-5">Aug. 5, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Contest</name>
+  <contest id="1411">
+    <name>Doncaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1860">Schubert [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="395">Doncaster, South Yorkshire, England, UK</venue>
+  <notes>March contest: 1. Churwell, 2. Thornhill</notes>
+
+  <created>April 17, 2012, 9:43 p.m.</created>
+  <last-modified>April 17, 2012, 9:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100418">
+      <result code="1">1</result>
+      <band id="5865">Churwell (Leeds) Band</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="100419">
+      <result code="2">2</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="100420">
+      <result code="3">3</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="100421">
+      <result code="4">4</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

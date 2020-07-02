@@ -1,0 +1,69 @@
+<contest-event id="7009">
+  <event-date date="1946-9-22">Sept. 22, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="935">Thanksgiving</test-piece>
+  </test-piece>
+
+  <venue id="5835">South Pier, Blackpool, Lancashire</venue>
+  <notes>
+  Prizes  1st £25 and silver rose bowl, 2nd £12, 3rd £8, 4th £5.
+Result as shown in Brass Band News October 1946.  Correction in Brass Band News November 1946 shows Leeds 5th, Nelson 6th.
+ 20 bands competed.</notes>
+
+  <created>Aug. 13, 2011, 11:46 a.m.</created>
+  <last-modified>April 10, 2017, 8:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="61882">
+      <result code="1">1</result>
+      <band id="441">Stanley Newmarket Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61883">
+      <result code="2">2</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61884">
+      <result code="3">3</result>
+      <band id="1525">Wigan &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61885">
+      <result code="4">4</result>
+      <band id="3271">Bradford Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61887">
+      <result code="5">5</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61886">
+      <result code="6">6</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

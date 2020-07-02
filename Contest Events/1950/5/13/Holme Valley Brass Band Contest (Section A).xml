@@ -1,0 +1,67 @@
+<contest-event id="11614">
+  <event-date date="1950-5-13">May 13, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holme Valley Brass Band Contest (Section A)</name>
+  <contest id="83">
+    <name>Holme Valley Brass Band Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type>
+    <group id="119">Holme Valley Brass Band Contest</group>
+    <slug>holme-valley-brass-band-contest-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3754">Moses in Egypt (arr. J. A. Greenwood)</test-piece>
+  </test-piece>
+
+  <venue id="586">Victoria Park, Holmfirth</venue>
+  <notes>24th annual contest
+18 bands competed.</notes>
+
+  <created>April 4, 2012, 9 p.m.</created>
+  <last-modified>June 26, 2020, 12:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94668">
+      <result code="1">1</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="191836">
+      <result code="2">2</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="191837">
+      <result code="3">3</result>
+      <band id="1669">Moderna Blanket Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="191838">
+      <result code="4">4</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="191839">
+      <result code="5">5</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258388">
+      <result code="6">6</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

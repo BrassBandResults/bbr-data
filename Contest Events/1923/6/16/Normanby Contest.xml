@@ -1,0 +1,54 @@
+<contest-event id="25489">
+  <event-date date="1923-6-16">June 16, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Normanby Contest</name>
+  <contest id="2905">
+    <name>Normanby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>normanby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1225">Lucia di Lammermoor [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2225">Normanby Park, Normanby</venue>
+  <notes>March: 1. Dannemora, 2. Normanby, 3. Clayton</notes>
+
+  <created>Dec. 9, 2013, 8:55 p.m.</created>
+  <last-modified>Dec. 9, 2013, 8:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185097">
+      <result code="1">1</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185098">
+      <result code="2">2</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185099">
+      <result code="3">3</result>
+      <band id="4601">Normanby Park Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185100">
+      <result code="">Unknown Result</result>
+      <band id="11723">Clayton Sports (Lincoln)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

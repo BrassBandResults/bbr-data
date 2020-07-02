@@ -1,0 +1,78 @@
+<contest-event id="15840">
+  <event-date date="1909-7-10">July 10, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Clowne Contest</name>
+  <contest id="2081">
+    <name>Clowne Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>clowne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1900">Old Favourites</test-piece>
+  </test-piece>
+
+  <venue id="1520">Clowne, Derbyshire, England, UK</venue>
+  <notes>Promoted by Clown Prize Band
+
+  Prizes 1st £7 and cup, 2nd £3.10s., 3rd £1.10s., 4th £1.
+
+  March contest 1st Rockingham Colliery, 2nd Mansfield Colliery.
+
+  7 bands competed</notes>
+
+  <created>Nov. 5, 2012, 1:03 p.m.</created>
+  <last-modified>April 17, 2014, 7:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122201">
+      <result code="1">1</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="122202">
+      <result code="2">2</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="302069">A. Gray</conductor>
+    </result>
+    
+    <result id="122203">
+      <result code="3">3</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="122204">
+      <result code="4">4</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="305005">William Lerigo</conductor>
+    </result>
+    
+    <result id="122206">
+      <result code="">Unknown Result</result>
+      <band id="8119">Barrow Hill Good Templars</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122205">
+      <result code="">Unknown Result</result>
+      <band id="1665">Bolsover Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122207">
+      <result code="">Unknown Result</result>
+      <band id="1670">Staveley Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

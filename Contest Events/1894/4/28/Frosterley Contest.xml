@@ -1,0 +1,80 @@
+<contest-event id="11980">
+  <event-date date="1894-4-28">April 28, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Frosterley Contest</name>
+  <contest id="2067">
+    <name>Frosterley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>frosterley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="1505">Frosterley, County Durham</venue>
+  <notes>8 bands competed
+Prizes: £20, £12, £6, £2
+March contest: 1. South Derwent</notes>
+
+  <created>April 8, 2012, 5:22 p.m.</created>
+  <last-modified>June 12, 2019, 11:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="96348">
+      <result code="1">1</result>
+      <band id="6085">New Shildon Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="96349">
+      <result code="2">2</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="96350">
+      <result code="3">3</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="96351">
+      <result code="4">4</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="97514">
+      <result code="">Unknown Result</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+    <result id="97513">
+      <result code="">Unknown Result</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="97515">
+      <result code="">Unknown Result</result>
+      <band id="7504">Hetton Rechabites</band>
+      <conductor id="307392">George Perry</conductor>
+    </result>
+    
+    <result id="97516">
+      <result code="">Unknown Result</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,76 @@
+<contest-event id="35221">
+  <event-date date="1950-9-15">Sept. 15, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="344">Rhapsody on Negro Spirituals</test-piece>
+  </test-piece>
+
+  <venue id="314">Adelaide, South Australia, Australia</venue>
+  <notes>Championship included Test &amp; Own Choice Selections
+Oval March /  Quickstep March   points listed under Stage March
+
+The scheduled 1949 Australian championships event at Launceston, Tasmania was postponed due to an outbreak of poliomyelitis. It was rescheduled for Easter, 10th April 1950. As a result two Australian championship events were held in 1950; this was the designated 1950 event.</notes>
+
+  <created>May 2, 2016, 1:11 a.m.</created>
+  <last-modified>April 22, 2020, 12:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253619">
+      <result code="1">1</result>
+      <band id="11203">Payneham City Concert Band</band>
+      <conductor id="303014">Harold Hewson</conductor>
+    </result>
+    
+    <result id="253620">
+      <result code="2">2</result>
+      <band id="2162">Marananga Brass Band</band>
+      <conductor id="318010">Carl Roennfeldt</conductor>
+    </result>
+    
+    <result id="253621">
+      <result code="3">3</result>
+      <band id="16865">Portland Boys (NSW)</band>
+      <conductor id="309159">Ted Simons</conductor>
+      <test-piece id="1559">Wagner [arr. Round]</test-piece>
+    </result>
+    
+    <result id="253622">
+      <result code="4">4</result>
+      <band id="18771">Holdfast Bay Municipal Sth Aust)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="253624">
+      <result code="">Unknown Result</result>
+      <band id="12941">B.H.A.S. Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="253623">
+      <result code="">Unknown Result</result>
+      <band id="18773">Broken Hill Boys  (NSW)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="253625">
+      <result code="">Unknown Result</result>
+      <band id="13801">Kadina Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

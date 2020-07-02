@@ -1,0 +1,78 @@
+<contest-event id="39053">
+  <event-date date="1949-10-29">Oct. 29, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="770">Themes from Symphony no. 5 [Tchaikovsky, arr. Ball]</test-piece>
+  </test-piece>
+
+  <venue id="6805">Ballarat Oval, Ballarat, Victoria, Australia</venue>
+  <notes>Championship included Quickstep Diagram March  --  points listed under Stage March</notes>
+
+  <created>Jan. 29, 2018, 10:58 p.m.</created>
+  <last-modified>April 21, 2020, 12:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284122">
+      <result code="1">1</result>
+      <band id="1158">St Kilda Brass</band>
+      <conductor id="309403">Ken Smith Snr</conductor>
+    </result>
+    
+    <result id="284123">
+      <result code="2">2</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="308527">Alfred Rowell</conductor>
+    </result>
+    
+    <result id="284124">
+      <result code="3">3</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="306767">Hugh Niven</conductor>
+    </result>
+    
+    <result id="284125">
+      <result code="4">4</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="299574">Jim Compton</conductor>
+    </result>
+    
+    <result id="284126">
+      <result code="5">5</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="305763">Bill May</conductor>
+    </result>
+    
+    <result id="284127">
+      <result code="6">6</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="317584">Norman Uren</conductor>
+    </result>
+    
+    <result id="284128">
+      <result code="7">7</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="307922">H. L. Rasmussen</conductor>
+    </result>
+    
+    <result id="284129">
+      <result code="8">8</result>
+      <band id="12944">Footscray City</band>
+      <conductor id="317658">Les Barrett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

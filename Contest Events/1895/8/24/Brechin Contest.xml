@@ -1,0 +1,71 @@
+<contest-event id="12693">
+  <event-date date="1895-8-24">Aug. 24, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brechin Contest</name>
+  <contest id="2121">
+    <name>Brechin Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="353">Brechin Contest</group>
+    <slug>brechin-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1544">Brechin Public Park, Brechin, Angus, Scotland, UK</venue>
+  <notes>4 bands competed
+Prizes: £28, £20, £12, £5</notes>
+
+  <created>April 19, 2012, 8:16 p.m.</created>
+  <last-modified>June 21, 2019, 1:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101097">
+      <result code="1">1</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="101098">
+      <result code="2">2</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="101099">
+      <result code="3">3</result>
+      <band id="1057">Brechin City</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1315">Scotland</test-piece>
+    </result>
+    
+    <result id="101100">
+      <result code="4">4</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+    <result id="149322">
+      <result code="W">Withdrawn</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149321">
+      <result code="W">Withdrawn</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

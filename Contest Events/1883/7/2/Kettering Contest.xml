@@ -1,0 +1,85 @@
+<contest-event id="17255">
+  <event-date date="1883-7-2">July 2, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kettering Contest</name>
+  <contest id="2367">
+    <name>Kettering Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kettering-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="920">Un Ballo in Maschera [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2842">London Road, Kettering</venue>
+  <notes>Prizes: £15 and a 16 guinea euphonium, £7 and 14 guinea cornet, £4 and a 7 guinea trombone, £1 and 1 guinea side drum.
+1st annual contest promoted by Kettering Rifles band.</notes>
+
+  <created>Dec. 22, 2012, 11:12 p.m.</created>
+  <last-modified>May 3, 2019, 8:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="130995">
+      <result code="1">1</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="303273">Harry L. Holding</conductor>
+      <test-piece id="1708">Hohenlinden</test-piece>
+    </result>
+    
+    <result id="130997">
+      <result code="2">2</result>
+      <band id="2515">Burslem Band</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="1497">Honoria</test-piece>
+    </result>
+    
+    <result id="130994">
+      <result code="3">3</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+      <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="130993">
+      <result code="4">4</result>
+      <band id="6204">Sutton and Hucknall United</band>
+      <conductor id="300318">Joseph Dennis</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="130996">
+      <result code="">Unknown Result</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="130998">
+      <result code="">Unknown Result</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+      <test-piece id="1554">Rienzi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="130999">
+      <result code="W">Withdrawn</result>
+      <band id="6159">Derby Rifle Volunteers</band>
+      <conductor id="308801">W. V. Scholes</conductor>
+    </result>
+    
+    <result id="131000">
+      <result code="W">Withdrawn</result>
+      <band id="894">Earby Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,90 @@
+<contest-event id="12624">
+  <event-date date="1899-8-12">Aug. 12, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haworth Contest</name>
+  <contest id="1689">
+    <name>Haworth Contest</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1864">Rose Queen</test-piece>
+  </test-piece>
+
+  <venue id="1194">Central Park, Haworth, Yorkshire</venue>
+  <notes>Promoted by Haworth Public Brass Band
+1st prize £9.
+  2nd prize £6.
+  3rd prize £4.
+  4th prize £2.
+  5th prize £1 divided between Richardshaw Lane and Rishworth &amp; Ryburn.March contest 1st (£1.10s.)  Baildon,  2nd (£1) Bradford Postmen.
+9 bands competed.</notes>
+
+  <created>April 18, 2012, 2:56 p.m.</created>
+  <last-modified>July 28, 2019, 12:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100638">
+      <result code="1">1</result>
+      <band id="7615">Harrogate Temperance</band>
+      <conductor id="310180">R. Taylor</conductor>
+    </result>
+    
+    <result id="100639">
+      <result code="2">2</result>
+      <band id="4356">Denholme</band>
+      <conductor id="300280">Tom Dean</conductor>
+    </result>
+    
+    <result id="100640">
+      <result code="3">3</result>
+      <band id="6624">Bradford Postmen</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="100641">
+      <result code="4">4</result>
+      <band id="4593">Baildon</band>
+      <conductor id="309172">S. T. Simpson</conductor>
+    </result>
+    
+    <result id="100642">
+      <result code="5">5</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="100643">
+      <result code="5">5</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="303809">W. Inskip</conductor>
+    </result>
+    
+    <result id="311474">
+      <result code="7">7</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="100645">
+      <result code="8">8</result>
+      <band id="6885">Richardshaw Lane Band</band>
+      <conductor id="308207">J. A. Riley</conductor>
+    </result>
+    
+    <result id="100646">
+      <result code="9">9</result>
+      <band id="3164">Clayton Subscription</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="35800">
+  <event-date date="1933-1-26">Jan. 26, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (B Grade)</name>
+  <contest id="617">
+    <name>NSW State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>July 31, 2016, 1:24 a.m.</created>
+  <last-modified>Sept. 21, 2016, 11:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259882">
+      <result code="1">1</result>
+      <band id="14102">Westmead Boys Home</band>
+      <conductor id="302980">Jock Herron</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="259881">
+      <result code="1">1</result>
+      <band id="13722">Lidcombe Municipal</band>
+      <conductor id="304480">Ernest Kerry</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="259883">
+      <result code="3">3</result>
+      <band id="13033">NSW Tramways</band>
+      <conductor id="306728">Stan Nichols</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="259884">
+      <result code="3">3</result>
+      <band id="13045">Leichhardt Municipal</band>
+      <conductor id="315269">S. R. Phillips</conductor>
+      <test-piece id="195">Life Divine</test-piece>
+    </result>
+    
+    <result id="259885">
+      <result code="3">3</result>
+      <band id="13685">Burwood Band</band>
+      <conductor id="304921">Bill Leahy</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="259886">
+      <result code="6">6</result>
+      <band id="13718">Westmead Old Boys</band>
+      <conductor id="308350">Harry Robinson</conductor>
+      <test-piece id="1335">Liszt</test-piece>
+    </result>
+    
+    <result id="259887">
+      <result code="7">7</result>
+      <band id="14094">Crows Nest Citizens</band>
+      <conductor id="298345">Les Bragg</conductor>
+      <test-piece id="108">Lorenzo</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

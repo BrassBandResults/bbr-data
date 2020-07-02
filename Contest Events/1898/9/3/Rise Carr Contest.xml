@@ -1,0 +1,67 @@
+<contest-event id="15375">
+  <event-date date="1898-9-3">Sept. 3, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rise Carr Contest</name>
+  <contest id="3263">
+    <name>Rise Carr Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rise-carr-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2495">Rise Carr, Darlington</venue>
+  <notes>Prizes: £9, £5, £3, £1 10s
+March contest: 1. South Derwent, 2. Milburn&#39;s Model</notes>
+
+  <created>Oct. 15, 2012, 5:05 p.m.</created>
+  <last-modified>Oct. 15, 2012, 5:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119047">
+      <result code="1">1</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="298014">A. Blackburn</conductor>
+    </result>
+    
+    <result id="119048">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="119049">
+      <result code="3">3</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">J. A. Mutton</conductor>
+    </result>
+    
+    <result id="119050">
+      <result code="4">4</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="119052">
+      <result code="">Unknown Result</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119051">
+      <result code="">Unknown Result</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

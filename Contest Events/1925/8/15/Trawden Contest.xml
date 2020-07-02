@@ -1,0 +1,63 @@
+<contest-event id="25555">
+  <event-date date="1925-8-15">Aug. 15, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trawden Contest</name>
+  <contest id="1637">
+    <name>Trawden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trawden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="1596">Trawden, Colne, Lancashire</venue>
+  <notes>Prizes - 1st £12, 2nd £8, 3rd £5, 4th £3, 5th £2, 6th £1.
+March: 1. Burnley, 2. Barnoldswick, 3. Colne.
+5 bands competed
+</notes>
+
+  <created>Dec. 10, 2013, 7:56 p.m.</created>
+  <last-modified>Nov. 7, 2018, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185309">
+      <result code="1">1</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="307568">W. Pollard</conductor>
+    </result>
+    
+    <result id="185307">
+      <result code="2">2</result>
+      <band id="8099">Burnley Borough</band>
+      <conductor id="314364">J.H. Tregilgas</conductor>
+    </result>
+    
+    <result id="185308">
+      <result code="3">3</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="309396">Joe Smith</conductor>
+    </result>
+    
+    <result id="185310">
+      <result code="4">4</result>
+      <band id="6351">Pendle Forest</band>
+      <conductor id="318642">H. Hartley</conductor>
+    </result>
+    
+    <result id="185311">
+      <result code="5">5</result>
+      <band id="4274">Brierfield Public</band>
+      <conductor id="318643">J. Dee</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,97 @@
+<contest-event id="23169">
+  <event-date date="1902-7-19">July 19, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shirebrook Contest</name>
+  <contest id="1943">
+    <name>Shirebrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="255">Shirebrook Contest</group>
+    <slug>shirebrook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1380">Shirebrook, Derbyshire</venue>
+  <notes>Choice of test pieces: &quot;Euryanthe&quot; or &quot;Songs of Other Days&quot;
+Prizes: £12 10s, £7, £4, £2
+March: 1. Matlock (&quot;La Russe&quot;), 2. Lea Mills (&quot;Third Dragoon Guards&quot;)
+2nd annual contest
+8 bands competed.
+</notes>
+
+  <created>Aug. 19, 2013, 10:21 p.m.</created>
+  <last-modified>July 5, 2018, 11:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170439">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="170440">
+      <result code="2">2</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="170441">
+      <result code="3">3</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="170442">
+      <result code="4">4</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="170443">
+      <result code="5">5</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="170444">
+      <result code="6">6</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="170445">
+      <result code="7">7</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="170446">
+      <result code="8">8</result>
+      <band id="6792">Clowne Silver</band>
+      <conductor id="302100">T. E. Gray</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="170447">
+      <result code="W">Withdrawn</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

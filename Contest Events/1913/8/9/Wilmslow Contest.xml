@@ -1,0 +1,68 @@
+<contest-event id="25362">
+  <event-date date="1913-8-9">Aug. 9, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wilmslow Contest</name>
+  <contest id="4933">
+    <name>Wilmslow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wilmslow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4268">Wilmslow, Cheshire, England, UK</venue>
+  <notes>Wilmslow and Alderley Horticultural Society Show
+
+Choice of test pieces: &quot;Bohemian Girl&quot; or &quot;Souvenir de Russe&quot;</notes>
+
+  <created>Nov. 29, 2013, 10:04 p.m.</created>
+  <last-modified>Nov. 29, 2013, 10:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184482">
+      <result code="1">1</result>
+      <band id="1448">Glazebury</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="184483">
+      <result code="2">2</result>
+      <band id="2705">Wilmslow St. Bartholomew&#39;s Silver</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="184484">
+      <result code="3">3</result>
+      <band id="1653">Pendleton Public</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="184485">
+      <result code="4">4</result>
+      <band id="1639">Irwell Old Prize Band</band>
+      <conductor id="300725">Tom Eastwood</conductor>
+    </result>
+    
+    <result id="184486">
+      <result code="5">5</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="184487">
+      <result code="6">6</result>
+      <band id="2580">Knutsford &amp; Alderley</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

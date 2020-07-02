@@ -1,0 +1,55 @@
+<contest-event id="26272">
+  <event-date date="1946-8-24">Aug. 24, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newhall Contest</name>
+  <contest id="1916">
+    <name>Newhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2332">May Day</test-piece>
+  </test-piece>
+
+  <venue id="1355">Newhall, Derbyshire</venue>
+  <notes>March contest 1st Langwith Colliery, 2nd Wood End.
+Prizes - 1st £10, 2nd £6, 3rd £3.</notes>
+
+  <created>Feb. 5, 2014, 7 p.m.</created>
+  <last-modified>Feb. 9, 2019, 11:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190382">
+      <result code="1">1</result>
+      <band id="2704">Wood End W.M.C.</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="190383">
+      <result code="2">2</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="190384">
+      <result code="3">3</result>
+      <band id="882">Coleshill Town Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="262207">
+      <result code="">Unknown Result</result>
+      <band id="8554">Langwith Colliery Junior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

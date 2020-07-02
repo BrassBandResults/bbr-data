@@ -1,0 +1,55 @@
+<contest-event id="40664">
+  <event-date date="1918-8-6">Aug. 6, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest (Class C)</name>
+  <contest id="3981">
+    <name>Caerphilly Contest (Class C)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1793">A Musical Bouquet</test-piece>
+  </test-piece>
+
+  <venue id="6953">Virginia Park, Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes>Prizes - 1st £7, 2mnd £4, 3rd £2.
+4 bands competed.</notes>
+
+  <created>Oct. 11, 2018, 9:22 p.m.</created>
+  <last-modified>Oct. 11, 2018, 9:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295781">
+      <result code="1">1</result>
+      <band id="17419">Pentre Brass</band>
+      <conductor id="300965">Abe Evans</conductor>
+    </result>
+    
+    <result id="295783">
+      <result code="2">2</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="301832">Samuel Gillard</conductor>
+    </result>
+    
+    <result id="295782">
+      <result code="3">3</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="301556">Joseph Frith</conductor>
+    </result>
+    
+    <result id="295780">
+      <result code="">Unknown Result</result>
+      <band id="11332">Llanbradach</band>
+      <conductor id="300258">W. W. Day</conductor>
+    </result>
+    
+  </results>
+</contest-event>

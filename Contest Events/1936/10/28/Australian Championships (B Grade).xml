@@ -1,0 +1,49 @@
+<contest-event id="35115">
+  <event-date date="1936-10-28">Oct. 28, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="391">Prometheus Unbound</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes>Two set tests,
+No.2 Test points listed under Own Choice</notes>
+
+  <created>April 16, 2016, 7:31 a.m.</created>
+  <last-modified>Jan. 29, 2018, 4:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253162">
+      <result code="1">1</result>
+      <band id="2394">Barrier Industrial Unions&#39; Band</band>
+      <conductor id="308125">Les Richards</conductor>
+    </result>
+    
+    <result id="253163">
+      <result code="2">2</result>
+      <band id="13741">Magill</band>
+      <conductor id="305308">Orto Lovell</conductor>
+    </result>
+    
+    <result id="253164">
+      <result code="3">3</result>
+      <band id="18730">Berri Town  (Sth Aust)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

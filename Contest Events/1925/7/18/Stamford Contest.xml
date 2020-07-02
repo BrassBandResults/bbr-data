@@ -1,0 +1,71 @@
+<contest-event id="25543">
+  <event-date date="1925-7-18">July 18, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stamford Contest</name>
+  <contest id="2351">
+    <name>Stamford Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stamford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1761">Stamford, Lincolnshire, England, UK</venue>
+  <notes>Promoted by Stamford Town Band
+Prizes - 1st £9, 2nd £5.10s., 3rd £3, 4th £1.
+March: 1. B Winning, 2. Earls Barton
+Choice of test pieces: &quot;Echoes of the Opera&quot; or &quot;Dawn of Spring&quot;
+The original adjudicator, W. Tudor Roberts, died suddenly in North Wales, and F. Thorpe was rapidly engaged as a replacement.
+6 bands competed.</notes>
+
+  <created>Dec. 10, 2013, 5:03 p.m.</created>
+  <last-modified>Nov. 5, 2018, 3:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185272">
+      <result code="1">1</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="185270">
+      <result code="2">2</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="309260">L. Sleight</conductor>
+    </result>
+    
+    <result id="185268">
+      <result code="3">3</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="304871">A. Lawson</conductor>
+    </result>
+    
+    <result id="185269">
+      <result code="4">4</result>
+      <band id="11333">Upwell</band>
+      <conductor id="308628">Albert Ryder</conductor>
+    </result>
+    
+    <result id="185271">
+      <result code="">Unknown Result</result>
+      <band id="11728">Long Sutton Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185273">
+      <result code="">Unknown Result</result>
+      <band id="6607">Nassington Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="24915">
+  <event-date date="1950-8-26">Aug. 26, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Walthamstow Contest (Section 1)</name>
+  <contest id="2829">
+    <name>Walthamstow Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="550">Walthamstow Contest</group>
+    <slug>walthamstow-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="606">Morning Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="612">Lloyd Park, Walthamstow, Waltham Forest, Greater London, England, UK</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Nov. 5, 2013, 4:26 p.m.</created>
+  <last-modified>Feb. 22, 2014, 3:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181826">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="298379">Eric Bravington</conductor>
+    </result>
+    
+    <result id="192084">
+      <result code="2">2</result>
+      <band id="2001">Richmond Band</band>
+      <conductor id="303548">E. Huckridge</conductor>
+    </result>
+    
+    <result id="192085">
+      <result code="3">3</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="306050">E. C. Merrick</conductor>
+    </result>
+    
+  </results>
+</contest-event>

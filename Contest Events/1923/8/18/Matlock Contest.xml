@@ -1,0 +1,80 @@
+<contest-event id="25498">
+  <event-date date="1923-8-18">Aug. 18, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Matlock Contest</name>
+  <contest id="1205">
+    <name>Matlock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>matlock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4333">Matlock Park, Matlock</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £10, 3rd £6, 4th £3.
+March contest - 1st Swanwick, 2nd Chesterfield.
+7 bands competed.</notes>
+
+  <created>Dec. 9, 2013, 9:53 p.m.</created>
+  <last-modified>Oct. 23, 2018, 8:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297092">
+      <result code="1">1</result>
+      <band id="11399">Oldham Prize</band>
+      <conductor id="304119">W. Johnson</conductor>
+    </result>
+    
+    <result id="185124">
+      <result code="2">2</result>
+      <band id="4141">Chesterfield Town &amp; Old Comrades</band>
+      <conductor id="309039">L. Sheppard</conductor>
+    </result>
+    
+    <result id="185125">
+      <result code="3">3</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="308659">J. Saint</conductor>
+    </result>
+    
+    <result id="297093">
+      <result code="4">4</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="318654">John Harrison</conductor>
+    </result>
+    
+    <result id="297094">
+      <result code="">Unknown Result</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297096">
+      <result code="">Unknown Result</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297095">
+      <result code="">Unknown Result</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185127">
+      <result code="D">Disqualified</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

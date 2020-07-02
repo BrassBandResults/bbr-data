@@ -1,0 +1,80 @@
+<contest-event id="40647">
+  <event-date date="1918-7-13">July 13, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Moira Contest</name>
+  <contest id="1240">
+    <name>Moira Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>moira-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3068">Britannia</test-piece>
+  </test-piece>
+
+  <venue id="742">Moira, Leicestershire, England, UK</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £8 and cup, 3rd £4 and cup.
+Best cornet - Ibstock.
+8 bands competed.</notes>
+
+  <created>Oct. 11, 2018, 2:28 p.m.</created>
+  <last-modified>Oct. 11, 2018, 2:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295696">
+      <result code="1">1</result>
+      <band id="4090">Ibstock Welfare</band>
+      <conductor id="304886">Albert Lawton</conductor>
+    </result>
+    
+    <result id="295690">
+      <result code="2">2</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="301485">Newsome France</conductor>
+    </result>
+    
+    <result id="295691">
+      <result code="3">3</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="304884">A. Lawton</conductor>
+    </result>
+    
+    <result id="295689">
+      <result code="">Unknown Result</result>
+      <band id="11898">Leicester Borough</band>
+      <conductor id="304884">A. Lawton</conductor>
+    </result>
+    
+    <result id="295693">
+      <result code="">Unknown Result</result>
+      <band id="347">Amington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="295694">
+      <result code="">Unknown Result</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="311544">W. Wileman</conductor>
+    </result>
+    
+    <result id="295695">
+      <result code="">Unknown Result</result>
+      <band id="5913">Burton Excelsior</band>
+      <conductor id="298175">Enoch Booth</conductor>
+    </result>
+    
+    <result id="295692">
+      <result code="">Unknown Result</result>
+      <band id="1214">Loughborough</band>
+      <conductor id="313856">W. Parker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

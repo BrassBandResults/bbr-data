@@ -1,0 +1,67 @@
+<contest-event id="42239">
+  <event-date date="1891-5-2">May 2, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Innerleithen Contest</name>
+  <contest id="5504">
+    <name>Innerleithen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>innerleithen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2320">Nonpareil</test-piece>
+  </test-piece>
+
+  <venue id="5571">Traquair Mansion, Innerleithen</venue>
+  <notes>Prizes - 1st £20, 2nd £12, 3rd £9.
+3 bands competed.</notes>
+
+  <created>May 27, 2019, 12:09 p.m.</created>
+  <last-modified>Nov. 8, 2019, 11:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="308763">
+      <result code="1">1</result>
+      <band id="5613">Portobello</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="308758">
+      <result code="2">2</result>
+      <band id="4976">Galashiels Rifle Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="308762">
+      <result code="2">2</result>
+      <band id="1028">Galashiels Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="308760">
+      <result code="W">Withdrawn</result>
+      <band id="1984">Coatbridge Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="308761">
+      <result code="W">Withdrawn</result>
+      <band id="655">Peebles Burgh Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="308759">
+      <result code="W">Withdrawn</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

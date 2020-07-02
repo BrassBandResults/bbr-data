@@ -1,0 +1,62 @@
+<contest-event id="14945">
+  <event-date date="1912-6-22">June 22, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Keighley Contest</name>
+  <contest id="1244">
+    <name>Keighley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>keighley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="833">Keighley, West Yorkshire, England, UK</venue>
+  <notes>A newspaper report gives the test piece as &quot;Apollo&quot; by Rimmer
+March contest 1st  Haworth Public,  2nd Keighley Borough, 3rd Skipton Mission.
+5 bands competed.</notes>
+
+  <created>Sept. 29, 2012, 1:28 p.m.</created>
+  <last-modified>Sept. 27, 2018, 9:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="116714">
+      <result code="1">1</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="116715">
+      <result code="2">2</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="116716">
+      <result code="3">3</result>
+      <band id="432">Shepherd Group Band</band>
+      <conductor id="313108">Walter Halstead</conductor>
+    </result>
+    
+    <result id="116717">
+      <result code="4">4</result>
+      <band id="2455">Keighley Band</band>
+      <conductor id="310854">Fred Wade</conductor>
+    </result>
+    
+    <result id="116718">
+      <result code="5">5</result>
+      <band id="6743">Skipton Mission</band>
+      <conductor id="306071">J. Metcalfe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

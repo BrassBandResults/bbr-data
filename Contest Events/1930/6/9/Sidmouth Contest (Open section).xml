@@ -1,0 +1,49 @@
+<contest-event id="5632">
+  <event-date date="1930-6-9">June 9, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sidmouth Contest (Open section)</name>
+  <contest id="922">
+    <name>Sidmouth Contest (Open section)</name>
+    <order>3</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="130">Sidmouth Contest</group>
+    <slug>sidmouth-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1024">Zamora [Jenkins]</test-piece>
+  </test-piece>
+
+  <venue id="4367">Yarde Hill, Sidmouth, Devon</venue>
+  <notes>Best baritone: Sidmouth Town Band
+Best flugel: Sidmouth Town Band</notes>
+
+  <created>April 29, 2011, 11:35 a.m.</created>
+  <last-modified>Dec. 6, 2018, 4:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="48586">
+      <result code="1">1</result>
+      <band id="545">Sidmouth Town Band</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="180630">
+      <result code="2">2</result>
+      <band id="11578">Chudleigh Town</band>
+      <conductor id="319617">Geoffrey Barber</conductor>
+    </result>
+    
+    <result id="180631">
+      <result code="3">3</result>
+      <band id="2069">Bridgwater Imperial</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="11076">
+  <event-date date="1906-8-25">Aug. 25, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yiewsley Contest (First Section)</name>
+  <contest id="1945">
+    <name>Yiewsley Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="228">Yiewsley Contest</group>
+    <slug>yiewsley-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1381">Yiewsley, Hillingdon, Greater London, England, UK</venue>
+  <notes>
+  1st prize £7.
+  2nd prize £5.
+  3rd prize £2 divided between GWR Paddington and London Prize.</notes>
+
+  <created>March 12, 2012, 6:23 p.m.</created>
+  <last-modified>Feb. 13, 2015, 1:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="91684">
+      <result code="1">1</result>
+      <band id="6331">Chesham Town</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+    <result id="91685">
+      <result code="2">2</result>
+      <band id="6604">Hampstead Silver</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="91686">
+      <result code="3">3</result>
+      <band id="1706">GWR Paddington</band>
+      <conductor id="309056">W. J. Douglas Sherriff</conductor>
+    </result>
+    
+    <result id="91687">
+      <result code="3">3</result>
+      <band id="10618">London Silver</band>
+      <conductor id="299707">Sam Cope</conductor>
+    </result>
+    
+  </results>
+</contest-event>

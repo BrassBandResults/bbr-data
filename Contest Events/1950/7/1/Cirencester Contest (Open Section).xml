@@ -1,0 +1,48 @@
+<contest-event id="26493">
+  <event-date date="1950-7-1">July 1, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cirencester Contest (Open Section)</name>
+  <contest id="3891">
+    <name>Cirencester Contest (Open Section)</name>
+    <order>210</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="400">Cirencester Contest</group>
+    <slug>cirencester-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1567">Cinq Mars [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3112">Cirencester, Gloucestershire, England, UK</venue>
+  <notes>March contest - 1st Parc and Dare, 2nd, Drybrook, 3rd Wellworthy</notes>
+
+  <created>Feb. 21, 2014, 11:04 a.m.</created>
+  <last-modified>Feb. 21, 2014, 12:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="192000">
+      <result code="1">1</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306836">Harry Nuttall</conductor>
+    </result>
+    
+    <result id="192001">
+      <result code="2">2</result>
+      <band id="11531">256 (Wessex) L.A.A. Regt R.A.</band>
+      <conductor id="297393">G. E. Ball</conductor>
+    </result>
+    
+    <result id="192002">
+      <result code="3">3</result>
+      <band id="2133">Ercol</band>
+      <conductor id="306654">S. Nesbitt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

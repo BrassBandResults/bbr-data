@@ -1,0 +1,61 @@
+<contest-event id="24888">
+  <event-date date="1916-6-12">June 12, 1916<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bishop Auckland Contest</name>
+  <contest id="2144">
+    <name>Bishop Auckland Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="354">Bishop Auckland Contest</group>
+    <slug>bishop-auckland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4080">Bishop&#39;s Park, Bishop Auckland</venue>
+  <notes>
+  5 bands competed.</notes>
+
+  <created>Nov. 5, 2013, 9:08 a.m.</created>
+  <last-modified>Oct. 5, 2018, 10:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="181737">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="181739">
+      <result code="2">2</result>
+      <band id="1704">Birtley St. Joseph</band>
+      <conductor id="296939">Israel Almond</conductor>
+    </result>
+    
+    <result id="181740">
+      <result code="3">3</result>
+      <band id="6690">Auckland Park</band>
+      <conductor id="299665">G. Cooper</conductor>
+    </result>
+    
+    <result id="181738">
+      <result code="4">4</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="303686">T. Hunter</conductor>
+    </result>
+    
+    <result id="181741">
+      <result code="5">5</result>
+      <band id="7752">Wolsingham</band>
+      <conductor id="300843">J. Hall Elliot</conductor>
+    </result>
+    
+  </results>
+</contest-event>

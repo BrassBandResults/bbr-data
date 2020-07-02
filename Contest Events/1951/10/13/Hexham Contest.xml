@@ -1,0 +1,55 @@
+<contest-event id="35617">
+  <event-date date="1951-10-13">Oct. 13, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hexham Contest</name>
+  <contest id="2298">
+    <name>Hexham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hexham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="5">March, Hymn and Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3136">Abbey Grounds, Hexham, Northumberland, England, UK</venue>
+  <notes>March contest - 1st Haltwhistle, 2nd Mickley, 3rd Haydon Bridge.
+Hymn tune - 1st Mickley, 2nd Haltwhistle, 3rd Haydon Bridge.</notes>
+
+  <created>July 5, 2016, 11:02 a.m.</created>
+  <last-modified>July 10, 2016, 9:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="258576">
+      <result code="1">1</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258577">
+      <result code="2">2</result>
+      <band id="6107">Brampton &amp; District Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258578">
+      <result code="3">3</result>
+      <band id="4075">Mickley Collery Workmen&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258579">
+      <result code="">Unknown Result</result>
+      <band id="6446">Haydon Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

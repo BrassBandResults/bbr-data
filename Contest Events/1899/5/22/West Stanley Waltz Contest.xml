@@ -1,0 +1,80 @@
+<contest-event id="12340">
+  <event-date date="1899-5-22">May 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Waltz Contest</name>
+  <contest id="2537">
+    <name>West Stanley Waltz Contest</name>
+    <order>110</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="227">West Stanley Contest</group>
+    <slug>west-stanley-waltz-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="908">West Stanley, County Durham</venue>
+  <notes>Prizes - 1st £15, 2nd £9, 3rd £4, 4th £2.
+7 bands competed.</notes>
+
+  <created>April 12, 2012, 4:25 p.m.</created>
+  <last-modified>July 27, 2019, 10:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98747">
+      <result code="1">1</result>
+      <band id="6279">West Pelton Volunteers</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="5607">Amoretten</test-piece>
+    </result>
+    
+    <result id="98748">
+      <result code="2">2</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="5599">Waltz: La Chatelaine</test-piece>
+    </result>
+    
+    <result id="98749">
+      <result code="3">3</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="297937">Richard Binnie</conductor>
+      <test-piece id="5599">Waltz: La Chatelaine</test-piece>
+    </result>
+    
+    <result id="98750">
+      <result code="4">4</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="300756">J. Edward</conductor>
+      <test-piece id="1855">Sunny Spain</test-piece>
+    </result>
+    
+    <result id="98751">
+      <result code="">Unknown Result</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="1083">Rose of England</test-piece>
+    </result>
+    
+    <result id="98752">
+      <result code="">Unknown Result</result>
+      <band id="6195">Beamish</band>
+      <conductor id="298269">Phineas Bower</conductor>
+      <test-piece id="1855">Sunny Spain</test-piece>
+    </result>
+    
+    <result id="98753">
+      <result code="">Unknown Result</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="301261">Squire Firth</conductor>
+      <test-piece id="4339">Dreams of the Ocean</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

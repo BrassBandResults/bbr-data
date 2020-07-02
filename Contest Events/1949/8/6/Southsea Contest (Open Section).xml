@@ -1,0 +1,64 @@
+<contest-event id="24920">
+  <event-date date="1949-8-6">Aug. 6, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southsea Contest (Open Section)</name>
+  <contest id="4863">
+    <name>Southsea Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southsea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1038">Schubert&#39;s Symphony in C [arr. J. A. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="4464">Southsea, Hampshire</venue>
+  <notes>Best cornet, horn, flugal and euphonium - Hoo Silver.
+Best soprano - Horsham Borough.
+Prizes - 1st £50 and trophy, 2nd £20 and trophy, 3rd £10 and trophy.
+5 bands competed.
+</notes>
+
+  <created>Nov. 5, 2013, 4:53 p.m.</created>
+  <last-modified>March 20, 2020, 8:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190803">
+      <result code="1">1</result>
+      <band id="4657">Hoo Silver</band>
+      <conductor id="297392">Eric Ball</conductor>
+    </result>
+    
+    <result id="190813">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="190804">
+      <result code="3">3</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="306116">E. W. Miles</conductor>
+    </result>
+    
+    <result id="316243">
+      <result code="4">4</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="317700">James Scott</conductor>
+    </result>
+    
+    <result id="305060">
+      <result code="5">5</result>
+      <band id="17725">Yatesbury R.A.F.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

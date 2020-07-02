@@ -1,0 +1,64 @@
+<contest-event id="26059">
+  <event-date date="1934-8-7">Aug. 7, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="4419">Municipal Sports Ground, Derby</venue>
+  <notes>Derby County Show
+
+5 bands competed
+
+March: 1. Stanton, 2. Newhall, 3. GR Turners</notes>
+
+  <created>Jan. 22, 2014, 2:26 p.m.</created>
+  <last-modified>Jan. 9, 2017, 11:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188659">
+      <result code="1">1</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="310654">John Turner</conductor>
+    </result>
+    
+    <result id="188660">
+      <result code="2">2</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="301784">J. J. Gibson</conductor>
+    </result>
+    
+    <result id="188661">
+      <result code="3">3</result>
+      <band id="8412">G R Turner&#39;s</band>
+      <conductor id="309664">E. J. Stanway</conductor>
+    </result>
+    
+    <result id="188662">
+      <result code="4">4</result>
+      <band id="12320">Loscoe Miners</band>
+      <conductor id="308955">John Sharpe</conductor>
+    </result>
+    
+    <result id="188663">
+      <result code="5">5</result>
+      <band id="4893">Sandiacre Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

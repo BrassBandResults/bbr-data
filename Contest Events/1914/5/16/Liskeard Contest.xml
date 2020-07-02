@@ -1,0 +1,45 @@
+<contest-event id="25380">
+  <event-date date="1914-5-16">May 16, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Liskeard Contest</name>
+  <contest id="4942">
+    <name>Liskeard Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>liskeard-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2628">The Martyrs</test-piece>
+  </test-piece>
+
+  <venue id="4283">Liskeard, Cornwall</venue>
+  <notes>Prizes: £15, £9.
+Best cornet, soprano and euphonium - St Dennis.
+Best trombone - Camborne.
+ 2 bands competed</notes>
+
+  <created>Nov. 30, 2013, 7:34 p.m.</created>
+  <last-modified>Oct. 3, 2018, 6:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="184568">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="184567">
+      <result code="2">2</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="304904">William Layman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

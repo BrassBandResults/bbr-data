@@ -1,0 +1,52 @@
+<contest-event id="22224">
+  <event-date date="1914-1-3">Jan. 3, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bethesda Contest</name>
+  <contest id="1572">
+    <name>Bethesda Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bethesda</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="1033">Gas Ty Mawr, Victoria Place, Bethesda</venue>
+  <notes>  
+  3 bands competed.
+
+March: 1. Conway
+</notes>
+
+  <created>July 13, 2013, 10:42 a.m.</created>
+  <last-modified>March 22, 2020, 8:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="165133">
+      <result code="1">1</result>
+      <band id="5214">Cynfi</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="316367">
+      <result code="2">2</result>
+      <band id="13236">Aberconway School</band>
+      <conductor id="318995">David Williams</conductor>
+    </result>
+    
+    <result id="165127">
+      <result code="3">3</result>
+      <band id="11137">Port Penrhyn</band>
+      <conductor id="310297">O. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

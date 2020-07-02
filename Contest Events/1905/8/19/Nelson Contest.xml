@@ -1,0 +1,69 @@
+<contest-event id="10424">
+  <event-date date="1905-8-19">Aug. 19, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1643">Gems of Irish Melody</test-piece>
+  </test-piece>
+
+  <venue id="1424">Nelson, Lancashire, England, UK</venue>
+  <notes>1st prize £15 and cup, 2nd prize £10, 3rd prize £6, 4th prize £3.
+March contest  1st Earby,  2nd Batley Old.
+3rd consecutive win for Irwell Springs - trophy won outright.
+6 bands competed.</notes>
+
+  <created>Feb. 18, 2012, 12:13 p.m.</created>
+  <last-modified>Sept. 11, 2018, 8:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87638">
+      <result code="1">1</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="87639">
+      <result code="2">2</result>
+      <band id="18682">Crooke</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="87640">
+      <result code="3">3</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="87641">
+      <result code="4">4</result>
+      <band id="894">Earby Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="200623">
+      <result code="">Unknown Result</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="200624">
+      <result code="">Unknown Result</result>
+      <band id="5589">Millgate</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

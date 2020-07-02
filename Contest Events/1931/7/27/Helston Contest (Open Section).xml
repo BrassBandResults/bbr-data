@@ -1,0 +1,55 @@
+<contest-event id="25824">
+  <event-date date="1931-7-27">July 27, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Helston Contest (Open Section)</name>
+  <contest id="4750">
+    <name>Helston Contest (Open Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="483">Helston Contest</group>
+    <slug>helston-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1049">The Mastersingers (Die Meistersinger)</test-piece>
+  </test-piece>
+
+  <venue id="1807">Helston, Cornwall</venue>
+  <notes>March: 1. St Dennis, 2. Penzance.
+Prizes - 1st £25 and cup, 2nd £15, 3rd £8, 4th £4.</notes>
+
+  <created>Jan. 12, 2014, 9:54 p.m.</created>
+  <last-modified>June 26, 2020, 3:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187222">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187223">
+      <result code="2">2</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187224">
+      <result code="3">3</result>
+      <band id="4496">Truro City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187225">
+      <result code="4">4</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

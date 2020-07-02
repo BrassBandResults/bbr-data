@@ -1,0 +1,92 @@
+<contest-event id="10717">
+  <event-date date="1906-6-2">June 2, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hetton Contest</name>
+  <contest id="1838">
+    <name>Hetton Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="342">Hetton Contest</group>
+    <slug>hetton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1005">L&#39;Etoile du Nord [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1291">Hetton, County Durham</venue>
+  <notes>1st prize £9, 2nd prize £6, 3rd prize £3, 4th prize £1 divided between Pelton Colliery and Dunston Temperance.
+March contest - 1st Brandon Colliery, 2nd Birtley Town.
+9 bands competed</notes>
+
+  <created>Feb. 28, 2012, 2:32 p.m.</created>
+  <last-modified>Sept. 14, 2018, 9:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="89537">
+      <result code="1">1</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="305455">John Mackintosh</conductor>
+    </result>
+    
+    <result id="89538">
+      <result code="2">2</result>
+      <band id="4504">Birtley Town</band>
+      <conductor id="312138">James Young</conductor>
+    </result>
+    
+    <result id="89539">
+      <result code="3">3</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+    <result id="89541">
+      <result code="4">4</result>
+      <band id="577">Dunston Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89540">
+      <result code="4">4</result>
+      <band id="6696">Pelton Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89545">
+      <result code="">Unknown Result</result>
+      <band id="6632">Browney Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89546">
+      <result code="">Unknown Result</result>
+      <band id="5177">Sacriston Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89543">
+      <result code="">Unknown Result</result>
+      <band id="4160">Shotton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89542">
+      <result code="">Unknown Result</result>
+      <band id="6650">South Pelaw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89544">
+      <result code="">Unknown Result</result>
+      <band id="7046">Southwick Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

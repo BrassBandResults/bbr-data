@@ -1,0 +1,90 @@
+<contest-event id="12206">
+  <event-date date="1899-4-3">April 3, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rugby Contest</name>
+  <contest id="1797">
+    <name>Rugby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rugby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="1503">Rugby, Warwickshire</venue>
+  <notes>
+
+  1st prize £10 and 2nd prize £5 divided between Finedon and Wollaston.
+  3rd prize £3.
+  4th prize £2.
+
+  9 bands competed.</notes>
+
+  <created>April 10, 2012, 1:16 p.m.</created>
+  <last-modified>April 10, 2012, 1:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="97969">
+      <result code="1">1</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="97968">
+      <result code="1">1</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="97970">
+      <result code="3">3</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="97971">
+      <result code="4">4</result>
+      <band id="7766">Leicester Highfields</band>
+      <conductor id="299211">J. Chapman</conductor>
+    </result>
+    
+    <result id="97972">
+      <result code="">Unknown Result</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="97973">
+      <result code="">Unknown Result</result>
+      <band id="7767">Market Harborough Volunteers</band>
+      <conductor id="319431">A. Taylor</conductor>
+    </result>
+    
+    <result id="97974">
+      <result code="">Unknown Result</result>
+      <band id="4022">Lilleshall Collieries</band>
+      <conductor id="297697">James Bedford</conductor>
+    </result>
+    
+    <result id="97975">
+      <result code="">Unknown Result</result>
+      <band id="7507">Hugglescote Town</band>
+      <conductor id="299092">R. Cartwright</conductor>
+    </result>
+    
+    <result id="97976">
+      <result code="">Unknown Result</result>
+      <band id="4314">Northampton Town</band>
+      <conductor id="302365">James Hager</conductor>
+    </result>
+    
+  </results>
+</contest-event>

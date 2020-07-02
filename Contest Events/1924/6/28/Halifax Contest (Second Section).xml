@@ -1,0 +1,97 @@
+<contest-event id="26915">
+  <event-date date="1924-6-28">June 28, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Halifax Contest (Second Section)</name>
+  <contest id="2698">
+    <name>Halifax Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="340">Halifax Contest</group>
+    <slug>halifax-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4580">Thrum Hall, Hanson Lane, Halifax</venue>
+  <notes>Band drawn no 1 (Ovenden) allowed to play again, drew no 3.
+8 bands competed.</notes>
+
+  <created>April 4, 2014, 8:04 p.m.</created>
+  <last-modified>Aug. 24, 2016, 8:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194540">
+      <result code="1">1</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="194542">
+      <result code="2">2</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="299111">Tom Casson</conductor>
+    </result>
+    
+    <result id="194541">
+      <result code="3">3</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="311918">Willie Wood</conductor>
+    </result>
+    
+    <result id="194543">
+      <result code="4">4</result>
+      <band id="1714">Lowerhouse Mills Burnley</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="194545">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="311918">Willie Wood</conductor>
+    </result>
+    
+    <result id="194546">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="194537">
+      <result code="">Unknown Result</result>
+      <band id="4404">Brighouse Subscription</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="194547">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="314513">Septimus Wilcock</conductor>
+    </result>
+    
+    <result id="194538">
+      <result code="W">Withdrawn</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194539">
+      <result code="W">Withdrawn</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194544">
+      <result code="W">Withdrawn</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="35813">
+  <event-date date="1936-1-26">Jan. 26, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (C Grade)</name>
+  <contest id="618">
+    <name>NSW State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1361">Haydn</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 1, 2016, 12:52 a.m.</created>
+  <last-modified>Oct. 6, 2016, 3:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259944">
+      <result code="1">1</result>
+      <band id="12002">Central Coast Brass</band>
+      <conductor id="311267">Dick Wells</conductor>
+    </result>
+    
+    <result id="259945">
+      <result code="2">2</result>
+      <band id="14115">Concord Citizens</band>
+      <conductor id="302980">Jock Herron</conductor>
+    </result>
+    
+    <result id="259946">
+      <result code="3">3</result>
+      <band id="13763">Wellington  Town</band>
+      <conductor id="304622">Charles Knight</conductor>
+    </result>
+    
+  </results>
+</contest-event>

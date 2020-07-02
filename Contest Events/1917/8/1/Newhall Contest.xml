@@ -1,0 +1,60 @@
+<contest-event id="40599">
+  <event-date date="1917-8-1">Aug. 1, 1917<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Newhall Contest</name>
+  <contest id="1916">
+    <name>Newhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2991">Gems from the Great Masters</test-piece>
+  </test-piece>
+
+  <venue id="4605">Newhall Park, Newhall, Derbyshire</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Oct. 8, 2018, 12:42 p.m.</created>
+  <last-modified>Oct. 8, 2018, 12:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295410">
+      <result code="1">1</result>
+      <band id="17408">Burton United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="295411">
+      <result code="2">2</result>
+      <band id="4090">Ibstock Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="295407">
+      <result code="3">3</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="295408">
+      <result code="4">4</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="295409">
+      <result code="5">5</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

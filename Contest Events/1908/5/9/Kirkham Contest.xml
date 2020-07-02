@@ -1,0 +1,60 @@
+<contest-event id="23653">
+  <event-date date="1908-5-9">May 9, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkham Contest</name>
+  <contest id="1970">
+    <name>Kirkham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkham-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1401">Kirkham, Lancashire</venue>
+  <notes></notes>
+
+  <created>Sept. 10, 2013, 8:39 p.m.</created>
+  <last-modified>May 29, 2014, 3:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="200631">
+      <result code="1">1</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="307949">Peter Rawstrone</conductor>
+    </result>
+    
+    <result id="200634">
+      <result code="2">2</result>
+      <band id="3692">St. Annes on the Sea</band>
+      <conductor id="305094">T. Lightbourne</conductor>
+    </result>
+    
+    <result id="200630">
+      <result code="3">3</result>
+      <band id="4621">Kirkham Subscription</band>
+      <conductor id="302184">E. Gregson</conductor>
+    </result>
+    
+    <result id="200633">
+      <result code="">Unknown Result</result>
+      <band id="10903">Poulton-Le-Fylde Band</band>
+      <conductor id="308310">T. E. Roberts</conductor>
+    </result>
+    
+    <result id="200632">
+      <result code="">Unknown Result</result>
+      <band id="7579">Blackpool Ambulance</band>
+      <conductor id="309658">D. Stansfield</conductor>
+    </result>
+    
+  </results>
+</contest-event>

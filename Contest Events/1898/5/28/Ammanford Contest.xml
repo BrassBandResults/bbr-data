@@ -1,0 +1,48 @@
+<contest-event id="13449">
+  <event-date date="1898-5-28">May 28, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ammanford Contest</name>
+  <contest id="2777">
+    <name>Ammanford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ammanford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="157">Ammanford, Carmarthenshire, Wales, UK</venue>
+  <notes>3 bands competed</notes>
+
+  <created>May 12, 2012, 10:21 p.m.</created>
+  <last-modified>July 17, 2019, 11:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106703">
+      <result code="1">1</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106704">
+      <result code="2">2</result>
+      <band id="7619">Cwmmawr</band>
+      <conductor id="302670">Tom Harris</conductor>
+    </result>
+    
+    <result id="106705">
+      <result code="">Unknown Result</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

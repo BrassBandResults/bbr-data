@@ -1,0 +1,68 @@
+<contest-event id="12132">
+  <event-date date="1894-6-23">June 23, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cockermouth Contest</name>
+  <contest id="2369">
+    <name>Cockermouth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cockermouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="2591">Cockermouth, Cumbria, England, UK</venue>
+  <notes>1st Section
+
+Prizes: £12, £5, £3</notes>
+
+  <created>April 9, 2012, 2:12 p.m.</created>
+  <last-modified>Oct. 18, 2014, 7:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="97356">
+      <result code="1">1</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="97357">
+      <result code="2">2</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="97358">
+      <result code="3">3</result>
+      <band id="7655">Lancaster Borough</band>
+      <conductor id="297736">F. L. Bell</conductor>
+    </result>
+    
+    <result id="276568">
+      <result code="">Unknown Result</result>
+      <band id="8734">Broughton Brass Band [Northamptonshire]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="276567">
+      <result code="">Unknown Result</result>
+      <band id="12187">Cleator Moor St John&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="276566">
+      <result code="">Unknown Result</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

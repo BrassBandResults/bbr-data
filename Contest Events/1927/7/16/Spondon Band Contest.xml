@@ -1,0 +1,79 @@
+<contest-event id="41323">
+  <event-date date="1927-7-16">July 16, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Spondon Band Contest</name>
+  <contest id="1125">
+    <name>Spondon Band Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>spondon-band-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="6268">Spondon, Derbyshire</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £6, 3rd £3.
+8 bands competed</notes>
+
+  <created>Nov. 21, 2018, 6:15 p.m.</created>
+  <last-modified>Nov. 21, 2018, 6:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="300344">
+      <result code="1">1</result>
+      <band id="1655">Dove Holes Band</band>
+      <conductor id="300727">Walter Eastwood</conductor>
+    </result>
+    
+    <result id="300345">
+      <result code="2">2</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="300346">
+      <result code="3">3</result>
+      <band id="467">Enderby Band</band>
+      <conductor id="304463">George Kent</conductor>
+    </result>
+    
+    <result id="300348">
+      <result code="">Unknown Result</result>
+      <band id="3493">Clay Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300347">
+      <result code="">Unknown Result</result>
+      <band id="4090">Ibstock Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300349">
+      <result code="">Unknown Result</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300350">
+      <result code="">Unknown Result</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300351">
+      <result code="">Unknown Result</result>
+      <band id="4895">Stapleford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="25562">
+  <event-date date="1925-9-12">Sept. 12, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Paulton Contest</name>
+  <contest id="4984">
+    <name>Paulton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>paulton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2825">Hiawatha [Laurent]</test-piece>
+  </test-piece>
+
+  <venue id="4343">Paulton, Somerset, England, UK</venue>
+  <notes>March: 1. Kingswood, 2. Keynsham, 3. Clutton.
+8 bands competed.</notes>
+
+  <created>Dec. 10, 2013, 8:49 p.m.</created>
+  <last-modified>Nov. 7, 2018, 12:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185341">
+      <result code="1">1</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="185343">
+      <result code="2">2</result>
+      <band id="3988">Keynsham Brass Band</band>
+      <conductor id="299842">J. Cozens</conductor>
+    </result>
+    
+    <result id="185336">
+      <result code="3">3</result>
+      <band id="11621">Clutton Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185337">
+      <result code="3">3</result>
+      <band id="5778">Paulton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185338">
+      <result code="">Unknown Result</result>
+      <band id="11729">Chilcompton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185339">
+      <result code="">Unknown Result</result>
+      <band id="9072">Fishponds Argyle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185342">
+      <result code="">Unknown Result</result>
+      <band id="11416">Midsomer Norton Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185340">
+      <result code="">Unknown Result</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

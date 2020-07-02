@@ -1,0 +1,61 @@
+<contest-event id="35413">
+  <event-date date="1948-6-19">June 19, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Epperstone Contest</name>
+  <contest id="5993">
+    <name>Epperstone Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>epperstone-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1045">Songs of England [Bath]</test-piece>
+  </test-piece>
+
+  <venue id="6199">Epperstone, Nottinghamshire</venue>
+  <notes>March contest(own choice) - 1st Ormonde Colliery, 2nd Whaley Bridge, 3rd Kirkby.
+Prizes - 1st £25 and trophy, 2nd £15, 3rd £10, 4th £5.</notes>
+
+  <created>May 26, 2016, 9:31 a.m.</created>
+  <last-modified>June 26, 2020, 2:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255741">
+      <result code="1">1</result>
+      <band id="12320">Loscoe Miners</band>
+      <conductor id="311219">J. C. Webster</conductor>
+    </result>
+    
+    <result id="255742">
+      <result code="2">2</result>
+      <band id="2492">Ollerton Colliery Silver Prize Band</band>
+      <conductor id="297080">William Appleton</conductor>
+    </result>
+    
+    <result id="255743">
+      <result code="3">3</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="305314">Harold Lowe</conductor>
+    </result>
+    
+    <result id="255744">
+      <result code="4">4</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="297394">H. Ball</conductor>
+    </result>
+    
+    <result id="255770">
+      <result code="">Unknown Result</result>
+      <band id="778">Whaley Bridge Brass</band>
+      <conductor id="311881">F. Wood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

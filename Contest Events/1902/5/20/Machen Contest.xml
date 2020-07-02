@@ -1,0 +1,67 @@
+<contest-event id="40055">
+  <event-date date="1902-5-20">May 20, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Machen Contest</name>
+  <contest id="1868">
+    <name>Machen Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="322">Machen Contest</group>
+    <slug>machen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1801">Songs of Other Days</test-piece>
+  </test-piece>
+
+  <venue id="1312">Machen, Caerphilly, Wales, UK</venue>
+  <notes>8 bands competed, names of bands drawn 4 and 7 not shown in Brass Band News June 1902.
+8th annual contest</notes>
+
+  <created>July 3, 2018, 9:09 p.m.</created>
+  <last-modified>July 5, 2018, 9:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291149">
+      <result code="1">1</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="291148">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="300719">Thomas Eastwood</conductor>
+    </result>
+    
+    <result id="291152">
+      <result code="3">3</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+    <result id="291150">
+      <result code="4">4</result>
+      <band id="12878">Troedyrhiw Band</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+    <result id="291151">
+      <result code="">Unknown Result</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="300718">T. Eastwood</conductor>
+    </result>
+    
+    <result id="291153">
+      <result code="">Unknown Result</result>
+      <band id="6598">Maindee</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

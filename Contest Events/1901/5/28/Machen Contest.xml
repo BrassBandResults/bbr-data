@@ -1,0 +1,66 @@
+<contest-event id="39989">
+  <event-date date="1901-5-28">May 28, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Machen Contest</name>
+  <contest id="1868">
+    <name>Machen Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="322">Machen Contest</group>
+    <slug>machen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="1312">Machen, Caerphilly, Wales, UK</venue>
+  <notes>6 bands competed</notes>
+
+  <created>June 21, 2018, 9:36 a.m.</created>
+  <last-modified>June 21, 2018, 8:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="290650">
+      <result code="1">1</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="298155">John Bond</conductor>
+    </result>
+    
+    <result id="290651">
+      <result code="2">2</result>
+      <band id="7623">Nelson Temperance</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+    <result id="290652">
+      <result code="3">3</result>
+      <band id="6596">Deri</band>
+      <conductor id="307641">William Powell</conductor>
+    </result>
+    
+    <result id="290653">
+      <result code="4">4</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="313435">T. Williams</conductor>
+    </result>
+    
+    <result id="290667">
+      <result code="">Unknown Result</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="301472">T. Foxhall</conductor>
+    </result>
+    
+    <result id="290668">
+      <result code="">Unknown Result</result>
+      <band id="7756">St. Saviour&#39;s (Cardiff) Silver</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

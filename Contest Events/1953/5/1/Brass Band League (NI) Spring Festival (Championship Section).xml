@@ -1,0 +1,54 @@
+<contest-event id="14189">
+  <event-date date="1953-5-1">May 1, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Championship Section)</name>
+  <contest id="240">
+    <name>Brass Band League (NI) Spring Festival (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-championship-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="798">King Lear</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:46 p.m.</created>
+  <last-modified>Feb. 25, 2013, 10:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113198">
+      <result code="1">1</result>
+      <band id="237">Laganvale Band</band>
+      <conductor id="296775">Robert Adair</conductor>
+    </result>
+    
+    <result id="113199">
+      <result code="2">2</result>
+      <band id="2640">East Belfast Silver Band</band>
+      <conductor id="298744">Alfie Burch</conductor>
+    </result>
+    
+    <result id="113200">
+      <result code="3">3</result>
+      <band id="1376">55th Old Boys Association Silver Band</band>
+      <conductor id="301380">A. Forbes</conductor>
+    </result>
+    
+    <result id="113201">
+      <result code="">Unknown Result</result>
+      <band id="31">1st Old Boys Association Band (Belfast)</band>
+      <conductor id="299716">George Corbett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

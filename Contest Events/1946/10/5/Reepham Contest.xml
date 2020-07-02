@@ -1,0 +1,87 @@
+<contest-event id="35393">
+  <event-date date="1946-10-5">Oct. 5, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reepham Contest</name>
+  <contest id="4088">
+    <name>Reepham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>reepham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3326">Reepham, Norfolk</venue>
+  <notes>March contest - 1st Norwich Lads Club, 2nd Drayton, 3rd Fakenham.
+Deportment - 1st Fakenham, 2nd Watton B.L.
+9 bands competed.</notes>
+
+  <created>May 25, 2016, 9:08 a.m.</created>
+  <last-modified>May 25, 2016, 9:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="255628">
+      <result code="1">1</result>
+      <band id="840">Dereham Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+      <test-piece id="2921">La Traviata (arr. Rimmer)</test-piece>
+    </result>
+    
+    <result id="255629">
+      <result code="2">2</result>
+      <band id="335">Cawston Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255630">
+      <result code="3">3</result>
+      <band id="13915">Reepham Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255635">
+      <result code="">Unknown Result</result>
+      <band id="11428">Broadland Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255632">
+      <result code="">Unknown Result</result>
+      <band id="2112">Castleton Brass [Suffolk]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255633">
+      <result code="">Unknown Result</result>
+      <band id="831">Fakenham Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255631">
+      <result code="">Unknown Result</result>
+      <band id="10492">Norwich Lads Club</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255636">
+      <result code="">Unknown Result</result>
+      <band id="10144">Sheringham Youth Centre</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255634">
+      <result code="">Unknown Result</result>
+      <band id="10527">Watton and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

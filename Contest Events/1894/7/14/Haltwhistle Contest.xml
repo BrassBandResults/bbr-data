@@ -1,0 +1,58 @@
+<contest-event id="12219">
+  <event-date date="1894-7-14">July 14, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haltwhistle Contest</name>
+  <contest id="2087">
+    <name>Haltwhistle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haltwhistle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="1522">Haltwhistle, Northumberland</venue>
+  <notes>5 bands competed
+
+Prizes: £20, £12, £5, £2
+
+March contest: 1. South Derwent</notes>
+
+  <created>April 10, 2012, 4:38 p.m.</created>
+  <last-modified>April 10, 2012, 4:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98045">
+      <result code="1">1</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="98046">
+      <result code="2">2</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="299316">J. R. Christon</conductor>
+    </result>
+    
+    <result id="98047">
+      <result code="3">3</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="309508">Thomas Snowdon</conductor>
+    </result>
+    
+    <result id="98048">
+      <result code="4">4</result>
+      <band id="3677">Derwent Iron and Steel Works</band>
+      <conductor id="300713">George Eastwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

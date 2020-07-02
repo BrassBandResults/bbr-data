@@ -1,0 +1,54 @@
+<contest-event id="8507">
+  <event-date date="1947-3-15">March 15, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Eastern Area (Second Section)</name>
+  <contest id="18">
+    <name>Yorkshire Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="150">Sinfonietta Pastorale</test-piece>
+  </test-piece>
+
+  <venue id="713">Huddersfield Town Hall, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>Dec. 7, 2011, 10:55 p.m.</created>
+  <last-modified>Nov. 19, 2014, 11:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="75488">
+      <result code="1">1</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="75489">
+      <result code="2">2</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="302992">George Hespe</conductor>
+    </result>
+    
+    <result id="75490">
+      <result code="3">3</result>
+      <band id="3268">Phoenix Works (Rotherham)</band>
+      <conductor id="302992">George Hespe</conductor>
+    </result>
+    
+    <result id="75491">
+      <result code="4">4</result>
+      <band id="3271">Bradford Victoria</band>
+      <conductor id="297392">Eric Ball</conductor>
+    </result>
+    
+  </results>
+</contest-event>

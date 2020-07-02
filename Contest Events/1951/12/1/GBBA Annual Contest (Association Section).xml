@@ -1,0 +1,49 @@
+<contest-event id="35699">
+  <event-date date="1951-12-1">Dec. 1, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>GBBA Annual Contest (Association Section)</name>
+  <contest id="3732">
+    <name>GBBA Annual Contest (Association Section)</name>
+    <order>500</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="96">GBBA Own Choice Contest</group>
+    <slug>gbba-annual-contest-association-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2686">Gloucester, Gloucestershire, England, UK</venue>
+  <notes>March contest - 1st Stroud.
+5 bands competed.</notes>
+
+  <created>July 11, 2016, 12:15 p.m.</created>
+  <last-modified>March 15, 2019, 3:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259012">
+      <result code="1">1</result>
+      <band id="2992">Stroud and District</band>
+      <conductor id="311613">Ellis Williams</conductor>
+    </result>
+    
+    <result id="259013">
+      <result code="2">2</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259014">
+      <result code="3">3</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

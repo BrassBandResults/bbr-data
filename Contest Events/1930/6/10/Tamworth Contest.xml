@@ -1,0 +1,63 @@
+<contest-event id="24636">
+  <event-date date="1930-6-10">June 10, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tamworth Contest</name>
+  <contest id="2014">
+    <name>Tamworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="256">Tamworth Contest</group>
+    <slug>tamworth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="947">Recollections of Schubert [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3943">Castle Grounds, Tamworth, Staffordshire</venue>
+  <notes>
+  Prizes - 1st £20, 2nd £12, 3rd £8, 4th £4.
+  1st annual contest promoted by Tamworth Band of Hope Union.
+  5 bands competed.</notes>
+
+  <created>Oct. 22, 2013, 11:42 a.m.</created>
+  <last-modified>Dec. 6, 2018, 4:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180165">
+      <result code="1">1</result>
+      <band id="347">Amington Band</band>
+      <conductor id="300220">Roland Davis</conductor>
+    </result>
+    
+    <result id="180166">
+      <result code="2">2</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="307384">Isaac Perrin</conductor>
+    </result>
+    
+    <result id="180167">
+      <result code="3">3</result>
+      <band id="8411">Whitwell British Legion</band>
+      <conductor id="309384">J. A. Smith</conductor>
+    </result>
+    
+    <result id="180168">
+      <result code="4">4</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180169">
+      <result code="5">5</result>
+      <band id="236">Staffordshire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

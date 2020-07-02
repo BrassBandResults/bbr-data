@@ -1,0 +1,62 @@
+<contest-event id="25920">
+  <event-date date="1937-5-17">May 17, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southern Counties Association Contest (1st Section)</name>
+  <contest id="2598">
+    <name>Southern Counties Association Contest (1st Section)</name>
+    <order>8</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="463">Southern Counties Association Contest</group>
+    <slug>southern-counties-association-contest-1st-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1360">The Bronze Horse</test-piece>
+  </test-piece>
+
+  <venue id="4397">St. David&#39;s School, Reigate, Surrey</venue>
+  <notes>March contest - 1st Horsham, 2nd Haywards Heath.
+40th annual contest
+  5 bands competed</notes>
+
+  <created>Jan. 18, 2014, 8:42 a.m.</created>
+  <last-modified>Jan. 18, 2019, 12:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187891">
+      <result code="1">1</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="187892">
+      <result code="2">2</result>
+      <band id="4659">Haywards Heath Town</band>
+      <conductor id="298215">W. G. Bosley</conductor>
+    </result>
+    
+    <result id="187893">
+      <result code="3">3</result>
+      <band id="6859">Lambeth Borough</band>
+      <conductor id="300052">G. Daley</conductor>
+    </result>
+    
+    <result id="188175">
+      <result code="">Unknown Result</result>
+      <band id="3959">Copthorne Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188176">
+      <result code="">Unknown Result</result>
+      <band id="7316">Redhill Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

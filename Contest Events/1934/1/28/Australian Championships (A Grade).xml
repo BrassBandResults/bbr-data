@@ -1,0 +1,51 @@
+<contest-event id="33964">
+  <event-date date="1934-1-28">Jan. 28, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1203">Oriental Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>No lower grades run in this year.</notes>
+
+  <created>Feb. 7, 2016, 9:10 a.m.</created>
+  <last-modified>Jan. 29, 2018, 2:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="244938">
+      <result code="1">1</result>
+      <band id="13028">Hamilton Citizens</band>
+      <conductor id="304416">James Kelly</conductor>
+      <test-piece id="3536">Slavonic Rhapsody</test-piece>
+    </result>
+    
+    <result id="244939">
+      <result code="2">2</result>
+      <band id="13038">55th Battalion</band>
+      <conductor id="299776">Charles Coughlan</conductor>
+      <test-piece id="4130">1st &amp; 12th Rhapsody of Liszt</test-piece>
+    </result>
+    
+    <result id="244940">
+      <result code="3">3</result>
+      <band id="9373">St. John Ambulance Brigade Band (District of NSW)</band>
+      <conductor id="297320">Albert Baile</conductor>
+      <test-piece id="3537">The Ring of the Nibelung</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

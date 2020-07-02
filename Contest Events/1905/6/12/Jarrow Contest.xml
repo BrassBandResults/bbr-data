@@ -1,0 +1,62 @@
+<contest-event id="10079">
+  <event-date date="1905-6-12">June 12, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Jarrow Contest</name>
+  <contest id="1860">
+    <name>Jarrow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="221">Jarrow Contest</group>
+    <slug>jarrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="940">Le Pre-aux-Clercs [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1309">Jarrow, Tyne and Wear, England, UK</venue>
+  <notes>1st prize £8 and cup, 2nd prize £4, 3rd prize £2, 4th prize £1.
+5 bands competed.
+March contest 1st (£1) Hetton Colliery, 2nd (10s.) Willington Silver.</notes>
+
+  <created>Feb. 10, 2012, 7:30 p.m.</created>
+  <last-modified>Sept. 6, 2018, 11:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85424">
+      <result code="1">1</result>
+      <band id="5388">Chester-le-Street</band>
+      <conductor id="303593">J. Hughes</conductor>
+    </result>
+    
+    <result id="85425">
+      <result code="2">2</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="298945">William Calvert</conductor>
+    </result>
+    
+    <result id="85426">
+      <result code="3">3</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="85427">
+      <result code="4">4</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="85428">
+      <result code="5">5</result>
+      <band id="577">Dunston Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

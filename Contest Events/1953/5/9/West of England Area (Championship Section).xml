@@ -1,0 +1,91 @@
+<contest-event id="3532">
+  <event-date date="1953-5-9">May 9, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Championship Section)</name>
+  <contest id="38">
+    <name>West of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="239">Rhapsody in Brass</test-piece>
+  </test-piece>
+
+  <venue id="297">Civic Hall, Exeter</venue>
+  <notes>
+  10 bands competed.</notes>
+
+  <created>Jan. 16, 2011, 3:35 p.m.</created>
+  <last-modified>March 5, 2013, 9:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="33031">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="308279">Fred Roberts</conductor>
+    </result>
+    
+    <result id="44326">
+      <result code="2">2</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="299388">Sydney Clarke</conductor>
+    </result>
+    
+    <result id="139553">
+      <result code="3">3</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="139554">
+      <result code="4">4</result>
+      <band id="7094">Albion Dockyard Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139556">
+      <result code="">Unknown Result</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139559">
+      <result code="">Unknown Result</result>
+      <band id="962">City of Exeter Railway Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139558">
+      <result code="">Unknown Result</result>
+      <band id="8342">City of Gloucester Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139555">
+      <result code="">Unknown Result</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139557">
+      <result code="">Unknown Result</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139560">
+      <result code="">Unknown Result</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

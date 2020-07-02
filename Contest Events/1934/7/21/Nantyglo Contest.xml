@@ -1,0 +1,55 @@
+<contest-event id="36818">
+  <event-date date="1934-7-21">July 21, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nantyglo Contest</name>
+  <contest id="6073">
+    <name>Nantyglo Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>nantyglo-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="6380">Nantyglo, Monmouthshire</venue>
+  <notes>March contest - 1st Blaina, 2nd Abercynon.
+9 bands competed.</notes>
+
+  <created>Jan. 9, 2017, 10:42 p.m.</created>
+  <last-modified>Jan. 9, 2017, 10:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="266958">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="266959">
+      <result code="2">2</result>
+      <band id="8138">Brynmawr R.V</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="266960">
+      <result code="3">3</result>
+      <band id="8976">Taff Merthyr Colliery</band>
+      <conductor id="311645">Joseph Williams</conductor>
+    </result>
+    
+    <result id="266961">
+      <result code="">Unknown Result</result>
+      <band id="8417">Abercynon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

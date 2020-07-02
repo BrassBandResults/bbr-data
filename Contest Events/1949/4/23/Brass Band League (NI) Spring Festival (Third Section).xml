@@ -1,0 +1,48 @@
+<contest-event id="14201">
+  <event-date date="1949-4-23">April 23, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Third Section)</name>
+  <contest id="238">
+    <name>Brass Band League (NI) Spring Festival (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-third-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1089">Country Life</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:55 p.m.</created>
+  <last-modified>June 14, 2016, 12:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113230">
+      <result code="1">1</result>
+      <band id="8955">Neill Memorial</band>
+      <conductor id="301121">P. Farrell</conductor>
+    </result>
+    
+    <result id="113231">
+      <result code="2">2</result>
+      <band id="1386">46th Old Boys Association Silver Band</band>
+      <conductor id="302101">Thomas Gray</conductor>
+    </result>
+    
+    <result id="113232">
+      <result code="3">3</result>
+      <band id="1337">Dungannon Silver Band</band>
+      <conductor id="298066">S. Bleakley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

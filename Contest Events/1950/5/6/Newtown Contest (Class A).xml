@@ -1,0 +1,66 @@
+<contest-event id="26448">
+  <event-date date="1950-5-6">May 6, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newtown Contest (Class A)</name>
+  <contest id="5123">
+    <name>Newtown Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newtown-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="1336">Newtown, Powys, Wales, UK</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Feb. 19, 2014, 4:26 p.m.</created>
+  <last-modified>Feb. 19, 2014, 4:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="191827">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+    <result id="191828">
+      <result code="2">2</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+    <result id="191829">
+      <result code="3">3</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="191830">
+      <result code="4">4</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="302650">F. Harris</conductor>
+    </result>
+    
+    <result id="191831">
+      <result code="5">5</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="191832">
+      <result code="W">Withdrawn</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

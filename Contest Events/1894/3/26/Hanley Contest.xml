@@ -1,0 +1,49 @@
+<contest-event id="11970">
+  <event-date date="1894-3-26">March 26, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hanley Contest</name>
+  <contest id="2381">
+    <name>Hanley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hanley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2009">Hanley, Stoke on Trent</venue>
+  <notes>Own choice waltz contest: 1. Silverdale Town, 2. Silverdale Silver
+4 bands competed - name of 4th band not published in Brass Band News April 1894 but remarks published.</notes>
+
+  <created>April 8, 2012, 4:44 p.m.</created>
+  <last-modified>June 11, 2019, 12:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96290">
+      <result code="1">1</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="96291">
+      <result code="2">2</result>
+      <band id="4092">Rist&#39;s Cable Works</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="96292">
+      <result code="3">3</result>
+      <band id="6654">Leek Temperance</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

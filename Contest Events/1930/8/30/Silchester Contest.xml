@@ -1,0 +1,50 @@
+<contest-event id="41536">
+  <event-date date="1930-8-30">Aug. 30, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Silchester Contest</name>
+  <contest id="6412">
+    <name>Silchester Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>silchester-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1348">The Marriage of Figaro - selection</test-piece>
+  </test-piece>
+
+  <venue id="4090">Silchester, Hampshire</venue>
+  <notes>March contest - 1st South Berks, 2nd Tadley.
+Prizes - 1st £7 and cup, 2nd £4, 3rd £3.
+3 bands competed.</notes>
+
+  <created>Dec. 11, 2018, 10:41 a.m.</created>
+  <last-modified>Dec. 11, 2018, 10:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="302070">
+      <result code="1">1</result>
+      <band id="1550">Tadley Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="302071">
+      <result code="2">2</result>
+      <band id="8392">South Berkshire</band>
+      <conductor id="304997">Jack Lennon</conductor>
+    </result>
+    
+    <result id="302072">
+      <result code="3">3</result>
+      <band id="7746">Hook and Odiham</band>
+      <conductor id="298536">A. Brooker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

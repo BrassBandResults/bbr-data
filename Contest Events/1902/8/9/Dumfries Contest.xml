@@ -1,0 +1,79 @@
+<contest-event id="23198">
+  <event-date date="1902-8-9">Aug. 9, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dumfries Contest</name>
+  <contest id="1351">
+    <name>Dumfries Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dumfries-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="873">Dumfries, Scotland</venue>
+  <notes>8 bands competed
+Prizes: £40, £25, £10, £5</notes>
+
+  <created>Aug. 20, 2013, 5:20 p.m.</created>
+  <last-modified>July 10, 2018, 7:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170614">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="170615">
+      <result code="2">2</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="306841">Walter Nuttall</conductor>
+    </result>
+    
+    <result id="170616">
+      <result code="3">3</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="170617">
+      <result code="4">4</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="314271">E. Sutton</conductor>
+    </result>
+    
+    <result id="291384">
+      <result code="">Unknown Result</result>
+      <band id="7963">3rd V.B. Kings Own Scottish Borders</band>
+      <conductor id="318169">J. Adams</conductor>
+    </result>
+    
+    <result id="291385">
+      <result code="">Unknown Result</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="291386">
+      <result code="">Unknown Result</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="299027">Albert A. Carr</conductor>
+    </result>
+    
+    <result id="291387">
+      <result code="">Unknown Result</result>
+      <band id="5527">Muirkirk Parish</band>
+      <conductor id="309459">W. Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

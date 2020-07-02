@@ -1,0 +1,62 @@
+<contest-event id="40150">
+  <event-date date="1934-4-1">April 1, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5611">No1. Maesgarmon / No.2   I. Capuletti</test-piece>
+  </test-piece>
+
+  <venue id="6894">Rockhampton Showground, Queensland, Australia</venue>
+  <notes>Other Disciplines
+hymn  (own choice)
+Oval March  Test  &quot; Cavalary of the Clouds&quot;</notes>
+
+  <created>Aug. 14, 2018, 12:14 a.m.</created>
+  <last-modified>Feb. 17, 2019, 11:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291824">
+      <result code="1">1</result>
+      <band id="17271">Rockhampton Railway</band>
+      <conductor id="318513">G. Hammond</conductor>
+    </result>
+    
+    <result id="291825">
+      <result code="2">2</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+    <result id="291826">
+      <result code="3">3</result>
+      <band id="6431">Maryborough Federal [Queensland]</band>
+      <conductor id="311364">Sam Whitaker</conductor>
+    </result>
+    
+    <result id="291827">
+      <result code="4">4</result>
+      <band id="5770">Gympie City Band</band>
+      <conductor id="318207">G. S. Jefferson</conductor>
+    </result>
+    
+    <result id="291828">
+      <result code="W">Withdrawn</result>
+      <band id="12957">Maryborough City Band [Queensland]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

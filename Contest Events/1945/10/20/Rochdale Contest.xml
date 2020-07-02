@@ -1,0 +1,91 @@
+<contest-event id="39879">
+  <event-date date="1945-10-20">Oct. 20, 1945<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rochdale Contest</name>
+  <contest id="798">
+    <name>Rochdale Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="148">Rochdale Annual Brass Band Festival</group>
+    <slug>rochdale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2314">Songs of England (Scholes)</test-piece>
+  </test-piece>
+
+  <venue id="587">Drill Hall, Rochdale</venue>
+  <notes>Prizes - 1st £20 and shield, 2nd £10 and cup, 3rd £7, 4th £3.1st annual contest at the Drill Hall.
+22 bands competed.</notes>
+
+  <created>June 7, 2018, 10:06 p.m.</created>
+  <last-modified>Feb. 5, 2019, 3:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="289338">
+      <result code="1">1</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="308335">Albert Robinson</conductor>
+    </result>
+    
+    <result id="289339">
+      <result code="2">2</result>
+      <band id="3384">Lockwood Band (Huddersfield)</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="289340">
+      <result code="3">3</result>
+      <band id="164">Milnrow Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="289341">
+      <result code="4">4</result>
+      <band id="2635">Tweedales &amp; Smalley</band>
+      <conductor id="304179">Clifton Jones</conductor>
+    </result>
+    
+    <result id="289342">
+      <result code="5">5</result>
+      <band id="3269">Greater Elland S P &amp; T Social</band>
+      <conductor id="299111">Tom Casson</conductor>
+    </result>
+    
+    <result id="289343">
+      <result code="6">6</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="318866">R. Cooper</conductor>
+    </result>
+    
+    <result id="289344">
+      <result code="">Unknown Result</result>
+      <band id="3221">Avro Works</band>
+      <conductor id="308524">Stanley Rowe</conductor>
+    </result>
+    
+    <result id="289452">
+      <result code="">Unknown Result</result>
+      <band id="2591">Burnage Manchester</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289346">
+      <result code="">Unknown Result</result>
+      <band id="3215">Levenshulme</band>
+      <conductor id="299030">Harry Carr</conductor>
+    </result>
+    
+    <result id="289345">
+      <result code="">Unknown Result</result>
+      <band id="4197">Platt&#39;s Moston Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

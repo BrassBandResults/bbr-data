@@ -1,0 +1,86 @@
+<contest-event id="33999">
+  <event-date date="1921-10-22">Oct. 22, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 9, 2016, 4:49 a.m.</created>
+  <last-modified>March 23, 2020, 11:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="245256">
+      <result code="1">1</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="309101">Harry Shugg</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="245257">
+      <result code="2">2</result>
+      <band id="1713">Newcastle Steel Works</band>
+      <conductor id="297320">Albert Baile</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="245258">
+      <result code="3">3</result>
+      <band id="12283">Collingwood Citizens</band>
+      <conductor id="304131">Frank Johnston</conductor>
+      <test-piece id="3538">Tristan and Isolde</test-piece>
+    </result>
+    
+    <result id="245259">
+      <result code="4">4</result>
+      <band id="2180">Glenelg Brass Band</band>
+      <conductor id="309945">Ossie Summerton</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="245260">
+      <result code="5">5</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="312041">Frank Wright</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="245261">
+      <result code="6">6</result>
+      <band id="9283">Lithgow City Brass Band</band>
+      <conductor id="311138">James Watson</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="245262">
+      <result code="7">7</result>
+      <band id="13093">Newcastle City</band>
+      <conductor id="304482">Henry Kerry</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="245263">
+      <result code="8">8</result>
+      <band id="1788">Kaikorai Metropolitan Brass</band>
+      <conductor id="300208">H. C. Davis</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

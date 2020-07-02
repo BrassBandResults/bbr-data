@@ -1,0 +1,60 @@
+<contest-event id="41982">
+  <event-date date="1949-12-3">Dec. 3, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="7027">Public Hall, Briton Ferry, Glamorgan, Wales, UK</venue>
+  <notes></notes>
+
+  <created>April 4, 2019, 7:26 p.m.</created>
+  <last-modified>April 4, 2019, 7:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="305955">
+      <result code="1">1</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="305178">Dan Lloyd</conductor>
+    </result>
+    
+    <result id="305956">
+      <result code="2">2</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">T. C. White</conductor>
+    </result>
+    
+    <result id="305957">
+      <result code="">Unknown Result</result>
+      <band id="789">Llanelli Band</band>
+      <conductor id="311014">Cliff Ward</conductor>
+    </result>
+    
+    <result id="305958">
+      <result code="">Unknown Result</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+    <result id="305959">
+      <result code="">Unknown Result</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="311687">W. J. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

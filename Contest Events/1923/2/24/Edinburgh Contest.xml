@@ -1,0 +1,97 @@
+<contest-event id="40723">
+  <event-date date="1923-2-24">Feb. 24, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Edinburgh Contest</name>
+  <contest id="5355">
+    <name>Edinburgh Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>edinburgh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="259">Waverley Market, Edinburgh</venue>
+  <notes>Prizes - 1st £20, 2nd £15, 3rd £10, 4th £7, 5th £4.
+11 bands competed.</notes>
+
+  <created>Oct. 15, 2018, 8:29 a.m.</created>
+  <last-modified>Oct. 15, 2018, 8:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296200">
+      <result code="1">1</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="296201">
+      <result code="2">2</result>
+      <band id="11176">Grassmarket Mission</band>
+      <conductor id="303240">George Hogg</conductor>
+    </result>
+    
+    <result id="296202">
+      <result code="3">3</result>
+      <band id="5484">Larkhall Silver</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="296203">
+      <result code="4">4</result>
+      <band id="5474">Possilpark</band>
+      <conductor id="300014">W. Curtis</conductor>
+    </result>
+    
+    <result id="296204">
+      <result code="5">5</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="296205">
+      <result code="">Unknown Result</result>
+      <band id="4803">Darvel Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296209">
+      <result code="">Unknown Result</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296206">
+      <result code="">Unknown Result</result>
+      <band id="11464">Musselburgh &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296208">
+      <result code="">Unknown Result</result>
+      <band id="657">Penicuik Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296210">
+      <result code="">Unknown Result</result>
+      <band id="5528">Prestongrange Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296207">
+      <result code="">Unknown Result</result>
+      <band id="5482">Stonehouse [Lanarkshire]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

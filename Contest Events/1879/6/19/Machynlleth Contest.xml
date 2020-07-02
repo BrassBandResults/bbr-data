@@ -1,0 +1,48 @@
+<contest-event id="38783">
+  <event-date date="1879-6-19">June 19, 1879<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Machynlleth Contest</name>
+  <contest id="1905">
+    <name>Machynlleth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>machynlleth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1614">Wedding March [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6773">Lion Hotel, Machynlleth, Montgomeryshire, Wales, UK</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Nov. 21, 2017, 12:46 p.m.</created>
+  <last-modified>Nov. 21, 2017, 12:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282186">
+      <result code="1">1</result>
+      <band id="6134">Corris</band>
+      <conductor id="310424">J. R. Tidswell</conductor>
+    </result>
+    
+    <result id="282187">
+      <result code="">Unknown Result</result>
+      <band id="16485">Aberystwyth Lads</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282185">
+      <result code="">Unknown Result</result>
+      <band id="16484">Royal Cardigan</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

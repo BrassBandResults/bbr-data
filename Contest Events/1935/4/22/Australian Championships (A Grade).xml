@@ -1,0 +1,60 @@
+<contest-event id="33963">
+  <event-date date="1935-4-22">April 22, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="391">Prometheus Unbound</test-piece>
+  </test-piece>
+
+  <venue id="7068">Bundaberg Show Ground, Queensland, Australia</venue>
+  <notes>Two test pieces
+No.2 Test points listed under Own Choice
+
+Other Disciplines
+Hymnb  (own choice)
+Street March  (own choice)
+Oval March Test Music  &quot; Colonel&quot;</notes>
+
+  <created>Feb. 7, 2016, 8:57 a.m.</created>
+  <last-modified>Feb. 20, 2019, 2:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="244934">
+      <result code="1">1</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="244935">
+      <result code="2">2</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="304416">James Kelly</conductor>
+    </result>
+    
+    <result id="244936">
+      <result code="3">3</result>
+      <band id="13774">Cairns Citizens</band>
+      <conductor id="299574">Jim Compton</conductor>
+    </result>
+    
+    <result id="244937">
+      <result code="W">Withdrawn</result>
+      <band id="5801">Windsor Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

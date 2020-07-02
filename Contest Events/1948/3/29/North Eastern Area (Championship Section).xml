@@ -1,0 +1,72 @@
+<contest-event id="8502">
+  <event-date date="1948-3-29">March 29, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Eastern Area (Championship Section)</name>
+  <contest id="9">
+    <name>Yorkshire Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1352">Fantasia in F</test-piece>
+  </test-piece>
+
+  <venue id="634">Leeds Town Hall, Leeds, West Yorkshire, England, UK</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Dec. 7, 2011, 9:45 p.m.</created>
+  <last-modified>Feb. 19, 2019, 10:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="75468">
+      <result code="1">1</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="297392">Eric Ball</conductor>
+    </result>
+    
+    <result id="75469">
+      <result code="2">2</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="75470">
+      <result code="3">3</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310485">Harry Tomkins</conductor>
+    </result>
+    
+    <result id="75471">
+      <result code="4">4</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="286799">
+      <result code="">Unknown Result</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="300855">Joseph Elliott</conductor>
+    </result>
+    
+    <result id="286797">
+      <result code="W">Withdrawn</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="306115">Harry Mileman</conductor>
+    </result>
+    
+    <result id="286798">
+      <result code="W">Withdrawn</result>
+      <band id="1685">Sheffield Transport Department</band>
+      <conductor id="311662">Ralph Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

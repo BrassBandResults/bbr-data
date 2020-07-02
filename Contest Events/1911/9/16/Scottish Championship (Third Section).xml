@@ -1,0 +1,72 @@
+<contest-event id="7442">
+  <event-date date="1911-9-16">Sept. 16, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1333">La Mascotte</test-piece>
+  </test-piece>
+
+  <venue id="800">Marine Gardens, Portobello, Midlothian, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 4, 2011, 9:20 a.m.</created>
+  <last-modified>May 23, 2018, 9:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="67145">
+      <result code="1">1</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="67146">
+      <result code="2">2</result>
+      <band id="657">Penicuik Silver</band>
+      <conductor id="296924">William Allison</conductor>
+    </result>
+    
+    <result id="67147">
+      <result code="3">3</result>
+      <band id="5499">Bannockburn Colliery</band>
+      <conductor id="300960">W. Etherington</conductor>
+    </result>
+    
+    <result id="67148">
+      <result code="4">4</result>
+      <band id="5500">Duddingston</band>
+      <conductor id="303240">George Hogg</conductor>
+    </result>
+    
+    <result id="67149">
+      <result code="">Unknown Result</result>
+      <band id="1725">City of Edinburgh Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67150">
+      <result code="">Unknown Result</result>
+      <band id="5223">Stirling Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67151">
+      <result code="">Unknown Result</result>
+      <band id="5502">Tranent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

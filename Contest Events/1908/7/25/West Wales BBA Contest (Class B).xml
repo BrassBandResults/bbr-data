@@ -1,0 +1,60 @@
+<contest-event id="40333">
+  <event-date date="1908-7-25">July 25, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class B)</name>
+  <contest id="4007">
+    <name>West Wales BBA Contest (Class B)</name>
+    <order>220</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1830">Songs of Handel</test-piece>
+  </test-piece>
+
+  <venue id="2612">Clydach, Swansea, Glamorgan</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Sept. 23, 2018, 12:01 p.m.</created>
+  <last-modified>Sept. 23, 2018, 12:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293480">
+      <result code="1">1</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="302636">A. G. Harries</conductor>
+    </result>
+    
+    <result id="293481">
+      <result code="2">2</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="304904">William Layman</conductor>
+    </result>
+    
+    <result id="293484">
+      <result code="3">3</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311620">Henry Williams</conductor>
+    </result>
+    
+    <result id="293483">
+      <result code="4">4</result>
+      <band id="6968">Swansea Temperance</band>
+      <conductor id="302538">F. Hanney</conductor>
+    </result>
+    
+    <result id="293482">
+      <result code="5">5</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

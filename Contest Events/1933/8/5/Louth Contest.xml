@@ -1,0 +1,64 @@
+<contest-event id="23942">
+  <event-date date="1933-8-5">Aug. 5, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Louth Contest</name>
+  <contest id="3826">
+    <name>Louth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>louth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1091">Happy Memories</test-piece>
+  </test-piece>
+
+  <venue id="3036">Louth, Lincolnshire, England, UK</venue>
+  <notes>
+  Prizes - 1st £5 and shield, 2nd £3 and cup, 3rd £2.
+  March contest - 1st Cleethorpes, 2nd Barton, 3rd Lincoln.
+  Promoted by Louth British Legion.
+  5 bands competed.</notes>
+
+  <created>Sept. 17, 2013, 2:55 p.m.</created>
+  <last-modified>April 20, 2018, 12:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="174913">
+      <result code="1">1</result>
+      <band id="319">Barton Town Band</band>
+      <conductor id="318874">M. Thompson</conductor>
+    </result>
+    
+    <result id="174914">
+      <result code="2">2</result>
+      <band id="7205">Lincoln City Band</band>
+      <conductor id="299820">Albert Cox</conductor>
+    </result>
+    
+    <result id="174915">
+      <result code="3">3</result>
+      <band id="578">Kingsway Printers Cleethorpes</band>
+      <conductor id="318919">Ellerby Cox Snr</conductor>
+    </result>
+    
+    <result id="174917">
+      <result code="">Unknown Result</result>
+      <band id="911">Barnetby Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174916">
+      <result code="">Unknown Result</result>
+      <band id="7950">Mareham le Fen Victory Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

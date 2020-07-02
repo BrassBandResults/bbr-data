@@ -1,0 +1,54 @@
+<contest-event id="15357">
+  <event-date date="1898-8-25">Aug. 25, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Camborne Contest</name>
+  <contest id="3257">
+    <name>Camborne Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>camborne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="578">Camborne, Cornwall</venue>
+  <notes>Prizes: £6, £5, £4, £3</notes>
+
+  <created>Oct. 15, 2012, 4:37 p.m.</created>
+  <last-modified>Oct. 15, 2012, 4:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118944">
+      <result code="1">1</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="297042">John Andrews</conductor>
+    </result>
+    
+    <result id="118945">
+      <result code="2">2</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="310737">William Uren</conductor>
+    </result>
+    
+    <result id="118946">
+      <result code="3">3</result>
+      <band id="10381">Illogan Reed and Brass</band>
+      <conductor id="307033">Harry Oxland</conductor>
+    </result>
+    
+    <result id="118947">
+      <result code="4">4</result>
+      <band id="563">Porthleven Town Band</band>
+      <conductor id="298075">Amos Blight</conductor>
+    </result>
+    
+  </results>
+</contest-event>

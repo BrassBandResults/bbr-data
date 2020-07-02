@@ -1,0 +1,105 @@
+<contest-event id="15624">
+  <event-date date="1912-8-31">Aug. 31, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Alfreton Contest</name>
+  <contest id="2554">
+    <name>Alfreton Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>alfreton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1908">Alfreton, Derbyshire, England, UK</venue>
+  <notes>
+  March contest 1st Lincoln Malleable, 2nd Mansfield Colliery.
+
+  Best cornet - Cresswell Colliery, best trombone - Mansfield Colliery, best euphonium South Elmsall Colliery.
+
+  10 bands competed.</notes>
+
+  <created>Oct. 27, 2012, 10:21 a.m.</created>
+  <last-modified>Oct. 27, 2012, 10:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="120722">
+      <result code="1">1</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="299490">W. Cocking</conductor>
+      <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="120723">
+      <result code="2">2</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+    </result>
+    
+    <result id="120724">
+      <result code="3">3</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+    </result>
+    
+    <result id="120725">
+      <result code="4">4</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+    </result>
+    
+    <result id="120726">
+      <result code="">Unknown Result</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="302841">James Haywood</conductor>
+      <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="120727">
+      <result code="">Unknown Result</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="297318">A. H. Bagnall</conductor>
+      <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+    </result>
+    
+    <result id="120728">
+      <result code="">Unknown Result</result>
+      <band id="8287">Hardwick Colliery</band>
+      <conductor id="308506">A. Roughton</conductor>
+      <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+    </result>
+    
+    <result id="120729">
+      <result code="">Unknown Result</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+      <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+    </result>
+    
+    <result id="120730">
+      <result code="">Unknown Result</result>
+      <band id="3274">Darnall W.M.C</band>
+      <conductor id="304313">John Jubb</conductor>
+      <test-piece id="1680">Apollo</test-piece>
+    </result>
+    
+    <result id="120731">
+      <result code="">Unknown Result</result>
+      <band id="8258">Abbott&#39;s Boiler Works</band>
+      <conductor id="299841">A. F. Coyne</conductor>
+      <test-piece id="1577">Maritana [arr. Smith]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

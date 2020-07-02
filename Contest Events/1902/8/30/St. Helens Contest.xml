@@ -1,0 +1,67 @@
+<contest-event id="37690">
+  <event-date date="1902-8-30">Aug. 30, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Helens Contest</name>
+  <contest id="2362">
+    <name>St. Helens Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1716">St. Helens, Merseyside, England, UK</venue>
+  <notes>March contest - 1st Widnes, 2nd Sutton Road.
+6 bands competed.</notes>
+
+  <created>March 31, 2017, 9:40 p.m.</created>
+  <last-modified>July 11, 2018, 3:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291550">
+      <result code="1">1</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="291545">
+      <result code="2">2</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="313139">J. H. Harper</conductor>
+    </result>
+    
+    <result id="291546">
+      <result code="3">3</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="291547">
+      <result code="">Unknown Result</result>
+      <band id="3611">Sutton Road</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="291548">
+      <result code="">Unknown Result</result>
+      <band id="6995">Parr St Peter&#39;s</band>
+      <conductor id="297078">John Appleton</conductor>
+    </result>
+    
+    <result id="291549">
+      <result code="">Unknown Result</result>
+      <band id="6849">Moss Bank</band>
+      <conductor id="297081">William Appleton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="26454">
+  <event-date date="1950-5-29">May 29, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SCABA Spring Contest (First Section)</name>
+  <contest id="94">
+    <name>SCABA Spring Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="8">SCABA Spring Contest</group>
+    <slug>scaba-spring-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="804">The Royal Water Music</test-piece>
+  </test-piece>
+
+  <venue id="4475">Lewes, Sussex</venue>
+  <notes>March contest - 1st Horley, 2nd West Crawley.</notes>
+
+  <created>Feb. 20, 2014, 10:32 a.m.</created>
+  <last-modified>Feb. 20, 2014, 10:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="191852">
+      <result code="1">1</result>
+      <band id="6678">Horley Brass Band</band>
+      <conductor id="299670">Harold Cooper</conductor>
+    </result>
+    
+    <result id="191853">
+      <result code="2">2</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="311024">G. Ward</conductor>
+    </result>
+    
+    <result id="191854">
+      <result code="3">3</result>
+      <band id="4659">Haywards Heath Town</band>
+      <conductor id="306267">A. W. Moore</conductor>
+    </result>
+    
+  </results>
+</contest-event>

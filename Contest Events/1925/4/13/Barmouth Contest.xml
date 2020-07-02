@@ -1,0 +1,43 @@
+<contest-event id="41098">
+  <event-date date="1925-4-13">April 13, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barmouth Contest</name>
+  <contest id="2768">
+    <name>Barmouth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barmouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2120">Barmouth, Gwynedd, Wales, UK</venue>
+  <notes>Prizes - 1st £20, 2nd £5.
+March contest - 1st Nantlle Vale.</notes>
+
+  <created>Nov. 3, 2018, 1:26 p.m.</created>
+  <last-modified>Nov. 3, 2018, 1:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298524">
+      <result code="1">1</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="298525">
+      <result code="2">2</result>
+      <band id="6563">Llanidloes Borough</band>
+      <conductor id="297767">R. Benbow</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,49 @@
+<contest-event id="18412">
+  <event-date date="1952-7-12">July 12, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest (Local Section)</name>
+  <contest id="2696">
+    <name>Lydney Contest (Local Section)</name>
+    <order>3</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="480">Lydney Contest</group>
+    <slug>lydney-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1019">The Black Prince</test-piece>
+  </test-piece>
+
+  <venue id="1846">Lydney, Gloucestershire</venue>
+  <notes>Prizes - 1st £15, 2nd £10, 3rd £5.
+5 bands competed.</notes>
+
+  <created>Feb. 20, 2013, 5:11 p.m.</created>
+  <last-modified>March 18, 2019, 11:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="138780">
+      <result code="1">1</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="311113">Graham Watkins</conductor>
+    </result>
+    
+    <result id="138781">
+      <result code="2">2</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="303212">R. O. Hodges</conductor>
+    </result>
+    
+    <result id="138782">
+      <result code="3">3</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="302652">Gordon Harris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

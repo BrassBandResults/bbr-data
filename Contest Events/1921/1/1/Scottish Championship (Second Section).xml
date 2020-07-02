@@ -1,0 +1,90 @@
+<contest-event id="7450">
+  <event-date date="1921-1-1">Jan. 1, 1921<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Scottish Championship (Second Section)</name>
+  <contest id="63">
+    <name>Scottish Championship (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1339">Il Giuramento [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="807">Winter Gardens, Glasgow Green, Glasgow</venue>
+  <notes></notes>
+
+  <created>Oct. 4, 2011, 10:51 a.m.</created>
+  <last-modified>Oct. 22, 2011, 2:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="67271">
+      <result code="1">1</result>
+      <band id="657">Penicuik Silver</band>
+      <conductor id="296924">William Allison</conductor>
+    </result>
+    
+    <result id="67272">
+      <result code="2">2</result>
+      <band id="2106">St John&#39;s (Port Glasgow)</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="67273">
+      <result code="3">3</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="67274">
+      <result code="4">4</result>
+      <band id="1727">Govan Burgh</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="67275">
+      <result code="5">5</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67276">
+      <result code="6">6</result>
+      <band id="5221">Kilsyth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67277">
+      <result code="">Unknown Result</result>
+      <band id="5005">Baillieston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67278">
+      <result code="">Unknown Result</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67279">
+      <result code="">Unknown Result</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67280">
+      <result code="">Unknown Result</result>
+      <band id="664">Shotts St Patrick&#39;s Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

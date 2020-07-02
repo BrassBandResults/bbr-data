@@ -1,0 +1,44 @@
+<contest-event id="25363">
+  <event-date date="1913-8-9">Aug. 9, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Four Lanes and Pencoys Contest</name>
+  <contest id="3309">
+    <name>Four Lanes and Pencoys Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="464">Four Lanes and Pencoys Contest</group>
+    <slug>four-lanes-and-pencoys-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1938">Emilia</test-piece>
+  </test-piece>
+
+  <venue id="2542">Four Lanes, Redruth, Cornwall</venue>
+  <notes>First Section - two bands competed</notes>
+
+  <created>Nov. 29, 2013, 10:09 p.m.</created>
+  <last-modified>Nov. 29, 2013, 10:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184489">
+      <result code="1">1</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="311733">R. Wills</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="184488">
+      <result code="2">2</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="306841">Walter Nuttall</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

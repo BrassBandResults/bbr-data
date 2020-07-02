@@ -1,0 +1,68 @@
+<contest-event id="40351">
+  <event-date date="1951-3-26">March 26, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5647">No.1 Symphony No.5 (Tschaikowsky) / No.2. Comedy</test-piece>
+  </test-piece>
+
+  <venue id="7037">Townsville Showground, Queensland, Australia</venue>
+  <notes>Marching Events  :  Street / Square / Diagram march points listed under STAGE MARCH
+
+ Oval March name changed to Square March</notes>
+
+  <created>Sept. 24, 2018, 4:45 a.m.</created>
+  <last-modified>March 25, 2019, 3:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293590">
+      <result code="1">1</result>
+      <band id="6434">Maryborough Brass [Queensland]</band>
+      <conductor id="304416">James Kelly</conductor>
+    </result>
+    
+    <result id="293591">
+      <result code="2">2</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="297631">Les Baxter</conductor>
+    </result>
+    
+    <result id="293592">
+      <result code="3">3</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="310562">Albert Trembath</conductor>
+    </result>
+    
+    <result id="293593">
+      <result code="4">4</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+    <result id="293604">
+      <result code="W">Withdrawn</result>
+      <band id="12940">Brisbane City Waterside Workers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293603">
+      <result code="W">Withdrawn</result>
+      <band id="13787">East Brisbane Model</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

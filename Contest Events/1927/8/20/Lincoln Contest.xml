@@ -1,0 +1,76 @@
+<contest-event id="25675">
+  <event-date date="1927-8-20">Aug. 20, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lincoln Contest</name>
+  <contest id="1644">
+    <name>Lincoln Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lincoln-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="800">Poetic Fancies</test-piece>
+  </test-piece>
+
+  <venue id="2047">Lincoln Arboretum, Lincoln, Lincolnshire, England, UK</venue>
+  <notes>Arranged as part of the Cyclists&#39; Carnival. The carnival was postponed due to rain, but the band contest went ahead 
+Prizes - 1st £7 and shield, 2nd £4.10s., 3rd £2.10s.
+5 bands competed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+</notes>
+
+  <created>Dec. 20, 2013, 4:43 p.m.</created>
+  <last-modified>March 20, 2020, 10:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185982">
+      <result code="1">1</result>
+      <band id="11724">Louth Mission</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185983">
+      <result code="2">2</result>
+      <band id="11748">Babcock and Wilcox</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185984">
+      <result code="3">3</result>
+      <band id="11749">Heckington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185985">
+      <result code="4">4</result>
+      <band id="4895">Stapleford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185986">
+      <result code="5">5</result>
+      <band id="2986">Newark British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

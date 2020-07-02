@@ -1,0 +1,43 @@
+<contest-event id="17354">
+  <event-date date="1947-2-1">Feb. 1, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leicestershire BBA (Leicester) Contest (Open Section)</name>
+  <contest id="327">
+    <name>Leicestershire BBA (Leicester) Contest (Open Section)</name>
+    <order>1</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="75">Leicestershire Brass Band Association (Leicester) Contest</group>
+    <slug>leicestershire-bba-contest-open-section</slug>
+    
+    <notes>AKA Leicester Contest</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="196">Labour and Love</test-piece>
+  </test-piece>
+
+  <venue id="2868">Earl Shilton, Leicestershire, England, UK</venue>
+  <notes>March contest  1st Wigston Temperance, 2nd Leicester Special Constabulary.
+2 bands competed</notes>
+
+  <created>Dec. 27, 2012, 10:37 a.m.</created>
+  <last-modified>Feb. 12, 2019, 12:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131756">
+      <result code="1">1</result>
+      <band id="473">Wigston Band</band>
+      <conductor id="306270">Charles Moore</conductor>
+    </result>
+    
+    <result id="131757">
+      <result code="2">2</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

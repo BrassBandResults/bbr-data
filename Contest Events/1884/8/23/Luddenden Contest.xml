@@ -1,0 +1,79 @@
+<contest-event id="9135">
+  <event-date date="1884-8-23">Aug. 23, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2011">The Gospel Trumpet</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>Prizes: £16 9s, £6, £3, £1
+7 bands competed</notes>
+
+  <created>Dec. 21, 2011, 8:13 p.m.</created>
+  <last-modified>Oct. 19, 2019, 1:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="79262">
+      <result code="1">1</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="303879">Robert Jackson</conductor>
+      <test-piece id="1514">Jeanette</test-piece>
+    </result>
+    
+    <result id="79259">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1517">Rosalind</test-piece>
+    </result>
+    
+    <result id="79257">
+      <result code="3">3</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="309166">James Simpson</conductor>
+      <test-piece id="5378">St. George and the Dragon</test-piece>
+    </result>
+    
+    <result id="79260">
+      <result code="4">4</result>
+      <band id="2573">Norland</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+      <test-piece id="1514">Jeanette</test-piece>
+    </result>
+    
+    <result id="79261">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="305524">J. Mallinson</conductor>
+      <test-piece id="263">Inspiration</test-piece>
+    </result>
+    
+    <result id="79267">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="302723">George Hartley</conductor>
+    </result>
+    
+    <result id="79263">
+      <result code="">Unknown Result</result>
+      <band id="18129">Sowerby Subscription</band>
+      <conductor id="309958">W. Sutcliffe</conductor>
+      <test-piece id="1834">Merry Changes</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

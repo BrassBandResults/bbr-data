@@ -13,16 +13,18 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="973">The Pacemakers</test-piece>
   </test-piece>
 
   <venue id="121">Ebbw Vale Leisure Centre, Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
-  <notes></notes>
+  <notes>Best instrumentalist - euphonium Treherbert.
+Prizes - 1st £100, 2nd £60, 3rd £40.
+7 bands competed</notes>
 
   <created>March 25, 2015, 9:44 a.m.</created>
-  <last-modified>March 25, 2015, 9:44 a.m.</last-modified>
+  <last-modified>July 1, 2020, 7:43 a.m.</last-modified>
 
   <results>
     
@@ -42,6 +44,30 @@
       <result code="3">3</result>
       <band id="787">Oakdale Silver Band</band>
       <conductor id="307758">Ron Probyn</conductor>
+    </result>
+    
+    <result id="320135">
+      <result code="4">4</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="310153">J. Taylor</conductor>
+    </result>
+    
+    <result id="320138">
+      <result code="5">5</result>
+      <band id="2067">Ystrad Mynach &amp; District</band>
+      <conductor id="308515">Alan Rowe</conductor>
+    </result>
+    
+    <result id="320137">
+      <result code="6">6</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="306710">F. W. Nicholas</conductor>
+    </result>
+    
+    <result id="320136">
+      <result code="7">7</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="305055">G. R. Lewis</conductor>
     </result>
     
   </results>
