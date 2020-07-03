@@ -13,16 +13,18 @@
     
     
   </contest>
-  
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
 
   <venue id="2540">Parc &amp; Dare Theatre, Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
-  <notes>10 bands competed.</notes>
+  <notes>Best instrumentalist - kit player Raunds Temperance.
+Prizes - 1st £150, 2nd £90, 3rd £60.
+10 bands competed.</notes>
 
   <created>July 12, 2015, 8:32 a.m.</created>
-  <last-modified>March 24, 2016, 9:49 a.m.</last-modified>
+  <last-modified>July 2, 2020, 1:58 p.m.</last-modified>
 
   <results>
     
@@ -53,13 +55,13 @@
     <result id="250996">
       <result code="5">5</result>
       <band id="465">Ystradgynlais Public Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="311425">W. White</conductor>
     </result>
     
     <result id="250997">
       <result code="6">6</result>
       <band id="1267">Abertillery &amp; District Youth</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="307630">Eric Powell</conductor>
     </result>
     
     <result id="250998">
@@ -71,19 +73,25 @@
     <result id="250999">
       <result code="8">8</result>
       <band id="793">Cwm Town Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="308515">Alan Rowe</conductor>
     </result>
     
     <result id="251000">
       <result code="9">9</result>
       <band id="790">Lady Windsor Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="306357">T. W. Morgan</conductor>
     </result>
     
     <result id="251001">
       <result code="10">10</result>
       <band id="792">Blaenavon Concert Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="303044">Andrew Hicks</conductor>
+    </result>
+    
+    <result id="320296">
+      <result code="W">Withdrawn</result>
+      <band id="381">Severn Tunnel Band</band>
+      <conductor id="311692">Wynne Williams</conductor>
     </result>
     
   </results>

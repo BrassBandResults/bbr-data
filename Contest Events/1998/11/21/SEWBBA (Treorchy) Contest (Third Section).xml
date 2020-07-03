@@ -1,5 +1,5 @@
 <contest-event id="32081">
-  <event-date date="1998-11-22">Nov. 22, 1998<event-date>
+  <event-date date="1998-11-21">Nov. 21, 1998<event-date>
   <event-date-resolution>D</event-date-resolution>
   <name>SEWBBA (Treorchy) Contest (Third Section)</name>
   <contest id="830">
@@ -13,16 +13,19 @@
     
     
   </contest>
-  
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
 
   <venue id="2540">Parc &amp; Dare Theatre, Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
-  <notes>7 bands competed.</notes>
+  <notes>7 bands competed.
+Best instrumentalis - horn Cwmbran.
+Prizes - 1st £150, 2nd £90, 3rd £60.
+7 bands competed.</notes>
 
   <created>May 26, 2015, 11:49 a.m.</created>
-  <last-modified>March 23, 2016, 7:59 a.m.</last-modified>
+  <last-modified>July 2, 2020, 2:20 p.m.</last-modified>
 
   <results>
     
@@ -66,6 +69,12 @@
       <result code="7">7</result>
       <band id="786">Glynneath Silver Band</band>
       <conductor id="310657">Lynne Turner</conductor>
+    </result>
+    
+    <result id="320300">
+      <result code="W">Withdrawn</result>
+      <band id="789">Llanelli Band</band>
+      <conductor id="309777">Mike Stevenson</conductor>
     </result>
     
   </results>

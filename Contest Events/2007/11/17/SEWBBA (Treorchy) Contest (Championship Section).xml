@@ -1,5 +1,5 @@
 <contest-event id="15488">
-  <event-date date="2007-11-18">Nov. 18, 2007<event-date>
+  <event-date date="2007-11-17">Nov. 17, 2007<event-date>
   <event-date-resolution>D</event-date-resolution>
   <name>SEWBBA (Treorchy) Contest (Championship Section)</name>
   <contest id="309">
@@ -13,21 +13,23 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="90">The New Jerusalem</test-piece>
   </test-piece>
 
   <venue id="2540">Parc &amp; Dare Theatre, Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
   <notes>Best Bass Section: BTM
 Best Instrumentalist: Solo Cornet - Tylorstown A T W 
 Best Trombone: BTM
+Prizes - 1st £300, 2nd £190.
+2 bands competed
 
 2007 Welsh League Champions: BTM
 Runners Up: Tylorstown Arriva Trains Wales</notes>
 
   <created>Oct. 21, 2012, 11:35 a.m.</created>
-  <last-modified>Oct. 21, 2012, 11:39 a.m.</last-modified>
+  <last-modified>July 2, 2020, 10:06 a.m.</last-modified>
 
   <results>
     
@@ -42,6 +44,12 @@ Runners Up: Tylorstown Arriva Trains Wales</notes>
       <result code="2">2</result>
       <band id="320">Tylorstown Band</band>
       <conductor id="300157">Gary Davies</conductor>
+    </result>
+    
+    <result id="320242">
+      <result code="W">Withdrawn</result>
+      <band id="425">Abergavenny Borough Band</band>
+      <conductor id="311675">Tudor Williams</conductor>
     </result>
     
   </results>

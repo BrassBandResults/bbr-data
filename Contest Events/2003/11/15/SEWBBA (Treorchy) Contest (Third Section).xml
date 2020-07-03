@@ -13,17 +13,20 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="1069">English Country Scenes</test-piece>
   </test-piece>
 
   <venue id="2540">Parc &amp; Dare Theatre, Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
-  <notes>Welsh League Champions—Briton Ferry
+  <notes>Best instrumentalist - Horn  Briton Ferry.
+Prizes - 1st £150, 2nd £90, 3rd £60.
+3 bands competed
+Welsh League Champions—Briton Ferry
 Runners Up—Severn Tunnel</notes>
 
   <created>Aug. 12, 2015, 2:12 a.m.</created>
-  <last-modified>Aug. 12, 2015, 2:13 a.m.</last-modified>
+  <last-modified>July 2, 2020, 11:54 a.m.</last-modified>
 
   <results>
     
@@ -43,6 +46,18 @@ Runners Up—Severn Tunnel</notes>
       <result code="3">3</result>
       <band id="466">Newport Borough Band</band>
       <conductor id="300172">Mike Davies</conductor>
+    </result>
+    
+    <result id="320274">
+      <result code="W">Withdrawn</result>
+      <band id="1267">Abertillery &amp; District Youth</band>
+      <conductor id="318793">John Lavender</conductor>
+    </result>
+    
+    <result id="320275">
+      <result code="W">Withdrawn</result>
+      <band id="789">Llanelli Band</band>
+      <conductor id="304062">Ceri John</conductor>
     </result>
     
   </results>
