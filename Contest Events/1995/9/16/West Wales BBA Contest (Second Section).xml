@@ -13,17 +13,18 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="668">St. Paul&#39;s Suite</test-piece>
   </test-piece>
 
   <venue id="86">Burry Port, Carmarthenshire, Wales, UK</venue>
-  <notes>Set Test Piece
-Best instrumentalist, Tim Bourne, Soprano, Burry Port Town</notes>
+  <notes>Best instrumentalist, Tim Bourne, Soprano, Burry Port Town.
+Prizes - 1st £100, 2nd £60, 3rd £40.
+7 bands competed,</notes>
 
   <created>Oct. 10, 2012, 8:55 p.m.</created>
-  <last-modified>Oct. 7, 2014, 2:27 p.m.</last-modified>
+  <last-modified>July 3, 2020, 1:40 p.m.</last-modified>
 
   <results>
     
@@ -49,6 +50,24 @@ Best instrumentalist, Tim Bourne, Soprano, Burry Port Town</notes>
       <result code="4">4</result>
       <band id="460">Pontypool Brass</band>
       <conductor id="301002">John Evans</conductor>
+    </result>
+    
+    <result id="320456">
+      <result code="">Unknown Result</result>
+      <band id="858">Aberystwyth Silver Band</band>
+      <conductor id="307803">E. Pugh-Evans</conductor>
+    </result>
+    
+    <result id="320457">
+      <result code="">Unknown Result</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="302638">Laurence Harries</conductor>
+    </result>
+    
+    <result id="320458">
+      <result code="">Unknown Result</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="311692">J. Wynne Williams</conductor>
     </result>
     
   </results>

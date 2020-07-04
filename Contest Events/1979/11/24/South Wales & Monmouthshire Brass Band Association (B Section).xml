@@ -13,16 +13,17 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="1374">Henry V [Maldwyn Price]</test-piece>
   </test-piece>
 
   <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
-  <notes></notes>
+  <notes>Prizes - 1st £30, 2nd £20, 3rd £15.
+10 bands competed.</notes>
 
   <created>May 28, 2014, 10:09 a.m.</created>
-  <last-modified>May 28, 2014, 10:09 a.m.</last-modified>
+  <last-modified>July 3, 2020, 9:47 a.m.</last-modified>
 
   <results>
     
@@ -42,6 +43,48 @@
       <result code="3">3</result>
       <band id="447">Pontardulais Town Band</band>
       <conductor id="310264">Ceri Thomas</conductor>
+    </result>
+    
+    <result id="320390">
+      <result code="">Unknown Result</result>
+      <band id="18">BTM Band</band>
+      <conductor id="304181">Cynon Jones</conductor>
+    </result>
+    
+    <result id="320391">
+      <result code="">Unknown Result</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="308284">I. L. (70ies) Roberts</conductor>
+    </result>
+    
+    <result id="320392">
+      <result code="">Unknown Result</result>
+      <band id="790">Lady Windsor Band</band>
+      <conductor id="306357">T. W. Morgan</conductor>
+    </result>
+    
+    <result id="320393">
+      <result code="">Unknown Result</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="300189">W. B. Davies</conductor>
+    </result>
+    
+    <result id="320394">
+      <result code="">Unknown Result</result>
+      <band id="11750">Mellingriffith Volunteer</band>
+      <conductor id="307901">C. Randall</conductor>
+    </result>
+    
+    <result id="320389">
+      <result code="">Unknown Result</result>
+      <band id="462">TATA Brass</band>
+      <conductor id="308114">Evan Richards</conductor>
+    </result>
+    
+    <result id="320395">
+      <result code="">Unknown Result</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="303922">L. D. James</conductor>
     </result>
     
   </results>

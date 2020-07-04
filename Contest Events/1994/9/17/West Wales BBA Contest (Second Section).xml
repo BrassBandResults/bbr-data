@@ -15,14 +15,15 @@
   </contest>
   <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="767">Concertino [Lane]</test-piece>
   </test-piece>
 
   <venue id="157">Ammanford, Carmarthenshire, Wales, UK</venue>
-  <notes></notes>
+  <notes>Prizes - 1st £100, 2nd £60, 3rd £40.
+4 bands competed.</notes>
 
   <created>Oct. 12, 2013, 6:26 p.m.</created>
-  <last-modified>Oct. 7, 2014, 2:45 p.m.</last-modified>
+  <last-modified>July 3, 2020, 1:11 p.m.</last-modified>
 
   <results>
     
@@ -34,7 +35,7 @@
     
     <result id="178944">
       <result code="2">2</result>
-      <band id="5375">Aberystwyth B.L</band>
+      <band id="858">Aberystwyth Silver Band</band>
       <conductor id="307440">Alan Phillips</conductor>
     </result>
     
@@ -42,6 +43,18 @@
       <result code="3">3</result>
       <band id="320">Tylorstown Band</band>
       <conductor id="310264">Ceri Thomas</conductor>
+    </result>
+    
+    <result id="320432">
+      <result code="4">4</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="300791">Steve Edwards</conductor>
+    </result>
+    
+    <result id="320433">
+      <result code="W">Withdrawn</result>
+      <band id="460">Pontypool Brass</band>
+      <conductor id="304182">D. Jones</conductor>
     </result>
     
   </results>

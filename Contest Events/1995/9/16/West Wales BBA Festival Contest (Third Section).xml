@@ -13,16 +13,17 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="866">Partita [Kelly]</test-piece>
   </test-piece>
 
   <venue id="86">Burry Port, Carmarthenshire, Wales, UK</venue>
-  <notes></notes>
+  <notes>Prizes - 1st £100, 2nd £60, 3rd £40.
+7 bands competed.</notes>
 
   <created>March 23, 2015, 2:24 p.m.</created>
-  <last-modified>March 23, 2015, 2:24 p.m.</last-modified>
+  <last-modified>July 3, 2020, 2:02 p.m.</last-modified>
 
   <results>
     
@@ -48,6 +49,42 @@
       <result code="4">4</result>
       <band id="447">Pontardulais Town Band</band>
       <conductor id="305055">G. R. Lewis</conductor>
+    </result>
+    
+    <result id="320459">
+      <result code="">Unknown Result</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="298259">Kerry Bowden</conductor>
+    </result>
+    
+    <result id="320463">
+      <result code="">Unknown Result</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="310089">D. Tanner</conductor>
+    </result>
+    
+    <result id="320460">
+      <result code="">Unknown Result</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="316643">W. A. Jones</conductor>
+    </result>
+    
+    <result id="320461">
+      <result code="W">Withdrawn</result>
+      <band id="358">Cross Keys Silver Band</band>
+      <conductor id="302642">A. J. Harris</conductor>
+    </result>
+    
+    <result id="320462">
+      <result code="W">Withdrawn</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="320464">
+      <result code="W">Withdrawn</result>
+      <band id="2067">Ystrad Mynach &amp; District</band>
+      <conductor id="308515">Alan Rowe</conductor>
     </result>
     
   </results>

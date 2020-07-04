@@ -19,10 +19,13 @@
   </test-piece>
 
   <venue id="86">Burry Port, Carmarthenshire, Wales, UK</venue>
-  <notes></notes>
+  <notes>Best instrumentalist - trombone - Ogmore.
+Prizes - 1st £120, 2nd £80, 3rd £60.
+7 bands competed.
+</notes>
 
   <created>May 10, 2015, 7:52 p.m.</created>
-  <last-modified>May 10, 2015, 7:52 p.m.</last-modified>
+  <last-modified>July 3, 2020, 3:40 p.m.</last-modified>
 
   <results>
     
@@ -30,12 +33,14 @@
       <result code="1">1</result>
       <band id="458">Ogmore Valley Silver Band</band>
       <conductor id="305038">Ceri Lewis</conductor>
+      <test-piece id="174">Tintagel</test-piece>
     </result>
     
     <result id="227024">
       <result code="2">2</result>
       <band id="783">Cwmbran Band</band>
       <conductor id="298787">John Burns</conductor>
+      <test-piece id="576">Oregon: Fantasy for Band</test-piece>
     </result>
     
     <result id="227025">
@@ -44,28 +49,29 @@
       <conductor id="310265">Chris Thomas</conductor>
     </result>
     
-    <result id="227026">
-      <result code="">Unknown Result</result>
-      <band id="787">Oakdale Silver Band</band>
-      <conductor id="307758">Ron Probyn</conductor>
-    </result>
-    
-    <result id="227027">
-      <result code="">Unknown Result</result>
-      <band id="2067">Ystrad Mynach &amp; District</band>
-      <conductor id="308515">Alan Rowe</conductor>
-    </result>
-    
     <result id="227028">
-      <result code="">Unknown Result</result>
+      <result code="4">4</result>
       <band id="290">Newbridge Celynen Band</band>
       <conductor id="309072">W. F. Shipp</conductor>
     </result>
     
     <result id="227029">
-      <result code="">Unknown Result</result>
+      <result code="5">5</result>
       <band id="786">Glynneath Silver Band</band>
       <conductor id="310657">Lynne Turner</conductor>
+    </result>
+    
+    <result id="227026">
+      <result code="6">6</result>
+      <band id="787">Oakdale Silver Band</band>
+      <conductor id="307758">Ron Probyn</conductor>
+      <test-piece id="521">Suite Gothique</test-piece>
+    </result>
+    
+    <result id="227027">
+      <result code="7">7</result>
+      <band id="2067">Ystrad Mynach &amp; District</band>
+      <conductor id="308515">Alan Rowe</conductor>
     </result>
     
   </results>

@@ -13,16 +13,17 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="474">The Margam Stones</test-piece>
   </test-piece>
 
   <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
-  <notes></notes>
+  <notes>Prizes - 1st £20, 2nd £15, 3rd £10.
+9 bands competed.</notes>
 
   <created>May 28, 2014, 10:43 a.m.</created>
-  <last-modified>May 28, 2014, 10:43 a.m.</last-modified>
+  <last-modified>July 3, 2020, 9:43 a.m.</last-modified>
 
   <results>
     
@@ -42,6 +43,60 @@
       <result code="3">3</result>
       <band id="407">Penclawdd Brass</band>
       <conductor id="309282">Tony Small</conductor>
+    </result>
+    
+    <result id="320387">
+      <result code="">Unknown Result</result>
+      <band id="320">Tylorstown Band</band>
+      <conductor id="301178">Kenneth Howard Feltham</conductor>
+    </result>
+    
+    <result id="320382">
+      <result code="">Unknown Result</result>
+      <band id="2003">Coedely</band>
+      <conductor id="299655">E. Coombs</conductor>
+    </result>
+    
+    <result id="320383">
+      <result code="">Unknown Result</result>
+      <band id="2451">Cwmbran Youth</band>
+      <conductor id="297586">S. Bartram</conductor>
+    </result>
+    
+    <result id="320384">
+      <result code="">Unknown Result</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="304918">H. D. Leadbeater</conductor>
+    </result>
+    
+    <result id="320386">
+      <result code="">Unknown Result</result>
+      <band id="3440">Pencoed Concert Brass</band>
+      <conductor id="302660">John Harris</conductor>
+    </result>
+    
+    <result id="320381">
+      <result code="">Unknown Result</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="307173">Roy Parsons</conductor>
+    </result>
+    
+    <result id="320380">
+      <result code="W">Withdrawn</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="300163">Ivor Davies</conductor>
+    </result>
+    
+    <result id="320385">
+      <result code="W">Withdrawn</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="311659">R. D. Williams</conductor>
+    </result>
+    
+    <result id="320388">
+      <result code="W">Withdrawn</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311425">W. White</conductor>
     </result>
     
   </results>

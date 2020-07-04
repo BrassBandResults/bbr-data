@@ -13,16 +13,17 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="222">Variations on a Ninth</test-piece>
   </test-piece>
 
   <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
-  <notes></notes>
+  <notes>Prizes - 1st £50, 2nd £30, 3rd £20.
+9 bands competed.</notes>
 
   <created>May 28, 2014, 6:29 a.m.</created>
-  <last-modified>May 28, 2014, 10:08 a.m.</last-modified>
+  <last-modified>July 3, 2020, 9:51 a.m.</last-modified>
 
   <results>
     
@@ -42,6 +43,42 @@
       <result code="3">3</result>
       <band id="47">Parc and Dare Band</band>
       <conductor id="306342">Ieuan Morgan</conductor>
+    </result>
+    
+    <result id="320396">
+      <result code="">Unknown Result</result>
+      <band id="1752">Hymac (Rhymney) Works Band</band>
+      <conductor id="298695">C. Brian Buckley</conductor>
+    </result>
+    
+    <result id="320397">
+      <result code="">Unknown Result</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+    <result id="320398">
+      <result code="">Unknown Result</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="300164">James Davies</conductor>
+    </result>
+    
+    <result id="320399">
+      <result code="">Unknown Result</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="299245">Thomas Charlton</conductor>
+    </result>
+    
+    <result id="320400">
+      <result code="">Unknown Result</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="310310">William David Thomas</conductor>
+    </result>
+    
+    <result id="320401">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="305060">H. G. Lewis</conductor>
     </result>
     
   </results>
