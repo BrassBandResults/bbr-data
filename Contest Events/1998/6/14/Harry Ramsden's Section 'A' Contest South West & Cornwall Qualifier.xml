@@ -13,16 +13,16 @@
     
     
   </contest>
-  
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
 
   <venue id="1331">Harry Ramsden&#39;s, Southampton, Hampshire, England, UK</venue>
-  <notes></notes>
+  <notes>9 bands competed</notes>
 
   <created>Feb. 22, 2011, 3 p.m.</created>
-  <last-modified>Jan. 8, 2013, 4:23 p.m.</last-modified>
+  <last-modified>July 6, 2020, 3:46 p.m.</last-modified>
 
   <results>
     
@@ -56,28 +56,28 @@
       <conductor id="305329">Ian Lowes</conductor>
     </result>
     
-    <result id="37262">
-      <result code="">Unknown Result</result>
-      <band id="1530">Southampton Central</band>
-      <conductor id="305603">Peter Marnoch</conductor>
-    </result>
-    
     <result id="37263">
-      <result code="">Unknown Result</result>
+      <result code="6">6</result>
       <band id="308">Woodfalls Concert Brass</band>
       <conductor id="298074">Ron Bligh</conductor>
     </result>
     
-    <result id="37261">
-      <result code="">Unknown Result</result>
-      <band id="564">New Forest Brass</band>
-      <conductor id="296879">P. Allan</conductor>
-    </result>
-    
     <result id="37260">
-      <result code="">Unknown Result</result>
+      <result code="6">6</result>
       <band id="1307">Luckett&#39;s Travel (Southsea)</band>
       <conductor id="305374">Jonathan Lush-Camps</conductor>
+    </result>
+    
+    <result id="37262">
+      <result code="8">8</result>
+      <band id="1530">Southampton Central</band>
+      <conductor id="305603">Peter Marnoch</conductor>
+    </result>
+    
+    <result id="37261">
+      <result code="9">9</result>
+      <band id="564">New Forest Brass</band>
+      <conductor id="296879">P. Allan</conductor>
     </result>
     
   </results>

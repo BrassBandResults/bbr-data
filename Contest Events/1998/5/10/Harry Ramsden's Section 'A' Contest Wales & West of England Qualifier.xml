@@ -19,10 +19,10 @@
   </test-piece>
 
   <venue id="1325">Harry Ramsden&#39;s, Cardiff</venue>
-  <notes></notes>
+  <notes>10 bands competed</notes>
 
   <created>Feb. 12, 2012, 10:07 a.m.</created>
-  <last-modified>Jan. 8, 2013, 4:22 p.m.</last-modified>
+  <last-modified>July 6, 2020, 4:07 p.m.</last-modified>
 
   <results>
     
@@ -44,16 +44,64 @@
       <conductor id="305492">Dennis Mahoney</conductor>
     </result>
     
+    <result id="320703">
+      <result code="4">4</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="307697">Gwynne Price</conductor>
+    </result>
+    
+    <result id="320698">
+      <result code="5">5</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="301770">Alan Gibbs</conductor>
+    </result>
+    
     <result id="118261">
-      <result code="">Unknown Result</result>
+      <result code="6">6</result>
       <band id="48">Burry Port Town</band>
       <conductor id="310378">Michael Thorne</conductor>
     </result>
     
-    <result id="85871">
-      <result code="">Unknown Result</result>
-      <band id="15">Tredegar Town Band</band>
-      <conductor id="297332">Philip Bailey</conductor>
+    <result id="320696">
+      <result code="7">7</result>
+      <band id="466">Newport Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="320700">
+      <result code="8">8</result>
+      <band id="311">Treherbert &amp; District Band</band>
+      <conductor id="309038">Graham Sheppard</conductor>
+    </result>
+    
+    <result id="320697">
+      <result code="9">9</result>
+      <band id="448">RAF St. Athan Voluntary Band</band>
+      <conductor id="298249">Alan Bourne</conductor>
+    </result>
+    
+    <result id="320693">
+      <result code="10">10</result>
+      <band id="525">Chalford Band</band>
+      <conductor id="310606">Steve Tubb</conductor>
+    </result>
+    
+    <result id="320692">
+      <result code="W">Withdrawn</result>
+      <band id="1203">Bristol East Band</band>
+      <conductor id="308417">Martin Rogers</conductor>
+    </result>
+    
+    <result id="320704">
+      <result code="W">Withdrawn</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="304218">H. Jones</conductor>
+    </result>
+    
+    <result id="320699">
+      <result code="W">Withdrawn</result>
+      <band id="548">Torbay Brass Band</band>
+      <conductor id="298695">C. Brian Buckley</conductor>
     </result>
     
   </results>
