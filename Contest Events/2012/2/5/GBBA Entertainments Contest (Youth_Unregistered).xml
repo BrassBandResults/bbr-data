@@ -19,28 +19,20 @@
   </test-piece>
 
   <venue id="1065">Larruperz Centre, Ross-on-Wye, Herefordshire</venue>
-  <notes>Lions Brass4Youth Gold Award
-
-Cwmtawe Youth Gold Award
-
-Lydbrook Training Gold Award
-
-Lydney Training Silver Award
-
-Cheltenham Silver Training Bronze Award
-
-Cinderford Academy Withdrawn
-
-Best Band in Section B Lions Youth Brass
-
+  <notes>Best Band in Section B Lions Youth Brass
 Best Soloist Rory Gordon (Cornet) Lydney Training
-
 Youngest Player Ollie Banasiak Cheltenham Silver Training (6)</notes>
 
   <created>Feb. 6, 2012, 2:29 p.m.</created>
-  <last-modified>March 14, 2012, 10:42 a.m.</last-modified>
+  <last-modified>July 8, 2020, 9:24 a.m.</last-modified>
 
   <results>
+    
+    <result id="84924">
+      <result code="1">1</result>
+      <band id="947">Cwmtawe District Youth Band</band>
+      <conductor id="307324">Wayne Pedrick</conductor>
+    </result>
     
     <result id="84923">
       <result code="1">1</result>
@@ -48,34 +40,28 @@ Youngest Player Ollie Banasiak Cheltenham Silver Training (6)</notes>
       <conductor id="303321">Dave Hollister</conductor>
     </result>
     
-    <result id="84924">
-      <result code="2">2</result>
-      <band id="947">Cwmtawe District Youth Band</band>
-      <conductor id="310730">Unknown</conductor>
-    </result>
-    
     <result id="84925">
-      <result code="2">2</result>
+      <result code="1">1</result>
       <band id="2297">Lydbrook Training Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="306351">Robert Morgan</conductor>
     </result>
     
     <result id="84926">
-      <result code="4">4</result>
+      <result code="2">2</result>
       <band id="2289">Lydney Training</band>
       <conductor id="301386">Kevin Ford</conductor>
     </result>
     
     <result id="84927">
-      <result code="5">5</result>
+      <result code="3">3</result>
       <band id="2298">Cheltenham Training</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="301374">Rob Folland</conductor>
     </result>
     
     <result id="84928">
       <result code="W">Withdrawn</result>
       <band id="3020">Cinderford Academy</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="305043">Clive Lewis</conductor>
     </result>
     
   </results>
