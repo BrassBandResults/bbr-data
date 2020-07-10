@@ -1,0 +1,80 @@
+<contest-event id="7196">
+  <event-date date="1865-6-29">June 29, 1865<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newark Contest</name>
+  <contest id="1260">
+    <name>Newark Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>newark-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="769">Sconce Hills, Farndon Road, Newark</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+South Notts Horticultural Society
+
+Prizes: £15, £10, £5, £3</notes>
+
+  <created>Sept. 5, 2011, 3:30 p.m.</created>
+  <last-modified>Jan. 4, 2013, 7:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="132355">
+      <result code="1">1</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="304640">George Knowles</conductor>
+      <test-piece id="1257">Lucrezia Borgia [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="132354">
+      <result code="2">2</result>
+      <band id="3298">Sherwood Rangers</band>
+      <conductor id="305105">William Lilley</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="132356">
+      <result code="3">3</result>
+      <band id="4905">Nottingham Saxe Tuba</band>
+      <conductor id="306800">W. H. Norman</conductor>
+      <test-piece id="1254">Ernani [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="132357">
+      <result code="4">4</result>
+      <band id="3493">Clay Cross</band>
+      <conductor id="308868">W. Sears</conductor>
+      <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="132351">
+      <result code="">Unknown Result</result>
+      <band id="10249">Royal Sherwood Foresters&#39; Militia (Newark)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="132352">
+      <result code="">Unknown Result</result>
+      <band id="3489">Wednesbury Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="132353">
+      <result code="W">Withdrawn</result>
+      <band id="10250">Barton-on-Humber Ropery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

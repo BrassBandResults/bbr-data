@@ -1,0 +1,87 @@
+<contest-event id="17918">
+  <event-date date="1890-8-16">Aug. 16, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Elsecar Contest</name>
+  <contest id="1796">
+    <name>Elsecar Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>elsecar-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2777">St. Paul [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1268">Elsecar, South Yorkshire</venue>
+  <notes>Promoted by Elsecar Subscription Band
+Prizes: £10 and 6 guinea trombone, £7 and baton, £3
+Quickstep: 1. Old Silkstone 
+4 bands competed</notes>
+
+  <created>Feb. 4, 2013, 11:33 p.m.</created>
+  <last-modified>Nov. 6, 2019, 1:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135371">
+      <result code="1">1</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+    </result>
+    
+    <result id="135370">
+      <result code="2">2</result>
+      <band id="43">Old Silkstone</band>
+      <conductor id="309884">Coniah Stringer</conductor>
+    </result>
+    
+    <result id="281954">
+      <result code="3">3</result>
+      <band id="3718">Elland Upper Edge</band>
+      <conductor id="317324">H. Hodgson</conductor>
+    </result>
+    
+    <result id="135369">
+      <result code="4">4</result>
+      <band id="8294">Thorncliffe and Chapeltown</band>
+      <conductor id="307539">A. Platts</conductor>
+    </result>
+    
+    <result id="135373">
+      <result code="W">Withdrawn</result>
+      <band id="6397">Barnsley Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135374">
+      <result code="W">Withdrawn</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135376">
+      <result code="W">Withdrawn</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135375">
+      <result code="W">Withdrawn</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135372">
+      <result code="W">Withdrawn</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

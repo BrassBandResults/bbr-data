@@ -1,0 +1,79 @@
+<contest-event id="9301">
+  <event-date date="1888-6-9">June 9, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sowerby Contest</name>
+  <contest id="1658">
+    <name>Sowerby Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>sowerby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2283">The Seasons [1885]</test-piece>
+  </test-piece>
+
+  <venue id="1169">Sowerby Bridge, West Yorkshire, England, UK</venue>
+  <notes>Prizes: £12 and 7 guinea instrument, £7, £4, £2.
+8 bands competed</notes>
+
+  <created>Jan. 1, 2012, 11:59 a.m.</created>
+  <last-modified>Oct. 15, 2015, 12:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80367">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="80368">
+      <result code="2">2</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="80369">
+      <result code="3">3</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="80370">
+      <result code="4">4</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="281722">
+      <result code="">Unknown Result</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="281723">
+      <result code="">Unknown Result</result>
+      <band id="3636">Platting Public</band>
+      <conductor id="303367">John Holt</conductor>
+    </result>
+    
+    <result id="281724">
+      <result code="">Unknown Result</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="238510">
+      <result code="">Unknown Result</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+  </results>
+</contest-event>

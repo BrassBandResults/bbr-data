@@ -1,0 +1,51 @@
+<contest-event id="13821">
+  <event-date date="1869-8-14">Aug. 14, 1869<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Slaithwaite Contest</name>
+  <contest id="1840">
+    <name>Slaithwaite Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>slaithwaite-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1990">Selection from Nell</test-piece>
+  </test-piece>
+
+  <venue id="2259">Hilltop, Slaithwaite</venue>
+  <notes>Prizes: £5, £3
+</notes>
+
+  <created>June 18, 2012, 9:59 p.m.</created>
+  <last-modified>Feb. 10, 2020, 3:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="110346">
+      <result code="1">1</result>
+      <band id="189">Delph Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1235">Der Freischütz [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110348">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1257">Lucrezia Borgia [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110347">
+      <result code="D">Disqualified</result>
+      <band id="2596">Holme Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

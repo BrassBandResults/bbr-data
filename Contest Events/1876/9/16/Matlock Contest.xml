@@ -1,0 +1,90 @@
+<contest-event id="7207">
+  <event-date date="1876-9-16">Sept. 16, 1876<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Matlock Contest</name>
+  <contest id="1205">
+    <name>Matlock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>matlock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="776">New Cricket Ground, Matlock Bridge</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4287.htm
+
+Band Contest - Matlock Bridge
+A brass band contest took place on the New Cricket Ground, Matlock Bridge. The contest was confined to volunteer and amateur bands, one professional only being allowed to play with each band. The following are the names of the bands that competed, names of their conductors, and the selections of music performed: Sutton-in-Ashfield Model Band, conductor Mr. R. Scott; selection, &quot;II Flauto Magico&quot;, Mozart; selection, &quot;Bohemian Girl&quot;, Balfe. Chesterfield Volunteer Band, conductor Mr, W. Mountney; selection, &quot;Der Frieschutz&quot;, Weber; selection, &quot;Il Flauto Magico&quot;, Mozart. Belper United Brass Band, conductor Mr. J. C. Smallwood: Overture, &quot;Primrose&quot;, Brepsant; overture, &quot;La Ruche d&#39;Or&quot;, Brepsant. Chesterfield United Brass Band, conductor Mr. H. Sipson: Selection &quot;Semiramide&quot;, Rossini; Kyrie and Gloria, &quot;12th Mass&quot;, Mozart. Clay Cross Volunteer Band, conductor Mr. S. Wood: Fantasia, &#39;La Fete Musicale&quot;, R. Smith; Kyria and Gloria, &quot;12th Mass&quot;, Mozart. Sutton-in-Ashfield Old Harmonic Band, conductor Mr. J. Dennis: Selection, &quot;II Flauto Magico&quot;, Mozart; selection, &quot; Bohemian Girl&quot; Balfe. Heanor United Brass Band, conductor Mr. E. Voce: Fantasia, &quot;La Fete Musicale&quot;, R. Smith; selection, &quot;Il Flauto Magico&quot;, Mozart. Winster Brass Band, conductor Mr. Plexney: Selection, &quot;Lurline&quot;, Wallace; Kyrie and Gloria, &quot;12th Mass&quot;, Mozart. Mr. T. Trimnell, organist of Sheffield Parish Church, acted as judge, and his decision, as follows, gave the greatest satisfaction: 1st, £15, to Sutton-in-Ashfield Old Harmonic Band; 2nd, £10, Chesterfield Volunteer Band; 3rd, £5, Chesterfield United Brass Band; 4th, £2 10s, Sutton-in-Ashfield Model Band.</notes>
+
+  <created>Sept. 5, 2011, 8:22 p.m.</created>
+  <last-modified>Nov. 27, 2012, 10:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="64349">
+      <result code="1">1</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="300318">Joseph Dennis</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="64350">
+      <result code="2">2</result>
+      <band id="2509">Chesterfield Rifle Corps Band</band>
+      <conductor id="306482">W. Mountney</conductor>
+      <test-piece id="1235">Der Freischütz [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="64351">
+      <result code="3">3</result>
+      <band id="5398">Chesterfield United Brass Band</band>
+      <conductor id="309185">H. Sipson</conductor>
+      <test-piece id="1455">Kyrie and Gloria from Mozart&#39;s 12th Mass [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="64352">
+      <result code="4">4</result>
+      <band id="5399">Sutton-in-Ashfield Model Band</band>
+      <conductor id="308847">R. Scott</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="64353">
+      <result code="">Unknown Result</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="309291">J. C. Smallwood</conductor>
+      <test-piece id="2236">La Ruche d&#39;Or</test-piece>
+    </result>
+    
+    <result id="64354">
+      <result code="">Unknown Result</result>
+      <band id="3493">Clay Cross</band>
+      <conductor id="311906">S. Wood</conductor>
+      <test-piece id="1463">Fete Musicale</test-piece>
+    </result>
+    
+    <result id="64355">
+      <result code="">Unknown Result</result>
+      <band id="5208">Heanor Church Temperance</band>
+      <conductor id="310833">E. Voce</conductor>
+      <test-piece id="1463">Fete Musicale</test-piece>
+    </result>
+    
+    <result id="64356">
+      <result code="">Unknown Result</result>
+      <band id="5400">Winster Brass Band</band>
+      <conductor id="307543">Mr. Plexney</conductor>
+      <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,78 @@
+<contest-event id="6893">
+  <event-date date="1858-9-3">Sept. 3, 1858<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnard Castle Contest</name>
+  <contest id="1167">
+    <name>Barnard Castle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnard-castle-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="671">Castle Grounds, Barnard Castle</venue>
+  <notes>
+
+Prizes:
+1st: 10 guineas
+2nd: 5 guineas
+3rd: 3 guineas
+4th: 2 guineas</notes>
+
+  <created>July 20, 2011, 12:36 p.m.</created>
+  <last-modified>Oct. 13, 2014, 4:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="61288">
+      <result code="1">1</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="303250">H. Hoggett</conductor>
+      <test-piece id="1285">Twelfth Mass - selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="61289">
+      <result code="2">2</result>
+      <band id="3601">New Shildon</band>
+      <conductor id="312189">Robert de Lacy</conductor>
+      <test-piece id="1693">Hallelujah Chorus [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="61290">
+      <result code="3">3</result>
+      <band id="587">Barnard Castle</band>
+      <conductor id="298365">Mr Brandon</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="61291">
+      <result code="4">4</result>
+      <band id="5060">Tees Ironworks</band>
+      <conductor id="301221">O. H. Fidler</conductor>
+      <test-piece id="1226">Operatic Selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="61292">
+      <result code="">Unknown Result</result>
+      <band id="5065">New Shildon Philharmonic Band</band>
+      <conductor id="298296">R. O. Bowran</conductor>
+      <test-piece id="1255">La Sonnambula [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="61293">
+      <result code="">Unknown Result</result>
+      <band id="5057">Staindrop</band>
+      <conductor id="311966">Thomas Woods</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

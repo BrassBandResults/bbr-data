@@ -1,0 +1,56 @@
+<contest-event id="26769">
+  <event-date date="1881-6-10">June 10, 1881<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stanley Park (Liverpool) Contest</name>
+  <contest id="3337">
+    <name>Stanley Park (Liverpool) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stanley-park-liverpool-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2566">Stanley Park, Liverpool</venue>
+  <notes>One of three contests at the Stanley Park Gala during Whit week
+
+7 bands competed</notes>
+
+  <created>March 31, 2014, 4:20 p.m.</created>
+  <last-modified>March 31, 2014, 4:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193753">
+      <result code="1">1</result>
+      <band id="2528">Southport Rifles Band</band>
+      <conductor id="308226">Thomas Rimmer</conductor>
+    </result>
+    
+    <result id="193754">
+      <result code="2">2</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="193755">
+      <result code="3">3</result>
+      <band id="11925">Robin Hood (Chester)</band>
+      <conductor id="302424">Nisbett Hall</conductor>
+    </result>
+    
+    <result id="193756">
+      <result code="4">4</result>
+      <band id="2602">Crewe Steam Shed Band</band>
+      <conductor id="297600">A. Bates</conductor>
+    </result>
+    
+  </results>
+</contest-event>

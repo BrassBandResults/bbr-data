@@ -1,0 +1,81 @@
+<contest-event id="17914">
+  <event-date date="1890-8-9">Aug. 9, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crawshawbooth Contest</name>
+  <contest id="2013">
+    <name>Crawshawbooth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crawshawbooth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2318">Pandora Quadrilles</test-piece>
+  </test-piece>
+
+  <venue id="2991">Fern Hill Field, Crawshawbooth, Lancashire</venue>
+  <notes>1st annual contest promoted by Goodshaw Brass Band
+10 bands entered, 8 competed
+Prizes: £12, £7, £4, £2, £1
+</notes>
+
+  <created>Feb. 4, 2013, 11:16 p.m.</created>
+  <last-modified>Nov. 16, 2017, 10:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="135353">
+      <result code="1">1</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="238666">
+      <result code="2">2</result>
+      <band id="10394">Church and Oswaldtwistle (3rd L.A.V.) Temperance</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="135355">
+      <result code="3">3</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135356">
+      <result code="4">4</result>
+      <band id="5589">Millgate</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="238657">
+      <result code="5">5</result>
+      <band id="7197">Newhallhey</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="238655">
+      <result code="">Unknown Result</result>
+      <band id="6251">Bacup Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238656">
+      <result code="">Unknown Result</result>
+      <band id="3675">Boothfold</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238665">
+      <result code="">Unknown Result</result>
+      <band id="4600">Church and Oswaldtwistle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

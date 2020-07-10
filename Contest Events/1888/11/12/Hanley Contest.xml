@@ -1,0 +1,73 @@
+<contest-event id="38901">
+  <event-date date="1888-11-12">Nov. 12, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hanley Contest</name>
+  <contest id="2381">
+    <name>Hanley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hanley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1741">Great Britain</test-piece>
+  </test-piece>
+
+  <venue id="2009">Hanley, Stoke on Trent</venue>
+  <notes>2nd annual contest promoted by Hanley Excelsior band.
+7 bands competed.</notes>
+
+  <created>Nov. 29, 2017, 9:29 p.m.</created>
+  <last-modified>Oct. 31, 2019, 5:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283013">
+      <result code="1">1</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="283019">
+      <result code="2">2</result>
+      <band id="8103">Burslem Port Vale</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="283016">
+      <result code="3">3</result>
+      <band id="5284">Longton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283014">
+      <result code="4">4</result>
+      <band id="6601">Congleton Volunteers</band>
+      <conductor id="297516">John Barnett</conductor>
+    </result>
+    
+    <result id="283018">
+      <result code="5">5</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="305068">Joseph Lewis</conductor>
+    </result>
+    
+    <result id="283015">
+      <result code="">Unknown Result</result>
+      <band id="6643">Tamworth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283041">
+      <result code="">Unknown Result</result>
+      <band id="17208">Hanley Church Mission</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

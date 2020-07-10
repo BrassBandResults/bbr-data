@@ -13,35 +13,78 @@
     
     
   </contest>
-  
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
     <test-piece id="158">Kenilworth</test-piece>
   </test-piece>
 
   <venue id="4934">Workmen&#39;s Hall, Gwaun-cae-Gurwen</venue>
-  <notes></notes>
+  <notes>Prizes - 1st £60, 2nd £40, 3rd £25.
+10 bands competed.</notes>
 
   <created>Feb. 20, 2016, 1:17 p.m.</created>
-  <last-modified>Feb. 20, 2016, 1:25 p.m.</last-modified>
+  <last-modified>July 9, 2020, 10:46 a.m.</last-modified>
 
   <results>
     
     <result id="246529">
       <result code="1">1</result>
       <band id="3304">South Glamorgan Youth Brass Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="304193">Dewi Jones</conductor>
     </result>
     
     <result id="246530">
       <result code="2">2</result>
       <band id="2098">Blaina &amp; District</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="297441">David Banwell</conductor>
     </result>
     
     <result id="246531">
       <result code="3">3</result>
       <band id="2003">Coedely</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="299655">E. Coombs</conductor>
+    </result>
+    
+    <result id="320938">
+      <result code="">Unknown Result</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="304151">John Jolley</conductor>
+    </result>
+    
+    <result id="320936">
+      <result code="">Unknown Result</result>
+      <band id="18">BTM Band</band>
+      <conductor id="304181">Cynon Jones</conductor>
+    </result>
+    
+    <result id="320940">
+      <result code="">Unknown Result</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="297111">L. Armstrong</conductor>
+    </result>
+    
+    <result id="320941">
+      <result code="">Unknown Result</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="306390">Haydn Morris</conductor>
+    </result>
+    
+    <result id="320939">
+      <result code="">Unknown Result</result>
+      <band id="3440">Pencoed Concert Brass</band>
+      <conductor id="309282">Tony Small</conductor>
+    </result>
+    
+    <result id="320935">
+      <result code="">Unknown Result</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="303922">L. D. James</conductor>
+    </result>
+    
+    <result id="320937">
+      <result code="">Unknown Result</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="311656">Philip Williams</conductor>
     </result>
     
   </results>
