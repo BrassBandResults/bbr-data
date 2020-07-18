@@ -19,17 +19,10 @@
   </test-piece>
 
   <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
-  <notes>Prizes:
-
-1st: £50
-2nd: £30
-3rd: £20
-4th: £15
-5th: £10
-6th: £5 </notes>
+  <notes>Prizes:- 1st: £50, 2nd: £30, 3rd: £20, 4th: £15, 5th: £10, 6th: £5</notes>
 
   <created>July 5, 2011, 4:46 p.m.</created>
-  <last-modified>May 13, 2016, 9:05 a.m.</last-modified>
+  <last-modified>July 17, 2020, 6:54 p.m.</last-modified>
 
   <results>
     
@@ -151,6 +144,18 @@
       <result code="">Unknown Result</result>
       <band id="808">Royal Oakeley Band</band>
       <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="321231">
+      <result code="W">Withdrawn</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="321232">
+      <result code="W">Withdrawn</result>
+      <band id="18682">Crooke</band>
+      <conductor id="310730">Unknown</conductor>
     </result>
     
   </results>
