@@ -15,16 +15,37 @@
   </contest>
   
   <test-piece>
-    
+    <test-piece id="508">Owain Glyndwr</test-piece>
   </test-piece>
 
   <venue id="4452">Bristol Aeroplane Co. Sports Field, Southmead Road, Bristol</venue>
   <notes>Prizes - 1st £60, 2nd £25, 3rd £10.
 2nd annual contest.
-</notes>
+
+Championship March:
+1 Melingriffith 1
+2 Cory 2
+W Fairey
+
+March (all sections):
+[double draw 4 must be an error - also draw 7 is missing]
+1 Celynen 4
+2 NFS no 17 Bristol 10
+Tytherington 1
+Varteg 2
+Tonyrefail 3
+SJA Bristol 4
+Wellworthy 5
+Yorkley 6
+Pillowell 8
+Mid-Rhondda 9
+Cory 11
+
+Uniform and Deportment (all sections):
+1 Yorkley Onward</notes>
 
   <created>Feb. 3, 2014, 10:19 p.m.</created>
-  <last-modified>July 18, 2020, 11:26 a.m.</last-modified>
+  <last-modified>July 19, 2020, 12:10 p.m.</last-modified>
 
   <results>
     
@@ -34,26 +55,14 @@
       <conductor id="307638">Thomas James Powell</conductor>
     </result>
     
-    <result id="321265">
-      <result code="">Unknown Result</result>
-      <band id="428">City of Bristol Brass Band</band>
-      <conductor id="310404">Noel Thorpe</conductor>
-    </result>
-    
     <result id="321263">
-      <result code="">Unknown Result</result>
+      <result code="2">2</result>
       <band id="4">Cory Band</band>
       <conductor id="305152">Reg Little</conductor>
     </result>
     
-    <result id="321264">
-      <result code="">Unknown Result</result>
-      <band id="6">Fairey Band</band>
-      <conductor id="306423">Harry Mortimer</conductor>
-    </result>
-    
     <result id="321266">
-      <result code="">Unknown Result</result>
+      <result code="3">3</result>
       <band id="10777">Gwaun-cae-Gurwen</band>
       <conductor id="305178">Dan Lloyd</conductor>
     </result>
@@ -62,6 +71,18 @@
       <result code="">Unknown Result</result>
       <band id="3340">Kingswood Evangel</band>
       <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="321265">
+      <result code="">Unknown Result</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="321264">
+      <result code="W">Withdrawn</result>
+      <band id="6">Fairey Band</band>
+      <conductor id="306423">Harry Mortimer</conductor>
     </result>
     
   </results>
