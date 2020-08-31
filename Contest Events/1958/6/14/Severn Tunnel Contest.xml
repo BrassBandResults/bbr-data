@@ -1,0 +1,63 @@
+<contest-event id="23050">
+  <event-date date="1958-6-14">June 14, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Severn Tunnel Contest</name>
+  <contest id="4475">
+    <name>Severn Tunnel Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>severn-tunnel-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="859">The Joy of Youth</test-piece>
+  </test-piece>
+
+  <venue id="3784">Castle Grounds, Chepstow, Monmouthshire</venue>
+  <notes>
+  Prizes - 1st £30, 2nd £15, 3rd £5.
+  Restricted to section 4 bands only.
+  Promoted by Severn Tunnel and District Band.</notes>
+
+  <created>Aug. 17, 2013, 4:49 p.m.</created>
+  <last-modified>Aug. 17, 2013, 4:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="169825">
+      <result code="1">1</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="300189">W. B. Davies</conductor>
+    </result>
+    
+    <result id="169826">
+      <result code="2">2</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="302725">Harold Hartley</conductor>
+    </result>
+    
+    <result id="169827">
+      <result code="3">3</result>
+      <band id="4022">Lilleshall Collieries</band>
+      <conductor id="309202">William Skelton</conductor>
+    </result>
+    
+    <result id="169828">
+      <result code="">Unknown Result</result>
+      <band id="2428">Abertysswg Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169829">
+      <result code="">Unknown Result</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

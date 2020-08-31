@@ -1,0 +1,91 @@
+<contest-event id="31983">
+  <event-date date="1963-11-23">Nov. 23, 1963<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wigan Contest</name>
+  <contest id="799">
+    <name>Wigan Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="153">Wigan Contest</group>
+    <slug>wigan-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2786">Rigoletto [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2658">Drill Hall, Powell Street, Wigan</venue>
+  <notes>Prizes - 1st £30 and trophy, 2nd £15 and trophy, 3rd £14 and trophy, 4th £8 and trophy, best local (Lower Ince) £3 and trophy.
+8 bands competed.</notes>
+
+  <created>May 14, 2015, 10:15 a.m.</created>
+  <last-modified>May 14, 2015, 10:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="227210">
+      <result code="1">1</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="305391">William Lyon</conductor>
+    </result>
+    
+    <result id="227207">
+      <result code="2">2</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="297651">A. H. Beardsell</conductor>
+    </result>
+    
+    <result id="227215">
+      <result code="3">3</result>
+      <band id="5374">Wigan Boys</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="227212">
+      <result code="4">4</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="305676">Fred Martland</conductor>
+    </result>
+    
+    <result id="227205">
+      <result code="">Unknown Result</result>
+      <band id="1499">Bedford (Leigh) Band</band>
+      <conductor id="300335">J. Denton</conductor>
+    </result>
+    
+    <result id="227214">
+      <result code="">Unknown Result</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="306617">Leslie Naylor</conductor>
+    </result>
+    
+    <result id="227208">
+      <result code="">Unknown Result</result>
+      <band id="2756">Leigh Silver Band</band>
+      <conductor id="301474">Harry Foxwell</conductor>
+    </result>
+    
+    <result id="227209">
+      <result code="">Unknown Result</result>
+      <band id="2584">Lower Ince Temperance</band>
+      <conductor id="306617">Leslie Naylor</conductor>
+    </result>
+    
+    <result id="227211">
+      <result code="W">Withdrawn</result>
+      <band id="2581">Summers&#39; Steel Works</band>
+      <conductor id="307157">Herbert Parry</conductor>
+    </result>
+    
+    <result id="227206">
+      <result code="W">Withdrawn</result>
+      <band id="1701">Beswick Prize</band>
+      <conductor id="308240">Albert Risby</conductor>
+    </result>
+    
+  </results>
+</contest-event>

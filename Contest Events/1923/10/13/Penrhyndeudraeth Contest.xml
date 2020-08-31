@@ -1,0 +1,43 @@
+<contest-event id="40940">
+  <event-date date="1923-10-13">Oct. 13, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Penrhyndeudraeth Contest</name>
+  <contest id="6411">
+    <name>Penrhyndeudraeth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>penrhyndeudraeth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2427">Scenes of Beauty</test-piece>
+  </test-piece>
+
+  <venue id="6982">Penrhyndeudraeth, Merioneth</venue>
+  <notes>Prizes - 1st £20, 2nd £10.
+March contest - 1st Festiniog, 2nd Penrhynside.</notes>
+
+  <created>Oct. 25, 2018, 7:59 a.m.</created>
+  <last-modified>Oct. 25, 2018, 8:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297242">
+      <result code="1">1</result>
+      <band id="7841">Penrhyn Side</band>
+      <conductor id="310548">Francis Traversi</conductor>
+    </result>
+    
+    <result id="297243">
+      <result code="2">2</result>
+      <band id="14240">Ffestiniog Village</band>
+      <conductor id="318583">O. A. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

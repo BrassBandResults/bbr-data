@@ -1,0 +1,55 @@
+<contest-event id="25754">
+  <event-date date="1980-1-1">Jan. 1, 1980<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Luzerner Kantonal-Musikfest (First Section)</name>
+  <contest id="3056">
+    <name>Luzerner Kantonal-Musikfest (First Section)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="291">Luzerner Kantonal-Musikfest</group>
+    <slug>luzerner-kantonal-musikfest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3668">Toccata [Benz]</test-piece>
+  </test-piece>
+
+  <venue id="2433">Wolhusen, LU, Switzerland</venue>
+  <notes>14 Bands competed.</notes>
+
+  <created>Jan. 8, 2014, 11:43 a.m.</created>
+  <last-modified>April 5, 2016, 8 p.m.</last-modified>
+
+  <results>
+    
+    <result id="236723">
+      <result code="1">1</result>
+      <band id="98">Brass Band MG Egolzwil</band>
+      <conductor id="300810">Walter Egli</conductor>
+    </result>
+    
+    <result id="236713">
+      <result code="3">3</result>
+      <band id="72">Brass Band Kirchenmusik Flühli</band>
+      <conductor id="297403">Robert Balmer</conductor>
+      <test-piece id="391">Prometheus Unbound</test-piece>
+    </result>
+    
+    <result id="186733">
+      <result code="8">8</result>
+      <band id="11758">Brass Band FM Richenthal</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+    <result id="186734">
+      <result code="13">13</result>
+      <band id="10945">Feldmusik Knutwil</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+  </results>
+</contest-event>

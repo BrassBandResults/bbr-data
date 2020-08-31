@@ -1,0 +1,54 @@
+<contest-event id="5297">
+  <event-date date="1957-3-3">March 3, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO Yorkshire (2nd Section)</name>
+  <contest id="673">
+    <name>CISWO Yorkshire (2nd Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-2nd-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2532">Recollections of Meyerbeer [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="3258">City Hall, Sheffield</venue>
+  <notes></notes>
+
+  <created>April 9, 2011, 11:03 a.m.</created>
+  <last-modified>June 8, 2014, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="54553">
+      <result code="1">1</result>
+      <band id="132">Strata Brass</band>
+      <conductor id="301423">Eric Foster</conductor>
+    </result>
+    
+    <result id="164584">
+      <result code="2">2</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="298123">Jack Boddice</conductor>
+    </result>
+    
+    <result id="45799">
+      <result code="3">3</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="297109">Joe Armstrong</conductor>
+    </result>
+    
+    <result id="164585">
+      <result code="4">4</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="306375">N. Morley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

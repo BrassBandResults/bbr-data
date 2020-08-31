@@ -1,0 +1,42 @@
+<contest-event id="14395">
+  <event-date date="1990-11-1">Nov. 1, 1990<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Swiss National Championships (First Division)</name>
+  <contest id="12">
+    <name>Swiss National Championships (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-first-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2053">Second Sinfonietta [Balissat]</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2012, 9:55 a.m.</created>
+  <last-modified>Sept. 23, 2015, 7:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114645">
+      <result code="1">1</result>
+      <band id="9090">Fanfare Echo des Alpes Les Posses</band>
+      <conductor id="312175">M. Zumbrunnen</conductor>
+    </result>
+    
+    <result id="115914">
+      <result code="4">4</result>
+      <band id="72">Brass Band Kirchenmusik Flühli</band>
+      <conductor id="297403">Robert Balmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,58 @@
+<contest-event id="31839">
+  <event-date date="2015-4-12">April 12, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>IABCB National Band Championships (Section 1 Brass)</name>
+  <contest id="384">
+    <name>IABCB National Band Championships (Section 1 Brass)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="65">IABCB National Band Championships of Ireland </group>
+    <slug>iabcb-national-band-championships-section1</slug>
+    
+    <notes></notes>
+    <region id="24">Republic of Ireland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="293">Oceans</test-piece>
+  </test-piece>
+
+  <venue id="2017">CIT Cork School of Music, Cork, County Cork, Republic of Ireland</venue>
+  <notes>50th Edition</notes>
+
+  <created>April 18, 2015, 11:13 a.m.</created>
+  <last-modified>April 24, 2017, 12:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="226255">
+      <result code="1">1</result>
+      <band id="1340">Lourdes Brass</band>
+      <conductor id="302534">Michael Hannan</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+    <result id="226256">
+      <result code="2">2</result>
+      <band id="1402">Stedfast Band</band>
+      <conductor id="300071">Brian Daly</conductor>
+      <test-piece id="60">The Dark Side of the Moon</test-piece>
+    </result>
+    
+    <result id="226257">
+      <result code="3">3</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305489">Michael Maher</conductor>
+      <test-piece id="63">The Saga of Haakon the Good</test-piece>
+    </result>
+    
+    <result id="226258">
+      <result code="4">4</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="305413">James MacCafferty</conductor>
+      <test-piece id="392">Shine as the Light</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

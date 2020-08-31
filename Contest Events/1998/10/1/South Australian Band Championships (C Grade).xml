@@ -1,0 +1,48 @@
+<contest-event id="39690">
+  <event-date date="1998-10-1">Oct. 1, 1998<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>South Australian Band Championships (C Grade)</name>
+  <contest id="571">
+    <name>South Australian Band Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="355">The Fall of the Year</test-piece>
+  </test-piece>
+
+  <venue id="6123">Westminster School, Marion, Adelaide, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>May 24, 2018, 5:34 a.m.</created>
+  <last-modified>Oct. 29, 2019, 4:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287720">
+      <result code="1">1</result>
+      <band id="2176">Mount Gambier Band</band>
+      <conductor id="305591">Graham Marks</conductor>
+    </result>
+    
+    <result id="287721">
+      <result code="2">2</result>
+      <band id="9334">Metropolitan Brass [Adelaide]</band>
+      <conductor id="300465">Peter Doherty</conductor>
+    </result>
+    
+    <result id="287722">
+      <result code="3">3</result>
+      <band id="2164">Campbelltown City Band (S.A.)</band>
+      <conductor id="304281">Stuart Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

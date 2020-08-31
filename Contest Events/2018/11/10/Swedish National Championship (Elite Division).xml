@@ -1,0 +1,66 @@
+<contest-event id="36542">
+  <event-date date="2018-11-10">Nov. 10, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (Elite Division)</name>
+  <contest id="851">
+    <name>Swedish National Championship (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-elite-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="9">Elite</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="123">Odyssey [Norbury]</test-piece>
+  </test-piece>
+
+  <venue id="4625">Arken, Värnamo, Småland, Sweden</venue>
+  <notes>Set Work, Friday - Adjudicators: Philip Harper, Marieka Gray, Jan de Haan
+Own Choice, Saturday - Adjudicators: Frode Rydland, Marieka Gray, Jan de Haan</notes>
+
+  <created>Nov. 13, 2016, 9:29 p.m.</created>
+  <last-modified>Nov. 13, 2018, 7:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="286528">
+      <result code="1">1</result>
+      <band id="12806">Göta Brass Band</band>
+      <conductor id="310358">Michael Thomsen</conductor>
+      <test-piece id="5251">The 39th Parallel</test-piece>
+    </result>
+    
+    <result id="286527">
+      <result code="2">2</result>
+      <band id="1208">Solna Brass</band>
+      <conductor id="298004">Emil Björklund</conductor>
+      <test-piece id="519">Red Priest</test-piece>
+    </result>
+    
+    <result id="286526">
+      <result code="3">3</result>
+      <band id="1934">Windcorp Brass Band</band>
+      <conductor id="317870">Ingemar Roos</conductor>
+      <test-piece id="26">Les Preludes [arr. Gay]</test-piece>
+    </result>
+    
+    <result id="286529">
+      <result code="4">4</result>
+      <band id="2264">Betlehemskyrkans Musikkår</band>
+      <conductor id="301899">David Glänneskog</conductor>
+      <test-piece id="56">The Essence of Time</test-piece>
+    </result>
+    
+    <result id="286061">
+      <result code="5">5</result>
+      <band id="2265">Uffes Blås Brass Band</band>
+      <conductor id="304679">Andreas Kratz</conductor>
+      <test-piece id="2">Rococo Variations [Gregson]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

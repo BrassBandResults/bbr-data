@@ -1,0 +1,45 @@
+<contest-event id="42498">
+  <event-date date="2019-6-1">June 1, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Thurgauer Kantonal-Musikfest (Second Section)</name>
+  <contest id="4329">
+    <name>Thurgauer Kantonal-Musikfest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="409">Thurgauer Kantonal-Musikfest</group>
+    <slug>thurgauer-kantonal-musikfest</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5978">Celtic Force</test-piece>
+  </test-piece>
+
+  <venue id="7099">Kradolf-Schönenberg, TG, Switzerland</venue>
+  <notes>Set Piece: Héritier, Novak, Epli
+Own Choice Piece: Cillissen, Ludescher, Jeanbourquin</notes>
+
+  <created>Aug. 22, 2019, 10:53 p.m.</created>
+  <last-modified>Aug. 22, 2019, 11:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="311817">
+      <result code="1">1</result>
+      <band id="8834">FEG Brass Band Sulgen</band>
+      <conductor id="306060">Jürg Messmer</conductor>
+      <test-piece id="2476">Purpose</test-piece>
+    </result>
+    
+    <result id="311818">
+      <result code="2">2</result>
+      <band id="7127">MG Hörhausen</band>
+      <conductor id="311260">Roger Wellauer</conductor>
+      <test-piece id="564">Feeling Young</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

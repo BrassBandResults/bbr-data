@@ -1,0 +1,73 @@
+<contest-event id="24667">
+  <event-date date="1933-10-28">Oct. 28, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Section 1)</name>
+  <contest id="4152">
+    <name>Reading Contest (Section 1)</name>
+    <order>450</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="772">Les Huguenots [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="554">Reading Town Hall, Reading, Berkshire, England, UK</venue>
+  <notes> 
+  7 bands competed.</notes>
+
+  <created>Oct. 23, 2013, 1:34 p.m.</created>
+  <last-modified>April 21, 2018, 7:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="180308">
+      <result code="1">1</result>
+      <band id="2149">Reading Spring Gardens Brass Band</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="180309">
+      <result code="2">2</result>
+      <band id="1550">Tadley Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="180310">
+      <result code="3">3</result>
+      <band id="9866">Silchester</band>
+      <conductor id="298850">Percy Butler</conductor>
+    </result>
+    
+    <result id="180311">
+      <result code="4">4</result>
+      <band id="3912">Marlow Town Band</band>
+      <conductor id="307066">Ernest Palmer</conductor>
+    </result>
+    
+    <result id="180314">
+      <result code="5">5</result>
+      <band id="10196">High Wycombe Borough</band>
+      <conductor id="297688">A. Beckwith</conductor>
+    </result>
+    
+    <result id="180313">
+      <result code="6">6</result>
+      <band id="9220">Chertsey Town Silver Prize Band</band>
+      <conductor id="309357">F. D. Smith</conductor>
+    </result>
+    
+    <result id="180312">
+      <result code="7">7</result>
+      <band id="595">Sandhurst Silver</band>
+      <conductor id="297064">John Ansell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

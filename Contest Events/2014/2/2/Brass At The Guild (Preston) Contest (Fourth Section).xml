@@ -1,0 +1,85 @@
+<contest-event id="24234">
+  <event-date date="2014-2-2">Feb. 2, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass At The Guild (Preston) Contest (Fourth Section)</name>
+  <contest id="165">
+    <name>Brass At The Guild (Preston) Contest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="8">Own Choice from a Specified List</contest-type>
+    <group id="34">Brass at the Guild (Preston)</group>
+    <slug>preston-contest-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="173">Three Saints</test-piece>
+  </test-piece>
+
+  <venue id="29">Guild Hall, Preston, Lancashire, England, UK</venue>
+  <notes>9 bands competed</notes>
+
+  <created>Oct. 2, 2013, 8:37 p.m.</created>
+  <last-modified>Jan. 13, 2017, 10:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187559">
+      <result code="1">1</result>
+      <band id="217">Greenfield Band</band>
+      <conductor id="302760">Tom Haslam</conductor>
+    </result>
+    
+    <result id="187556">
+      <result code="2">2</result>
+      <band id="216">Pilling Jubilee Silver Band</band>
+      <conductor id="299246">Len Charnock</conductor>
+      <test-piece id="2617">Three Spanish Impressions [Fernie]</test-piece>
+    </result>
+    
+    <result id="187552">
+      <result code="3">3</result>
+      <band id="221">Tarleton and District Brass</band>
+      <conductor id="298237">Gillian Bould</conductor>
+    </result>
+    
+    <result id="187560">
+      <result code="4">4</result>
+      <band id="224">Blackley Band</band>
+      <conductor id="307693">Daniel Price</conductor>
+    </result>
+    
+    <result id="187557">
+      <result code="5">5</result>
+      <band id="153">Oughtibridge Band</band>
+      <conductor id="309525">Gavin Somerset</conductor>
+    </result>
+    
+    <result id="187554">
+      <result code="6">6</result>
+      <band id="226">Sale Brass Band</band>
+      <conductor id="306281">Grenville Moore</conductor>
+    </result>
+    
+    <result id="187558">
+      <result code="7">7</result>
+      <band id="148">Huddersfield and Ripponden Brass</band>
+      <conductor id="299832">Michael Cox</conductor>
+    </result>
+    
+    <result id="187553">
+      <result code="8">8</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="299206">Dave Chapman</conductor>
+    </result>
+    
+    <result id="187555">
+      <result code="9">9</result>
+      <band id="395">Rode Hall Silver Band</band>
+      <conductor id="298849">Nigel Butler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,49 @@
+<contest-event id="18798">
+  <event-date date="1945-6-16">June 16, 1945<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Area (Daily Herald Qualifying) Contest, Second Section</name>
+  <contest id="3680">
+    <name>Scottish Area Qualifying Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="370">Scottish Area Qualifying Contest</group>
+    <slug>scottish-area-daily-herald-qualifying-co-3680</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="7">Scotland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1239">La Traviata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3177">Hibernian Football Club, Edinburgh</venue>
+  <notes>Prizes - 1st £30 and cup, 2nd £20, 3rd £15.
+3 bands competed.</notes>
+
+  <created>March 3, 2013, 12:42 p.m.</created>
+  <last-modified>Feb. 5, 2019, 1:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="140913">
+      <result code="1">1</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="310226">Charles Terris</conductor>
+    </result>
+    
+    <result id="140914">
+      <result code="2">2</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="307331">William Pegg</conductor>
+    </result>
+    
+    <result id="140915">
+      <result code="3">3</result>
+      <band id="1984">Coatbridge Burgh</band>
+      <conductor id="310253">Hugh Thom</conductor>
+    </result>
+    
+  </results>
+</contest-event>

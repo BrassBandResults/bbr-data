@@ -1,0 +1,55 @@
+<contest-event id="21296">
+  <event-date date="1975-1-26">Jan. 26, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northumberland Brass Band League (Section A)</name>
+  <contest id="3585">
+    <name>Northumberland Brass Band League (Section A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northumberland-brass-band-league-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="534">Themes from Symphony No. 5 [Beethoven]</test-piece>
+  </test-piece>
+
+  <venue id="3462">Lynemouth, Northumberland</venue>
+  <notes>  March contest - 1st Northumbria Police, 2nd Ashington Colliery, 3rd Wallsend Shipyard.
+Hymn tune contest - 1st Ashington</notes>
+
+  <created>May 11, 2013, 7:58 p.m.</created>
+  <last-modified>Aug. 25, 2014, 1:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="156982">
+      <result code="1">1</result>
+      <band id="4128">Pegswood Colliery Prize Band</band>
+      <conductor id="301177">Frank Feltell</conductor>
+    </result>
+    
+    <result id="156983">
+      <result code="2">2</result>
+      <band id="306">Wansbeck&#39;s Ashington Colliery Band</band>
+      <conductor id="307723">Maurice Priestley</conductor>
+    </result>
+    
+    <result id="156984">
+      <result code="3">3</result>
+      <band id="921">Northumbria Police Band</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="156985">
+      <result code="">Unknown Result</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,86 @@
+<contest-event id="10632">
+  <event-date date="1906-5-19">May 19, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Kirkby Contest (Junior Contest)</name>
+  <contest id="2073">
+    <name>East Kirkby Contest (Junior Contest)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="237">East Kirkby Contest</group>
+    <slug>east-kirkby-contest-junior-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1718">Don Quixote</test-piece>
+  </test-piece>
+
+  <venue id="1509">East Kirkby, Nottingham</venue>
+  <notes>Promoted by Kirkby Colliery band.
+  1st prize £5, 2nd prize £3, 3rd prize £1, 4th prize 10s.
+9 bands competed</notes>
+
+  <created>Feb. 25, 2012, 10:35 a.m.</created>
+  <last-modified>Sept. 13, 2018, 12:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="88973">
+      <result code="1">1</result>
+      <band id="6792">Clowne Silver</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="88974">
+      <result code="2">2</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="303145">W. Hinds</conductor>
+    </result>
+    
+    <result id="88975">
+      <result code="3">3</result>
+      <band id="6580">Mansfield Excelsior</band>
+      <conductor id="309963">F. Suttle</conductor>
+    </result>
+    
+    <result id="88976">
+      <result code="4">4</result>
+      <band id="6887">Bentinck Colliery</band>
+      <conductor id="311403">John T. White</conductor>
+    </result>
+    
+    <result id="88979">
+      <result code="">Unknown Result</result>
+      <band id="489">Shirebrook Band</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+    </result>
+    
+    <result id="88981">
+      <result code="">Unknown Result</result>
+      <band id="6340">Beeston Excelsior</band>
+      <conductor id="303819">J. E. Irons</conductor>
+    </result>
+    
+    <result id="88978">
+      <result code="">Unknown Result</result>
+      <band id="7870">Long Eaton Town Band</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="88980">
+      <result code="">Unknown Result</result>
+      <band id="6794">Beeston Humber</band>
+      <conductor id="317447">J. Hartley</conductor>
+    </result>
+    
+    <result id="88977">
+      <result code="">Unknown Result</result>
+      <band id="6337">Eastwood Ambulance</band>
+      <conductor id="304992">T. Leivers</conductor>
+    </result>
+    
+  </results>
+</contest-event>

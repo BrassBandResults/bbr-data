@@ -1,0 +1,55 @@
+<contest-event id="20458">
+  <event-date date="1956-6-23">June 23, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Fourth Section)</name>
+  <contest id="863">
+    <name>Wessex Brass Band Association (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="3461">Parade Gardens, Bath</venue>
+  <notes>  March contest - 1st Calne, 2nd Hyde, 3rd Weston.
+  Best instrumentalist - Soprano - Hungerford.</notes>
+
+  <created>April 11, 2013, 6:31 p.m.</created>
+  <last-modified>April 11, 2013, 6:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="151761">
+      <result code="1">1</result>
+      <band id="1263">Calne Silver Band</band>
+      <conductor id="309592">C. Spink</conductor>
+    </result>
+    
+    <result id="151763">
+      <result code="2">2</result>
+      <band id="10785">Weston-super-Mare British Legion</band>
+      <conductor id="299767">C. Cotton</conductor>
+    </result>
+    
+    <result id="151762">
+      <result code="3">3</result>
+      <band id="310">Hyde Band</band>
+      <conductor id="310507">C. R. Toogood</conductor>
+    </result>
+    
+    <result id="151764">
+      <result code="">Unknown Result</result>
+      <band id="350">Hungerford Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

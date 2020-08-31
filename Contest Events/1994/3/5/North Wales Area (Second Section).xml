@@ -1,0 +1,48 @@
+<contest-event id="13990">
+  <event-date date="1994-3-5">March 5, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Area (Second Section)</name>
+  <contest id="2960">
+    <name>North Wales Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="280">North Wales Area</group>
+    <slug>north-wales-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="3">Wales</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="286">A Salford Sinfonietta</test-piece>
+  </test-piece>
+
+  <venue id="160">Llandudno, Conwy, Wales, UK</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>July 12, 2012, 2:19 p.m.</created>
+  <last-modified>March 7, 2015, 4:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="112224">
+      <result code="1">1</result>
+      <band id="121">Beaumaris Band</band>
+      <conductor id="300993">Gwyn Evans</conductor>
+    </result>
+    
+    <result id="222597">
+      <result code="2">2</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="304869">Lindsay Lawrie</conductor>
+    </result>
+    
+    <result id="112194">
+      <result code="3">3</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="307751">Steve Pritchard-Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

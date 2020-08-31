@@ -1,0 +1,54 @@
+<contest-event id="19436">
+  <event-date date="1966-12-3">Dec. 3, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leicestershire BBA (Leicester) Contest (First Section) </name>
+  <contest id="192">
+    <name>Leicestershire BBA (Leicester) Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="75">Leicestershire Brass Band Association (Leicester) Contest</group>
+    <slug>leicester-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1038">Schubert&#39;s Symphony in C [arr. J. A. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="3287">Community Centre, Ibstock, Leicestershire, England, UK</venue>
+  <notes>  March contest  1st Kibworth(88), 2nd Snibstone(84), 3rd Wigston Temperance(81).</notes>
+
+  <created>March 21, 2013, 11:52 a.m.</created>
+  <last-modified>March 21, 2013, 11:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="145742">
+      <result code="1">1</result>
+      <band id="120">Kibworth Band</band>
+      <conductor id="308803">William Scholes</conductor>
+    </result>
+    
+    <result id="145743">
+      <result code="2">2</result>
+      <band id="274">William Davis Construction Group Band</band>
+      <conductor id="309671">Fred Starkey</conductor>
+    </result>
+    
+    <result id="145744">
+      <result code="3">3</result>
+      <band id="874">Bulkington Silver Band</band>
+      <conductor id="297896">A. J. Bicknell</conductor>
+    </result>
+    
+    <result id="145745">
+      <result code="">Unknown Result</result>
+      <band id="473">Wigston Band</band>
+      <conductor id="306275">Edward Moore</conductor>
+    </result>
+    
+  </results>
+</contest-event>

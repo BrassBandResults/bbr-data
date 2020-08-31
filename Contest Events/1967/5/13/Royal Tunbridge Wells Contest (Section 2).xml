@@ -1,0 +1,48 @@
+<contest-event id="20008">
+  <event-date date="1967-5-13">May 13, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 2)</name>
+  <contest id="2881">
+    <name>Royal Tunbridge Wells Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="559">Othello</test-piece>
+  </test-piece>
+
+  <venue id="2203">White Rock Pavilion, Hastings</venue>
+  <notes></notes>
+
+  <created>March 29, 2013, 7:16 p.m.</created>
+  <last-modified>June 2, 2017, 8:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="149214">
+      <result code="1">1</result>
+      <band id="3948">UK Paper Band Sittingbourne</band>
+      <conductor id="311261">A. Weller</conductor>
+    </result>
+    
+    <result id="149215">
+      <result code="2">2</result>
+      <band id="8615">Hastings &amp; St. Leonards</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149216">
+      <result code="3">3</result>
+      <band id="833">Snowdown Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

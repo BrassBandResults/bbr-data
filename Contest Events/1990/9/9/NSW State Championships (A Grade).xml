@@ -1,0 +1,59 @@
+<contest-event id="32891">
+  <event-date date="1990-9-9">Sept. 9, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (A Grade)</name>
+  <contest id="565">
+    <name>NSW State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3431">Warragul</test-piece>
+  </test-piece>
+
+  <venue id="6313">Sutherland Police Citizens Youth Club, New South Wales, Australia</venue>
+  <notes>.Bands were also required to play a sacred Item and a Concert Item
+</notes>
+
+  <created>Sept. 23, 2015, 5:41 p.m.</created>
+  <last-modified>Feb. 26, 2020, 1:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="237210">
+      <result code="1">1</result>
+      <band id="2283">Sutherland Shire Brass</band>
+      <conductor id="305902">Frank McGuinness</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+    <result id="237211">
+      <result code="2">2</result>
+      <band id="701">Willoughby City Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="50">Dances and Arias</test-piece>
+    </result>
+    
+    <result id="237212">
+      <result code="3">3</result>
+      <band id="2171">St Mary&#39;s Band Club Brass</band>
+      <conductor id="298335">Ken Bradley</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+    <result id="237213">
+      <result code="4">4</result>
+      <band id="9289">Kahibah Bowling Club Band</band>
+      <conductor id="297011">Richard Anderson</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,65 @@
+<contest-event id="42543">
+  <event-date date="2000-4-21">April 21, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2922">Four Spanish Impressions [Newton]</test-piece>
+  </test-piece>
+
+  <venue id="7161">Pilbeam Theatre (Concert Hall), Rockhampton, Queensland  Australia</venue>
+  <notes></notes>
+
+  <created>Sept. 17, 2019, 5:33 a.m.</created>
+  <last-modified>Sept. 17, 2019, 5:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="312116">
+      <result code="1">1</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="303447">Roy Hosking</conductor>
+      <test-piece id="567">The Bandsman&#39;s Challenge</test-piece>
+    </result>
+    
+    <result id="312117">
+      <result code="2">2</result>
+      <band id="1319">Bundaberg Municipal Band</band>
+      <conductor id="308497">Robert Rotar</conductor>
+      <test-piece id="301">Brass Metamorphosis</test-piece>
+    </result>
+    
+    <result id="312119">
+      <result code="3">3</result>
+      <band id="1320">Sunnybank Brass</band>
+      <conductor id="300509">Brian Douglas</conductor>
+      <test-piece id="293">Oceans</test-piece>
+    </result>
+    
+    <result id="312118">
+      <result code="4">4</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="319541">Lorraine Skerman</conductor>
+      <test-piece id="133">Royal Parks</test-piece>
+    </result>
+    
+    <result id="312120">
+      <result code="5">5</result>
+      <band id="2316">Gladstone Municipal Band</band>
+      <conductor id="297466">Bill Barker</conductor>
+      <test-piece id="627">Cassation</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

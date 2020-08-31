@@ -1,0 +1,99 @@
+<contest-event id="22990">
+  <event-date date="1901-9-21">Sept. 21, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darwen Contest</name>
+  <contest id="1766">
+    <name>Darwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="2408">Bold Venture Park, Darwen</venue>
+  <notes>Best cornet Louis Wilson (Haslingden Temperance).
+ Best trombone - Fred Heap (Haslingden)
+Prizes: £10, £8, £5, £2.
+11 bands competed.</notes>
+
+  <created>Aug. 16, 2013, 2:34 p.m.</created>
+  <last-modified>June 27, 2018, 5:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169455">
+      <result code="1">1</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="169456">
+      <result code="2">2</result>
+      <band id="3723">Over Darwen Rifles</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="169457">
+      <result code="3">3</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="302599">J. J. Hargreaves</conductor>
+    </result>
+    
+    <result id="169458">
+      <result code="4">4</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="239552">
+      <result code="">Unknown Result</result>
+      <band id="2790">Bradshaw Band</band>
+      <conductor id="304354">Ralph Kay</conductor>
+    </result>
+    
+    <result id="239556">
+      <result code="">Unknown Result</result>
+      <band id="6645">Guide Temperance</band>
+      <conductor id="308840">Herbert Scott</conductor>
+    </result>
+    
+    <result id="239549">
+      <result code="">Unknown Result</result>
+      <band id="6648">Wilpshire</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="239551">
+      <result code="">Unknown Result</result>
+      <band id="12449">Blackburn Town</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="239550">
+      <result code="">Unknown Result</result>
+      <band id="4352">Blackburn Public</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="239555">
+      <result code="">Unknown Result</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="239553">
+      <result code="">Unknown Result</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="39679">
+  <event-date date="1911-9-16">Sept. 16, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southport Contest</name>
+  <contest id="1547">
+    <name>Southport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1239">La Traviata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1010">Winter Gardens, Southport</venue>
+  <notes>Prizes - 1st £12, 2nd £6, 3rd £4, 4th £2, 5th £1.
+8 bands competed.</notes>
+
+  <created>May 23, 2018, 9:19 p.m.</created>
+  <last-modified>May 24, 2018, 11:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287680">
+      <result code="1">1</result>
+      <band id="1659">Penketh Tannery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="287679">
+      <result code="2">2</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="306213">Walter Mitchell</conductor>
+    </result>
+    
+    <result id="287676">
+      <result code="3">3</result>
+      <band id="1663">Irlam Silver Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="287674">
+      <result code="4">4</result>
+      <band id="3670">Victoria Hall (Bolton)</band>
+      <conductor id="317093">Harold Bennett</conductor>
+    </result>
+    
+    <result id="287678">
+      <result code="4">4</result>
+      <band id="3699">Walsden Temperance</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="287675">
+      <result code="">Unknown Result</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="287677">
+      <result code="">Unknown Result</result>
+      <band id="17073">High Park Subscription</band>
+      <conductor id="317981">J. H. Rowson</conductor>
+    </result>
+    
+    <result id="287681">
+      <result code="">Unknown Result</result>
+      <band id="397">Hesketh Bank Band</band>
+      <conductor id="311124">J. Watkinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

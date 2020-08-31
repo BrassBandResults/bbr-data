@@ -1,0 +1,65 @@
+<contest-event id="34177">
+  <event-date date="1914-10-24">Oct. 24, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2804">Dinorah [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 28, 2016, 6:33 a.m.</created>
+  <last-modified>Dec. 12, 2017, 5:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="246925">
+      <result code="1">1</result>
+      <band id="13143">Rozelle</band>
+      <conductor id="307187">William Partington</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="246926">
+      <result code="2">2</result>
+      <band id="16576">Geelong Harbour Trust  (Vic)</band>
+      <conductor id="309101">Harry Shugg</conductor>
+      <test-piece id="3538">Tristan and Isolde</test-piece>
+    </result>
+    
+    <result id="246927">
+      <result code="3">3</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="305950">F. W. G. McLeod</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="246928">
+      <result code="4">4</result>
+      <band id="2244">Geelong City</band>
+      <conductor id="304265">Percy Jones</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="246929">
+      <result code="5">5</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="299502">Percy Code</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

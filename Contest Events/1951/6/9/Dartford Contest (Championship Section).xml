@@ -1,0 +1,48 @@
+<contest-event id="35646">
+  <event-date date="1951-6-9">June 9, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dartford Contest (Championship Section)</name>
+  <contest id="3904">
+    <name>Dartford Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dartford-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2566">Rienzi [arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="1349">Dartford, Kent, England, UK</venue>
+  <notes>3 bands competed</notes>
+
+  <created>July 7, 2016, 3:06 p.m.</created>
+  <last-modified>March 12, 2019, 9:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="258753">
+      <result code="1">1</result>
+      <band id="3628">Erith British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258754">
+      <result code="2">2</result>
+      <band id="6864">Leyton Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258755">
+      <result code="3">3</result>
+      <band id="4766">Wood Green Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

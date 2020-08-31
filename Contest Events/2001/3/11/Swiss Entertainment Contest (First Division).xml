@@ -1,0 +1,67 @@
+<contest-event id="5533">
+  <event-date date="2001-3-11">March 11, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss Entertainment Contest (First Division)</name>
+  <contest id="892">
+    <name>Swiss Entertainment Contest (First Division)</name>
+    <order>10</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="149">Swiss Entertainment Contest</group>
+    <slug>swiss-entertainment-contest-first-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2092">MacArthur Park</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>best show : Seeland Brass 
+best solo: Andrea Roos (Es Horn - BBL)</notes>
+
+  <created>April 18, 2011, 1:19 p.m.</created>
+  <last-modified>Sept. 15, 2015, 10:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="47738">
+      <result code="1">1</result>
+      <band id="1068">BML Talents</band>
+      <conductor id="299278">Rino Chiappori</conductor>
+    </result>
+    
+    <result id="47739">
+      <result code="2">2</result>
+      <band id="82">Seeland Brass</band>
+      <conductor id="314061">Thomas Rüedi</conductor>
+    </result>
+    
+    <result id="47740">
+      <result code="3">3</result>
+      <band id="74">Brass Band Treize Etoiles B</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+    <result id="47741">
+      <result code="4">4</result>
+      <band id="71">Brass Band MG Rickenbach</band>
+      <conductor id="310620">Corsin Tuor</conductor>
+    </result>
+    
+    <result id="47742">
+      <result code="5">5</result>
+      <band id="80">Ensemble de Cuivres Valaisan B</band>
+      <conductor id="303963">Christophe Jeanbourquin</conductor>
+    </result>
+    
+    <result id="47743">
+      <result code="6">6</result>
+      <band id="70">Ensemble de Cuivres Euphonia</band>
+      <conductor id="308785">Adrian Schneider</conductor>
+    </result>
+    
+  </results>
+</contest-event>

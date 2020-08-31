@@ -1,0 +1,71 @@
+<contest-event id="35853">
+  <event-date date="1958-10-3">Oct. 3, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (C Grade)</name>
+  <contest id="618">
+    <name>NSW State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="14">Hymn &amp; Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6247">Newtown Police Boys Club, Sydney, New South Wales, Australia</venue>
+  <notes>Marching Championship
+  .....Band  .......Drum Major........March......pts
+1.   Penrith - St.Marys  ,  Harold Mallard ,    &quot;Appreciation &quot;        149
+2.   Bexley District  , Doug Sharpe  ,     &quot;Wellington &quot;    140
+3.   Bankstown Municipal  ,  Harold Hastings  ,   &quot;Machine Gaurds  &quot;  132
+4.   St.George - Sutherland  ,  Bill Hutchinson  ,  &quot; Victors Return &quot;      131
+5.   Canterbury District  ,   E. Shaw  , &quot; The Commonwealth &quot;    122</notes>
+
+  <created>Aug. 4, 2016, 5:27 a.m.</created>
+  <last-modified>Oct. 7, 2016, 1:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="260085">
+      <result code="1">1</result>
+      <band id="13043">Canterbury District</band>
+      <conductor id="305177">Charles Lloyd</conductor>
+      <test-piece id="858">Crown Cavalcade</test-piece>
+    </result>
+    
+    <result id="260086">
+      <result code="2">2</result>
+      <band id="2305">Bankstown City Brass Band</band>
+      <conductor id="315296">Harold Hastings</conductor>
+      <test-piece id="1072">Homage to Pharaoh</test-piece>
+    </result>
+    
+    <result id="260087">
+      <result code="3">3</result>
+      <band id="11213">Bexley District (NSW)</band>
+      <conductor id="309762">Ken Stevens</conductor>
+      <test-piece id="793">Divertimento [Ball]</test-piece>
+    </result>
+    
+    <result id="260088">
+      <result code="4">4</result>
+      <band id="14152">Penrith - St.Marys District</band>
+      <conductor id="304120">W. Johnson</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+    <result id="260089">
+      <result code="5">5</result>
+      <band id="2283">Sutherland Shire Brass</band>
+      <conductor id="305902">Frank McGuinness</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="20176">
+  <event-date date="1955-8-20">Aug. 20, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chipping Norton Contest</name>
+  <contest id="2941">
+    <name>Chipping Norton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chipping-norton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="859">The Joy of Youth</test-piece>
+  </test-piece>
+
+  <venue id="2274">Chipping Norton, Oxfordshire, England, UK</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>March 31, 2013, 6:31 p.m.</created>
+  <last-modified>April 24, 2019, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="149973">
+      <result code="1">1</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="302725">Harold Hartley</conductor>
+    </result>
+    
+    <result id="149974">
+      <result code="2">2</result>
+      <band id="4080">Atherstone Miners&#39; Welfare</band>
+      <conductor id="309606">Bernard Springett</conductor>
+    </result>
+    
+    <result id="149976">
+      <result code="3">3</result>
+      <band id="4262">Bedworth Silver Prize Band</band>
+      <conductor id="309373">H. A. Smith</conductor>
+    </result>
+    
+    <result id="149977">
+      <result code="4">4</result>
+      <band id="3189">Cholsey Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149975">
+      <result code="">Unknown Result</result>
+      <band id="635">Bradwell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149971">
+      <result code="">Unknown Result</result>
+      <band id="1550">Tadley Band</band>
+      <conductor id="311294">Gideon West</conductor>
+    </result>
+    
+    <result id="149972">
+      <result code="">Unknown Result</result>
+      <band id="431">Towcester Studio Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

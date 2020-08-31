@@ -1,0 +1,64 @@
+<contest-event id="34663">
+  <event-date date="1988-4-3">April 3, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior C Grade)</name>
+  <contest id="92">
+    <name>Australian Championships (Junior C Grade)</name>
+    <order>130</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-c-grade</slug>
+    
+    <notes>First contest in grade 1988</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="778">Brass Triptych: Old Westminster</test-piece>
+  </test-piece>
+
+  <venue id="4942">Bankstown Civic Centre, Bankstown, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>March 18, 2016, 2:50 a.m.</created>
+  <last-modified>March 18, 2016, 10:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="249972">
+      <result code="1">1</result>
+      <band id="13365">Moree District Juniors</band>
+      <conductor id="308520">Laurence Rowe</conductor>
+      <test-piece id="382">A Rural Suite</test-piece>
+    </result>
+    
+    <result id="249973">
+      <result code="2">2</result>
+      <band id="13252">Bankstown City Junior</band>
+      <conductor id="308167">Gordon Richmond</conductor>
+      <test-piece id="345">Devon Fantasy</test-piece>
+    </result>
+    
+    <result id="249974">
+      <result code="3">3</result>
+      <band id="13364">Blacktown City Juniors</band>
+      <conductor id="307287">Bob Pearce</conductor>
+      <test-piece id="345">Devon Fantasy</test-piece>
+    </result>
+    
+    <result id="249975">
+      <result code="4">4</result>
+      <band id="15776">St.Patricks College Sutherland  (NSW)</band>
+      <conductor id="309718">Greg Stenning</conductor>
+      <test-piece id="2014">A Tameside Overture</test-piece>
+    </result>
+    
+    <result id="249976">
+      <result code="W">Withdrawn</result>
+      <band id="15022">Hornsby Concert No.1</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="39764">
+  <event-date date="1910-3-28">March 28, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carmarthen Contest (Class A)</name>
+  <contest id="3390">
+    <name>Carmarthen Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="352">Carmarthen Contest</group>
+    <slug>carmarthen-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2263">Siege of Rochelle [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1487">Carmarthen, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £12, 2nd £6, 3rd £3.
+4 bands competed.</notes>
+
+  <created>May 30, 2018, 12:26 p.m.</created>
+  <last-modified>May 30, 2018, 12:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288526">
+      <result code="1">1</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David D. Williams</conductor>
+    </result>
+    
+    <result id="288528">
+      <result code="2">2</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="314394">T. Valentine</conductor>
+    </result>
+    
+    <result id="288525">
+      <result code="3">3</result>
+      <band id="7073">Brynamman Volunteers</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="288527">
+      <result code="4">4</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

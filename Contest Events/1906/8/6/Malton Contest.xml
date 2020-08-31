@@ -1,0 +1,61 @@
+<contest-event id="10966">
+  <event-date date="1906-8-6">Aug. 6, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Malton Contest</name>
+  <contest id="1181">
+    <name>Malton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>malton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1412">Malton, North Yorkshire, England, UK</venue>
+  <notes>4 bands competed
+
+  1st prize £12.
+  2nd prize £7.
+  3rd prize £4.
+  4th prize £2.
+
+  March contest 1st Armley and Wortley.</notes>
+
+  <created>March 10, 2012, 9:11 a.m.</created>
+  <last-modified>Oct. 20, 2014, 4:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90910">
+      <result code="1">1</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="305523">H. Mallinson</conductor>
+    </result>
+    
+    <result id="90911">
+      <result code="2">2</result>
+      <band id="6615">East Hull</band>
+      <conductor id="302399">A. Haley</conductor>
+    </result>
+    
+    <result id="90912">
+      <result code="3">3</result>
+      <band id="4594">Lee Moor and Stanley</band>
+      <conductor id="305523">H. Mallinson</conductor>
+    </result>
+    
+    <result id="90913">
+      <result code="4">4</result>
+      <band id="6625">Goole South Street</band>
+      <conductor id="307382">George Perrett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="28081">
+  <event-date date="2014-6-7">June 7, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (Second Division)</name>
+  <contest id="30">
+    <name>French Open (Second Division)</name>
+    <order>20</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-second-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="325">The Aeronauts</test-piece>
+  </test-piece>
+
+  <venue id="4798">Théâtre Municipal Beaumarchais, Amboise, Centre, France</venue>
+  <notes></notes>
+
+  <created>June 1, 2014, 12:46 p.m.</created>
+  <last-modified>June 10, 2014, 5:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="200962">
+      <result code="1">1</result>
+      <band id="244">Lockwood Brass</band>
+      <conductor id="308292">John Roberts</conductor>
+    </result>
+    
+    <result id="200964">
+      <result code="2">2</result>
+      <band id="3465">Brass Band Atout Vent</band>
+      <conductor id="303472">William Houssoy</conductor>
+    </result>
+    
+    <result id="200963">
+      <result code="3">3</result>
+      <band id="1018">Brassband Amersfoort</band>
+      <conductor id="310785">Vincent Verhage</conductor>
+    </result>
+    
+  </results>
+</contest-event>

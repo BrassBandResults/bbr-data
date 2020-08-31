@@ -1,0 +1,79 @@
+<contest-event id="4536">
+  <event-date date="1995-9-16">Sept. 16, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (First Section)</name>
+  <contest id="5462">
+    <name>West Wales BBA Festival Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-festival-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="23">Resurgam</test-piece>
+  </test-piece>
+
+  <venue id="86">Burry Port, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £100, 2nd £60, 3rd £40.
+8 bands competed.</notes>
+
+  <created>March 3, 2011, 1:14 p.m.</created>
+  <last-modified>July 3, 2020, 1:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="223599">
+      <result code="1">1</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="302638">Laurence Harries</conductor>
+    </result>
+    
+    <result id="223596">
+      <result code="2">2</result>
+      <band id="425">Abergavenny Borough Band</band>
+      <conductor id="307630">Eric Powell</conductor>
+    </result>
+    
+    <result id="223597">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305492">Dennis Mahoney</conductor>
+    </result>
+    
+    <result id="223598">
+      <result code="4">4</result>
+      <band id="461">Ebbw Vale Band</band>
+      <conductor id="299934">William Cross</conductor>
+    </result>
+    
+    <result id="320453">
+      <result code="">Unknown Result</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="298695">C. Brian Buckley</conductor>
+    </result>
+    
+    <result id="320454">
+      <result code="">Unknown Result</result>
+      <band id="450">Rogerstone Band</band>
+      <conductor id="302638">Laurence Harries</conductor>
+    </result>
+    
+    <result id="320452">
+      <result code="">Unknown Result</result>
+      <band id="462">TATA Brass</band>
+      <conductor id="299350">E. J. Clark</conductor>
+    </result>
+    
+    <result id="320455">
+      <result code="">Unknown Result</result>
+      <band id="320">Tylorstown Band</band>
+      <conductor id="310264">Ceri Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

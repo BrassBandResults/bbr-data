@@ -1,0 +1,54 @@
+<contest-event id="20185">
+  <event-date date="1955-9-10">Sept. 10, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Consett Contest</name>
+  <contest id="1625">
+    <name>Consett Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>consett-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1110">Vicarage Grounds, Consett</venue>
+  <notes>  March contest - 1st Esh Winning, 2nd Craghead Colliery.</notes>
+
+  <created>March 31, 2013, 9:09 p.m.</created>
+  <last-modified>March 31, 2013, 9:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150017">
+      <result code="1">1</result>
+      <band id="581">Bearpark and Esh Colliery</band>
+      <conductor id="311417">Ray White</conductor>
+    </result>
+    
+    <result id="150018">
+      <result code="2">2</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="150019">
+      <result code="3">3</result>
+      <band id="10191">Jarvis Industrial Welfare</band>
+      <conductor id="301436">T. Foster</conductor>
+    </result>
+    
+    <result id="150020">
+      <result code="">Unknown Result</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,78 @@
+<contest-event id="1337">
+  <event-date date="2009-11-28">Nov. 28, 2009<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Second Division)</name>
+  <contest id="280">
+    <name>Dutch Nationals (Second Division)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-second-division</slug>
+    
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="411">Flashback</test-piece>
+  </test-piece>
+
+  <venue id="110">Martiniplaza, Groningen, Groningen Province, Netherlands</venue>
+  <notes></notes>
+
+  <created>Dec. 7, 2009, 4:31 p.m.</created>
+  <last-modified>Dec. 7, 2009, 4:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="13794">
+      <result code="1">1</result>
+      <band id="1332">Brass Band Excelsior Ferwert</band>
+      <conductor id="309112">Herman Sibma</conductor>
+    </result>
+    
+    <result id="13795">
+      <result code="2">2</result>
+      <band id="1334">De Bazuin Oenkerk B</band>
+      <conductor id="303768">Bienze Ijlstra</conductor>
+    </result>
+    
+    <result id="13796">
+      <result code="3">3</result>
+      <band id="1368">Martini Brassband</band>
+      <conductor id="312215">Rieks van der Velde</conductor>
+    </result>
+    
+    <result id="13797">
+      <result code="4">4</result>
+      <band id="1017">Brassband Schoonhoven B</band>
+      <conductor id="304609">Erik Kluin</conductor>
+    </result>
+    
+    <result id="13798">
+      <result code="5">5</result>
+      <band id="1018">Brassband Amersfoort</band>
+      <conductor id="304677">Kees Kramer</conductor>
+    </result>
+    
+    <result id="13799">
+      <result code="6">6</result>
+      <band id="5825">Wâldbrass Kollum</band>
+      <conductor id="312200">Erik van de Kolk</conductor>
+    </result>
+    
+    <result id="13800">
+      <result code="7">7</result>
+      <band id="4742">CMV Euphonia Wolvega</band>
+      <conductor id="312210">Syde van der Ploeg</conductor>
+    </result>
+    
+    <result id="13801">
+      <result code="8">8</result>
+      <band id="1336">Brass Band De Lofklank</band>
+      <conductor id="306089">Marco Middelberg</conductor>
+    </result>
+    
+  </results>
+</contest-event>

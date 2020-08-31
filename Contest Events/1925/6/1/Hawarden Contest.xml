@@ -1,0 +1,74 @@
+<contest-event id="41140">
+  <event-date date="1925-6-1">June 1, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hawarden Contest</name>
+  <contest id="2677">
+    <name>Hawarden Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>hawarden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4093">Hawarden Park, Hawarden, Flintshire, Wales, UK</venue>
+  <notes>March contest - 1st Skelmersdale, 2nd Amington.
+Prizes - 1st £20 and cornet, 2nd £10, 3rd £5.
+7 bands competed.</notes>
+
+  <created>Nov. 5, 2018, 5:05 p.m.</created>
+  <last-modified>Nov. 5, 2018, 5:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298807">
+      <result code="1">1</result>
+      <band id="347">Amington Band</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="298808">
+      <result code="2">2</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="298733">Percy Bullough</conductor>
+    </result>
+    
+    <result id="298809">
+      <result code="3">3</result>
+      <band id="6759">Litherland Silver</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="298811">
+      <result code="">Unknown Result</result>
+      <band id="3660">Dingle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298812">
+      <result code="">Unknown Result</result>
+      <band id="4137">Ellesmere Port Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298810">
+      <result code="">Unknown Result</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298813">
+      <result code="">Unknown Result</result>
+      <band id="3219">Timperley &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

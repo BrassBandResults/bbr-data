@@ -1,0 +1,102 @@
+<contest-event id="19499">
+  <event-date date="1969-9-28">Sept. 28, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Invitation Contest</name>
+  <contest id="4066">
+    <name>Newcastle Invitation Contest</name>
+    <order>0</order>
+    <contest-type id="8">Own Choice from a Specified List</contest-type>
+    <group id=""></group>
+    <slug>newcastle-invitation-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>  Test pieces were a choice of The Force of Destiny, Le Roi D&#39;Ys or Le Carnaval Romain.  
+  2nd annual contest promoted by Newcastle and District Trades Council.
+  10 bands competed.</notes>
+
+  <created>March 22, 2013, 2:01 p.m.</created>
+  <last-modified>March 22, 2013, 2:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="146011">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+      <test-piece id="297">Le Carnaval Romain [arr. Wright]</test-piece>
+    </result>
+    
+    <result id="146012">
+      <result code="2">2</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="306994">Robert Oughton</conductor>
+      <test-piece id="574">The Force of Destiny (La Forza del Destino) - Overture [arr. F. Wright]</test-piece>
+    </result>
+    
+    <result id="146013">
+      <result code="3">3</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="306994">Robert Oughton</conductor>
+      <test-piece id="109">Le Roi d&#39;Ys</test-piece>
+    </result>
+    
+    <result id="146014">
+      <result code="4">4</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="303387">Edmund Hoole</conductor>
+      <test-piece id="574">The Force of Destiny (La Forza del Destino) - Overture [arr. F. Wright]</test-piece>
+    </result>
+    
+    <result id="146016">
+      <result code="">Unknown Result</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="109">Le Roi d&#39;Ys</test-piece>
+    </result>
+    
+    <result id="146017">
+      <result code="">Unknown Result</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="297">Le Carnaval Romain [arr. Wright]</test-piece>
+    </result>
+    
+    <result id="146018">
+      <result code="">Unknown Result</result>
+      <band id="1921">Dawdon Lodge</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="297">Le Carnaval Romain [arr. Wright]</test-piece>
+    </result>
+    
+    <result id="146020">
+      <result code="">Unknown Result</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="109">Le Roi d&#39;Ys</test-piece>
+    </result>
+    
+    <result id="146015">
+      <result code="">Unknown Result</result>
+      <band id="306">Wansbeck&#39;s Ashington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="574">The Force of Destiny (La Forza del Destino) - Overture [arr. F. Wright]</test-piece>
+    </result>
+    
+    <result id="146019">
+      <result code="">Unknown Result</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="297">Le Carnaval Romain [arr. Wright]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="11454">
+  <event-date date="2002-2-3">Feb. 3, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North East Midlands Contest (First Section)</name>
+  <contest id="117">
+    <name>North East Midlands Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="12">North East Midlands Contest</group>
+    <slug>north-east-midlands-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="133">Royal Parks</test-piece>
+  </test-piece>
+
+  <venue id="162">Rolls-Royce Pavilion, Derby</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>March 26, 2012, 5:51 p.m.</created>
+  <last-modified>Feb. 4, 2017, 11:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="94161">
+      <result code="1">1</result>
+      <band id="292">Riddings Band</band>
+      <conductor id="300214">John Davis</conductor>
+    </result>
+    
+    <result id="94162">
+      <result code="2">2</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310696">Alan Tyler</conductor>
+    </result>
+    
+    <result id="94163">
+      <result code="3">3</result>
+      <band id="125">Stannington Band</band>
+      <conductor id="303420">John Hopkinson</conductor>
+    </result>
+    
+    <result id="268687">
+      <result code="">Unknown Result</result>
+      <band id="124">Chapeltown Silver Prize Band</band>
+      <conductor id="300315">Andrew Dennis</conductor>
+    </result>
+    
+    <result id="268688">
+      <result code="">Unknown Result</result>
+      <band id="477">Shirland Welfare Band</band>
+      <conductor id="302806">Geoff Hawley</conductor>
+    </result>
+    
+    <result id="268689">
+      <result code="">Unknown Result</result>
+      <band id="10399">Ireland Colliery &#39;B&#39;</band>
+      <conductor id="310978">Roy Walters</conductor>
+    </result>
+    
+  </results>
+</contest-event>

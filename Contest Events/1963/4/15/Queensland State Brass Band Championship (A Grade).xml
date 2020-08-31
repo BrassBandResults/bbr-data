@@ -1,0 +1,48 @@
+<contest-event id="39355">
+  <event-date date="1963-4-15">April 15, 1963<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5521">No.1 Diadem of Gold / No.2  Suite for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="6064">Bundaberg, Queensland, Australia</venue>
+  <notes>Street March Music points listed under Stage March</notes>
+
+  <created>March 19, 2018, 4:33 a.m.</created>
+  <last-modified>Oct. 27, 2019, 1:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="286016">
+      <result code="1">1</result>
+      <band id="6434">Maryborough Brass [Queensland]</band>
+      <conductor id="304416">James Kelly</conductor>
+    </result>
+    
+    <result id="286017">
+      <result code="2">2</result>
+      <band id="13928">E T A  Concert</band>
+      <conductor id="310266">Colin Thomas</conductor>
+    </result>
+    
+    <result id="286018">
+      <result code="3">3</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

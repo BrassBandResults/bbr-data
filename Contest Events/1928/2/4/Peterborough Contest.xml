@@ -1,0 +1,75 @@
+<contest-event id="25677">
+  <event-date date="1928-2-4">Feb. 4, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Peterborough Contest</name>
+  <contest id="1175">
+    <name>Peterborough Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>peterborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4361">Drill Hall, Peterborough</venue>
+  <notes>Promoted by the D company of the 5th (Hunts) Battalion, Northants Regiment.
+March contest - 1st Earls Barton, 2nd Irthlingborough.
+1st prize: £10 and cup, 2nd £7.10s., 3rd £5.
+7 bands competed</notes>
+
+  <created>Dec. 20, 2013, 4:56 p.m.</created>
+  <last-modified>Nov. 24, 2018, 12:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185988">
+      <result code="1">1</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="185989">
+      <result code="2">2</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="185990">
+      <result code="3">3</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="307359">Owen Pentelow</conductor>
+    </result>
+    
+    <result id="185991">
+      <result code="">Unknown Result</result>
+      <band id="315">City of Cambridge Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185992">
+      <result code="">Unknown Result</result>
+      <band id="6607">Nassington Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300806">
+      <result code="">Unknown Result</result>
+      <band id="8933">Northampton Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185993">
+      <result code="">Unknown Result</result>
+      <band id="491">Stamford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

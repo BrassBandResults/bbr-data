@@ -1,0 +1,45 @@
+<contest-event id="40388">
+  <event-date date="1908-12-25">Dec. 25, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Conway Contest</name>
+  <contest id="2545">
+    <name>Conway Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>conway-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1801">Songs of Other Days</test-piece>
+  </test-piece>
+
+  <venue id="6916">Town Hall, Conway, North Wales</venue>
+  <notes>March contest - 1st Penmaenmawr, 2nd Conway.
+Prizes - 1st £8 and cup, 2nd £4.
+2 bands competed.
+</notes>
+
+  <created>Sept. 24, 2018, 10:23 p.m.</created>
+  <last-modified>March 31, 2020, 3:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293829">
+      <result code="1">1</result>
+      <band id="2740">Penmaenmawr Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293830">
+      <result code="2">2</result>
+      <band id="13236">Aberconway School</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

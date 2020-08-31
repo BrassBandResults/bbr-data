@@ -1,0 +1,54 @@
+<contest-event id="11481">
+  <event-date date="1946-5-18">May 18, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Third Section)</name>
+  <contest id="55">
+    <name>North of England Area (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-3rd-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="935">Thanksgiving</test-piece>
+  </test-piece>
+
+  <venue id="2883">Durant Hall, Newcastle</venue>
+  <notes>  13 bands competed.</notes>
+
+  <created>March 28, 2012, 12:11 p.m.</created>
+  <last-modified>Jan. 1, 2013, 11:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="94304">
+      <result code="1">1</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="301109">W. Farrall</conductor>
+    </result>
+    
+    <result id="130859">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="297236">William Atkinson</conductor>
+    </result>
+    
+    <result id="130860">
+      <result code="3">3</result>
+      <band id="10190">Kibblesworth Colliery</band>
+      <conductor id="311011">Albert Ward</conductor>
+    </result>
+    
+    <result id="130861">
+      <result code="4">4</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+  </results>
+</contest-event>

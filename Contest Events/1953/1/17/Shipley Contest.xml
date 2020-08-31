@@ -1,0 +1,63 @@
+<contest-event id="18520">
+  <event-date date="1953-1-17">Jan. 17, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shipley Contest</name>
+  <contest id="2661">
+    <name>Shipley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shipley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2346">Hungarian Rhapsody No. 2</test-piece>
+  </test-piece>
+
+  <venue id="3145">Victoria Hall, Saltaire, Shipley, Yorkshire</venue>
+  <notes>
+  March contest  1st Crossley Carpets (93), 2nd Hammonds (88).
+
+  7 bands competed.</notes>
+
+  <created>Feb. 23, 2013, 8:39 p.m.</created>
+  <last-modified>Feb. 23, 2013, 8:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="139275">
+      <result code="1">1</result>
+      <band id="6165">YEWCO</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139276">
+      <result code="2">2</result>
+      <band id="1667">Crossley&#39;s Carpet Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139277">
+      <result code="3">3</result>
+      <band id="2672">Butterfield&#39;s Tank Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139278">
+      <result code="4">4</result>
+      <band id="5652">Hammonds Junior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="139279">
+      <result code="">Unknown Result</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="23817">
+  <event-date date="1933-2-4">Feb. 4, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hanley Contest</name>
+  <contest id="2381">
+    <name>Hanley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hanley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2609">Recollections of Rossini</test-piece>
+  </test-piece>
+
+  <venue id="2009">Hanley, Stoke on Trent</venue>
+  <notes>
+  8 bands competed.</notes>
+
+  <created>Sept. 13, 2013, 10:30 a.m.</created>
+  <last-modified>April 11, 2018, 9:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="173903">
+      <result code="1">1</result>
+      <band id="11380">Buxton Borough</band>
+      <conductor id="301777">A. E. Gibson</conductor>
+    </result>
+    
+    <result id="173904">
+      <result code="2">2</result>
+      <band id="1798">Kidsgrove Excelsior</band>
+      <conductor id="310402">James Thorpe</conductor>
+    </result>
+    
+    <result id="173905">
+      <result code="3">3</result>
+      <band id="2793">Crewe Temperance</band>
+      <conductor id="306305">Joseph Moores</conductor>
+    </result>
+    
+    <result id="173907">
+      <result code="">Unknown Result</result>
+      <band id="668">Audley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="173908">
+      <result code="">Unknown Result</result>
+      <band id="4567">Bucknall Ex Servicemen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="173909">
+      <result code="">Unknown Result</result>
+      <band id="5284">Longton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="173910">
+      <result code="">Unknown Result</result>
+      <band id="2609">Smallthorne Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="173906">
+      <result code="">Unknown Result</result>
+      <band id="236">Staffordshire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

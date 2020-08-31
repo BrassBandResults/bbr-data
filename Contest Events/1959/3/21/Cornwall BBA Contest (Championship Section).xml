@@ -1,0 +1,48 @@
+<contest-event id="27145">
+  <event-date date="1959-3-21">March 21, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Championship Section)</name>
+  <contest id="3195">
+    <name>Cornwall BBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1343">Wuthering Heights</test-piece>
+  </test-piece>
+
+  <venue id="2469">Public Rooms, Bodmin</venue>
+  <notes>March contest - 1st Truro, 2nd St Dennis, 3rd Bodmin.</notes>
+
+  <created>May 1, 2014, 8:14 a.m.</created>
+  <last-modified>May 1, 2014, 8:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="196230">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+    <result id="196231">
+      <result code="2">2</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="196232">
+      <result code="3">3</result>
+      <band id="4496">Truro City</band>
+      <conductor id="310202">A. Teasdale</conductor>
+    </result>
+    
+  </results>
+</contest-event>

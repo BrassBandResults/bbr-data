@@ -1,0 +1,50 @@
+<contest-event id="29983">
+  <event-date date="1914-7-27">July 27, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blaina Contest</name>
+  <contest id="3811">
+    <name>Blaina Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blaina-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1216">Zaar und Zimmermann</test-piece>
+  </test-piece>
+
+  <venue id="3006">Recreation Grounds, Blaina</venue>
+  <notes>Promoted by Lancaster Town Band (Blaina)
+March: 1. Tredegar, 2. Caerphilly.
+3 bands competed</notes>
+
+  <created>Oct. 30, 2014, 6:11 p.m.</created>
+  <last-modified>Oct. 4, 2018, 9:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="212782">
+      <result code="1">1</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="308968">Eli Shaw</conductor>
+    </result>
+    
+    <result id="212783">
+      <result code="2">2</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="302409">Charles Hall</conductor>
+    </result>
+    
+    <result id="212784">
+      <result code="3">3</result>
+      <band id="6260">Gilfachgoch</band>
+      <conductor id="307214">W. G. Paterson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

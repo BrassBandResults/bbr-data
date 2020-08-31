@@ -1,0 +1,48 @@
+<contest-event id="30646">
+  <event-date date="1991-3-2">March 2, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Fourth Section)</name>
+  <contest id="3631">
+    <name>Cornwall BBA Contest (Fourth Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-fourth-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="242">Stantonbury Festival</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>Best instrumentalist - David Nicholas (trombone) Gweek.</notes>
+
+  <created>Dec. 14, 2014, 9:13 a.m.</created>
+  <last-modified>Dec. 14, 2014, 9:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="216716">
+      <result code="1">1</result>
+      <band id="4011">Gweek Silver Band</band>
+      <conductor id="311665">Roy Williams</conductor>
+    </result>
+    
+    <result id="216717">
+      <result code="2">2</result>
+      <band id="2892">Wendron Silver</band>
+      <conductor id="307203">W. J. Pascoe</conductor>
+    </result>
+    
+    <result id="216718">
+      <result code="3">3</result>
+      <band id="2434">Lostwithiel Brass &#39;88</band>
+      <conductor id="302499">Robert Hammett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,78 @@
+<contest-event id="11488">
+  <event-date date="1954-4-24">April 24, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Third Section)</name>
+  <contest id="55">
+    <name>North of England Area (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-3rd-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="652">Glastonbury</test-piece>
+  </test-piece>
+
+  <venue id="3103">Town Hall, Gateshead</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>March 28, 2012, 12:19 p.m.</created>
+  <last-modified>April 4, 2019, 9:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="94311">
+      <result code="1">1</result>
+      <band id="570">Northumbrian Water Ellington Colliery</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+    <result id="143000">
+      <result code="2">2</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+    <result id="143001">
+      <result code="3">3</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="297236">William Atkinson</conductor>
+    </result>
+    
+    <result id="142999">
+      <result code="4">4</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="299342">Bob Clark</conductor>
+    </result>
+    
+    <result id="142997">
+      <result code="">Unknown Result</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="142998">
+      <result code="">Unknown Result</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143002">
+      <result code="">Unknown Result</result>
+      <band id="1980">Shildon Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="142996">
+      <result code="">Unknown Result</result>
+      <band id="2730">Wardley Colliery Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

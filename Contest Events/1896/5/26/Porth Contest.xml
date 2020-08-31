@@ -1,0 +1,72 @@
+<contest-event id="12947">
+  <event-date date="1896-5-26">May 26, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Porth Contest</name>
+  <contest id="2345">
+    <name>Porth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>porth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1898">Porth, Glamorgan</venue>
+  <notes>7 bands competed</notes>
+
+  <created>April 29, 2012, 11:06 a.m.</created>
+  <last-modified>Dec. 27, 2019, 12:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102917">
+      <result code="1">1</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+    <result id="102918">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="102919">
+      <result code="3">3</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="102920">
+      <result code="4">4</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="102921">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="298048">John Blamey</conductor>
+    </result>
+    
+    <result id="102922">
+      <result code="">Unknown Result</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+    <result id="102923">
+      <result code="">Unknown Result</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

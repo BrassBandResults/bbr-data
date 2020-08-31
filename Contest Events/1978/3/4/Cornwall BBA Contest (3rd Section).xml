@@ -1,0 +1,86 @@
+<contest-event id="23580">
+  <event-date date="1978-3-4">March 4, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (3rd Section)</name>
+  <contest id="3630">
+    <name>Cornwall BBA Contest (3rd Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-3rd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="559">Othello</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £14 and cup, 3rd £10 and cup.
+9 bands competed.
+  23rd annual contest.</notes>
+
+  <created>Sept. 9, 2013, 4:23 p.m.</created>
+  <last-modified>Dec. 20, 2016, 12:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="172831">
+      <result code="1">1</result>
+      <band id="4013">St. Agnes Silver Band</band>
+      <conductor id="303186">C. Hoare</conductor>
+    </result>
+    
+    <result id="172832">
+      <result code="2">2</result>
+      <band id="1216">Saltash Town Band</band>
+      <conductor id="307691">A. Price</conductor>
+    </result>
+    
+    <result id="172833">
+      <result code="3">3</result>
+      <band id="1288">Bude Town</band>
+      <conductor id="301564">David Frost</conductor>
+    </result>
+    
+    <result id="266275">
+      <result code="">Unknown Result</result>
+      <band id="1774">St Newlyn East</band>
+      <conductor id="310789">A. Verran</conductor>
+    </result>
+    
+    <result id="266272">
+      <result code="">Unknown Result</result>
+      <band id="563">Porthleven Town Band</band>
+      <conductor id="307295">W. Roger Pearce</conductor>
+    </result>
+    
+    <result id="266271">
+      <result code="">Unknown Result</result>
+      <band id="3192">Lostwithiel Youth</band>
+      <conductor id="302801">V. Hawkey</conductor>
+    </result>
+    
+    <result id="266274">
+      <result code="">Unknown Result</result>
+      <band id="4497">St. Erth</band>
+      <conductor id="309830">I. Stone</conductor>
+    </result>
+    
+    <result id="266273">
+      <result code="">Unknown Result</result>
+      <band id="348">St. Breward Silver Band</band>
+      <conductor id="303672">William Hunt</conductor>
+    </result>
+    
+    <result id="266270">
+      <result code="">Unknown Result</result>
+      <band id="530">Hayle Town Band</band>
+      <conductor id="310541">Alan Toy</conductor>
+    </result>
+    
+  </results>
+</contest-event>

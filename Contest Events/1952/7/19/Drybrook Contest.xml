@@ -1,0 +1,44 @@
+<contest-event id="34015">
+  <event-date date="1952-7-19">July 19, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Drybrook Contest</name>
+  <contest id="4640">
+    <name>Drybrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>drybrook-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1019">The Black Prince</test-piece>
+  </test-piece>
+
+  <venue id="4007">Drybrook, Gloucestershire, England, UK</venue>
+  <notes>March contest - 1st Pillowell, 2nd Berry Hill.
+Prizes - 1st £25, 2nd £15.
+2 bands competed</notes>
+
+  <created>Feb. 11, 2016, 11:10 a.m.</created>
+  <last-modified>March 22, 2019, 10:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="245793">
+      <result code="1">1</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="245794">
+      <result code="2">2</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

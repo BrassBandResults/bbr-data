@@ -1,0 +1,54 @@
+<contest-event id="42226">
+  <event-date date="1978-3-24">March 24, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1610">Holiday Overture for Brass</test-piece>
+  </test-piece>
+
+  <venue id="7125">Maryborough City Hall, Queensland, Australia</venue>
+  <notes>Street March results entered under Stage March</notes>
+
+  <created>May 23, 2019, 3:04 a.m.</created>
+  <last-modified>May 23, 2019, 6 a.m.</last-modified>
+
+  <results>
+    
+    <result id="308681">
+      <result code="1">1</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="317933">Peter Alloway</conductor>
+    </result>
+    
+    <result id="308683">
+      <result code="">Unknown Result</result>
+      <band id="17733">Rockhampton City  (42nd Battalion)</band>
+      <conductor id="306519">Keith Munns</conductor>
+    </result>
+    
+    <result id="308684">
+      <result code="">Unknown Result</result>
+      <band id="18274">Walkers Engineering  - Maryborough</band>
+      <conductor id="311361">Bryce Whitaker</conductor>
+    </result>
+    
+    <result id="308682">
+      <result code="">Unknown Result</result>
+      <band id="1319">Bundaberg Municipal Band</band>
+      <conductor id="317940">Fred Coleman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

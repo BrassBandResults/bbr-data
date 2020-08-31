@@ -1,0 +1,54 @@
+<contest-event id="35261">
+  <event-date date="1957-11-2">Nov. 2, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1184">James Hook</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes>OWN CHOICE MUSIC unknown </notes>
+
+  <created>May 5, 2016, 12:02 a.m.</created>
+  <last-modified>March 15, 2018, 4:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253802">
+      <result code="1">1</result>
+      <band id="13829">Ipswich Excelsior</band>
+      <conductor id="308629">Bill Ryder</conductor>
+    </result>
+    
+    <result id="253803">
+      <result code="2">2</result>
+      <band id="12941">B.H.A.S. Excelsior</band>
+      <conductor id="299698">Ted Cooper</conductor>
+    </result>
+    
+    <result id="253804">
+      <result code="3">3</result>
+      <band id="9343">Thompsons Foundry Band</band>
+      <conductor id="300491">Stan Doren</conductor>
+    </result>
+    
+    <result id="253805">
+      <result code="4">4</result>
+      <band id="2191">Kadina &amp; Wallaroo Band</band>
+      <conductor id="317743">Sam Trenwith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="1120">
+  <event-date date="2002-3-16">March 16, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Second Section)</name>
+  <contest id="41">
+    <name>Welsh Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="137">Symphony for Brass [arr. Hopkinson]</test-piece>
+  </test-piece>
+
+  <venue id="11">Brangwyn Hall, Swansea, Swansea County, Wales, UK</venue>
+  <notes>Prizes - 1st £200, 2nd £100, 3rd £75.
+5 bands competed.</notes>
+
+  <created>Oct. 25, 2009, 5:12 p.m.</created>
+  <last-modified>July 8, 2020, 3:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="12041">
+      <result code="1">1</result>
+      <band id="407">Penclawdd Brass</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+    <result id="12042">
+      <result code="2">2</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="304869">Lindsay Lawrie</conductor>
+    </result>
+    
+    <result id="12043">
+      <result code="3">3</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="303610">Paul Hughes</conductor>
+    </result>
+    
+    <result id="12044">
+      <result code="4">4</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="302638">Laurence Harries</conductor>
+    </result>
+    
+    <result id="12045">
+      <result code="5">5</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="298787">John Burns</conductor>
+    </result>
+    
+  </results>
+</contest-event>

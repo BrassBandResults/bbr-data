@@ -1,0 +1,48 @@
+<contest-event id="30321">
+  <event-date date="1990-12-2">Dec. 2, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Treorchy) Contest (Championship Section)</name>
+  <contest id="309">
+    <name>SEWBBA (Treorchy) Contest (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="56">SEWBBA (Treorchy) Contest</group>
+    <slug>sewbba-treorchy-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="28">Sinfonietta for Brass Band - The Wayfarer</test-piece>
+  </test-piece>
+
+  <venue id="2540">Parc &amp; Dare Theatre, Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>Best instrumentalist - A.Gardiner (euphonium) Tredegar.</notes>
+
+  <created>Nov. 16, 2014, 4:07 p.m.</created>
+  <last-modified>Nov. 16, 2014, 4:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="214361">
+      <result code="1">1</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="311241">Nigel Weeks</conductor>
+    </result>
+    
+    <result id="214362">
+      <result code="2">2</result>
+      <band id="18">BTM Band</band>
+      <conductor id="311407">Melvin White</conductor>
+    </result>
+    
+    <result id="214363">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="298634">Malcolm Brownbill</conductor>
+    </result>
+    
+  </results>
+</contest-event>

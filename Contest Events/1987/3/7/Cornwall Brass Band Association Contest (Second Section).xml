@@ -1,0 +1,58 @@
+<contest-event id="16431">
+  <event-date date="1987-3-7">March 7, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall Brass Band Association Contest (Second Section)</name>
+  <contest id="3198">
+    <name>Cornwall BBA Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="239">Rhapsody in Brass</test-piece>
+  </test-piece>
+
+  <venue id="2455">Truro, Cornwall, England, UK</venue>
+  <notes>  Prizes  1st £54, 2nd £39, 3rd £27.
+
+  Best instrumentalist - R.Gluyas (tenor horn) Redruth.
+
+  4 bands competed.</notes>
+
+  <created>Nov. 26, 2012, 1:45 p.m.</created>
+  <last-modified>April 10, 2018, 1:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="126516">
+      <result code="1">1</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="310541">Alan Toy</conductor>
+    </result>
+    
+    <result id="126517">
+      <result code="2">2</result>
+      <band id="530">Hayle Town Band</band>
+      <conductor id="302646">Chris Harris</conductor>
+    </result>
+    
+    <result id="126518">
+      <result code="3">3</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="304128">Derek Johnston Snr</conductor>
+    </result>
+    
+    <result id="126519">
+      <result code="4">4</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="301564">David Frost</conductor>
+    </result>
+    
+  </results>
+</contest-event>

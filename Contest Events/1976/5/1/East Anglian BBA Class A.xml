@@ -1,0 +1,60 @@
+<contest-event id="21513">
+  <event-date date="1976-5-1">May 1, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class A</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="924">Sea Dogs</test-piece>
+  </test-piece>
+
+  <venue id="3266">Secondary Modern School, Thetford, Norfolk</venue>
+  <notes>  Hymn tune contest - 1st Littleport, 2nd Bury St Edmunds, 3rd Watton.</notes>
+
+  <created>May 20, 2013, 8:50 a.m.</created>
+  <last-modified>Dec. 10, 2013, 4:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="158143">
+      <result code="1">1</result>
+      <band id="10527">Watton and District</band>
+      <conductor id="300919">T. Emms</conductor>
+    </result>
+    
+    <result id="158144">
+      <result code="2">2</result>
+      <band id="5450">Copleston</band>
+      <conductor id="308689">T. E. Samways</conductor>
+    </result>
+    
+    <result id="158145">
+      <result code="3">3</result>
+      <band id="840">Dereham Band</band>
+      <conductor id="297507">Ron Barnes</conductor>
+    </result>
+    
+    <result id="158147">
+      <result code="">Unknown Result</result>
+      <band id="3508">Bury St Edmunds Royal British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="158146">
+      <result code="">Unknown Result</result>
+      <band id="370">Littleport Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

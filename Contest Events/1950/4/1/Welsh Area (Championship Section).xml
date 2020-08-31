@@ -1,0 +1,78 @@
+<contest-event id="17039">
+  <event-date date="1950-4-1">April 1, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1061">Festival Overture [Geehl]</test-piece>
+  </test-piece>
+
+  <venue id="3084">Welfare Hall, Gwaun-cae-Gurwen</venue>
+  <notes>  7 bands competed.</notes>
+
+  <created>Dec. 14, 2012, 4:32 p.m.</created>
+  <last-modified>Oct. 13, 2017, 6:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="129739">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+    <result id="137617">
+      <result code="2">2</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="302650">F. Harris</conductor>
+    </result>
+    
+    <result id="137618">
+      <result code="3">3</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="137620">
+      <result code="4">4</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306836">Harry Nuttall</conductor>
+    </result>
+    
+    <result id="191974">
+      <result code="5">5</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+    <result id="191975">
+      <result code="6">6</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="311687">W. J. Williams</conductor>
+    </result>
+    
+    <result id="191549">
+      <result code="7">7</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">Thomas Charles White</conductor>
+    </result>
+    
+    <result id="280798">
+      <result code="W">Withdrawn</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+  </results>
+</contest-event>

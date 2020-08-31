@@ -1,0 +1,42 @@
+<contest-event id="42822">
+  <event-date date="1986-7-20">July 20, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (D Grade Brass)</name>
+  <contest id="3037">
+    <name>Tasmanian Band Championships (D Grade Brass)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-d-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="635">Second Suite in F</test-piece>
+  </test-piece>
+
+  <venue id="6487">Princess Theatre, Launceston, Tasmania, Australia</venue>
+  <notes>Bands also required to play a Hymn ( not included in championship)</notes>
+
+  <created>Nov. 7, 2019, 12:44 a.m.</created>
+  <last-modified>Dec. 7, 2019, 3:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313550">
+      <result code="1">1</result>
+      <band id="13389">Launceston City Band</band>
+      <conductor id="311345">Noel Wheeler</conductor>
+    </result>
+    
+    <result id="313551">
+      <result code="W">Withdrawn</result>
+      <band id="9979">Launceston Bel Canto</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="14722">
+  <event-date date="1998-8-1">Aug. 1, 1998<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5464">Century</test-piece>
+  </test-piece>
+
+  <venue id="4945">Her Majesty&#39;s Theatre, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Sept. 11, 2012, 9:12 a.m.</created>
+  <last-modified>Feb. 24, 2020, 9:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="115693">
+      <result code="1">1</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="301387">Mark Ford</conductor>
+    </result>
+    
+    <result id="315178">
+      <result code="2">2</result>
+      <band id="7855">Wonthaggi Citizens</band>
+      <conductor id="305581">Craig Marinus</conductor>
+    </result>
+    
+    <result id="315179">
+      <result code="3">3</result>
+      <band id="2242">Box Hill City Band</band>
+      <conductor id="317590">John O&#39;Callaghan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

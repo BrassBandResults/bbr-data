@@ -1,0 +1,77 @@
+<contest-event id="25377">
+  <event-date date="1914-4-13">April 13, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Shields Contest</name>
+  <contest id="1385">
+    <name>South Shields Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-shields-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1921">Classic Gems</test-piece>
+  </test-piece>
+
+  <venue id="4280">Royal Assembly Hall, South Shields</venue>
+  <notes>Promoted by St Hilda Colliery Band
+
+22 bands competed
+
+Prizes: £7, £5, £3, £2, £1
+</notes>
+
+  <created>Nov. 30, 2013, 7:10 p.m.</created>
+  <last-modified>Nov. 30, 2013, 7:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184551">
+      <result code="1">1</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="184552">
+      <result code="2">2</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="301430">Joseph Foster</conductor>
+    </result>
+    
+    <result id="184553">
+      <result code="3">3</result>
+      <band id="3606">Middlesbrough Borough</band>
+      <conductor id="311770">James Wilson Jnr</conductor>
+    </result>
+    
+    <result id="184554">
+      <result code="4">4</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="184555">
+      <result code="5">5</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="184557">
+      <result code="">Unknown Result</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184556">
+      <result code="">Unknown Result</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

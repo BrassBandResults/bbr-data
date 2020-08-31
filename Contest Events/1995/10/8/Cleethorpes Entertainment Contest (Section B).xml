@@ -1,0 +1,48 @@
+<contest-event id="4595">
+  <event-date date="1995-10-8">Oct. 8, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cleethorpes Entertainment Contest (Section B)</name>
+  <contest id="772">
+    <name>Cleethorpes Entertainment Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="122">Cleethorpes Entertainment Contest</group>
+    <slug>cleethorpes-entertainment-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="548">Pier Pavilion, Cleethorpes, Lincolnshire, England, UK</venue>
+  <notes></notes>
+
+  <created>March 6, 2011, 1:33 p.m.</created>
+  <last-modified>June 12, 2015, 9:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="39854">
+      <result code="1">1</result>
+      <band id="1">Rothwell Temperance Band</band>
+      <conductor id="308275">David Roberts</conductor>
+    </result>
+    
+    <result id="46562">
+      <result code="2">2</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="311496">Alan Widdop</conductor>
+    </result>
+    
+    <result id="46563">
+      <result code="3">3</result>
+      <band id="123">Knottingley Silver Band</band>
+      <conductor id="299534">Ian Colley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

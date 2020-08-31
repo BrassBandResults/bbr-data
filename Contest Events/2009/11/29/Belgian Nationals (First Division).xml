@@ -1,0 +1,51 @@
+<contest-event id="1327">
+  <event-date date="2009-11-29">Nov. 29, 2009<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="133">Royal Parks</test-piece>
+  </test-piece>
+
+  <venue id="149">Lemmensinstituut, Leuven, Flemish Brabant, Belgium</venue>
+  <notes></notes>
+
+  <created>Dec. 1, 2009, 12:56 p.m.</created>
+  <last-modified>Dec. 11, 2013, 11:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="13735">
+      <result code="1">1</result>
+      <band id="677">Brass Band Heist</band>
+      <conductor id="310249">Bert van Thienen</conductor>
+      <test-piece id="235">Sounds</test-piece>
+    </result>
+    
+    <result id="13736">
+      <result code="2">2</result>
+      <band id="678">Brassband Zele</band>
+      <conductor id="312212">Bart van der Strieckt</conductor>
+      <test-piece id="257">Chain</test-piece>
+    </result>
+    
+    <result id="13737">
+      <result code="3">3</result>
+      <band id="679">Brass Band Leieland</band>
+      <conductor id="305265">Wouter Loose</conductor>
+      <test-piece id="50">Dances and Arias</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

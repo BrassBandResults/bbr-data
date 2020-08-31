@@ -1,0 +1,48 @@
+<contest-event id="35830">
+  <event-date date="1939-4-8">April 8, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (D Grade)</name>
+  <contest id="619">
+    <name>NSW State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1368">Recollections of Weber</test-piece>
+  </test-piece>
+
+  <venue id="323">Sydney, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 2, 2016, 1:03 a.m.</created>
+  <last-modified>Sept. 22, 2016, 2:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="260002">
+      <result code="1">1</result>
+      <band id="14133">Bolgownie Town</band>
+      <conductor id="309159">Ted Simons</conductor>
+    </result>
+    
+    <result id="260003">
+      <result code="2">2</result>
+      <band id="1283">Wellington Silver</band>
+      <conductor id="304623">Colin Knight</conductor>
+    </result>
+    
+    <result id="260004">
+      <result code="3">3</result>
+      <band id="14134">Mortdale Citizens</band>
+      <conductor id="308181">Cyril Ridgeway</conductor>
+    </result>
+    
+  </results>
+</contest-event>

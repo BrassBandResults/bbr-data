@@ -1,0 +1,48 @@
+<contest-event id="1195">
+  <event-date date="1992-11-28">Nov. 28, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="101">Of Men and Mountains</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>18th annual contest.</notes>
+
+  <created>Oct. 29, 2009, 10:13 a.m.</created>
+  <last-modified>Feb. 3, 2015, 10:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="12734">
+      <result code="1">1</result>
+      <band id="56">Brass Band Berner Oberland</band>
+      <conductor id="301997">James Gourlay</conductor>
+    </result>
+    
+    <result id="220344">
+      <result code="2">2</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="311493">Ludwig Wicki</conductor>
+    </result>
+    
+    <result id="220345">
+      <result code="3">3</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+  </results>
+</contest-event>

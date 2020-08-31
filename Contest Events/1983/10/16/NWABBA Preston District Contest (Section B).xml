@@ -1,0 +1,86 @@
+<contest-event id="29241">
+  <event-date date="1983-10-16">Oct. 16, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Preston District Contest (Section B)</name>
+  <contest id="2414">
+    <name>NWABBA Preston District Contest (Section B)</name>
+    <order>110</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="38">Fleetwood Contest (NWABBA Preston District Contest)</group>
+    <slug>nwabba-preston-district-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="172">Main Street</test-piece>
+  </test-piece>
+
+  <venue id="617">Parr Hall, Warrington, Cheshire, England, UK</venue>
+  <notes>Prizes - 1st £100 and trophy, 2nd £60 and trophy, 3rd £40 and trophy.
+9 bands competed.
+35th annual contest.</notes>
+
+  <created>Aug. 27, 2014, 7:20 p.m.</created>
+  <last-modified>Jan. 12, 2015, 1:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="208432">
+      <result code="1">1</result>
+      <band id="390">Greenalls Band</band>
+      <conductor id="303557">John Hudson</conductor>
+    </result>
+    
+    <result id="208433">
+      <result code="2">2</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="312038">Denis Wright</conductor>
+    </result>
+    
+    <result id="208434">
+      <result code="3">3</result>
+      <band id="397">Hesketh Bank Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="216179">
+      <result code="4">4</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="300153">G. M. Davies</conductor>
+    </result>
+    
+    <result id="218282">
+      <result code="">Unknown Result</result>
+      <band id="1515">Lancashire Brass</band>
+      <conductor id="297818">Roy Bentham</conductor>
+    </result>
+    
+    <result id="218280">
+      <result code="">Unknown Result</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="305624">Alan Marsh</conductor>
+    </result>
+    
+    <result id="218279">
+      <result code="">Unknown Result</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="297685">Duncan Beckley</conductor>
+    </result>
+    
+    <result id="218281">
+      <result code="">Unknown Result</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="308285">J. Roberts</conductor>
+    </result>
+    
+    <result id="218283">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="25374">
+  <event-date date="1914-4-13">April 13, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southern Counties Association Contest (1st Section)</name>
+  <contest id="2598">
+    <name>Southern Counties Association Contest (1st Section)</name>
+    <order>8</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="463">Southern Counties Association Contest</group>
+    <slug>southern-counties-association-contest-1st-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="196">Labour and Love</test-piece>
+  </test-piece>
+
+  <venue id="4279">Kings Head Meadow, Horley, Surrey</venue>
+  <notes>March: 1. Reigate, 2. West Crawley
+5 bands competed</notes>
+
+  <created>Nov. 30, 2013, 6:23 p.m.</created>
+  <last-modified>Oct. 2, 2018, 10:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="184534">
+      <result code="1">1</result>
+      <band id="6706">Reigate Town</band>
+      <conductor id="298876">George Byford</conductor>
+    </result>
+    
+    <result id="184535">
+      <result code="2">2</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="311584">A. Williams</conductor>
+    </result>
+    
+    <result id="184536">
+      <result code="3">3</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="184537">
+      <result code="4">4</result>
+      <band id="3959">Copthorne Silver Band</band>
+      <conductor id="299807">W. J. Coverley</conductor>
+    </result>
+    
+    <result id="294608">
+      <result code="5">5</result>
+      <band id="7313">Sutton Red Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

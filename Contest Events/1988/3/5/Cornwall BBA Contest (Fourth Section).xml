@@ -1,0 +1,48 @@
+<contest-event id="29896">
+  <event-date date="1988-3-5">March 5, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Fourth Section)</name>
+  <contest id="3631">
+    <name>Cornwall BBA Contest (Fourth Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-fourth-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1721">Episodes for Brass [Hanmer]</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>33rd annual contest</notes>
+
+  <created>Oct. 25, 2014, 12:15 p.m.</created>
+  <last-modified>Oct. 25, 2014, 12:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="212154">
+      <result code="1">1</result>
+      <band id="1216">Saltash Town Band</band>
+      <conductor id="304274">Roy Jones</conductor>
+    </result>
+    
+    <result id="224336">
+      <result code="2">2</result>
+      <band id="1408">Pendeen Silver Band</band>
+      <conductor id="302700">R. O. Harry</conductor>
+    </result>
+    
+    <result id="212156">
+      <result code="3">3</result>
+      <band id="550">Launceston Town Band</band>
+      <conductor id="302166">Derek Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

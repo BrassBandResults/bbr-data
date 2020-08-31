@@ -1,0 +1,70 @@
+<contest-event id="5525">
+  <event-date date="1998-3-1">March 1, 1998<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Swiss Entertainment Contest (Elite Division)</name>
+  <contest id="890">
+    <name>Swiss Entertainment Contest (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="149">Swiss Entertainment Contest</group>
+    <slug>swiss-entertainment-contest-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="982">A Big Band Explosion</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>Finale: 1. BB 13* (273)  2. OBB (233.5)  
+best show: Ensemble de cuivres valaisan 
+best solo: Bertrand Moren (trombone)
+
+</notes>
+
+  <created>April 18, 2011, 12:41 p.m.</created>
+  <last-modified>March 27, 2020, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="47688">
+      <result code="1">1</result>
+      <band id="58">Oberaargauer Brass Band</band>
+      <conductor id="306894">Manfred Obrecht</conductor>
+    </result>
+    
+    <result id="47689">
+      <result code="2">2</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+    <result id="47690">
+      <result code="3">3</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="314061">Thomas Rüedi</conductor>
+    </result>
+    
+    <result id="47691">
+      <result code="4">4</result>
+      <band id="67">Ensemble de Cuivres Valaisan</band>
+      <conductor id="303963">Christophe Jeanbourquin</conductor>
+    </result>
+    
+    <result id="316651">
+      <result code="5">5</result>
+      <band id="240">Brass Band Rijnmond</band>
+      <conductor id="311506">George Wiegel</conductor>
+    </result>
+    
+    <result id="47693">
+      <result code="6">6</result>
+      <band id="86">Brass Band Uri</band>
+      <conductor id="298769">Hans Burkhalter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

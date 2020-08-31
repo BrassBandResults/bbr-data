@@ -1,0 +1,67 @@
+<contest-event id="39567">
+  <event-date date="1971-10-24">Oct. 24, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5560">Bonvenuto Cellui</test-piece>
+  </test-piece>
+
+  <venue id="6840">Kew Town Hall  ,  Melbourne , Victoria  Australia</venue>
+  <notes></notes>
+
+  <created>May 2, 2018, 11:25 p.m.</created>
+  <last-modified>May 10, 2020, 11:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="286920">
+      <result code="1">1</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="300665">Wilf Dyason</conductor>
+      <test-piece id="303">John O&#39;Gaunt [Vinter]</test-piece>
+    </result>
+    
+    <result id="286921">
+      <result code="2">2</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="309334">Charles Smith</conductor>
+    </result>
+    
+    <result id="286922">
+      <result code="3">3</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="309404">Ken Smith Jnr</conductor>
+    </result>
+    
+    <result id="286923">
+      <result code="4">4</result>
+      <band id="698">Kensington &amp; Norwood Brass</band>
+      <conductor id="298877">Bernard Bygrave</conductor>
+    </result>
+    
+    <result id="286924">
+      <result code="5">5</result>
+      <band id="2320">Oakleigh City Band</band>
+      <conductor id="297636">G. Bayle</conductor>
+    </result>
+    
+    <result id="286925">
+      <result code="6">6</result>
+      <band id="724">City of Greater Dandenong Band</band>
+      <conductor id="303083">Eddie Hill</conductor>
+    </result>
+    
+  </results>
+</contest-event>

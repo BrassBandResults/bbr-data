@@ -1,0 +1,82 @@
+<contest-event id="18053">
+  <event-date date="1947-7-5">July 5, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Louth Contest</name>
+  <contest id="3826">
+    <name>Louth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>louth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="789">Wayside Scenes</test-piece>
+  </test-piece>
+
+  <venue id="3036">Louth, Lincolnshire, England, UK</venue>
+  <notes>March contest  1st Brodsworth, 2nd Scunthorpe B.L., 3rd Thorne Colliery, 4th Waltham B.L.
+Prizes - 1st £15 and shield, 2nd £10 and cup, 3rd £6.
+Organised by Louth British Legion.
+16 bands competed.
+</notes>
+
+  <created>Feb. 8, 2013, 12:11 p.m.</created>
+  <last-modified>Feb. 15, 2019, 11:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="136258">
+      <result code="1">1</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="136259">
+      <result code="2">2</result>
+      <band id="1873">Appleby Frodingham Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="136260">
+      <result code="3">3</result>
+      <band id="319">Barton Town Band</band>
+      <conductor id="308136">William Richards</conductor>
+    </result>
+    
+    <result id="136261">
+      <result code="4">4</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="308134">Thomas Richards</conductor>
+    </result>
+    
+    <result id="136262">
+      <result code="5">5</result>
+      <band id="2626">Scunthorpe Borough British Legion</band>
+      <conductor id="308136">William Richards</conductor>
+    </result>
+    
+    <result id="304449">
+      <result code="">Unknown Result</result>
+      <band id="5867">Lincoln Excelsior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304451">
+      <result code="">Unknown Result</result>
+      <band id="2681">Waltham British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304450">
+      <result code="W">Withdrawn</result>
+      <band id="911">Barnetby Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

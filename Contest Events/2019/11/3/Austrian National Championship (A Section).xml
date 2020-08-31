@@ -1,0 +1,51 @@
+<contest-event id="42743">
+  <event-date date="2019-11-3">Nov. 3, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Austrian National Championship (A Section)</name>
+  <contest id="5451">
+    <name>Austrian National Championship (A Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="526">Austrian National Championship</group>
+    <slug>austrian-national-championship-a-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>None</notes>
+    <region id="20">Austria</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="245">Titan&#39;s Progress</test-piece>
+  </test-piece>
+
+  <venue id="7192">Haus der Musik (Grosser Saal), Innsbruck, Tyrol, Austria</venue>
+  <notes>Special Prizes?</notes>
+
+  <created>Oct. 31, 2019, 11:01 a.m.</created>
+  <last-modified>Nov. 4, 2019, 10:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="313093">
+      <result code="1">1</result>
+      <band id="713">Brass Band Oberösterreich</band>
+      <conductor id="307609">Ian Porthouse</conductor>
+      <test-piece id="5892">Dear Cassandra</test-piece>
+    </result>
+    
+    <result id="313094">
+      <result code="2">2</result>
+      <band id="12326">R.E.T. Brass Band</band>
+      <conductor id="304735">Andreas Lackner</conductor>
+      <test-piece id="489">Spiriti</test-piece>
+    </result>
+    
+    <result id="313095">
+      <result code="3">3</result>
+      <band id="6045">Brass Band Fröschl Hall</band>
+      <conductor id="310620">Corsin Tuor</conductor>
+      <test-piece id="3199">*****, Concerto No 10 for Brass Band</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

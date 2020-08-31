@@ -1,0 +1,79 @@
+<contest-event id="34176">
+  <event-date date="1913-10-25">Oct. 25, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 28, 2016, 3:20 a.m.</created>
+  <last-modified>May 24, 2020, 5:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="246918">
+      <result code="1">1</result>
+      <band id="16576">Geelong Harbour Trust  (Vic)</band>
+      <conductor id="309101">Harry Shugg</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="246919">
+      <result code="2">2</result>
+      <band id="13936">St.Augustine&#39;s Orphanage ( Geelong)</band>
+      <conductor id="303235">Les Hoffman</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="246920">
+      <result code="3">3</result>
+      <band id="13143">Rozelle</band>
+      <conductor id="307187">William Partington</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="246921">
+      <result code="4">4</result>
+      <band id="13130">Prahran City</band>
+      <conductor id="299497">Edward Code</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="246922">
+      <result code="5">5</result>
+      <band id="12283">Collingwood Citizens</band>
+      <conductor id="304131">Frank Johnston</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="246923">
+      <result code="6">6</result>
+      <band id="2411">Newtown Band [Australia]</band>
+      <conductor id="305763">Bill May</conductor>
+      <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="246924">
+      <result code="7">7</result>
+      <band id="2143">Hobart City Brass Band</band>
+      <conductor id="297520">Les Barnett</conductor>
+      <test-piece id="1901">Verdi&#39;s Works [arr. W. Rimmer]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="14179">
+  <event-date date="1955-4-2">April 2, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Third Section)</name>
+  <contest id="238">
+    <name>Brass Band League (NI) Spring Festival (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-third-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1456">The Chieftain [Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="2305">Assembly Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:29 p.m.</created>
+  <last-modified>March 17, 2013, 1:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="113167">
+      <result code="1">1</result>
+      <band id="9060">Ballyholme Silver Band</band>
+      <conductor id="305667">S. Martin</conductor>
+    </result>
+    
+    <result id="113168">
+      <result code="2">2</result>
+      <band id="1381">Strandtown Silver Band</band>
+      <conductor id="298746">James Burch</conductor>
+    </result>
+    
+    <result id="113169">
+      <result code="3">3</result>
+      <band id="1390">Bruce Hamilton Silver Band</band>
+      <conductor id="310064">N. Taggart</conductor>
+    </result>
+    
+  </results>
+</contest-event>

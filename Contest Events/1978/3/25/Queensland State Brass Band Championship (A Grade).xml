@@ -1,0 +1,60 @@
+<contest-event id="42227">
+  <event-date date="1978-3-25">March 25, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="203">Sinfonietta for Brass Band [Langford]</test-piece>
+  </test-piece>
+
+  <venue id="7125">Maryborough City Hall, Queensland, Australia</venue>
+  <notes>Street March results entered under Stage March</notes>
+
+  <created>May 23, 2019, 6:04 a.m.</created>
+  <last-modified>May 27, 2019, 3:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="308685">
+      <result code="1">1</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310266">Colin Thomas</conductor>
+    </result>
+    
+    <result id="308687">
+      <result code="">Unknown Result</result>
+      <band id="17046">South Eastern District  R S L Concert  (S E D)</band>
+      <conductor id="311548">Alan Wilkie</conductor>
+    </result>
+    
+    <result id="308686">
+      <result code="">Unknown Result</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="303338">Bill Holmes</conductor>
+    </result>
+    
+    <result id="308688">
+      <result code="">Unknown Result</result>
+      <band id="17837">Nambour &amp; Maroochy District  - Sunshine Brass  (Qld)</band>
+      <conductor id="307870">Len Radford</conductor>
+    </result>
+    
+    <result id="308689">
+      <result code="">Unknown Result</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="319448">Keith Bowtell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

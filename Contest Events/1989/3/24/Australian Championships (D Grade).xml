@@ -1,0 +1,67 @@
+<contest-event id="34641">
+  <event-date date="1989-3-24">March 24, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1059">Ballad for Band</test-piece>
+  </test-piece>
+
+  <venue id="337">Ipswich, Queensland, Australia</venue>
+  <notes>
+</notes>
+
+  <created>March 17, 2016, 8:07 a.m.</created>
+  <last-modified>June 9, 2016, 10:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="249829">
+      <result code="1">1</result>
+      <band id="9436">Dubbo Brass Band</band>
+      <conductor id="298776">Cobber Burnett</conductor>
+    </result>
+    
+    <result id="249836">
+      <result code="2">2</result>
+      <band id="2317">Beenleigh Brass Band</band>
+      <conductor id="319669">Reg McMurray</conductor>
+    </result>
+    
+    <result id="249837">
+      <result code="3">3</result>
+      <band id="13360">Charters Towers Excelsior</band>
+      <conductor id="304784">Beattie Landsberg</conductor>
+    </result>
+    
+    <result id="249838">
+      <result code="4">4</result>
+      <band id="2147">Capricornia Silver Band</band>
+      <conductor id="318396">Rodney Haynes</conductor>
+    </result>
+    
+    <result id="249839">
+      <result code="5">5</result>
+      <band id="2336">Warwick City Band</band>
+      <conductor id="307104">Ken Robinson</conductor>
+    </result>
+    
+    <result id="249840">
+      <result code="W">Withdrawn</result>
+      <band id="2304">Yellow Cabs Bayside Brass (Qld)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

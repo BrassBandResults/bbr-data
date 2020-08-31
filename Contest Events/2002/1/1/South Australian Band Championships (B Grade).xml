@@ -1,0 +1,43 @@
+<contest-event id="3325">
+  <event-date date="2002-1-1">Jan. 1, 2002<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>South Australian Band Championships (B Grade)</name>
+  <contest id="572">
+    <name>South Australian Band Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="211">Variations on Laudate Dominum</test-piece>
+  </test-piece>
+
+  <venue id="733">Victor Harbor, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Dec. 2, 2010, 2:41 p.m.</created>
+  <last-modified>May 24, 2018, 6:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="31988">
+      <result code="1">1</result>
+      <band id="728">Salisbury City Band [Australia]</band>
+      <conductor id="306011">Geoff Meikle</conductor>
+      <test-piece id="5312">Hymn: Amazing Grace</test-piece>
+    </result>
+    
+    <result id="31989">
+      <result code="2">2</result>
+      <band id="2160">Mitcham City Brass</band>
+      <conductor id="304281">Stuart Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

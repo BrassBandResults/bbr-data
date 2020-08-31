@@ -1,0 +1,56 @@
+<contest-event id="35663">
+  <event-date date="1951-8-26">Aug. 26, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Association Contest (Section A)</name>
+  <contest id="3845">
+    <name>Birmingham Association Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="458">Birmingham Association Contest</group>
+    <slug>birmingham-association-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="559">Othello</test-piece>
+  </test-piece>
+
+  <venue id="3087">Small Heath Park, Birmingham</venue>
+  <notes>Prizes - 1st £15, 2nd £7, 3rd £5.
+7 bands competed.
+</notes>
+
+  <created>July 9, 2016, 11:42 a.m.</created>
+  <last-modified>March 13, 2019, 1:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="258850">
+      <result code="1">1</result>
+      <band id="493">City of Birmingham Band</band>
+      <conductor id="301744">Idwal George</conductor>
+    </result>
+    
+    <result id="258851">
+      <result code="2">2</result>
+      <band id="5915">Coventry Silver</band>
+      <conductor id="301161">Peter Fearnley</conductor>
+    </result>
+    
+    <result id="305533">
+      <result code="3">3</result>
+      <band id="4035">Revo Works</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="258852">
+      <result code="5">5</result>
+      <band id="1625">West Bromwich Borough</band>
+      <conductor id="300909">H. Emery</conductor>
+    </result>
+    
+  </results>
+</contest-event>

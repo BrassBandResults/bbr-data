@@ -1,0 +1,98 @@
+<contest-event id="16202">
+  <event-date date="1986-5-17">May 17, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Ebbw Vale) Contest (Second Section)</name>
+  <contest id="112">
+    <name>SEWBBA (Ebbw Vale) Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="17">SEWBBA (Ebbw Vale) Contest</group>
+    <slug>ebbw-vale-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="24">Sunset Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="221">Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
+  <notes>  Prizes  1st £100, 2nd £60, 3rd £40.
+
+  11 bands competed.</notes>
+
+  <created>Nov. 15, 2012, noon</created>
+  <last-modified>Oct. 18, 2014, 4:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="124525">
+      <result code="1">1</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="297441">David Banwell</conductor>
+    </result>
+    
+    <result id="124526">
+      <result code="2">2</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="300165">Jim Davies</conductor>
+    </result>
+    
+    <result id="124527">
+      <result code="3">3</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="300134">A. J. Davies</conductor>
+    </result>
+    
+    <result id="124534">
+      <result code="">Unknown Result</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="300791">Steve Edwards</conductor>
+    </result>
+    
+    <result id="124533">
+      <result code="">Unknown Result</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="301770">Alan Gibbs</conductor>
+    </result>
+    
+    <result id="124535">
+      <result code="">Unknown Result</result>
+      <band id="460">Pontypool Brass</band>
+      <conductor id="304151">John Jolley</conductor>
+    </result>
+    
+    <result id="124528">
+      <result code="">Unknown Result</result>
+      <band id="858">Aberystwyth Silver Band</band>
+      <conductor id="307440">Alan Phillips</conductor>
+    </result>
+    
+    <result id="124532">
+      <result code="">Unknown Result</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="301178">Kenneth Howard Feltham</conductor>
+    </result>
+    
+    <result id="124529">
+      <result code="">Unknown Result</result>
+      <band id="462">TATA Brass</band>
+      <conductor id="307154">C. J. Parry</conductor>
+    </result>
+    
+    <result id="124530">
+      <result code="">Unknown Result</result>
+      <band id="290">Newbridge Celynen Band</band>
+      <conductor id="307868">Colin Radford</conductor>
+    </result>
+    
+    <result id="124531">
+      <result code="">Unknown Result</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="306390">Haydn Morris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

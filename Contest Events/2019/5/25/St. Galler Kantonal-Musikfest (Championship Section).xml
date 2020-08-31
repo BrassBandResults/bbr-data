@@ -1,0 +1,47 @@
+<contest-event id="42302">
+  <event-date date="2019-5-25">May 25, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Galler Kantonal-Musikfest (Championship Section)</name>
+  <contest id="3089">
+    <name>St. Galler Kantonal-Musikfest (Championship Section)</name>
+    <order>5</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="293">St. Galler Kantonal-Musikfest</group>
+    <slug>st-galler-kantonal-musikfest-hochstklass-3089</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1706">Symphonic Dances from &#39;West Side Story&#39;</test-piece>
+  </test-piece>
+
+  <venue id="5962">Lenggenwil, SG, Switzerland</venue>
+  <notes>Sections CS-Fourth: Draw o.a., sep. Saturday &amp; Sunday
+
+Set Work: Bürki, Fischer, Tinner
+Own Choice: Heri, Hubov, Ruf-Weber</notes>
+
+  <created>June 5, 2019, 9:06 a.m.</created>
+  <last-modified>May 28, 2020, 4:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="309355">
+      <result code="1">1</result>
+      <band id="1235">Amsterdam Brass</band>
+      <conductor id="318499">Paul van Gils</conductor>
+      <test-piece id="3219">Angels and Demons</test-piece>
+    </result>
+    
+    <result id="309356">
+      <result code="2">2</result>
+      <band id="77">Liberty Brass Band Ostschweiz</band>
+      <conductor id="308501">Stefan Roth</conductor>
+      <test-piece id="4671">A Brussels Requiem</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="16283">
+  <event-date date="1986-9-20">Sept. 20, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Second Section)</name>
+  <contest id="5463">
+    <name>West Wales BBA Festival Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-festival-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="220">Music for a Festival [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="2002">Neath, Neath Port Talbot, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 20, 2012, 11:17 a.m.</created>
+  <last-modified>Oct. 7, 2014, 3:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="125233">
+      <result code="1">1</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="300165">Jim Davies</conductor>
+    </result>
+    
+    <result id="125234">
+      <result code="2">2</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="298777">Robert Burnett</conductor>
+    </result>
+    
+    <result id="125235">
+      <result code="3">3</result>
+      <band id="450">Rogerstone Band</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

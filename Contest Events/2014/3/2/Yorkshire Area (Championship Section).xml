@@ -1,0 +1,108 @@
+<contest-event id="10861">
+  <event-date date="2014-3-2">March 2, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Area (Championship Section)</name>
+  <contest id="9">
+    <name>Yorkshire Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="20">St. Magnus</test-piece>
+  </test-piece>
+
+  <venue id="59">St. George&#39;s Hall, Bradford, West Yorkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>March 9, 2012, 12:10 p.m.</created>
+  <last-modified>March 9, 2015, 5:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="143561">
+      <result code="1">1</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="304524">David King</conductor>
+    </result>
+    
+    <result id="143558">
+      <result code="2">2</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="299293">Robert Childs</conductor>
+    </result>
+    
+    <result id="143560">
+      <result code="3">3</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="305818">Phillip McCann</conductor>
+    </result>
+    
+    <result id="143562">
+      <result code="4">4</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="299290">Nicholas Childs</conductor>
+    </result>
+    
+    <result id="143553">
+      <result code="5">5</result>
+      <band id="1">Rothwell Temperance Band</band>
+      <conductor id="308275">David Roberts</conductor>
+    </result>
+    
+    <result id="143554">
+      <result code="6">6</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="311618">Glyn Williams</conductor>
+    </result>
+    
+    <result id="143557">
+      <result code="7">7</result>
+      <band id="25">Hammonds Saltaire</band>
+      <conductor id="302245">Morgan Griffiths</conductor>
+    </result>
+    
+    <result id="143552">
+      <result code="8">8</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="302421">Martin Hall</conductor>
+    </result>
+    
+    <result id="143550">
+      <result code="9">9</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="306577">Stig Mærsk</conductor>
+    </result>
+    
+    <result id="143555">
+      <result code="10">10</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="301459">Michael Fowles</conductor>
+    </result>
+    
+    <result id="143551">
+      <result code="11">11</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="303166">David Hirst</conductor>
+    </result>
+    
+    <result id="143559">
+      <result code="12">12</result>
+      <band id="44">Drighlington Band</band>
+      <conductor id="300165">Jim Davies</conductor>
+    </result>
+    
+    <result id="192351">
+      <result code="13">13</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="299605">Sean Conway</conductor>
+    </result>
+    
+  </results>
+</contest-event>

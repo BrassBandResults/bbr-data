@@ -1,0 +1,90 @@
+<contest-event id="40961">
+  <event-date date="1924-5-10">May 10, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coxhoe Contest</name>
+  <contest id="5068">
+    <name>Coxhoe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coxhoe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5607">Amoretten</test-piece>
+  </test-piece>
+
+  <venue id="4423">Coxhoe, County Durham</venue>
+  <notes>10 bands competed</notes>
+
+  <created>Oct. 26, 2018, 10:16 a.m.</created>
+  <last-modified>Oct. 26, 2018, 10:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297463">
+      <result code="1">1</result>
+      <band id="3369">Burnhope Colliery Welfare</band>
+      <conductor id="304494">W. J. Keskeys</conductor>
+    </result>
+    
+    <result id="297464">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312032">Ben Wright</conductor>
+    </result>
+    
+    <result id="297465">
+      <result code="3">3</result>
+      <band id="11618">Coxhoe Silver</band>
+      <conductor id="309093">J. Shotton</conductor>
+    </result>
+    
+    <result id="297466">
+      <result code="4">4</result>
+      <band id="574">Ferryhill Town</band>
+      <conductor id="305005">William Lerigo</conductor>
+    </result>
+    
+    <result id="297467">
+      <result code="5">5</result>
+      <band id="2637">Consett-Whitbread Trophy</band>
+      <conductor id="309383">J. Smith</conductor>
+    </result>
+    
+    <result id="297471">
+      <result code="">Unknown Result</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297470">
+      <result code="">Unknown Result</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297468">
+      <result code="">Unknown Result</result>
+      <band id="12542">Houghton Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297472">
+      <result code="">Unknown Result</result>
+      <band id="3371">Lumley 6th Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297469">
+      <result code="">Unknown Result</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

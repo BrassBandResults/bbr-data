@@ -1,0 +1,61 @@
+<contest-event id="28111">
+  <event-date date="1980-10-26">Oct. 26, 1980<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Suffolk Championship Contest</name>
+  <contest id="3584">
+    <name>Suffolk Championship Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>suffolk-championship-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="10">Set Test and Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4802">Gunton Hall Holiday Centre, Lowestoft, Suffolk, England, UK</venue>
+  <notes>March contest - 1st Ipswich, 2nd Wrentham, 3rd Haverhill, 4th Gunton.
+Best instrumentalist - Tom Gomersall (Wrentham)</notes>
+
+  <created>June 2, 2014, 4:44 p.m.</created>
+  <last-modified>Jan. 7, 2015, 2:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="201146">
+      <result code="1">1</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="201147">
+      <result code="3">3</result>
+      <band id="1531">Wrentham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="201148">
+      <result code="">Unknown Result</result>
+      <band id="2881">Gunton Hall Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="201145">
+      <result code="">Unknown Result</result>
+      <band id="1955">Ipswich Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="215834">
+      <result code="">Unknown Result</result>
+      <band id="621">Woodbridge Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

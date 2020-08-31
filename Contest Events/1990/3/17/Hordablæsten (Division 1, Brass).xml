@@ -1,0 +1,48 @@
+<contest-event id="13858">
+  <event-date date="1990-3-17">March 17, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hordablæsten (Division 1, Brass)</name>
+  <contest id="2216">
+    <name>Hordablæsten (Division 1, Brass)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="258">Hordablæsten</group>
+    <slug>hordablsten-division-1-brass</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    
+  </contest>
+  <contest-type-override id="10">Set Test and Entertainments Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2000">Bobby Shaftoe</test-piece>
+  </test-piece>
+
+  <venue id="28">Grieghallen, Bergen, Hordaland, Norway</venue>
+  <notes></notes>
+
+  <created>June 22, 2012, 9:41 p.m.</created>
+  <last-modified>June 22, 2012, 10:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="110710">
+      <result code="1">1</result>
+      <band id="7879">Nygårdslien Skolekorps</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110711">
+      <result code="2">2</result>
+      <band id="5664">Skodvin Skulemusikk</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110712">
+      <result code="3">3</result>
+      <band id="5743">Haukås Skolemusikk</band>
+      <conductor id="306966">Tom Osa</conductor>
+    </result>
+    
+  </results>
+</contest-event>

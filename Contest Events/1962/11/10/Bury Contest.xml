@@ -1,0 +1,72 @@
+<contest-event id="33425">
+  <event-date date="1962-11-10">Nov. 10, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bury Contest</name>
+  <contest id="1599">
+    <name>Bury Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi</test-piece>
+  </test-piece>
+
+  <venue id="3201">Drill Hall, Bury, Lancashire</venue>
+  <notes>12 bands competed.</notes>
+
+  <created>Nov. 5, 2015, 11:44 a.m.</created>
+  <last-modified>Nov. 5, 2015, 11:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="240557">
+      <result code="1">1</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="305676">Fred Martland</conductor>
+    </result>
+    
+    <result id="240558">
+      <result code="2">2</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="301551">Sydney Fripp</conductor>
+    </result>
+    
+    <result id="240559">
+      <result code="3">3</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240560">
+      <result code="4">4</result>
+      <band id="18196">Clock Face and Sutton Manor</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240561">
+      <result code="5">5</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240562">
+      <result code="">Unknown Result</result>
+      <band id="5271">Helmshore Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="249745">
+      <result code="">Unknown Result</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,96 @@
+<contest-event id="8000">
+  <event-date date="1992-3-7">March 7, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (First Section)</name>
+  <contest id="62">
+    <name>Scottish Championship (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-first-section</slug>
+    <qualifies-for id="2">National Championship of Great Britain (First Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="633">Celebration [Ball]</test-piece>
+  </test-piece>
+
+  <venue id="74">Falkirk Town Hall, Falkirk, Falkirk Council Area, Scotland, UK</venue>
+  <notes>Qualifiers: Riverside Brass and Newmilns &amp; Galston</notes>
+
+  <created>Nov. 2, 2011, 3:55 p.m.</created>
+  <last-modified>Nov. 2, 2011, 4:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="72090">
+      <result code="1">1</result>
+      <band id="1276">South Side Brass (Glasgow)</band>
+      <conductor id="309987">Tony Swainson</conductor>
+    </result>
+    
+    <result id="72091">
+      <result code="2">2</result>
+      <band id="316">Newmilns and Galston Band</band>
+      <conductor id="298481">Brian Broadbent</conductor>
+    </result>
+    
+    <result id="72092">
+      <result code="3">3</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="303166">David Hirst</conductor>
+    </result>
+    
+    <result id="72093">
+      <result code="4">4</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="301204">Alan Fernie</conductor>
+    </result>
+    
+    <result id="72094">
+      <result code="5">5</result>
+      <band id="1270">Newmains</band>
+      <conductor id="298124">Nigel Boddice</conductor>
+    </result>
+    
+    <result id="72095">
+      <result code="6">6</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="303557">John Hudson</conductor>
+    </result>
+    
+    <result id="72096">
+      <result code="7">7</result>
+      <band id="303">Clackmannan and District Band</band>
+      <conductor id="300165">Jim Davies</conductor>
+    </result>
+    
+    <result id="72097">
+      <result code="8">8</result>
+      <band id="897">Kilmarnock Concert Brass</band>
+      <conductor id="304363">Andrew Keachie</conductor>
+    </result>
+    
+    <result id="72098">
+      <result code="9">9</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="303728">Archie Hutchison</conductor>
+    </result>
+    
+    <result id="72099">
+      <result code="10">10</result>
+      <band id="380">Irvine and Dreghorn Band</band>
+      <conductor id="304381">Charles Keenan</conductor>
+    </result>
+    
+    <result id="72100">
+      <result code="11">11</result>
+      <band id="1802">UDI Brass</band>
+      <conductor id="304501">Eric Kidd</conductor>
+    </result>
+    
+  </results>
+</contest-event>

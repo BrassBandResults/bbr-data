@@ -1,0 +1,71 @@
+<contest-event id="24661">
+  <event-date date="1933-8-7">Aug. 7, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wentworth Contest</name>
+  <contest id="3767">
+    <name>Wentworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wentworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2896">Wentworth, Yorkshire</venue>
+  <notes>  Prizes - 1st £8 and cup, 2nd £6, 3rd £3, 4th £1.10s.
+6 bands competed.</notes>
+
+  <created>Oct. 23, 2013, 10:31 a.m.</created>
+  <last-modified>April 20, 2018, 11:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="180272">
+      <result code="1">1</result>
+      <band id="1690">Firbeck Colliery</band>
+      <conductor id="303113">Alexander Hilton</conductor>
+      <test-piece id="108">Lorenzo</test-piece>
+    </result>
+    
+    <result id="180273">
+      <result code="2">2</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="301438">William Foster</conductor>
+      <test-piece id="1350">Berlioz</test-piece>
+    </result>
+    
+    <result id="180274">
+      <result code="3">3</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="312103">Albert Yates</conductor>
+      <test-piece id="1350">Berlioz</test-piece>
+    </result>
+    
+    <result id="180275">
+      <result code="4">4</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="300995">Harold Evans</conductor>
+      <test-piece id="1411">Poliuto Suite [arr. Hawkins]</test-piece>
+    </result>
+    
+    <result id="180276">
+      <result code="">Unknown Result</result>
+      <band id="2794">Elsecar Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180277">
+      <result code="">Unknown Result</result>
+      <band id="132">Strata Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

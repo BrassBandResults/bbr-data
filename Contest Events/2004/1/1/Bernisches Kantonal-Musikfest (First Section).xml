@@ -1,0 +1,49 @@
+<contest-event id="14903">
+  <event-date date="2004-1-1">Jan. 1, 2004<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Bernisches Kantonal-Musikfest (First Section)</name>
+  <contest id="3079">
+    <name>Bernisches Kantonal-Musikfest (First Section)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="295">Bernisches Kantonal-Musikfest</group>
+    <slug>bernisch-kantonales-musikfest-first-section</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="232">Quintessence</test-piece>
+  </test-piece>
+
+  <venue id="2383">Belp, BE, Switzerland</venue>
+  <notes>Set Test: Tuor, Recher, Waesi,
+Own Choice: Bucher, Kofmehl, Moren</notes>
+
+  <created>Sept. 28, 2012, 9:49 p.m.</created>
+  <last-modified>June 30, 2013, 12:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="163814">
+      <result code="1">1</result>
+      <band id="69">Regional Brass Band Bern</band>
+      <conductor id="297891">Daniel Bichsel</conductor>
+    </result>
+    
+    <result id="163815">
+      <result code="2">2</result>
+      <band id="2061">Brass Band Rapperswil-Wierezwil</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163816">
+      <result code="3">3</result>
+      <band id="9467">BB Feldmusik Marbach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

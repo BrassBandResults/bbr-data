@@ -1,0 +1,49 @@
+<contest-event id="872">
+  <event-date date="1997-11-2">Nov. 2, 1997<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitehaven Contest (Class A)</name>
+  <contest id="220">
+    <name>Whitehaven Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="126">Whitehaven Contest</group>
+    <slug>whitehaven-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5412">Civic Hall, Whitehaven, Cumbria, England, UK</venue>
+  <notes></notes>
+
+  <created>Sept. 19, 2009, 6:26 p.m.</created>
+  <last-modified>April 6, 2015, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="9704">
+      <result code="1">1</result>
+      <band id="26">Fishburn Band</band>
+      <conductor id="308354">Ian Robinson</conductor>
+      <test-piece id="42">Pageantry</test-piece>
+    </result>
+    
+    <result id="225134">
+      <result code="2">2</result>
+      <band id="923">Boldon Colliery Band</band>
+      <conductor id="305514">Steve Malcolm</conductor>
+    </result>
+    
+    <result id="225135">
+      <result code="3">3</result>
+      <band id="921">Northumbria Police Band</band>
+      <conductor id="307264">Roger Payne</conductor>
+    </result>
+    
+  </results>
+</contest-event>

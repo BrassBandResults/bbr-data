@@ -1,0 +1,74 @@
+<contest-event id="279">
+  <event-date date="1999-5-15">May 15, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ebbw Vale Contest (Third Section)</name>
+  <contest id="113">
+    <name>SEWBBA (Ebbw Vale) Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="17">SEWBBA (Ebbw Vale) Contest</group>
+    <slug>ebbw-vale-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="508">Owain Glyndwr</test-piece>
+  </test-piece>
+
+  <venue id="121">Ebbw Vale Leisure Centre, Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
+  <notes>Bst instrumentalist - euphonium Tredegar Youth.
+Prizes - 1st £100, 2nd £60, 3rd £40.
+7 bands competed.</notes>
+
+  <created>May 3, 2009, 6:36 p.m.</created>
+  <last-modified>June 30, 2020, 10:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="3795">
+      <result code="1">1</result>
+      <band id="782">Tredegar Youth Band</band>
+      <conductor id="311675">Tudor Williams</conductor>
+    </result>
+    
+    <result id="3796">
+      <result code="2">2</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="298787">John Burns</conductor>
+    </result>
+    
+    <result id="3797">
+      <result code="3">3</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="305038">Ceri Lewis</conductor>
+    </result>
+    
+    <result id="3798">
+      <result code="4">4</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="303239">Colin Hogg</conductor>
+    </result>
+    
+    <result id="3799">
+      <result code="5">5</result>
+      <band id="785">Vale of Glamorgan Band</band>
+      <conductor id="297515">Ivor Barnett</conductor>
+    </result>
+    
+    <result id="3800">
+      <result code="6">6</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="301101">Mike Faro</conductor>
+    </result>
+    
+    <result id="3801">
+      <result code="7">7</result>
+      <band id="787">Oakdale Silver Band</band>
+      <conductor id="307758">Ron Probyn</conductor>
+    </result>
+    
+  </results>
+</contest-event>

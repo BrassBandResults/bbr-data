@@ -1,0 +1,55 @@
+<contest-event id="39435">
+  <event-date date="1968-10-26">Oct. 26, 1968<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="22">Journey into Freedom</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>April 3, 2018, 7 a.m.</created>
+  <last-modified>April 3, 2018, 7:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="286350">
+      <result code="1">1</result>
+      <band id="13087">Melbourne Fire Brigade</band>
+      <conductor id="309170">Mervyn Simpson</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="286351">
+      <result code="2">2</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="307467">Harry Philpott</conductor>
+    </result>
+    
+    <result id="286352">
+      <result code="3">3</result>
+      <band id="1313">Footscray Yarraville City Band</band>
+      <conductor id="310373">Pat Thorn</conductor>
+    </result>
+    
+    <result id="286353">
+      <result code="4">4</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="303914">Frank James</conductor>
+    </result>
+    
+  </results>
+</contest-event>

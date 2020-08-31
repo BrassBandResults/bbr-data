@@ -1,0 +1,48 @@
+<contest-event id="29895">
+  <event-date date="1988-3-5">March 5, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (3rd Section)</name>
+  <contest id="3630">
+    <name>Cornwall BBA Contest (3rd Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-3rd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="629">Promenade</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>33rd annual contest</notes>
+
+  <created>Oct. 25, 2014, 12:10 p.m.</created>
+  <last-modified>Oct. 25, 2014, 12:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="212150">
+      <result code="1">1</result>
+      <band id="426">Lanner and District Silver Band</band>
+      <conductor id="302646">Chris Harris</conductor>
+    </result>
+    
+    <result id="212153">
+      <result code="2">2</result>
+      <band id="550">Launceston Town Band</band>
+      <conductor id="302166">Derek Greenwood</conductor>
+    </result>
+    
+    <result id="212152">
+      <result code="3">3</result>
+      <band id="2459">St Ives Town</band>
+      <conductor id="310471">Eric Toll</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="21514">
+  <event-date date="1976-5-1">May 1, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class B</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1166">City by the Sea</test-piece>
+  </test-piece>
+
+  <venue id="3266">Secondary Modern School, Thetford, Norfolk</venue>
+  <notes>  Hymn tune contest - 1st Leiston, 2nd Long Melford,3rd Reepham.</notes>
+
+  <created>May 20, 2013, 8:54 a.m.</created>
+  <last-modified>Dec. 10, 2013, 4:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="158148">
+      <result code="1">1</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="306797">Terry Norman</conductor>
+    </result>
+    
+    <result id="158149">
+      <result code="2">2</result>
+      <band id="3892">Leiston RBL Band</band>
+      <conductor id="296857">J. Alderton</conductor>
+    </result>
+    
+    <result id="158150">
+      <result code="3">3</result>
+      <band id="10799">Orwell Brass</band>
+      <conductor id="309509">J. Snowling</conductor>
+    </result>
+    
+    <result id="158151">
+      <result code="">Unknown Result</result>
+      <band id="3507">Long Melford</band>
+      <conductor id="310525">D. Towers</conductor>
+    </result>
+    
+    <result id="222308">
+      <result code="">Unknown Result</result>
+      <band id="3885">Breckland Brass Band</band>
+      <conductor id="298280">P. J. D. Bowes</conductor>
+    </result>
+    
+    <result id="222309">
+      <result code="">Unknown Result</result>
+      <band id="6471">Haddenham Silver [Cambs.]</band>
+      <conductor id="306466">Peter Mott</conductor>
+    </result>
+    
+  </results>
+</contest-event>

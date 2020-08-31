@@ -1,0 +1,49 @@
+<contest-event id="23141">
+  <event-date date="1958-11-16">Nov. 16, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Association Contest (Section A)</name>
+  <contest id="3845">
+    <name>Birmingham Association Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="458">Birmingham Association Contest</group>
+    <slug>birmingham-association-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3858">Digbeth Institute, Birmingham</venue>
+  <notes>  Best class B band - Coventry Festival.
+  11 bands competed.</notes>
+
+  <created>Aug. 19, 2013, 5:02 p.m.</created>
+  <last-modified>Aug. 19, 2013, 5:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170302">
+      <result code="1">1</result>
+      <band id="1931">Jaguar Cars (City of Coventry)</band>
+      <conductor id="312115">Cyril Yorath</conductor>
+    </result>
+    
+    <result id="170303">
+      <result code="2">2</result>
+      <band id="1625">West Bromwich Borough</band>
+      <conductor id="306388">G. A. Morris</conductor>
+    </result>
+    
+    <result id="170304">
+      <result code="">Unknown Result</result>
+      <band id="32">Jaguar Land Rover Band</band>
+      <conductor id="305500">Jack Major</conductor>
+    </result>
+    
+  </results>
+</contest-event>

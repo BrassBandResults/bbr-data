@@ -1,0 +1,54 @@
+<contest-event id="15628">
+  <event-date date="1912-9-7">Sept. 7, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class A)</name>
+  <contest id="3279">
+    <name>National Eisteddfod of Wales (Class A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2586">Wrexham, Wrexham, Wales, UK</venue>
+  <notes>Crosfields were the only competitor in the open section - winning £25</notes>
+
+  <created>Oct. 27, 2012, 11:59 a.m.</created>
+  <last-modified>Nov. 29, 2013, 9:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="120744">
+      <result code="1">1</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="147394">
+      <result code="W">Withdrawn</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="147393">
+      <result code="W">Withdrawn</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="147395">
+      <result code="W">Withdrawn</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

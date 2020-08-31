@@ -1,0 +1,43 @@
+<contest-event id="27044">
+  <event-date date="2015-3-14">March 14, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Youth Section)</name>
+  <contest id="2064">
+    <name>North American Championships (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-championships-youth-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="202">A Cambrian Suite</test-piece>
+  </test-piece>
+
+  <venue id="4612">Fort Wayne, Indiana, USA</venue>
+  <notes></notes>
+
+  <created>April 13, 2014, 10:14 a.m.</created>
+  <last-modified>March 19, 2015, 1:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="219694">
+      <result code="1">1</result>
+      <band id="11903">Fountain City Youth Brass Academy</band>
+      <conductor id="302634">Lee Harrelson</conductor>
+      <test-piece id="60">The Dark Side of the Moon</test-piece>
+    </result>
+    
+    <result id="219695">
+      <result code="2">2</result>
+      <band id="11904">Motor City Youth Brass Band</band>
+      <conductor id="306943">Bona Opatich</conductor>
+    </result>
+    
+  </results>
+</contest-event>

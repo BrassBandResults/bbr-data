@@ -1,0 +1,55 @@
+<contest-event id="28377">
+  <event-date date="1925-6-6">June 6, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Open Section)</name>
+  <contest id="1042">
+    <name>Royal Tunbridge Wells Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4340">Calverley Park Grounds, Tunbridge Wells, Kent</venue>
+  <notes>March contest - 1st Turner&#39;s Hill, 2nd Banstead.
+4 bands competed.</notes>
+
+  <created>June 9, 2014, 9:49 a.m.</created>
+  <last-modified>Nov. 5, 2018, 7:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202334">
+      <result code="1">1</result>
+      <band id="8146">Turners Hill and Worth</band>
+      <conductor id="298228">W. H. Botting</conductor>
+    </result>
+    
+    <result id="202335">
+      <result code="2">2</result>
+      <band id="328">Epsom &amp; Ewell Silver Band</band>
+      <conductor id="299140">Harry Cave</conductor>
+    </result>
+    
+    <result id="298874">
+      <result code="">Unknown Result</result>
+      <band id="8142">Crowborough Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202336">
+      <result code="">Unknown Result</result>
+      <band id="1044">Oxted</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,52 @@
+<contest-event id="22197">
+  <event-date date="2010-5-15">May 15, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kantonal Musikfest Fribourg/Freiburg (First Section)</name>
+  <contest id="4392">
+    <name>Kantonal Musikfest Fribourg/Freiburg (First Section)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="411">Kantonal Musikfest Fribourg/Freiburg</group>
+    <slug>kantonal-musikfest-fribourg-freiburg-fir-4392</slug>
+    
+    <notes>None</notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2512">Sinfonietta no. 1 for Brass Band [Crausaz]</test-piece>
+  </test-piece>
+
+  <venue id="3515">Châtel-Saint-Denis, FR, Switzerland</venue>
+  <notes>Adjudicators Set Work: Victor Bonvin, Rolf Schumacher, Oliver Waespi
+Adjudicators Own Choice: Michel Barras, Peter Bucher, François-Xavier Delacoste</notes>
+
+  <created>July 6, 2013, 6:19 a.m.</created>
+  <last-modified>April 15, 2018, 2:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164833">
+      <result code="1">1</result>
+      <band id="11120">Lyre Paroissiale de La Roche</band>
+      <conductor id="298511">Marc-Olivier Broillet</conductor>
+      <test-piece id="258">Renaissance</test-piece>
+    </result>
+    
+    <result id="164834">
+      <result code="2">2</result>
+      <band id="11121">Fanfare Paroissiale Ursy</band>
+      <conductor id="302282">Serge Gros</conductor>
+      <test-piece id="281">Endeavour [Sparke]</test-piece>
+    </result>
+    
+    <result id="164835">
+      <result code="3">3</result>
+      <band id="12545">L&#39;Avenir Barberêche-Courtepin</band>
+      <conductor id="299602">Didier Conus</conductor>
+      <test-piece id="277">Firestorm</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="18673">
+  <event-date date="1953-9-26">Sept. 26, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Corwen Contest</name>
+  <contest id="1604">
+    <name>Corwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>corwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2144">The Dawn of Spring</test-piece>
+  </test-piece>
+
+  <venue id="2410">Rug Park, Corwen, Denbighshire, Wales, UK</venue>
+  <notes>
+  March contest  1st Ruthin, 2nd Deudraeth, 3rd Llanrug.
+  Best soloist - Derek Lloyd Jones (14yrs) cornet - Llanrug.
+  Best soprano - Gordon Wheeler - Gwespyr.
+  Best Eb Bass - Derek Lloyd - Gwespyr.
+
+  9 bands competed.</notes>
+
+  <created>Feb. 28, 2013, 9:36 a.m.</created>
+  <last-modified>Feb. 28, 2013, 9:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="140214">
+      <result code="1">1</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="300193">W. T. Davies</conductor>
+    </result>
+    
+    <result id="140215">
+      <result code="2">2</result>
+      <band id="10538">Deudraeth</band>
+      <conductor id="303652">A. Humphries</conductor>
+    </result>
+    
+    <result id="140216">
+      <result code="3">3</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="306382">Caradoc Morris</conductor>
+    </result>
+    
+    <result id="140218">
+      <result code="">Unknown Result</result>
+      <band id="2699">Gwespyr &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="140217">
+      <result code="">Unknown Result</result>
+      <band id="1554">Ruthin Town</band>
+      <conductor id="303755">H. Hyman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

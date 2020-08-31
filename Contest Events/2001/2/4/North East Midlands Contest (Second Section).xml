@@ -1,0 +1,49 @@
+<contest-event id="6432">
+  <event-date date="2001-2-4">Feb. 4, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North East Midlands Contest (Second Section)</name>
+  <contest id="118">
+    <name>North East Midlands Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="12">North East Midlands Contest</group>
+    <slug>north-east-midlands-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="138">The Moor of Venice</test-piece>
+  </test-piece>
+
+  <venue id="162">Rolls-Royce Pavilion, Derby</venue>
+  <notes>Best Soprano - Ilkeston Brass
+Best Percussion - Ilkeston Brass</notes>
+
+  <created>June 11, 2011, 5:24 p.m.</created>
+  <last-modified>Oct. 8, 2011, 3:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="56661">
+      <result code="1">1</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="304190">David Jones</conductor>
+    </result>
+    
+    <result id="56660">
+      <result code="2">2</result>
+      <band id="513">Trentham Brass</band>
+      <conductor id="299145">Mike Caveney</conductor>
+    </result>
+    
+    <result id="56659">
+      <result code="W">Withdrawn</result>
+      <band id="876">Harworth Brass</band>
+      <conductor id="303314">David Holling</conductor>
+    </result>
+    
+  </results>
+</contest-event>

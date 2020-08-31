@@ -1,0 +1,60 @@
+<contest-event id="27275">
+  <event-date date="1959-9-5">Sept. 5, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Winchcombe Contest</name>
+  <contest id="4483">
+    <name>Winchcombe Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="432">Winchcombe Contest</group>
+    <slug>winchcombe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3818">Recreation Ground,Babesmoor, Winchcombe, Glos</venue>
+  <notes>Best section 4 band - 1st Lydney, 2nd Severn Tunnel, 3rd Shipston.</notes>
+
+  <created>May 5, 2014, 10:39 a.m.</created>
+  <last-modified>May 5, 2014, 10:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="196670">
+      <result code="1">1</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196671">
+      <result code="2">2</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196672">
+      <result code="3">3</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196673">
+      <result code="">Unknown Result</result>
+      <band id="381">Severn Tunnel Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196674">
+      <result code="">Unknown Result</result>
+      <band id="509">Shipston Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

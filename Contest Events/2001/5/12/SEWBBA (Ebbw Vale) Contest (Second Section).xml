@@ -1,0 +1,80 @@
+<contest-event id="7293">
+  <event-date date="2001-5-12">May 12, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Ebbw Vale) Contest (Second Section)</name>
+  <contest id="112">
+    <name>SEWBBA (Ebbw Vale) Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="17">SEWBBA (Ebbw Vale) Contest</group>
+    <slug>ebbw-vale-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="277">Firestorm</test-piece>
+  </test-piece>
+
+  <venue id="221">Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
+  <notes>Best Instrumentalist: D. Andrews (euphonium)of Ynyshir
+Prizes - 1st £125. 2nd £75, 3rd £60.
+ 5 bands competed.</notes>
+
+  <created>Sept. 28, 2011, 12:40 p.m.</created>
+  <last-modified>June 30, 2020, 9:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="65590">
+      <result code="1">1</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="298777">Robert Burnett</conductor>
+    </result>
+    
+    <result id="234776">
+      <result code="2">2</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="298787">John Burns</conductor>
+    </result>
+    
+    <result id="234777">
+      <result code="3">3</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="301770">Alan Gibbs</conductor>
+    </result>
+    
+    <result id="234778">
+      <result code="4">4</result>
+      <band id="448">RAF St. Athan Voluntary Band</band>
+      <conductor id="298249">Alan Bourne</conductor>
+    </result>
+    
+    <result id="234779">
+      <result code="5">5</result>
+      <band id="461">Ebbw Vale Band</band>
+      <conductor id="310264">Ceri Thomas</conductor>
+    </result>
+    
+    <result id="320068">
+      <result code="W">Withdrawn</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="299245">Thomas Charlton</conductor>
+    </result>
+    
+    <result id="320069">
+      <result code="W">Withdrawn</result>
+      <band id="466">Newport Borough Band</band>
+      <conductor id="311587">Alun Williams</conductor>
+    </result>
+    
+    <result id="320070">
+      <result code="W">Withdrawn</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="297515">Ivor Barnett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

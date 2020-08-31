@@ -1,0 +1,54 @@
+<contest-event id="1879">
+  <event-date date="1998-11-29">Nov. 29, 1998<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Championship Division)</name>
+  <contest id="76">
+    <name>Belgian Nationals (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="15">Cloudcatcher Fells</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>May 3, 2010, 1:05 p.m.</created>
+  <last-modified>May 3, 2010, 1:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="17408">
+      <result code="1">1</result>
+      <band id="1229">Brass Band Midden-Brabant</band>
+      <conductor id="311489">Benny Wiame</conductor>
+    </result>
+    
+    <result id="250882">
+      <result code="2">2</result>
+      <band id="40">Brass Band Willebroek</band>
+      <conductor id="310826">Frans Violet</conductor>
+    </result>
+    
+    <result id="250883">
+      <result code="3">3</result>
+      <band id="674">Brassband Buizingen</band>
+      <conductor id="310791">Luc Vertommen</conductor>
+    </result>
+    
+    <result id="250884">
+      <result code="4">4</result>
+      <band id="676">Kortrijk Brass Band</band>
+      <conductor id="305478">Lieven Maertens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

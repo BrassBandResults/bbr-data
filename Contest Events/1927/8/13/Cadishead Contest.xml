@@ -1,0 +1,81 @@
+<contest-event id="24011">
+  <event-date date="1927-8-13">Aug. 13, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cadishead Contest</name>
+  <contest id="2534">
+    <name>Cadishead Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cadishead-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="2743">Cadishead, Lancashire</venue>
+  <notes>
+  Prizes - 1st £15 and cup, 2nd £10, 3rd £6, 4th £2.
+  Promoted by Cadishead Public Band.
+  8 bands competed.</notes>
+
+  <created>Sept. 23, 2013, 8:31 p.m.</created>
+  <last-modified>Nov. 4, 2015, 9:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175471">
+      <result code="1">1</result>
+      <band id="1663">Irlam Silver Band</band>
+      <conductor id="302988">R. Hesford</conductor>
+    </result>
+    
+    <result id="175472">
+      <result code="2">2</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="175473">
+      <result code="3">3</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="311401">John Henry White</conductor>
+    </result>
+    
+    <result id="175474">
+      <result code="4">4</result>
+      <band id="2684">Alderley Edge</band>
+      <conductor id="301390">S. Ford</conductor>
+    </result>
+    
+    <result id="175475">
+      <result code="5">5</result>
+      <band id="1671">Stretford Band</band>
+      <conductor id="308426">James Rogerson</conductor>
+    </result>
+    
+    <result id="175477">
+      <result code="">Unknown Result</result>
+      <band id="1351">Ellenbrook &amp; Boothstown</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175478">
+      <result code="">Unknown Result</result>
+      <band id="11410">Salford Dock Mission</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175476">
+      <result code="">Unknown Result</result>
+      <band id="3582">Warrington Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

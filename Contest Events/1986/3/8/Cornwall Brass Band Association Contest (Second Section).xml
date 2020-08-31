@@ -1,0 +1,43 @@
+<contest-event id="16115">
+  <event-date date="1986-3-8">March 8, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall Brass Band Association Contest (Second Section)</name>
+  <contest id="3198">
+    <name>Cornwall BBA Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="289">A Moorside Suite</test-piece>
+  </test-piece>
+
+  <venue id="2455">Truro, Cornwall, England, UK</venue>
+  <notes>  Prizes  1st £54, 2nd £39.
+2 bands competed.</notes>
+
+  <created>Nov. 12, 2012, 3:37 p.m.</created>
+  <last-modified>April 10, 2018, 1:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="124010">
+      <result code="1">1</result>
+      <band id="299">Helston Town Band</band>
+      <conductor id="302495">Kenneth Hamlod</conductor>
+    </result>
+    
+    <result id="124011">
+      <result code="2">2</result>
+      <band id="2459">St Ives Town</band>
+      <conductor id="310471">Eric Toll</conductor>
+    </result>
+    
+  </results>
+</contest-event>

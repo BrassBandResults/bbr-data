@@ -1,0 +1,69 @@
+<contest-event id="39248">
+  <event-date date="1985-10-27">Oct. 27, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>Bands played in the same order for both selections</notes>
+
+  <created>March 6, 2018, 12:22 a.m.</created>
+  <last-modified>March 6, 2018, 12:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="285175">
+      <result code="1">1</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="303871">Peter Jackson</conductor>
+      <test-piece id="222">Variations on a Ninth</test-piece>
+    </result>
+    
+    <result id="285176">
+      <result code="2">2</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="310589">Doug Trottman</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="285177">
+      <result code="3">3</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="301194">Alex Ferguson</conductor>
+      <test-piece id="57">Connotations</test-piece>
+    </result>
+    
+    <result id="285178">
+      <result code="4">4</result>
+      <band id="1313">Footscray Yarraville City Band</band>
+      <conductor id="315755">Mike Butcher</conductor>
+    </result>
+    
+    <result id="285179">
+      <result code="5">5</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="317643">Jack Wood</conductor>
+    </result>
+    
+    <result id="285180">
+      <result code="6">6</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="299141">Merv Cavell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

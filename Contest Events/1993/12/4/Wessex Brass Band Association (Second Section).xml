@@ -1,0 +1,49 @@
+<contest-event id="31260">
+  <event-date date="1993-12-4">Dec. 4, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Second Section)</name>
+  <contest id="171">
+    <name>Wessex Brass Band Association (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="142">Vizcaya</test-piece>
+  </test-piece>
+
+  <venue id="84">Arts Centre, Poole</venue>
+  <notes>Test piece - choice of Vizcaya or Prelude to Hansel and Gretel.
+38th annual contest.</notes>
+
+  <created>March 4, 2015, 12:16 p.m.</created>
+  <last-modified>June 29, 2020, 7:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="222487">
+      <result code="1">1</result>
+      <band id="556">Marshfield Band</band>
+      <conductor id="297685">Duncan Beckley</conductor>
+    </result>
+    
+    <result id="222488">
+      <result code="2">2</result>
+      <band id="367">City of Bath</band>
+      <conductor id="307447">Mark Phillips</conductor>
+    </result>
+    
+    <result id="222489">
+      <result code="3">3</result>
+      <band id="308">Woodfalls Concert Brass</band>
+      <conductor id="298074">Ron Bligh</conductor>
+    </result>
+    
+  </results>
+</contest-event>

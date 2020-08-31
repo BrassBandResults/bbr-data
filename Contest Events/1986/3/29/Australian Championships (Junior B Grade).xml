@@ -1,0 +1,63 @@
+<contest-event id="34678">
+  <event-date date="1986-3-29">March 29, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior B Grade)</name>
+  <contest id="91">
+    <name>Australian Championships (Junior B Grade)</name>
+    <order>120</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-b-grade</slug>
+    
+    <notes>First contest in grade 1985</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="640">The Rising Generation</test-piece>
+  </test-piece>
+
+  <venue id="4637">University of Adelaide, Adelaide, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>March 19, 2016, 10:21 a.m.</created>
+  <last-modified>March 21, 2016, 2:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="250131">
+      <result code="1">1</result>
+      <band id="2266">Gunnedah Shire Junior Band</band>
+      <conductor id="307725">Stan Priestley</conductor>
+      <test-piece id="3627">Don&#39;t Cry for Me, Argentina</test-piece>
+    </result>
+    
+    <result id="250132">
+      <result code="2">2</result>
+      <band id="12292">Christian Brothers High School Lewisham</band>
+      <conductor id="303046">Bruce Hicks</conductor>
+      <test-piece id="861">Alice in Wonderland [Hanmer]</test-piece>
+    </result>
+    
+    <result id="250134">
+      <result code="3">3</result>
+      <band id="13450">City of Perth Brass Band Juniors</band>
+      <conductor id="305293">Alan Lourens</conductor>
+    </result>
+    
+    <result id="250135">
+      <result code="4">4</result>
+      <band id="13393">Busselton Schools Band</band>
+      <conductor id="304411">G. Kelly</conductor>
+    </result>
+    
+    <result id="250133">
+      <result code="5">5</result>
+      <band id="13363">Chevalier College (Bowral)</band>
+      <conductor id="299094">Tony Caruana</conductor>
+      <test-piece id="2677">March: Bandology</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

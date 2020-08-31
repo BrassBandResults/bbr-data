@@ -1,0 +1,66 @@
+<contest-event id="26632">
+  <event-date date="1951-5-5">May 5, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 4)</name>
+  <contest id="1045">
+    <name>Royal Tunbridge Wells Contest (Section 4)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-4</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1089">Country Life</test-piece>
+  </test-piece>
+
+  <venue id="3107">Assembly Hall, Tunbridge Wells</venue>
+  <notes></notes>
+
+  <created>March 12, 2014, 5:32 p.m.</created>
+  <last-modified>March 11, 2019, 10:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193014">
+      <result code="1">1</result>
+      <band id="10486">Rye Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193015">
+      <result code="2">2</result>
+      <band id="4660">Billingshurst</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193016">
+      <result code="3">3</result>
+      <band id="11420">Horsmonden British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193025">
+      <result code="">Unknown Result</result>
+      <band id="8706">Forest Row &amp; District</band>
+      <conductor id="301490">Arthur Francis</conductor>
+    </result>
+    
+    <result id="193027">
+      <result code="">Unknown Result</result>
+      <band id="10500">Northiam Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193026">
+      <result code="">Unknown Result</result>
+      <band id="4661">Warbleton &amp; Buxted Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

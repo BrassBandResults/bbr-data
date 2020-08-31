@@ -1,0 +1,58 @@
+<contest-event id="34531">
+  <event-date date="1993-4-10">April 10, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="248">Petite Suite de Ballet</test-piece>
+  </test-piece>
+
+  <venue id="331">Launceston, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>March 14, 2016, 8:48 a.m.</created>
+  <last-modified>Oct. 16, 2017, 12:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="249280">
+      <result code="1">1</result>
+      <band id="2167">Toronto Brass</band>
+      <conductor id="297746">Michael Bell</conductor>
+      <test-piece id="349">A Holiday Suite</test-piece>
+    </result>
+    
+    <result id="249281">
+      <result code="2">2</result>
+      <band id="9278">West Tamar Municipal Band</band>
+      <conductor id="300864">Brian Ellis</conductor>
+      <test-piece id="3604">Love Changes Everything</test-piece>
+    </result>
+    
+    <result id="249282">
+      <result code="3">3</result>
+      <band id="13389">Launceston City Band</band>
+      <conductor id="311345">Noel Wheeler</conductor>
+      <test-piece id="848">American Sketches</test-piece>
+    </result>
+    
+    <result id="249283">
+      <result code="4">4</result>
+      <band id="9280">Latrobe Federal Youth Band</band>
+      <conductor id="303045">Anthony Hicks</conductor>
+      <test-piece id="3437">La Storia</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

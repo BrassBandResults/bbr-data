@@ -1,0 +1,56 @@
+<contest-event id="15786">
+  <event-date date="1909-5-31">May 31, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class B)</name>
+  <contest id="2097">
+    <name>Llandovery Contest (Class B)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2201">Gustavus</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>
+
+  4 bands competed.</notes>
+
+  <created>Nov. 2, 2012, 3:11 p.m.</created>
+  <last-modified>Nov. 2, 2012, 3:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="121771">
+      <result code="1">1</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121772">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121773">
+      <result code="3">3</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121774">
+      <result code="4">4</result>
+      <band id="6968">Swansea Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

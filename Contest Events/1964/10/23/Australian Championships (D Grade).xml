@@ -1,0 +1,60 @@
+<contest-event id="35006">
+  <event-date date="1964-10-23">Oct. 23, 1964<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1758">The Ancient Mariner</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>April 7, 2016, 1:51 a.m.</created>
+  <last-modified>March 13, 2018, 9:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="252381">
+      <result code="1">1</result>
+      <band id="11221">Casterton Vice-Regal</band>
+      <conductor id="315373">L Blackett</conductor>
+    </result>
+    
+    <result id="252382">
+      <result code="2">2</result>
+      <band id="16801">Golden Square Brass</band>
+      <conductor id="315371">Gordon  Sawyer</conductor>
+    </result>
+    
+    <result id="252383">
+      <result code="3">3</result>
+      <band id="724">City of Greater Dandenong Band</band>
+      <conductor id="303083">Eddie Hill</conductor>
+    </result>
+    
+    <result id="252384">
+      <result code="4">4</result>
+      <band id="16849">St. Vincent de Paul Boys Orphanage -- South Melbourne</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+    <result id="252385">
+      <result code="W">Withdrawn</result>
+      <band id="6404">City of Bendigo Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

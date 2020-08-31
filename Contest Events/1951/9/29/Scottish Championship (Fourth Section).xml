@@ -1,0 +1,66 @@
+<contest-event id="7559">
+  <event-date date="1951-9-29">Sept. 29, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Fourth Section)</name>
+  <contest id="65">
+    <name>Scottish Championship (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1019">The Black Prince</test-piece>
+  </test-piece>
+
+  <venue id="816">Music Hall, Edinburgh</venue>
+  <notes>16 bands played.</notes>
+
+  <created>Oct. 7, 2011, 1:33 p.m.</created>
+  <last-modified>July 9, 2016, 8:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="68011">
+      <result code="1">1</result>
+      <band id="5550">Cupar Town</band>
+      <conductor id="308217">Drake Rimmer</conductor>
+    </result>
+    
+    <result id="68012">
+      <result code="2">2</result>
+      <band id="5442">Dalkeith Burgh</band>
+      <conductor id="302096">Robert Gray</conductor>
+    </result>
+    
+    <result id="68013">
+      <result code="3">3</result>
+      <band id="655">Peebles Burgh Silver</band>
+      <conductor id="296962">James Amos</conductor>
+    </result>
+    
+    <result id="68014">
+      <result code="4">4</result>
+      <band id="902">Creetown Silver Band</band>
+      <conductor id="303611">R. Hughes</conductor>
+    </result>
+    
+    <result id="258922">
+      <result code="5">5</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="297311">Albert Badrick</conductor>
+    </result>
+    
+    <result id="258933">
+      <result code="7">7</result>
+      <band id="1032">Sanquhar &amp; District Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

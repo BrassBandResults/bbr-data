@@ -1,0 +1,65 @@
+<contest-event id="25378">
+  <event-date date="1914-5-2">May 2, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stalybridge Contest</name>
+  <contest id="1210">
+    <name>Stalybridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stalybridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1921">Classic Gems</test-piece>
+  </test-piece>
+
+  <venue id="4281">Drill Hall, Stalybridge, Cheshire</venue>
+  <notes>Promoted by Stalybridge Old Band - on the occasion of its centenary
+
+20 bands competed
+
+Prizes: £12, £5, £4, £2, £1
+</notes>
+
+  <created>Nov. 30, 2013, 7:23 p.m.</created>
+  <last-modified>Nov. 30, 2013, 7:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184558">
+      <result code="1">1</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="184559">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="184560">
+      <result code="3">3</result>
+      <band id="1448">Glazebury</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="184561">
+      <result code="4">4</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="184562">
+      <result code="5">5</result>
+      <band id="1701">Beswick Prize</band>
+      <conductor id="301511">John Fraser</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="5593">
+  <event-date date="2006-4-22">April 22, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>IABCB National Band Championships (Section 1 Brass)</name>
+  <contest id="384">
+    <name>IABCB National Band Championships (Section 1 Brass)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="65">IABCB National Band Championships of Ireland </group>
+    <slug>iabcb-national-band-championships-section1</slug>
+    
+    <notes></notes>
+    <region id="24">Republic of Ireland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="114">Snowdon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="511">Dominican Convent, Griffith Avenue, Dublin</venue>
+  <notes>Drogheda won the Own Choice award playing The Plantagenets (E Gregson)</notes>
+
+  <created>April 26, 2011, 9:51 a.m.</created>
+  <last-modified>Oct. 30, 2013, 11:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="48326">
+      <result code="1">1</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="298162">John Bonner</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+    <result id="48327">
+      <result code="2">2</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305489">Michael Maher</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+    <result id="181178">
+      <result code="3">3</result>
+      <band id="1340">Lourdes Brass</band>
+      <conductor id="304413">Harry Kelly</conductor>
+      <test-piece id="220">Music for a Festival [Sparke]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

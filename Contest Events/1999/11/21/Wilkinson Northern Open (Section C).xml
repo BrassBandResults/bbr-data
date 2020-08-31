@@ -1,0 +1,48 @@
+<contest-event id="25222">
+  <event-date date="1999-11-21">Nov. 21, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wilkinson Northern Open (Section C)</name>
+  <contest id="269">
+    <name>Northern Open (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="49">Northern Open</group>
+    <slug>wilkinson-northern-open-section-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="115">Chorale and Toccata</test-piece>
+  </test-piece>
+
+  <venue id="64">Theatre Royal, St. Helens</venue>
+  <notes></notes>
+
+  <created>Nov. 21, 2013, 10:13 a.m.</created>
+  <last-modified>July 12, 2015, 6:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="201744">
+      <result code="1">1</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="300381">Charles Dickinson</conductor>
+    </result>
+    
+    <result id="231586">
+      <result code="2">2</result>
+      <band id="502">Fairfield (Buxton) Band</band>
+      <conductor id="304578">Charles Kitchen</conductor>
+    </result>
+    
+    <result id="231587">
+      <result code="3">3</result>
+      <band id="397">Hesketh Bank Band</band>
+      <conductor id="310124">Barry Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

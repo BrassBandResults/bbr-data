@@ -1,0 +1,48 @@
+<contest-event id="29892">
+  <event-date date="1988-3-5">March 5, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Championship Section)</name>
+  <contest id="3195">
+    <name>Cornwall BBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="595">Beatrice &amp; Benedict</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 25, 2014, 12:05 p.m.</created>
+  <last-modified>April 10, 2017, 8:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="212138">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="310035">Steve Sykes</conductor>
+    </result>
+    
+    <result id="212139">
+      <result code="2">2</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="296783">Leonard Adams</conductor>
+    </result>
+    
+    <result id="212140">
+      <result code="3">3</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="297079">Seth Appleton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="21167">
+  <event-date date="1973-6-3">June 3, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Anglesey Eisteddfod (Class A)</name>
+  <contest id="3686">
+    <name>Anglesey Eisteddfod</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="423">Anglesey Eisteddfod</group>
+    <slug>anglesey-eisteddfod</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1069">English Country Scenes</test-piece>
+  </test-piece>
+
+  <venue id="2141">Holyhead, Isle of Anglesey, Wales, UK</venue>
+  <notes>Feedback suggests that Trefor may have been 2nd instead of 3rd. Do you have more info?
+
+  Best trombone - Rhyl.
+  Best cornet - Colwyn.
+  Best euphonium - David Williams (Trefor).
+  Best horn - Talfan Williams (Trefor).
+
+5 bands played.</notes>
+
+  <created>May 8, 2013, 8:25 a.m.</created>
+  <last-modified>Dec. 22, 2015, 11:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="156381">
+      <result code="1">1</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156382">
+      <result code="2">2</result>
+      <band id="2548">Colwyn Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156383">
+      <result code="3">3</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="16480">
+  <event-date date="1987-5-3">May 3, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class A</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1639">Three Haworth Impressions</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes></notes>
+
+  <created>Nov. 27, 2012, 3:40 p.m.</created>
+  <last-modified>Nov. 27, 2012, 3:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="126958">
+      <result code="1">1</result>
+      <band id="615">Waterbeach Brass</band>
+      <conductor id="301209">D. J. Few</conductor>
+    </result>
+    
+    <result id="126959">
+      <result code="2">2</result>
+      <band id="2112">Castleton Brass [Suffolk]</band>
+      <conductor id="304209">Gareth Jones</conductor>
+    </result>
+    
+    <result id="126960">
+      <result code="3">3</result>
+      <band id="840">Dereham Band</band>
+      <conductor id="301946">Alistair Goodall</conductor>
+    </result>
+    
+    <result id="126961">
+      <result code="4">4</result>
+      <band id="3507">Long Melford</band>
+      <conductor id="302143">R. Green</conductor>
+    </result>
+    
+  </results>
+</contest-event>

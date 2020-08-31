@@ -1,0 +1,82 @@
+<contest-event id="4999">
+  <event-date date="1995-9-3">Sept. 3, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fife Charities Band Association Contest</name>
+  <contest id="200">
+    <name>Fife Charities Band Association Contest</name>
+    <order>1</order>
+    <contest-type id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type>
+    <group id="495">Fife Charities Band Association Contest</group>
+    <slug>fife-charities-band-association-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1">Adam Smith Theatre, Kirkcaldy, Fife, Scotland, UK</venue>
+  <notes>Open Contest Champions: Cowdenbeath
+FCBA &#39;A Band&#39; Champions: Cowdenbeath
+FCBA &#39;B Band&#39; Champions: Dunfermline Town
+
+March: Longannet Colliery (Cowdenbeath).
+Hymn-tune: Kelty and Blairadam.
+Best Section 2 band: Longannet Colliery (Cowdenbeath).
+Best Section 3 band: Campbeltown Brass (G. Evans).
+Best Section 4 band: West Calder District (H. Foster).
+Best cornet player: Morvern Gilchrist (Campbeltown Brass).
+Best trombone player: David Cook (Longannet Colliery).
+Best horn: Shona Spence (Tullis Russell).
+Best euphonium: Steve Boyce (Kelty and Blairadam).
+Best basses: Longannet Colliery.
+Special permanent awards were made to both Longannet Colliery (Cowdenbeath) and Campbeltown Brass.</notes>
+
+  <created>March 21, 2011, 10:52 p.m.</created>
+  <last-modified>March 23, 2015, 2:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="43774">
+      <result code="1">1</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="312088">Thomas Wyss</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+    <result id="43775">
+      <result code="2">2</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="300590">Richard Duff</conductor>
+    </result>
+    
+    <result id="43776">
+      <result code="3">3</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="300199">Benny Davis</conductor>
+    </result>
+    
+    <result id="73267">
+      <result code="">Unknown Result</result>
+      <band id="324">Campbeltown Brass</band>
+      <conductor id="300992">Gordon Evans</conductor>
+    </result>
+    
+    <result id="73265">
+      <result code="">Unknown Result</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="305461">Carlo Madden</conductor>
+      <test-piece id="169">Triptych [Sparke]</test-piece>
+    </result>
+    
+    <result id="73268">
+      <result code="">Unknown Result</result>
+      <band id="1240">West Calder Public Band</band>
+      <conductor id="301425">Hugh Foster</conductor>
+    </result>
+    
+  </results>
+</contest-event>

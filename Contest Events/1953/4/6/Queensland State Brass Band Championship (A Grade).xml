@@ -1,0 +1,56 @@
+<contest-event id="40392">
+  <event-date date="1953-4-6">April 6, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="518">A Downland Suite</test-piece>
+  </test-piece>
+
+  <venue id="6894">Rockhampton Showground, Queensland, Australia</venue>
+  <notes>CHAMPIONSHIP CERTIFICATE ; All music items except Diagram March
+Street March music points listed under Stage March</notes>
+
+  <created>Sept. 25, 2018, 5:43 a.m.</created>
+  <last-modified>April 2, 2019, 2:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293846">
+      <result code="1">1</result>
+      <band id="6434">Maryborough Brass [Queensland]</band>
+      <conductor id="304416">James Kelly</conductor>
+      <test-piece id="43">An Epic Symphony</test-piece>
+    </result>
+    
+    <result id="293847">
+      <result code="2">2</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="297631">Les Baxter</conductor>
+    </result>
+    
+    <result id="293849">
+      <result code="3">3</result>
+      <band id="9363">Mount Isa Silver Band</band>
+      <conductor id="302087">Lou Gray</conductor>
+    </result>
+    
+    <result id="293848">
+      <result code="4">4</result>
+      <band id="12940">Brisbane City Waterside Workers</band>
+      <conductor id="318328">Harry Perkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

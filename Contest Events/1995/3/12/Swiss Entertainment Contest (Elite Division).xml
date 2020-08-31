@@ -1,0 +1,54 @@
+<contest-event id="14818">
+  <event-date date="1995-3-12">March 12, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss Entertainment Contest (Elite Division)</name>
+  <contest id="890">
+    <name>Swiss Entertainment Contest (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="149">Swiss Entertainment Contest</group>
+    <slug>swiss-entertainment-contest-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2086">Swingin&#39; Latin Brass</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes></notes>
+
+  <created>Sept. 22, 2012, 3:48 p.m.</created>
+  <last-modified>March 17, 2015, 12:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="115995">
+      <result code="1">1</result>
+      <band id="772">De Bazuin Oenkerk</band>
+      <conductor id="312216">Klaas van der Woude</conductor>
+    </result>
+    
+    <result id="223320">
+      <result code="2">2</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="299278">Rino Chiappori</conductor>
+    </result>
+    
+    <result id="223321">
+      <result code="3">3</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+    <result id="223322">
+      <result code="4">4</result>
+      <band id="56">Brass Band Berner Oberland</band>
+      <conductor id="301997">James Gourlay</conductor>
+    </result>
+    
+  </results>
+</contest-event>

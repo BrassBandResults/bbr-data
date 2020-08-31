@@ -1,0 +1,64 @@
+<contest-event id="10547">
+  <event-date date="1986-4-19">April 19, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Championship Section)</name>
+  <contest id="161">
+    <name>North American Championships (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-championship-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="51">Ballet for Band</test-piece>
+  </test-piece>
+
+  <venue id="1493">Hilbert Circle Theatre, Indianapolis, Indiana, USA</venue>
+  <notes>Set testpiece played as part of concert programme
+
+Outstanding Soloist: Fred Cherny, euphonium, Mississippi River Brass Band </notes>
+
+  <created>Feb. 21, 2012, 5:14 p.m.</created>
+  <last-modified>Feb. 22, 2012, 11:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="88578">
+      <result code="1">1</result>
+      <band id="4218">Brass Band of Columbus</band>
+      <conductor id="300568">Paul Droste</conductor>
+      <test-piece id="1736">Russlan and Ludmilla</test-piece>
+    </result>
+    
+    <result id="88579">
+      <result code="2">2</result>
+      <band id="6971">Mississippi River Brass Band</band>
+      <conductor id="307616">Pam Potter</conductor>
+    </result>
+    
+    <result id="88580">
+      <result code="3">3</result>
+      <band id="6973">Bloomington Brass Band</band>
+      <conductor id="307480">David Pickett</conductor>
+      <test-piece id="574">The Force of Destiny (La Forza del Destino) - Overture [arr. F. Wright]</test-piece>
+    </result>
+    
+    <result id="88581">
+      <result code="4">4</result>
+      <band id="6974">Evanston Brass Band</band>
+      <conductor id="305303">Don Lovejoy</conductor>
+    </result>
+    
+    <result id="88582">
+      <result code="5">5</result>
+      <band id="1003">Atlantic Brass Band</band>
+      <conductor id="306066">Owen Metcalf</conductor>
+    </result>
+    
+  </results>
+</contest-event>

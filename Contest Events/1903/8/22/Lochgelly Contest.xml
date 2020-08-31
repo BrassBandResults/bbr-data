@@ -1,0 +1,103 @@
+<contest-event id="23261">
+  <event-date date="1903-8-22">Aug. 22, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lochgelly Contest</name>
+  <contest id="2609">
+    <name>Lochgelly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lochgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3899">Minto Policies, Lochgelly, Fife, Scotland, UK</venue>
+  <notes>Promoted by Lochgelly Temperance Band
+Prizes: £12, £8, £5, £3, £2.
+9 bands competed
+
+</notes>
+
+  <created>Aug. 24, 2013, 4:46 p.m.</created>
+  <last-modified>Aug. 15, 2018, 10:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171013">
+      <result code="1">1</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="299019">James Carmichael</conductor>
+      <test-piece id="2582">Songs of Shakespeare</test-piece>
+    </result>
+    
+    <result id="171018">
+      <result code="2">2</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="299019">James Carmichael</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="171017">
+      <result code="3">3</result>
+      <band id="5232">Blackbraes</band>
+      <conductor id="309343">D. E. Smith</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="171021">
+      <result code="4">4</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+      <test-piece id="2582">Songs of Shakespeare</test-piece>
+    </result>
+    
+    <result id="171015">
+      <result code="4">4</result>
+      <band id="5496">Methil Town</band>
+      <conductor id="299019">James Carmichael</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="171020">
+      <result code="">Unknown Result</result>
+      <band id="4978">Kinnaird Instrumental Band</band>
+      <conductor id="306027">Frank Mellor</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="171016">
+      <result code="">Unknown Result</result>
+      <band id="1996">Wright Memorial</band>
+      <conductor id="312034">Charlie Wright</conductor>
+      <test-piece id="2582">Songs of Shakespeare</test-piece>
+    </result>
+    
+    <result id="171019">
+      <result code="">Unknown Result</result>
+      <band id="5497">Coaltown of Wemyss</band>
+      <conductor id="317518">Arthur. J Arnott</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="171012">
+      <result code="">Unknown Result</result>
+      <band id="4981">Crofthead Brass Band</band>
+      <conductor id="307270">George Peacock</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="171014">
+      <result code="W">Withdrawn</result>
+      <band id="5481">Leven Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

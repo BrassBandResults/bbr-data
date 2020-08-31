@@ -1,0 +1,60 @@
+<contest-event id="40142">
+  <event-date date="1930-4-21">April 21, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5610">No.1    Acis &amp; Galatea  /  No.2   Merry Wives of Windsor</test-piece>
+  </test-piece>
+
+  <venue id="6894">Rockhampton Showground, Queensland, Australia</venue>
+  <notes>Two Test Selections.
+No.2  Test points listed under Own Choice
+
+Compulsory Disciplines 
+Hymn   (Own Choice)
+Operatic Selection  (Own Choice)
+Oval March  Test   &quot; Invicta&quot;</notes>
+
+  <created>Aug. 12, 2018, 10:50 p.m.</created>
+  <last-modified>Feb. 8, 2019, 4:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291774">
+      <result code="1">1</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="318232">Bill Ryder   Snr</conductor>
+    </result>
+    
+    <result id="291775">
+      <result code="2">2</result>
+      <band id="14074">Ipswich Railways</band>
+      <conductor id="309101">Harry Shugg</conductor>
+    </result>
+    
+    <result id="291776">
+      <result code="3">3</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="299893">Len Crew</conductor>
+    </result>
+    
+    <result id="291777">
+      <result code="4">4</result>
+      <band id="6431">Maryborough Federal [Queensland]</band>
+      <conductor id="318202">Sam Whittaker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

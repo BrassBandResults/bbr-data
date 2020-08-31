@@ -1,0 +1,60 @@
+<contest-event id="6355">
+  <event-date date="2005-12-2">Dec. 2, 2005<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Second Division)</name>
+  <contest id="280">
+    <name>Dutch Nationals (Second Division)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-second-division</slug>
+    
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1141">Elegy I: Jealousy</test-piece>
+  </test-piece>
+
+  <venue id="110">Martiniplaza, Groningen, Groningen Province, Netherlands</venue>
+  <notes></notes>
+
+  <created>June 7, 2011, 8:07 a.m.</created>
+  <last-modified>May 28, 2012, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="56248">
+      <result code="1">1</result>
+      <band id="1336">Brass Band De Lofklank</band>
+      <conductor id="303233">Siemen Hoekstra</conductor>
+    </result>
+    
+    <result id="107573">
+      <result code="2">2</result>
+      <band id="1017">Brassband Schoonhoven B</band>
+      <conductor id="300564">Gerhart Drijvers</conductor>
+    </result>
+    
+    <result id="107574">
+      <result code="3">3</result>
+      <band id="1332">Brass Band Excelsior Ferwert</band>
+      <conductor id="310828">Piet Visser</conductor>
+    </result>
+    
+    <result id="107575">
+      <result code="4">4</result>
+      <band id="1569">Brass Band Pro Rege A</band>
+      <conductor id="306991">Thijs Oud</conductor>
+    </result>
+    
+    <result id="107576">
+      <result code="5">5</result>
+      <band id="1335">Brass Band Excelsior Veenwoudsterwal</band>
+      <conductor id="312206">Piet van der Heide</conductor>
+    </result>
+    
+  </results>
+</contest-event>

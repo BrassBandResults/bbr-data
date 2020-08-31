@@ -1,0 +1,49 @@
+<contest-event id="21626">
+  <event-date date="1968-11-23">Nov. 23, 1968<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wiltshire and Neighbouring Guilds Contest (Open Championship Section)</name>
+  <contest id="4082">
+    <name>Wiltshire and Neighbouring Guilds Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="404">Wiltshire and Neighbouring Guilds Contest</group>
+    <slug>wiltshire-and-neighbouring-guilds-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="607">Rococo Variations on a Theme of Tchaikovsky [Street]</test-piece>
+  </test-piece>
+
+  <venue id="3476">Mechanics Institute (Playhouse Theatre), Swindon, Wiltshire, England, UK</venue>
+  <notes>Hymn:
+1 Aldbourne, 90</notes>
+
+  <created>May 24, 2013, 9:10 p.m.</created>
+  <last-modified>May 24, 2013, 9:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="158705">
+      <result code="1">1</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="158703">
+      <result code="2">2</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="158704">
+      <result code="3">3</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

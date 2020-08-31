@@ -1,0 +1,98 @@
+<contest-event id="7628">
+  <event-date date="1955-10-1">Oct. 1, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="899">Normandy</test-piece>
+  </test-piece>
+
+  <venue id="1513">Town Hall, Coatbridge, Lanarkshire</venue>
+  <notes>11 bands played.
+ Hymn tune contest - 1st Croy Parish(90), 2nd Airdrie(88), 3rd Alloa Colliery(87)
+ Deportment - 1st Turriff B.L., 2nd Lochgelly, 3rd New Cumnock.</notes>
+
+  <created>Oct. 7, 2011, 6:19 p.m.</created>
+  <last-modified>March 8, 2014, 11:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="68603">
+      <result code="1">1</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="297311">Albert Badrick</conductor>
+    </result>
+    
+    <result id="68604">
+      <result code="2">2</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="298328">H. Brace</conductor>
+    </result>
+    
+    <result id="68605">
+      <result code="3">3</result>
+      <band id="1278">Monklands Youth Concert Brass</band>
+      <conductor id="311043">John Wardlaw</conductor>
+    </result>
+    
+    <result id="68606">
+      <result code="4">4</result>
+      <band id="646">Croy Silver Band</band>
+      <conductor id="300439">H. Docherty</conductor>
+    </result>
+    
+    <result id="192285">
+      <result code="">Unknown Result</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="301399">James Forrest</conductor>
+    </result>
+    
+    <result id="150074">
+      <result code="">Unknown Result</result>
+      <band id="654">Turriff Silver Band</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="192286">
+      <result code="">Unknown Result</result>
+      <band id="657">Penicuik Silver</band>
+      <conductor id="300782">L. Edwards</conductor>
+    </result>
+    
+    <result id="150075">
+      <result code="">Unknown Result</result>
+      <band id="5009">New Cumnock</band>
+      <conductor id="299582">James Connell</conductor>
+    </result>
+    
+    <result id="150077">
+      <result code="">Unknown Result</result>
+      <band id="5004">Alloa Colliery</band>
+      <conductor id="310210">Charles Telfer</conductor>
+    </result>
+    
+    <result id="192287">
+      <result code="">Unknown Result</result>
+      <band id="5453">Winchburgh Public</band>
+      <conductor id="307748">Richard Pritchard</conductor>
+    </result>
+    
+    <result id="192284">
+      <result code="">Unknown Result</result>
+      <band id="1226">Broxburn Silver</band>
+      <conductor id="299591">T. Connolly</conductor>
+    </result>
+    
+  </results>
+</contest-event>

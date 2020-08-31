@@ -1,0 +1,57 @@
+<contest-event id="42771">
+  <event-date date="1975-8-10">Aug. 10, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+  <contest id="3040">
+    <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+    <order>50</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-junior-a-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="6133">A  Wealden Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="6487">Princess Theatre, Launceston, Tasmania, Australia</venue>
+  <notes>Bands also required to play a popular number (not included in championship)</notes>
+
+  <created>Nov. 3, 2019, 11:43 p.m.</created>
+  <last-modified>Dec. 4, 2019, 11:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313342">
+      <result code="1">1</result>
+      <band id="13527">Return Soldiers Memorial Juniors ( Tas )</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+      <test-piece id="3842">New World Symphony </test-piece>
+    </result>
+    
+    <result id="313343">
+      <result code="2">2</result>
+      <band id="13488">Tasmanian Youth Brass</band>
+      <conductor id="319717">Dudley Madden</conductor>
+      <test-piece id="1185">Neapolitan Suite</test-piece>
+    </result>
+    
+    <result id="313344">
+      <result code="3">3</result>
+      <band id="13323">City of Burnie Brass Junior</band>
+      <conductor id="308041">Trevor Reid</conductor>
+      <test-piece id="6134">Symphonic Concertina</test-piece>
+    </result>
+    
+    <result id="313345">
+      <result code="W">Withdrawn</result>
+      <band id="18313">Northern Suburbs Silver Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

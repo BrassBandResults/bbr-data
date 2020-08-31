@@ -1,0 +1,74 @@
+<contest-event id="21811">
+  <event-date date="1903-6-2">June 2, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest</name>
+  <contest id="1399">
+    <name>Chepstow Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1326">Le Domino Noir [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3784">Castle Grounds, Chepstow, Monmouthshire</venue>
+  <notes>  Prizes - 1st £15 and cup, 2nd £10, 3rd £5.
+March contest - 1st(£1) Prince&#39;s End, 2nd(10s.) Northfield.
+  6 bands competed.</notes>
+
+  <created>June 12, 2013, 4:29 p.m.</created>
+  <last-modified>July 24, 2016, 9:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162079">
+      <result code="1">1</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="162080">
+      <result code="2">2</result>
+      <band id="5989">Willenhall Britannia Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="162081">
+      <result code="3">3</result>
+      <band id="4429">Coseley</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="162082">
+      <result code="4">4</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="162083">
+      <result code="5">5</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="307185">J. Partington</conductor>
+    </result>
+    
+    <result id="162084">
+      <result code="6">6</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="162138">
+      <result code="W">Withdrawn</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

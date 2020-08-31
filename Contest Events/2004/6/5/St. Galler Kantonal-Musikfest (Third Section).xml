@@ -1,0 +1,73 @@
+<contest-event id="14844">
+  <event-date date="2004-6-5">June 5, 2004<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Galler Kantonal-Musikfest (Third Section)</name>
+  <contest id="3084">
+    <name>St. Galler Kantonal-Musikfest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="293">St. Galler Kantonal-Musikfest</group>
+    <slug>st-galler-kantonal-musikfest-third-section</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2096">Countryside and Common People</test-piece>
+  </test-piece>
+
+  <venue id="2388">Turnhalle Uzwil, SG, Switzerland</venue>
+  <notes>Guest-Bands ranked sep.</notes>
+
+  <created>Sept. 24, 2012, 10:24 a.m.</created>
+  <last-modified>Sept. 15, 2015, 2:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="236450">
+      <result code="1">1</result>
+      <band id="9454">MG Hergiswil am Napf</band>
+      <conductor id="310241">Patrick Theiler</conductor>
+    </result>
+    
+    <result id="116246">
+      <result code="1">1</result>
+      <band id="9463">Musikgesellschaft Eggersriet</band>
+      <conductor id="308678">Peter Salvisberg</conductor>
+    </result>
+    
+    <result id="236451">
+      <result code="2">2</result>
+      <band id="12109">Jugendmusik Rehetobel</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="116249">
+      <result code="2">2</result>
+      <band id="9465">Musikgesellschaft Zuckenriet</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="116247">
+      <result code="3">3</result>
+      <band id="8858">Musikgesellschaft Grub (SG)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="236452">
+      <result code="3">3</result>
+      <band id="8866">Musikgesellschaft Menzberg</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="116248">
+      <result code="4">4</result>
+      <band id="9464">Musikgesellschaft Niederhelfenschwil</band>
+      <conductor id="305481">Daniel Maggi</conductor>
+      <test-piece id="477">Bel-Air</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

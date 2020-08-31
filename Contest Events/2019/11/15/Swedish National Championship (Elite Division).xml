@@ -1,0 +1,64 @@
+<contest-event id="42738">
+  <event-date date="2019-11-15">Nov. 15, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (Elite Division)</name>
+  <contest id="851">
+    <name>Swedish National Championship (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-elite-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="9">Elite</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="33">Salute to Youth</test-piece>
+  </test-piece>
+
+  <venue id="4625">Arken, Värnamo, Småland, Sweden</venue>
+  <notes>Set Work, Friday - Adjudicators: Arvid Anthun, Grethe W. Tonheim, Anne Crookston
+Own Choice, Saturday - Adjudicators: Ray Farr, Grethe W. Tonheim, Anne Crookston
+
+Best Section: Horns - Windcorp Brass Band
+Instrumentalist Prize: Mikkel Amsinck, Cornet - Göta Brass Band
+Honours Prize (Conductor): John Philip Hannevik - Windcorp Brass Band
+</notes>
+
+  <created>Oct. 28, 2019, 10:52 a.m.</created>
+  <last-modified>March 23, 2020, 3:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313068">
+      <result code="1">1</result>
+      <band id="12806">Göta Brass Band</band>
+      <conductor id="310358">Michael Thomsen</conductor>
+      <test-piece id="3175">Journey of the Lone Wolf</test-piece>
+    </result>
+    
+    <result id="313070">
+      <result code="2">2</result>
+      <band id="1934">Windcorp Brass Band</band>
+      <conductor id="302536">John Philip Hannevik</conductor>
+      <test-piece id="298">A London Overture</test-piece>
+    </result>
+    
+    <result id="313069">
+      <result code="3">3</result>
+      <band id="1208">Solna Brass</band>
+      <conductor id="298004">Emil Björklund</conductor>
+      <test-piece id="327">Stonehenge</test-piece>
+    </result>
+    
+    <result id="313071">
+      <result code="4">4</result>
+      <band id="2264">Betlehemskyrkans Musikkår</band>
+      <conductor id="301899">David Glänneskog</conductor>
+      <test-piece id="12">Paganini Variations</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

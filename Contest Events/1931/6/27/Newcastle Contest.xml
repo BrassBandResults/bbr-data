@@ -1,0 +1,78 @@
+<contest-event id="15270">
+  <event-date date="1931-6-27">June 27, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Contest</name>
+  <contest id="1046">
+    <name>Newcastle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="160">Newcastle upon Tyne Contest</group>
+    <slug>newcastle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2869">La Favorita</test-piece>
+  </test-piece>
+
+  <venue id="1035">Cricket Field, Bath Road, Newcastle</venue>
+  <notes>14 bands competed
+
+  Prizes  1st £20 and cup, 2nd £14 and shield, 3rd £8, 4th  £5, 5th £2.
+
+  March contest 1st (£2) Hetton Silver, 2nd(£1) Brancepeth.
+
+Deportment: 1. St Hilda, 2. Hetton
+
+  Best trombone and euphonium - Wallsend,  best cornet and horn - Brancepeth.
+
+  Sponsored by Newcastle Evening Chronicle.
+
+  Source  The Musical Progress and Mail  August 1931.</notes>
+
+  <created>Oct. 12, 2012, 4:22 p.m.</created>
+  <last-modified>Dec. 12, 2018, 8:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118510">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="118511">
+      <result code="2">2</result>
+      <band id="5818">Wallsend Borough Band</band>
+      <conductor id="298123">Jack Boddice</conductor>
+    </result>
+    
+    <result id="118512">
+      <result code="3">3</result>
+      <band id="6746">Urpeth Colliery</band>
+      <conductor id="312134">J. Young</conductor>
+    </result>
+    
+    <result id="118513">
+      <result code="4">4</result>
+      <band id="3606">Middlesbrough Borough</band>
+      <conductor id="311770">James Wilson Jnr</conductor>
+    </result>
+    
+    <result id="118514">
+      <result code="5">5</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="188184">
+      <result code="">Unknown Result</result>
+      <band id="11790">St Hilda Colliery (New)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

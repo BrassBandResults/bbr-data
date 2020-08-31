@@ -1,0 +1,64 @@
+<contest-event id="34532">
+  <event-date date="1993-4-10">April 10, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="633">Celebration [Ball]</test-piece>
+  </test-piece>
+
+  <venue id="331">Launceston, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>March 14, 2016, 9:09 a.m.</created>
+  <last-modified>June 19, 2017, 12:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="249284">
+      <result code="1">1</result>
+      <band id="16206">Marist Brass Band</band>
+      <conductor id="305962">Brian McMennemin</conductor>
+      <test-piece id="293">Oceans</test-piece>
+    </result>
+    
+    <result id="249285">
+      <result code="2">2</result>
+      <band id="727">Eaglehawk Citizens Band</band>
+      <conductor id="311971">Walter Woods</conductor>
+      <test-piece id="220">Music for a Festival [Sparke]</test-piece>
+    </result>
+    
+    <result id="249286">
+      <result code="3">3</result>
+      <band id="2291">City of Burnie Brass</band>
+      <conductor id="297826">Robert Bentley</conductor>
+      <test-piece id="130">Partita [Gregson]</test-piece>
+    </result>
+    
+    <result id="249287">
+      <result code="4">4</result>
+      <band id="9277">Launceston Railway Silver Band</band>
+      <conductor id="308731">Mark Saunders</conductor>
+      <test-piece id="2036">Via Stellaris</test-piece>
+    </result>
+    
+    <result id="249288">
+      <result code="W">Withdrawn</result>
+      <band id="745">Newcastle PCYC Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

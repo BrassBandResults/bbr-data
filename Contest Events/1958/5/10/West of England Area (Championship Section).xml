@@ -1,0 +1,72 @@
+<contest-event id="3536">
+  <event-date date="1958-5-10">May 10, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Championship Section)</name>
+  <contest id="38">
+    <name>West of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="138">The Moor of Venice</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Jan. 16, 2011, 3:45 p.m.</created>
+  <last-modified>Aug. 25, 2013, 7:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="33035">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="308279">Fred Roberts</conductor>
+    </result>
+    
+    <result id="44324">
+      <result code="2">2</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+    <result id="169601">
+      <result code="3">3</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="301358">E. Floyd</conductor>
+    </result>
+    
+    <result id="169602">
+      <result code="">Unknown Result</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="305176">Alwyn Lloyd</conductor>
+    </result>
+    
+    <result id="169600">
+      <result code="">Unknown Result</result>
+      <band id="8342">City of Gloucester Band</band>
+      <conductor id="312381">George Beckingham</conductor>
+    </result>
+    
+    <result id="169599">
+      <result code="">Unknown Result</result>
+      <band id="3976">City of Southampton (Albion) Band</band>
+      <conductor id="310609">F. Tucker</conductor>
+    </result>
+    
+    <result id="169603">
+      <result code="">Unknown Result</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="20186">
+  <event-date date="1955-9-10">Sept. 10, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Camborne Contest (Second Section)</name>
+  <contest id="1008">
+    <name>Camborne Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="159">Camborne Contest</group>
+    <slug>camborne-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3418">Rosewarne House, Camborne, Cornwall</venue>
+  <notes>
+  March contest(March of the Peers) - 1st Mount Charles, 2nd St Agnes, 3rd Truro.
+  Hymn tune contest - 1st St Agnes, joint 2nd Mount Charles and Truro.
+</notes>
+
+  <created>March 31, 2013, 9:13 p.m.</created>
+  <last-modified>April 24, 2019, 11:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="150021">
+      <result code="1">1</result>
+      <band id="4496">Truro City</band>
+      <conductor id="310202">A. Teasdale</conductor>
+    </result>
+    
+    <result id="150022">
+      <result code="2">2</result>
+      <band id="4013">St. Agnes Silver Band</band>
+      <conductor id="306278">Frank Moore</conductor>
+    </result>
+    
+    <result id="150023">
+      <result code="3">3</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="299697">T. A. Cooper</conductor>
+    </result>
+    
+  </results>
+</contest-event>

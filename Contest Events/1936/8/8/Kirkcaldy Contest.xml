@@ -1,0 +1,74 @@
+<contest-event id="25080">
+  <event-date date="1936-8-8">Aug. 8, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkcaldy Contest</name>
+  <contest id="1019">
+    <name>Kirkcaldy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkcaldy-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="582">Raith Park, Kirkcaldy, Fife, Scotland, UK</venue>
+  <notes>  March contest - 1st Tullis Russell, 2nd Bathgate.
+  Hymn tune contest - 1st Tullis Russell, 2nd Wellesley Colliery.
+  9 bands competed.</notes>
+
+  <created>Nov. 13, 2013, 1:40 p.m.</created>
+  <last-modified>Jan. 23, 2014, 4:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182668">
+      <result code="1">1</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="307331">William Pegg</conductor>
+    </result>
+    
+    <result id="182669">
+      <result code="2">2</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="182670">
+      <result code="3">3</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="302047">Gregor Grant</conductor>
+    </result>
+    
+    <result id="182671">
+      <result code="4">4</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="304900">William Laycock</conductor>
+    </result>
+    
+    <result id="182672">
+      <result code="5">5</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="302391">John Haldane</conductor>
+    </result>
+    
+    <result id="182673">
+      <result code="">Unknown Result</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246302">
+      <result code="">Unknown Result</result>
+      <band id="5476">Burntisland Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

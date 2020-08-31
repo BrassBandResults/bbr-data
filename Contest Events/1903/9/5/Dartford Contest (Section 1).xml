@@ -1,0 +1,62 @@
+<contest-event id="21997">
+  <event-date date="1903-9-5">Sept. 5, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dartford Contest (Section 1)</name>
+  <contest id="1909">
+    <name>Dartford Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="216">Dartford Contest</group>
+    <slug>dartford-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="1349">Dartford, Kent, England, UK</venue>
+  <notes>  Prizes  -  1st £6 and trombone, 2nd £4 and cup, 3rd 2 and silver biscuit bowl, 4th £1.
+  Contest promoted by Dartford Volunteer Band.
+  5 bands competed.</notes>
+
+  <created>June 21, 2013, 9:24 a.m.</created>
+  <last-modified>Aug. 9, 2016, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163170">
+      <result code="1">1</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="163171">
+      <result code="2">2</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="302079">F. B. Gray</conductor>
+    </result>
+    
+    <result id="163172">
+      <result code="3">3</result>
+      <band id="4801">Lewisham</band>
+      <conductor id="302395">W. G. Hales</conductor>
+    </result>
+    
+    <result id="163173">
+      <result code="4">4</result>
+      <band id="8344">Bexley Heath Brass</band>
+      <conductor id="302395">W. G. Hales</conductor>
+    </result>
+    
+    <result id="163174">
+      <result code="5">5</result>
+      <band id="610">Crystal Palace Band</band>
+      <conductor id="301916">Herbert Godfrey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,36 @@
+<contest-event id="14388">
+  <event-date date="1973-1-1">Jan. 1, 1973<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2050">Rondo für Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="3654">Crissier, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2012, 9:13 a.m.</created>
+  <last-modified>Nov. 19, 2014, 10:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114634">
+      <result code="1">1</result>
+      <band id="8790">Brass Band Allianzmusik Basel</band>
+      <conductor id="296804">Daniel Aegerter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

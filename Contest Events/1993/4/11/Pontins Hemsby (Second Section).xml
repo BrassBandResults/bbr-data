@@ -1,0 +1,79 @@
+<contest-event id="11001">
+  <event-date date="1993-4-11">April 11, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins Hemsby (Second Section)</name>
+  <contest id="735">
+    <name>Pontins Hemsby (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="103">Pontins (Hemsby) - Qualifiers</group>
+    <slug>pontins-hemsby-second-section</slug>
+    <qualifies-for id="71">Pontins (Second Section)</qualifies-for>
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="780">Sinfonietta for Brass Band [Leidzen]</test-piece>
+  </test-piece>
+
+  <venue id="4588">Hemsby Holiday Centre (Ballroom), Norfolk</venue>
+  <notes>1st prize: £500, Challenge Cup, Pontin&#39;s Certificate, £250 Pontin&#39;s Holiday Voucher.
+2nd prize: £350, Pontin&#39;s Certificate, £150 Pontin&#39;s Holiday Voucher.
+3rd prize: £250, Pontin&#39;s Certificate, £100 Pontin&#39;s Holiday Voucher.
+
+Draw 1 pm, commence 2 pm.
+
+Three bands to qualify for the finals.
+</notes>
+
+  <created>March 10, 2012, 7:46 p.m.</created>
+  <last-modified>March 27, 2020, 1:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="316655">
+      <result code="1">1</result>
+      <band id="855">Darley Dale Band</band>
+      <conductor id="311527">Mark Wilcockson</conductor>
+    </result>
+    
+    <result id="194722">
+      <result code="2">2</result>
+      <band id="842">Castle Point Brass</band>
+      <conductor id="309011">Graham Sheldon</conductor>
+    </result>
+    
+    <result id="194721">
+      <result code="3">3</result>
+      <band id="508">Bestwood Welfare Black Diamonds Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194720">
+      <result code="4">4</result>
+      <band id="1491">Barlestone Victoria</band>
+      <conductor id="310470">Colin Toghill</conductor>
+    </result>
+    
+    <result id="194725">
+      <result code="W">Withdrawn</result>
+      <band id="2112">Castleton Brass [Suffolk]</band>
+      <conductor id="306825">David Notley</conductor>
+    </result>
+    
+    <result id="194724">
+      <result code="W">Withdrawn</result>
+      <band id="824">Fulwell Band</band>
+      <conductor id="309892">Michael Stroud</conductor>
+    </result>
+    
+    <result id="194726">
+      <result code="W">Withdrawn</result>
+      <band id="128">South Yorkshire Police Band</band>
+      <conductor id="303166">David Hirst</conductor>
+    </result>
+    
+  </results>
+</contest-event>

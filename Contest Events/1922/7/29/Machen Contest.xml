@@ -1,0 +1,49 @@
+<contest-event id="23325">
+  <event-date date="1922-7-29">July 29, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Machen Contest</name>
+  <contest id="1868">
+    <name>Machen Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="322">Machen Contest</group>
+    <slug>machen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1312">Machen, Caerphilly, Wales, UK</venue>
+  <notes>
+  March contest - 1st Treharris, 2nd Great Western Colliery.</notes>
+
+  <created>Aug. 31, 2013, 7:42 a.m.</created>
+  <last-modified>Aug. 31, 2013, 7:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171439">
+      <result code="1">1</result>
+      <band id="8031">Treharris</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="171440">
+      <result code="2">2</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="171441">
+      <result code="3">3</result>
+      <band id="358">Cross Keys Silver Band</band>
+      <conductor id="307763">Thomas Proctor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

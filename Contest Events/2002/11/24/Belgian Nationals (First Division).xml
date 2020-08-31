@@ -1,0 +1,49 @@
+<contest-event id="928">
+  <event-date date="2002-11-24">Nov. 24, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="329">Rhapsody for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>Oct. 5, 2009, 3:20 p.m.</created>
+  <last-modified>Oct. 6, 2009, 9:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="10383">
+      <result code="1">1</result>
+      <band id="679">Brass Band Leieland</band>
+      <conductor id="297722">Wim Belaen</conductor>
+      <test-piece id="326">Sinfonietta - The Dawning</test-piece>
+    </result>
+    
+    <result id="10384">
+      <result code="2">2</result>
+      <band id="673">Noord-Limburgse Brass Band</band>
+      <conductor id="299650">Peter Cools</conductor>
+    </result>
+    
+    <result id="10385">
+      <result code="3">3</result>
+      <band id="675">Metropole Brass Band</band>
+      <conductor id="297248">Guy Audenaert</conductor>
+    </result>
+    
+  </results>
+</contest-event>

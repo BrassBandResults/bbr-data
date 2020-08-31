@@ -1,0 +1,48 @@
+<contest-event id="28657">
+  <event-date date="1948-12-4">Dec. 4, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South West BBA Contest (Section 3)</name>
+  <contest id="158">
+    <name>SWBBA Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="297">Civic Hall, Exeter</venue>
+  <notes>3 bands competed</notes>
+
+  <created>June 19, 2014, 10:09 a.m.</created>
+  <last-modified>Feb. 25, 2019, 4:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="204686">
+      <result code="1">1</result>
+      <band id="10224">Bovey Tracey</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204687">
+      <result code="2">2</result>
+      <band id="4542">Boscastle Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="204688">
+      <result code="3">3</result>
+      <band id="2662">Axminster Institute Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

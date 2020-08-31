@@ -1,0 +1,42 @@
+<contest-event id="14172">
+  <event-date date="1957-3-14">March 14, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+  <contest id="239">
+    <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-second-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1687">Recollections of Mendelssohn</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:18 p.m.</created>
+  <last-modified>Nov. 24, 2014, 4:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113149">
+      <result code="1">1</result>
+      <band id="2091">Banbridge Silver Band</band>
+      <conductor id="305875">L. McDowell</conductor>
+    </result>
+    
+    <result id="164958">
+      <result code="2">2</result>
+      <band id="1381">Strandtown Silver Band</band>
+      <conductor id="298746">James Burch</conductor>
+    </result>
+    
+  </results>
+</contest-event>

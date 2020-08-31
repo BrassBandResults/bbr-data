@@ -1,0 +1,59 @@
+<contest-event id="19712">
+  <event-date date="1970-9-19">Sept. 19, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Invitation Contest</name>
+  <contest id="4066">
+    <name>Newcastle Invitation Contest</name>
+    <order>0</order>
+    <contest-type id="8">Own Choice from a Specified List</contest-type>
+    <group id=""></group>
+    <slug>newcastle-invitation-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>  Test pieces were a choice of Tam O&#39;Shanter&#39;s Ride, Belmont Variations or High Peak.
+  3rd annual contest promoted by Newcastle and District Trades Council.</notes>
+
+  <created>March 25, 2013, 9:26 p.m.</created>
+  <last-modified>March 25, 2013, 9:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="147761">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+      <test-piece id="342">High Peak</test-piece>
+    </result>
+    
+    <result id="147762">
+      <result code="2">2</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="303851">Enoch Jackson</conductor>
+      <test-piece id="141">Tam O&#39;Shanter&#39;s Ride [Wright]</test-piece>
+    </result>
+    
+    <result id="147763">
+      <result code="3">3</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="313871">Cecil Peacock</conductor>
+      <test-piece id="141">Tam O&#39;Shanter&#39;s Ride [Wright]</test-piece>
+    </result>
+    
+    <result id="147764">
+      <result code="4">4</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="309313">Archie Smith</conductor>
+      <test-piece id="192">The Belmont Variations</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

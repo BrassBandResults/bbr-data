@@ -1,0 +1,66 @@
+<contest-event id="5309">
+  <event-date date="1974-4-21">April 21, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins (Championship Section)</name>
+  <contest id="82">
+    <name>Pontins (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="9">Pontins</group>
+    <slug>pontins-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="303">John O&#39;Gaunt [Vinter]</test-piece>
+  </test-piece>
+
+  <venue id="560">Pontins Holiday Centre, Ainsdale Beach, Southport</venue>
+  <notes>1st annual contest promoted by Prescot Band and Pontins Holiday Camp.</notes>
+
+  <created>April 10, 2011, 6:16 a.m.</created>
+  <last-modified>Nov. 6, 2015, 1:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="45837">
+      <result code="1">1</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="305391">William Lyon</conductor>
+    </result>
+    
+    <result id="197154">
+      <result code="2">2</result>
+      <band id="1346">Rochdale Band</band>
+      <conductor id="297146">Norman Ashcroft</conductor>
+    </result>
+    
+    <result id="197155">
+      <result code="3">3</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="301934">John Golland</conductor>
+    </result>
+    
+    <result id="240790">
+      <result code="">Unknown Result</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="303490">Herbert H. Howarth</conductor>
+    </result>
+    
+    <result id="267329">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+    </result>
+    
+    <result id="267328">
+      <result code="">Unknown Result</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

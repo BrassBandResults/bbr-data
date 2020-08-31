@@ -1,0 +1,48 @@
+<contest-event id="29321">
+  <event-date date="2014-11-9">Nov. 9, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Austrian National Championship (Challenge Section)</name>
+  <contest id="5452">
+    <name>Austrian National Championship (Challenge Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="526">Austrian National Championship</group>
+    <slug>austrian-national-championship-challenge-section</slug>
+    
+    <notes>None</notes>
+    <region id="20">Austria</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="73">Voyage of Discovery</test-piece>
+  </test-piece>
+
+  <venue id="5624">Kulturzentrum Bräuhaus, Eferding, Upper Austria, Austria</venue>
+  <notes></notes>
+
+  <created>Sept. 15, 2014, 2:17 p.m.</created>
+  <last-modified>Nov. 13, 2014, 4:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="209277">
+      <result code="1">1</result>
+      <band id="12326">R.E.T. Brass Band</band>
+      <conductor id="304735">Andreas Lackner</conductor>
+    </result>
+    
+    <result id="209276">
+      <result code="2">2</result>
+      <band id="10928">Oberösterreichische Jugend Brass Band</band>
+      <conductor id="301753">Karl Geroldinger</conductor>
+    </result>
+    
+    <result id="209278">
+      <result code="3">3</result>
+      <band id="12171">Brass Band Tirol</band>
+      <conductor id="313846">Herman Pallhuber</conductor>
+    </result>
+    
+  </results>
+</contest-event>

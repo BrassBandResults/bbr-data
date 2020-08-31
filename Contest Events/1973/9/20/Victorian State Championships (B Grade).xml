@@ -1,0 +1,78 @@
+<contest-event id="39594">
+  <event-date date="1973-9-20">Sept. 20, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="467">Music for a Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>May 10, 2018, 11:22 p.m.</created>
+  <last-modified>May 16, 2020, 3:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287045">
+      <result code="1">1</result>
+      <band id="740">Ararat City Band</band>
+      <conductor id="317867">Ray Humphries</conductor>
+    </result>
+    
+    <result id="287046">
+      <result code="2">2</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="311846">Arthur Withers</conductor>
+    </result>
+    
+    <result id="287047">
+      <result code="3">3</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="303914">Frank James</conductor>
+    </result>
+    
+    <result id="287048">
+      <result code="4">4</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="299449">Russell Clogan</conductor>
+    </result>
+    
+    <result id="287049">
+      <result code="">Unknown Result</result>
+      <band id="2318">Frankston City Band</band>
+      <conductor id="317943">Fred Yeadon</conductor>
+    </result>
+    
+    <result id="287053">
+      <result code="">Unknown Result</result>
+      <band id="2245">1st Battalion Royal Victorian Regiment Band</band>
+      <conductor id="298183">Ron Booth</conductor>
+    </result>
+    
+    <result id="287052">
+      <result code="">Unknown Result</result>
+      <band id="2190">Coburg City Band</band>
+      <conductor id="309762">Ken Stevens</conductor>
+    </result>
+    
+    <result id="287051">
+      <result code="">Unknown Result</result>
+      <band id="5771">Maryborough City Band [Victoria]</band>
+      <conductor id="302658">Jack Harris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

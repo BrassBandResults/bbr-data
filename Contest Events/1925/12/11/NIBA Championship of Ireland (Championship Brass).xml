@@ -1,0 +1,42 @@
+<contest-event id="14212">
+  <event-date date="1925-12-11">Dec. 11, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NIBA Championship of Ireland (Championship Brass)</name>
+  <contest id="278">
+    <name>NIBA Championship of Ireland (Championship Brass)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="52">NIBA Championship of Ireland</group>
+    <slug>niba-championship-of-ireland-championship-brass</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1100">Orpheus [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 24, 2012, 7:52 a.m.</created>
+  <last-modified>May 19, 2015, 5:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113328">
+      <result code="1">1</result>
+      <band id="1375">Lisburn Silver Band</band>
+      <conductor id="305885">James McFadden</conductor>
+    </result>
+    
+    <result id="113329">
+      <result code="2">2</result>
+      <band id="2605">I.O.R. Rescue Tent [Northern Ireland]</band>
+      <conductor id="310818">John Vine</conductor>
+    </result>
+    
+  </results>
+</contest-event>

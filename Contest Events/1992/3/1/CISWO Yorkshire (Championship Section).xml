@@ -1,0 +1,55 @@
+<contest-event id="5202">
+  <event-date date="1992-3-1">March 1, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO Yorkshire (Championship Section)</name>
+  <contest id="670">
+    <name>CISWO Yorkshire (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="366">Frontier!</test-piece>
+  </test-piece>
+
+  <venue id="3258">City Hall, Sheffield</venue>
+  <notes>43rd annual contest.
+4 bands competed.</notes>
+
+  <created>April 2, 2011, 12:37 a.m.</created>
+  <last-modified>Jan. 29, 2015, 1:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="45153">
+      <result code="1">1</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="308069">Frank Renton</conductor>
+    </result>
+    
+    <result id="208071">
+      <result code="2">2</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="305999">Hugh Megarrell</conductor>
+    </result>
+    
+    <result id="208072">
+      <result code="3">3</result>
+      <band id="140">Dodworth Colliery MW Brass</band>
+      <conductor id="306865">Graham O&#39;Connor</conductor>
+    </result>
+    
+    <result id="208073">
+      <result code="4">4</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="308292">John Roberts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

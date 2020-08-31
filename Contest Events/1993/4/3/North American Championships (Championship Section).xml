@@ -1,0 +1,60 @@
+<contest-event id="10540">
+  <event-date date="1993-4-3">April 3, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Championship Section)</name>
+  <contest id="161">
+    <name>North American Championships (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-championship-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1497">Brucker Hall (Loboda Studio), Fort Myer, Virginia, USA</venue>
+  <notes>Bands were required to play a testpiece from a set list of three pieces as part of their concert programme.  No points were awarded.
+
+Best soloist: Amy Baker, Ohio Collegiate Brass Band</notes>
+
+  <created>Feb. 21, 2012, 4:52 p.m.</created>
+  <last-modified>Feb. 22, 2012, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="88551">
+      <result code="1">1</result>
+      <band id="4218">Brass Band of Columbus</band>
+      <conductor id="300568">Paul Droste</conductor>
+      <test-piece id="1703">Ascendit in Coeli</test-piece>
+    </result>
+    
+    <result id="88552">
+      <result code="2">2</result>
+      <band id="1409">Central Ohio Brass Band</band>
+      <conductor id="309953">Les Susi</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+    <result id="88553">
+      <result code="3">3</result>
+      <band id="6962">Triangle Brass Band</band>
+      <conductor id="310845">Michael Votta</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="88554">
+      <result code="4">4</result>
+      <band id="1003">Atlantic Brass Band</band>
+      <conductor id="302310">Anthony Guerere</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

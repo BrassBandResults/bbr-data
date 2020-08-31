@@ -1,0 +1,73 @@
+<contest-event id="38835">
+  <event-date date="1885-8-8">Aug. 8, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ripponden Contest</name>
+  <contest id="1405">
+    <name>Ripponden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ripponden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1506">Joan of Arc [Round]</test-piece>
+  </test-piece>
+
+  <venue id="916">Ripponden, West Yorkshire</venue>
+  <notes>Prizes - 1st £8, 2nd £4, 3rd £2, 10 bands entered, 7 competed.
+Promoted by Ripponden Floral Society.</notes>
+
+  <created>Nov. 25, 2017, 11:08 a.m.</created>
+  <last-modified>May 6, 2019, 6:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282534">
+      <result code="1">1</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="309166">James Simpson</conductor>
+    </result>
+    
+    <result id="282528">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="282533">
+      <result code="3">3</result>
+      <band id="18129">Sowerby Subscription</band>
+      <conductor id="309958">W. Sutcliffe</conductor>
+    </result>
+    
+    <result id="282529">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282530">
+      <result code="">Unknown Result</result>
+      <band id="11288">Whitley Lower</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282531">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282532">
+      <result code="">Unknown Result</result>
+      <band id="4566">Bentham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

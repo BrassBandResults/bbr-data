@@ -1,0 +1,73 @@
+<contest-event id="32188">
+  <event-date date="1914-2-28">Feb. 28, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bolton Contest</name>
+  <contest id="2826">
+    <name>Bolton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bolton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2592">Bee Hive Picture Palace, Bolton, Lancashire</venue>
+  <notes>
+  6 bands competed.</notes>
+
+  <created>June 26, 2015, 3:44 p.m.</created>
+  <last-modified>Oct. 2, 2018, 10:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="231129">
+      <result code="1">1</result>
+      <band id="3670">Victoria Hall (Bolton)</band>
+      <conductor id="317093">Harold Bennett</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="231130">
+      <result code="2">2</result>
+      <band id="3315">South Salford</band>
+      <conductor id="307025">William Owen</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="231131">
+      <result code="3">3</result>
+      <band id="4276">Halliwell</band>
+      <conductor id="304048">Joe Jessop</conductor>
+      <test-piece id="2716">Sons of the Sea</test-piece>
+    </result>
+    
+    <result id="231133">
+      <result code="">Unknown Result</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="304048">Joe Jessop</conductor>
+      <test-piece id="2716">Sons of the Sea</test-piece>
+    </result>
+    
+    <result id="231132">
+      <result code="">Unknown Result</result>
+      <band id="17396">Harpurhey and Moston</band>
+      <conductor id="319218">J. Wood</conductor>
+      <test-piece id="2716">Sons of the Sea</test-piece>
+    </result>
+    
+    <result id="231134">
+      <result code="">Unknown Result</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="310152">J. Taylor</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

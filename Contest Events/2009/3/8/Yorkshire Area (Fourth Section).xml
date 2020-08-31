@@ -1,0 +1,84 @@
+<contest-event id="55">
+  <event-date date="2009-3-8">March 8, 2009<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Area (Fourth Section)</name>
+  <contest id="20">
+    <name>Yorkshire Area (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="5">Fourth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="37">The Talisman [Hughes]</test-piece>
+  </test-piece>
+
+  <venue id="59">St. George&#39;s Hall, Bradford, West Yorkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>March 9, 2009, 12:13 p.m.</created>
+  <last-modified>March 9, 2015, 5:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="760">
+      <result code="1">1</result>
+      <band id="150">Maltby Miners Welfare Band</band>
+      <conductor id="299442">Terry Clifford</conductor>
+    </result>
+    
+    <result id="761">
+      <result code="2">2</result>
+      <band id="160">Thurcroft Welfare</band>
+      <conductor id="310787">Ken Vernon</conductor>
+    </result>
+    
+    <result id="762">
+      <result code="3">3</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="297177">Chris Askew</conductor>
+    </result>
+    
+    <result id="763">
+      <result code="4">4</result>
+      <band id="148">Huddersfield and Ripponden Brass</band>
+      <conductor id="307538">Steve Platten</conductor>
+    </result>
+    
+    <result id="764">
+      <result code="5">5</result>
+      <band id="149">Armthorpe Elmfield</band>
+      <conductor id="302236">Haydn Griffiths</conductor>
+    </result>
+    
+    <result id="765">
+      <result code="6">6</result>
+      <band id="265">BD1 Brass</band>
+      <conductor id="304914">Ken Lee</conductor>
+    </result>
+    
+    <result id="766">
+      <result code="7">7</result>
+      <band id="266">Deepcar Brass Band</band>
+      <conductor id="309525">Gavin Somerset</conductor>
+    </result>
+    
+    <result id="767">
+      <result code="8">8</result>
+      <band id="267">Worsbrough Brass</band>
+      <conductor id="303420">John Hopkinson</conductor>
+    </result>
+    
+    <result id="768">
+      <result code="9">9</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="299127">Carol Caton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="22158">
+  <event-date date="1957-1-12">Jan. 12, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Grading Section)</name>
+  <contest id="505">
+    <name>Wessex Brass Band Association (Grading Section)</name>
+    <order>60</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-grading-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="422">Pride of the Forest</test-piece>
+  </test-piece>
+
+  <venue id="261">Winter Gardens, Bournemouth, Dorset, England, UK</venue>
+  <notes>
+  March contest (True Comrades) - 1st Bath, 2nd Corsham, 3rd Kennet Vale.
+  6 bands competed.</notes>
+
+  <created>July 4, 2013, 6:26 a.m.</created>
+  <last-modified>Feb. 6, 2016, 3:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164501">
+      <result code="1">1</result>
+      <band id="367">City of Bath</band>
+      <conductor id="303430">W. Horler</conductor>
+    </result>
+    
+    <result id="164503">
+      <result code="2">2</result>
+      <band id="547">Corsham Band</band>
+      <conductor id="302792">H. Havenhand</conductor>
+    </result>
+    
+    <result id="164502">
+      <result code="3">3</result>
+      <band id="8698">Aldershot Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164505">
+      <result code="3">3</result>
+      <band id="2072">Kennet Vale Brass</band>
+      <conductor id="309608">Fred Sprules</conductor>
+    </result>
+    
+    <result id="164500">
+      <result code="">Unknown Result</result>
+      <band id="3978">Amesbury Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164504">
+      <result code="">Unknown Result</result>
+      <band id="552">Downton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

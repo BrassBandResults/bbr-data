@@ -1,0 +1,58 @@
+<contest-event id="37827">
+  <event-date date="1984-4-21">April 21, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (A Grade)</name>
+  <contest id="6138">
+    <name>Australian Championships - Wind Band (A Grade)</name>
+    <order>0</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-a-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="4730">Till Eulenspiegel</test-piece>
+  </test-piece>
+
+  <venue id="6512">Canberra School of Music,  A C T,  Australia</venue>
+  <notes></notes>
+
+  <created>May 4, 2017, 12:41 a.m.</created>
+  <last-modified>May 4, 2017, 12:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="273495">
+      <result code="1">1</result>
+      <band id="15136">South Australia C A E  (SA)</band>
+      <conductor id="316473">Harold Hall</conductor>
+      <test-piece id="4731">Prologue &amp; Dance</test-piece>
+    </result>
+    
+    <result id="273496">
+      <result code="2">2</result>
+      <band id="15353">Hills Music Academy  (NSW)</band>
+      <conductor id="312280">Nigel Anderton</conductor>
+      <test-piece id="1061">Festival Overture [Geehl]</test-piece>
+    </result>
+    
+    <result id="273497">
+      <result code="3">3</result>
+      <band id="15107">City of Newcastle Concert (NSW)</band>
+      <conductor id="312654">Ian Cook</conductor>
+      <test-piece id="4732">From Planets [Holst]</test-piece>
+    </result>
+    
+    <result id="273498">
+      <result code="4">4</result>
+      <band id="15097">Canberra Youth Orchestra Wind Ensemble  (ACT)</band>
+      <conductor id="316489">Earl Winterstein</conductor>
+      <test-piece id="4733">Jupiter</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

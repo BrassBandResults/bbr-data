@@ -1,0 +1,72 @@
+<contest-event id="40972">
+  <event-date date="1924-6-7">June 7, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kibworth Contest</name>
+  <contest id="6397">
+    <name>Kibworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kibworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5725">William Tell [unknown arranger] or Mignon [Ambroise Thomas]</test-piece>
+  </test-piece>
+
+  <venue id="6967">Kibworth, Leicestershire</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Oct. 26, 2018, 10:32 p.m.</created>
+  <last-modified>Oct. 26, 2018, 10:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297542">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="297543">
+      <result code="2">2</result>
+      <band id="2021">City of Leicester</band>
+      <conductor id="303772">Simeon Iliffe</conductor>
+    </result>
+    
+    <result id="297544">
+      <result code="3">3</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="297545">
+      <result code="4">4</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="304024">Joseph Jennings</conductor>
+    </result>
+    
+    <result id="297547">
+      <result code="">Unknown Result</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297548">
+      <result code="">Unknown Result</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297546">
+      <result code="">Unknown Result</result>
+      <band id="828">Wolverton Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

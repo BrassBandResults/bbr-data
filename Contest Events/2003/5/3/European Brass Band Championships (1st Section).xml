@@ -1,0 +1,51 @@
+<contest-event id="2427">
+  <event-date date="2003-5-3">May 3, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>European Brass Band Championships (1st Section)</name>
+  <contest id="86">
+    <name>European Championships (Challenge Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="22">European Championships</group>
+    <slug>european-championships-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="28">Grieghallen, Bergen, Hordaland, Norway</venue>
+  <notes>Own choice test piece played as part of concert programme</notes>
+
+  <created>Aug. 28, 2010, 8:29 p.m.</created>
+  <last-modified>May 5, 2012, 10:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76776">
+      <result code="1">1</result>
+      <band id="1112">Brøttum Musikkforening</band>
+      <conductor id="306573">Erling Myrseth</conductor>
+      <test-piece id="431">The Kingdom Triumphant</test-piece>
+    </result>
+    
+    <result id="26549">
+      <result code="2">2</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="298162">John Bonner</conductor>
+      <test-piece id="128">Variations for Brass Band [Vaughan Williams]</test-piece>
+    </result>
+    
+    <result id="76777">
+      <result code="3">3</result>
+      <band id="1936">Malmo Brass Band</band>
+      <conductor id="299695">Stefan Cooper</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

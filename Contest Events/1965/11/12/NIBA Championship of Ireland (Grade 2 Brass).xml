@@ -1,0 +1,48 @@
+<contest-event id="4019">
+  <event-date date="1965-11-12">Nov. 12, 1965<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NIBA Championship of Ireland (Grade 2 Brass)</name>
+  <contest id="277">
+    <name>NIBA Championship of Ireland (Grade 2 Brass)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="52">NIBA Championship of Ireland</group>
+    <slug>niba-championship-of-ireland-grade-2-brass</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="776">The Great City</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 9, 2011, 10:08 p.m.</created>
+  <last-modified>March 8, 2013, 12:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="142095">
+      <result code="1">1</result>
+      <band id="1383">Oldpark Silver Band</band>
+      <conductor id="298747">John Burch</conductor>
+    </result>
+    
+    <result id="142096">
+      <result code="2">2</result>
+      <band id="1391">Ballynahinch Silver Band</band>
+      <conductor id="296775">Robert Adair</conductor>
+    </result>
+    
+    <result id="142097">
+      <result code="3">3</result>
+      <band id="1380">Reid Memorial Silver Band</band>
+      <conductor id="300140">Brian Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

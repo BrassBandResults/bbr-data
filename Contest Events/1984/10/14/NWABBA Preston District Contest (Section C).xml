@@ -1,0 +1,67 @@
+<contest-event id="29495">
+  <event-date date="1984-10-14">Oct. 14, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Preston District Contest (Section C)</name>
+  <contest id="2412">
+    <name>NWABBA Preston District Contest (Section C)</name>
+    <order>120</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="38">Fleetwood Contest (NWABBA Preston District Contest)</group>
+    <slug>nwabba-preston-district-contest-section-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1374">Henry V [Maldwyn Price]</test-piece>
+  </test-piece>
+
+  <venue id="617">Parr Hall, Warrington, Cheshire, England, UK</venue>
+  <notes>Prizes - 1st £100 and trophy, 2nd £60 and trophy, 3rd £40 and trophy.
+4 bands competed.</notes>
+
+  <created>Oct. 8, 2014, 8:54 p.m.</created>
+  <last-modified>Jan. 14, 2015, 9:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="210300">
+      <result code="1">1</result>
+      <band id="227">Golborne Band</band>
+      <conductor id="310825">E. Vint</conductor>
+    </result>
+    
+    <result id="210301">
+      <result code="2">2</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="305624">Alan Marsh</conductor>
+    </result>
+    
+    <result id="210302">
+      <result code="3">3</result>
+      <band id="187">Rainford Band</band>
+      <conductor id="306271">Colin Moore</conductor>
+    </result>
+    
+    <result id="218544">
+      <result code="">Unknown Result</result>
+      <band id="196">Morecambe Brass Band</band>
+      <conductor id="310105">Steve Tarry</conductor>
+    </result>
+    
+    <result id="218545">
+      <result code="W">Withdrawn</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="218546">
+      <result code="W">Withdrawn</result>
+      <band id="268">Swinton Concert Brass [Manchester]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

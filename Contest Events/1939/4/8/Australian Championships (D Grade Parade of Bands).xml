@@ -1,0 +1,54 @@
+<contest-event id="41906">
+  <event-date date="1939-4-8">April 8, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade Parade of Bands)</name>
+  <contest id="3017">
+    <name>Australian Championships (D Grade Parade of Bands)</name>
+    <order>1040</order>
+    <contest-type id="20">March Contest (Music and Inspection Points)</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade-parade-of-bands</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="936">Maryborough, Queensland, Australia</venue>
+  <notes>Judged on music only</notes>
+
+  <created>March 8, 2019, 9:55 p.m.</created>
+  <last-modified>July 12, 2020, 1:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="305307">
+      <result code="1">1</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="302087">Lou Gray</conductor>
+    </result>
+    
+    <result id="305308">
+      <result code="2">2</result>
+      <band id="13778">Rockhampton Labour</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305309">
+      <result code="2">2</result>
+      <band id="12960">Sandgate District Citizen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305310">
+      <result code="4">4</result>
+      <band id="17560">Nanango Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

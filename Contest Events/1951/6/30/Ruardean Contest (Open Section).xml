@@ -1,0 +1,49 @@
+<contest-event id="41919">
+  <event-date date="1951-6-30">June 30, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest (Open Section)</name>
+  <contest id="4918">
+    <name>Ruardean Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ruardean-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>March contest - 1st Cinderford, 2nd Lydbrook,
+Prizes - 1st £30, 2nd £15, 3rd £5.</notes>
+
+  <created>March 12, 2019, 4:18 p.m.</created>
+  <last-modified>March 13, 2019, 6:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="305451">
+      <result code="1">1</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305452">
+      <result code="2">2</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305453">
+      <result code="3">3</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="42224">
+  <event-date date="1978-3-24">March 24, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (D Grade)</name>
+  <contest id="1710">
+    <name>Queensland State Brass Band Championship (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="127">Salzburg Suite</test-piece>
+  </test-piece>
+
+  <venue id="7125">Maryborough City Hall, Queensland, Australia</venue>
+  <notes>Only information recorded
+Street March results listed under Stage March</notes>
+
+  <created>May 22, 2019, 11:20 p.m.</created>
+  <last-modified>May 23, 2019, 12:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="308672">
+      <result code="1">1</result>
+      <band id="17979">Runaway Bay District</band>
+      <conductor id="319210">Ron Holmes</conductor>
+    </result>
+    
+    <result id="308673">
+      <result code="1">1</result>
+      <band id="16258">Beenleigh District Citizens  (Qld)</band>
+      <conductor id="317920">Ernie Brigg</conductor>
+    </result>
+    
+    <result id="308674">
+      <result code="">Unknown Result</result>
+      <band id="2147">Capricornia Silver Band</band>
+      <conductor id="303777">Dennis Ilott</conductor>
+    </result>
+    
+    <result id="308676">
+      <result code="">Unknown Result</result>
+      <band id="2316">Gladstone Municipal Band</band>
+      <conductor id="317919">Henry Lowry</conductor>
+    </result>
+    
+    <result id="308675">
+      <result code="">Unknown Result</result>
+      <band id="9357">Dalby and District Silver Band</band>
+      <conductor id="317835">M. W. Allis</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="32489">
+  <event-date date="2000-5-13">May 13, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Ebbw Vale) Contest (First Section)</name>
+  <contest id="111">
+    <name>SEWBBA (Ebbw Vale) Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="17">SEWBBA (Ebbw Vale) Contest</group>
+    <slug>ebbw-vale-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="192">The Belmont Variations</test-piece>
+  </test-piece>
+
+  <venue id="121">Ebbw Vale Leisure Centre, Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
+  <notes>Best instrumentalist - cornet - Pontardulais.
+Prizes - 1st £125, 2nd £75, 3rd £60.
+4 bands competed.</notes>
+
+  <created>Aug. 14, 2015, 4:26 p.m.</created>
+  <last-modified>June 30, 2020, 9:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="234821">
+      <result code="1">1</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="298695">C. Brian Buckley</conductor>
+    </result>
+    
+    <result id="234822">
+      <result code="2">2</result>
+      <band id="407">Penclawdd Brass</band>
+      <conductor id="309282">Tony Small</conductor>
+    </result>
+    
+    <result id="234823">
+      <result code="3">3</result>
+      <band id="320">Tylorstown Band</band>
+      <conductor id="307446">Leigh Phillips</conductor>
+    </result>
+    
+    <result id="251103">
+      <result code="4">4</result>
+      <band id="311">Treherbert &amp; District Band</band>
+      <conductor id="309038">Graham Sheppard</conductor>
+    </result>
+    
+    <result id="320075">
+      <result code="W">Withdrawn</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

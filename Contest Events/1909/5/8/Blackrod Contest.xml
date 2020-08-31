@@ -1,0 +1,69 @@
+<contest-event id="15749">
+  <event-date date="1909-5-8">May 8, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackrod Contest</name>
+  <contest id="2323">
+    <name>Blackrod Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="326">Blackrod Contest</group>
+    <slug>blackrod</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1899">Andromeda</test-piece>
+  </test-piece>
+
+  <venue id="1752">Blackrod, Lancashire</venue>
+  <notes>13 bands competed
+
+  Prizes  1st £10, 2nd £7, 3rd £4, 4th £2, 5th £1.
+</notes>
+
+  <created>Nov. 1, 2012, 3:49 p.m.</created>
+  <last-modified>Sept. 4, 2019, 7:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121538">
+      <result code="1">1</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="315076">John Rutter</conductor>
+    </result>
+    
+    <result id="121539">
+      <result code="2">2</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="121540">
+      <result code="3">3</result>
+      <band id="3644">Summerseat</band>
+      <conductor id="307568">William Pollard</conductor>
+    </result>
+    
+    <result id="121541">
+      <result code="4">4</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="121542">
+      <result code="5">5</result>
+      <band id="215">Rivington and Adlington Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="311977">
+      <result code="">Unknown Result</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,50 @@
+<contest-event id="7010">
+  <event-date date="1909-8-2">Aug. 2, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pwllheli Contest</name>
+  <contest id="1217">
+    <name>Pwllheli Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pwllheli-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1280">A Continental Tour</test-piece>
+  </test-piece>
+
+  
+  <notes>March contest held same day: 
+
+1. Llanrug</notes>
+
+  <created>Aug. 13, 2011, 11:47 a.m.</created>
+  <last-modified>Aug. 13, 2011, 11:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="61888">
+      <result code="1">1</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61889">
+      <result code="2">2</result>
+      <band id="5214">Cynfi</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61890">
+      <result code="3">3</result>
+      <band id="5215">Moeltryfan</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="17969">
+  <event-date date="1891-7-6">July 6, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tregullow Contest</name>
+  <contest id="3812">
+    <name>Tregullow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tregullow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2322">The Champion (Grand Fantasia)</test-piece>
+  </test-piece>
+
+  <venue id="2987">Tregullow, Scorrier</venue>
+  <notes>Jehu Andrews had a sunstroke while conducting, fainting three times during the performance, yet still mangaged to gain 2nd place.
+Cornwall District Rechabites Demonstration</notes>
+
+  <created>Feb. 7, 2013, 9:46 a.m.</created>
+  <last-modified>Feb. 7, 2013, 10:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="135809">
+      <result code="1">1</result>
+      <band id="6508">Duke of Cornwall&#39;s Rifles (Camborne) Band</band>
+      <conductor id="310737">William Uren</conductor>
+    </result>
+    
+    <result id="135810">
+      <result code="2">2</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="297042">John Andrews</conductor>
+    </result>
+    
+    <result id="135811">
+      <result code="3">3</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="302866">R.H. Heath</conductor>
+    </result>
+    
+    <result id="135812">
+      <result code="4">4</result>
+      <band id="7632">Hayle Artillery</band>
+      <conductor id="310597">R. Trudgeon</conductor>
+    </result>
+    
+    <result id="135813">
+      <result code="W">Withdrawn</result>
+      <band id="6479">St Buryan Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="14433">
+  <event-date date="2007-11-24">Nov. 24, 2007<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Fourth Division)</name>
+  <contest id="15">
+    <name>Swiss National Championships (Fourth Division)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-fourth-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="227">An Elgar Portrait</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>Best Flugel: BB Frohsinn Laupersdorf</notes>
+
+  <created>Aug. 10, 2012, 11:13 a.m.</created>
+  <last-modified>July 7, 2013, 6:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114695">
+      <result code="1">1</result>
+      <band id="1086">Brass Band Frohsinn Laupersdorf</band>
+      <conductor id="309183">Heinz Sinniger</conductor>
+    </result>
+    
+    <result id="116439">
+      <result code="2">2</result>
+      <band id="105">Regionale Jugend Brass Band Luzern</band>
+      <conductor id="306989">Patrick Ottiger</conductor>
+    </result>
+    
+    <result id="116440">
+      <result code="3">3</result>
+      <band id="8908">Stadtmusik Mellingen</band>
+      <conductor id="302115">Fabian Greber</conductor>
+    </result>
+    
+  </results>
+</contest-event>

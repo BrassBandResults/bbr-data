@@ -1,0 +1,54 @@
+<contest-event id="1215">
+  <event-date date="2009-10-31">Oct. 31, 2009<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NIBA Championship of Ireland (Championship Brass)</name>
+  <contest id="278">
+    <name>NIBA Championship of Ireland (Championship Brass)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="52">NIBA Championship of Ireland</group>
+    <slug>niba-championship-of-ireland-championship-brass</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="195">Life Divine</test-piece>
+  </test-piece>
+
+  <venue id="133">Market Place Theatre, Armagh, County Armagh, Northern Ireland, UK</venue>
+  <notes>Best Instrumentalist - Clive McBride, Laganvale (Metal Technology)</notes>
+
+  <created>Nov. 1, 2009, 2 p.m.</created>
+  <last-modified>Nov. 1, 2009, 2:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="12839">
+      <result code="1">1</result>
+      <band id="237">Laganvale Band</band>
+      <conductor id="308560">Ernest Ruddock</conductor>
+    </result>
+    
+    <result id="12840">
+      <result code="2">2</result>
+      <band id="31">1st Old Boys Association Band (Belfast)</band>
+      <conductor id="298919">Stephen Cairns</conductor>
+    </result>
+    
+    <result id="12841">
+      <result code="3">3</result>
+      <band id="718">Murley Silver Band</band>
+      <conductor id="303103">William Hill</conductor>
+    </result>
+    
+    <result id="12842">
+      <result code="4">4</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="305413">James MacCafferty</conductor>
+    </result>
+    
+  </results>
+</contest-event>

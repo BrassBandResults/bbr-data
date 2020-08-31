@@ -1,0 +1,48 @@
+<contest-event id="27668">
+  <event-date date="1978-11-19">Nov. 19, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Danish National Championship (Championship Division)</name>
+  <contest id="559">
+    <name>Danish National Championship (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="84">Danish National Championship</group>
+    <slug>danish-national-championship-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="22">Denmark</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="192">The Belmont Variations</test-piece>
+  </test-piece>
+
+  <venue id="899">Aalborg, North Denmark, Denmark</venue>
+  <notes></notes>
+
+  <created>May 20, 2014, 2:41 p.m.</created>
+  <last-modified>May 15, 2015, 2:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="198784">
+      <result code="1">1</result>
+      <band id="1206">Silkeborg Blaeserne</band>
+      <conductor id="304031">Ove Jensen</conductor>
+    </result>
+    
+    <result id="199081">
+      <result code="2">2</result>
+      <band id="12007">Copenhagen Brass Band</band>
+      <conductor id="306930">Kjartan W. Olsen</conductor>
+    </result>
+    
+    <result id="199082">
+      <result code="3">3</result>
+      <band id="1225">Concord Brass Band</band>
+      <conductor id="306227">P. Moller</conductor>
+    </result>
+    
+  </results>
+</contest-event>

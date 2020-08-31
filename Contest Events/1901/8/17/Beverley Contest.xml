@@ -1,0 +1,68 @@
+<contest-event id="26710">
+  <event-date date="1901-8-17">Aug. 17, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Beverley Contest</name>
+  <contest id="1408">
+    <name>Beverley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>beverley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1084">Memories of Britain</test-piece>
+  </test-piece>
+
+  <venue id="1191">Highgate House, Beverley</venue>
+  <notes>Promoted by Beverley United Brass Band
+Waltz: 1. Scarborough, 2. Barton
+5 bands competed</notes>
+
+  <created>March 25, 2014, 8:26 p.m.</created>
+  <last-modified>April 28, 2020, 11:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="193543">
+      <result code="1">1</result>
+      <band id="3664">Scarborough Rifles</band>
+      <conductor id="310930">J. Wall</conductor>
+    </result>
+    
+    <result id="193544">
+      <result code="2">2</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="193545">
+      <result code="3">3</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="311386">George White</conductor>
+    </result>
+    
+    <result id="193546">
+      <result code="">Unknown Result</result>
+      <band id="5250">Beverley Borough</band>
+      <conductor id="309427">R. Smith</conductor>
+    </result>
+    
+    <result id="193547">
+      <result code="">Unknown Result</result>
+      <band id="3626">Hull Wilson&#39;s</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="271023">
+      <result code="W">Withdrawn</result>
+      <band id="7973">Barton Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

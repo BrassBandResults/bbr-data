@@ -1,0 +1,73 @@
+<contest-event id="5526">
+  <event-date date="1996-3-9">March 9, 1996<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss Entertainment Contest (Elite Division)</name>
+  <contest id="890">
+    <name>Swiss Entertainment Contest (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="149">Swiss Entertainment Contest</group>
+    <slug>swiss-entertainment-contest-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2087">Toccata in Rock</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>solo prize: Claude-Alain Barmaz, Soprano Cornet, Brass Band 13 Etoiles.
+10th annual contest</notes>
+
+  <created>April 18, 2011, 12:43 p.m.</created>
+  <last-modified>March 24, 2015, 12:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="47701">
+      <result code="1">1</result>
+      <band id="28">Brass Band Treize Etoiles</band>
+      <conductor id="306320">Géo-Pierre Moren</conductor>
+    </result>
+    
+    <result id="47702">
+      <result code="2">2</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="314061">Thomas Rüedi</conductor>
+    </result>
+    
+    <result id="47703">
+      <result code="3">3</result>
+      <band id="1223">Provinciale Brass Band Groningen</band>
+      <conductor id="312206">Piet van der Heide</conductor>
+    </result>
+    
+    <result id="47704">
+      <result code="4">4</result>
+      <band id="70">Ensemble de Cuivres Euphonia</band>
+      <conductor id="313791">José Niquille</conductor>
+    </result>
+    
+    <result id="47705">
+      <result code="5">5</result>
+      <band id="58">Oberaargauer Brass Band</band>
+      <conductor id="306894">Manfred Obrecht</conductor>
+    </result>
+    
+    <result id="47706">
+      <result code="6">6</result>
+      <band id="61">Musikgesellschaft Risch-Rotkreuz</band>
+      <conductor id="297293">Armin Bachmann</conductor>
+    </result>
+    
+    <result id="47707">
+      <result code="7">7</result>
+      <band id="59">Ensemble de Cuivres Melodia</band>
+      <conductor id="306084">Guy Michel</conductor>
+    </result>
+    
+  </results>
+</contest-event>

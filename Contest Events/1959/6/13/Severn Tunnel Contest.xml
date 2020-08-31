@@ -1,0 +1,70 @@
+<contest-event id="27198">
+  <event-date date="1959-6-13">June 13, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Severn Tunnel Contest</name>
+  <contest id="4475">
+    <name>Severn Tunnel Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>severn-tunnel-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3784">Castle Grounds, Chepstow, Monmouthshire</venue>
+  <notes>March contest on street - 1st Drybrook, 2nd Berry Hill.
+March contest on stand (4th section bands only) - 1st Rogerstone, 2nd Berry Hill, 3rd Lydney.</notes>
+
+  <created>May 1, 2014, 9 p.m.</created>
+  <last-modified>May 1, 2014, 9:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="196473">
+      <result code="1">1</result>
+      <band id="565">Cheltenham Silver</band>
+      <conductor id="301654">Gil Gardner</conductor>
+      <test-piece id="566">English Folk Song Suite</test-piece>
+    </result>
+    
+    <result id="196474">
+      <result code="2">2</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="297521">Neville Barnett</conductor>
+      <test-piece id="345">Devon Fantasy</test-piece>
+    </result>
+    
+    <result id="196475">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="311281">Joseph Welsh</conductor>
+      <test-piece id="1687">Recollections of Mendelssohn</test-piece>
+    </result>
+    
+    <result id="196477">
+      <result code="">Unknown Result</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196478">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196476">
+      <result code="">Unknown Result</result>
+      <band id="450">Rogerstone Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="14180">
+  <event-date date="1955-4-2">April 2, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+  <contest id="239">
+    <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-second-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1105">Midsummer Eve</test-piece>
+  </test-piece>
+
+  <venue id="2305">Assembly Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:35 p.m.</created>
+  <last-modified>March 17, 2013, 1:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="113170">
+      <result code="1">1</result>
+      <band id="1378">Ligoniel Silver Band</band>
+      <conductor id="300587">J. K. Duff</conductor>
+    </result>
+    
+    <result id="113171">
+      <result code="2">2</result>
+      <band id="2643">Botanic Silver Band</band>
+      <conductor id="309998">R. Swann</conductor>
+    </result>
+    
+    <result id="113172">
+      <result code="3">3</result>
+      <band id="2091">Banbridge Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="30365">
+  <event-date date="1961-5-13">May 13, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Second Section)</name>
+  <contest id="49">
+    <name>West of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="176">Symphonic Suite for Brass</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes></notes>
+
+  <created>Nov. 23, 2014, 11:41 a.m.</created>
+  <last-modified>Feb. 27, 2016, 11:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="214602">
+      <result code="1">1</result>
+      <band id="565">Cheltenham Silver</band>
+      <conductor id="301653">G. Gardner</conductor>
+    </result>
+    
+    <result id="214600">
+      <result code="2">2</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+    </result>
+    
+    <result id="214605">
+      <result code="3">3</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="297061">E. Annetts</conductor>
+    </result>
+    
+    <result id="214601">
+      <result code="">Unknown Result</result>
+      <band id="567">Bideford Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="214603">
+      <result code="">Unknown Result</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="214604">
+      <result code="">Unknown Result</result>
+      <band id="4496">Truro City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

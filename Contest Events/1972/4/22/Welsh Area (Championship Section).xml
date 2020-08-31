@@ -1,0 +1,66 @@
+<contest-event id="7606">
+  <event-date date="1972-4-22">April 22, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="470">Concert Overture for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="11">Brangwyn Hall, Swansea, Swansea County, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 7, 2011, 4:43 p.m.</created>
+  <last-modified>Oct. 7, 2011, 4:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="68354">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="304459">Arthur Kenney</conductor>
+    </result>
+    
+    <result id="68355">
+      <result code="2">2</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="311397">Haydn White</conductor>
+    </result>
+    
+    <result id="68356">
+      <result code="3">3</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="305199">L. H. Locke</conductor>
+    </result>
+    
+    <result id="68359">
+      <result code="">Unknown Result</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306342">Ieuan Morgan</conductor>
+    </result>
+    
+    <result id="68357">
+      <result code="">Unknown Result</result>
+      <band id="1752">Hymac (Rhymney) Works Band</band>
+      <conductor id="306609">Richard Nash</conductor>
+    </result>
+    
+    <result id="68358">
+      <result code="">Unknown Result</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="308129">P. G. Richards</conductor>
+    </result>
+    
+  </results>
+</contest-event>

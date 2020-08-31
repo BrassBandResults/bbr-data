@@ -1,0 +1,51 @@
+<contest-event id="937">
+  <event-date date="2004-11-28">Nov. 28, 2004<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Second Division)</name>
+  <contest id="78">
+    <name>Belgian Nationals (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-second-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="176">Symphonic Suite for Brass</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>Oct. 6, 2009, 1:52 p.m.</created>
+  <last-modified>Oct. 6, 2009, 1:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="10408">
+      <result code="1">1</result>
+      <band id="1230">Young Brassband Willebroek</band>
+      <conductor id="310826">Frans Violet</conductor>
+      <test-piece id="169">Triptych [Sparke]</test-piece>
+    </result>
+    
+    <result id="10409">
+      <result code="2">2</result>
+      <band id="678">Brassband Zele</band>
+      <conductor id="312212">Bart van der Strieckt</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+    <result id="10410">
+      <result code="3">3</result>
+      <band id="681">Mons St. Georges Brassband</band>
+      <conductor id="300349">Thierry Descamps</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

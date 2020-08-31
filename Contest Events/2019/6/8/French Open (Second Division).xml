@@ -1,0 +1,60 @@
+<contest-event id="42185">
+  <event-date date="2019-6-8">June 8, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (Second Division)</name>
+  <contest id="30">
+    <name>French Open (Second Division)</name>
+    <order>20</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-second-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="239">Rhapsody in Brass</test-piece>
+  </test-piece>
+
+  <venue id="4798">Théâtre Municipal Beaumarchais, Amboise, Centre, France</venue>
+  <notes></notes>
+
+  <created>May 12, 2019, 2:19 p.m.</created>
+  <last-modified>March 22, 2020, 4:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="316350">
+      <result code="1">1</result>
+      <band id="1759">Brass band des Pays de la Loire</band>
+      <conductor id="319841">Hans Loirs</conductor>
+    </result>
+    
+    <result id="316351">
+      <result code="2">2</result>
+      <band id="1071">Brass Band L&#39;Avenir Lignières</band>
+      <conductor id="307380">Cyril Perrenoud</conductor>
+    </result>
+    
+    <result id="316352">
+      <result code="3">3</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="312005">Chris Wormald</conductor>
+    </result>
+    
+    <result id="316353">
+      <result code="4">4</result>
+      <band id="9447">L&#39;Helvetia Iserables</band>
+      <conductor id="308736">Yves Sauthier</conductor>
+    </result>
+    
+    <result id="316354">
+      <result code="5">5</result>
+      <band id="13011">Brass Band de la Vienne</band>
+      <conductor id="299247">Mathias Charton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

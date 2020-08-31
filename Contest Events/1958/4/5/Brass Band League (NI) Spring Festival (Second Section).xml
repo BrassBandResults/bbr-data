@@ -1,0 +1,48 @@
+<contest-event id="14167">
+  <event-date date="1958-4-5">April 5, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+  <contest id="239">
+    <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-second-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="566">English Folk Song Suite</test-piece>
+  </test-piece>
+
+  <venue id="2304">Floral Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:14 p.m.</created>
+  <last-modified>Aug. 17, 2013, 7:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="113140">
+      <result code="1">1</result>
+      <band id="1392">St. Thomas Silver Band</band>
+      <conductor id="297659">J. Beattie</conductor>
+    </result>
+    
+    <result id="113141">
+      <result code="2">2</result>
+      <band id="2091">Banbridge Silver Band</band>
+      <conductor id="297236">William Atkinson</conductor>
+    </result>
+    
+    <result id="113142">
+      <result code="3">3</result>
+      <band id="1381">Strandtown Silver Band</band>
+      <conductor id="298746">James Burch</conductor>
+    </result>
+    
+  </results>
+</contest-event>

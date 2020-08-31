@@ -1,0 +1,60 @@
+<contest-event id="25406">
+  <event-date date="1914-7-18">July 18, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rochdale Contest</name>
+  <contest id="798">
+    <name>Rochdale Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="148">Rochdale Annual Brass Band Festival</group>
+    <slug>rochdale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="790">Greenhill, Rochdale</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Dec. 2, 2013, 6:41 p.m.</created>
+  <last-modified>Oct. 4, 2018, 8:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294949">
+      <result code="1">1</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294950">
+      <result code="2">2</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294951">
+      <result code="3">3</result>
+      <band id="3644">Summerseat</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294952">
+      <result code="4">4</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294948">
+      <result code="5">5</result>
+      <band id="3314">Shawclough &amp; Spotland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

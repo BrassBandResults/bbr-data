@@ -1,0 +1,61 @@
+<contest-event id="42813">
+  <event-date date="1984-9-30">Sept. 30, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="908">Essay [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="7209">Cosgrove High School, City of Glenorchy, Tasmania, Australia</venue>
+  <notes>Bands also required to play a Hymn &amp; Popular number  (not included in championship)
+</notes>
+
+  <created>Nov. 6, 2019, 10:29 p.m.</created>
+  <last-modified>Nov. 6, 2019, 10:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313522">
+      <result code="1">1</result>
+      <band id="2141">Glenorchy City Concert Brass</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+    </result>
+    
+    <result id="313523">
+      <result code="2">2</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="307847">Peter Quigley</conductor>
+    </result>
+    
+    <result id="313525">
+      <result code="W">Withdrawn</result>
+      <band id="2291">City of Burnie Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="313526">
+      <result code="W">Withdrawn</result>
+      <band id="2143">Hobart City Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="313524">
+      <result code="W">Withdrawn</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

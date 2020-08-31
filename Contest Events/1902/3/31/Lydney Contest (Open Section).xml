@@ -1,0 +1,54 @@
+<contest-event id="23064">
+  <event-date date="1902-3-31">March 31, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest (Open Section)</name>
+  <contest id="3434">
+    <name>Lydney Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="480">Lydney Contest</group>
+    <slug>lydney-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2582">Songs of Shakespeare</test-piece>
+  </test-piece>
+
+  <venue id="3845">Lydney Park, Lydney, Gloucestershire</venue>
+  <notes>Prizes: £14, £9, £3, 30s</notes>
+
+  <created>Aug. 17, 2013, 8:45 p.m.</created>
+  <last-modified>Aug. 17, 2013, 9:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="169880">
+      <result code="1">1</result>
+      <band id="4882">Bristol Britannia</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="169881">
+      <result code="2">2</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="169882">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="318155">J. Sier</conductor>
+    </result>
+    
+    <result id="169883">
+      <result code="4">4</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+  </results>
+</contest-event>

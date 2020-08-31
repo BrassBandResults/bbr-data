@@ -1,0 +1,54 @@
+<contest-event id="35603">
+  <event-date date="1951-5-26">May 26, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkbymoorside Contest</name>
+  <contest id="3771">
+    <name>Kirkbymoorside Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkbymoorside-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2624">Any Wright and Round Waltz</test-piece>
+  </test-piece>
+
+  <venue id="2914">Castle Fields, Kirkbymoorside</venue>
+  <notes>March contest - 1st Crookhall Colliery, 2nd Thornley, 3rd Blackhall Colliery.</notes>
+
+  <created>July 5, 2016, 8:06 a.m.</created>
+  <last-modified>March 12, 2019, 1:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="258515">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+    </result>
+    
+    <result id="258516">
+      <result code="2">2</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="258517">
+      <result code="3">3</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="258518">
+      <result code="4">4</result>
+      <band id="25">Hammonds Saltaire</band>
+      <conductor id="302807">Herbert Bowdin Hawley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

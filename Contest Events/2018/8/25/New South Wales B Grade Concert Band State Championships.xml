@@ -1,0 +1,62 @@
+<contest-event id="42521">
+  <event-date date="2018-8-25">Aug. 25, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New South Wales B Grade Concert Band State Championships</name>
+  <contest id="6071">
+    <name>New South Wales B Grade Concert Band State Championships</name>
+    <order>1</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="572">NSW State Band Championships (Wind Band Sections)</group>
+    <slug>new-south-wales-b-grade-concert-band-sta-6071</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6076">Choice between different Test Pieces (see below Results)</test-piece>
+  </test-piece>
+
+  <venue id="4949">Joan Sutherland Performing Arts Centre (Richard Bonynge Concert Hall), Penrith, New South Wales, Australia</venue>
+  <notes>TEST SELECTION  bands had the option to select for their Test piece  from:
+(a) 2nd Suite in F
+(b) Armenian Dances (pt.1)
+(c) Variations on a Korean Folk Song
+(d) Dylans Song</notes>
+
+  <created>Aug. 30, 2019, 11:16 p.m.</created>
+  <last-modified>June 10, 2020, 9:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311925">
+      <result code="1">1</result>
+      <band id="18146">North Shore Wind Symphony</band>
+      <conductor id="316266">Andrew McWade</conductor>
+      <test-piece id="5945">Lost Vegas</test-piece>
+    </result>
+    
+    <result id="311926">
+      <result code="2">2</result>
+      <band id="18147">Cameraygal Wind Symphony</band>
+      <conductor id="316221">Gavin Stains</conductor>
+      <test-piece id="4625">Bulgarian Dances  op 35</test-piece>
+    </result>
+    
+    <result id="311927">
+      <result code="3">3</result>
+      <band id="15163">Sutherland  P C Y C  (NSW)</band>
+      <conductor id="312157">Andy Yule</conductor>
+      <test-piece id="277">Firestorm</test-piece>
+    </result>
+    
+    <result id="311928">
+      <result code="4">4</result>
+      <band id="14878">Wallarah Community</band>
+      <conductor id="305802">Rowen McBride</conductor>
+      <test-piece id="4493">Vesuvius</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

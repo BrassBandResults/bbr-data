@@ -1,0 +1,44 @@
+<contest-event id="9028">
+  <event-date date="1996-12-1">Dec. 1, 1996<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="391">Prometheus Unbound</test-piece>
+  </test-piece>
+
+  
+  <notes></notes>
+
+  <created>Dec. 20, 2011, 10:05 a.m.</created>
+  <last-modified>April 13, 2012, 2:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="78715">
+      <result code="1">1</result>
+      <band id="750">Brass Band Campine</band>
+      <conductor id="310826">Frans Violet</conductor>
+      <test-piece id="169">Triptych [Sparke]</test-piece>
+    </result>
+    
+    <result id="98846">
+      <result code="2">2</result>
+      <band id="6167">Zuiderkempische Brassband</band>
+      <conductor id="307059">Erwin Pallemans</conductor>
+      <test-piece id="220">Music for a Festival [Sparke]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,92 @@
+<contest-event id="9905">
+  <event-date date="1984-11-18">Nov. 18, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pilkington Northern Open (Section C)</name>
+  <contest id="269">
+    <name>Northern Open (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="49">Northern Open</group>
+    <slug>wilkinson-northern-open-section-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="738">Blenheim (Heroic Overture)</test-piece>
+  </test-piece>
+
+  <venue id="64">Theatre Royal, St. Helens</venue>
+  <notes>Prizes - 1st £130 and trophy, 2nd £90 and cup, 3rd £70 and cup.
+6 bands competed.
+4th annual contest.</notes>
+
+  <created>Feb. 3, 2012, 12:59 p.m.</created>
+  <last-modified>Jan. 14, 2015, 10:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84388">
+      <result code="1">1</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="306890">Martin Obermuller</conductor>
+    </result>
+    
+    <result id="210321">
+      <result code="2">2</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="303830">J. K. Irving</conductor>
+    </result>
+    
+    <result id="210322">
+      <result code="3">3</result>
+      <band id="2742">Latchford Warrington Silver</band>
+      <conductor id="303789">Fred Ingham</conductor>
+    </result>
+    
+    <result id="218603">
+      <result code="">Unknown Result</result>
+      <band id="191">Eccleston Brass</band>
+      <conductor id="298023">Douglas Blackledge</conductor>
+    </result>
+    
+    <result id="218604">
+      <result code="">Unknown Result</result>
+      <band id="2713">Ellesmere Port Silver Band</band>
+      <conductor id="304770">David Lancashire</conductor>
+    </result>
+    
+    <result id="218600">
+      <result code="">Unknown Result</result>
+      <band id="4685">Didsbury</band>
+      <conductor id="309362">G. Smith</conductor>
+    </result>
+    
+    <result id="218606">
+      <result code="W">Withdrawn</result>
+      <band id="2715">Bury Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="218601">
+      <result code="W">Withdrawn</result>
+      <band id="3529">Bury Public Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="218602">
+      <result code="W">Withdrawn</result>
+      <band id="1526">Cobden Chadwick</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="218605">
+      <result code="W">Withdrawn</result>
+      <band id="183">Flixton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

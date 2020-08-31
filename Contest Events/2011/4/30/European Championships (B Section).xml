@@ -1,0 +1,65 @@
+<contest-event id="5563">
+  <event-date date="2011-4-30">April 30, 2011<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>European Championships (B Section)</name>
+  <contest id="86">
+    <name>European Championships (Challenge Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="22">European Championships</group>
+    <slug>european-championships-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1006">Vertex</test-piece>
+  </test-piece>
+
+  <venue id="1026">Music and Convention Centre (Auditorium Stravinski), Montreux, VD, Switzerland</venue>
+  <notes>Best Soloist: Michael Müller, [Euphonium] Brass Band Oberschwaben-Allgäu</notes>
+
+  <created>April 19, 2011, 3:11 p.m.</created>
+  <last-modified>Dec. 9, 2015, 3:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="48023">
+      <result code="1">1</result>
+      <band id="70">Ensemble de Cuivres Euphonia</band>
+      <conductor id="297291">Michael Bach</conductor>
+      <test-piece id="101">Of Men and Mountains</test-piece>
+    </result>
+    
+    <result id="48020">
+      <result code="2">2</result>
+      <band id="717">Austrian Brass Band</band>
+      <conductor id="304721">Uwe Köller</conductor>
+      <test-piece id="229">Partita [Sparke]</test-piece>
+    </result>
+    
+    <result id="48019">
+      <result code="3">3</result>
+      <band id="887">Brass Band Oberschwaben-Allgäu</band>
+      <conductor id="308773">Peter Schmid</conductor>
+      <test-piece id="280">Excalibur</test-piece>
+    </result>
+    
+    <result id="48022">
+      <result code="4">4</result>
+      <band id="3725">Messina Brass Band</band>
+      <conductor id="301866">Paratore Giuseppe</conductor>
+      <test-piece id="166">Trittico [Curnow]</test-piece>
+    </result>
+    
+    <result id="48021">
+      <result code="5">5</result>
+      <band id="243">Exobrass Band</band>
+      <conductor id="302620">Gildas Harnois</conductor>
+      <test-piece id="117">Extreme Make-over</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

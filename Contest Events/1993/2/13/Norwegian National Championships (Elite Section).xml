@@ -1,0 +1,79 @@
+<contest-event id="3016">
+  <event-date date="1993-2-13">Feb. 13, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Norwegian National Championships (Elite Section)</name>
+  <contest id="121">
+    <name>Norwegian National Championships (Elite Division)</name>
+    <order>1</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="44">Norwegian National Championships</group>
+    <slug>norwegian-national-championships-elite-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="9">Elite</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="277">Firestorm</test-piece>
+  </test-piece>
+
+  <venue id="28">Grieghallen, Bergen, Hordaland, Norway</venue>
+  <notes>Soloist Prize: Grethe W. Tonheim (Trombone), Eikanger-Bjørsvik Musikklag</notes>
+
+  <created>Nov. 20, 2010, 5:05 p.m.</created>
+  <last-modified>Jan. 12, 2012, 12:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="29870">
+      <result code="1">1</result>
+      <band id="712">Eikanger-Bjørsvik Musikklag</band>
+      <conductor id="309489">Howard Snell</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+    <result id="29871">
+      <result code="2">2</result>
+      <band id="813">Manger Musikklag</band>
+      <conductor id="304524">David King</conductor>
+      <test-piece id="79">Diversions on a Bass Theme</test-piece>
+    </result>
+    
+    <result id="29872">
+      <result code="3">3</result>
+      <band id="816">Ila Brass Band</band>
+      <conductor id="302478">Maurice Hamers</conductor>
+      <test-piece id="229">Partita [Sparke]</test-piece>
+    </result>
+    
+    <result id="29873">
+      <result code="4">4</result>
+      <band id="812">Krohnengen Brass Band</band>
+      <conductor id="306107">Karl Ole Midtbø</conductor>
+      <test-piece id="12">Paganini Variations</test-piece>
+    </result>
+    
+    <result id="29874">
+      <result code="5">5</result>
+      <band id="814">Stavanger Brass Band</band>
+      <conductor id="301008">Richard Evans</conductor>
+      <test-piece id="15">Cloudcatcher Fells</test-piece>
+    </result>
+    
+    <result id="29875">
+      <result code="6">6</result>
+      <band id="815">Tertnes Brass</band>
+      <conductor id="302788">Helge Haukås</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+    <result id="29876">
+      <result code="7">7</result>
+      <band id="1097">Sola Brass Band</band>
+      <conductor id="304820">Kjell E. Larsen</conductor>
+      <test-piece id="218">Triumphant Rhapsody</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

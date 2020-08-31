@@ -1,0 +1,67 @@
+<contest-event id="20240">
+  <event-date date="1955-12-4">Dec. 4, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Coal Board (Durham Area) Section A</name>
+  <contest id="4023">
+    <name>National Coal Board (Durham Area) Section A</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>national-coal-board-durham-area-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="454">Honour and Glory [Bath]</test-piece>
+  </test-piece>
+
+  <venue id="252">Welfare Hall, Easington</venue>
+  <notes>
+  6 bands competed.</notes>
+
+  <created>April 1, 2013, 3:34 p.m.</created>
+  <last-modified>April 1, 2013, 3:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150313">
+      <result code="1">1</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="308830">John Dennis Scoins</conductor>
+    </result>
+    
+    <result id="150314">
+      <result code="2">2</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="313871">Cecil Peacock</conductor>
+    </result>
+    
+    <result id="150315">
+      <result code="3">3</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="307519">Norman Piper</conductor>
+    </result>
+    
+    <result id="150316">
+      <result code="">Unknown Result</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="150317">
+      <result code="">Unknown Result</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="150318">
+      <result code="">Unknown Result</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

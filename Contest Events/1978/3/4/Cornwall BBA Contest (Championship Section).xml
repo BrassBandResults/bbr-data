@@ -1,0 +1,56 @@
+<contest-event id="23578">
+  <event-date date="1978-3-4">March 4, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Championship Section)</name>
+  <contest id="3195">
+    <name>Cornwall BBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="22">Journey into Freedom</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>Prizes - 1st - £28 and cup, 2nd £21 and cup, 3rd £14 and cup.
+4 bands competed.
+  23rd annual contest</notes>
+
+  <created>Sept. 9, 2013, 4:17 p.m.</created>
+  <last-modified>Dec. 20, 2016, 12:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="172825">
+      <result code="1">1</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="300534">R. Downs</conductor>
+    </result>
+    
+    <result id="172826">
+      <result code="2">2</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="302166">Derek Greenwood</conductor>
+    </result>
+    
+    <result id="172827">
+      <result code="3">3</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="304128">Derek Johnston Snr</conductor>
+    </result>
+    
+    <result id="266269">
+      <result code="4">4</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="305484">William Maginn</conductor>
+    </result>
+    
+  </results>
+</contest-event>

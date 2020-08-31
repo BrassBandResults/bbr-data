@@ -1,0 +1,49 @@
+<contest-event id="35441">
+  <event-date date="1981-2-1">Feb. 1, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wigan Contest (B Section)</name>
+  <contest id="2683">
+    <name>Wigan Contest (B Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="153">Wigan Contest</group>
+    <slug>wigan-contest-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="145">Sinfonietta [Horovitz]</test-piece>
+  </test-piece>
+
+  <venue id="2025">Whitley High School, Wigan</venue>
+  <notes>Prizes - 1st £100 and trophy, 2nd £70 and trophy.
+3 bands competed.</notes>
+
+  <created>May 31, 2016, 8:13 a.m.</created>
+  <last-modified>April 2, 2017, 7:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255872">
+      <result code="1">1</result>
+      <band id="227">Golborne Band</band>
+      <conductor id="311915">W. Wood</conductor>
+    </result>
+    
+    <result id="272782">
+      <result code="">Unknown Result</result>
+      <band id="1499">Bedford (Leigh) Band</band>
+      <conductor id="305624">Alan Marsh</conductor>
+    </result>
+    
+    <result id="272783">
+      <result code="">Unknown Result</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="306271">Colin Moore</conductor>
+    </result>
+    
+  </results>
+</contest-event>

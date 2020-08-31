@@ -1,0 +1,79 @@
+<contest-event id="23582">
+  <event-date date="1978-3-4">March 4, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Junior Section A)</name>
+  <contest id="4574">
+    <name>Cornwall BBA Contest (Junior Section A)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cornwall-bba-contest-junior-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="390">Three Songs without Words</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>Prizes - 1st £14 and cup, 2nd 10 and cup, 3rd £7 and cup.
+6 bands competed.</notes>
+
+  <created>Sept. 9, 2013, 4:31 p.m.</created>
+  <last-modified>Dec. 20, 2016, 12:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="172837">
+      <result code="1">1</result>
+      <band id="1778">St. Dennis Youth</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+    <result id="172838">
+      <result code="2">2</result>
+      <band id="1786">Bodmin Town Youth</band>
+      <conductor id="305497">John Maines</conductor>
+    </result>
+    
+    <result id="172839">
+      <result code="3">3</result>
+      <band id="1458">Mount Charles Youth Band</band>
+      <conductor id="308472">D. H. Rosevear</conductor>
+    </result>
+    
+    <result id="266280">
+      <result code="">Unknown Result</result>
+      <band id="10517">Bude Youth</band>
+      <conductor id="301564">David Frost</conductor>
+    </result>
+    
+    <result id="266282">
+      <result code="">Unknown Result</result>
+      <band id="7709">Liskeard Juniors</band>
+      <conductor id="303529">D. Howlett</conductor>
+    </result>
+    
+    <result id="266284">
+      <result code="">Unknown Result</result>
+      <band id="2783">St Ives Youth</band>
+      <conductor id="310471">Eric Toll</conductor>
+    </result>
+    
+    <result id="266281">
+      <result code="W">Withdrawn</result>
+      <band id="12805">Camborne Town Youth</band>
+      <conductor id="301944">George Goodale</conductor>
+    </result>
+    
+    <result id="266283">
+      <result code="W">Withdrawn</result>
+      <band id="3192">Lostwithiel Youth</band>
+      <conductor id="302801">V. Hawkey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

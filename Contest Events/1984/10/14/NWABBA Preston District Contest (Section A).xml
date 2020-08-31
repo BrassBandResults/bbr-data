@@ -1,0 +1,62 @@
+<contest-event id="12094">
+  <event-date date="1984-10-14">Oct. 14, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Preston District Contest (Section A)</name>
+  <contest id="3477">
+    <name>NWABBA Preston District Contest (Section A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="38">Fleetwood Contest (NWABBA Preston District Contest)</group>
+    <slug>nwabba-preston-district-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="22">Journey into Freedom</test-piece>
+  </test-piece>
+
+  <venue id="617">Parr Hall, Warrington, Cheshire, England, UK</venue>
+  <notes>Prizes - 1st £100 and trophy, 2nd £60 and trophy, 3rd £40 and trophy.
+5 bands competed.
+36th annual contest.</notes>
+
+  <created>April 9, 2012, 12:10 p.m.</created>
+  <last-modified>Jan. 14, 2015, 9:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="210294">
+      <result code="1">1</result>
+      <band id="390">Greenalls Band</band>
+      <conductor id="303557">John Hudson</conductor>
+    </result>
+    
+    <result id="218541">
+      <result code="2">2</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210296">
+      <result code="3">3</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="303588">Frank Hughes</conductor>
+    </result>
+    
+    <result id="218542">
+      <result code="">Unknown Result</result>
+      <band id="1515">Lancashire Brass</band>
+      <conductor id="297818">Roy Bentham</conductor>
+    </result>
+    
+    <result id="210295">
+      <result code="">Unknown Result</result>
+      <band id="171">Blackburn and Darwen Band</band>
+      <conductor id="299461">Gordon Clough</conductor>
+    </result>
+    
+  </results>
+</contest-event>

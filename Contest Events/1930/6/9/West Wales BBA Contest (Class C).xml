@@ -1,0 +1,61 @@
+<contest-event id="24633">
+  <event-date date="1930-6-9">June 9, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class C)</name>
+  <contest id="4008">
+    <name>West Wales BBA Contest (Class C)</name>
+    <order>230</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>
+  5 bands competed.</notes>
+
+  <created>Oct. 22, 2013, 10:12 a.m.</created>
+  <last-modified>April 21, 2019, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="180130">
+      <result code="1">1</result>
+      <band id="6257">Swansea Town</band>
+      <conductor id="318301">Paul Jenkins</conductor>
+    </result>
+    
+    <result id="180131">
+      <result code="2">2</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="310854">Fred Wade</conductor>
+    </result>
+    
+    <result id="180132">
+      <result code="3">3</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="180134">
+      <result code="">Unknown Result</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180133">
+      <result code="">Unknown Result</result>
+      <band id="8406">Gilbertson&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="13505">
+  <event-date date="1931-4-6">April 6, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kerne Bridge Contest</name>
+  <contest id="2700">
+    <name>Kerne Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="482">Walford Contest</group>
+    <slug>kerne-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1066">Gems of Old England</test-piece>
+  </test-piece>
+
+  <venue id="2056">Kerne Bridge, Herefordshire, England, UK</venue>
+  <notes>Prizes  1st £12, 2nd £6, 3rd £2.
+Promoted by Walford Athletic Club.
+5 bands competed.</notes>
+
+  <created>May 19, 2012, 4:50 p.m.</created>
+  <last-modified>Dec. 12, 2018, 10:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107079">
+      <result code="1">1</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="107080">
+      <result code="2">2</result>
+      <band id="359">Bream Silver Band</band>
+      <conductor id="304203">Evan Jones</conductor>
+    </result>
+    
+    <result id="107081">
+      <result code="3">3</result>
+      <band id="8424">5th Battalion Welsh Regt</band>
+      <conductor id="302257">William Griffiths</conductor>
+    </result>
+    
+    <result id="180952">
+      <result code="4">4</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="303209">Dick Hodges</conductor>
+    </result>
+    
+    <result id="180953">
+      <result code="5">5</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

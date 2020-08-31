@@ -1,0 +1,54 @@
+<contest-event id="34376">
+  <event-date date="1961-12-16">Dec. 16, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leicestershire BBA (Leicester) Contest (First Section)</name>
+  <contest id="192">
+    <name>Leicestershire BBA (Leicester) Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="75">Leicestershire Brass Band Association (Leicester) Contest</group>
+    <slug>leicester-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="659">Cavalleria Rusticana [arr. D. Wright]</test-piece>
+  </test-piece>
+
+  <venue id="540">Margaret Street W M C, Coalville</venue>
+  <notes>Waltz contest - 1st Snibston, 2nd Coventry Festival, 23rd, Loughborough.</notes>
+
+  <created>March 8, 2016, 1:37 p.m.</created>
+  <last-modified>March 8, 2016, 1:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="248142">
+      <result code="1">1</result>
+      <band id="874">Bulkington Silver Band</band>
+      <conductor id="297896">A. J. Bicknell</conductor>
+    </result>
+    
+    <result id="248143">
+      <result code="2">2</result>
+      <band id="32">Jaguar Land Rover Band</band>
+      <conductor id="305500">Jack Major</conductor>
+    </result>
+    
+    <result id="248144">
+      <result code="3">3</result>
+      <band id="854">Snibston - Desford</band>
+      <conductor id="309671">Fred Starkey</conductor>
+    </result>
+    
+    <result id="248145">
+      <result code="">Unknown Result</result>
+      <band id="1214">Loughborough</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

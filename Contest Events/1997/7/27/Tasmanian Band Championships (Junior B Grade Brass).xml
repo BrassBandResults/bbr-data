@@ -1,0 +1,51 @@
+<contest-event id="42882">
+  <event-date date="1997-7-27">July 27, 1997<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (Junior B Grade Brass)</name>
+  <contest id="3041">
+    <name>Tasmanian Band Championships (Junior B Grade Brass)</name>
+    <order>60</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-junior-b-grade-brass</slug>
+    
+    <notes>None</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="712">Free World Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="7219">University of Tasmania, Sandy Bay, Tasmania, Australia</venue>
+  <notes>Entertainment Item points listed under Stage March</notes>
+
+  <created>Nov. 15, 2019, 3:55 a.m.</created>
+  <last-modified>June 10, 2020, 1:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313769">
+      <result code="1">1</result>
+      <band id="18300">Glenorchy City Concert Brass Juniors</band>
+      <conductor id="303661">Dean Hunt</conductor>
+      <test-piece id="442">Legend in Brass</test-piece>
+    </result>
+    
+    <result id="313770">
+      <result code="2">2</result>
+      <band id="2291">City of Burnie Brass</band>
+      <conductor id="297826">Robert Bentley</conductor>
+      <test-piece id="3437">La Storia</test-piece>
+    </result>
+    
+    <result id="313771">
+      <result code="3">3</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="427">The Journeyman</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,76 @@
+<contest-event id="19126">
+  <event-date date="1954-8-14">Aug. 14, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cholsey Contest</name>
+  <contest id="3939">
+    <name>Cholsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cholsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3154">Cholsey, Oxfordshire</venue>
+  <notes>March contest - 1st Cholsey, 2nd Marsh Gibbon, 3rd Beenham, 4th Newport Pagnell.
+  Waltz contest - 1st East Woodhay, 2nd Beenham, 3rd Marsh Gibbon, 4th Newport Pagnell.
+  Best soloist - cornet - Cholsey.
+5th Annual Contest.
+6 bands competed</notes>
+
+  <created>March 14, 2013, 11:31 a.m.</created>
+  <last-modified>April 18, 2019, 8:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="143679">
+      <result code="1">1</result>
+      <band id="3189">Cholsey Silver Band</band>
+      <conductor id="311112">George Watkins</conductor>
+      <test-piece id="1222">A Summer Day</test-piece>
+    </result>
+    
+    <result id="143680">
+      <result code="2">2</result>
+      <band id="1481">East Woodhay Silver</band>
+      <conductor id="311192">Des Webb</conductor>
+      <test-piece id="3858">Dawn of Spring</test-piece>
+    </result>
+    
+    <result id="143681">
+      <result code="3">3</result>
+      <band id="3191">Marsh Gibbon Silver Band</band>
+      <conductor id="298963">F. Campbell</conductor>
+      <test-piece id="1021">A Souvenir of the Opera</test-piece>
+    </result>
+    
+    <result id="143683">
+      <result code="">Unknown Result</result>
+      <band id="8007">Beenham Brass Band</band>
+      <conductor id="301685">A. L. Garrett</conductor>
+      <test-piece id="3858">Dawn of Spring</test-piece>
+    </result>
+    
+    <result id="143682">
+      <result code="">Unknown Result</result>
+      <band id="755">Godalming Band</band>
+      <conductor id="301690">Wilfred M. Garrett</conductor>
+      <test-piece id="1021">A Souvenir of the Opera</test-piece>
+    </result>
+    
+    <result id="143684">
+      <result code="">Unknown Result</result>
+      <band id="2974">Newport Pagnell Town Band</band>
+      <conductor id="311640">J. L. Williams</conductor>
+      <test-piece id="1086">The Viking [Greenwood]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

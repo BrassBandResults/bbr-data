@@ -1,0 +1,55 @@
+<contest-event id="20126">
+  <event-date date="1967-12-9">Dec. 9, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Suffolk Championship Contest</name>
+  <contest id="3584">
+    <name>Suffolk Championship Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>suffolk-championship-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="345">Devon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="5345">Castle Manor Academy, Haverhill, Suffolk, England, UK</venue>
+  <notes>  March contest - 1st Newmarket, 2nd Long Melford, 3rd Green Brothers.
+  Best soloist Peter Branch - Green Brothers.</notes>
+
+  <created>March 30, 2013, 4:47 p.m.</created>
+  <last-modified>Oct. 17, 2014, 4:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149666">
+      <result code="1">1</result>
+      <band id="3507">Long Melford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149667">
+      <result code="2">2</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149668">
+      <result code="3">3</result>
+      <band id="621">Woodbridge Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149669">
+      <result code="">Unknown Result</result>
+      <band id="3885">Breckland Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

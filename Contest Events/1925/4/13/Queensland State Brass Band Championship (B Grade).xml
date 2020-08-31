@@ -1,0 +1,72 @@
+<contest-event id="40717">
+  <event-date date="1925-4-13">April 13, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5690">No.1  Selection from Rossini Opera  &quot;William Tell&quot;  /  No.2  From 1st  Act of ll Crociato in Egitto</test-piece>
+  </test-piece>
+
+  <venue id="330">Brisbane, Queensland, Australia</venue>
+  <notes>No.2 Test points listed under Own Choice</notes>
+
+  <created>Oct. 14, 2018, 10:24 p.m.</created>
+  <last-modified>Jan. 7, 2019, 12:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296151">
+      <result code="1">1</result>
+      <band id="14074">Ipswich Railways</band>
+      <conductor id="302934">J. Henry</conductor>
+    </result>
+    
+    <result id="296152">
+      <result code="2">2</result>
+      <band id="16764">Cessnock District  (NSW)</band>
+      <conductor id="308512">J. Rowan</conductor>
+    </result>
+    
+    <result id="296153">
+      <result code="3">3</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="300200">Bill Davis</conductor>
+    </result>
+    
+    <result id="296154">
+      <result code="4">4</result>
+      <band id="13028">Hamilton Citizens</band>
+      <conductor id="304416">James Kelly</conductor>
+    </result>
+    
+    <result id="296156">
+      <result code="5">5</result>
+      <band id="5808">Brisbane (Metropolitan)</band>
+      <conductor id="318772">Jack McKelvie</conductor>
+    </result>
+    
+    <result id="296155">
+      <result code="6">6</result>
+      <band id="13788">Toowoomba City</band>
+      <conductor id="305763">Bill May</conductor>
+    </result>
+    
+    <result id="296157">
+      <result code="W">Withdrawn</result>
+      <band id="17426">Rockhampton Citizens</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

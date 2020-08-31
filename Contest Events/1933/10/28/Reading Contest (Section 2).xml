@@ -1,0 +1,67 @@
+<contest-event id="24668">
+  <event-date date="1933-10-28">Oct. 28, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Section 2)</name>
+  <contest id="4153">
+    <name>Reading Contest (Section 2)</name>
+    <order>460</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="554">Reading Town Hall, Reading, Berkshire, England, UK</venue>
+  <notes>6 bands competed.
+</notes>
+
+  <created>Oct. 23, 2013, 1:42 p.m.</created>
+  <last-modified>March 19, 2020, 5:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180315">
+      <result code="1">1</result>
+      <band id="829">Pangbourne &amp; District Silver Band</band>
+      <conductor id="308005">G. Reed</conductor>
+    </result>
+    
+    <result id="180316">
+      <result code="2">2</result>
+      <band id="8700">Fairford Silver</band>
+      <conductor id="307240">W. Paul</conductor>
+    </result>
+    
+    <result id="180317">
+      <result code="3">3</result>
+      <band id="7746">Hook and Odiham</band>
+      <conductor id="309000">E. Shawyer</conductor>
+    </result>
+    
+    <result id="316235">
+      <result code="4">4</result>
+      <band id="9849">Marlborough Silver</band>
+      <conductor id="308419">R. J. Rogers</conductor>
+    </result>
+    
+    <result id="180319">
+      <result code="5">5</result>
+      <band id="609">Chinnor Silver Band</band>
+      <conductor id="304561">Bert Kirkby</conductor>
+    </result>
+    
+    <result id="180320">
+      <result code="5">5</result>
+      <band id="10462">Naphill United Brass</band>
+      <conductor id="311766">J. Wilson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

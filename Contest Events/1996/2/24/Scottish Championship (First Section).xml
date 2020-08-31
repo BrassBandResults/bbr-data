@@ -1,0 +1,84 @@
+<contest-event id="3527">
+  <event-date date="1996-2-24">Feb. 24, 1996<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (First Section)</name>
+  <contest id="62">
+    <name>Scottish Championship (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-first-section</slug>
+    <qualifies-for id="2">National Championship of Great Britain (First Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="153">Spectrum [Vinter]</test-piece>
+  </test-piece>
+
+  <venue id="74">Falkirk Town Hall, Falkirk, Falkirk Council Area, Scotland, UK</venue>
+  <notes>Qualifiers: Dalkeith &amp; Monktonhall Colliery and Unison Kinneil</notes>
+
+  <created>Jan. 14, 2011, 6:44 p.m.</created>
+  <last-modified>Nov. 3, 2011, 10:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="72351">
+      <result code="1">1</result>
+      <band id="365">Dalkeith and Monktonhall Band</band>
+      <conductor id="301204">Alan Fernie</conductor>
+    </result>
+    
+    <result id="72352">
+      <result code="2">2</result>
+      <band id="259">Unison Kinneil Band</band>
+      <conductor id="310220">Raymond Tennant</conductor>
+    </result>
+    
+    <result id="72353">
+      <result code="3">3</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="310350">Stanley Thompson</conductor>
+    </result>
+    
+    <result id="72354">
+      <result code="4">4</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="305679">Michael Marzella</conductor>
+    </result>
+    
+    <result id="72355">
+      <result code="5">5</result>
+      <band id="1802">UDI Brass</band>
+      <conductor id="302367">Alan Haggart</conductor>
+    </result>
+    
+    <result id="72356">
+      <result code="6">6</result>
+      <band id="316">Newmilns and Galston Band</band>
+      <conductor id="303728">Archie Hutchison</conductor>
+    </result>
+    
+    <result id="72357">
+      <result code="7">7</result>
+      <band id="653">Tayport Instrumental</band>
+      <conductor id="301510">Bruce Fraser</conductor>
+    </result>
+    
+    <result id="72358">
+      <result code="8">8</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="300012">Peter Curtis</conductor>
+    </result>
+    
+    <result id="72359">
+      <result code="W">Withdrawn</result>
+      <band id="1228">Livingston Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

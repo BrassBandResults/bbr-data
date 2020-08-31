@@ -1,0 +1,48 @@
+<contest-event id="20429">
+  <event-date date="1956-4-29">April 29, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotherhood Contest</name>
+  <contest id="3953">
+    <name>Brotherhood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotherhood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="3458">Chelmsford, Essex, England, UK</venue>
+  <notes></notes>
+
+  <created>April 10, 2013, 3:17 p.m.</created>
+  <last-modified>April 10, 2013, 3:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="151586">
+      <result code="1">1</result>
+      <band id="10561">Ingatestone Brotherhood</band>
+      <conductor id="308712">V. Sandford</conductor>
+    </result>
+    
+    <result id="151587">
+      <result code="2">2</result>
+      <band id="1344">Boxted Methodist Silver</band>
+      <conductor id="309444">S. Smith</conductor>
+    </result>
+    
+    <result id="151588">
+      <result code="3">3</result>
+      <band id="10560">Chelmsford Brotherhood</band>
+      <conductor id="303629">H. Hull</conductor>
+    </result>
+    
+  </results>
+</contest-event>

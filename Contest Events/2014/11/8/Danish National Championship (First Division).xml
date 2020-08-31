@@ -1,0 +1,51 @@
+<contest-event id="27350">
+  <event-date date="2014-11-8">Nov. 8, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Danish National Championship (First Division)</name>
+  <contest id="4850">
+    <name>Danish National Championship (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="84">Danish National Championship</group>
+    <slug>danish-national-championship-first-division</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1468">The Saga of Tyrfing</test-piece>
+  </test-piece>
+
+  <venue id="5627">Musikhuset Aarhus (Symfonisk Sal), Aarhus, Central Denmark, Denmark</venue>
+  <notes></notes>
+
+  <created>May 8, 2014, 1:50 p.m.</created>
+  <last-modified>Nov. 18, 2014, 11:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="211870">
+      <result code="1">1</result>
+      <band id="1262">Nordvestjysk Brass Band</band>
+      <conductor id="310283">Huw Thomas</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+    <result id="211869">
+      <result code="2">2</result>
+      <band id="2121">Skanderborg Brass Band</band>
+      <conductor id="305401">Henrik Lützen</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+    <result id="211871">
+      <result code="3">3</result>
+      <band id="2122">Dania Brass Band</band>
+      <conductor id="296973">Dennis Aaberg Andersen</conductor>
+      <test-piece id="57">Connotations</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

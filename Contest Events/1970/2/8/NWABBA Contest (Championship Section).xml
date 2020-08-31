@@ -1,0 +1,80 @@
+<contest-event id="19556">
+  <event-date date="1970-2-8">Feb. 8, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Contest (Championship Section)</name>
+  <contest id="1103">
+    <name>NWABBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="142">NWABBA Contest</group>
+    <slug>nwabba-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3306">Pembroke Halls, Worsley, Lancashire</venue>
+  <notes>Prizes - 1st £40 and trophy, 2nd £25 and rose bowl, 3rd £15 and trophy, 4th £5 and cup.
+7 bands competed.</notes>
+
+  <created>March 23, 2013, 3:42 p.m.</created>
+  <last-modified>June 18, 2016, 8:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="146511">
+      <result code="1">1</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="309347">Denis Smith</conductor>
+      <test-piece id="691">The Conquerors</test-piece>
+    </result>
+    
+    <result id="146512">
+      <result code="2">2</result>
+      <band id="175">Vernon Building Society (Poynton) Brass Band</band>
+      <conductor id="308996">G. T. Shawcross</conductor>
+      <test-piece id="372">The Frogs of Aristophanes</test-piece>
+    </result>
+    
+    <result id="256860">
+      <result code="3">3</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="303146">Les Hine</conductor>
+      <test-piece id="654">Scheherazade</test-piece>
+    </result>
+    
+    <result id="256862">
+      <result code="4">4</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310825">E. Vint</conductor>
+      <test-piece id="108">Lorenzo</test-piece>
+    </result>
+    
+    <result id="256858">
+      <result code="">Unknown Result</result>
+      <band id="502">Fairfield (Buxton) Band</band>
+      <conductor id="306378">W. B. Morley</conductor>
+      <test-piece id="654">Scheherazade</test-piece>
+    </result>
+    
+    <result id="256859">
+      <result code="">Unknown Result</result>
+      <band id="2756">Leigh Silver Band</band>
+      <conductor id="303193">Alan Hobson</conductor>
+      <test-piece id="1543">Quo Vadis?</test-piece>
+    </result>
+    
+    <result id="256861">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

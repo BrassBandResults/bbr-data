@@ -1,0 +1,61 @@
+<contest-event id="26214">
+  <event-date date="1943-8-28">Aug. 28, 1943<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Contest</name>
+  <contest id="1401">
+    <name>Birmingham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="277">Birmingham Contest</group>
+    <slug>birmingham-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1992">Semiramide [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4444">Cannon Hill, Birmingham</venue>
+  <notes>March: 1. Amington, 2 West bromwich Borough.
+5 bands competed</notes>
+
+  <created>Jan. 29, 2014, 11:32 p.m.</created>
+  <last-modified>Feb. 1, 2019, 11:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189786">
+      <result code="1">1</result>
+      <band id="347">Amington Band</band>
+      <conductor id="300220">Roland Davis</conductor>
+    </result>
+    
+    <result id="303872">
+      <result code="2">2</result>
+      <band id="1625">West Bromwich Borough</band>
+      <conductor id="296895">George Allen</conductor>
+    </result>
+    
+    <result id="303873">
+      <result code="3">3</result>
+      <band id="493">City of Birmingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303922">
+      <result code="4">4</result>
+      <band id="416">Langley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303923">
+      <result code="5">5</result>
+      <band id="13815">Hurst Green</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

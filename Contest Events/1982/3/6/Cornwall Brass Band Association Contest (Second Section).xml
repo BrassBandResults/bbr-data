@@ -1,0 +1,48 @@
+<contest-event id="12786">
+  <event-date date="1982-3-6">March 6, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall Brass Band Association Contest (Second Section)</name>
+  <contest id="3198">
+    <name>Cornwall BBA Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="521">Suite Gothique</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>27th annual contest</notes>
+
+  <created>April 23, 2012, 10:20 a.m.</created>
+  <last-modified>April 10, 2018, 1:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101674">
+      <result code="1">1</result>
+      <band id="521">St. Keverne Band</band>
+      <conductor id="304128">Derek Johnston Snr</conductor>
+    </result>
+    
+    <result id="204540">
+      <result code="2">2</result>
+      <band id="299">Helston Town Band</band>
+      <conductor id="297159">Edward Ashton</conductor>
+    </result>
+    
+    <result id="204541">
+      <result code="3">3</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="296783">Leonard Adams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

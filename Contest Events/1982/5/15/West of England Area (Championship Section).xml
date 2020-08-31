@@ -1,0 +1,100 @@
+<contest-event id="2494">
+  <event-date date="1982-5-15">May 15, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Championship Section)</name>
+  <contest id="38">
+    <name>West of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="908">Essay [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes>1st prize - West of England Challenge Trophy and 200
+2nd prize - 100
+3rd prize - 50
+
+**Who really came second? Bodmin or St Austell?</notes>
+
+  <created>Sept. 7, 2010, 9:30 p.m.</created>
+  <last-modified>Dec. 15, 2013, 7:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="26800">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="302166">Derek Greenwood</conductor>
+    </result>
+    
+    <result id="34880">
+      <result code="2">2</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="303982">Alan Jenkin</conductor>
+    </result>
+    
+    <result id="28850">
+      <result code="3">3</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="298210">Courtney Bosanko</conductor>
+    </result>
+    
+    <result id="26801">
+      <result code="4">4</result>
+      <band id="269">Sun Life</band>
+      <conductor id="298247">Derek Bourgeois</conductor>
+    </result>
+    
+    <result id="170013">
+      <result code="7">7</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="298681">William Buchan</conductor>
+    </result>
+    
+    <result id="179160">
+      <result code="">Unknown Result</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="304383">Don Keene</conductor>
+    </result>
+    
+    <result id="28849">
+      <result code="">Unknown Result</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="299221">Albert Chappell</conductor>
+    </result>
+    
+    <result id="179159">
+      <result code="">Unknown Result</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="303474">Brian Howard</conductor>
+    </result>
+    
+    <result id="179155">
+      <result code="">Unknown Result</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="299224">Cecil Chappell</conductor>
+    </result>
+    
+    <result id="179157">
+      <result code="">Unknown Result</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+    <result id="179156">
+      <result code="">Unknown Result</result>
+      <band id="547">Corsham Band</band>
+      <conductor id="309728">Denzil Stephens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

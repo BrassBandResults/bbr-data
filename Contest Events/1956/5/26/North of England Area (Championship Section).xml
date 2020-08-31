@@ -1,0 +1,72 @@
+<contest-event id="20351">
+  <event-date date="1956-5-26">May 26, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="468">Orion [Bantock]</test-piece>
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>  7 bands competed.</notes>
+
+  <created>April 6, 2013, 1:15 p.m.</created>
+  <last-modified>April 11, 2013, 8:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="150808">
+      <result code="1">1</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="151608">
+      <result code="2">2</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+    </result>
+    
+    <result id="151612">
+      <result code="3">3</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+    <result id="151610">
+      <result code="">Unknown Result</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151607">
+      <result code="">Unknown Result</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151609">
+      <result code="">Unknown Result</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151611">
+      <result code="">Unknown Result</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,74 @@
+<contest-event id="2110">
+  <event-date date="2000-11-25">Nov. 25, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Second Division)</name>
+  <contest id="13">
+    <name>Swiss National Championships (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-second-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="564">Feeling Young</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>18 Bands competed.
+
+not confirmed: 9. Brass Band Lötschental</notes>
+
+  <created>June 21, 2010, 11:22 a.m.</created>
+  <last-modified>June 24, 2017, 9:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114660">
+      <result code="1">1</result>
+      <band id="81">Brass Band Berner Oberland Junior</band>
+      <conductor id="313074">Véronique Gyger</conductor>
+    </result>
+    
+    <result id="236141">
+      <result code="2">2</result>
+      <band id="91">Brass Band Harmonie Rickenbach</band>
+      <conductor id="298995">Remo Capra</conductor>
+    </result>
+    
+    <result id="236142">
+      <result code="3">3</result>
+      <band id="1071">Brass Band L&#39;Avenir Lignières</band>
+      <conductor id="297532">Vincent Baroni</conductor>
+    </result>
+    
+    <result id="240976">
+      <result code="4">4</result>
+      <band id="92">Brass Band Posaunenchor Flaach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="18979">
+      <result code="7">7</result>
+      <band id="94">Brass Band Cazis</band>
+      <conductor id="309706">Claudio Steier</conductor>
+    </result>
+    
+    <result id="57069">
+      <result code="11">11</result>
+      <band id="97">Brass Band Fribourg B</band>
+      <conductor id="300304">Stephane Delley</conductor>
+    </result>
+    
+    <result id="117201">
+      <result code="13">13</result>
+      <band id="89">Brass Band MG Reiden</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+  </results>
+</contest-event>

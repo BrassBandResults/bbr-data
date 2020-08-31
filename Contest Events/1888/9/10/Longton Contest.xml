@@ -1,0 +1,79 @@
+<contest-event id="36014">
+  <event-date date="1888-9-10">Sept. 10, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Longton Contest</name>
+  <contest id="1249">
+    <name>Longton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>longton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1573">Excelsior [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1096">Covered Market, Longton</venue>
+  <notes>Prizes - 1st £10 and euphonium, 2nd £6 and tenor horn, 3rd £5, 4th £4.
+6 bands competed.</notes>
+
+  <created>Aug. 31, 2016, 11:27 a.m.</created>
+  <last-modified>Nov. 30, 2017, 9:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="283057">
+      <result code="1">1</result>
+      <band id="16556">Hanley Mission</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="261336">
+      <result code="2">2</result>
+      <band id="4520">Hanley Excelsior</band>
+      <conductor id="305860">H. McDermott</conductor>
+    </result>
+    
+    <result id="261337">
+      <result code="3">3</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="261338">
+      <result code="4">4</result>
+      <band id="8103">Burslem Port Vale</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="261339">
+      <result code="">Unknown Result</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="305068">Joseph Lewis</conductor>
+    </result>
+    
+    <result id="261341">
+      <result code="">Unknown Result</result>
+      <band id="6130">6th Staffordshire Rifle Volunteers (Burslem)</band>
+      <conductor id="299710">Thomas Copestake</conductor>
+    </result>
+    
+    <result id="261343">
+      <result code="W">Withdrawn</result>
+      <band id="4519">Crewe Carriage Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261342">
+      <result code="W">Withdrawn</result>
+      <band id="5284">Longton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

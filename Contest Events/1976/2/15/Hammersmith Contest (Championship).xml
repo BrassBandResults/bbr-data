@@ -1,0 +1,60 @@
+<contest-event id="21468">
+  <event-date date="1976-2-15">Feb. 15, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hammersmith Contest (Championship)</name>
+  <contest id="1749">
+    <name>Hammersmith Contest (Championship)</name>
+    <order>5</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="181">Hammersmith Contest</group>
+    <slug>hammersmith-contest-championship</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="5">Festival Music</test-piece>
+  </test-piece>
+
+  <venue id="274">Hammersmith Town Hall, Hammersmith, Hammersmith and Fulham, Greater London, England, UK</venue>
+  <notes>Own choice from a specified list, despite the first words on the programme cover being &quot;Hammersmith Entertainments&quot;.</notes>
+
+  <created>May 18, 2013, 12:03 p.m.</created>
+  <last-modified>May 12, 2014, 9:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="157925">
+      <result code="1">1</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="305710">Edward Massey</conductor>
+    </result>
+    
+    <result id="157926">
+      <result code="2">2</result>
+      <band id="493">City of Birmingham Band</band>
+      <conductor id="298453">Peter Bright</conductor>
+    </result>
+    
+    <result id="157927">
+      <result code="3">3</result>
+      <band id="323">Alder Valley Brass</band>
+      <conductor id="307735">George Prior</conductor>
+    </result>
+    
+    <result id="158804">
+      <result code="">Unknown Result</result>
+      <band id="618">Betteshanger Brass Band</band>
+      <conductor id="297315">R. Baggs</conductor>
+    </result>
+    
+    <result id="158805">
+      <result code="">Unknown Result</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="304178">Clifford Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

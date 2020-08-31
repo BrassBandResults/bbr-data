@@ -1,0 +1,61 @@
+<contest-event id="23339">
+  <event-date date="1922-8-7">Aug. 7, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Odstock Contest</name>
+  <contest id="4538">
+    <name>Odstock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>odstock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1806">Classic Gems No 2</test-piece>
+  </test-piece>
+
+  <venue id="3924">Odstock, Wiltshire, England, UK</venue>
+  <notes>
+  Best cornet and euphonium - Aldbourne.</notes>
+
+  <created>Aug. 31, 2013, 1:49 p.m.</created>
+  <last-modified>Feb. 14, 2016, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171515">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="309617">Albert Stacey</conductor>
+    </result>
+    
+    <result id="171516">
+      <result code="2">2</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="171517">
+      <result code="">Unknown Result</result>
+      <band id="8404">Boscombe Silver</band>
+      <conductor id="319619">Geraint Barnes</conductor>
+    </result>
+    
+    <result id="171518">
+      <result code="">Unknown Result</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="309879">W. Stretch</conductor>
+    </result>
+    
+    <result id="171519">
+      <result code="">Unknown Result</result>
+      <band id="12518">Harland and Wolff Southampton</band>
+      <conductor id="300805">R. J. Eggleton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

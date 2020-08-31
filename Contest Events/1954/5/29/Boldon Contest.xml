@@ -1,0 +1,74 @@
+<contest-event id="19087">
+  <event-date date="1954-5-29">May 29, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Boldon Contest</name>
+  <contest id="3316">
+    <name>Boldon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>boldon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2548">Boldon Colliery Village, County Durham</venue>
+  <notes>Prizes 1st £20 and cup, 2nd £10 and cup, 3rd £5.
+
+  7 bands competed.</notes>
+
+  <created>March 13, 2013, 1:03 p.m.</created>
+  <last-modified>April 4, 2019, 11:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="143345">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+    </result>
+    
+    <result id="143346">
+      <result code="2">2</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="308830">John Dennis Scoins</conductor>
+    </result>
+    
+    <result id="143347">
+      <result code="3">3</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="143348">
+      <result code="4">4</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="307519">Norman Piper</conductor>
+    </result>
+    
+    <result id="143349">
+      <result code="">Unknown Result</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143351">
+      <result code="">Unknown Result</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143350">
+      <result code="">Unknown Result</result>
+      <band id="570">Northumbrian Water Ellington Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

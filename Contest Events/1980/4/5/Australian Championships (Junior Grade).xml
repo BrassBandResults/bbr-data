@@ -1,0 +1,54 @@
+<contest-event id="34733">
+  <event-date date="1980-4-5">April 5, 1980<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2914">Three Sketches for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="310">Mount Gambier, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>March 21, 2016, 9:15 a.m.</created>
+  <last-modified>May 17, 2016, noon</last-modified>
+
+  <results>
+    
+    <result id="250554">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+    </result>
+    
+    <result id="250555">
+      <result code="2">2</result>
+      <band id="9431">Warragul Municipal Junior Band</band>
+      <conductor id="297106">Bruce Armstrong</conductor>
+    </result>
+    
+    <result id="250556">
+      <result code="3">3</result>
+      <band id="12292">Christian Brothers High School Lewisham</band>
+      <conductor id="303046">Bruce Hicks</conductor>
+    </result>
+    
+    <result id="250690">
+      <result code="4">4</result>
+      <band id="12317">St Joseph&#39;s College (Vic)</band>
+      <conductor id="309801">Robert Stirling</conductor>
+    </result>
+    
+  </results>
+</contest-event>

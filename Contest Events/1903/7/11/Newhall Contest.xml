@@ -1,0 +1,80 @@
+<contest-event id="21876">
+  <event-date date="1903-7-11">July 11, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newhall Contest</name>
+  <contest id="1916">
+    <name>Newhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1355">Newhall, Derbyshire</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £6, 3rd £3, 4th £2.
+</notes>
+
+  <created>June 15, 2013, 7:51 p.m.</created>
+  <last-modified>May 11, 2020, 12:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162558">
+      <result code="1">1</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="302480">George Hames</conductor>
+      <test-piece id="951">Il Matrimontio Segreto [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="162559">
+      <result code="2">2</result>
+      <band id="6654">Leek Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="162560">
+      <result code="3">3</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="162561">
+      <result code="4">4</result>
+      <band id="3861">Melbourne Town</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="259630">
+      <result code="5">5</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="305204">J. Locker</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="259632">
+      <result code="6">6</result>
+      <band id="5205">Kilburn United</band>
+      <conductor id="303034">J. Heywood</conductor>
+      <test-piece id="2393">Casket of Gems</test-piece>
+    </result>
+    
+    <result id="259631">
+      <result code="7">7</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+      <test-piece id="951">Il Matrimontio Segreto [arr. Godfrey]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

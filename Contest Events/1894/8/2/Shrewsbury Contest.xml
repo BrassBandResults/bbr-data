@@ -1,0 +1,50 @@
+<contest-event id="12242">
+  <event-date date="1894-8-2">Aug. 2, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shrewsbury Contest</name>
+  <contest id="1187">
+    <name>Shrewsbury Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="343">Shrewsbury Contest</group>
+    <slug>shrewsbury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="2599">Shrewsbury, Shropshire</venue>
+  <notes>Prizes: £8, £5, £2
+March: 1. Willenhall, 2. St George&#39;s
+3 bands competed.</notes>
+
+  <created>April 10, 2012, 7:59 p.m.</created>
+  <last-modified>June 14, 2019, 9:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98141">
+      <result code="1">1</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="308289">James Roberts</conductor>
+    </result>
+    
+    <result id="98142">
+      <result code="2">2</result>
+      <band id="7202">St. George&#39;s Old</band>
+      <conductor id="297697">James Bedford</conductor>
+    </result>
+    
+    <result id="98143">
+      <result code="3">3</result>
+      <band id="7775">Shifnal Volunteers</band>
+      <conductor id="306386">F. Morris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

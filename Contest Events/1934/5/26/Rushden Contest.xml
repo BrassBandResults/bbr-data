@@ -1,0 +1,67 @@
+<contest-event id="36775">
+  <event-date date="1934-5-26">May 26, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rushden Contest</name>
+  <contest id="2361">
+    <name>Rushden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rushden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2217">Windmill Hall, Rushden, Northamptonshire, England, UK</venue>
+  <notes>March contest - 1st Bedford rades, 2nd Finedon Old.
+6 bands competed.</notes>
+
+  <created>Jan. 2, 2017, 9:37 p.m.</created>
+  <last-modified>Jan. 2, 2017, 9:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="266687">
+      <result code="1">1</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="308297">M. J. Roberts</conductor>
+    </result>
+    
+    <result id="266688">
+      <result code="2">2</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308051">A. G. Remington</conductor>
+    </result>
+    
+    <result id="266689">
+      <result code="3">3</result>
+      <band id="2983">Bedford Trades</band>
+      <conductor id="299061">Edward Sydney Carter</conductor>
+    </result>
+    
+    <result id="266690">
+      <result code="4">4</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="302281">W. Groome</conductor>
+    </result>
+    
+    <result id="266692">
+      <result code="">Unknown Result</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266691">
+      <result code="">Unknown Result</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

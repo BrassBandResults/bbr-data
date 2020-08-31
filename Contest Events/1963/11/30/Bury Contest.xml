@@ -1,0 +1,69 @@
+<contest-event id="33440">
+  <event-date date="1963-11-30">Nov. 30, 1963<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bury Contest</name>
+  <contest id="1599">
+    <name>Bury Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3201">Drill Hall, Bury, Lancashire</venue>
+  <notes>14th annual contest
+Hymn tune contest - 1st Middleton, 2nd Lower Ince Temperance.
+Best soloist - Raymond Gaskell (solo horn) Skelmersdale.
+Deportment - Skelmersdale.</notes>
+
+  <created>Nov. 5, 2015, 9:45 p.m.</created>
+  <last-modified>Sept. 28, 2016, 2:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="240620">
+      <result code="1">1</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="297651">A. H. Beardsell</conductor>
+    </result>
+    
+    <result id="240621">
+      <result code="2">2</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="305391">William Lyon</conductor>
+    </result>
+    
+    <result id="240622">
+      <result code="3">3</result>
+      <band id="2756">Leigh Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240623">
+      <result code="4">4</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="262513">
+      <result code="">Unknown Result</result>
+      <band id="2584">Lower Ince Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="262512">
+      <result code="">Unknown Result</result>
+      <band id="185">Middleton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

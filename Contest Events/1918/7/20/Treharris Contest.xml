@@ -1,0 +1,72 @@
+<contest-event id="28817">
+  <event-date date="1918-7-20">July 20, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treharris Contest</name>
+  <contest id="2673">
+    <name>Treharris Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treharris-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1793">A Musical Bouquet</test-piece>
+  </test-piece>
+
+  <venue id="2015">Treharris</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>June 26, 2014, 4:45 p.m.</created>
+  <last-modified>Oct. 11, 2018, 2:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="205941">
+      <result code="1">1</result>
+      <band id="8418">Abergorchy</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="295683">
+      <result code="2">2</result>
+      <band id="8322">Barry Red Cross</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="295681">
+      <result code="3">3</result>
+      <band id="17419">Pentre Brass</band>
+      <conductor id="300965">Abe Evans</conductor>
+    </result>
+    
+    <result id="295682">
+      <result code="4">4</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="302537">D. Hanney</conductor>
+    </result>
+    
+    <result id="295679">
+      <result code="">Unknown Result</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="301832">Samuel Gillard</conductor>
+    </result>
+    
+    <result id="295680">
+      <result code="">Unknown Result</result>
+      <band id="11332">Llanbradach</band>
+      <conductor id="300258">W. W. Day</conductor>
+    </result>
+    
+    <result id="295684">
+      <result code="">Unknown Result</result>
+      <band id="17399">Varteg Temperance</band>
+      <conductor id="298155">John Bond</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,84 @@
+<contest-event id="39484">
+  <event-date date="1970-10-25">Oct. 25, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (D Grade)</name>
+  <contest id="3480">
+    <name>Victorian State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-d-grade</slug>
+    
+    <notes>None</notes>
+    
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1391">Threshold</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>April 11, 2018, 1:10 a.m.</created>
+  <last-modified>April 11, 2018, 1:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="286514">
+      <result code="1">1</result>
+      <band id="2248">Beaufort Municipal Band</band>
+      <conductor id="310947">Lee Wallis</conductor>
+    </result>
+    
+    <result id="286515">
+      <result code="2">2</result>
+      <band id="7858">Croydon Citizens Brass</band>
+      <conductor id="307046">Eric Page</conductor>
+    </result>
+    
+    <result id="286516">
+      <result code="3">3</result>
+      <band id="17003">Orange District Industrial   (NSW)</band>
+      <conductor id="315308">Charles Partridge</conductor>
+    </result>
+    
+    <result id="286517">
+      <result code="4">4</result>
+      <band id="13576">St. Arnaud Citizens</band>
+      <conductor id="312152">Bill Youngson</conductor>
+    </result>
+    
+    <result id="286518">
+      <result code="5">5</result>
+      <band id="2172">Warragul Municipal Band</band>
+      <conductor id="297106">Bruce Armstrong</conductor>
+    </result>
+    
+    <result id="286519">
+      <result code="">Unknown Result</result>
+      <band id="2319">Moonee Valley Brass</band>
+      <conductor id="298186">Ronald Booth</conductor>
+    </result>
+    
+    <result id="286520">
+      <result code="">Unknown Result</result>
+      <band id="730">Moorabbin Brass</band>
+      <conductor id="298483">Herbert Broadbent</conductor>
+    </result>
+    
+    <result id="286521">
+      <result code="">Unknown Result</result>
+      <band id="17005">Nunawading City</band>
+      <conductor id="317869">Geoff Morrison</conductor>
+    </result>
+    
+    <result id="286522">
+      <result code="">Unknown Result</result>
+      <band id="8738">Strathfieldsaye Municipal Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

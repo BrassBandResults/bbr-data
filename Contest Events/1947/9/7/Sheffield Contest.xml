@@ -1,0 +1,49 @@
+<contest-event id="18110">
+  <event-date date="1947-9-7">Sept. 7, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Contest</name>
+  <contest id="1214">
+    <name>Sheffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="7">March &amp; Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="7038">Weston Park, Sheffield, Yorkshire</venue>
+  <notes></notes>
+
+  <created>Feb. 11, 2013, 7:40 p.m.</created>
+  <last-modified>June 14, 2020, 11:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="136558">
+      <result code="1">1</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="302992">George Hespe</conductor>
+      <test-piece id="662">Egmont [arr. Ball]</test-piece>
+    </result>
+    
+    <result id="136559">
+      <result code="2">2</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="136560">
+      <result code="3">3</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

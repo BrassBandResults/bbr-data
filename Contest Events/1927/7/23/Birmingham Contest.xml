@@ -1,0 +1,49 @@
+<contest-event id="41327">
+  <event-date date="1927-7-23">July 23, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Contest</name>
+  <contest id="1401">
+    <name>Birmingham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="277">Birmingham Contest</group>
+    <slug>birmingham-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1304">Gounod [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="911">Birmingham, West Midlands, UK</venue>
+  <notes>Prizes - 1st £25, 2nd £15, 3rd £10.
+3 bands competed.</notes>
+
+  <created>Nov. 21, 2018, 9:16 p.m.</created>
+  <last-modified>Nov. 21, 2018, 10:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="300379">
+      <result code="1">1</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+    </result>
+    
+    <result id="300380">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+    <result id="300381">
+      <result code="3">3</result>
+      <band id="17537">St Gregory&#39;s Birmingham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

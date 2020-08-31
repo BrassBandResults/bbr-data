@@ -1,0 +1,63 @@
+<contest-event id="35857">
+  <event-date date="1959-10-4">Oct. 4, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (C Grade)</name>
+  <contest id="618">
+    <name>NSW State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="14">Hymn &amp; Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6248">Mortdale Theatre Sydney, New South Wales, Australia</venue>
+  <notes>Marching Championship
+......Band.........Drum Major........March......pts
+1.   Bexley District ,      Doug Sharpe  ,    &quot; Jack O&#39;Lantern&quot;   160 pts
+2.   St.George - Sutherland   ,  Bill Hutchinson   ,   &quot; Royal Australian Navy &quot;  153
+3.   Penrith St.Marys ,    Harold Mallard  ,     &quot; Imperial Echoes &quot;  149
+4.   Bankstown Municipal   ,        Harold Hastings  ,   &quot; The Conqueror &quot;  143</notes>
+
+  <created>Aug. 4, 2016, 11:54 p.m.</created>
+  <last-modified>Oct. 7, 2016, 2:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="260102">
+      <result code="1">1</result>
+      <band id="11213">Bexley District (NSW)</band>
+      <conductor id="309762">Ken Stevens</conductor>
+      <test-piece id="159">Indian Summer</test-piece>
+    </result>
+    
+    <result id="260103">
+      <result code="2">2</result>
+      <band id="2305">Bankstown City Brass Band</band>
+      <conductor id="315297">Colin Dunton</conductor>
+      <test-piece id="582">Robin Hood [Geehl]</test-piece>
+    </result>
+    
+    <result id="260104">
+      <result code="3">3</result>
+      <band id="14152">Penrith - St.Marys District</band>
+      <conductor id="304120">W. Johnson</conductor>
+      <test-piece id="3785">Lav Lessenne</test-piece>
+    </result>
+    
+    <result id="260105">
+      <result code="4">4</result>
+      <band id="2283">Sutherland Shire Brass</band>
+      <conductor id="305902">Frank McGuinness</conductor>
+      <test-piece id="1072">Homage to Pharaoh</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

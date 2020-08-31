@@ -1,0 +1,54 @@
+<contest-event id="43775">
+  <event-date date="1958-11-1">Nov. 1, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tanunda Band Contest (A Grade)</name>
+  <contest id="6607">
+    <name>Tanunda Band Contest (A Grade)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="617">Tanunda Band Contest</group>
+    <slug>tanunda-band-contest-a-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="6375">No.1   Symphonic Suite --  No2.   Tintagel</test-piece>
+  </test-piece>
+
+  <venue id="7288">Tanunda Recreation Grounds, Tanunda,  South Australia,  Australia</venue>
+  <notes>No.2  test points listed under Own Choice</notes>
+
+  <created>June 27, 2020, 11:09 p.m.</created>
+  <last-modified>June 27, 2020, 11:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="319920">
+      <result code="1">1</result>
+      <band id="2178">Tanunda Town Band</band>
+      <conductor id="304068">Galvin John</conductor>
+    </result>
+    
+    <result id="319921">
+      <result code="2">2</result>
+      <band id="19086">Henley &amp; Grange Municipal</band>
+      <conductor id="320196">Clair Bail</conductor>
+    </result>
+    
+    <result id="319922">
+      <result code="3">3</result>
+      <band id="18759">Kensington &amp; Norwood Municipal  (Sth Aust)</band>
+      <conductor id="309759">Herb Stevens</conductor>
+    </result>
+    
+    <result id="319923">
+      <result code="4">4</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+  </results>
+</contest-event>

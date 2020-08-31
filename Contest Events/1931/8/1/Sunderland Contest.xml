@@ -1,0 +1,80 @@
+<contest-event id="24757">
+  <event-date date="1931-8-1">Aug. 1, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sunderland Contest</name>
+  <contest id="2116">
+    <name>Sunderland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sunderland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3885">Roker Park, Sunderland</venue>
+  <notes>  March contest - 1st Brancepeth, 2nd Thornley.
+ Prizes - 1st £10 and cup, 2nd £5, 3rd £3.
+ 8 bands competed.</notes>
+
+  <created>Oct. 28, 2013, 3:01 p.m.</created>
+  <last-modified>Dec. 16, 2018, 1:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180990">
+      <result code="1">1</result>
+      <band id="5818">Wallsend Borough Band</band>
+      <conductor id="298123">Jack Boddice</conductor>
+    </result>
+    
+    <result id="180991">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="180992">
+      <result code="3">3</result>
+      <band id="923">Boldon Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="180993">
+      <result code="4">4</result>
+      <band id="11790">St Hilda Colliery (New)</band>
+      <conductor id="305674">W. D. Martin</conductor>
+    </result>
+    
+    <result id="180997">
+      <result code="">Unknown Result</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180994">
+      <result code="">Unknown Result</result>
+      <band id="3456">Ryhope Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180995">
+      <result code="">Unknown Result</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="180996">
+      <result code="">Unknown Result</result>
+      <band id="11595">T.L.F.Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="14391">
+  <event-date date="1995-11-25">Nov. 25, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (First Division)</name>
+  <contest id="12">
+    <name>Swiss National Championships (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-first-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="103">Music for the Common Man</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2012, 9:48 a.m.</created>
+  <last-modified>March 23, 2015, 4:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114641">
+      <result code="1">1</result>
+      <band id="1068">BML Talents</band>
+      <conductor id="299278">Rino Chiappori</conductor>
+    </result>
+    
+    <result id="115912">
+      <result code="2">2</result>
+      <band id="72">Brass Band Kirchenmusik Flühli</band>
+      <conductor id="297292">Philippe Bach</conductor>
+    </result>
+    
+    <result id="165411">
+      <result code="3">3</result>
+      <band id="71">Brass Band MG Rickenbach</band>
+      <conductor id="310620">Corsin Tuor</conductor>
+    </result>
+    
+    <result id="165412">
+      <result code="5">5</result>
+      <band id="70">Ensemble de Cuivres Euphonia</band>
+      <conductor id="313791">José Niquille</conductor>
+    </result>
+    
+  </results>
+</contest-event>

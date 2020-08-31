@@ -1,0 +1,103 @@
+<contest-event id="10997">
+  <event-date date="1993-4-11">April 11, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins Southport (Second Section)</name>
+  <contest id="1001">
+    <name>Pontins Southport (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="72">Pontins (Southport) - Qualifiers</group>
+    <slug>pontins-southport-second-section</slug>
+    <qualifies-for id="71">Pontins (Second Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="780">Sinfonietta for Brass Band [Leidzen]</test-piece>
+  </test-piece>
+
+  <venue id="4858">Pontins Holiday Centre (Ballroom), Ainsdale Beach, Southport</venue>
+  <notes>Prizes - 1st £500 and cup, 2nd £350, 3rd £250.
+7 bands competed</notes>
+
+  <created>March 10, 2012, 7:45 p.m.</created>
+  <last-modified>July 9, 2017, 8:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="221982">
+      <result code="1">1</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="297561">Darrol Barry</conductor>
+    </result>
+    
+    <result id="221985">
+      <result code="2">2</result>
+      <band id="8298">Gorton Silver Band</band>
+      <conductor id="300976">David Evans</conductor>
+    </result>
+    
+    <result id="221991">
+      <result code="3">3</result>
+      <band id="2998">Yorkshire Traction</band>
+      <conductor id="303557">John Hudson</conductor>
+    </result>
+    
+    <result id="221981">
+      <result code="4">4</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="306385">Dave Morris</conductor>
+    </result>
+    
+    <result id="221987">
+      <result code="">Unknown Result</result>
+      <band id="708">Jayess &#39;87</band>
+      <conductor id="300710">Andrew Eastwood</conductor>
+    </result>
+    
+    <result id="221980">
+      <result code="">Unknown Result</result>
+      <band id="121">Beaumaris Band</band>
+      <conductor id="300993">Gwyn Evans</conductor>
+    </result>
+    
+    <result id="221983">
+      <result code="">Unknown Result</result>
+      <band id="575">East Riding of Yorkshire Band</band>
+      <conductor id="311366">Tony Whitaker</conductor>
+    </result>
+    
+    <result id="221986">
+      <result code="W">Withdrawn</result>
+      <band id="390">Greenalls Band</band>
+      <conductor id="298253">Howard Bousefield</conductor>
+    </result>
+    
+    <result id="221984">
+      <result code="W">Withdrawn</result>
+      <band id="217">Greenfield Band</band>
+      <conductor id="299994">J. Curley</conductor>
+    </result>
+    
+    <result id="221990">
+      <result code="W">Withdrawn</result>
+      <band id="187">Rainford Band</band>
+      <conductor id="306271">Colin Moore</conductor>
+    </result>
+    
+    <result id="221988">
+      <result code="W">Withdrawn</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="312078">Alan Wycherley</conductor>
+    </result>
+    
+    <result id="221989">
+      <result code="W">Withdrawn</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="312005">Chris Wormald</conductor>
+    </result>
+    
+  </results>
+</contest-event>

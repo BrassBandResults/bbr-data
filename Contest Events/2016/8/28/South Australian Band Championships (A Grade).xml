@@ -1,0 +1,51 @@
+<contest-event id="36004">
+  <event-date date="2016-8-28">Aug. 28, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Australian Band Championships (A Grade)</name>
+  <contest id="569">
+    <name>South Australian Band Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="580">The Accursed Huntsman</test-piece>
+  </test-piece>
+
+  <venue id="6274">Immanuel College, Novar Gardens, Adelaide, Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 28, 2016, 9:01 a.m.</created>
+  <last-modified>Aug. 29, 2016, 1:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261239">
+      <result code="1">1</result>
+      <band id="2178">Tanunda Town Band</band>
+      <conductor id="307954">Bruce Raymond</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+    <result id="261240">
+      <result code="2">2</result>
+      <band id="2150">Marion City Band</band>
+      <conductor id="298244">Veronica Boulton</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+    <result id="261241">
+      <result code="3">3</result>
+      <band id="698">Kensington &amp; Norwood Brass</band>
+      <conductor id="315461">Gregory Peterson</conductor>
+      <test-piece id="10">The Judges of the Secret Court (Les Francs Juges)</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

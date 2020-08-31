@@ -1,0 +1,84 @@
+<contest-event id="29686">
+  <event-date date="1981-4-19">April 19, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1232">Provence</test-piece>
+  </test-piece>
+
+  <venue id="2358">Civic Centre, Burnie, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>Oct. 17, 2014, 10:30 a.m.</created>
+  <last-modified>March 25, 2016, 10:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="211159">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+    </result>
+    
+    <result id="211158">
+      <result code="2">2</result>
+      <band id="18320">Hobart Concert Brass Juniors</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+    </result>
+    
+    <result id="211157">
+      <result code="3">3</result>
+      <band id="9980">St Leo&#39;s College (Box Hill)</band>
+      <conductor id="297983">Gary Bishop</conductor>
+    </result>
+    
+    <result id="211156">
+      <result code="4">4</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+    </result>
+    
+    <result id="211155">
+      <result code="5">5</result>
+      <band id="2205">Klemzig Junior Band 1</band>
+      <conductor id="297132">Ron Arthur</conductor>
+    </result>
+    
+    <result id="211154">
+      <result code="6">6</result>
+      <band id="13323">City of Burnie Brass Junior</band>
+      <conductor id="301249">Kevin Findlay</conductor>
+    </result>
+    
+    <result id="211153">
+      <result code="7">7</result>
+      <band id="12080">Sutherland Shire Brass Junior</band>
+      <conductor id="305902">Frank McGuinness</conductor>
+    </result>
+    
+    <result id="211161">
+      <result code="W">Withdrawn</result>
+      <band id="9276">City of Devonport Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211160">
+      <result code="W">Withdrawn</result>
+      <band id="12362">Smithton High</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

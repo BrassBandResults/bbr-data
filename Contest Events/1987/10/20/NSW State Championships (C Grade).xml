@@ -1,0 +1,79 @@
+<contest-event id="36148">
+  <event-date date="1987-10-20">Oct. 20, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (C Grade)</name>
+  <contest id="618">
+    <name>NSW State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="241">Dimensions</test-piece>
+  </test-piece>
+
+  <venue id="3150">St. Mary&#39;s Band Club, Sydney, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>Sept. 26, 2016, 6:22 a.m.</created>
+  <last-modified>March 17, 2020, 4:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="262431">
+      <result code="1">1</result>
+      <band id="737">Gunnedah Shire Band</band>
+      <conductor id="307725">Stan Priestley</conductor>
+      <test-piece id="385">Hinemoa</test-piece>
+    </result>
+    
+    <result id="262432">
+      <result code="2">2</result>
+      <band id="2308">Blue Mountains City Band</band>
+      <conductor id="298250">Chris Bourne</conductor>
+      <test-piece id="581">Pride of Youth</test-piece>
+    </result>
+    
+    <result id="316167">
+      <result code="3">3</result>
+      <band id="9293">Moree &amp; District Band</band>
+      <conductor id="308520">Laurence Rowe</conductor>
+      <test-piece id="142">Vizcaya</test-piece>
+    </result>
+    
+    <result id="262434">
+      <result code="4">4</result>
+      <band id="2174">Yagoona District Band</band>
+      <conductor id="317837">Tom Gawn</conductor>
+      <test-piece id="424">Blackfriars</test-piece>
+    </result>
+    
+    <result id="262435">
+      <result code="5">5</result>
+      <band id="12306">United Mine Workers Federation Band</band>
+      <conductor id="301368">John Flynn</conductor>
+      <test-piece id="367">A Saddleworth Festival Overture</test-piece>
+    </result>
+    
+    <result id="262436">
+      <result code="6">6</result>
+      <band id="735">Maitland City Band</band>
+      <conductor id="317872">David Walker</conductor>
+      <test-piece id="114">Snowdon Fantasy</test-piece>
+    </result>
+    
+    <result id="262437">
+      <result code="7">7</result>
+      <band id="12319">Nepean Valley Brass</band>
+      <conductor id="297724">Bill Belcher</conductor>
+      <test-piece id="1688">Coliseum</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

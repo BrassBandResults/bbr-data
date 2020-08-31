@@ -1,0 +1,67 @@
+<contest-event id="12627">
+  <event-date date="1899-8-12">Aug. 12, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Greenfield Contest</name>
+  <contest id="2628">
+    <name>Greenfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>greenfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1979">Greenfield</venue>
+  <notes>Prizews - 1st £8, 2nd £5, 3rd £3, 4th £2, 5th £1.
+ 6 bands competed.</notes>
+
+  <created>April 18, 2012, 3:14 p.m.</created>
+  <last-modified>July 28, 2019, 12:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100658">
+      <result code="1">1</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="100659">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100660">
+      <result code="3">3</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="100661">
+      <result code="4">4</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100662">
+      <result code="5">5</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100663">
+      <result code="">Unknown Result</result>
+      <band id="8302">Reddish Band</band>
+      <conductor id="297391">A. Ball</conductor>
+    </result>
+    
+  </results>
+</contest-event>

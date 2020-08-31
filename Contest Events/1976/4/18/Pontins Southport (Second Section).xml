@@ -1,0 +1,103 @@
+<contest-event id="12099">
+  <event-date date="1976-4-18">April 18, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins Southport (Second Section)</name>
+  <contest id="1001">
+    <name>Pontins Southport (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="72">Pontins (Southport) - Qualifiers</group>
+    <slug>pontins-southport-second-section</slug>
+    <qualifies-for id="71">Pontins (Second Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1187">Overture to &quot;The Sicilian Vespers&quot; [arr. Siebert]</test-piece>
+  </test-piece>
+
+  <venue id="560">Pontins Holiday Centre, Ainsdale Beach, Southport</venue>
+  <notes>  Prizes  -  1st £250, 2nd £100, 3rd £50.
+12 bands competed.</notes>
+
+  <created>April 9, 2012, 12:33 p.m.</created>
+  <last-modified>May 18, 2016, 9:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="97157">
+      <result code="1">1</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="303452">Frank Hough</conductor>
+    </result>
+    
+    <result id="158014">
+      <result code="2">2</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="309250">Murray Slater</conductor>
+    </result>
+    
+    <result id="158015">
+      <result code="3">3</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="310125">Brian Taylor</conductor>
+    </result>
+    
+    <result id="254372">
+      <result code="">Unknown Result</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="254371">
+      <result code="">Unknown Result</result>
+      <band id="394">Brindle Band</band>
+      <conductor id="307622">Geoffrey Poulton</conductor>
+    </result>
+    
+    <result id="254373">
+      <result code="">Unknown Result</result>
+      <band id="390">Greenalls Band</band>
+      <conductor id="301477">Charles Fradley</conductor>
+    </result>
+    
+    <result id="254374">
+      <result code="">Unknown Result</result>
+      <band id="2695">Heage Band</band>
+      <conductor id="309872">Tom Street</conductor>
+    </result>
+    
+    <result id="254375">
+      <result code="">Unknown Result</result>
+      <band id="1359">Lancashire Fusiliers Association</band>
+      <conductor id="310825">E. Vint</conductor>
+    </result>
+    
+    <result id="254376">
+      <result code="">Unknown Result</result>
+      <band id="3143">Lofthouse Colliery</band>
+      <conductor id="297834">Garry Beresford</conductor>
+    </result>
+    
+    <result id="254377">
+      <result code="">Unknown Result</result>
+      <band id="288">Northop Band</band>
+      <conductor id="304214">Graham Jones</conductor>
+    </result>
+    
+    <result id="254378">
+      <result code="">Unknown Result</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="297071">Michael Antrobus</conductor>
+    </result>
+    
+    <result id="254379">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

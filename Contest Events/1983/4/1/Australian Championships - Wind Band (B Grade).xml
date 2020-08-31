@@ -1,0 +1,78 @@
+<contest-event id="37825">
+  <event-date date="1983-4-1">April 1, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (B Grade)</name>
+  <contest id="6137">
+    <name>Australian Championships - Wind Band (B Grade)</name>
+    <order>1</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-b-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="4254">Divertimento For Band [Persichetti]</test-piece>
+  </test-piece>
+
+  <venue id="6261">Chatswood Civic Centre,  New South Wales, Australia</venue>
+  <notes>Introduction of &quot;B&quot; Grade
+All competing bands from N S W</notes>
+
+  <created>May 3, 2017, 10:43 p.m.</created>
+  <last-modified>May 4, 2017, 10:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="273483">
+      <result code="1">1</result>
+      <band id="15051">Western Suburbs P C Y C  (NSW)</band>
+      <conductor id="311607">Dennis Williams</conductor>
+      <test-piece id="4725">Jubiloso Overture</test-piece>
+    </result>
+    
+    <result id="273484">
+      <result code="2">2</result>
+      <band id="14500">Hornsby Concert No.2</band>
+      <conductor id="315768">Stephen O&#39;Doherty</conductor>
+      <test-piece id="4726">Suite Des Symphonies</test-piece>
+    </result>
+    
+    <result id="273485">
+      <result code="3">3</result>
+      <band id="14804">Campbelltown - Camden (NSW)</band>
+      <conductor id="307562">Harold Pollard</conductor>
+      <test-piece id="4309">The Hounds of Spring</test-piece>
+    </result>
+    
+    <result id="273486">
+      <result code="4">4</result>
+      <band id="14589">Bathurst R S L Concert</band>
+      <conductor id="315871">Geoff Simm</conductor>
+      <test-piece id="4727">Matrix Overture</test-piece>
+    </result>
+    
+    <result id="273487">
+      <result code="5">5</result>
+      <band id="15201">Bankstown District  (NSW)</band>
+      <conductor id="315915">Allan Gallagher</conductor>
+      <test-piece id="3819">The Caliph of Bagdad</test-piece>
+    </result>
+    
+    <result id="273488">
+      <result code="W">Withdrawn</result>
+      <band id="14633">Knox Grammar School (Wahroonga)</band>
+      <conductor id="315778">Brian Buggy</conductor>
+    </result>
+    
+    <result id="273489">
+      <result code="W">Withdrawn</result>
+      <band id="15036">Queensland  University Regiment</band>
+      <conductor id="301154">Joseph Fawcett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

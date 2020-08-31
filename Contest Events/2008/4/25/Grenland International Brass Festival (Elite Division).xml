@@ -1,0 +1,67 @@
+<contest-event id="3247">
+  <event-date date="2008-4-25">April 25, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grenland International Brass Festival (Elite Division)</name>
+  <contest id="387">
+    <name>Grenland International Brass Festival (Elite Division)</name>
+    <order>1</order>
+    <contest-type id="22">Chuch Concert, Test Piece &amp; Entertainment</contest-type>
+    <group id="66">Grenland International Brass Festival</group>
+    <slug>grenland-international-brass-festival-elite-divisi</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="9">Elite</section>
+  </contest>
+  <contest-type-override id="22">Chuch Concert, Test Piece &amp; Entertainment</contest-type-override>
+  <test-piece>
+    <test-piece id="391">Prometheus Unbound</test-piece>
+  </test-piece>
+
+  <venue id="200">Ibsenhuset, Skien, Telemark, Norway</venue>
+  <notes>Soloist prize: Brendan Wheeler, euphonium, Leyland Band 
+Conductor prize, best testpiece: Garry E. Cutt, Windcorp Brass Band</notes>
+
+  <created>Nov. 29, 2010, 1:17 p.m.</created>
+  <last-modified>April 4, 2012, 9:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="31628">
+      <result code="1">1</result>
+      <band id="1934">Windcorp Brass Band</band>
+      <conductor id="300022">Garry Cutt</conductor>
+    </result>
+    
+    <result id="31629">
+      <result code="2">2</result>
+      <band id="8">Leyland Band</band>
+      <conductor id="304346">Jason Katsikaris</conductor>
+    </result>
+    
+    <result id="31630">
+      <result code="3">3</result>
+      <band id="774">Sandefjord Brass Symposium</band>
+      <conductor id="302536">John Philip Hannevik</conductor>
+    </result>
+    
+    <result id="31631">
+      <result code="4">4</result>
+      <band id="1225">Concord Brass Band</band>
+      <conductor id="310231">Kasper Thaarup</conductor>
+    </result>
+    
+    <result id="31632">
+      <result code="5">5</result>
+      <band id="1094">Molde Brass Band</band>
+      <conductor id="297071">Michael Antrobus</conductor>
+    </result>
+    
+    <result id="31633">
+      <result code="6">6</result>
+      <band id="1223">Provinciale Brass Band Groningen</band>
+      <conductor id="302479">Sietse Hamersma</conductor>
+    </result>
+    
+  </results>
+</contest-event>

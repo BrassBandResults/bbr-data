@@ -1,0 +1,65 @@
+<contest-event id="34656">
+  <event-date date="1990-4-13">April 13, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior A Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="220">Music for a Festival [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="336">Melbourne, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>March 17, 2016, 10:31 p.m.</created>
+  <last-modified>March 18, 2016, 10:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="249912">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="166">Trittico [Curnow]</test-piece>
+    </result>
+    
+    <result id="249913">
+      <result code="2">2</result>
+      <band id="12080">Sutherland Shire Brass Junior</band>
+      <conductor id="305902">Frank McGuinness</conductor>
+      <test-piece id="325">The Aeronauts</test-piece>
+    </result>
+    
+    <result id="249914">
+      <result code="3">3</result>
+      <band id="9431">Warragul Municipal Junior Band</band>
+      <conductor id="297106">Bruce Armstrong</conductor>
+      <test-piece id="104">Facets of Glass</test-piece>
+    </result>
+    
+    <result id="249915">
+      <result code="4">4</result>
+      <band id="745">Newcastle PCYC Brass Band</band>
+      <conductor id="310973">Stephen Walter</conductor>
+      <test-piece id="367">A Saddleworth Festival Overture</test-piece>
+    </result>
+    
+    <result id="249916">
+      <result code="5">5</result>
+      <band id="9980">St Leo&#39;s College (Box Hill)</band>
+      <conductor id="311962">John Woods</conductor>
+      <test-piece id="619">The Prizewinners</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

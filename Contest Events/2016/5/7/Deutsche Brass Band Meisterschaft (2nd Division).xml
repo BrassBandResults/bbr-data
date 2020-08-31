@@ -1,0 +1,66 @@
+<contest-event id="33469">
+  <event-date date="2016-5-7">May 7, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deutsche Brass Band Meisterschaft (2nd Division)</name>
+  <contest id="5667">
+    <name>Deutsche Brass Band Meisterschaft (2nd Division)</name>
+    <order>2</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="24">Deutsche Brass Band Meisterschaft</group>
+    <slug>deutsche-brass-band-meisterschaft-2nd-division</slug>
+    
+    <notes></notes>
+    <region id="23">Germany</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1449">Evolution - Five States of Change</test-piece>
+  </test-piece>
+
+  <venue id="4666">Regentenbau (Max Littmann-Saal), Bad Kissingen, Bavaria, Germany</venue>
+  <notes></notes>
+
+  <created>Nov. 15, 2015, 1:14 p.m.</created>
+  <last-modified>May 8, 2016, 11:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="247528">
+      <result code="1">1</result>
+      <band id="953">Brass Band Regensburg</band>
+      <conductor id="304911">Dave Lea</conductor>
+    </result>
+    
+    <result id="247524">
+      <result code="2">2</result>
+      <band id="7415">Badische Brass Band</band>
+      <conductor id="304653">Dominik Koch</conductor>
+    </result>
+    
+    <result id="247525">
+      <result code="3">3</result>
+      <band id="10929">Nordbayerische Brass Band</band>
+      <conductor id="311245">Mathias Wehr</conductor>
+    </result>
+    
+    <result id="247526">
+      <result code="4">4</result>
+      <band id="7413">Brass Band Blechklang Jena</band>
+      <conductor id="308173">Alexander Richter</conductor>
+    </result>
+    
+    <result id="247527">
+      <result code="5">5</result>
+      <band id="951">Brass Band Düren</band>
+      <conductor id="308819">Martin Schädlich</conductor>
+    </result>
+    
+    <result id="247529">
+      <result code="W">Withdrawn</result>
+      <band id="954">Brass Band München</band>
+      <conductor id="302779">Ekkehard Hauenstein</conductor>
+    </result>
+    
+  </results>
+</contest-event>

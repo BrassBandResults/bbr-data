@@ -1,0 +1,79 @@
+<contest-event id="20061">
+  <event-date date="1967-8-7">Aug. 7, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class A)</name>
+  <contest id="3279">
+    <name>National Eisteddfod of Wales (Class A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2043">Rienzi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="5308">Bala, Gwynedd, Wales, UK</venue>
+  <notes>
+  Prizes - 1st £500, 2nd £60, 3rd £40.</notes>
+
+  <created>March 30, 2013, 9:35 a.m.</created>
+  <last-modified>July 17, 2015, 10:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="149435">
+      <result code="1">1</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="307734">Fred Prior</conductor>
+    </result>
+    
+    <result id="149436">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149437">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149440">
+      <result code="">Unknown Result</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149442">
+      <result code="">Unknown Result</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149438">
+      <result code="">Unknown Result</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149441">
+      <result code="">Unknown Result</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149439">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

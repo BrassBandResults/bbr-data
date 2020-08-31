@@ -1,0 +1,55 @@
+<contest-event id="35420">
+  <event-date date="1948-6-19">June 19, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest (Second Section)</name>
+  <contest id="3260">
+    <name>Rhyl Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1093">Cosi Fan Tutte [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1700">Rhyl, Denbighshire, Wales, UK</venue>
+  <notes>Prizes - 1st £25 and trophy, 2nd £15, 3rd £10, 4th £5.
+5 bands competed.</notes>
+
+  <created>May 26, 2016, 11:08 a.m.</created>
+  <last-modified>Feb. 19, 2019, 3:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255776">
+      <result code="1">1</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255777">
+      <result code="2">2</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="255778">
+      <result code="3">3</result>
+      <band id="10221">Crossley Brothers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255779">
+      <result code="4">4</result>
+      <band id="2548">Colwyn Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

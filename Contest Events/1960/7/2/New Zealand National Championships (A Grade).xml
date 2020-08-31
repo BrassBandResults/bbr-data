@@ -1,0 +1,48 @@
+<contest-event id="14560">
+  <event-date date="1960-7-2">July 2, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Zealand National Championships (A Grade)</name>
+  <contest id="216">
+    <name>New Zealand National Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="43">New Zealand National Championships</group>
+    <slug>new-zealand-national-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="18">New Zealand</region>
+    <section id="12">A Grade</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="43">An Epic Symphony</test-piece>
+  </test-piece>
+
+  <venue id="2313">Christchurch, Canterbury, New Zealand</venue>
+  <notes></notes>
+
+  <created>Aug. 24, 2012, 10:39 a.m.</created>
+  <last-modified>Dec. 4, 2014, 10:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="115199">
+      <result code="1">1</result>
+      <band id="9237">Auckland Metropolitan Fire Brigade</band>
+      <conductor id="310377">L. Thorne</conductor>
+    </result>
+    
+    <result id="215886">
+      <result code="2">2</result>
+      <band id="1788">Kaikorai Metropolitan Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="215887">
+      <result code="3">3</result>
+      <band id="1158">St Kilda Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

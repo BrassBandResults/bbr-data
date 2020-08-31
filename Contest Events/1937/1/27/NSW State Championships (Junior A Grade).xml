@@ -1,0 +1,51 @@
+<contest-event id="36027">
+  <event-date date="1937-1-27">Jan. 27, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (Junior A Grade)</name>
+  <contest id="647">
+    <name>NSW State Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>Sept. 6, 2016, 3:26 a.m.</created>
+  <last-modified>Sept. 21, 2016, 10:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261537">
+      <result code="1">1</result>
+      <band id="14253">Port Kembla Boys</band>
+      <conductor id="301529">W. Freeman</conductor>
+      <test-piece id="3858">Dawn of Spring</test-piece>
+    </result>
+    
+    <result id="261538">
+      <result code="2">2</result>
+      <band id="14252">Hurstville Boys High School</band>
+      <conductor id="315450">Albert Swales</conductor>
+      <test-piece id="2403">Rustic Suite</test-piece>
+    </result>
+    
+    <result id="261539">
+      <result code="3">3</result>
+      <band id="14251">Grandville Boys</band>
+      <conductor id="298346">G. Braham</conductor>
+      <test-piece id="2213">Operatic Melodies</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,69 @@
+<contest-event id="22727">
+  <event-date date="1957-6-22">June 22, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Second Section)</name>
+  <contest id="171">
+    <name>Wessex Brass Band Association (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="793">Divertimento [Ball]</test-piece>
+  </test-piece>
+
+  <venue id="3790">The Manor House, Berwick St. John, Wiltshire</venue>
+  <notes>  March contest(Royal Standard) - 1st Shaftesbury, 2nd Handley, 3rd Fovant.
+  Best cornet and euphonium - Wincanton.
+  Best soprano - Verwood.
+  6 bands competed.</notes>
+
+  <created>Aug. 13, 2013, 10:18 a.m.</created>
+  <last-modified>Aug. 13, 2013, 10:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="167993">
+      <result code="1">1</result>
+      <band id="10662">Wincanton Junior</band>
+      <conductor id="301819">R. W. Gilham</conductor>
+    </result>
+    
+    <result id="167994">
+      <result code="2">2</result>
+      <band id="1733">Shaftesbury Crusade</band>
+      <conductor id="300376">R. C. Dicker</conductor>
+    </result>
+    
+    <result id="167995">
+      <result code="3">3</result>
+      <band id="10503">Handley Silver</band>
+      <conductor id="304315">D. Judd</conductor>
+    </result>
+    
+    <result id="167996">
+      <result code="">Unknown Result</result>
+      <band id="547">Corsham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167997">
+      <result code="">Unknown Result</result>
+      <band id="6808">Fovant</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167998">
+      <result code="">Unknown Result</result>
+      <band id="362">Verwood Concert Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

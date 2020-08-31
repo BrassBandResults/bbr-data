@@ -1,0 +1,68 @@
+<contest-event id="40334">
+  <event-date date="1908-7-25">July 25, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class C)</name>
+  <contest id="4008">
+    <name>West Wales BBA Contest (Class C)</name>
+    <order>230</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5643">Melodies of Old Ireland</test-piece>
+  </test-piece>
+
+  <venue id="2612">Clydach, Swansea, Glamorgan</venue>
+  <notes>Best basses - Mond Silver.
+Best euphonium - Blaengwynfi.
+6 bands competed.</notes>
+
+  <created>Sept. 23, 2018, 12:05 p.m.</created>
+  <last-modified>Sept. 23, 2018, 12:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293486">
+      <result code="1">1</result>
+      <band id="7361">Mond Silver</band>
+      <conductor id="302257">William Griffiths</conductor>
+    </result>
+    
+    <result id="293488">
+      <result code="2">2</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="299807">W. J. Coverley</conductor>
+    </result>
+    
+    <result id="293489">
+      <result code="3">3</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="302636">A. G. Harries</conductor>
+    </result>
+    
+    <result id="293487">
+      <result code="4">4</result>
+      <band id="7329">Skewen</band>
+      <conductor id="308122">John Richards</conductor>
+    </result>
+    
+    <result id="293485">
+      <result code="">Unknown Result</result>
+      <band id="8283">Cwmfelin Workmen</band>
+      <conductor id="311584">A. Williams</conductor>
+    </result>
+    
+    <result id="293490">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

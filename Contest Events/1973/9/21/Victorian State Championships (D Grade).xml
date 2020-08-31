@@ -1,0 +1,60 @@
+<contest-event id="39598">
+  <event-date date="1973-9-21">Sept. 21, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (D Grade)</name>
+  <contest id="3480">
+    <name>Victorian State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-d-grade</slug>
+    
+    <notes>None</notes>
+    
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1178">Youth Salutes a Master</test-piece>
+  </test-piece>
+
+  <venue id="6810">Civic Hall, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>May 11, 2018, 1:11 a.m.</created>
+  <last-modified>May 16, 2020, 3:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287064">
+      <result code="1">1</result>
+      <band id="13576">St. Arnaud Citizens</band>
+      <conductor id="312152">Bill Youngson</conductor>
+    </result>
+    
+    <result id="287065">
+      <result code="2">2</result>
+      <band id="7858">Croydon Citizens Brass</band>
+      <conductor id="307046">Eric Page</conductor>
+    </result>
+    
+    <result id="287066">
+      <result code="3">3</result>
+      <band id="17045">Shepparton Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="287067">
+      <result code="4">4</result>
+      <band id="16849">St. Vincent de Paul Boys Orphanage -- South Melbourne</band>
+      <conductor id="317862">Stan McIntosh</conductor>
+    </result>
+    
+    <result id="287068">
+      <result code="W">Withdrawn</result>
+      <band id="11303">Creswick Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

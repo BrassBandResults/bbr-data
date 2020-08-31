@@ -1,0 +1,72 @@
+<contest-event id="43264">
+  <event-date date="2020-3-1">March 1, 2020<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="520">A Tale as yet Untold</test-piece>
+  </test-piece>
+
+  <venue id="6822">Swansea University (Great Hall), Swansea, Swansea County, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 25, 2020, 6:20 p.m.</created>
+  <last-modified>Feb. 25, 2020, 6:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="315448">
+      <result code="1">1</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="307609">Ian Porthouse</conductor>
+    </result>
+    
+    <result id="315442">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302630">Philip Harper</conductor>
+    </result>
+    
+    <result id="315445">
+      <result code="3">3</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="310636">Chris Turner</conductor>
+    </result>
+    
+    <result id="315443">
+      <result code="4">4</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="298152">Christopher Bond</conductor>
+    </result>
+    
+    <result id="315447">
+      <result code="5">5</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="308725">Carl Saunders</conductor>
+    </result>
+    
+    <result id="315446">
+      <result code="6">6</result>
+      <band id="288">Northop Band</band>
+      <conductor id="300542">John Doyle</conductor>
+    </result>
+    
+    <result id="315444">
+      <result code="7">7</result>
+      <band id="6035">Ebbw Valley Brass</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

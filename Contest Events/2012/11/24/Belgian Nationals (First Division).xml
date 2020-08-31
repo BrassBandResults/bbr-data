@@ -1,0 +1,51 @@
+<contest-event id="8390">
+  <event-date date="2012-11-24">Nov. 24, 2012<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="366">Frontier!</test-piece>
+  </test-piece>
+
+  <venue id="149">Lemmensinstituut, Leuven, Flemish Brabant, Belgium</venue>
+  <notes></notes>
+
+  <created>Nov. 29, 2011, 11:24 a.m.</created>
+  <last-modified>Dec. 11, 2013, 11:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="126273">
+      <result code="1">1</result>
+      <band id="10032">Brass Band Panta Rhei Ghent</band>
+      <conductor id="298760">Frans-Aert Burghgraef</conductor>
+      <test-piece id="103">Music for the Common Man</test-piece>
+    </result>
+    
+    <result id="126274">
+      <result code="2">2</result>
+      <band id="1016">Brassband Bacchus</band>
+      <conductor id="306704">Bart van Neyghem</conductor>
+      <test-piece id="235">Sounds</test-piece>
+    </result>
+    
+    <result id="126275">
+      <result code="3">3</result>
+      <band id="1269">Brass Band Gent</band>
+      <conductor id="300427">Lieven Dobbelaere</conductor>
+      <test-piece id="94">Concerto for Band [Golland]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

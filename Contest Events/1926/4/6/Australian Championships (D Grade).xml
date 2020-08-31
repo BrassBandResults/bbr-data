@@ -1,0 +1,64 @@
+<contest-event id="35404">
+  <event-date date="1926-4-6">April 6, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1022">The Water Carrier</test-piece>
+  </test-piece>
+
+  <venue id="7063">Toowoomba Show Ground, Queensland, Australia</venue>
+  <notes>Test Selection only
+
+Other Disciplines  
+Hymn Tune   (own choice)
+Oval March  Test Music Only  &quot; Old Glory March&quot;</notes>
+
+  <created>May 26, 2016, 7:12 a.m.</created>
+  <last-modified>Feb. 3, 2019, 8:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255707">
+      <result code="1">1</result>
+      <band id="13737">Cairns Railway</band>
+      <conductor id="302922">Hugh Henderson</conductor>
+    </result>
+    
+    <result id="255708">
+      <result code="2">2</result>
+      <band id="2316">Gladstone Municipal Band</band>
+      <conductor id="309515">Frank Soblusky</conductor>
+    </result>
+    
+    <result id="255709">
+      <result code="3">3</result>
+      <band id="13925">25th Battalion (Toowoomba)</band>
+      <conductor id="302981">R. Herron</conductor>
+    </result>
+    
+    <result id="255710">
+      <result code="4">4</result>
+      <band id="13712">Weston Town</band>
+      <conductor id="307669">J. Prescott</conductor>
+    </result>
+    
+    <result id="255813">
+      <result code="5">5</result>
+      <band id="13738">Ayr Citizens</band>
+      <conductor id="318865">Charles Smallwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

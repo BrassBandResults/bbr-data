@@ -1,0 +1,60 @@
+<contest-event id="39025">
+  <event-date date="2001-8-4">Aug. 4, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="424">Blackfriars</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 15, 2018, 12:20 a.m.</created>
+  <last-modified>March 6, 2018, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283900">
+      <result code="1">1</result>
+      <band id="2145">Boroondara Brass</band>
+      <conductor id="307241">Tom Paulin</conductor>
+    </result>
+    
+    <result id="283901">
+      <result code="2">2</result>
+      <band id="2242">Box Hill City Band</band>
+      <conductor id="317546">Joe Callaghan</conductor>
+    </result>
+    
+    <result id="283902">
+      <result code="3">3</result>
+      <band id="705">Greater Bendigo Brass</band>
+      <conductor id="317547">Jacqui Vine</conductor>
+    </result>
+    
+    <result id="283903">
+      <result code="4">4</result>
+      <band id="7855">Wonthaggi Citizens</band>
+      <conductor id="305581">Craig Marinus</conductor>
+    </result>
+    
+    <result id="283904">
+      <result code="5">5</result>
+      <band id="728">Salisbury City Band [Australia]</band>
+      <conductor id="306011">Geoff Meikle</conductor>
+    </result>
+    
+  </results>
+</contest-event>

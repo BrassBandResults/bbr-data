@@ -1,0 +1,60 @@
+<contest-event id="31018">
+  <event-date date="1931-11-6">Nov. 6, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NIBA Championship of Ireland (Championship Brass)</name>
+  <contest id="278">
+    <name>NIBA Championship of Ireland (Championship Brass)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="52">NIBA Championship of Ireland</group>
+    <slug>niba-championship-of-ireland-championship-brass</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="930">Il Bravo [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Feb. 15, 2015, 11:40 a.m.</created>
+  <last-modified>Dec. 18, 2018, 11:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="220722">
+      <result code="1">1</result>
+      <band id="1393">Willowfield Unionist Silver Band</band>
+      <conductor id="305766">F. May</conductor>
+    </result>
+    
+    <result id="220723">
+      <result code="2">2</result>
+      <band id="2605">I.O.R. Rescue Tent [Northern Ireland]</band>
+      <conductor id="298631">William Brown</conductor>
+    </result>
+    
+    <result id="220724">
+      <result code="3">3</result>
+      <band id="5832">Sirocco</band>
+      <conductor id="297739">J. Bell</conductor>
+    </result>
+    
+    <result id="220725">
+      <result code="">Unknown Result</result>
+      <band id="1376">55th Old Boys Association Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="220726">
+      <result code="">Unknown Result</result>
+      <band id="1375">Lisburn Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

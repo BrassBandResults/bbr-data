@@ -1,0 +1,55 @@
+<contest-event id="26517">
+  <event-date date="1950-8-26">Aug. 26, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Allendale Contest</name>
+  <contest id="1754">
+    <name>Allendale Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>allendale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="159">Indian Summer</test-piece>
+  </test-piece>
+
+  <venue id="1234">Allendale, Northumberland, England, UK</venue>
+  <notes>March contest - 1st Haltwhistle, 2nd Cambois, 3rd outh Moor.Choice of Indian Summer or May Day.
+4 bands competed.</notes>
+
+  <created>Feb. 22, 2014, 1:28 p.m.</created>
+  <last-modified>Jan. 24, 2017, 5:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="192091">
+      <result code="1">1</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192092">
+      <result code="2">2</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192093">
+      <result code="3">3</result>
+      <band id="8758">Cambois Workmen&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192094">
+      <result code="4">4</result>
+      <band id="5023">Allendale Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

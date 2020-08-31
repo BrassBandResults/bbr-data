@@ -1,0 +1,45 @@
+<contest-event id="11379">
+  <event-date date="2012-7-1">July 1, 2012<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deutsche Brass Band Meisterschaft (Höchststufe)</name>
+  <contest id="144">
+    <name>Deutsche Brass Band Meisterschaft (Höchststufe)</name>
+    <order>4</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="24">Deutsche Brass Band Meisterschaft</group>
+    <slug>dbbm</slug>
+    
+    <notes></notes>
+    <region id="23">Germany</region>
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="79">Diversions on a Bass Theme</test-piece>
+  </test-piece>
+
+  <venue id="1629">Konzerttheater, Coesfeld, North Rhine-Westphalia, Germany</venue>
+  <notes>Best Solist (Bass Trombone): Bayerische Brass Band Akademie (3BA)
+Bestes Percussionsection: Brass Band A7</notes>
+
+  <created>March 23, 2012, 12:10 p.m.</created>
+  <last-modified>July 2, 2012, 6:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="111465">
+      <result code="1">1</result>
+      <band id="715">3ba-brass</band>
+      <conductor id="305749">Franz Matysiak</conductor>
+      <test-piece id="13">Journey to the Centre of the Earth</test-piece>
+    </result>
+    
+    <result id="111466">
+      <result code="2">2</result>
+      <band id="949">Brass Band A7</band>
+      <conductor id="300824">Johnny Ekkelboom</conductor>
+      <test-piece id="2010">Die Alpen</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

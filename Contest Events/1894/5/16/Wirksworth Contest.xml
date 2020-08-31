@@ -1,0 +1,80 @@
+<contest-event id="12007">
+  <event-date date="1894-5-16">May 16, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wirksworth Contest</name>
+  <contest id="2347">
+    <name>Wirksworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wirksworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="1702">Wirksworth</venue>
+  <notes>8 bands competed.
+Prizes: £10, £5, £3, £2
+Associated with the Wirksworth Tap Dressings</notes>
+
+  <created>April 8, 2012, 7:46 p.m.</created>
+  <last-modified>June 12, 2019, 11:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="96539">
+      <result code="1">1</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="96540">
+      <result code="2">2</result>
+      <band id="3605">Hasland</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="96541">
+      <result code="3">3</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="302841">James Haywood</conductor>
+    </result>
+    
+    <result id="96542">
+      <result code="4">4</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="97562">
+      <result code="">Unknown Result</result>
+      <band id="7169">Heanor Old</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="97563">
+      <result code="">Unknown Result</result>
+      <band id="3524">Derby United</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="97565">
+      <result code="">Unknown Result</result>
+      <band id="4776">Derby Sax and Tuba</band>
+      <conductor id="302395">W. G. Hales</conductor>
+    </result>
+    
+    <result id="97564">
+      <result code="">Unknown Result</result>
+      <band id="7596">Derby Victoria</band>
+      <conductor id="302435">George Hallam</conductor>
+    </result>
+    
+  </results>
+</contest-event>

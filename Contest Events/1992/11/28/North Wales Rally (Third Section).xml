@@ -1,0 +1,48 @@
+<contest-event id="30944">
+  <event-date date="1992-11-28">Nov. 28, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Third Section)</name>
+  <contest id="1773">
+    <name>North Wales Rally (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="909">Sirius [Wright]</test-piece>
+  </test-piece>
+
+  <venue id="5612">Aberconwy Centre, Llandudno, Conwy, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 3, 2015, 9:59 a.m.</created>
+  <last-modified>Feb. 3, 2015, 10:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="220322">
+      <result code="1">1</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="298321">Frank Boylin</conductor>
+    </result>
+    
+    <result id="220323">
+      <result code="2">2</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="308695">Graham Sanders</conductor>
+    </result>
+    
+    <result id="220324">
+      <result code="3">3</result>
+      <band id="346">Menai Bridge Brass Band</band>
+      <conductor id="311597">D. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

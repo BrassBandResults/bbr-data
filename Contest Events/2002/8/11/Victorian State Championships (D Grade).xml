@@ -1,0 +1,42 @@
+<contest-event id="39033">
+  <event-date date="2002-8-11">Aug. 11, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (D Grade)</name>
+  <contest id="3480">
+    <name>Victorian State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-d-grade</slug>
+    
+    <notes>None</notes>
+    
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="711">The Comber Suite</test-piece>
+  </test-piece>
+
+  <venue id="4945">Her Majesty&#39;s Theatre, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 15, 2018, 5:59 a.m.</created>
+  <last-modified>Jan. 21, 2020, 5:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="283924">
+      <result code="1">1</result>
+      <band id="9348">Wodonga Brass</band>
+      <conductor id="317548">John Drage</conductor>
+    </result>
+    
+    <result id="283925">
+      <result code="2">2</result>
+      <band id="2319">Moonee Valley Brass</band>
+      <conductor id="298393">John Breen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

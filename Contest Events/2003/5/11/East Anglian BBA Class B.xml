@@ -1,0 +1,62 @@
+<contest-event id="7686">
+  <event-date date="2003-5-11">May 11, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class B</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="345">Devon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Test Piece: Devon Fantasy or Snowdon Fantasy
+
+</notes>
+
+  <created>Oct. 11, 2011, 12:23 p.m.</created>
+  <last-modified>Sept. 24, 2015, 5:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="68788">
+      <result code="1">1</result>
+      <band id="832">Newmarket Town Band</band>
+      <conductor id="298730">Derek Bullman</conductor>
+    </result>
+    
+    <result id="68789">
+      <result code="2">2</result>
+      <band id="627">Tendring Brass</band>
+      <conductor id="303480">Robert Howard</conductor>
+    </result>
+    
+    <result id="68790">
+      <result code="3">3</result>
+      <band id="841">Martlesham Band</band>
+      <conductor id="301047">Bruce Eyley</conductor>
+    </result>
+    
+    <result id="68791">
+      <result code="4">4</result>
+      <band id="852">Harlow Brass</band>
+      <conductor id="310037">David Sylvester</conductor>
+    </result>
+    
+    <result id="68792">
+      <result code="5">5</result>
+      <band id="837">Cottenham Brass</band>
+      <conductor id="311126">Colin Watson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

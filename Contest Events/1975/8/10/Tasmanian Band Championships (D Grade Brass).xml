@@ -1,0 +1,70 @@
+<contest-event id="42770">
+  <event-date date="1975-8-10">Aug. 10, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (D Grade Brass)</name>
+  <contest id="3037">
+    <name>Tasmanian Band Championships (D Grade Brass)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-d-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="382">A Rural Suite</test-piece>
+  </test-piece>
+
+  <venue id="6487">Princess Theatre, Launceston, Tasmania, Australia</venue>
+  <notes>Bands were also required to play a Popular number  ( not included in championship)</notes>
+
+  <created>Nov. 3, 2019, 10:34 p.m.</created>
+  <last-modified>May 25, 2020, 3:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313334">
+      <result code="1">1</result>
+      <band id="13488">Tasmanian Youth Brass</band>
+      <conductor id="319717">Dudley Madden</conductor>
+      <test-piece id="159">Indian Summer</test-piece>
+    </result>
+    
+    <result id="313335">
+      <result code="2">2</result>
+      <band id="9277">Launceston Railway Silver Band</band>
+      <conductor id="298921">Albert Calcraft</conductor>
+      <test-piece id="714">Shakespearean Rhapsody</test-piece>
+    </result>
+    
+    <result id="313336">
+      <result code="3">3</result>
+      <band id="13389">Launceston City Band</band>
+      <conductor id="309248">J. Slater</conductor>
+      <test-piece id="5537">Symphonie in &#39;C&#39;</test-piece>
+    </result>
+    
+    <result id="313341">
+      <result code="4">4</result>
+      <band id="16318">Northern Suburbs Silver   (Tas)</band>
+      <conductor id="307105">David Parker</conductor>
+    </result>
+    
+    <result id="313340">
+      <result code="5">5</result>
+      <band id="13620">Wynyard Municipal</band>
+      <conductor id="318646">J. Melling</conductor>
+      <test-piece id="5537">Symphonie in &#39;C&#39;</test-piece>
+    </result>
+    
+    <result id="313338">
+      <result code="W">Withdrawn</result>
+      <band id="18361">St. Joseph&#39;s Silver  -  Launceston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

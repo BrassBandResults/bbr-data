@@ -1,0 +1,48 @@
+<contest-event id="42793">
+  <event-date date="1980-9-28">Sept. 28, 1980<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+  <contest id="3040">
+    <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+    <order>50</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-junior-a-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2449">Festival Suite</test-piece>
+  </test-piece>
+
+  <venue id="2358">Civic Centre, Burnie, Tasmania, Australia</venue>
+  <notes>Bands required to also play a Hymn &amp; Popular Number  ( not included in championship)</notes>
+
+  <created>Nov. 5, 2019, 3:18 a.m.</created>
+  <last-modified>June 13, 2020, 9:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313426">
+      <result code="1">1</result>
+      <band id="18320">Hobart Concert Brass Juniors</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+    </result>
+    
+    <result id="313427">
+      <result code="2">2</result>
+      <band id="13323">City of Burnie Brass Junior</band>
+      <conductor id="317213">Kevin Finlay</conductor>
+    </result>
+    
+    <result id="313428">
+      <result code="3">3</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+    </result>
+    
+  </results>
+</contest-event>

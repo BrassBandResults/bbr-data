@@ -1,0 +1,54 @@
+<contest-event id="18872">
+  <event-date date="1965-5-22">May 22, 1965<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glasgow Charities Contest</name>
+  <contest id="680">
+    <name>Glasgow Charities Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>glasgow-charities-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3108">Kelvingrove Park, Glasgow</venue>
+  <notes>  Deportment prize Whitburn.</notes>
+
+  <created>March 5, 2013, 3:32 p.m.</created>
+  <last-modified>March 5, 2013, 3:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="141386">
+      <result code="1">1</result>
+      <band id="646">Croy Silver Band</band>
+      <conductor id="303247">John Hoggans</conductor>
+    </result>
+    
+    <result id="141387">
+      <result code="2">2</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="303375">Harry Holwill</conductor>
+    </result>
+    
+    <result id="141388">
+      <result code="3">3</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="303375">Harry Holwill</conductor>
+    </result>
+    
+    <result id="141389">
+      <result code="4">4</result>
+      <band id="13">Kirkintilloch Band</band>
+      <conductor id="311780">Peter Wilson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

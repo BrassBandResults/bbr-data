@@ -1,0 +1,103 @@
+<contest-event id="4883">
+  <event-date date="1962-3-17">March 17, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Eastern Area (Second Section)</name>
+  <contest id="18">
+    <name>Yorkshire Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="777">Peter Schmoll</test-piece>
+  </test-piece>
+
+  <venue id="713">Huddersfield Town Hall, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes>Prize money 1st Daily Herald Area Challenge Cup and £25, 2nd £15, 3rd £10
+</notes>
+
+  <created>March 14, 2011, 12:20 p.m.</created>
+  <last-modified>March 9, 2016, 10:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="42161">
+      <result code="1">1</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="306688">Roy Newsome</conductor>
+    </result>
+    
+    <result id="42162">
+      <result code="2">2</result>
+      <band id="2746">Upton Colliery Workpeople&#39;s Band</band>
+      <conductor id="310485">Harry Tomkins</conductor>
+    </result>
+    
+    <result id="42163">
+      <result code="3">3</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="297109">Joe Armstrong</conductor>
+    </result>
+    
+    <result id="42164">
+      <result code="4">4</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="306374">John Willie Morley</conductor>
+    </result>
+    
+    <result id="42165">
+      <result code="5">5</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="304357">George Kaye</conductor>
+    </result>
+    
+    <result id="42168">
+      <result code="">Unknown Result</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="301696">Stuart Garside</conductor>
+    </result>
+    
+    <result id="42167">
+      <result code="">Unknown Result</result>
+      <band id="123">Knottingley Silver Band</band>
+      <conductor id="307567">T. B. Pollard</conductor>
+    </result>
+    
+    <result id="42169">
+      <result code="">Unknown Result</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="299031">Jack Carr</conductor>
+    </result>
+    
+    <result id="42170">
+      <result code="">Unknown Result</result>
+      <band id="2680">Silverwood Colliery</band>
+      <conductor id="301423">Eric Foster</conductor>
+    </result>
+    
+    <result id="42172">
+      <result code="">Unknown Result</result>
+      <band id="2998">Yorkshire Traction</band>
+      <conductor id="298352">Frank Braithwaite</conductor>
+    </result>
+    
+    <result id="42166">
+      <result code="">Unknown Result</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="306303">Winston Moore</conductor>
+    </result>
+    
+    <result id="42171">
+      <result code="">Unknown Result</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="304358">J. Kaye</conductor>
+    </result>
+    
+  </results>
+</contest-event>

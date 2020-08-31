@@ -1,0 +1,73 @@
+<contest-event id="22815">
+  <event-date date="1900-9-1">Sept. 1, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Matlock Contest</name>
+  <contest id="1205">
+    <name>Matlock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>matlock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1097">Old English Hotel, Matlock Bridge</venue>
+  <notes>March: 1. East Kirkby, 2. Barrow Hill
+Prizes: £7, £4 10s, £2 10s
+6 bands entered, 5 competed</notes>
+
+  <created>Aug. 14, 2013, 11:46 a.m.</created>
+  <last-modified>June 20, 2018, 9:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="168439">
+      <result code="1">1</result>
+      <band id="8434">East Kirkby Temperance</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168440">
+      <result code="2">2</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168441">
+      <result code="3">3</result>
+      <band id="7875">Barrow Hill Temperance</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168457">
+      <result code="">Unknown Result</result>
+      <band id="11273">Bagthorpe</band>
+      <conductor id="310870">W. Wagstaff</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168456">
+      <result code="">Unknown Result</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="309297">J. W. Smedley</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168458">
+      <result code="W">Withdrawn</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

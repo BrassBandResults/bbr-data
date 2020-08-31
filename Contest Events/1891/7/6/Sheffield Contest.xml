@@ -1,0 +1,67 @@
+<contest-event id="38944">
+  <event-date date="1891-7-6">July 6, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Contest</name>
+  <contest id="1214">
+    <name>Sheffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="824">Sheffield, South Yorkshire, England, UK</venue>
+  <notes>Prizes - 1st 16 guineas, 2nd 8 guineas, 3rd 4 guineas, 4th 2 guineas.
+Promoted by Sheffield Band of Hope.
+8 bands competed,</notes>
+
+  <created>Dec. 4, 2017, 11:20 a.m.</created>
+  <last-modified>May 1, 2018, 3:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283309">
+      <result code="1">1</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="3557">Faust - selection (Berlioz, unknown arranger)</test-piece>
+    </result>
+    
+    <result id="283312">
+      <result code="2">2</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="283308">
+      <result code="3">3</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="283311">
+      <result code="3">3</result>
+      <band id="5208">Heanor Church Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="283310">
+      <result code="5">5</result>
+      <band id="10376">Sheffield Prince of Wales</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

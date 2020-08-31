@@ -1,0 +1,61 @@
+<contest-event id="40495">
+  <event-date date="1913-12-20">Dec. 20, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Contest (Second Section)</name>
+  <contest id="2587">
+    <name>Birmingham Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="277">Birmingham Contest</group>
+    <slug>birmingham-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="911">Birmingham, West Midlands, UK</venue>
+  <notes>5 bands competed.
+</notes>
+
+  <created>Oct. 2, 2018, 8:17 a.m.</created>
+  <last-modified>March 20, 2020, 8:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="316241">
+      <result code="1">1</result>
+      <band id="6999">King&#39;s Norton</band>
+      <conductor id="297565">James Scott</conductor>
+    </result>
+    
+    <result id="294599">
+      <result code="2">2</result>
+      <band id="4287">Erdington Boys</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+    </result>
+    
+    <result id="294603">
+      <result code="3">3</result>
+      <band id="17388">Saltney Railwaymen</band>
+      <conductor id="318418">J. R. James</conductor>
+    </result>
+    
+    <result id="294600">
+      <result code="4">4</result>
+      <band id="17386">Gordon Unity</band>
+      <conductor id="318416">F. Starbuck</conductor>
+    </result>
+    
+    <result id="294601">
+      <result code="5">5</result>
+      <band id="17387">Hay Mills</band>
+      <conductor id="318417">W. Flowers</conductor>
+    </result>
+    
+  </results>
+</contest-event>

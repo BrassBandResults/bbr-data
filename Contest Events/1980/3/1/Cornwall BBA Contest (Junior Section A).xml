@@ -1,0 +1,48 @@
+<contest-event id="27968">
+  <event-date date="1980-3-1">March 1, 1980<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Junior Section A)</name>
+  <contest id="4574">
+    <name>Cornwall BBA Contest (Junior Section A)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cornwall-bba-contest-junior-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1544">Patterns</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>May 29, 2014, 6:37 a.m.</created>
+  <last-modified>May 29, 2014, 6:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="200271">
+      <result code="1">1</result>
+      <band id="1778">St. Dennis Youth</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+    <result id="200272">
+      <result code="2">2</result>
+      <band id="1458">Mount Charles Youth Band</band>
+      <conductor id="308472">D. H. Rosevear</conductor>
+    </result>
+    
+    <result id="215726">
+      <result code="3">3</result>
+      <band id="2783">St Ives Youth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

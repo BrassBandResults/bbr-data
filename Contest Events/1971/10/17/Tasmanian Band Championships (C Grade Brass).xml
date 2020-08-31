@@ -1,0 +1,49 @@
+<contest-event id="35024">
+  <event-date date="1971-10-17">Oct. 17, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (C Grade Brass)</name>
+  <contest id="3036">
+    <name>Tasmanian Band Championships (C Grade Brass)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-c-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2036">Via Stellaris</test-piece>
+  </test-piece>
+
+  <venue id="6143">Burnie Theatre, Burnie, Tasmania, Australia</venue>
+  <notes>Bands required to also plan non Championship items
+Hymn &amp; Popular Number</notes>
+
+  <created>April 8, 2016, 8:18 a.m.</created>
+  <last-modified>Nov. 2, 2019, 10:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="252488">
+      <result code="1">1</result>
+      <band id="2322">Sale City Band</band>
+      <conductor id="319702">Neil McPherson</conductor>
+    </result>
+    
+    <result id="252490">
+      <result code="1">1</result>
+      <band id="13515">Return Soldiers Memorial ( Tas)</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+    </result>
+    
+    <result id="252491">
+      <result code="3">3</result>
+      <band id="2272">City of Launceston RSL Brass</band>
+      <conductor id="307105">David Parker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

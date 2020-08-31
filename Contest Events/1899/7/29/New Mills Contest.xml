@@ -1,0 +1,75 @@
+<contest-event id="12513">
+  <event-date date="1899-7-29">July 29, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Mills Contest</name>
+  <contest id="2311">
+    <name>New Mills Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-mills-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1670">New Mills, Derbyshire</venue>
+  <notes>Promoted by New Mills Old Prize Band
+Prizes - 1st £10, 2nd £8, 3rd £5, 43th £3, 5th £1.
+March: 1. Oldham, 2. Glodwick, 3. Pendleton
+7 bands competed.</notes>
+
+  <created>April 15, 2012, 4:41 p.m.</created>
+  <last-modified>July 28, 2019, 2:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100012">
+      <result code="1">1</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="100013">
+      <result code="2">2</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100014">
+      <result code="3">3</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100015">
+      <result code="4">4</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="100016">
+      <result code="5">5</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="100017">
+      <result code="">Unknown Result</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100018">
+      <result code="">Unknown Result</result>
+      <band id="7923">Central Hall Manchester</band>
+      <conductor id="297629">J. H. Baxter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,84 @@
+<contest-event id="6988">
+  <event-date date="1906-8-20">Aug. 20, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cannock Contest</name>
+  <contest id="1198">
+    <name>Cannock Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="213">Cannock Contest</group>
+    <slug>cannock-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3837">Athletic Grounds, Cannock, Staffordshire</venue>
+  <notes>Choice of test pieces: &quot;Carmelite&quot;, &quot;Latona&quot;, or &quot;Champion Journal&quot;
+
+  1st prize £6.
+  2nd prize £4.
+  3rd prize £2.
+  4th prize £1.
+
+March contest held same day:
+
+1. Leamington Royal Spa
+2. Jackfield.
+
+  7 bands competed</notes>
+
+  <created>Aug. 13, 2011, 10:20 a.m.</created>
+  <last-modified>Sept. 10, 2013, 12:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="61708">
+      <result code="1">1</result>
+      <band id="8193">Bescot L.M.S.</band>
+      <conductor id="299046">G. Carrington</conductor>
+    </result>
+    
+    <result id="61709">
+      <result code="2">2</result>
+      <band id="5162">Leamington Royal Spa</band>
+      <conductor id="310458">Alfred Titcomb</conductor>
+    </result>
+    
+    <result id="61710">
+      <result code="3">3</result>
+      <band id="416">Langley Band</band>
+      <conductor id="304052">W. Jewkes</conductor>
+    </result>
+    
+    <result id="61711">
+      <result code="4">4</result>
+      <band id="5163">Cannock St. Lukes</band>
+      <conductor id="299046">G. Carrington</conductor>
+    </result>
+    
+    <result id="173169">
+      <result code="">Unknown Result</result>
+      <band id="314">Jackfield Elcock Reisen Band</band>
+      <conductor id="297197">G. W. Aston</conductor>
+    </result>
+    
+    <result id="61712">
+      <result code="">Unknown Result</result>
+      <band id="5164">Rugeley Town</band>
+      <conductor id="308295">Joseph Roberts</conductor>
+    </result>
+    
+    <result id="61713">
+      <result code="">Unknown Result</result>
+      <band id="5165">Walsall Borough</band>
+      <conductor id="302296">J. Grundy</conductor>
+    </result>
+    
+  </results>
+</contest-event>

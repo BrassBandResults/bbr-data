@@ -1,0 +1,51 @@
+<contest-event id="2939">
+  <event-date date="2010-4-4">April 4, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior C Grade)</name>
+  <contest id="92">
+    <name>Australian Championships (Junior C Grade)</name>
+    <order>130</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-c-grade</slug>
+    
+    <notes>First contest in grade 1988</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="570">St. Andrews Variations [Fernie]</test-piece>
+  </test-piece>
+
+  <venue id="325">Hobart, Tasmania, Australia</venue>
+  <notes>Parade of Bands Saturday 3rd April.</notes>
+
+  <created>Nov. 8, 2010, 2:27 a.m.</created>
+  <last-modified>May 11, 2016, 3:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="29395">
+      <result code="1">1</result>
+      <band id="2151">Warriparinga Brass</band>
+      <conductor id="298244">Veronica Boulton</conductor>
+      <test-piece id="159">Indian Summer</test-piece>
+    </result>
+    
+    <result id="31203">
+      <result code="2">2</result>
+      <band id="18300">Glenorchy City Concert Brass Juniors</band>
+      <conductor id="303661">Dean Hunt</conductor>
+      <test-piece id="712">Free World Fantasy</test-piece>
+    </result>
+    
+    <result id="31204">
+      <result code="3">3</result>
+      <band id="2342">Hyde Street Youth</band>
+      <conductor id="307980">David Redding</conductor>
+      <test-piece id="713">A Slaidburn Festival Overture</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

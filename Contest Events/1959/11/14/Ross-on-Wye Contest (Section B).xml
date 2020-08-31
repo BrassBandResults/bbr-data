@@ -1,0 +1,48 @@
+<contest-event id="27301">
+  <event-date date="1959-11-14">Nov. 14, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ross-on-Wye Contest (Section B)</name>
+  <contest id="4498">
+    <name>Ross-on-Wye Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ross-on-wye-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="857">In Switzerland</test-piece>
+  </test-piece>
+
+  <venue id="3620">Ross-on-Wye, Herefordshire, England, UK</venue>
+  <notes>Result as given in British Bandsman 21/11/1959 - assumed &quot;Celwyen Colliery&quot; should read &quot;Celynen Colliery&quot;.</notes>
+
+  <created>May 7, 2014, 9:13 a.m.</created>
+  <last-modified>June 9, 2014, 2:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="196770">
+      <result code="1">1</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196771">
+      <result code="2">2</result>
+      <band id="290">Newbridge Celynen Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196772">
+      <result code="3">3</result>
+      <band id="3988">Keynsham Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

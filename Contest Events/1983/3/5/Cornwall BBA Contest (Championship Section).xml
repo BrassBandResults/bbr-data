@@ -1,0 +1,48 @@
+<contest-event id="15245">
+  <event-date date="1983-3-5">March 5, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Championship Section)</name>
+  <contest id="3195">
+    <name>Cornwall BBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="28">Sinfonietta for Brass Band - The Wayfarer</test-piece>
+  </test-piece>
+
+  <venue id="2455">Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 12, 2012, 10 a.m.</created>
+  <last-modified>July 7, 2014, 7:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="206599">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="302166">Derek Greenwood</conductor>
+    </result>
+    
+    <result id="118440">
+      <result code="2">2</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="303982">Alan Jenkin</conductor>
+    </result>
+    
+    <result id="206600">
+      <result code="3">3</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

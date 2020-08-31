@@ -1,0 +1,54 @@
+<contest-event id="17392">
+  <event-date date="1990-3-10">March 10, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Midlands (North) Area (Youth Section)</name>
+  <contest id="1474">
+    <name>Midlands (North) Area (Youth Section)</name>
+    <order>150</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="14">Midlands Area</group>
+    <slug>midlands-north-area-youth-section</slug>
+    <qualifies-for id="997">National Youth Brass Band Championships</qualifies-for>
+    <notes></notes>
+    <region id="5">Midlands</region>
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="466">A Spa Suite</test-piece>
+  </test-piece>
+
+  <venue id="53">Royal Concert Hall, Nottingham, Nottinghamshire, England, UK</venue>
+  <notes>Information taken from contest programme and British Bandsman 4561</notes>
+
+  <created>Dec. 29, 2012, 7:17 a.m.</created>
+  <last-modified>Dec. 29, 2012, 7:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="131954">
+      <result code="1">1</result>
+      <band id="4723">Desford Colliery Youth</band>
+      <conductor id="309783">Kevin Steward</conductor>
+    </result>
+    
+    <result id="131955">
+      <result code="2">2</result>
+      <band id="10034">Lady Manners School</band>
+      <conductor id="309250">Murray Slater</conductor>
+    </result>
+    
+    <result id="131956">
+      <result code="">Unknown Result</result>
+      <band id="862">Enderby Youth Band</band>
+      <conductor id="306981">Stewart Osgood</conductor>
+    </result>
+    
+    <result id="131957">
+      <result code="">Unknown Result</result>
+      <band id="10225">Spalding Youth Brass</band>
+      <conductor id="303405">M. Hopkin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

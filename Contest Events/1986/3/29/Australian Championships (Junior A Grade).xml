@@ -1,0 +1,57 @@
+<contest-event id="16276">
+  <event-date date="1986-3-29">March 29, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior A Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="163">Little Suite for Brass [Arnold]</test-piece>
+  </test-piece>
+
+  <venue id="1201">University of Adelaide (Elder Hall), Adelaide, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Nov. 20, 2012, 9:10 a.m.</created>
+  <last-modified>March 21, 2016, 2:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="125187">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="57">Connotations</test-piece>
+    </result>
+    
+    <result id="125188">
+      <result code="2">2</result>
+      <band id="13387">Beaufort Municipal Juniors</band>
+      <conductor id="305223">Ian Lofts</conductor>
+      <test-piece id="559">Othello</test-piece>
+    </result>
+    
+    <result id="125190">
+      <result code="3">3</result>
+      <band id="9980">St Leo&#39;s College (Box Hill)</band>
+      <conductor id="311962">John Woods</conductor>
+      <test-piece id="385">Hinemoa</test-piece>
+    </result>
+    
+    <result id="125189">
+      <result code="W">Withdrawn</result>
+      <band id="18300">Glenorchy City Concert Brass Juniors</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+    </result>
+    
+  </results>
+</contest-event>

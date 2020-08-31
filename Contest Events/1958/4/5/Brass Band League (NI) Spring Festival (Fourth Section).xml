@@ -1,0 +1,42 @@
+<contest-event id="14169">
+  <event-date date="1958-4-5">April 5, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Fourth Section)</name>
+  <contest id="237">
+    <name>Brass Band League (NI) Spring Festival (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-fourth-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2584">Irish Gems</test-piece>
+  </test-piece>
+
+  <venue id="2304">Floral Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:17 p.m.</created>
+  <last-modified>March 24, 2020, 12:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="316494">
+      <result code="1">1</result>
+      <band id="8942">Lurganure</band>
+      <conductor id="317819">N. Walker</conductor>
+    </result>
+    
+    <result id="169572">
+      <result code="2">2</result>
+      <band id="11295">De Salle Boys</band>
+      <conductor id="302101">Thomas Gray</conductor>
+    </result>
+    
+  </results>
+</contest-event>

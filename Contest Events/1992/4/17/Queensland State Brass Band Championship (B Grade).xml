@@ -1,0 +1,60 @@
+<contest-event id="42451">
+  <event-date date="1992-4-17">April 17, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="239">Rhapsody in Brass</test-piece>
+  </test-piece>
+
+  <venue id="7161">Pilbeam Theatre (Concert Hall), Rockhampton, Queensland  Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 6, 2019, 5:33 a.m.</created>
+  <last-modified>Aug. 9, 2019, 12:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311570">
+      <result code="1">1</result>
+      <band id="8057">Wanganui Garrison Band</band>
+      <conductor id="313254">Selwyn Holmes</conductor>
+    </result>
+    
+    <result id="311571">
+      <result code="2">2</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="303447">Roy Hosking</conductor>
+    </result>
+    
+    <result id="311572">
+      <result code="3">3</result>
+      <band id="18113">Rockhampton City No.1</band>
+      <conductor id="306222">Chris Moffat</conductor>
+    </result>
+    
+    <result id="311573">
+      <result code="4">4</result>
+      <band id="1321">Maryborough Excelsior City Band [Queensland]</band>
+      <conductor id="306639">Mel Neilsen</conductor>
+    </result>
+    
+    <result id="311574">
+      <result code="W">Withdrawn</result>
+      <band id="18274">Walkers Engineering  - Maryborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

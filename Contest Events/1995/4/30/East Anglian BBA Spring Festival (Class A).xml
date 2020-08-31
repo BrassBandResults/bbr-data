@@ -1,0 +1,48 @@
+<contest-event id="31422">
+  <event-date date="1995-4-30">April 30, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class A)</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1637">Music for Brass</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune contest - 1st Norwich Area Brass.</notes>
+
+  <created>March 19, 2015, 5:37 p.m.</created>
+  <last-modified>March 19, 2015, 5:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="223375">
+      <result code="1">1</result>
+      <band id="3039">Norwich Area Brass</band>
+      <conductor id="307967">Malcolm Read</conductor>
+    </result>
+    
+    <result id="223376">
+      <result code="2">2</result>
+      <band id="637">Hilgay Silver</band>
+      <conductor id="299370">Andrew Clarke</conductor>
+    </result>
+    
+    <result id="223377">
+      <result code="3">3</result>
+      <band id="1344">Boxted Methodist Silver</band>
+      <conductor id="307044">A. Page</conductor>
+    </result>
+    
+  </results>
+</contest-event>

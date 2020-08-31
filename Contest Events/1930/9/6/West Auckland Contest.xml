@@ -1,0 +1,72 @@
+<contest-event id="41541">
+  <event-date date="1930-9-6">Sept. 6, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Auckland Contest</name>
+  <contest id="6461">
+    <name>West Auckland Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>west-auckland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1371">Alexander&#39;s Feast</test-piece>
+  </test-piece>
+
+  <venue id="7042">West Auckland, County Durham</venue>
+  <notes>7 bands competed</notes>
+
+  <created>Dec. 11, 2018, 1:52 p.m.</created>
+  <last-modified>April 21, 2019, 11:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="302110">
+      <result code="1">1</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="302111">
+      <result code="2">2</result>
+      <band id="8195">Eldon Colliery</band>
+      <conductor id="299552">T. W. Collinson</conductor>
+    </result>
+    
+    <result id="302112">
+      <result code="3">3</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302113">
+      <result code="4">4</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="311765">J. Wilson</conductor>
+    </result>
+    
+    <result id="302114">
+      <result code="">Unknown Result</result>
+      <band id="6271">Butterknowle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302115">
+      <result code="">Unknown Result</result>
+      <band id="5367">Hunwick Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302116">
+      <result code="">Unknown Result</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

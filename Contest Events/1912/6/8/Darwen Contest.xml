@@ -1,0 +1,98 @@
+<contest-event id="14926">
+  <event-date date="1912-6-8">June 8, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darwen Contest</name>
+  <contest id="1766">
+    <name>Darwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2118">Bouquet of Ballads</test-piece>
+  </test-piece>
+
+  <venue id="2408">Bold Venture Park, Darwen</venue>
+  <notes>Prizes - 1st £10, cup, and shield, 2nd £7 and cup, 3rd £4, 4th £2.10s., 5th £1.
+  11 bands competed.
+March contest 1st Horwich Old,  2nd Longridge.</notes>
+
+  <created>Sept. 29, 2012, 9:27 a.m.</created>
+  <last-modified>Sept. 27, 2018, 8:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="116622">
+      <result code="1">1</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="116623">
+      <result code="2">2</result>
+      <band id="6638">Darwen Borough Prize Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="116624">
+      <result code="3">3</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="280547">
+      <result code="4">4</result>
+      <band id="16372">Atherton Temperance</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="116626">
+      <result code="5">5</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="116631">
+      <result code="">Unknown Result</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="116629">
+      <result code="">Unknown Result</result>
+      <band id="5271">Helmshore Prize Band</band>
+      <conductor id="297179">Richard Aspin</conductor>
+    </result>
+    
+    <result id="116632">
+      <result code="">Unknown Result</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="116627">
+      <result code="">Unknown Result</result>
+      <band id="3307">Standish Subscription</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="116628">
+      <result code="">Unknown Result</result>
+      <band id="3670">Victoria Hall (Bolton)</band>
+      <conductor id="317093">Harold Bennett</conductor>
+    </result>
+    
+    <result id="116630">
+      <result code="">Unknown Result</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="309633">A. L. Stamp</conductor>
+    </result>
+    
+  </results>
+</contest-event>

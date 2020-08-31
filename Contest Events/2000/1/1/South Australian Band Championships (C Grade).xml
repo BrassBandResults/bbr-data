@@ -1,0 +1,60 @@
+<contest-event id="39705">
+  <event-date date="2000-1-1">Jan. 1, 2000<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>South Australian Band Championships (C Grade)</name>
+  <contest id="571">
+    <name>South Australian Band Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="262">Glasshouse Sketches</test-piece>
+  </test-piece>
+
+  
+  <notes></notes>
+
+  <created>May 24, 2018, 11:40 p.m.</created>
+  <last-modified>May 25, 2018, 12:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287809">
+      <result code="1">1</result>
+      <band id="9334">Metropolitan Brass [Adelaide]</band>
+      <conductor id="300465">Peter Doherty</conductor>
+    </result>
+    
+    <result id="287810">
+      <result code="2">2</result>
+      <band id="1187">Enfield Brass [Australia]</band>
+      <conductor id="317993">Rick Plummer</conductor>
+    </result>
+    
+    <result id="287811">
+      <result code="3">3</result>
+      <band id="2164">Campbelltown City Band (S.A.)</band>
+      <conductor id="304281">Stuart Jones</conductor>
+    </result>
+    
+    <result id="287812">
+      <result code="">Unknown Result</result>
+      <band id="2162">Marananga Brass Band</band>
+      <conductor id="317994">Ron Schmidt</conductor>
+    </result>
+    
+    <result id="287813">
+      <result code="">Unknown Result</result>
+      <band id="2160">Mitcham City Brass</band>
+      <conductor id="297983">Gary Bishop</conductor>
+    </result>
+    
+  </results>
+</contest-event>

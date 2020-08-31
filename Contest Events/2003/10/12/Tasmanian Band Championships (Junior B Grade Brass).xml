@@ -1,0 +1,44 @@
+<contest-event id="42908">
+  <event-date date="2003-10-12">Oct. 12, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (Junior B Grade Brass)</name>
+  <contest id="3041">
+    <name>Tasmanian Band Championships (Junior B Grade Brass)</name>
+    <order>60</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-junior-b-grade-brass</slug>
+    
+    <notes>None</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="345">Devon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="7225">Launceston College, Tasmania, Australia</venue>
+  <notes>Entertainment Item points listed under Stage March</notes>
+
+  <created>Nov. 16, 2019, 11:12 p.m.</created>
+  <last-modified>Nov. 16, 2019, 11:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313826">
+      <result code="1">1</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="816">The Ancient Temple</test-piece>
+    </result>
+    
+    <result id="313825">
+      <result code="2">2</result>
+      <band id="18300">Glenorchy City Concert Brass Juniors</band>
+      <conductor id="303661">Dean Hunt</conductor>
+      <test-piece id="576">Oregon: Fantasy for Band</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

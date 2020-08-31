@@ -1,0 +1,56 @@
+<contest-event id="25521">
+  <event-date date="1958-8-30">Aug. 30, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bream Contest (Open Section)</name>
+  <contest id="4651">
+    <name>Bream Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bream-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="3038">Bream, Gloucestershire</venue>
+  <notes>
+  March on road - 1st Berry Hill.
+  March on stage - 1st Lydbrook Silver.</notes>
+
+  <created>Dec. 10, 2013, 11:22 a.m.</created>
+  <last-modified>Dec. 10, 2013, 11:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185194">
+      <result code="1">1</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="297521">Neville Barnett</conductor>
+    </result>
+    
+    <result id="185195">
+      <result code="2">2</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="307734">Fred Prior</conductor>
+    </result>
+    
+    <result id="185196">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185197">
+      <result code="">Unknown Result</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

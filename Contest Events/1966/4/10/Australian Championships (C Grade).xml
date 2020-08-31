@@ -1,0 +1,54 @@
+<contest-event id="34930">
+  <event-date date="1966-4-10">April 10, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="206">Four Preludes</test-piece>
+  </test-piece>
+
+  <venue id="350">Dubbo, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>April 4, 2016, 4:24 a.m.</created>
+  <last-modified>April 26, 2018, 4:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="252047">
+      <result code="1">1</result>
+      <band id="2246">Tuggerah Lakes Showband</band>
+      <conductor id="309786">Don Stewart</conductor>
+    </result>
+    
+    <result id="252048">
+      <result code="2">2</result>
+      <band id="14190">Newcastle Transport Institute   (NSW)</band>
+      <conductor id="303690">E. Huntley</conductor>
+    </result>
+    
+    <result id="252049">
+      <result code="3">3</result>
+      <band id="9436">Dubbo Brass Band</band>
+      <conductor id="297132">Ron Arthur</conductor>
+    </result>
+    
+    <result id="252050">
+      <result code="4">4</result>
+      <band id="701">Willoughby City Band</band>
+      <conductor id="297987">Reg Bishop</conductor>
+    </result>
+    
+  </results>
+</contest-event>

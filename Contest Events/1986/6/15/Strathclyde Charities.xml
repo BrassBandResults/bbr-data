@@ -1,0 +1,64 @@
+<contest-event id="16230">
+  <event-date date="1986-6-15">June 15, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Strathclyde Charities</name>
+  <contest id="257">
+    <name>Strathclyde Charities</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>strathclyde-charities</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2649">Clydebank, Dunbartonshire</venue>
+  <notes>
+  Best Section 2 band - Tullis Russell Mills.
+  Best Section 3 band - Dunaskin Doon.
+  Best Section 4 band - Coalburn.
+  Deportment - Kilmarnock Concert.</notes>
+
+  <created>Nov. 17, 2012, 9:50 a.m.</created>
+  <last-modified>Nov. 17, 2012, 9:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="124767">
+      <result code="1">1</result>
+      <band id="664">Shotts St Patrick&#39;s Brass</band>
+      <conductor id="305289">David Loukes</conductor>
+    </result>
+    
+    <result id="124768">
+      <result code="2">2</result>
+      <band id="897">Kilmarnock Concert Brass</band>
+      <conductor id="304363">Andrew Keachie</conductor>
+    </result>
+    
+    <result id="124769">
+      <result code="3">3</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="306144">James Miller</conductor>
+    </result>
+    
+    <result id="124771">
+      <result code="">Unknown Result</result>
+      <band id="649">Coalburn Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="124770">
+      <result code="">Unknown Result</result>
+      <band id="317">Dunaskin Doon Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

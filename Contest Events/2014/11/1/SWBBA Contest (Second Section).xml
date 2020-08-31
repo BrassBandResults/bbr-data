@@ -1,0 +1,54 @@
+<contest-event id="30052">
+  <event-date date="2014-11-1">Nov. 1, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Second Section)</name>
+  <contest id="159">
+    <name>SWBBA Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="239">Rhapsody in Brass</test-piece>
+  </test-piece>
+
+  <venue id="48">Riviera International Conference Centre, Torquay, Devon, England, UK</venue>
+  <notes>Best Instrumentalist: Solo Horn of Bodmin Town</notes>
+
+  <created>Nov. 2, 2014, 12:54 p.m.</created>
+  <last-modified>Nov. 4, 2014, 4:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="212969">
+      <result code="1">1</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="305497">John Maines</conductor>
+    </result>
+    
+    <result id="212968">
+      <result code="2">2</result>
+      <band id="521">St. Keverne Band</band>
+      <conductor id="299323">Gareth Churcher</conductor>
+    </result>
+    
+    <result id="212970">
+      <result code="3">3</result>
+      <band id="545">Sidmouth Town Band</band>
+      <conductor id="302744">Adrian Harvey</conductor>
+    </result>
+    
+    <result id="212971">
+      <result code="4">4</result>
+      <band id="543">Weston Brass</band>
+      <conductor id="306977">Tony Osborne</conductor>
+    </result>
+    
+  </results>
+</contest-event>

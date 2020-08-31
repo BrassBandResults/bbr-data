@@ -1,0 +1,72 @@
+<contest-event id="39592">
+  <event-date date="1973-9-20">Sept. 20, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="10">The Judges of the Secret Court (Les Francs Juges)</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>May 10, 2018, 6:47 a.m.</created>
+  <last-modified>May 16, 2020, 3:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287034">
+      <result code="1">1</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="303048">Laurie Hicks</conductor>
+    </result>
+    
+    <result id="287035">
+      <result code="2">2</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="309334">Charles Smith</conductor>
+    </result>
+    
+    <result id="287036">
+      <result code="3">3</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="300665">Wilf Dyason</conductor>
+    </result>
+    
+    <result id="287037">
+      <result code="4">4</result>
+      <band id="2179">St. John Ambulance Band [Adelaide]</band>
+      <conductor id="310954">Harold Walmsley</conductor>
+    </result>
+    
+    <result id="287038">
+      <result code="5">5</result>
+      <band id="724">City of Greater Dandenong Band</band>
+      <conductor id="317942">Ken Cossens</conductor>
+    </result>
+    
+    <result id="287039">
+      <result code="6">6</result>
+      <band id="2244">Geelong City</band>
+      <conductor id="299156">Paul Cerezo</conductor>
+    </result>
+    
+    <result id="287040">
+      <result code="W">Withdrawn</result>
+      <band id="1313">Footscray Yarraville City Band</band>
+      <conductor id="309170">Mervyn Simpson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

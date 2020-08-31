@@ -1,0 +1,54 @@
+<contest-event id="1321">
+  <event-date date="1995-11-25">Nov. 25, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Second Division)</name>
+  <contest id="13">
+    <name>Swiss National Championships (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-second-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="361">Partita for Band - Postcards from Home</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Dec. 1, 2009, 7:27 a.m.</created>
+  <last-modified>April 18, 2013, 12:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114665">
+      <result code="1">1</result>
+      <band id="2061">Brass Band Rapperswil-Wierezwil</band>
+      <conductor id="309631">Hansjörg Stalder</conductor>
+    </result>
+    
+    <result id="236791">
+      <result code="3">3</result>
+      <band id="93">Musikverein Brass Band Henggart</band>
+      <conductor id="298761">Andreas Buri</conductor>
+    </result>
+    
+    <result id="240973">
+      <result code="5">5</result>
+      <band id="92">Brass Band Posaunenchor Flaach</band>
+      <conductor id="302762">Sabine Hasler-Egli</conductor>
+    </result>
+    
+    <result id="13724">
+      <result code="8">8</result>
+      <band id="83">Brass Band Sursilvana</band>
+      <conductor id="310623">Gion Geri Tuor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

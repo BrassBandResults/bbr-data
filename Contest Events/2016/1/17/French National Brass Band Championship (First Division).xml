@@ -1,0 +1,51 @@
+<contest-event id="33531">
+  <event-date date="2016-1-17">Jan. 17, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French National Brass Band Championship (First Division)</name>
+  <contest id="846">
+    <name>French National Brass Band Championship (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="120">French National Brass Band Championship</group>
+    <slug>french-national-brass-band-championship--846</slug>
+    
+    <notes></notes>
+    <region id="9">France</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="290">Kingdom of Dragons</test-piece>
+  </test-piece>
+
+  <venue id="4975">Le Nouveau Siècle, Lille, Nord-Pas de Calais, France</venue>
+  <notes></notes>
+
+  <created>Dec. 2, 2015, 9:58 a.m.</created>
+  <last-modified>Sept. 23, 2016, 10:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="241151">
+      <result code="1">1</result>
+      <band id="3465">Brass Band Atout Vent</band>
+      <conductor id="303472">William Houssoy</conductor>
+      <test-piece id="436">A Pastoral Symphony</test-piece>
+    </result>
+    
+    <result id="241152">
+      <result code="2">2</result>
+      <band id="3464">Brass Band de Champagne</band>
+      <conductor id="302791">Manuel Haussy</conductor>
+      <test-piece id="221">Prisms</test-piece>
+    </result>
+    
+    <result id="241153">
+      <result code="3">3</result>
+      <band id="1253">Orchestre de Cuivres d&#39;Amiens</band>
+      <conductor id="298472">Eric Brisse</conductor>
+      <test-piece id="425">Salome</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

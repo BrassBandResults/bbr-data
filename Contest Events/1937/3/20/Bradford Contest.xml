@@ -1,0 +1,79 @@
+<contest-event id="25913">
+  <event-date date="1937-3-20">March 20, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bradford Contest</name>
+  <contest id="1236">
+    <name>Bradford Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bradford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="4394">Skating Rink, Bradford, Yorkshire</venue>
+  <notes>March contest - 1st Flockton, 2nd Yorkshire Copper Works, 3rd Bradford City. 
+8 bands competed.</notes>
+
+  <created>Jan. 17, 2014, 2:51 p.m.</created>
+  <last-modified>Jan. 17, 2019, 12:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187850">
+      <result code="1">1</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302009">Harry Grace</conductor>
+    </result>
+    
+    <result id="187851">
+      <result code="2">2</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="310397">Ernest Thorpe</conductor>
+    </result>
+    
+    <result id="187852">
+      <result code="3">3</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="300855">Joseph Elliott</conductor>
+    </result>
+    
+    <result id="187853">
+      <result code="4">4</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="309126">Nathan Sidebottom</conductor>
+    </result>
+    
+    <result id="187854">
+      <result code="5">5</result>
+      <band id="2687">Canal Ironworks</band>
+      <conductor id="299555">Gershom Collison</conductor>
+    </result>
+    
+    <result id="303506">
+      <result code="">Unknown Result</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303507">
+      <result code="">Unknown Result</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303508">
+      <result code="">Unknown Result</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

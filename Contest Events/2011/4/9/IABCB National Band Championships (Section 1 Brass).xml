@@ -1,0 +1,58 @@
+<contest-event id="5586">
+  <event-date date="2011-4-9">April 9, 2011<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>IABCB National Band Championships (Section 1 Brass)</name>
+  <contest id="384">
+    <name>IABCB National Band Championships (Section 1 Brass)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="65">IABCB National Band Championships of Ireland </group>
+    <slug>iabcb-national-band-championships-section1</slug>
+    
+    <notes></notes>
+    <region id="24">Republic of Ireland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="112">Purcell Variations [Downie]</test-piece>
+  </test-piece>
+
+  <venue id="510">O’Mahony Hall, Dublin, County Dublin, Republic of Ireland</venue>
+  <notes>Drogheda won the Own Choice award</notes>
+
+  <created>April 25, 2011, 4:41 p.m.</created>
+  <last-modified>Nov. 11, 2013, 11:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="48254">
+      <result code="1">1</result>
+      <band id="719">Drogheda Brass Band</band>
+      <conductor id="305489">Michael Maher</conductor>
+      <test-piece id="393">Psalms and Alleluias</test-piece>
+    </result>
+    
+    <result id="48255">
+      <result code="2">2</result>
+      <band id="1402">Stedfast Band</band>
+      <conductor id="300071">Brian Daly</conductor>
+      <test-piece id="60">The Dark Side of the Moon</test-piece>
+    </result>
+    
+    <result id="48256">
+      <result code="3">3</result>
+      <band id="1259">Arklow Silver Band</band>
+      <conductor id="298414">Brendan Breslin</conductor>
+      <test-piece id="169">Triptych [Sparke]</test-piece>
+    </result>
+    
+    <result id="48257">
+      <result code="4">4</result>
+      <band id="1340">Lourdes Brass</band>
+      <conductor id="304413">Harry Kelly</conductor>
+      <test-piece id="142">Vizcaya</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

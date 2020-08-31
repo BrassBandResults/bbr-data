@@ -1,0 +1,79 @@
+<contest-event id="40219">
+  <event-date date="2018-8-25">Aug. 25, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (B Grade)</name>
+  <contest id="617">
+    <name>NSW State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5629">Hymn: Christ</test-piece>
+  </test-piece>
+
+  <venue id="303">Joan Sutherland Performing Arts Centre, Penrith, New South Wales, Australia</venue>
+  <notes>Own Choice Draw
+Band 
+No.1  -   6
+     2.  -  5  
+     3.  -  1
+     4.  -   4
+     5.  -   2
+     6  -   3 </notes>
+
+  <created>Aug. 30, 2018, 1:30 a.m.</created>
+  <last-modified>Aug. 30, 2018, 2 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292470">
+      <result code="1">1</result>
+      <band id="737">Gunnedah Shire Band</band>
+      <conductor id="308516">Anthony Rowe</conductor>
+      <test-piece id="133">Royal Parks</test-piece>
+    </result>
+    
+    <result id="292471">
+      <result code="2">2</result>
+      <band id="2167">Toronto Brass</band>
+      <conductor id="306877">Tim O&#39;Hearn</conductor>
+      <test-piece id="3236">The Raid</test-piece>
+    </result>
+    
+    <result id="292472">
+      <result code="3">3</result>
+      <band id="699">Waratah Mayfield Brass</band>
+      <conductor id="318272">Stephen Grice</conductor>
+      <test-piece id="321">Equilibrium</test-piece>
+    </result>
+    
+    <result id="292473">
+      <result code="4">4</result>
+      <band id="2284">Canberra City Brass</band>
+      <conductor id="310338">John Thompson</conductor>
+      <test-piece id="166">Trittico [Curnow]</test-piece>
+    </result>
+    
+    <result id="292474">
+      <result code="5">5</result>
+      <band id="9330">Manly Brass Band</band>
+      <conductor id="318273">Damain Butler</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="292475">
+      <result code="6">6</result>
+      <band id="2269">Parramatta City Band</band>
+      <conductor id="301710">Jonathan Gatt</conductor>
+      <test-piece id="3432">Essay for Brass [Parry]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

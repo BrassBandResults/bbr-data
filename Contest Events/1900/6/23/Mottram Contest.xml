@@ -1,0 +1,69 @@
+<contest-event id="22742">
+  <event-date date="1900-6-23">June 23, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mottram Contest</name>
+  <contest id="2585">
+    <name>Mottram Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mottram-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1938">Mottram in Longdendale, Greater Manchester, England, UK</venue>
+  <notes>Promoted by Mottram and Broadbottom Brass Band
+March: 1. Mossley, 2. Thornsett.
+Best euphonium - John Carter (Mossley).
+Best trombone - H.Hoyland (Thornsett).
+5 bands competed.</notes>
+
+  <created>Aug. 13, 2013, 1:50 p.m.</created>
+  <last-modified>June 13, 2018, 8:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168069">
+      <result code="1">1</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="168070">
+      <result code="2">2</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="309337">Christopher Smith</conductor>
+      <test-piece id="2565">Betley</test-piece>
+    </result>
+    
+    <result id="168071">
+      <result code="3">3</result>
+      <band id="1863">New Mills Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168072">
+      <result code="4">4</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="168073">
+      <result code="5">5</result>
+      <band id="3600">St. George&#39;s Pendleton</band>
+      <conductor id="300643">Fred Durham</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

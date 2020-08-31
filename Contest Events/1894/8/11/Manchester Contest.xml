@@ -1,0 +1,104 @@
+<contest-event id="12268">
+  <event-date date="1894-8-11">Aug. 11, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester Contest</name>
+  <contest id="1617">
+    <name>Manchester Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>manchester-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3560">Gems from Wagner [arr. Kappey]</test-piece>
+  </test-piece>
+
+  <venue id="1765">Botanical Gardens, Old Trafford, Manchester</venue>
+  <notes>Prizes: £25, £15, £10, £7, £4
+12 bands entered, 7 competed.
+</notes>
+
+  <created>April 11, 2012, 4:28 p.m.</created>
+  <last-modified>June 14, 2019, 9:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98337">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="98338">
+      <result code="2">2</result>
+      <band id="3675">Boothfold</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="98339">
+      <result code="3">3</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="98340">
+      <result code="4">4</result>
+      <band id="7593">Onward Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="98341">
+      <result code="5">5</result>
+      <band id="7809">South Manchester</band>
+      <conductor id="299218">W. G. Chapman</conductor>
+    </result>
+    
+    <result id="145198">
+      <result code="">Unknown Result</result>
+      <band id="2524">Radcliffe Old Band</band>
+      <conductor id="299218">W. G. Chapman</conductor>
+    </result>
+    
+    <result id="145199">
+      <result code="">Unknown Result</result>
+      <band id="8034">North East Manchester</band>
+      <conductor id="314492">J. H. White</conductor>
+    </result>
+    
+    <result id="145197">
+      <result code="W">Withdrawn</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145200">
+      <result code="W">Withdrawn</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145195">
+      <result code="W">Withdrawn</result>
+      <band id="4092">Rist&#39;s Cable Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145194">
+      <result code="W">Withdrawn</result>
+      <band id="7216">St Joseph&#39;s (Leigh)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145196">
+      <result code="W">Withdrawn</result>
+      <band id="3365">Stubbins Vale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

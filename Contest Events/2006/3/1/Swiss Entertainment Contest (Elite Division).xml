@@ -1,0 +1,55 @@
+<contest-event id="5517">
+  <event-date date="2006-3-1">March 1, 2006<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Swiss Entertainment Contest (Elite Division)</name>
+  <contest id="890">
+    <name>Swiss Entertainment Contest (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="149">Swiss Entertainment Contest</group>
+    <slug>swiss-entertainment-contest-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="974">Brass Machine</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>solo champion: Matthias Siegenthaler &amp; Christoph Hess (BBO)
+best show: OBB</notes>
+
+  <created>April 18, 2011, 12:24 p.m.</created>
+  <last-modified>April 18, 2011, 12:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="47643">
+      <result code="1">1</result>
+      <band id="58">Oberaargauer Brass Band</band>
+      <conductor id="306894">Manfred Obrecht</conductor>
+    </result>
+    
+    <result id="47644">
+      <result code="2">2</result>
+      <band id="66">Brassband Bürgermusik Luzern</band>
+      <conductor id="310620">Corsin Tuor</conductor>
+    </result>
+    
+    <result id="47645">
+      <result code="3">3</result>
+      <band id="56">Brass Band Berner Oberland</band>
+      <conductor id="308785">Adrian Schneider</conductor>
+    </result>
+    
+    <result id="47646">
+      <result code="4">4</result>
+      <band id="61">Musikgesellschaft Risch-Rotkreuz</band>
+      <conductor id="299278">Rino Chiappori</conductor>
+    </result>
+    
+  </results>
+</contest-event>

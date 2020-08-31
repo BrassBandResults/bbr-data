@@ -1,0 +1,36 @@
+<contest-event id="5180">
+  <event-date date="1970-1-1">Jan. 1, 1970<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>CISWO Yorkshire (Championship Section)</name>
+  <contest id="670">
+    <name>CISWO Yorkshire (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="23">Resurgam</test-piece>
+  </test-piece>
+
+  <venue id="3258">City Hall, Sheffield</venue>
+  <notes></notes>
+
+  <created>April 1, 2011, 11:53 p.m.</created>
+  <last-modified>June 8, 2014, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="45129">
+      <result code="1">1</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

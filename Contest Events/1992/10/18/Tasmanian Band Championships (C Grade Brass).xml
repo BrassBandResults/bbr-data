@@ -1,0 +1,51 @@
+<contest-event id="42847">
+  <event-date date="1992-10-18">Oct. 18, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (C Grade Brass)</name>
+  <contest id="3036">
+    <name>Tasmanian Band Championships (C Grade Brass)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-c-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="810">A Barchester Suite</test-piece>
+  </test-piece>
+
+  <venue id="7204">Brooks High School, Newham, Launceston, Tasmania, Australia</venue>
+  <notes>Bands required to also play a Hymn  ( not included in championship)</notes>
+
+  <created>Nov. 13, 2019, 5:37 a.m.</created>
+  <last-modified>Dec. 7, 2019, 2:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313672">
+      <result code="1">1</result>
+      <band id="2291">City of Burnie Brass</band>
+      <conductor id="297826">Robert Bentley</conductor>
+      <test-piece id="284">A Celtic Suite</test-piece>
+    </result>
+    
+    <result id="313670">
+      <result code="2">2</result>
+      <band id="9277">Launceston Railway Silver Band</band>
+      <conductor id="308731">Mark Saunders</conductor>
+      <test-piece id="70">The Shipbuilders</test-piece>
+    </result>
+    
+    <result id="313671">
+      <result code="3">3</result>
+      <band id="13389">Launceston City Band</band>
+      <conductor id="311345">Noel Wheeler</conductor>
+      <test-piece id="838">Three Inventions</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

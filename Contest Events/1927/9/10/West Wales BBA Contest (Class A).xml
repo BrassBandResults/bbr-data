@@ -1,0 +1,72 @@
+<contest-event id="41356">
+  <event-date date="1927-9-10">Sept. 10, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1080">Rossini [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1405">Llandilo, Pembrokeshire, Wales, UK</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Nov. 23, 2018, 11:26 a.m.</created>
+  <last-modified>Nov. 23, 2018, 11:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="300644">
+      <result code="1">1</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="300645">
+      <result code="2">2</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="303413">John Hopkins</conductor>
+    </result>
+    
+    <result id="300646">
+      <result code="3">3</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="300650">
+      <result code="">Unknown Result</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="318702">A. Carey</conductor>
+    </result>
+    
+    <result id="300649">
+      <result code="">Unknown Result</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="314394">T. Valentine</conductor>
+    </result>
+    
+    <result id="300647">
+      <result code="">Unknown Result</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300648">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">Thomas Charles White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

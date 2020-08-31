@@ -1,0 +1,49 @@
+<contest-event id="23178">
+  <event-date date="1958-12-6">Dec. 6, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Contest (Championship Section)</name>
+  <contest id="1103">
+    <name>NWABBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="142">NWABBA Contest</group>
+    <slug>nwabba-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3866">Queens Hall, Preston, Lancashire, England, UK</venue>
+  <notes>
+  7 bands competed.</notes>
+
+  <created>Aug. 20, 2013, 7:56 a.m.</created>
+  <last-modified>Aug. 20, 2013, 7:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170497">
+      <result code="1">1</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="300743">James Eddowes</conductor>
+    </result>
+    
+    <result id="170498">
+      <result code="2">2</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="308705">Derek Sanderson</conductor>
+    </result>
+    
+    <result id="170499">
+      <result code="3">3</result>
+      <band id="2551">Storeys of Lancaster Band</band>
+      <conductor id="298632">Arthur Brownbill</conductor>
+    </result>
+    
+  </results>
+</contest-event>

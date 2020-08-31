@@ -1,0 +1,48 @@
+<contest-event id="19247">
+  <event-date date="1955-5-1">May 1, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest (A Section)</name>
+  <contest id="1390">
+    <name>Blackpool Contest (A Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest-a-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="660">Thames Valley Suite</test-piece>
+  </test-piece>
+
+  <venue id="6028">Tower Circus, Blackpool, Lancashire, England, UK</venue>
+  <notes></notes>
+
+  <created>March 17, 2013, 11:23 a.m.</created>
+  <last-modified>April 10, 2017, 8:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="144755">
+      <result code="1">1</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144756">
+      <result code="2">2</result>
+      <band id="394">Brindle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144757">
+      <result code="3">3</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="306615">J. W. Naylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

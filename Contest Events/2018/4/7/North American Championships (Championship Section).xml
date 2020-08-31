@@ -1,0 +1,77 @@
+<contest-event id="37692">
+  <event-date date="2018-4-7">April 7, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Championship Section)</name>
+  <contest id="161">
+    <name>North American Championships (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-championship-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2927">As If A Voice Were In Them</test-piece>
+  </test-piece>
+
+  <venue id="5779">Embassy Theatre, Fort Wayne, Indiana, USA</venue>
+  <notes>Set piece: Friday 6th April, 8-10.30 pm
+Own choice: Saturday 7th April, 7-10 pm
+
+The overall score is weighted as 60% test piece, 40% remainder of program.
+First tiebreaker: The band with the highest test piece scores wins.
+Second tiebreaker: The band rated higher on the test piece by 2 of the 3 judges wins.</notes>
+
+  <created>April 1, 2017, 3:37 a.m.</created>
+  <last-modified>Nov. 29, 2018, 4:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284689">
+      <result code="1">1</result>
+      <band id="42">Fountain City Brass</band>
+      <conductor id="304524">David King</conductor>
+      <test-piece id="3485">Fraternity</test-piece>
+    </result>
+    
+    <result id="284686">
+      <result code="2">2</result>
+      <band id="1003">Atlantic Brass Band</band>
+      <conductor id="308757">Salvatore Scarpa</conductor>
+      <test-piece id="3219">Angels and Demons</test-piece>
+    </result>
+    
+    <result id="284687">
+      <result code="3">3</result>
+      <band id="53">Brass Band of Central Florida</band>
+      <conductor id="307742">Gareth Pritchard</conductor>
+      <test-piece id="78">...Dove Descending</test-piece>
+    </result>
+    
+    <result id="284690">
+      <result code="4">4</result>
+      <band id="1002">James Madison University Brass Band</band>
+      <conductor id="309702">Kevin Stees</conductor>
+      <test-piece id="78">...Dove Descending</test-piece>
+    </result>
+    
+    <result id="284688">
+      <result code="5">5</result>
+      <band id="1001">Chicago Brass Band</band>
+      <conductor id="303333">Colin Holman</conductor>
+      <test-piece id="3175">Journey of the Lone Wolf</test-piece>
+    </result>
+    
+    <result id="284691">
+      <result code="6">6</result>
+      <band id="14565">Tallgrass Brass Band</band>
+      <conductor id="297642">Alexander Beamer</conductor>
+      <test-piece id="116">From Ancient Times</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

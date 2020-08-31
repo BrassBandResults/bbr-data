@@ -1,0 +1,48 @@
+<contest-event id="14162">
+  <event-date date="1959-4-4">April 4, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Fourth Section)</name>
+  <contest id="237">
+    <name>Brass Band League (NI) Spring Festival (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-fourth-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2155">A Happy Suite</test-piece>
+  </test-piece>
+
+  <venue id="2304">Floral Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:09 p.m.</created>
+  <last-modified>April 30, 2014, 5:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113125">
+      <result code="1">1</result>
+      <band id="1390">Bruce Hamilton Silver Band</band>
+      <conductor id="297236">William Atkinson</conductor>
+    </result>
+    
+    <result id="113126">
+      <result code="2">2</result>
+      <band id="1384">Hillsborough Silver Band</band>
+      <conductor id="309780">Patrick Stevenson</conductor>
+    </result>
+    
+    <result id="113127">
+      <result code="3">3</result>
+      <band id="1383">Oldpark Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

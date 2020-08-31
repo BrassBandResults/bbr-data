@@ -1,0 +1,42 @@
+<contest-event id="40439">
+  <event-date date="1913-5-14">May 14, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Portmadoc Eisteddfod</name>
+  <contest id="5158">
+    <name>Portmadoc Eisteddfod</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>portmadoc-eisteddfod</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1074">The Forest Queen</test-piece>
+  </test-piece>
+
+  <venue id="4533">Porthmadog, Gwynedd, Wales, UK</venue>
+  <notes>2 bands competed.</notes>
+
+  <created>Sept. 30, 2018, 9:01 a.m.</created>
+  <last-modified>Sept. 30, 2018, 9:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294245">
+      <result code="1">1</result>
+      <band id="9835">Nantlle Deulyn</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="294246">
+      <result code="2">2</result>
+      <band id="9960">Harlech Brass Band</band>
+      <conductor id="318362">Evan Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

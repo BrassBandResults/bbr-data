@@ -1,0 +1,51 @@
+<contest-event id="37918">
+  <event-date date="1993-4-10">April 10, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (Junior B Grade)</name>
+  <contest id="6141">
+    <name>Australian Championships - Wind Band (Junior B Grade)</name>
+    <order>5</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-junior-b-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2679">March: Children&#39;s March</test-piece>
+  </test-piece>
+
+  <venue id="6487">Princess Theatre, Launceston, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>May 12, 2017, 6:08 a.m.</created>
+  <last-modified>May 12, 2017, 7:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274087">
+      <result code="1">1</result>
+      <band id="15197">Pymble Ladies College  (NSW)</band>
+      <conductor id="315503">Allan Stiles</conductor>
+      <test-piece id="4123">Declaration Overture</test-piece>
+    </result>
+    
+    <result id="274088">
+      <result code="2">2</result>
+      <band id="15182">St.Patricks College  Strathfield  (NSW)</band>
+      <conductor id="304404">Paul Kellett</conductor>
+      <test-piece id="4127">Fox River Festival</test-piece>
+    </result>
+    
+    <result id="274089">
+      <result code="3">3</result>
+      <band id="15294">St.Pius  X College   Chatswood  (NSW)</band>
+      <conductor id="310442">Anthony Timmins</conductor>
+      <test-piece id="4766">Folk Song Suite</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

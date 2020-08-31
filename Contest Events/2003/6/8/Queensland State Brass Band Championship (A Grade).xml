@@ -1,0 +1,48 @@
+<contest-event id="42479">
+  <event-date date="2003-6-8">June 8, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="235">Sounds</test-piece>
+  </test-piece>
+
+  <venue id="1101">Brolga Theatre, Maryborough, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 11, 2019, 11:39 p.m.</created>
+  <last-modified>Aug. 12, 2019, 10:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="311712">
+      <result code="1">1</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310143">Howard Taylor</conductor>
+    </result>
+    
+    <result id="311713">
+      <result code="2">2</result>
+      <band id="2147">Capricornia Silver Band</band>
+      <conductor id="303777">Dennis Ilott</conductor>
+    </result>
+    
+    <result id="311714">
+      <result code="3">3</result>
+      <band id="1161">Brisbane Brass</band>
+      <conductor id="296834">Greg Aitken</conductor>
+    </result>
+    
+  </results>
+</contest-event>

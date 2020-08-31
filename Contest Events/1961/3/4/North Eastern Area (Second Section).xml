@@ -1,0 +1,102 @@
+<contest-event id="4884">
+  <event-date date="1961-3-4">March 4, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Eastern Area (Second Section)</name>
+  <contest id="18">
+    <name>Yorkshire Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="176">Symphonic Suite for Brass</test-piece>
+  </test-piece>
+
+  <venue id="713">Huddersfield Town Hall, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes>Updated thanks to TS6445</notes>
+
+  <created>March 14, 2011, 12:49 p.m.</created>
+  <last-modified>Nov. 19, 2014, 10:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="42173">
+      <result code="1">1</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="303387">Edmund Hoole</conductor>
+    </result>
+    
+    <result id="42174">
+      <result code="2">2</result>
+      <band id="139">Dinnington Colliery Band</band>
+      <conductor id="297109">Joe Armstrong</conductor>
+    </result>
+    
+    <result id="42175">
+      <result code="3">3</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="304358">J. Kaye</conductor>
+    </result>
+    
+    <result id="42176">
+      <result code="4">4</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="304357">George Kaye</conductor>
+    </result>
+    
+    <result id="42177">
+      <result code="5">5</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="306374">John Willie Morley</conductor>
+    </result>
+    
+    <result id="42184">
+      <result code="">Unknown Result</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="301551">Sydney Fripp</conductor>
+    </result>
+    
+    <result id="42180">
+      <result code="">Unknown Result</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="306303">Winston Moore</conductor>
+    </result>
+    
+    <result id="42183">
+      <result code="">Unknown Result</result>
+      <band id="3384">Lockwood Band (Huddersfield)</band>
+      <conductor id="308335">Albert Robinson</conductor>
+    </result>
+    
+    <result id="42179">
+      <result code="">Unknown Result</result>
+      <band id="140">Dodworth Colliery MW Brass</band>
+      <conductor id="306867">Stanley O&#39;Connor</conductor>
+    </result>
+    
+    <result id="42178">
+      <result code="">Unknown Result</result>
+      <band id="2747">Cortonwood Colliery</band>
+      <conductor id="301423">Eric Foster</conductor>
+    </result>
+    
+    <result id="42181">
+      <result code="">Unknown Result</result>
+      <band id="123">Knottingley Silver Band</band>
+      <conductor id="307567">T. B. Pollard</conductor>
+    </result>
+    
+    <result id="42182">
+      <result code="">Unknown Result</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="308174">T. E. Rickard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

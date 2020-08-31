@@ -1,0 +1,105 @@
+<contest-event id="12289">
+  <event-date date="1894-8-18">Aug. 18, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkcaldy Contest</name>
+  <contest id="1019">
+    <name>Kirkcaldy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkcaldy-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1741">Great Britain</test-piece>
+  </test-piece>
+
+  <venue id="582">Raith Park, Kirkcaldy, Fife, Scotland, UK</venue>
+  <notes>Additional source: Manchester Times (Manchester, England), Friday, August 24, 1894; Issue 1933.
+9 bands competed, with an audience of 45,000
+1st/2nd/3rd prizes shared, 5th/6th shared also
+Prizes: £60, £40, £25, £15, £10, £5</notes>
+
+  <created>April 11, 2012, 9:36 p.m.</created>
+  <last-modified>June 14, 2019, 9:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98467">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="98469">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="98468">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="98470">
+      <result code="4">4</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="98471">
+      <result code="5">5</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="98472">
+      <result code="5">5</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="105240">
+      <result code="">Unknown Result</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="105241">
+      <result code="">Unknown Result</result>
+      <band id="6324">Atherton Rifles</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="105257">
+      <result code="">Unknown Result</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105242">
+      <result code="W">Withdrawn</result>
+      <band id="8206">Openshaw Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105259">
+      <result code="W">Withdrawn</result>
+      <band id="2524">Radcliffe Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105258">
+      <result code="W">Withdrawn</result>
+      <band id="7809">South Manchester</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

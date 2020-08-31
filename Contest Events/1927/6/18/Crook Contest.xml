@@ -1,0 +1,56 @@
+<contest-event id="36740">
+  <event-date date="1927-6-18">June 18, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crook Contest</name>
+  <contest id="3691">
+    <name>Crook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2791">Crook, County Durham, England, UK</venue>
+  <notes>4th annual contest.
+March contest - 1st Craghead, 2nd Brancepeth.
+4 bands competed</notes>
+
+  <created>Dec. 27, 2016, 3:10 p.m.</created>
+  <last-modified>Nov. 21, 2018, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="266427">
+      <result code="1">1</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="266428">
+      <result code="2">2</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="302375">Gus Haigh</conductor>
+    </result>
+    
+    <result id="266429">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="266430">
+      <result code="4">4</result>
+      <band id="6271">Butterknowle</band>
+      <conductor id="310203">Joseph Teasdale</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="19602">
+  <event-date date="1970-4-25">April 25, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Championship Section)</name>
+  <contest id="38">
+    <name>West of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="397">The Corsair</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes></notes>
+
+  <created>March 24, 2013, 5:38 p.m.</created>
+  <last-modified>March 24, 2013, 5:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="147010">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+    <result id="147011">
+      <result code="2">2</result>
+      <band id="1733">Shaftesbury Crusade</band>
+      <conductor id="301926">A. W. Golding</conductor>
+    </result>
+    
+    <result id="147012">
+      <result code="3">3</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+    <result id="147013">
+      <result code="4">4</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+    </result>
+    
+    <result id="185564">
+      <result code="">Unknown Result</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="298210">Courtney Bosanko</conductor>
+    </result>
+    
+  </results>
+</contest-event>

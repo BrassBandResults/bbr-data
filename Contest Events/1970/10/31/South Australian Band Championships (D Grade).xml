@@ -1,0 +1,48 @@
+<contest-event id="39337">
+  <event-date date="1970-10-31">Oct. 31, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Australian Band Championships (D Grade)</name>
+  <contest id="574">
+    <name>South Australian Band Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="646">London River</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>March 18, 2018, 10:29 p.m.</created>
+  <last-modified>June 5, 2018, 12:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="289163">
+      <result code="1">1</result>
+      <band id="2161">Hahndorf Town Band</band>
+      <conductor id="317755">Geoff Fachmann</conductor>
+    </result>
+    
+    <result id="289164">
+      <result code="2">2</result>
+      <band id="2185">Light United Band</band>
+      <conductor id="308779">R. E. Schmidt</conductor>
+    </result>
+    
+    <result id="289165">
+      <result code="3">3</result>
+      <band id="17120">Mitchell Park Boys Tech High School</band>
+      <conductor id="305961">John McMenamin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

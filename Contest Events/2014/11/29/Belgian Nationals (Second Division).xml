@@ -1,0 +1,44 @@
+<contest-event id="30440">
+  <event-date date="2014-11-29">Nov. 29, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Second Division)</name>
+  <contest id="78">
+    <name>Belgian Nationals (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-second-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1449">Evolution - Five States of Change</test-piece>
+  </test-piece>
+
+  <venue id="149">Lemmensinstituut, Leuven, Flemish Brabant, Belgium</venue>
+  <notes></notes>
+
+  <created>Nov. 28, 2014, 6:40 p.m.</created>
+  <last-modified>Nov. 28, 2014, 6:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="215223">
+      <result code="1">1</result>
+      <band id="1607">Braz &#39;art Band</band>
+      <conductor id="310790">Geert Verschaeve</conductor>
+      <test-piece id="133">Royal Parks</test-piece>
+    </result>
+    
+    <result id="215222">
+      <result code="2">2</result>
+      <band id="683">Brassband Euterpe</band>
+      <conductor id="298715">Roland van Buggenhout</conductor>
+      <test-piece id="133">Royal Parks</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

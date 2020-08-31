@@ -1,0 +1,54 @@
+<contest-event id="8769">
+  <event-date date="1994-5-7">May 7, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>European Championships (1st/B Section)</name>
+  <contest id="86">
+    <name>European Championships (Challenge Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="22">European Championships</group>
+    <slug>european-championships-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="23">Resurgam</test-piece>
+  </test-piece>
+
+  <venue id="379">Montreux, VD, Switzerland</venue>
+  <notes>1st Edition</notes>
+
+  <created>Dec. 11, 2011, 3:48 p.m.</created>
+  <last-modified>April 24, 2018, 6:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76749">
+      <result code="1">1</result>
+      <band id="6045">Brass Band Fröschl Hall</band>
+      <conductor id="298684">Hannes Buchegger</conductor>
+    </result>
+    
+    <result id="76750">
+      <result code="2">2</result>
+      <band id="6040">Mitropa Brass Band</band>
+      <conductor id="307352">Massimo Pennati</conductor>
+    </result>
+    
+    <result id="76751">
+      <result code="3">3</result>
+      <band id="1342">Töölö Brass</band>
+      <conductor id="297916">Tom Bildo</conductor>
+    </result>
+    
+    <result id="76752">
+      <result code="4">4</result>
+      <band id="6041">Brass Band Bratislava</band>
+      <conductor id="303550">Adam Hudec</conductor>
+    </result>
+    
+  </results>
+</contest-event>

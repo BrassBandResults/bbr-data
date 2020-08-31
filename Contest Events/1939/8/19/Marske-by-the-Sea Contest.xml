@@ -1,0 +1,58 @@
+<contest-event id="26226">
+  <event-date date="1939-8-19">Aug. 19, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marske-by-the-Sea Contest</name>
+  <contest id="1451">
+    <name>Marske-by-the-Sea Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>marske-by-the-sea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="944">Marske-by-the-Sea, North Yorkshire</venue>
+  <notes>  March contest - 1st Kirkbymoorside, 2nd divided between Skinningrove and Cargo Fleet.
+  6 bands competd.</notes>
+
+  <created>Jan. 30, 2014, 12:58 p.m.</created>
+  <last-modified>Jan. 30, 2014, 1:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="189871">
+      <result code="1">1</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1901">Verdi&#39;s Works [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="189872">
+      <result code="2">2</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1020">Recollections of Verdi</test-piece>
+    </result>
+    
+    <result id="189873">
+      <result code="3">3</result>
+      <band id="10707">Skinningrove Iron &amp; Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1304">Gounod [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="189874">
+      <result code="">Unknown Result</result>
+      <band id="298">Kirkbymoorside Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

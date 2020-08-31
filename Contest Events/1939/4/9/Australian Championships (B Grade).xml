@@ -1,0 +1,59 @@
+<contest-event id="35158">
+  <event-date date="1939-4-9">April 9, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="804">The Royal Water Music</test-piece>
+  </test-piece>
+
+  <venue id="6064">Bundaberg, Queensland, Australia</venue>
+  <notes>Two set tests, 
+No.2 Test points listed under Own Choice
+
+Other Disciplines
+Hymn  (own choice)
+Oval March Test Music (unknown)</notes>
+
+  <created>April 22, 2016, 1:05 a.m.</created>
+  <last-modified>March 7, 2019, 12:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253271">
+      <result code="1">1</result>
+      <band id="6431">Maryborough Federal [Queensland]</band>
+      <conductor id="304131">Frank Johnston</conductor>
+    </result>
+    
+    <result id="253272">
+      <result code="2">2</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+    <result id="253273">
+      <result code="3">3</result>
+      <band id="12940">Brisbane City Waterside Workers</band>
+      <conductor id="307374">Harold Perkins</conductor>
+    </result>
+    
+    <result id="253274">
+      <result code="4">4</result>
+      <band id="17760">Gympie Citizen (Qld)</band>
+      <conductor id="318232">Bill Ryder   Snr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

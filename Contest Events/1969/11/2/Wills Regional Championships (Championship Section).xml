@@ -1,0 +1,54 @@
+<contest-event id="6516">
+  <event-date date="1969-11-2">Nov. 2, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wills Regional Championships (Championship Section)</name>
+  <contest id="1085">
+    <name>Wills Regional Championships - Plymouth (Championship Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="205">Wills Regional Championships - Plymouth</group>
+    <slug>wills-regional-championships-plymouth-ch-1085</slug>
+    <qualifies-for id="891">Wills Championships Grand Finals (Championship Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="372">The Frogs of Aristophanes</test-piece>
+  </test-piece>
+
+  <venue id="1798">The Guildhall, Plymouth</venue>
+  <notes></notes>
+
+  <created>June 16, 2011, 3:23 p.m.</created>
+  <last-modified>Nov. 27, 2016, 8:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="57170">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="308279">Fred Roberts</conductor>
+    </result>
+    
+    <result id="146026">
+      <result code="2">2</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="311611">Eddie Williams</conductor>
+    </result>
+    
+    <result id="146025">
+      <result code="3">3</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="308106">A. G. Richards</conductor>
+    </result>
+    
+    <result id="146027">
+      <result code="">Unknown Result</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="298210">Courtney Bosanko</conductor>
+    </result>
+    
+  </results>
+</contest-event>

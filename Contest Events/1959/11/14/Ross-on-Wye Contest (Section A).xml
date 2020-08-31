@@ -1,0 +1,48 @@
+<contest-event id="27300">
+  <event-date date="1959-11-14">Nov. 14, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ross-on-Wye Contest (Section A)</name>
+  <contest id="4497">
+    <name>Ross-on-Wye Contest (Section A)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ross-on-wye-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="602">Passing Moods</test-piece>
+  </test-piece>
+
+  <venue id="3620">Ross-on-Wye, Herefordshire, England, UK</venue>
+  <notes></notes>
+
+  <created>May 7, 2014, 9:08 a.m.</created>
+  <last-modified>May 7, 2014, 9:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="196767">
+      <result code="1">1</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196768">
+      <result code="2">2</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="196769">
+      <result code="3">3</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

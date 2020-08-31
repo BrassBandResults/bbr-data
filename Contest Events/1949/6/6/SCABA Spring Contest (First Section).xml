@@ -1,0 +1,42 @@
+<contest-event id="26326">
+  <event-date date="1949-6-6">June 6, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SCABA Spring Contest (First Section)</name>
+  <contest id="94">
+    <name>SCABA Spring Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="8">SCABA Spring Contest</group>
+    <slug>scaba-spring-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4459">Seaford, Sussex</venue>
+  <notes>  March contest - 1st Horsham, 2nd West Crawley.</notes>
+
+  <created>Feb. 12, 2014, 10:23 a.m.</created>
+  <last-modified>Feb. 12, 2014, 10:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190671">
+      <result code="1">1</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="306116">E. W. Miles</conductor>
+    </result>
+    
+    <result id="190672">
+      <result code="2">2</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="311024">G. Ward</conductor>
+    </result>
+    
+  </results>
+</contest-event>

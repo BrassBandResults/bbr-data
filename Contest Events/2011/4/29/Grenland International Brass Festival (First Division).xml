@@ -1,0 +1,43 @@
+<contest-event id="4512">
+  <event-date date="2011-4-29">April 29, 2011<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grenland International Brass Festival (First Division)</name>
+  <contest id="388">
+    <name>Grenland International Brass Festival (First Division)</name>
+    <order>10</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="66">Grenland International Brass Festival</group>
+    <slug>grenland-international-brass-festival-first-divisi</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="22">Chuch Concert, Test Piece &amp; Entertainment</contest-type-override>
+  <test-piece>
+    <test-piece id="370">Midsummer Music</test-piece>
+  </test-piece>
+
+  <venue id="200">Ibsenhuset, Skien, Telemark, Norway</venue>
+  <notes>Soloistprize: Hildegunn Sture Sylta, trombone, Radøy Brass
+Best hymn: Radøy Brass</notes>
+
+  <created>March 2, 2011, 7:46 p.m.</created>
+  <last-modified>April 4, 2012, 9:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="39461">
+      <result code="1">1</result>
+      <band id="1105">Oster Brass</band>
+      <conductor id="296733">Torstein Aagaard-Nilsen</conductor>
+    </result>
+    
+    <result id="39462">
+      <result code="2">2</result>
+      <band id="1106">Radøy Brass</band>
+      <conductor id="298367">Magnus Brandseth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

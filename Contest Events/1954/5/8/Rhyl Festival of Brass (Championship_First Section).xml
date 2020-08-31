@@ -1,0 +1,66 @@
+<contest-event id="4087">
+  <event-date date="1954-5-8">May 8, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Festival of Brass (Championship/First Section)</name>
+  <contest id="167">
+    <name>Rhyl Festival of Brass (Championship/First Section)</name>
+    <order>1</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="28">Rhyl Festival of Brass</group>
+    <slug>rhyl-festival-of-brass</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="742">Clive of India</test-piece>
+  </test-piece>
+
+  <venue id="42">Pavilion Theatre, Rhyl</venue>
+  <notes></notes>
+
+  <created>Feb. 17, 2011, 3:59 p.m.</created>
+  <last-modified>Feb. 7, 2012, 11:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="35828">
+      <result code="1">1</result>
+      <band id="1871">Ferodo Works Band</band>
+      <conductor id="302992">George Hespe</conductor>
+    </result>
+    
+    <result id="35829">
+      <result code="2">2</result>
+      <band id="1347">City of Manchester</band>
+      <conductor id="306421">Alex Mortimer</conductor>
+    </result>
+    
+    <result id="35830">
+      <result code="3">3</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="312107">William Yates</conductor>
+    </result>
+    
+    <result id="35832">
+      <result code="">Unknown Result</result>
+      <band id="2502">Prescot Cables</band>
+      <conductor id="298994">John Capper</conductor>
+    </result>
+    
+    <result id="35831">
+      <result code="">Unknown Result</result>
+      <band id="8">Leyland Band</band>
+      <conductor id="306456">Harold Moss</conductor>
+    </result>
+    
+    <result id="35833">
+      <result code="">Unknown Result</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="311918">Willie Wood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

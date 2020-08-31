@@ -1,0 +1,55 @@
+<contest-event id="18435">
+  <event-date date="1952-8-24">Aug. 24, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Association Contest (Section A)</name>
+  <contest id="3845">
+    <name>Birmingham Association Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="458">Birmingham Association Contest</group>
+    <slug>birmingham-association-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1202">Springtime</test-piece>
+  </test-piece>
+
+  <venue id="3087">Small Heath Park, Birmingham</venue>
+  <notes>Prizes - 1st £15, 2nd £7, 3rd £5.   £4 to highest class B band.
+</notes>
+
+  <created>Feb. 21, 2013, 11:12 p.m.</created>
+  <last-modified>March 20, 2019, 10:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="138897">
+      <result code="1">1</result>
+      <band id="2693">Bournville Silver</band>
+      <conductor id="296895">George Allen</conductor>
+    </result>
+    
+    <result id="138898">
+      <result code="2">2</result>
+      <band id="493">City of Birmingham Band</band>
+      <conductor id="302199">Horace Grey</conductor>
+    </result>
+    
+    <result id="138899">
+      <result code="3">3</result>
+      <band id="882">Coleshill Town Band</band>
+      <conductor id="299415">M. Clayton</conductor>
+    </result>
+    
+    <result id="305685">
+      <result code="">Unknown Result</result>
+      <band id="475">Shirley Band</band>
+      <conductor id="305349">R. Lugg</conductor>
+    </result>
+    
+  </results>
+</contest-event>

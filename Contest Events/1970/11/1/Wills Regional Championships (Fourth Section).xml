@@ -1,0 +1,72 @@
+<contest-event id="5769">
+  <event-date date="1970-11-1">Nov. 1, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wills Regional Championships (Fourth Section)</name>
+  <contest id="1090">
+    <name>Wills Regional Championships - Wolverhampton (4th Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="203">Wills Regional Championships - Wolverhampton</group>
+    <slug>wills-regional-championships-wolverhampt-1090</slug>
+    <qualifies-for id="875">Wills Championships Grand Finals (4th Section)</qualifies-for>
+    <notes></notes>
+    
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="907">Fancy Free</test-piece>
+  </test-piece>
+
+  <venue id="284">Civic Hall, Wolverhampton</venue>
+  <notes></notes>
+
+  <created>May 7, 2011, 6:49 p.m.</created>
+  <last-modified>June 16, 2011, 3:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="50021">
+      <result code="1">1</result>
+      <band id="239">Ratby Co-operative Band</band>
+      <conductor id="309606">Bernard Springett</conductor>
+    </result>
+    
+    <result id="50020">
+      <result code="2">2</result>
+      <band id="4099">Quarrybank Silver Prize Band</band>
+      <conductor id="310907">J. Walker</conductor>
+    </result>
+    
+    <result id="50018">
+      <result code="3">3</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="304915">J. H. Leach</conductor>
+    </result>
+    
+    <result id="50019">
+      <result code="">Unknown Result</result>
+      <band id="492">Porthywaen Band</band>
+      <conductor id="307801">J. Pugh</conductor>
+    </result>
+    
+    <result id="50017">
+      <result code="">Unknown Result</result>
+      <band id="1514">Ifton Colliery Band</band>
+      <conductor id="301423">Eric Foster</conductor>
+    </result>
+    
+    <result id="50022">
+      <result code="">Unknown Result</result>
+      <band id="485">Stourport-on-Severn Brass Band</band>
+      <conductor id="303852">George Jackson</conductor>
+    </result>
+    
+    <result id="50016">
+      <result code="">Unknown Result</result>
+      <band id="347">Amington Band</band>
+      <conductor id="309606">Bernard Springett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

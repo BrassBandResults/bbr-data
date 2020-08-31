@@ -1,0 +1,58 @@
+<contest-event id="42870">
+  <event-date date="1995-10-15">Oct. 15, 1995<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="688">Variations on a Chord</test-piece>
+  </test-piece>
+
+  <venue id="7219">University of Tasmania, Sandy Bay, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>Nov. 14, 2019, 10:47 p.m.</created>
+  <last-modified>Nov. 14, 2019, 10:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313739">
+      <result code="1">1</result>
+      <band id="2141">Glenorchy City Concert Brass</band>
+      <conductor id="303661">Dean Hunt</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+    <result id="313741">
+      <result code="2">2</result>
+      <band id="2312">Glenorchy City Concert Brass No. 2</band>
+      <conductor id="319701">Robert Farmer</conductor>
+      <test-piece id="169">Triptych [Sparke]</test-piece>
+    </result>
+    
+    <result id="313742">
+      <result code="2">2</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+    <result id="313740">
+      <result code="4">4</result>
+      <band id="18331">City of Launceston Brass</band>
+      <conductor id="307613">David Potter</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="38005">
+  <event-date date="2018-3-31">March 31, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior C Grade)</name>
+  <contest id="92">
+    <name>Australian Championships (Junior C Grade)</name>
+    <order>130</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-c-grade</slug>
+    
+    <notes>First contest in grade 1988</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5337">Times Passed</test-piece>
+  </test-piece>
+
+  <venue id="336">Melbourne, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>May 19, 2017, 10:21 p.m.</created>
+  <last-modified>April 4, 2018, 2:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="286255">
+      <result code="1">1</result>
+      <band id="16950">North West Junior Brass Band</band>
+      <conductor id="317817">Peter Johnson</conductor>
+    </result>
+    
+    <result id="286298">
+      <result code="2">2</result>
+      <band id="16758">Creswick Youth Brass</band>
+      <conductor id="297959">Katrina Bird</conductor>
+    </result>
+    
+    <result id="286299">
+      <result code="3">3</result>
+      <band id="2342">Hyde Street Youth</band>
+      <conductor id="316990">Joe Kromhof</conductor>
+    </result>
+    
+    <result id="286300">
+      <result code="4">4</result>
+      <band id="16962">Box Hill Academy of Brass</band>
+      <conductor id="317826">Lauren Innes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

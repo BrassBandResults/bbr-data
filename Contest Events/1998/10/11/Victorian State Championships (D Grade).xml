@@ -1,0 +1,60 @@
+<contest-event id="39073">
+  <event-date date="1998-10-11">Oct. 11, 1998<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (D Grade)</name>
+  <contest id="3480">
+    <name>Victorian State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-d-grade</slug>
+    
+    <notes>None</notes>
+    
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1735">Key West</test-piece>
+  </test-piece>
+
+  <venue id="4945">Her Majesty&#39;s Theatre, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 1, 2018, 11:22 p.m.</created>
+  <last-modified>Feb. 1, 2018, 11:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284206">
+      <result code="1">1</result>
+      <band id="2319">Moonee Valley Brass</band>
+      <conductor id="311227">Suzanne Wedding</conductor>
+    </result>
+    
+    <result id="284207">
+      <result code="2">2</result>
+      <band id="740">Ararat City Band</band>
+      <conductor id="297632">Peter Baxter</conductor>
+    </result>
+    
+    <result id="284208">
+      <result code="3">3</result>
+      <band id="6404">City of Bendigo Brass Band</band>
+      <conductor id="317592"> TrevorTrewartha</conductor>
+    </result>
+    
+    <result id="284209">
+      <result code="">Unknown Result</result>
+      <band id="9371">Bendigo Youth Brass</band>
+      <conductor id="310579">Trevor Trewartha</conductor>
+    </result>
+    
+    <result id="284210">
+      <result code="">Unknown Result</result>
+      <band id="2327">Echuca Federal Band</band>
+      <conductor id="306368">Doug Morison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

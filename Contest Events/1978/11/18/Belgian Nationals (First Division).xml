@@ -1,0 +1,51 @@
+<contest-event id="12360">
+  <event-date date="1978-11-18">Nov. 18, 1978<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="844">A Psalm for all Nations</test-piece>
+  </test-piece>
+
+  <venue id="4747">Anderlecht, Brussels-Capital, Belgium</venue>
+  <notes>This should possibly be 1979.</notes>
+
+  <created>April 13, 2012, 2:49 p.m.</created>
+  <last-modified>May 23, 2014, 3:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98860">
+      <result code="1">1</result>
+      <band id="1211">Brass Band Terpsichore</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="798">King Lear</test-piece>
+    </result>
+    
+    <result id="114708">
+      <result code="">Unknown Result</result>
+      <band id="7148">St Cecilia Leest</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="159">Indian Summer</test-piece>
+    </result>
+    
+    <result id="114707">
+      <result code="">Unknown Result</result>
+      <band id="7850">United Brass</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1178">Youth Salutes a Master</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

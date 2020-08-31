@@ -1,0 +1,56 @@
+<contest-event id="23938">
+  <event-date date="1933-7-22">July 22, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Banbury Contest (Section 1)</name>
+  <contest id="3255">
+    <name>Banbury Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="307">Banbury Contest</group>
+    <slug>banbury-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1239">La Traviata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4005">Hospital Grounds, Banbury, Oxfordshire</venue>
+  <notes>Prizes - 1st £13 and trophy, 2nd £8, 3rd £5.
+  Promoted as part of Banbury Hospital Fete.
+  4 bands competed.</notes>
+
+  <created>Sept. 17, 2013, 2:12 p.m.</created>
+  <last-modified>Dec. 31, 2018, 1:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="174890">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="312144">T. Young</conductor>
+    </result>
+    
+    <result id="174891">
+      <result code="2">2</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="304002">R. O. G. Jenkins</conductor>
+    </result>
+    
+    <result id="174892">
+      <result code="3">3</result>
+      <band id="629">Bletchington Silver Band</band>
+      <conductor id="310743">William Uzzell</conductor>
+    </result>
+    
+    <result id="174893">
+      <result code="4">4</result>
+      <band id="431">Towcester Studio Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

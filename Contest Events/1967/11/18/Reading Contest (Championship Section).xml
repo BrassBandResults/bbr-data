@@ -1,0 +1,60 @@
+<contest-event id="14320">
+  <event-date date="1967-11-18">Nov. 18, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Championship Section)</name>
+  <contest id="2681">
+    <name>Reading Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-champion-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2043">Rienzi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="554">Reading Town Hall, Reading, Berkshire, England, UK</venue>
+  <notes>31st Annual Band Festival</notes>
+
+  <created>Aug. 1, 2012, 6:19 p.m.</created>
+  <last-modified>Aug. 1, 2012, 6:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114258">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="298379">Eric Bravington</conductor>
+    </result>
+    
+    <result id="114259">
+      <result code="2">2</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+    </result>
+    
+    <result id="114260">
+      <result code="3">3</result>
+      <band id="2001">Richmond Band</band>
+      <conductor id="305995">Albert Meek</conductor>
+    </result>
+    
+    <result id="114262">
+      <result code="4">4</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="300334">Ernest Denton</conductor>
+    </result>
+    
+    <result id="114261">
+      <result code="5">5</result>
+      <band id="284">Bournemouth Concert Brass</band>
+      <conductor id="300133">A. Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="26412">
+  <event-date date="1949-12-3">Dec. 3, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Association Contest (Section B)</name>
+  <contest id="3849">
+    <name>Birmingham Association Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="458">Birmingham Association Contest</group>
+    <slug>birmingham-association-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1375">Recollections of Beethoven [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="4472">Friends Institute, Moseley Road, Birmingham</venue>
+  <notes>March contest - 1st Woodend, 2nd Northfield, 3rd Arley, 4th West Bromwich Excelsior, 5th West Bromwich Borough.
+5 bands competed.</notes>
+
+  <created>Feb. 14, 2014, 5:02 p.m.</created>
+  <last-modified>June 30, 2014, 5:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="191277">
+      <result code="1">1</result>
+      <band id="1625">West Bromwich Borough</band>
+      <conductor id="296895">George Allen</conductor>
+    </result>
+    
+    <result id="191278">
+      <result code="2">2</result>
+      <band id="2704">Wood End W.M.C.</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="191279">
+      <result code="3">3</result>
+      <band id="10143">West Bromwich Excelsior</band>
+      <conductor id="303599">J. T. Hughes</conductor>
+    </result>
+    
+    <result id="191280">
+      <result code="4">4</result>
+      <band id="1490">Daw Mill Colliery Band</band>
+      <conductor id="298569">Bill Brotherhood</conductor>
+    </result>
+    
+    <result id="191281">
+      <result code="5">5</result>
+      <band id="1588">Northfield</band>
+      <conductor id="297695">T. R. Beddis</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="1320">
+  <event-date date="1996-11-30">Nov. 30, 1996<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Second Division)</name>
+  <contest id="13">
+    <name>Swiss National Championships (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-second-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="333">Occasion</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes>12 Bands competed.</notes>
+
+  <created>Dec. 1, 2009, 7:26 a.m.</created>
+  <last-modified>April 10, 2016, 1:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114664">
+      <result code="1">1</result>
+      <band id="86">Brass Band Uri</band>
+      <conductor id="298769">Hans Burkhalter</conductor>
+    </result>
+    
+    <result id="252603">
+      <result code="3">3</result>
+      <band id="91">Brass Band Harmonie Rickenbach</band>
+      <conductor id="298995">Remo Capra</conductor>
+    </result>
+    
+    <result id="236807">
+      <result code="5">5</result>
+      <band id="93">Musikverein Brass Band Henggart</band>
+      <conductor id="298761">Andreas Buri</conductor>
+    </result>
+    
+    <result id="13723">
+      <result code="7">7</result>
+      <band id="83">Brass Band Sursilvana</band>
+      <conductor id="310623">Gion Geri Tuor</conductor>
+    </result>
+    
+    <result id="240974">
+      <result code="8">8</result>
+      <band id="92">Brass Band Posaunenchor Flaach</band>
+      <conductor id="302762">Sabine Hasler-Egli</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,91 @@
+<contest-event id="34892">
+  <event-date date="1969-4-7">April 7, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1048">Fowey River Suite</test-piece>
+  </test-piece>
+
+  <venue id="4943">Albert Hall, Launceston, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>April 1, 2016, 12:54 a.m.</created>
+  <last-modified>April 9, 2018, 2:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="251902">
+      <result code="1">1</result>
+      <band id="2246">Tuggerah Lakes Showband</band>
+      <conductor id="309786">Don Stewart</conductor>
+      <test-piece id="654">Scheherazade</test-piece>
+    </result>
+    
+    <result id="251903">
+      <result code="2">2</result>
+      <band id="13579">Altona Municipal</band>
+      <conductor id="309002">William Shea</conductor>
+      <test-piece id="858">Crown Cavalcade</test-piece>
+    </result>
+    
+    <result id="251904">
+      <result code="3">3</result>
+      <band id="2176">Mount Gambier Band</band>
+      <conductor id="300769">Don Edwards</conductor>
+      <test-piece id="114">Snowdon Fantasy</test-piece>
+    </result>
+    
+    <result id="251905">
+      <result code="4">4</result>
+      <band id="13456">Latrobe City Brass Band [Victoria]</band>
+      <conductor id="310635">Charles Turner</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+    <result id="251906">
+      <result code="5">5</result>
+      <band id="13204">St. Kilda City [Victoria]</band>
+      <conductor id="311894">John Wood</conductor>
+    </result>
+    
+    <result id="251907">
+      <result code="6">6</result>
+      <band id="11303">Creswick Brass Band</band>
+      <conductor id="308485">Tom Ross</conductor>
+      <test-piece id="762">Second Rhapsody on Negro Spirituals</test-piece>
+    </result>
+    
+    <result id="251908">
+      <result code="7">7</result>
+      <band id="9430">South Gippsland Shire Brass Band</band>
+      <conductor id="317861">George Rayson</conductor>
+      <test-piece id="2781">Tancredi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="251909">
+      <result code="8">8</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="302473">Charles Hambleton</conductor>
+    </result>
+    
+    <result id="251910">
+      <result code="9">9</result>
+      <band id="13389">Launceston City Band</band>
+      <conductor id="298183">Ron Booth</conductor>
+      <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

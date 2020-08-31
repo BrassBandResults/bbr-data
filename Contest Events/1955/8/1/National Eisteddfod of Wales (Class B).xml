@@ -1,0 +1,85 @@
+<contest-event id="20145">
+  <event-date date="1955-8-1">Aug. 1, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class B)</name>
+  <contest id="3280">
+    <name>National Eisteddfod of Wales (Class B)</name>
+    <order>110</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2402">O Gymru</test-piece>
+  </test-piece>
+
+  <venue id="3408">Main Pavilion, Showground, Pwllheli</venue>
+  <notes>
+  9 bands competed.</notes>
+
+  <created>March 31, 2013, 3:09 p.m.</created>
+  <last-modified>March 31, 2013, 3:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149833">
+      <result code="1">1</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+    <result id="149834">
+      <result code="2">2</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="311014">Cliff Ward</conductor>
+    </result>
+    
+    <result id="149835">
+      <result code="3">3</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="300193">W. T. Davies</conductor>
+    </result>
+    
+    <result id="149839">
+      <result code="">Unknown Result</result>
+      <band id="2548">Colwyn Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149837">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149836">
+      <result code="">Unknown Result</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149838">
+      <result code="">Unknown Result</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149840">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149841">
+      <result code="">Unknown Result</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

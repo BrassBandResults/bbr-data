@@ -1,0 +1,43 @@
+<contest-event id="40192">
+  <event-date date="1946-4-22">April 22, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5627">No.1 Rienzi Overture / No.2 The Marriage of Figaro</test-piece>
+  </test-piece>
+
+  <venue id="337">Ipswich, Queensland, Australia</venue>
+  <notes>Two Test Selections
+No.2 Test points listed under Own Choice</notes>
+
+  <created>Aug. 27, 2018, 6:36 a.m.</created>
+  <last-modified>Aug. 27, 2018, 6:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292175">
+      <result code="1">1</result>
+      <band id="12945">Collinsville Town</band>
+      <conductor id="318203">Lou Prohaska</conductor>
+    </result>
+    
+    <result id="292176">
+      <result code="2">2</result>
+      <band id="17287">East Brisbane Juvenile</band>
+      <conductor id="303344">Goldie Holmes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

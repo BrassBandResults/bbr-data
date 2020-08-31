@@ -1,0 +1,48 @@
+<contest-event id="27842">
+  <event-date date="1979-5-13">May 13, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="342">High Peak</test-piece>
+  </test-piece>
+
+  <venue id="3977">Glynneath, Neath Port Talbot, Wales, UK</venue>
+  <notes></notes>
+
+  <created>May 27, 2014, 7:48 a.m.</created>
+  <last-modified>May 27, 2014, 7:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="199682">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="309728">Denzil Stephens</conductor>
+    </result>
+    
+    <result id="199683">
+      <result code="2">2</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306342">Ieuan Morgan</conductor>
+    </result>
+    
+    <result id="199684">
+      <result code="3">3</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

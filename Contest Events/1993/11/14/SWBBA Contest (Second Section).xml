@@ -1,0 +1,48 @@
+<contest-event id="25020">
+  <event-date date="1993-11-14">Nov. 14, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Second Section)</name>
+  <contest id="159">
+    <name>SWBBA Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="576">Oregon: Fantasy for Band</test-piece>
+  </test-piece>
+
+  <venue id="263">Festival Theatre, Paignton, Devon, England, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 8, 2013, 4:38 p.m.</created>
+  <last-modified>March 2, 2015, 4:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="222442">
+      <result code="1">1</result>
+      <band id="426">Lanner and District Silver Band</band>
+      <conductor id="302646">Chris Harris</conductor>
+    </result>
+    
+    <result id="182291">
+      <result code="2">2</result>
+      <band id="530">Hayle Town Band</band>
+      <conductor id="304133">Leon Johnston</conductor>
+    </result>
+    
+    <result id="207383">
+      <result code="3">3</result>
+      <band id="548">Torbay Brass Band</band>
+      <conductor id="298695">C. Brian Buckley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

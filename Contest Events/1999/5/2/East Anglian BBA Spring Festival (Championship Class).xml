@@ -1,0 +1,42 @@
+<contest-event id="32226">
+  <event-date date="1999-5-2">May 2, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Championship Class)</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3292">Angles</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune - Waveney Valley.</notes>
+
+  <created>July 7, 2015, 11:20 a.m.</created>
+  <last-modified>July 7, 2015, 11:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="231370">
+      <result code="1">1</result>
+      <band id="360">Great Yarmouth Brass</band>
+      <conductor id="312167">Marilyn Zipfel</conductor>
+    </result>
+    
+    <result id="231371">
+      <result code="2">2</result>
+      <band id="846">Waveney Valley Brass</band>
+      <conductor id="311035">Richard Ward</conductor>
+    </result>
+    
+  </results>
+</contest-event>

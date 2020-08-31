@@ -1,0 +1,86 @@
+<contest-event id="34891">
+  <event-date date="1969-4-5">April 5, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1543">Quo Vadis?</test-piece>
+  </test-piece>
+
+  <venue id="4943">Albert Hall, Launceston, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>April 1, 2016, 12:24 a.m.</created>
+  <last-modified>April 9, 2018, 2:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="251893">
+      <result code="1">1</result>
+      <band id="2246">Tuggerah Lakes Showband</band>
+      <conductor id="309786">Don Stewart</conductor>
+      <test-piece id="654">Scheherazade</test-piece>
+    </result>
+    
+    <result id="251894">
+      <result code="2">2</result>
+      <band id="11220">Melbourne Tramways</band>
+      <conductor id="305957">Verdi McMahon</conductor>
+      <test-piece id="762">Second Rhapsody on Negro Spirituals</test-piece>
+    </result>
+    
+    <result id="251895">
+      <result code="3">3</result>
+      <band id="701">Willoughby City Band</band>
+      <conductor id="297987">Reg Bishop</conductor>
+      <test-piece id="197">Tournament for Brass</test-piece>
+    </result>
+    
+    <result id="251896">
+      <result code="4">4</result>
+      <band id="2244">Geelong City</band>
+      <conductor id="311894">John Wood</conductor>
+      <test-piece id="1641">Challenging Brass</test-piece>
+    </result>
+    
+    <result id="251897">
+      <result code="5">5</result>
+      <band id="2143">Hobart City Brass Band</band>
+      <conductor id="309010">Gordon Sheedy</conductor>
+      <test-piece id="798">King Lear</test-piece>
+    </result>
+    
+    <result id="251898">
+      <result code="6">6</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305376">Jack Lusted</conductor>
+      <test-piece id="2161">The Barber of Seville - selection</test-piece>
+    </result>
+    
+    <result id="251899">
+      <result code="7">7</result>
+      <band id="2291">City of Burnie Brass</band>
+      <conductor id="308041">Trevor Reid</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="251901">
+      <result code="8">8</result>
+      <band id="9277">Launceston Railway Silver Band</band>
+      <conductor id="298921">Albert Calcraft</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

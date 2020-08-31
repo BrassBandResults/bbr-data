@@ -1,0 +1,66 @@
+<contest-event id="17415">
+  <event-date date="1990-5-20">May 20, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northants &amp; District (Section A)</name>
+  <contest id="990">
+    <name>Northants &amp; District (Section A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="143">Northants &amp; District Contest</group>
+    <slug>northants-district-section-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="561">Festival Hall, Corby, Northamptonshire, England, UK</venue>
+  <notes>Band gaining highest marks in any one section: Kibworth &amp; Towcester Studio (shared)
+Information taken from contest programme</notes>
+
+  <created>Dec. 31, 2012, 6:15 a.m.</created>
+  <last-modified>Jan. 1, 2013, 10:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="132156">
+      <result code="1">1</result>
+      <band id="120">Kibworth Band</band>
+      <conductor id="303722">David Hutchinson</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+    <result id="132157">
+      <result code="2">2</result>
+      <band id="431">Towcester Studio Band</band>
+      <conductor id="310872">Peter Wain</conductor>
+      <test-piece id="399">A Kensington Concerto</test-piece>
+    </result>
+    
+    <result id="132158">
+      <result code="3">3</result>
+      <band id="491">Stamford Band</band>
+      <conductor id="307690">Robert Prew</conductor>
+      <test-piece id="407">Forth Suite</test-piece>
+    </result>
+    
+    <result id="132160">
+      <result code="">Unknown Result</result>
+      <band id="482">Bilton Silver (Rugby) Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="521">Suite Gothique</test-piece>
+    </result>
+    
+    <result id="132159">
+      <result code="">Unknown Result</result>
+      <band id="5245">Leicestershire Co-op (South Midlands Welfare)</band>
+      <conductor id="301682">Mick Garratt</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

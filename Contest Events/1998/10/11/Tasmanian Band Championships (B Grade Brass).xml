@@ -1,0 +1,51 @@
+<contest-event id="40139">
+  <event-date date="1998-10-11">Oct. 11, 1998<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="298">A London Overture</test-piece>
+  </test-piece>
+
+  <venue id="7189">Launceston Church Grammar School,  Launceston  Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2018, 12:24 a.m.</created>
+  <last-modified>Oct. 31, 2019, 5:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291765">
+      <result code="1">1</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="908">Essay [Gregson]</test-piece>
+    </result>
+    
+    <result id="291766">
+      <result code="2">2</result>
+      <band id="2272">City of Launceston RSL Brass</band>
+      <conductor id="307613">David Potter</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+    <result id="291767">
+      <result code="3">3</result>
+      <band id="2312">Glenorchy City Concert Brass No. 2</band>
+      <conductor id="309577">Wendy Spencer</conductor>
+      <test-piece id="645">Land of the Mountain and the Flood</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

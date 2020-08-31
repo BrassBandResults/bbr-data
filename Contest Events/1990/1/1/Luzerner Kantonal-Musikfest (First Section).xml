@@ -1,0 +1,55 @@
+<contest-event id="14701">
+  <event-date date="1990-1-1">Jan. 1, 1990<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Luzerner Kantonal-Musikfest (First Section)</name>
+  <contest id="3056">
+    <name>Luzerner Kantonal-Musikfest (First Section)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="291">Luzerner Kantonal-Musikfest</group>
+    <slug>luzerner-kantonal-musikfest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1412">Variations and Fugue</test-piece>
+  </test-piece>
+
+  <venue id="2366">Schüpfheim, LU, Switzerland</venue>
+  <notes>10 Bands competed.</notes>
+
+  <created>Sept. 9, 2012, 7:04 p.m.</created>
+  <last-modified>April 5, 2016, 8:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="115647">
+      <result code="1">1</result>
+      <band id="72">Brass Band Kirchenmusik Flühli</band>
+      <conductor id="300814">Pascal Eicher</conductor>
+      <test-piece id="619">The Prizewinners</test-piece>
+    </result>
+    
+    <result id="202062">
+      <result code="2">2</result>
+      <band id="4935">BB Frohsinn Grosswangen</band>
+      <conductor id="297399">Ernst Balli</conductor>
+    </result>
+    
+    <result id="117195">
+      <result code="5">5</result>
+      <band id="89">Brass Band MG Reiden</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+    <result id="117152">
+      <result code="9">9</result>
+      <band id="91">Brass Band Harmonie Rickenbach</band>
+      <conductor id="308817">Hanspeter Schwegler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

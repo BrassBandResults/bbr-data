@@ -1,0 +1,72 @@
+<contest-event id="39120">
+  <event-date date="1957-10-26">Oct. 26, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5">Festival Music</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>no other information  available</notes>
+
+  <created>Feb. 8, 2018, 11:45 p.m.</created>
+  <last-modified>March 6, 2018, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284458">
+      <result code="1">1</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="307464">Bill Philpott</conductor>
+    </result>
+    
+    <result id="284453">
+      <result code="">Unknown Result</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="309101">Harry Shugg</conductor>
+    </result>
+    
+    <result id="284459">
+      <result code="">Unknown Result</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="309334">Charles Smith</conductor>
+    </result>
+    
+    <result id="284462">
+      <result code="">Unknown Result</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="317584">Norman Uren</conductor>
+    </result>
+    
+    <result id="284457">
+      <result code="">Unknown Result</result>
+      <band id="5771">Maryborough City Band [Victoria]</band>
+      <conductor id="302658">Jack Harris</conductor>
+    </result>
+    
+    <result id="284461">
+      <result code="W">Withdrawn</result>
+      <band id="2394">Barrier Industrial Unions&#39; Band</band>
+      <conductor id="310954">Harold Walmsley</conductor>
+    </result>
+    
+    <result id="284463">
+      <result code="W">Withdrawn</result>
+      <band id="12927">Kingsville Yarraville Band</band>
+      <conductor id="298970">Tom Campbell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

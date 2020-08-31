@@ -1,0 +1,60 @@
+<contest-event id="22700">
+  <event-date date="1957-4-22">April 22, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class B</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>  Hymn tune contest - 1st Manea, 2nd Needha, 3rd Green Brothers.</notes>
+
+  <created>Aug. 12, 2013, 4:24 p.m.</created>
+  <last-modified>Aug. 12, 2013, 4:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="167816">
+      <result code="1">1</result>
+      <band id="2475">Manea Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167817">
+      <result code="2">2</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167818">
+      <result code="3">3</result>
+      <band id="10493">Spicers Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167820">
+      <result code="">Unknown Result</result>
+      <band id="3885">Breckland Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167819">
+      <result code="">Unknown Result</result>
+      <band id="11278">Needham Market Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="14387">
+  <event-date date="1974-11-30">Nov. 30, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Excellence Section)</name>
+  <contest id="11">
+    <name>Swiss National Championships (Excellence Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-excellence-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>The current Record Holder is Brass Band Treize Etoiles with 13 Titles in Excellence Division.</notes>
+    <region id="10">Switzerland</region>
+    <section id="11">Excellence</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="29">Carnival [Perkin]</test-piece>
+  </test-piece>
+
+  <venue id="3654">Crissier, VD, Switzerland</venue>
+  <notes>3rd annual contest.
+9 bands competed.</notes>
+
+  <created>Aug. 10, 2012, 9:12 a.m.</created>
+  <last-modified>Nov. 19, 2014, 10:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114633">
+      <result code="1">1</result>
+      <band id="59">Ensemble de Cuivres Melodia</band>
+      <conductor id="307199">Raymond Pasche</conductor>
+    </result>
+    
+    <result id="152620">
+      <result code="2">2</result>
+      <band id="8790">Brass Band Allianzmusik Basel</band>
+      <conductor id="296804">Daniel Aegerter</conductor>
+    </result>
+    
+    <result id="152621">
+      <result code="3">3</result>
+      <band id="9968">Ensemble Broyard d&#39;instruments de Cuivre</band>
+      <conductor id="302107">Louis Graz</conductor>
+    </result>
+    
+    <result id="152622">
+      <result code="4">4</result>
+      <band id="67">Ensemble de Cuivres Valaisan</band>
+      <conductor id="300498">Jean-Charles Dorsaz</conductor>
+    </result>
+    
+  </results>
+</contest-event>

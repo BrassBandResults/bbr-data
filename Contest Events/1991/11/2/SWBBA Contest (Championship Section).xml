@@ -1,0 +1,42 @@
+<contest-event id="11184">
+  <event-date date="1991-11-2">Nov. 2, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="401">Freedom (Brass Band Symphony No. 1)</test-piece>
+  </test-piece>
+
+  <venue id="263">Festival Theatre, Paignton, Devon, England, UK</venue>
+  <notes></notes>
+
+  <created>March 16, 2012, 11:46 a.m.</created>
+  <last-modified>March 16, 2012, 11:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="92624">
+      <result code="1">1</result>
+      <band id="548">Torbay Brass Band</band>
+      <conductor id="310143">Howard Taylor</conductor>
+    </result>
+    
+    <result id="92623">
+      <result code="2">2</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="305289">David Loukes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

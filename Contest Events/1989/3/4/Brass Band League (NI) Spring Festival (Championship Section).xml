@@ -1,0 +1,78 @@
+<contest-event id="14069">
+  <event-date date="1989-3-4">March 4, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Championship Section)</name>
+  <contest id="240">
+    <name>Brass Band League (NI) Spring Festival (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-championship-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5">Festival Music</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 11:12 a.m.</created>
+  <last-modified>Nov. 5, 2014, 12:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="112834">
+      <result code="1">1</result>
+      <band id="1341">Agnes Street Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="112838">
+      <result code="2">2</result>
+      <band id="1212">Strabane Concert Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="112839">
+      <result code="3">3</result>
+      <band id="718">Murley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="112835">
+      <result code="4">4</result>
+      <band id="31">1st Old Boys Association Band (Belfast)</band>
+      <conductor id="298744">Alfie Burch</conductor>
+    </result>
+    
+    <result id="112841">
+      <result code="">Unknown Result</result>
+      <band id="1376">55th Old Boys Association Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="112840">
+      <result code="">Unknown Result</result>
+      <band id="237">Laganvale Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="112842">
+      <result code="">Unknown Result</result>
+      <band id="1380">Reid Memorial Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="112843">
+      <result code="">Unknown Result</result>
+      <band id="1250">Third Carrickfergus Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

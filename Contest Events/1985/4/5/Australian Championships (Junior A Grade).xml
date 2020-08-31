@@ -1,0 +1,79 @@
+<contest-event id="34730">
+  <event-date date="1985-4-5">April 5, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior A Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="796">Caprice</test-piece>
+  </test-piece>
+
+  <venue id="336">Melbourne, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>March 21, 2016, 6:11 a.m.</created>
+  <last-modified>March 21, 2016, 1:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="250529">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="43">An Epic Symphony</test-piece>
+    </result>
+    
+    <result id="250530">
+      <result code="2">2</result>
+      <band id="18300">Glenorchy City Concert Brass Juniors</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+      <test-piece id="629">Promenade</test-piece>
+    </result>
+    
+    <result id="250531">
+      <result code="3">3</result>
+      <band id="9431">Warragul Municipal Junior Band</band>
+      <conductor id="297106">Bruce Armstrong</conductor>
+      <test-piece id="619">The Prizewinners</test-piece>
+    </result>
+    
+    <result id="250532">
+      <result code="4">4</result>
+      <band id="2342">Hyde Street Youth</band>
+      <conductor id="310589">Doug Trottman</conductor>
+      <test-piece id="70">The Shipbuilders</test-piece>
+    </result>
+    
+    <result id="250533">
+      <result code="5">5</result>
+      <band id="12080">Sutherland Shire Brass Junior</band>
+      <conductor id="305902">Frank McGuinness</conductor>
+      <test-piece id="424">Blackfriars</test-piece>
+    </result>
+    
+    <result id="250534">
+      <result code="6">6</result>
+      <band id="9980">St Leo&#39;s College (Box Hill)</band>
+      <conductor id="297983">Gary Bishop</conductor>
+      <test-piece id="241">Dimensions</test-piece>
+    </result>
+    
+    <result id="250535">
+      <result code="7">7</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="521">Suite Gothique</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

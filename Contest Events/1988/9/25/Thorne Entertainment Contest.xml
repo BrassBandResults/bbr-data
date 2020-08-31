@@ -1,0 +1,48 @@
+<contest-event id="30044">
+  <event-date date="1988-9-25">Sept. 25, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Thorne Entertainment Contest</name>
+  <contest id="5509">
+    <name>Thorne Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>thorne-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5592">Grammar School, Thorne, Doncaster</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Nov. 1, 2014, 12:33 p.m.</created>
+  <last-modified>Nov. 1, 2014, 12:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="212898">
+      <result code="1">1</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="303166">David Hirst</conductor>
+    </result>
+    
+    <result id="212899">
+      <result code="2">2</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="298306">Alan Boyer</conductor>
+    </result>
+    
+    <result id="212900">
+      <result code="3">3</result>
+      <band id="149">Armthorpe Elmfield</band>
+      <conductor id="302236">Haydn Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

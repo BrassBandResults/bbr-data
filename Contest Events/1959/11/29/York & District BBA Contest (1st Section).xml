@@ -1,0 +1,63 @@
+<contest-event id="8584">
+  <event-date date="1959-11-29">Nov. 29, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>York &amp; District BBA Contest (1st Section)</name>
+  <contest id="1525">
+    <name>York &amp; District BBA Contest (1st Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="206">York &amp; District BBA Contest</group>
+    <slug>york-district-bba-contest-1st-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="995">Empire Theatre, York</venue>
+  <notes>March contest - 1st York Railway, 2nd Rowntrees, 3rd Thorne Colliery.</notes>
+
+  <created>Dec. 8, 2011, 7:34 p.m.</created>
+  <last-modified>May 7, 2014, 12:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="75955">
+      <result code="1">1</result>
+      <band id="432">Shepherd Group Band</band>
+      <conductor id="304762">L. Lambeth</conductor>
+      <test-piece id="138">The Moor of Venice</test-piece>
+    </result>
+    
+    <result id="196841">
+      <result code="2">2</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="306375">N. Morley</conductor>
+      <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="196842">
+      <result code="3">3</result>
+      <band id="2998">Yorkshire Traction</band>
+      <conductor id="299111">Tom Casson</conductor>
+      <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+    </result>
+    
+    <result id="196844">
+      <result code="">Unknown Result</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="308898">T. Sellers</conductor>
+    </result>
+    
+    <result id="196843">
+      <result code="">Unknown Result</result>
+      <band id="573">York Railway Institute</band>
+      <conductor id="298645">L. Bruce</conductor>
+    </result>
+    
+  </results>
+</contest-event>

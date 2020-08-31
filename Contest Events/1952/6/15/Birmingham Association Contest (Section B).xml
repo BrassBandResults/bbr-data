@@ -1,0 +1,54 @@
+<contest-event id="34016">
+  <event-date date="1952-6-15">June 15, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Association Contest (Section B)</name>
+  <contest id="3849">
+    <name>Birmingham Association Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="458">Birmingham Association Contest</group>
+    <slug>birmingham-association-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1037">Rufford Abbey</test-piece>
+  </test-piece>
+
+  <venue id="3087">Small Heath Park, Birmingham</venue>
+  <notes>Prizes - 1st £12, 2nd £8, 3rd £4. £3 to highest class C band.</notes>
+
+  <created>Feb. 11, 2016, 11:19 a.m.</created>
+  <last-modified>Sept. 20, 2016, 8:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="245795">
+      <result code="1">1</result>
+      <band id="2704">Wood End W.M.C.</band>
+      <conductor id="305559">Lionel Mansfield</conductor>
+    </result>
+    
+    <result id="245796">
+      <result code="2">2</result>
+      <band id="32">Jaguar Land Rover Band</band>
+      <conductor id="305500">Jack Major</conductor>
+    </result>
+    
+    <result id="245797">
+      <result code="3">3</result>
+      <band id="475">Shirley Band</band>
+      <conductor id="305349">R. Lugg</conductor>
+    </result>
+    
+    <result id="245798">
+      <result code="">Unknown Result</result>
+      <band id="870">Dunchurch Band</band>
+      <conductor id="311657">R. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,74 @@
+<contest-event id="3262">
+  <event-date date="2008-3-29">March 29, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Championship Section)</name>
+  <contest id="161">
+    <name>North American Championships (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-championship-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="20">St. Magnus</test-piece>
+  </test-piece>
+
+  <venue id="254">W. L. Lyons Brown Theatre, Louisville, Kentucky, USA</venue>
+  <notes>Total points calculated as 60% of Set Piece score plus 40% of Own Choice score
+
+Test piece section held at Stern Concert Hall, Indiana University Southeast, New Albany, Indiana; this was the first year that a single section was split over two venues.</notes>
+
+  <created>Nov. 30, 2010, 4:50 p.m.</created>
+  <last-modified>March 21, 2012, 2:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="31796">
+      <result code="1">1</result>
+      <band id="42">Fountain City Brass</band>
+      <conductor id="307094">Joseph Parisi</conductor>
+      <test-piece id="208">Music of the Spheres</test-piece>
+    </result>
+    
+    <result id="31797">
+      <result code="2">2</result>
+      <band id="1001">Chicago Brass Band</band>
+      <conductor id="303333">Colin Holman</conductor>
+      <test-piece id="7">On Alderley Edge</test-piece>
+    </result>
+    
+    <result id="49883">
+      <result code="3">3</result>
+      <band id="4218">Brass Band of Columbus</band>
+      <conductor id="303934">Tim Jameson</conductor>
+      <test-piece id="117">Extreme Make-over</test-piece>
+    </result>
+    
+    <result id="49880">
+      <result code="4">4</result>
+      <band id="1002">James Madison University Brass Band</band>
+      <conductor id="309702">Kevin Stees</conductor>
+      <test-piece id="78">...Dove Descending</test-piece>
+    </result>
+    
+    <result id="49882">
+      <result code="5">5</result>
+      <band id="1003">Atlantic Brass Band</band>
+      <conductor id="308757">Salvatore Scarpa</conductor>
+      <test-piece id="132">Passacaglia on a Theme of Brahms</test-piece>
+    </result>
+    
+    <result id="49881">
+      <result code="6">6</result>
+      <band id="982">Illinois Brass Band</band>
+      <conductor id="306648">Ryan T. Nelson</conductor>
+      <test-piece id="44">Jazz</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

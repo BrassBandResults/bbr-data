@@ -1,0 +1,87 @@
+<contest-event id="11580">
+  <event-date date="1985-5-5">May 5, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holme Valley Brass Band Contest (Section A)</name>
+  <contest id="83">
+    <name>Holme Valley Brass Band Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type>
+    <group id="119">Holme Valley Brass Band Contest</group>
+    <slug>holme-valley-brass-band-contest-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="18">Civic Hall, Holmfirth</venue>
+  <notes>Prizes - 1st £65 and cup, 2nd £35 and cup, 3rd £25, 4th £15.
+March contest - 1st (£10 and cup) Boarshurst &#39;B&#39;, 2nd (£5) Hepworth.
+Hymn tune - 1st(£10 and cup) Boarshurst B, 2nd (£5) Hade Edge.
+6 bands competed.</notes>
+
+  <created>April 4, 2012, 8:38 p.m.</created>
+  <last-modified>June 27, 2016, 3:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94634">
+      <result code="1">1</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="304309">Neil Jowett</conductor>
+      <test-piece id="22">Journey into Freedom</test-piece>
+    </result>
+    
+    <result id="257866">
+      <result code="2">2</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="303986">Alan Jenkins</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+    <result id="257864">
+      <result code="3">3</result>
+      <band id="1511">Boarshurst &#39;B&#39;</band>
+      <conductor id="304780">Eric Landon</conductor>
+      <test-piece id="218">Triumphant Rhapsody</test-piece>
+    </result>
+    
+    <result id="257865">
+      <result code="4">4</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="301667">Phil Garlick</conductor>
+      <test-piece id="908">Essay [Gregson]</test-piece>
+    </result>
+    
+    <result id="257868">
+      <result code="">Unknown Result</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="305544">Lawrence Mann</conductor>
+      <test-piece id="72">Entertainments</test-piece>
+    </result>
+    
+    <result id="257867">
+      <result code="">Unknown Result</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="303166">David Hirst</conductor>
+      <test-piece id="467">Music for a Brass Band</test-piece>
+    </result>
+    
+    <result id="257863">
+      <result code="W">Withdrawn</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="306385">Dave Morris</conductor>
+    </result>
+    
+    <result id="257869">
+      <result code="W">Withdrawn</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="311366">Tony Whitaker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

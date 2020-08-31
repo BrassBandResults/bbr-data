@@ -1,0 +1,42 @@
+<contest-event id="42425">
+  <event-date date="2019-6-3">June 3, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Australian State Band Festival (B Grade)</name>
+  <contest id="614">
+    <name>West Australian State Band Festival (B Grade)</name>
+    <order>20</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="89">West Australian State Band Festival</group>
+    <slug>west-australian-state-band-festival-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="305">Symphony of Marches</test-piece>
+  </test-piece>
+
+  <venue id="3364">University of Western Australia (Callaway Music Auditorium), Perth, Western Australia, Australia</venue>
+  <notes></notes>
+
+  <created>July 26, 2019, 1:13 a.m.</created>
+  <last-modified>Feb. 11, 2020, 2:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="311435">
+      <result code="1">1</result>
+      <band id="2416">City of Perth Brass Band</band>
+      <conductor id="300449">Brian Dodds</conductor>
+    </result>
+    
+    <result id="311436">
+      <result code="2">2</result>
+      <band id="2285">Canning City Brass Band</band>
+      <conductor id="317818">Matt Barker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

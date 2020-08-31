@@ -1,0 +1,54 @@
+<contest-event id="21782">
+  <event-date date="2013-6-8">June 8, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (Elite Division)</name>
+  <contest id="27">
+    <name>French Open (Elite Division)</name>
+    <order>1</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="46">Harmony Music</test-piece>
+  </test-piece>
+
+  <venue id="4">Amboise, Centre, France</venue>
+  <notes>Best soloist: Paul Richards (soprano cornet, Flowers)</notes>
+
+  <created>June 10, 2013, 4:49 p.m.</created>
+  <last-modified>Jan. 27, 2015, 2:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="161840">
+      <result code="1">1</result>
+      <band id="24">Flowers Band</band>
+      <conductor id="303300">Paul Holland</conductor>
+    </result>
+    
+    <result id="161841">
+      <result code="2">2</result>
+      <band id="814">Stavanger Brass Band</band>
+      <conductor id="311849">Allan Withington</conductor>
+    </result>
+    
+    <result id="161842">
+      <result code="3">3</result>
+      <band id="717">Austrian Brass Band</band>
+      <conductor id="304721">Uwe Köller</conductor>
+    </result>
+    
+    <result id="161843">
+      <result code="4">4</result>
+      <band id="243">Exobrass Band</band>
+      <conductor id="299731">Dylan Corlay</conductor>
+    </result>
+    
+  </results>
+</contest-event>

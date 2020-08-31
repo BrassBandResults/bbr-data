@@ -1,0 +1,59 @@
+<contest-event id="36038">
+  <event-date date="1966-5-29">May 29, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (Junior A Grade)</name>
+  <contest id="647">
+    <name>NSW State Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    <test-piece id="382">A Rural Suite</test-piece>
+  </test-piece>
+
+  <venue id="6285">Willoughby, New South Wales, Australia</venue>
+  <notes>Dual  adjudication  ;   points combined
+</notes>
+
+  <created>Sept. 6, 2016, 10:48 p.m.</created>
+  <last-modified>Oct. 7, 2016, 6:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="261581">
+      <result code="1">1</result>
+      <band id="13343">Yagoona District Juniors</band>
+      <conductor id="308715">Warwick Sands</conductor>
+      <test-piece id="303">John O&#39;Gaunt [Vinter]</test-piece>
+    </result>
+    
+    <result id="261582">
+      <result code="2">2</result>
+      <band id="745">Newcastle PCYC Brass Band</band>
+      <conductor id="309146">Frank Simm</conductor>
+      <test-piece id="159">Indian Summer</test-piece>
+    </result>
+    
+    <result id="261587">
+      <result code="3">3</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="297987">Reg Bishop</conductor>
+      <test-piece id="1380">The New Age</test-piece>
+    </result>
+    
+    <result id="261588">
+      <result code="4">4</result>
+      <band id="13641">Tuggerah Lakes Juniors</band>
+      <conductor id="309786">Don Stewart</conductor>
+      <test-piece id="1757">Sinfonie Concertante</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

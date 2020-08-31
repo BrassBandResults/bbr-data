@@ -1,0 +1,67 @@
+<contest-event id="30062">
+  <event-date date="2014-11-8">Nov. 8, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (Second Division)</name>
+  <contest id="853">
+    <name>Swedish National Championship (Second Division)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-second-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3177">Alloway Tales</test-piece>
+  </test-piece>
+
+  <venue id="327">Värnamo, Småland, Sweden</venue>
+  <notes>Best Conductor - Ulrik Lundqvist
+Best Instrumentalist - Hans Kothe, Euphonium (Bors)</notes>
+
+  <created>Nov. 2, 2014, 2:14 p.m.</created>
+  <last-modified>Nov. 9, 2014, 9:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="213680">
+      <result code="1">1</result>
+      <band id="2371">Gnosjö Brass Band</band>
+      <conductor id="303639">Jan Hultegård</conductor>
+    </result>
+    
+    <result id="213681">
+      <result code="2">2</result>
+      <band id="1949">Bors Brass Band</band>
+      <conductor id="305369">Ulrik Lundqvist</conductor>
+    </result>
+    
+    <result id="213682">
+      <result code="3">3</result>
+      <band id="2270">Värnamo Missionskyrkas Brassband</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="213683">
+      <result code="4">4</result>
+      <band id="3469">VM-Brasset Växjö</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="213684">
+      <result code="5">5</result>
+      <band id="2891">Immanuel Brass - Stockholm</band>
+      <conductor id="300935">Joel Engström</conductor>
+    </result>
+    
+    <result id="213685">
+      <result code="6">6</result>
+      <band id="9946">Axxon Brass Band</band>
+      <conductor id="305367">Andreas Lundin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

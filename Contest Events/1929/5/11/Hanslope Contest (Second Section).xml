@@ -1,0 +1,69 @@
+<contest-event id="24276">
+  <event-date date="1929-5-11">May 11, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hanslope Contest (Second Section)</name>
+  <contest id="4712">
+    <name>Hanslope Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hanslope-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4089">Hanslope, Buckinghamshire, England, UK</venue>
+  <notes>
+  Prizes - 1st £6, 2nd £3, 3rd £2.
+  3rd annual contest promoted by Hanslope Band.
+  6 bands competed.</notes>
+
+  <created>Oct. 3, 2013, 12:04 p.m.</created>
+  <last-modified>Aug. 17, 2016, 8:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="177194">
+      <result code="1">1</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="302281">W. Groome</conductor>
+    </result>
+    
+    <result id="177195">
+      <result code="2">2</result>
+      <band id="8933">Northampton Borough Band</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="177196">
+      <result code="3">3</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="306202">George Mitchell</conductor>
+    </result>
+    
+    <result id="177197">
+      <result code="">Unknown Result</result>
+      <band id="7293">Bletchley Station</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177198">
+      <result code="">Unknown Result</result>
+      <band id="635">Bradwell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177199">
+      <result code="">Unknown Result</result>
+      <band id="6862">Lycett Mission</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

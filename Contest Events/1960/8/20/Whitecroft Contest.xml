@@ -1,0 +1,51 @@
+<contest-event id="27598">
+  <event-date date="1960-8-20">Aug. 20, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitecroft Contest</name>
+  <contest id="4141">
+    <name>Whitecroft Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitecroft-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="114">Snowdon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="3417">Whitecroft, Gloucestershire</venue>
+  <notes>Prizes - 1st £30 and cup, 2nd £10, 3rd £5.
+March contest - on road - 1st(£5) Melingriffith.
+March contest - on stage - 1st(£5) Mid Rhondda, 2nd Melingriffith.
+4 bands competed.</notes>
+
+  <created>May 19, 2014, 12:05 p.m.</created>
+  <last-modified>Sept. 21, 2016, 8:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="198519">
+      <result code="1">1</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="307734">Fred Prior</conductor>
+    </result>
+    
+    <result id="198520">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="198521">
+      <result code="3">3</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

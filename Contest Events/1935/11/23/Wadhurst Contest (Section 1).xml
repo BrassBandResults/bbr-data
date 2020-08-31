@@ -1,0 +1,48 @@
+<contest-event id="28427">
+  <event-date date="1935-11-23">Nov. 23, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wadhurst Contest (Section 1)</name>
+  <contest id="4813">
+    <name>Wadhurst Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="16">March &amp; Hymn Contest (Separate Points)</contest-type>
+    <group id="511">Wadhurst Contest</group>
+    <slug>wadhurst-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="16">March &amp; Hymn Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    <test-piece id="3025">March: Vanguard</test-piece>
+  </test-piece>
+
+  <venue id="4848">Wadhurst Commemoration Hall, Wadhurst, Sussex</venue>
+  <notes>Hymn (Gracious): 1. Callender&#39;s, 2. West Crawley, 3. Copthorne</notes>
+
+  <created>June 9, 2014, 9:24 p.m.</created>
+  <last-modified>June 9, 2014, 9:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202550">
+      <result code="1">1</result>
+      <band id="10611">Callender&#39;s Cable Works (Junior)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202551">
+      <result code="2">2</result>
+      <band id="3959">Copthorne Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202552">
+      <result code="3">3</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

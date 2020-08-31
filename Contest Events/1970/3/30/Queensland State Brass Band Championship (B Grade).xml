@@ -1,0 +1,66 @@
+<contest-event id="39391">
+  <event-date date="1970-3-30">March 30, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (B Grade)</name>
+  <contest id="1708">
+    <name>Queensland State Brass Band Championship (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5534">Three Miniatures [Powell]</test-piece>
+  </test-piece>
+
+  <venue id="6824">City of Gold Coast, Queensland, Australia</venue>
+  <notes>Street March music points listed under Stage March
+</notes>
+
+  <created>March 23, 2018, 11:01 p.m.</created>
+  <last-modified>April 30, 2019, 5:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="286172">
+      <result code="1">1</result>
+      <band id="13280">2/14 Light Horse Regiment  (Qld)</band>
+      <conductor id="317799">David Barlow</conductor>
+      <test-piece id="195">Life Divine</test-piece>
+    </result>
+    
+    <result id="286174">
+      <result code="2">2</result>
+      <band id="18218">Gold Coast Municipal</band>
+      <conductor id="303344">Goldie Holmes</conductor>
+      <test-piece id="575">Princess Nada</test-piece>
+    </result>
+    
+    <result id="286173">
+      <result code="3">3</result>
+      <band id="2246">Tuggerah Lakes Showband</band>
+      <conductor id="309786">Don Stewart</conductor>
+      <test-piece id="4200">Les Preludes [unknown composer]</test-piece>
+    </result>
+    
+    <result id="286175">
+      <result code="4">4</result>
+      <band id="1319">Bundaberg Municipal Band</band>
+      <conductor id="309205">Ralph Skerritt</conductor>
+      <test-piece id="654">Scheherazade</test-piece>
+    </result>
+    
+    <result id="286176">
+      <result code="5">5</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="317739">Glynn Davies</conductor>
+      <test-piece id="1636">Salute to Freedom</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

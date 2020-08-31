@@ -1,0 +1,42 @@
+<contest-event id="5160">
+  <event-date date="1958-1-1">Jan. 1, 1958<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>CISWO Yorkshire (Championship Section)</name>
+  <contest id="670">
+    <name>CISWO Yorkshire (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="408">Themes from Symphony no. 9 [Beethoven]</test-piece>
+  </test-piece>
+
+  <venue id="3258">City Hall, Sheffield</venue>
+  <notes>Updates provided thanks to TS6445</notes>
+
+  <created>April 1, 2011, 7:19 a.m.</created>
+  <last-modified>June 8, 2014, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="45061">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="297205">Jack Atherton</conductor>
+    </result>
+    
+    <result id="45062">
+      <result code="4">4</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="3201">
+  <event-date date="2006-4-15">April 15, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior A Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="487">Lyonesse</test-piece>
+  </test-piece>
+
+  <venue id="330">Brisbane, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>Nov. 26, 2010, 1:26 a.m.</created>
+  <last-modified>April 26, 2016, 2:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="31190">
+      <result code="1">1</result>
+      <band id="2266">Gunnedah Shire Junior Band</band>
+      <conductor id="296867">Danny Alexander</conductor>
+      <test-piece id="211">Variations on Laudate Dominum</test-piece>
+    </result>
+    
+    <result id="31191">
+      <result code="2">2</result>
+      <band id="2338">City of Wollongong Brass Band Juniors</band>
+      <conductor id="302261">Tara Grimm</conductor>
+      <test-piece id="169">Triptych [Sparke]</test-piece>
+    </result>
+    
+    <result id="31192">
+      <result code="3">3</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="303635">Andrew Hulme</conductor>
+      <test-piece id="566">English Folk Song Suite</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

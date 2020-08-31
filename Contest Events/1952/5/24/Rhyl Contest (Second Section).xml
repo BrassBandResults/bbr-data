@@ -1,0 +1,60 @@
+<contest-event id="18358">
+  <event-date date="1952-5-24">May 24, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest (Second Section)</name>
+  <contest id="3260">
+    <name>Rhyl Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="909">Sirius [Wright]</test-piece>
+  </test-piece>
+
+  <venue id="1250">Town Hall, Rhyl, Denbighshire, Wales, UK</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Feb. 19, 2013, 10:06 a.m.</created>
+  <last-modified>March 18, 2019, 6 p.m.</last-modified>
+
+  <results>
+    
+    <result id="138554">
+      <result code="1">1</result>
+      <band id="4035">Revo Works</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="138555">
+      <result code="2">2</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="310399">George Thorpe</conductor>
+    </result>
+    
+    <result id="138556">
+      <result code="3">3</result>
+      <band id="2557">ATM Works Band</band>
+      <conductor id="312107">William Yates</conductor>
+    </result>
+    
+    <result id="138557">
+      <result code="">Unknown Result</result>
+      <band id="2738">St. John Ambulance Brigade (Rhyl Division)</band>
+      <conductor id="299604">John T. Conway</conductor>
+    </result>
+    
+    <result id="138558">
+      <result code="">Unknown Result</result>
+      <band id="1521">Tarporley</band>
+      <conductor id="300628">J. Dunn</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="24710">
+  <event-date date="1930-6-9">June 9, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sidmouth Contest (Junior Section)</name>
+  <contest id="2484">
+    <name>Sidmouth Contest (Junior Section)</name>
+    <order>6</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="130">Sidmouth Contest</group>
+    <slug>sidmouth-contest-junior-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="4367">Yarde Hill, Sidmouth, Devon</venue>
+  <notes>  March contest(Invicta) - 1st Bridgwater, 2nd Wessex B.B.,
+  4 bands competed.</notes>
+
+  <created>Oct. 25, 2013, 8:31 p.m.</created>
+  <last-modified>Dec. 6, 2018, 4:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180634">
+      <result code="1">1</result>
+      <band id="11515">1st Wessex Boys Brigade Yeovil</band>
+      <conductor id="305122">G. W. Lindsell</conductor>
+    </result>
+    
+    <result id="180635">
+      <result code="2">2</result>
+      <band id="2069">Bridgwater Imperial</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="180636">
+      <result code="3">3</result>
+      <band id="11536">Henstridge</band>
+      <conductor id="303202">P. G. G. Hocking</conductor>
+    </result>
+    
+    <result id="180637">
+      <result code="4">4</result>
+      <band id="1283">Wellington Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

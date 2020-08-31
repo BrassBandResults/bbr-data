@@ -1,0 +1,55 @@
+<contest-event id="27811">
+  <event-date date="1979-4-8">April 8, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class B</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="206">Four Preludes</test-piece>
+  </test-piece>
+
+  <venue id="3266">Secondary Modern School, Thetford, Norfolk</venue>
+  <notes>Hymn tune contest - 1st Cottenham, 2nd Woodbridge, 3rd Newmarket.
+9 bands competed.</notes>
+
+  <created>May 26, 2014, 6:10 a.m.</created>
+  <last-modified>Jan. 3, 2015, 2:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="199532">
+      <result code="1">1</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="296811">Les Ager</conductor>
+    </result>
+    
+    <result id="199533">
+      <result code="2">2</result>
+      <band id="837">Cottenham Brass</band>
+      <conductor id="311126">Colin Watson</conductor>
+    </result>
+    
+    <result id="217724">
+      <result code="3">3</result>
+      <band id="621">Woodbridge Excelsior</band>
+      <conductor id="302768">Brian Hastings</conductor>
+    </result>
+    
+    <result id="217725">
+      <result code="4">4</result>
+      <band id="832">Newmarket Town Band</band>
+      <conductor id="297305">A. Badcock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,65 @@
+<contest-event id="37871">
+  <event-date date="2017-6-10">June 10, 2017<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kreismusiktag - St. Gallen (Marschmusik)</name>
+  <contest id="5316">
+    <name>Kreismusiktag - St. Gallen (Marschmusik)</name>
+    <order>1</order>
+    <contest-type id="20">March Contest (Music and Inspection Points)</contest-type>
+    <group id="608">Kreismusiktag - St. Gallen</group>
+    <slug>kreismusiktag-untereggen</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6527">St. Gallerstrasse, Eggersriet, SG, Switzerland</venue>
+  <notes>10 Bands competed (mixed Brass/Wind, 1 Band No Contest).
+
+[Own Choices: 12 Bands competed, Expertise]</notes>
+
+  <created>May 7, 2017, 12:19 p.m.</created>
+  <last-modified>June 18, 2017, 8:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="275429">
+      <result code="1">1</result>
+      <band id="7122">BM Untereggen</band>
+      <conductor id="308501">Stefan Roth</conductor>
+      <test-piece id="3067">March: Feurig Blut</test-piece>
+    </result>
+    
+    <result id="275428">
+      <result code="3">3</result>
+      <band id="7129">MV Speicher</band>
+      <conductor id="308767">Thomas Schildknecht</conductor>
+      <test-piece id="3272">March: Emblem of the Army</test-piece>
+    </result>
+    
+    <result id="275427">
+      <result code="4">4</result>
+      <band id="8858">Musikgesellschaft Grub (SG)</band>
+      <conductor id="308589">Patrick Ruppanner</conductor>
+      <test-piece id="5063">March: Flott voran</test-piece>
+    </result>
+    
+    <result id="273962">
+      <result code="">Unknown Result</result>
+      <band id="5860">MG Brass Band Rehetobel</band>
+      <conductor id="305481">Daniel Maggi</conductor>
+    </result>
+    
+    <result id="275430">
+      <result code="">Unknown Result</result>
+      <band id="9463">Musikgesellschaft Eggersriet</band>
+      <conductor id="298956">Livio Camichel</conductor>
+    </result>
+    
+  </results>
+</contest-event>

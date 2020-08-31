@@ -1,0 +1,66 @@
+<contest-event id="31119">
+  <event-date date="1931-11-21">Nov. 21, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Ham Contest (Section 1)</name>
+  <contest id="2838">
+    <name>East Ham Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="452">East Ham Contest</group>
+    <slug>east-ham-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3231">Faust [unknown, arr. J. O. Hume]</test-piece>
+  </test-piece>
+
+  <venue id="2763">Newham Town Hall, East Ham, Newham, Greater London, England, UK</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Feb. 22, 2015, 10:12 a.m.</created>
+  <last-modified>Dec. 18, 2018, 9:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="221365">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="302565">
+      <result code="2">2</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="302566">
+      <result code="3">3</result>
+      <band id="6343">Great Central and Met Railway</band>
+      <conductor id="309469">W. A.  Smith</conductor>
+    </result>
+    
+    <result id="302567">
+      <result code="4">4</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="302568">
+      <result code="">Unknown Result</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302569">
+      <result code="">Unknown Result</result>
+      <band id="11378">Walthamstow British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

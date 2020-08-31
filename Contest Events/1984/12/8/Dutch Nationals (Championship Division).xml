@@ -1,0 +1,48 @@
+<contest-event id="6329">
+  <event-date date="1984-12-8">Dec. 8, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Championship Division)</name>
+  <contest id="274">
+    <name>Dutch Nationals (Championship Division)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="298">A London Overture</test-piece>
+  </test-piece>
+
+  <venue id="2712">Zutphen, Gelderland, Netherlands</venue>
+  <notes></notes>
+
+  <created>June 6, 2011, 3:37 p.m.</created>
+  <last-modified>Oct. 11, 2014, 9:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="56079">
+      <result code="1">1</result>
+      <band id="30">Soli Brass</band>
+      <conductor id="313076">Jan de Haan</conductor>
+    </result>
+    
+    <result id="129245">
+      <result code="2">2</result>
+      <band id="989">Brass Band De Wâldsang</band>
+      <conductor id="304844">Durk Lautenbach</conductor>
+    </result>
+    
+    <result id="210433">
+      <result code="3">3</result>
+      <band id="10103">AGO-Verzekeringen</band>
+      <conductor id="310615">Luuk Tuinstra</conductor>
+    </result>
+    
+  </results>
+</contest-event>

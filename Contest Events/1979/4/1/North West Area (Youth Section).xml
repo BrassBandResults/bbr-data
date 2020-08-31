@@ -1,0 +1,54 @@
+<contest-event id="19036">
+  <event-date date="1979-4-1">April 1, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Youth Section)</name>
+  <contest id="1121">
+    <name>North West Area (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-youth</slug>
+    <qualifies-for id="997">National Youth Brass Band Championships</qualifies-for>
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2978">Edinburgh Dances</test-piece>
+  </test-piece>
+
+  <venue id="5979">Guild Hall (Charter Theatre), Preston, Lancashire, England, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>March 12, 2013, 8:17 p.m.</created>
+  <last-modified>Jan. 24, 2016, 5:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="143105">
+      <result code="1">1</result>
+      <band id="7016">Metropolitan Borough of Wigan School</band>
+      <conductor id="306672">J. L. Newbiggin</conductor>
+    </result>
+    
+    <result id="143106">
+      <result code="2">2</result>
+      <band id="1524">Rochdale Metropolitan Youth</band>
+      <conductor id="309188">J. A. Siswick</conductor>
+    </result>
+    
+    <result id="143107">
+      <result code="3">3</result>
+      <band id="10647">Burnley Youth</band>
+      <conductor id="297404">G. Balson</conductor>
+    </result>
+    
+    <result id="199378">
+      <result code="4">4</result>
+      <band id="2784">Kingsway Youth</band>
+      <conductor id="299565">C. C. Colwell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

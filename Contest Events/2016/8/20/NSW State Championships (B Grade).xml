@@ -1,0 +1,51 @@
+<contest-event id="34947">
+  <event-date date="2016-8-20">Aug. 20, 2016<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (B Grade)</name>
+  <contest id="617">
+    <name>NSW State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3661">El Camino Real</test-piece>
+  </test-piece>
+
+  <venue id="4949">Joan Sutherland Performing Arts Centre (Richard Bonynge Concert Hall), Penrith, New South Wales, Australia</venue>
+  <notes>own Choice Draw  3,  2,  1</notes>
+
+  <created>April 4, 2016, 4:08 p.m.</created>
+  <last-modified>Oct. 24, 2016, 6:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="261307">
+      <result code="1">1</result>
+      <band id="2167">Toronto Brass</band>
+      <conductor id="306877">Tim O&#39;Hearn</conductor>
+      <test-piece id="54">Tallis Variations</test-piece>
+    </result>
+    
+    <result id="261308">
+      <result code="2">2</result>
+      <band id="2269">Parramatta City Band</band>
+      <conductor id="301710">Jonathan Gatt</conductor>
+      <test-piece id="567">The Bandsman&#39;s Challenge</test-piece>
+    </result>
+    
+    <result id="261309">
+      <result code="3">3</result>
+      <band id="2294">CNL Brass</band>
+      <conductor id="301710">Jonathan Gatt</conductor>
+      <test-piece id="680">Portrait of a City [Sparke]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

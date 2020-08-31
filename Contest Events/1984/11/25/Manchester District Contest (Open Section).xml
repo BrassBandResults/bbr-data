@@ -1,0 +1,49 @@
+<contest-event id="16631">
+  <event-date date="1984-11-25">Nov. 25, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Open Section)</name>
+  <contest id="791">
+    <name>Manchester District Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="470">Concert Overture for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="26">Radisson Blu Edwardian Manchester Hotel, Manchester, Greater Manchester, England, UK</venue>
+  <notes>  Prize  £100 and Reynold Shield.
+3 bands competed.</notes>
+
+  <created>Nov. 30, 2012, 11:34 a.m.</created>
+  <last-modified>Jan. 12, 2015, 11:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="127715">
+      <result code="1">1</result>
+      <band id="253">Stockport Brass</band>
+      <conductor id="305497">John Maines</conductor>
+    </result>
+    
+    <result id="127716">
+      <result code="2">2</result>
+      <band id="189">Delph Band</band>
+      <conductor id="301966">Philip Goodwin</conductor>
+    </result>
+    
+    <result id="127717">
+      <result code="3">3</result>
+      <band id="2832">United Co-op Crewe Youth</band>
+      <conductor id="306473">David Moulton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

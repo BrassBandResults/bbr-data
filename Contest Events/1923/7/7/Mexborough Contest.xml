@@ -1,0 +1,75 @@
+<contest-event id="40855">
+  <event-date date="1923-7-7">July 7, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mexborough Contest</name>
+  <contest id="3832">
+    <name>Mexborough Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mexborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="6442">Cricket Field, Mexborough</venue>
+  <notes>March contest - 1st Hickleton, 2nd Dannemora.
+Best soprano, horn and trombone - Hickleton.
+Best cornet and euphonium - Rawmarsh.
+7 bands competed.</notes>
+
+  <created>Oct. 20, 2018, 12:46 p.m.</created>
+  <last-modified>Oct. 20, 2018, 12:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296836">
+      <result code="1">1</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">T. Hunter</conductor>
+    </result>
+    
+    <result id="296839">
+      <result code="2">2</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="296838">
+      <result code="3">3</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="296833">
+      <result code="4">4</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="296835">
+      <result code="">Unknown Result</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296837">
+      <result code="">Unknown Result</result>
+      <band id="3327">Wath Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296834">
+      <result code="">Unknown Result</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="24850">
+  <event-date date="1944-7-22">July 22, 1944<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sunderland Contest (Second Section)</name>
+  <contest id="4852">
+    <name>Sunderland Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sunderland-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1659">Mirella - overture [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2839">Barnes Park, Sunderland</venue>
+  <notes>8 bands competed</notes>
+
+  <created>Nov. 4, 2013, 9:27 a.m.</created>
+  <last-modified>May 2, 2016, 6:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181559">
+      <result code="1">1</result>
+      <band id="3360">Wheatley Hill Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181560">
+      <result code="2">2</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181561">
+      <result code="3">3</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181562">
+      <result code="4">4</result>
+      <band id="923">Boldon Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

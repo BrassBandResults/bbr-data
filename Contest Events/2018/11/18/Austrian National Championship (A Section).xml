@@ -1,0 +1,60 @@
+<contest-event id="38710">
+  <event-date date="2018-11-18">Nov. 18, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Austrian National Championship (A Section)</name>
+  <contest id="5451">
+    <name>Austrian National Championship (A Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="526">Austrian National Championship</group>
+    <slug>austrian-national-championship-a-section</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes>None</notes>
+    <region id="20">Austria</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3256">Metropolis 1927</test-piece>
+  </test-piece>
+
+  <venue id="6738">Brucknerhaus, Linz, Upper Austria, Austria</venue>
+  <notes>5th Edition
+
+start: 2 pm</notes>
+
+  <created>Oct. 21, 2017, 5:26 p.m.</created>
+  <last-modified>Nov. 28, 2018, 10:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295977">
+      <result code="1">1</result>
+      <band id="713">Brass Band Oberösterreich</band>
+      <conductor id="307609">Ian Porthouse</conductor>
+      <test-piece id="116">From Ancient Times</test-piece>
+    </result>
+    
+    <result id="295978">
+      <result code="2">2</result>
+      <band id="12326">R.E.T. Brass Band</band>
+      <conductor id="304735">Andreas Lackner</conductor>
+      <test-piece id="3485">Fraternity</test-piece>
+    </result>
+    
+    <result id="295976">
+      <result code="3">3</result>
+      <band id="6045">Brass Band Fröschl Hall</band>
+      <conductor id="310791">Luc Vertommen</conductor>
+      <test-piece id="2441">Perihelion - Closer to the Sun</test-piece>
+    </result>
+    
+    <result id="295975">
+      <result code="4">4</result>
+      <band id="717">Austrian Brass Band</band>
+      <conductor id="312203">Anne van den Berg</conductor>
+      <test-piece id="106">Variations on an Enigma</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

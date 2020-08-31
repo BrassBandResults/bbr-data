@@ -1,0 +1,60 @@
+<contest-event id="27179">
+  <event-date date="2012-7-7">July 7, 2012<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wallberg Contest</name>
+  <contest id="5200">
+    <name>Wallberg Contest</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wallberg-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="5">March, Hymn and Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2509">Musica Helvetica</test-piece>
+  </test-piece>
+
+  <venue id="4634">Volketswil, ZH, Switzerland</venue>
+  <notes>35&#39; -Programme fo each of the 7 participating Bands (Brass/Wind)
+
+Category &#39;Harmonie&#39; -winner: Stadtmusik Winterthur
+
+Best Hymn: BB Imperial Lenzburg
+Best Solo: Erich Schmidli, Trombone, BB Posaunenchor Flaach, played The Green Hill (B.Appermont)
+Best March: The Australasian (W.Rimmer), BB Posaunenchor Flaach</notes>
+
+  <created>May 1, 2014, 6:57 p.m.</created>
+  <last-modified>Sept. 29, 2015, 11:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="196400">
+      <result code="1">1</result>
+      <band id="77">Liberty Brass Band Ostschweiz</band>
+      <conductor id="304659">Andreas Koller</conductor>
+    </result>
+    
+    <result id="196401">
+      <result code="">Unknown Result</result>
+      <band id="79">Brass Band Imperial Lenzburg</band>
+      <conductor id="298949">Rafael Camartin</conductor>
+    </result>
+    
+    <result id="196399">
+      <result code="">Unknown Result</result>
+      <band id="92">Brass Band Posaunenchor Flaach</band>
+      <conductor id="297295">Christian Bachmann</conductor>
+    </result>
+    
+    <result id="196402">
+      <result code="">Unknown Result</result>
+      <band id="1063">Universal Brass Band Wil</band>
+      <conductor id="300809">Sabine Egli</conductor>
+    </result>
+    
+  </results>
+</contest-event>

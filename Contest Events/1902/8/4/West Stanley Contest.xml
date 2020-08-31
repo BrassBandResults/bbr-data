@@ -1,0 +1,48 @@
+<contest-event id="40095">
+  <event-date date="1902-8-4">Aug. 4, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest</name>
+  <contest id="4451">
+    <name>West Stanley Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>west-stanley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6430">Co-operative Stores Fields, West Stanley</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>July 10, 2018, 3:02 p.m.</created>
+  <last-modified>July 10, 2018, 3:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291482">
+      <result code="1">1</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="291483">
+      <result code="2">2</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="301972">Bryce Gordon</conductor>
+    </result>
+    
+    <result id="291484">
+      <result code="3">3</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+  </results>
+</contest-event>

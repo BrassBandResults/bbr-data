@@ -1,0 +1,48 @@
+<contest-event id="23878">
+  <event-date date="1964-3-7">March 7, 1964<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="305">Symphony of Marches</test-piece>
+  </test-piece>
+
+  <venue id="2556">St. Bede&#39;s School, Sunderland</venue>
+  <notes></notes>
+
+  <created>Sept. 14, 2013, 3:50 p.m.</created>
+  <last-modified>Aug. 23, 2016, 10:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="195579">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="195580">
+      <result code="2">2</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="195581">
+      <result code="3">3</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

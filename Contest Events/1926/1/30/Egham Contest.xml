@@ -1,0 +1,54 @@
+<contest-event id="41195">
+  <event-date date="1926-1-30">Jan. 30, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Egham Contest</name>
+  <contest id="6434">
+    <name>Egham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>egham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1674">Daughter of the Regiment [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4094">Egham, Surrey</venue>
+  <notes>March contest - 1st Egham, 2nd Friary, 3rd Chertsey.</notes>
+
+  <created>Nov. 8, 2018, 4:11 p.m.</created>
+  <last-modified>Nov. 8, 2018, 4:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299270">
+      <result code="1">1</result>
+      <band id="9220">Chertsey Town Silver Prize Band</band>
+      <conductor id="309357">F. D. Smith</conductor>
+    </result>
+    
+    <result id="299271">
+      <result code="2">2</result>
+      <band id="332">The Egham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299273">
+      <result code="">Unknown Result</result>
+      <band id="17504">Ascot Ex Servicemen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299272">
+      <result code="">Unknown Result</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

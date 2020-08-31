@@ -1,0 +1,43 @@
+<contest-event id="24875">
+  <event-date date="1960-10-1">Oct. 1, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Devizes Contest (Section B)</name>
+  <contest id="4858">
+    <name>Devizes Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>devizes-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2144">The Dawn of Spring</test-piece>
+  </test-piece>
+
+  <venue id="2869">Corn Exchange, Devizes, Wiltshire, England, UK</venue>
+  <notes>  March contest - 1st Bratton, 2nd Hungerford.
+  2 bands only competed.</notes>
+
+  <created>Nov. 4, 2013, 4:34 p.m.</created>
+  <last-modified>May 19, 2014, 9:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181676">
+      <result code="1">1</result>
+      <band id="562">Bratton Silver Band</band>
+      <conductor id="309416">N. O. Smith</conductor>
+    </result>
+    
+    <result id="181677">
+      <result code="2">2</result>
+      <band id="350">Hungerford Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

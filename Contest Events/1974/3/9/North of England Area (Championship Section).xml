@@ -1,0 +1,79 @@
+<contest-event id="1951">
+  <event-date date="1974-3-9">March 9, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="222">Variations on a Ninth</test-piece>
+  </test-piece>
+
+  <venue id="2556">St. Bede&#39;s School, Sunderland</venue>
+  <notes>
+  8 bands competed.</notes>
+
+  <created>May 18, 2010, 2:28 p.m.</created>
+  <last-modified>July 10, 2014, 9:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="74872">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+    <result id="151853">
+      <result code="2">2</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="302418">Jon Hall</conductor>
+    </result>
+    
+    <result id="151854">
+      <result code="3">3</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="313871">Cecil Peacock</conductor>
+    </result>
+    
+    <result id="18372">
+      <result code="4">4</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="308747">Cliff Sayers</conductor>
+    </result>
+    
+    <result id="151856">
+      <result code="">Unknown Result</result>
+      <band id="248">Dearham Band</band>
+      <conductor id="303816">Joe Ireland</conductor>
+    </result>
+    
+    <result id="151858">
+      <result code="">Unknown Result</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+    <result id="151855">
+      <result code="">Unknown Result</result>
+      <band id="306">Wansbeck&#39;s Ashington Colliery Band</band>
+      <conductor id="305142">W. Lister</conductor>
+    </result>
+    
+    <result id="151857">
+      <result code="">Unknown Result</result>
+      <band id="799">Yarm &amp; District Band</band>
+      <conductor id="306104">Cliff Midgley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

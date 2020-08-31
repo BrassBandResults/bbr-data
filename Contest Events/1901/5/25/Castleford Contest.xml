@@ -1,0 +1,58 @@
+<contest-event id="22890">
+  <event-date date="1901-5-25">May 25, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Castleford Contest</name>
+  <contest id="2132">
+    <name>Castleford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>castleford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2577">Woodland Whispers</test-piece>
+  </test-piece>
+
+  <venue id="4514">Northern Union Football Field, Castleford, West Yorkshire</venue>
+  <notes>Promoted by Castleford Old Brass Band
+Prizes to value of £20 10s
+March: 1. Rothwell, 2. Wharncliffe
+Trombone &amp; Cornet: Wharncliffe.
+4 bands competed.</notes>
+
+  <created>Aug. 15, 2013, 10:34 a.m.</created>
+  <last-modified>June 20, 2018, 9:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168875">
+      <result code="1">1</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="168876">
+      <result code="2">2</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="168877">
+      <result code="3">3</result>
+      <band id="2794">Elsecar Subscription</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="168878">
+      <result code="4">4</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="306693">A. Newton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

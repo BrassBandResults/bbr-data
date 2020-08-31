@@ -1,0 +1,90 @@
+<contest-event id="9986">
+  <event-date date="1905-4-24">April 24, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oundle Contest (First Section)</name>
+  <contest id="1809">
+    <name>Oundle Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>oundle-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3945">Cricket Ground, Oundle, Northamptonshire</venue>
+  <notes>Promoted by Oundle Town Band
+
+  1st prize £15 and cup.
+  2nd prize £7.10s.
+  3rd prize £3.5s divided between Burton Latimer and Irthingborough.
+
+Bands had a choice of 4 test pieces to choose from</notes>
+
+  <created>Feb. 4, 2012, 4:38 p.m.</created>
+  <last-modified>March 3, 2015, 10:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="84667">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="84668">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+      <test-piece id="1584">La Cenerentola</test-piece>
+    </result>
+    
+    <result id="84670">
+      <result code="3">3</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="312118">Joseph York</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="84669">
+      <result code="3">3</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="309098">J. Shrives</conductor>
+      <test-piece id="1643">Gems of Irish Melody</test-piece>
+    </result>
+    
+    <result id="84672">
+      <result code="">Unknown Result</result>
+      <band id="6323">Peterborough Excelsior</band>
+      <conductor id="296849">S. Alderman</conductor>
+    </result>
+    
+    <result id="84673">
+      <result code="">Unknown Result</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="307359">Owen Pentelow</conductor>
+    </result>
+    
+    <result id="84674">
+      <result code="">Unknown Result</result>
+      <band id="2348">Thrapston Town</band>
+      <conductor id="309417">Nathaniel Smith</conductor>
+      <test-piece id="1426">Lortzing</test-piece>
+    </result>
+    
+    <result id="84671">
+      <result code="">Unknown Result</result>
+      <band id="6605">Kettering Midland</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="5608">Rhineland</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

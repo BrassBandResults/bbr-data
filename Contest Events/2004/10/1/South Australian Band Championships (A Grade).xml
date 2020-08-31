@@ -1,0 +1,44 @@
+<contest-event id="3303">
+  <event-date date="2004-10-1">Oct. 1, 2004<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>South Australian Band Championships (A Grade)</name>
+  <contest id="569">
+    <name>South Australian Band Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="22">Journey into Freedom</test-piece>
+  </test-piece>
+
+  <venue id="733">Victor Harbor, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Dec. 2, 2010, 1:35 p.m.</created>
+  <last-modified>Aug. 10, 2018, 1:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="60059">
+      <result code="1">1</result>
+      <band id="698">Kensington &amp; Norwood Brass</band>
+      <conductor id="307954">Bruce Raymond</conductor>
+      <test-piece id="5586">Hymn: Nicaea</test-piece>
+    </result>
+    
+    <result id="287818">
+      <result code="2">2</result>
+      <band id="2178">Tanunda Town Band</band>
+      <conductor id="300308">James Dempsey</conductor>
+      <test-piece id="4044">Hymn Tune: The Old 100th</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

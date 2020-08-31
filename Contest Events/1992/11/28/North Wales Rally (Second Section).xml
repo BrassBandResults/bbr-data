@@ -1,0 +1,48 @@
+<contest-event id="30943">
+  <event-date date="1992-11-28">Nov. 28, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Second Section)</name>
+  <contest id="1772">
+    <name>North Wales Rally (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="196">Labour and Love</test-piece>
+  </test-piece>
+
+  <venue id="5612">Aberconwy Centre, Llandudno, Conwy, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 3, 2015, 9:56 a.m.</created>
+  <last-modified>Feb. 3, 2015, 9:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="220319">
+      <result code="1">1</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="305656">Graham A. Martin</conductor>
+    </result>
+    
+    <result id="220320">
+      <result code="2">2</result>
+      <band id="206">City of Chester Band</band>
+      <conductor id="306468">Philip Mottershead</conductor>
+    </result>
+    
+    <result id="220321">
+      <result code="3">3</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="304213">Geraint Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="22407">
+  <event-date date="1921-8-27">Aug. 27, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Markinch Contest</name>
+  <contest id="2835">
+    <name>Markinch Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="515">Markinch Contest</group>
+    <slug>markinch-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3681">Balbirnie, Markinch, Fife, Scotland, UK</venue>
+  <notes>Markinch Flower Show
+
+Own choice test piece &quot;National Airs&quot;
+
+Prizes: £30, £20, £12, £10, £5, £2
+
+10 bands competed</notes>
+
+  <created>Aug. 6, 2013, 4:29 p.m.</created>
+  <last-modified>Dec. 3, 2013, 10:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="166685">
+      <result code="1">1</result>
+      <band id="5227">Dunnikier Colliery</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="166686">
+      <result code="2">2</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="166687">
+      <result code="3">3</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="304143">J. Johnstone</conductor>
+    </result>
+    
+    <result id="166688">
+      <result code="4">4</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="166689">
+      <result code="5">5</result>
+      <band id="5484">Larkhall Silver</band>
+      <conductor id="297732">Alexander Bell</conductor>
+    </result>
+    
+    <result id="166690">
+      <result code="6">6</result>
+      <band id="5220">Falkirk Trades</band>
+      <conductor id="309119">Albert Siddall</conductor>
+    </result>
+    
+  </results>
+</contest-event>

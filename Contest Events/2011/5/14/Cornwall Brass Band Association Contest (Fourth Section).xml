@@ -1,0 +1,42 @@
+<contest-event id="6060">
+  <event-date date="2011-5-14">May 14, 2011<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall Brass Band Association Contest (Fourth Section)</name>
+  <contest id="533">
+    <name>Cornwall Brass Band Association Contest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-brass-band-association-contest-fourth-sec</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="162">Mexican Fiesta</test-piece>
+  </test-piece>
+
+  <venue id="285">Tremough Campus, Penryn</venue>
+  <notes></notes>
+
+  <created>May 18, 2011, 6:52 p.m.</created>
+  <last-modified>July 14, 2012, 8:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="53423">
+      <result code="1">1</result>
+      <band id="4011">Gweek Silver Band</band>
+      <conductor id="308135">Tony Richards</conductor>
+    </result>
+    
+    <result id="53424">
+      <result code="2">2</result>
+      <band id="1408">Pendeen Silver Band</band>
+      <conductor id="303983">Darren Jenkin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

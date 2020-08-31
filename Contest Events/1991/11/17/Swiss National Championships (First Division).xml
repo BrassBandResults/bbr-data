@@ -1,0 +1,54 @@
+<contest-event id="14394">
+  <event-date date="1991-11-17">Nov. 17, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (First Division)</name>
+  <contest id="12">
+    <name>Swiss National Championships (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-first-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2041">Brass Dynamics</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2012, 9:53 a.m.</created>
+  <last-modified>Feb. 18, 2015, 1:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="114644">
+      <result code="1">1</result>
+      <band id="72">Brass Band Kirchenmusik Flühli</band>
+      <conductor id="300814">Pascal Eicher</conductor>
+    </result>
+    
+    <result id="165380">
+      <result code="2">2</result>
+      <band id="70">Ensemble de Cuivres Euphonia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="165381">
+      <result code="3">3</result>
+      <band id="71">Brass Band MG Rickenbach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="237516">
+      <result code="">Unknown Result</result>
+      <band id="1067">Musikgesellschaft Brass Band Eglisau</band>
+      <conductor id="296791">Hanspeter Adank</conductor>
+    </result>
+    
+  </results>
+</contest-event>

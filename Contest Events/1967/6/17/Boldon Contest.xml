@@ -1,0 +1,48 @@
+<contest-event id="20045">
+  <event-date date="1967-6-17">June 17, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Boldon Contest</name>
+  <contest id="3316">
+    <name>Boldon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>boldon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="16">March &amp; Hymn Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2548">Boldon Colliery Village, County Durham</venue>
+  <notes>  Hymn tune contest - 1st Durham County Police, 2nd Dawdon Lodge, 3rd Pelton Fell.</notes>
+
+  <created>March 29, 2013, 10:53 p.m.</created>
+  <last-modified>March 29, 2013, 10:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149356">
+      <result code="1">1</result>
+      <band id="1921">Dawdon Lodge</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="149357">
+      <result code="2">2</result>
+      <band id="572">Durham Constabulary</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+    </result>
+    
+    <result id="149358">
+      <result code="3">3</result>
+      <band id="5814">Pelton Fell Workmen&#39;s</band>
+      <conductor id="303265">J. Holden</conductor>
+    </result>
+    
+  </results>
+</contest-event>

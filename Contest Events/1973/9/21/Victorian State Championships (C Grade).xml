@@ -1,0 +1,78 @@
+<contest-event id="39596">
+  <event-date date="1973-9-21">Sept. 21, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (C Grade)</name>
+  <contest id="897">
+    <name>Victorian State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="3162">Capriol Suite</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>May 11, 2018, 12:47 a.m.</created>
+  <last-modified>May 16, 2020, 3:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287055">
+      <result code="1">1</result>
+      <band id="2242">Box Hill City Band</band>
+      <conductor id="317869">Geoff Morrison</conductor>
+    </result>
+    
+    <result id="287056">
+      <result code="2">2</result>
+      <band id="9343">Thompsons Foundry Band</band>
+      <conductor id="300490">Stan Doran</conductor>
+    </result>
+    
+    <result id="287057">
+      <result code="3">3</result>
+      <band id="2248">Beaufort Municipal Band</band>
+      <conductor id="310947">Lee Wallis</conductor>
+    </result>
+    
+    <result id="287058">
+      <result code="4">4</result>
+      <band id="727">Eaglehawk Citizens Band</band>
+      <conductor id="307608">W. Porter</conductor>
+    </result>
+    
+    <result id="287060">
+      <result code="5">5</result>
+      <band id="17209">Christian Brothers  Old Collegians    (Vic)</band>
+      <conductor id="298317">Vic Boyle</conductor>
+    </result>
+    
+    <result id="287059">
+      <result code="">Unknown Result</result>
+      <band id="2247">Stawell City Brass Band</band>
+      <conductor id="317952">Norm Litt</conductor>
+    </result>
+    
+    <result id="287061">
+      <result code="">Unknown Result</result>
+      <band id="11233">Heidelberg City</band>
+      <conductor id="298316">Roy Boyle</conductor>
+    </result>
+    
+    <result id="287062">
+      <result code="W">Withdrawn</result>
+      <band id="2319">Moonee Valley Brass</band>
+      <conductor id="310589">Doug Trottman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

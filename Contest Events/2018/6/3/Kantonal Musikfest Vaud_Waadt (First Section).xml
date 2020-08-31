@@ -1,0 +1,66 @@
+<contest-event id="43695">
+  <event-date date="2018-6-3">June 3, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kantonal Musikfest Vaud/Waadt (First Section)</name>
+  <contest id="4371">
+    <name>Kantonal Musikfest Vaud/Waadt (First Section) </name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="303">Kantonal Musikfest Vaud/Waadt</group>
+    <slug>kantonal-musikfest-vaud-waadt-first-section</slug>
+    
+    <notes>None</notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="6370">Of Sand and Stones</test-piece>
+  </test-piece>
+
+  <venue id="6463">Vallée de Joux, VD, Switzerland</venue>
+  <notes>Pls forward missing Details (all Sections): Adjudicators, Conductors, Draws.</notes>
+
+  <created>June 14, 2020, 4:26 p.m.</created>
+  <last-modified>June 27, 2020, 10:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="319570">
+      <result code="1">1</result>
+      <band id="8824">Fanfare l&#39;Echo de Corjon de Rossinière</band>
+      <conductor id="313791">José Niquille</conductor>
+    </result>
+    
+    <result id="319571">
+      <result code="2">2</result>
+      <band id="8794">Brass Band Echo du Chêne Aubonne</band>
+      <conductor id="305754">Vincent Maurer</conductor>
+    </result>
+    
+    <result id="319572">
+      <result code="3">3</result>
+      <band id="11121">Fanfare Paroissiale Ursy</band>
+      <conductor id="302282">Serge Gros</conductor>
+    </result>
+    
+    <result id="319573">
+      <result code="4">4</result>
+      <band id="8830">Fanfare de Mont-sur-Rolle</band>
+      <conductor id="316580">Emmanuel Violi</conductor>
+    </result>
+    
+    <result id="319574">
+      <result code="5">5</result>
+      <band id="8911">Union Instrumentale de Forel (Lavaux)</band>
+      <conductor id="308431">Julien Roh</conductor>
+    </result>
+    
+    <result id="319575">
+      <result code="6">6</result>
+      <band id="11033">Fanfare du Jorat Mézières</band>
+      <conductor id="296802">David Aebi</conductor>
+    </result>
+    
+  </results>
+</contest-event>

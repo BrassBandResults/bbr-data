@@ -1,0 +1,48 @@
+<contest-event id="40688">
+  <event-date date="1920-5-24">May 24, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tenbury Contest</name>
+  <contest id="6341">
+    <name>Tenbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tenbury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1318">Norma</test-piece>
+  </test-piece>
+
+  <venue id="6917">Tenbury, Worcestershire</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Oct. 13, 2018, 9:07 a.m.</created>
+  <last-modified>Oct. 13, 2018, 9:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295997">
+      <result code="1">1</result>
+      <band id="11009">Dudley Port Excelsior</band>
+      <conductor id="316037">W. Taylor Jnr</conductor>
+    </result>
+    
+    <result id="295998">
+      <result code="2">2</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="301275">Herbert Fisher</conductor>
+    </result>
+    
+    <result id="295999">
+      <result code="3">3</result>
+      <band id="8355">Halesowen Town</band>
+      <conductor id="307196">J. Partridge</conductor>
+    </result>
+    
+  </results>
+</contest-event>

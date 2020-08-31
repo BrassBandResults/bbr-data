@@ -1,0 +1,54 @@
+<contest-event id="28079">
+  <event-date date="2014-6-7">June 7, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French Open (Elite Division)</name>
+  <contest id="27">
+    <name>French Open (Elite Division)</name>
+    <order>1</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="16">French Open</group>
+    <slug>french-open-elite-division</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="10">Set Test and Entertainments Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="12">Paganini Variations</test-piece>
+  </test-piece>
+
+  <venue id="4798">Théâtre Municipal Beaumarchais, Amboise, Centre, France</venue>
+  <notes>20th Edition</notes>
+
+  <created>June 1, 2014, 12:43 p.m.</created>
+  <last-modified>May 29, 2017, 3:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="200973">
+      <result code="1">1</result>
+      <band id="240">Brass Band Rijnmond</band>
+      <conductor id="312200">Erik van de Kolk</conductor>
+    </result>
+    
+    <result id="200976">
+      <result code="2">2</result>
+      <band id="812">Krohnengen Brass Band</band>
+      <conductor id="298395">Bjørn Breistein</conductor>
+    </result>
+    
+    <result id="200974">
+      <result code="3">3</result>
+      <band id="1758">Brass Band Val de Loire</band>
+      <conductor id="301741">Jerome Genza</conductor>
+    </result>
+    
+    <result id="200975">
+      <result code="4">4</result>
+      <band id="243">Exobrass Band</band>
+      <conductor id="299731">Dylan Corlay</conductor>
+    </result>
+    
+  </results>
+</contest-event>

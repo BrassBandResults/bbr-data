@@ -1,0 +1,52 @@
+<contest-event id="15000">
+  <event-date date="2013-6-29">June 29, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aargau Kantonales Musikfest (First Section)</name>
+  <contest id="3073">
+    <name>Aargau Kantonales Musikfest (First Section)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="292">Aargau Kantonales Musikfest</group>
+    <slug>aargau-kantonales-musikfest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2497">Metropolitan Suite</test-piece>
+  </test-piece>
+
+  <venue id="2395">Aarburg, AG, Switzerland</venue>
+  <notes>Set Test: Heritier, Bach, Buchegger
+Own Choice: Chiappori, Duc, Renggli</notes>
+
+  <created>Oct. 1, 2012, 3:48 p.m.</created>
+  <last-modified>April 28, 2019, 2:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164004">
+      <result code="1">1</result>
+      <band id="5858">Musikgesellschaft Oberrüti</band>
+      <conductor id="302790">Dani Haus</conductor>
+      <test-piece id="102">A Swiss Excursion</test-piece>
+    </result>
+    
+    <result id="164005">
+      <result code="2">2</result>
+      <band id="4931">MV Künten</band>
+      <conductor id="306574">Stefan Märki</conductor>
+      <test-piece id="56">The Essence of Time</test-piece>
+    </result>
+    
+    <result id="164006">
+      <result code="3">3</result>
+      <band id="8896">Musikverein Reitnau</band>
+      <conductor id="309918">Werner Stöckli</conductor>
+      <test-piece id="100">The Year of the Dragon</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

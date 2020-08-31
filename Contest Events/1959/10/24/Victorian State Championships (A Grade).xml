@@ -1,0 +1,66 @@
+<contest-event id="39129">
+  <event-date date="1959-10-24">Oct. 24, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (A Grade)</name>
+  <contest id="567">
+    <name>Victorian State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5479">Variations From the Shinning River</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>Diagram March  points listed under Stage March</notes>
+
+  <created>Feb. 11, 2018, 9:06 p.m.</created>
+  <last-modified>March 6, 2018, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284513">
+      <result code="1">1</result>
+      <band id="12927">Kingsville Yarraville Band</band>
+      <conductor id="298970">Tom Campbell</conductor>
+    </result>
+    
+    <result id="284514">
+      <result code="2">2</result>
+      <band id="2240">Stonnington City Brass</band>
+      <conductor id="307464">Bill Philpott</conductor>
+    </result>
+    
+    <result id="284515">
+      <result code="3">3</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="317584">Norman Uren</conductor>
+    </result>
+    
+    <result id="284516">
+      <result code="4">4</result>
+      <band id="19086">Henley &amp; Grange Municipal</band>
+      <conductor id="297319">Clair Baile</conductor>
+    </result>
+    
+    <result id="284517">
+      <result code="5">5</result>
+      <band id="18953">St. John Ambulance Brigade - Melbourne</band>
+      <conductor id="317630">Bob Dunn</conductor>
+    </result>
+    
+    <result id="284518">
+      <result code="6">6</result>
+      <band id="727">Eaglehawk Citizens Band</band>
+      <conductor id="313685">George Miller</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="4571">
+  <event-date date="1992-9-12">Sept. 12, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (First Section)</name>
+  <contest id="5462">
+    <name>West Wales BBA Festival Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-festival-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="128">Variations for Brass Band [Vaughan Williams]</test-piece>
+  </test-piece>
+
+  <venue id="157">Ammanford, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £100, 2nd £60, 3rd £40.
+8 bands competed.</notes>
+
+  <created>March 4, 2011, 9:51 a.m.</created>
+  <last-modified>July 3, 2020, 12:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="220134">
+      <result code="1">1</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="311241">Nigel Weeks</conductor>
+    </result>
+    
+    <result id="220135">
+      <result code="2">2</result>
+      <band id="425">Abergavenny Borough Band</band>
+      <conductor id="307630">Eric Powell</conductor>
+    </result>
+    
+    <result id="39710">
+      <result code="3">3</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="298695">C. Brian Buckley</conductor>
+    </result>
+    
+    <result id="118226">
+      <result code="">Unknown Result</result>
+      <band id="48">Burry Port Town</band>
+      <conductor id="310378">Michael Thorne</conductor>
+    </result>
+    
+    <result id="320413">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304181">Cynon Jones</conductor>
+    </result>
+    
+    <result id="320412">
+      <result code="">Unknown Result</result>
+      <band id="461">Ebbw Vale Band</band>
+      <conductor id="303044">Andrew Hicks</conductor>
+    </result>
+    
+    <result id="320411">
+      <result code="">Unknown Result</result>
+      <band id="357">Gwaun-cae-Gurwen Band</band>
+      <conductor id="310264">Ceri Thomas</conductor>
+    </result>
+    
+    <result id="320410">
+      <result code="">Unknown Result</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="311407">Melvin White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,43 @@
+<contest-event id="27620">
+  <event-date date="1960-10-1">Oct. 1, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Devizes Contest (Championship Section)</name>
+  <contest id="5269">
+    <name>Devizes Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>devizes-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="421">Music for the Royal Fireworks</test-piece>
+  </test-piece>
+
+  <venue id="2869">Corn Exchange, Devizes, Wiltshire, England, UK</venue>
+  <notes>March contest - 1st Aldbourne, 2nd British Rail.
+2 bands only competed.</notes>
+
+  <created>May 19, 2014, 9:45 p.m.</created>
+  <last-modified>May 19, 2014, 9:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="198617">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+    </result>
+    
+    <result id="198618">
+      <result code="2">2</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="311816">Cyril Winstone</conductor>
+    </result>
+    
+  </results>
+</contest-event>

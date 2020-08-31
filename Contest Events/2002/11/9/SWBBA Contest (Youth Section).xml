@@ -1,0 +1,48 @@
+<contest-event id="2140">
+  <event-date date="2002-11-9">Nov. 9, 2002<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Youth Section)</name>
+  <contest id="437">
+    <name>SWBBA Contest (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="14">Hymn &amp; Own Choice Test Piece Contest (Separate Points)</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-youth-section</slug>
+    
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="220">Music for a Festival [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="48">Riviera International Conference Centre, Torquay, Devon, England, UK</venue>
+  <notes>Best instrumentalist: Neil Pascoe, euphonium, Mount Charles Youth</notes>
+
+  <created>July 2, 2010, 7:09 p.m.</created>
+  <last-modified>Sept. 24, 2015, 8:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="19114">
+      <result code="1">1</result>
+      <band id="1458">Mount Charles Youth Band</band>
+      <conductor id="309280">Jonathan Small</conductor>
+    </result>
+    
+    <result id="19115">
+      <result code="2">2</result>
+      <band id="1780">St. Austell Youth</band>
+      <conductor id="306975">Steve Osborne</conductor>
+    </result>
+    
+    <result id="19116">
+      <result code="3">3</result>
+      <band id="1778">St. Dennis Youth</band>
+      <conductor id="306181">Brian Minear</conductor>
+    </result>
+    
+  </results>
+</contest-event>

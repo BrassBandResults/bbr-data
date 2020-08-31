@@ -1,0 +1,79 @@
+<contest-event id="34660">
+  <event-date date="1988-4-2">April 2, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="909">Sirius [Wright]</test-piece>
+  </test-piece>
+
+  <venue id="4942">Bankstown Civic Centre, Bankstown, New South Wales, Australia</venue>
+  <notes>OWN CHOICE : Adjudicator Tom Gawn took ill &amp; was replaced by Ray Gallagher for the O/C</notes>
+
+  <created>March 18, 2016, 2:02 a.m.</created>
+  <last-modified>March 18, 2016, 11:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="249956">
+      <result code="1">1</result>
+      <band id="704">Warringah Concert Brass</band>
+      <conductor id="308729">Jack Saunders</conductor>
+      <test-piece id="229">Partita [Sparke]</test-piece>
+    </result>
+    
+    <result id="249957">
+      <result code="2">2</result>
+      <band id="2284">Canberra City Brass</band>
+      <conductor id="308323">Peter Robertson</conductor>
+      <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+    </result>
+    
+    <result id="249958">
+      <result code="3">3</result>
+      <band id="11235">Orange Police &amp; Citizens Boys</band>
+      <conductor id="309270">Harry Sloggett</conductor>
+      <test-piece id="707">Swedish Rhapsody</test-piece>
+    </result>
+    
+    <result id="249959">
+      <result code="4">4</result>
+      <band id="14357">Liverpool City  (NSW)</band>
+      <conductor id="312060">Ronald Wright</conductor>
+      <test-piece id="382">A Rural Suite</test-piece>
+    </result>
+    
+    <result id="249960">
+      <result code="5">5</result>
+      <band id="9283">Lithgow City Brass Band</band>
+      <conductor id="299467">Alex Clulow</conductor>
+      <test-piece id="382">A Rural Suite</test-piece>
+    </result>
+    
+    <result id="249961">
+      <result code="6">6</result>
+      <band id="1320">Sunnybank Brass</band>
+      <conductor id="301156">Stuart Fawcett</conductor>
+      <test-piece id="344">Rhapsody on Negro Spirituals</test-piece>
+    </result>
+    
+    <result id="249962">
+      <result code="7">7</result>
+      <band id="2294">CNL Brass</band>
+      <conductor id="308964">Allan Shaw</conductor>
+      <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="42802">
+  <event-date date="1983-9-25">Sept. 25, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="424">Blackfriars</test-piece>
+  </test-piece>
+
+  <venue id="7190">Ulverstone Civic Centre, Tasmania, Australia</venue>
+  <notes>Bands required to also play a Hymn &amp; Popular Number  (not included in championship)
+
+Glenorchy City previously known as the 7 HQ Hobart Concert Band</notes>
+
+  <created>Nov. 5, 2019, 11:20 p.m.</created>
+  <last-modified>Nov. 5, 2019, 11:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313470">
+      <result code="1">1</result>
+      <band id="2141">Glenorchy City Concert Brass</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+    </result>
+    
+    <result id="313471">
+      <result code="2">2</result>
+      <band id="2143">Hobart City Brass Band</band>
+      <conductor id="304948">Ken Lee</conductor>
+    </result>
+    
+    <result id="313469">
+      <result code="3">3</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="307847">Peter Quigley</conductor>
+    </result>
+    
+    <result id="313467">
+      <result code="4">4</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305376">Jack Lusted</conductor>
+    </result>
+    
+    <result id="313468">
+      <result code="5">5</result>
+      <band id="2291">City of Burnie Brass</band>
+      <conductor id="319734">Roy Hammersley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

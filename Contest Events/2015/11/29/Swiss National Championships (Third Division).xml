@@ -1,0 +1,90 @@
+<contest-event id="27068">
+  <event-date date="2015-11-29">Nov. 29, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Third Division)</name>
+  <contest id="14">
+    <name>Swiss National Championships (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-third-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="4">Third</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2292">Turris Fortissima</test-piece>
+  </test-piece>
+
+  <venue id="1026">Music and Convention Centre (Auditorium Stravinski), Montreux, VD, Switzerland</venue>
+  <notes>Best Bass-Section: JBB Michelsamt</notes>
+
+  <created>April 18, 2014, 8:32 a.m.</created>
+  <last-modified>May 6, 2017, 12:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="235911">
+      <result code="1">1</result>
+      <band id="1076">Jugend Brass Band Michelsamt</band>
+      <conductor id="308765">Lukas Scherrer</conductor>
+    </result>
+    
+    <result id="235909">
+      <result code="2">2</result>
+      <band id="2364">Brass Band Zürich</band>
+      <conductor id="304694">Werner Kubli</conductor>
+    </result>
+    
+    <result id="235910">
+      <result code="3">3</result>
+      <band id="1081">Ensemble de Cuivres Jurassien B</band>
+      <conductor id="304726">Florian Lab</conductor>
+    </result>
+    
+    <result id="235913">
+      <result code="4">4</result>
+      <band id="5854">Musikgesellschaft Full</band>
+      <conductor id="302780">Markus Hauenstein</conductor>
+    </result>
+    
+    <result id="235908">
+      <result code="5">5</result>
+      <band id="1072">Brass Band Solothurn</band>
+      <conductor id="298901">Martin Bütikofer</conductor>
+    </result>
+    
+    <result id="235906">
+      <result code="6">6</result>
+      <band id="1083">Brass Band Gürbetal</band>
+      <conductor id="316321">Urs Stähli</conductor>
+    </result>
+    
+    <result id="235907">
+      <result code="7">7</result>
+      <band id="1079">Brass Band Imperial Lenzburg B</band>
+      <conductor id="296805">Stefan Aegerter</conductor>
+    </result>
+    
+    <result id="235915">
+      <result code="8">8</result>
+      <band id="106">Oberwalliser Brass Band Junior</band>
+      <conductor id="305196">David Lochmatter</conductor>
+    </result>
+    
+    <result id="235912">
+      <result code="9">9</result>
+      <band id="1073">Musik Frohsinn Oberburg</band>
+      <conductor id="306589">Jan Müller</conductor>
+    </result>
+    
+    <result id="235914">
+      <result code="10">10</result>
+      <band id="2504">Musikgesellschaft Jenaz</band>
+      <conductor id="306780">Andrea Nold</conductor>
+    </result>
+    
+  </results>
+</contest-event>

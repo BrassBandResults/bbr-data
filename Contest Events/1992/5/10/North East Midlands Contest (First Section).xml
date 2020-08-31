@@ -1,0 +1,67 @@
+<contest-event id="30873">
+  <event-date date="1992-5-10">May 10, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North East Midlands Contest (First Section)</name>
+  <contest id="117">
+    <name>North East Midlands Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="12">North East Midlands Contest</group>
+    <slug>north-east-midlands-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5768">Leisure Centre, Dronfield, Derbyshire</venue>
+  <notes>Prizes - 1st £100, 2nd £60, 3rd £40.
+5 bands competed.</notes>
+
+  <created>Jan. 29, 2015, 11:37 p.m.</created>
+  <last-modified>March 28, 2017, 2:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="220029">
+      <result code="1">1</result>
+      <band id="39">Newstead Brass</band>
+      <conductor id="297685">Duncan Beckley</conductor>
+    </result>
+    
+    <result id="220030">
+      <result code="2">2</result>
+      <band id="10399">Ireland Colliery &#39;B&#39;</band>
+      <conductor id="310978">Roy Walters</conductor>
+    </result>
+    
+    <result id="220031">
+      <result code="3">3</result>
+      <band id="300">Hathern Band</band>
+      <conductor id="306681">Dave Newman</conductor>
+    </result>
+    
+    <result id="272350">
+      <result code="">Unknown Result</result>
+      <band id="863">Dronfield (CMW) Band</band>
+      <conductor id="298045">Don Blakeson</conductor>
+    </result>
+    
+    <result id="272349">
+      <result code="W">Withdrawn</result>
+      <band id="469">Foss Dyke Band</band>
+      <conductor id="308250">Walter Ritchie</conductor>
+    </result>
+    
+    <result id="272351">
+      <result code="W">Withdrawn</result>
+      <band id="473">Wigston Band</band>
+      <conductor id="298239">Robert Boulter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

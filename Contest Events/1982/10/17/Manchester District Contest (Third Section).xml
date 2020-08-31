@@ -1,0 +1,55 @@
+<contest-event id="30618">
+  <event-date date="1982-10-17">Oct. 17, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Third Section)</name>
+  <contest id="1292">
+    <name>Manchester District Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="147">Divertimento [Kelly]</test-piece>
+  </test-piece>
+
+  <venue id="26">Radisson Blu Edwardian Manchester Hotel, Manchester, Greater Manchester, England, UK</venue>
+  <notes>Prizes - 1st £100 and cup, 2nd £50 and cup, 3rd £25 and cup.
+4 bands competed.</notes>
+
+  <created>Dec. 12, 2014, 12:38 a.m.</created>
+  <last-modified>Jan. 12, 2015, 10:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="216526">
+      <result code="1">1</result>
+      <band id="189">Delph Band</band>
+      <conductor id="301966">Philip Goodwin</conductor>
+    </result>
+    
+    <result id="216527">
+      <result code="2">2</result>
+      <band id="4832">Burnage Junior</band>
+      <conductor id="306673">Gary Newborough</conductor>
+    </result>
+    
+    <result id="216528">
+      <result code="3">3</result>
+      <band id="2712">East Manchester</band>
+      <conductor id="311228">Ernie Wedgewood</conductor>
+    </result>
+    
+    <result id="216529">
+      <result code="4">4</result>
+      <band id="765">Moston &amp; Beswick Band</band>
+      <conductor id="301799">Brian Gilbert</conductor>
+    </result>
+    
+  </results>
+</contest-event>

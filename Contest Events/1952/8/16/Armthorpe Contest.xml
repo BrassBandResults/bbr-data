@@ -1,0 +1,67 @@
+<contest-event id="18434">
+  <event-date date="1952-8-16">Aug. 16, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Armthorpe Contest</name>
+  <contest id="3909">
+    <name>Armthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>armthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1070">Mignonne</test-piece>
+  </test-piece>
+
+  <venue id="3123">Armthorpe, West Riding, Yorkshire</venue>
+  <notes>
+  Prizes 1st £25, 2nd £12, 3rd £8.
+
+  March contest  1st Woolley Colliery,  2nd Thurlstone Colliery.
+
+  Deportment  1st Houghton Main, 2nd Thurlstone Colliery.
+
+  </notes>
+
+  <created>Feb. 21, 2013, 7:45 p.m.</created>
+  <last-modified>Feb. 21, 2013, 7:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="138871">
+      <result code="1">1</result>
+      <band id="1666">Woolley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138872">
+      <result code="2">2</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138873">
+      <result code="3">3</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138874">
+      <result code="">Unknown Result</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138875">
+      <result code="">Unknown Result</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

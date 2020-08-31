@@ -1,0 +1,95 @@
+<contest-event id="17500">
+  <event-date date="1886-8-21">Aug. 21, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1893">Lyric Garland</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>Luddendenfoot Floral and Horticultural Society Show
+
+Prizes: £7 and 9 guinea cornet, £5 and 7 guinea trombone, £4, £2, £1
+
+Quickstep: 1. Oatsroyd, 2. Copley
+</notes>
+
+  <created>Jan. 21, 2013, 1:55 p.m.</created>
+  <last-modified>Jan. 21, 2013, 2 p.m.</last-modified>
+
+  <results>
+    
+    <result id="133029">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="133033">
+      <result code="2">2</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133034">
+      <result code="3">3</result>
+      <band id="2518">Great Horton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133032">
+      <result code="4">4</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133035">
+      <result code="5">5</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133031">
+      <result code="">Unknown Result</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133037">
+      <result code="">Unknown Result</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310060">James Tabbron</conductor>
+    </result>
+    
+    <result id="133028">
+      <result code="">Unknown Result</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133030">
+      <result code="">Unknown Result</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133036">
+      <result code="">Unknown Result</result>
+      <band id="3306">Royton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

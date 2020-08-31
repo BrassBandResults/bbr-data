@@ -1,0 +1,79 @@
+<contest-event id="38874">
+  <event-date date="1887-7-9">July 9, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bolton Contest</name>
+  <contest id="2826">
+    <name>Bolton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bolton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4435">Bolton, Greater Manchester, England, UK</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Nov. 28, 2017, 3:34 p.m.</created>
+  <last-modified>May 10, 2019, 11:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="282893">
+      <result code="1">1</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="303273">Harry L. Holding</conductor>
+      <test-piece id="2184">&#39;Worthy is the Lamb&#39; and &quot;Amen&quot; from The Messiah</test-piece>
+    </result>
+    
+    <result id="282894">
+      <result code="2">2</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="307344">W. Pendlebury</conductor>
+      <test-piece id="2774">Chorus: &quot;The Heavens are Telling&quot;, from The Creation [arr. Round]</test-piece>
+    </result>
+    
+    <result id="282895">
+      <result code="3">3</result>
+      <band id="16547">Brownlow Fold</band>
+      <conductor id="310191">Thomas Taylor</conductor>
+      <test-piece id="1693">Hallelujah Chorus [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="282896">
+      <result code="4">4</result>
+      <band id="2790">Bradshaw Band</band>
+      <conductor id="309465">W. Smith</conductor>
+      <test-piece id="2774">Chorus: &quot;The Heavens are Telling&quot;, from The Creation [arr. Round]</test-piece>
+    </result>
+    
+    <result id="282897">
+      <result code="">Unknown Result</result>
+      <band id="7899">Bolton St. Mary&#39;s</band>
+      <conductor id="296903">Mr Allen</conductor>
+      <test-piece id="1693">Hallelujah Chorus [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="282898">
+      <result code="D">Disqualified</result>
+      <band id="11382">Egerton Street Wesleyan Sale</band>
+      <conductor id="310191">Thomas Taylor</conductor>
+      <test-piece id="1693">Hallelujah Chorus [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="282899">
+      <result code="D">Disqualified</result>
+      <band id="4064">M.S. and L. Railway Gorton</band>
+      <conductor id="301610">Joseph Gaggs</conductor>
+      <test-piece id="2774">Chorus: &quot;The Heavens are Telling&quot;, from The Creation [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

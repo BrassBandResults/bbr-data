@@ -1,0 +1,61 @@
+<contest-event id="34306">
+  <event-date date="1961-11-11">Nov. 11, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Horden Contest</name>
+  <contest id="4009">
+    <name>Horden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>horden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2921">La Traviata [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3204">Horden Workmen&#39;s Club, County Durham</venue>
+  <notes>March contest - 1st Handen Hold, 2nd Murton.
+7 bands competed.</notes>
+
+  <created>March 5, 2016, 12:36 p.m.</created>
+  <last-modified>March 8, 2016, 9:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="247627">
+      <result code="1">1</result>
+      <band id="1921">Dawdon Lodge</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="247628">
+      <result code="2">2</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="304194">E. Jones</conductor>
+    </result>
+    
+    <result id="247629">
+      <result code="3">3</result>
+      <band id="3360">Wheatley Hill Colliery</band>
+      <conductor id="318189">J. Rutter</conductor>
+    </result>
+    
+    <result id="247630">
+      <result code="">Unknown Result</result>
+      <band id="5316">Handen Hold Colliery</band>
+      <conductor id="305942">A. McLean</conductor>
+    </result>
+    
+    <result id="247631">
+      <result code="">Unknown Result</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="306707">H. Nichol</conductor>
+    </result>
+    
+  </results>
+</contest-event>

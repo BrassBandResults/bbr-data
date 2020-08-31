@@ -1,0 +1,55 @@
+<contest-event id="23157">
+  <event-date date="1902-7-5">July 5, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Motherwell Contest</name>
+  <contest id="2171">
+    <name>Motherwell Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>motherwell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1582">Motherwell, North Lanarkshire, Scotland, UK</venue>
+  <notes>Prizes - 1st £12, 2nd £8, 3rd £4, 4th £2.
+4 bands competed.</notes>
+
+  <created>Aug. 19, 2013, 9:18 p.m.</created>
+  <last-modified>July 5, 2018, 9:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170364">
+      <result code="1">1</result>
+      <band id="1270">Newmains</band>
+      <conductor id="314271">E. Sutton</conductor>
+    </result>
+    
+    <result id="170365">
+      <result code="2">2</result>
+      <band id="1988">Cleland</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="170366">
+      <result code="3">3</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="170367">
+      <result code="4">4</result>
+      <band id="4803">Darvel Burgh</band>
+      <conductor id="307317">Henry Peckham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

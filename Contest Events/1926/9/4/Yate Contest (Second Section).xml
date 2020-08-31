@@ -1,0 +1,62 @@
+<contest-event id="25590">
+  <event-date date="1926-9-4">Sept. 4, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yate Contest (Second Section)</name>
+  <contest id="4988">
+    <name>Yate Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>yate-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1302">Highland Memories</test-piece>
+  </test-piece>
+
+  <venue id="2171">Yate, Gloucestershire, England, UK</venue>
+  <notes>Gloucestershire bands only.
+Prizes - 1st £6, 2nd £4, 3rd £2.
+5 bands competed</notes>
+
+  <created>Dec. 11, 2013, 11:05 p.m.</created>
+  <last-modified>Nov. 14, 2018, 9:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185487">
+      <result code="1">1</result>
+      <band id="1255">Stinchcombe Band</band>
+      <conductor id="301599">H. Fussell</conductor>
+    </result>
+    
+    <result id="185488">
+      <result code="2">2</result>
+      <band id="2070">Hambrook Silver</band>
+      <conductor id="301451">A. Fowler</conductor>
+    </result>
+    
+    <result id="185489">
+      <result code="3">3</result>
+      <band id="11737">Filton</band>
+      <conductor id="306900">E. Ogborne</conductor>
+    </result>
+    
+    <result id="299894">
+      <result code="">Unknown Result</result>
+      <band id="8700">Fairford Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299895">
+      <result code="">Unknown Result</result>
+      <band id="7611">Hall of Freedom (Bristol)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

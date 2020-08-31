@@ -1,0 +1,72 @@
+<contest-event id="10274">
+  <event-date date="1905-7-15">July 15, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Auckland Park Contest</name>
+  <contest id="1921">
+    <name>Auckland Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>auckland-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1662">Echoes of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="1359">Auckland Park, Bishop Auckland</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Feb. 13, 2012, 3:11 p.m.</created>
+  <last-modified>June 18, 2020, 2:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="86783">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="86784">
+      <result code="2">2</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">J. A. Mutton</conductor>
+    </result>
+    
+    <result id="86785">
+      <result code="3">3</result>
+      <band id="6271">Butterknowle</band>
+      <conductor id="310203">Joseph Teasdale</conductor>
+    </result>
+    
+    <result id="86786">
+      <result code="4">4</result>
+      <band id="6690">Auckland Park</band>
+      <conductor id="308895">T. Sellars</conductor>
+    </result>
+    
+    <result id="86789">
+      <result code="5">5</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="86787">
+      <result code="6">6</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="86788">
+      <result code="7">7</result>
+      <band id="6632">Browney Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

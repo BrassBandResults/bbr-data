@@ -1,0 +1,72 @@
+<contest-event id="17037">
+  <event-date date="1953-5-23">May 23, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="239">Rhapsody in Brass</test-piece>
+  </test-piece>
+
+  <venue id="3084">Welfare Hall, Gwaun-cae-Gurwen</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Dec. 14, 2012, 4:30 p.m.</created>
+  <last-modified>April 12, 2019, 2:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="129737">
+      <result code="1">1</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="308803">William Scholes</conductor>
+    </result>
+    
+    <result id="139621">
+      <result code="2">2</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="139622">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310873">B. Wainwright</conductor>
+    </result>
+    
+    <result id="139623">
+      <result code="4">4</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="304261">Oliver Jones</conductor>
+    </result>
+    
+    <result id="139624">
+      <result code="">Unknown Result</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="139625">
+      <result code="">Unknown Result</result>
+      <band id="285">Tongwynlais Temperance Band</band>
+      <conductor id="306339">Harold Morgan</conductor>
+    </result>
+    
+    <result id="139626">
+      <result code="W">Withdrawn</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

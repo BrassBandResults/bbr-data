@@ -1,0 +1,55 @@
+<contest-event id="24873">
+  <event-date date="1960-10-8">Oct. 8, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SCABA Autumn Contest (Second Section)</name>
+  <contest id="4856">
+    <name>Godalming Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>godalming-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="430">The Princess and the Poet</test-piece>
+  </test-piece>
+
+  <venue id="3255">Borough Hall, Godalming, Surrey, England, UK</venue>
+  <notes>  Hymn Tune contest - 1st Southsea, 2nd Snowdown, 3rd Verwood.
+12th annual contest.</notes>
+
+  <created>Nov. 4, 2013, 4:26 p.m.</created>
+  <last-modified>May 19, 2014, 10:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="198631">
+      <result code="1">1</result>
+      <band id="833">Snowdown Colliery Welfare Band</band>
+      <conductor id="309383">J. Smith</conductor>
+    </result>
+    
+    <result id="181669">
+      <result code="2">2</result>
+      <band id="1307">Luckett&#39;s Travel (Southsea)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181670">
+      <result code="3">3</result>
+      <band id="614">St. Sebastian Wokingham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181671">
+      <result code="">Unknown Result</result>
+      <band id="362">Verwood Concert Brass</band>
+      <conductor id="304537">Cliff Kingshott</conductor>
+    </result>
+    
+  </results>
+</contest-event>

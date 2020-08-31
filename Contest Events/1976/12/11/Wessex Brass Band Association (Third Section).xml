@@ -1,0 +1,60 @@
+<contest-event id="13456">
+  <event-date date="1976-12-11">Dec. 11, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Third Section)</name>
+  <contest id="172">
+    <name>Wessex Brass Band Association (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="130">Partita [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="261">Winter Gardens, Bournemouth, Dorset, England, UK</venue>
+  <notes></notes>
+
+  <created>May 13, 2012, 8:16 p.m.</created>
+  <last-modified>May 13, 2012, 8:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106744">
+      <result code="1">1</result>
+      <band id="284">Bournemouth Concert Brass</band>
+      <conductor id="298728">Cyril Bulled</conductor>
+    </result>
+    
+    <result id="106747">
+      <result code="2">2</result>
+      <band id="310">Hyde Band</band>
+      <conductor id="310089">D. Tanner</conductor>
+    </result>
+    
+    <result id="106745">
+      <result code="3">3</result>
+      <band id="1263">Calne Silver Band</band>
+      <conductor id="309793">Mervyn Stiles</conductor>
+    </result>
+    
+    <result id="106748">
+      <result code="4">4</result>
+      <band id="8380">Redbridge (Southampton) Concert</band>
+      <conductor id="300018">Gordon Cutler</conductor>
+    </result>
+    
+    <result id="106746">
+      <result code="">Unknown Result</result>
+      <band id="1285">Chard Concert Brass</band>
+      <conductor id="302000">H. W. Govier</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="4933">
+  <event-date date="1970-5-9">May 9, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Eastern Area (Fourth Section)</name>
+  <contest id="20">
+    <name>Yorkshire Area (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="552">Portrait of Brunel</test-piece>
+  </test-piece>
+
+  <venue id="634">Leeds Town Hall, Leeds, West Yorkshire, England, UK</venue>
+  <notes>Prizes: 1st: £10 2nd: £5 3rd: £4 </notes>
+
+  <created>March 18, 2011, 2:15 a.m.</created>
+  <last-modified>March 16, 2018, 2:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="43020">
+      <result code="1">1</result>
+      <band id="3141">Scarborough Town</band>
+      <conductor id="304762">L. Lambeth</conductor>
+    </result>
+    
+    <result id="43021">
+      <result code="2">2</result>
+      <band id="147">Emley Brass Band</band>
+      <conductor id="311306">Charlie Westerby</conductor>
+    </result>
+    
+    <result id="43022">
+      <result code="3">3</result>
+      <band id="442">Grimethorpe Colliery Junior Band</band>
+      <conductor id="310317">Barry Thompson</conductor>
+    </result>
+    
+    <result id="43023">
+      <result code="4">4</result>
+      <band id="278">Polypipe Rossington Band</band>
+      <conductor id="310461">A. Titmarsh</conductor>
+    </result>
+    
+    <result id="43026">
+      <result code="">Unknown Result</result>
+      <band id="1549">Sam Smiths Old Brewery</band>
+      <conductor id="301191">Frank Fenton</conductor>
+    </result>
+    
+    <result id="43024">
+      <result code="">Unknown Result</result>
+      <band id="2677">Gomersal Mills</band>
+      <conductor id="310907">J. Walker</conductor>
+    </result>
+    
+    <result id="43025">
+      <result code="">Unknown Result</result>
+      <band id="150">Maltby Miners Welfare Band</band>
+      <conductor id="304237">Jonny Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

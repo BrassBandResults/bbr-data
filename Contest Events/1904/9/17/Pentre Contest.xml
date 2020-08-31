@@ -1,0 +1,52 @@
+<contest-event id="40243">
+  <event-date date="1904-9-17">Sept. 17, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pentre Contest</name>
+  <contest id="6013">
+    <name>Pentre Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pentre-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1663">Gems of Sir Henry Bishop</test-piece>
+  </test-piece>
+
+  <venue id="3742">Ynys Field, Ton, Pentre</venue>
+  <notes>Promoted by Cory band.
+Prizes - 1st £7, 2nd £4, 3rd £2.
+Best trombone and euphonium - Cwmparc.
+Best cornet - Mountain Ash.
+3 bands competed.</notes>
+
+  <created>Sept. 3, 2018, 3:42 p.m.</created>
+  <last-modified>Sept. 3, 2018, 3:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="292634">
+      <result code="1">1</result>
+      <band id="6595">Cwmparc</band>
+      <conductor id="310156">J. C. Taylor</conductor>
+    </result>
+    
+    <result id="292633">
+      <result code="2">2</result>
+      <band id="6596">Deri</band>
+      <conductor id="297821">Henry Bentley</conductor>
+    </result>
+    
+    <result id="292635">
+      <result code="3">3</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="318453">William Breese</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="31460">
+  <event-date date="2015-3-21">March 21, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>FDF Koncertstævne</name>
+  <contest id="1268">
+    <name>FDF Koncertstævne</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>fdf-koncertstvne</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5791">Odense, Southern Denmark, Denmark</venue>
+  <notes></notes>
+
+  <created>March 23, 2015, 1:20 p.m.</created>
+  <last-modified>March 23, 2015, 8:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="223715">
+      <result code="1">1</result>
+      <band id="10877">FDF Christianshavn Musikkreds</band>
+      <conductor id="304719">Rasmus Kærsgaard</conductor>
+    </result>
+    
+    <result id="223716">
+      <result code="2">2</result>
+      <band id="1603">FDF Århus Musikkreds Brass Band</band>
+      <conductor id="304598">Simon Kjærgaard</conductor>
+    </result>
+    
+    <result id="223717">
+      <result code="3">3</result>
+      <band id="2128">Frederikshavn FDF Brass Band</band>
+      <conductor id="306848">Henrik Næser</conductor>
+    </result>
+    
+    <result id="223719">
+      <result code="4">4</result>
+      <band id="10878">FDF Odense Musikkreds</band>
+      <conductor id="310409">Michael Thrane</conductor>
+    </result>
+    
+    <result id="223718">
+      <result code="4">4</result>
+      <band id="2129">FDF Gladsaxe Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="223720">
+      <result code="6">6</result>
+      <band id="12559">FDF Grenaa Brass Band</band>
+      <conductor id="307797">Peter Præstholm</conductor>
+    </result>
+    
+    <result id="223721">
+      <result code="7">7</result>
+      <band id="3012">FDF Bjerringbro Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

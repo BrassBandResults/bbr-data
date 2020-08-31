@@ -1,0 +1,75 @@
+<contest-event id="25861">
+  <event-date date="1937-7-17">July 17, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marple Contest</name>
+  <contest id="5025">
+    <name>Marple Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marple-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1073">The Call of Youth</test-piece>
+  </test-piece>
+
+  <venue id="4387">Jolly Sailor Field, Marple, Cheshire</venue>
+  <notes>  Prizes - 1st £8, 2nd £5, 3rd £2.
+  March contest 1st(£1) Oldham Postal.
+  Promoted by Marple Prize Band.
+  7 bands competed.</notes>
+
+  <created>Jan. 13, 2014, 2:21 p.m.</created>
+  <last-modified>Oct. 19, 2016, 2:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187419">
+      <result code="1">1</result>
+      <band id="1872">Oldham RBL Concert Band</band>
+      <conductor id="299692">Robert Cooper</conductor>
+    </result>
+    
+    <result id="187420">
+      <result code="2">2</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="303758">Thomas Hynes</conductor>
+    </result>
+    
+    <result id="187421">
+      <result code="3">3</result>
+      <band id="2684">Alderley Edge</band>
+      <conductor id="299692">Robert Cooper</conductor>
+    </result>
+    
+    <result id="187422">
+      <result code="4">4</result>
+      <band id="189">Delph Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187423">
+      <result code="5">5</result>
+      <band id="3592">Stockport L.M.S.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187424">
+      <result code="">Unknown Result</result>
+      <band id="8298">Gorton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187425">
+      <result code="">Unknown Result</result>
+      <band id="5271">Helmshore Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="21270">
+  <event-date date="1936-5-9">May 9, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 4)</name>
+  <contest id="1045">
+    <name>Royal Tunbridge Wells Contest (Section 4)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-4</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1089">Country Life</test-piece>
+  </test-piece>
+
+  <venue id="2759">Tunbridge Wells, Kent</venue>
+  <notes>15th annual contest
+  4 bands competed.</notes>
+
+  <created>May 10, 2013, 7:39 a.m.</created>
+  <last-modified>Jan. 9, 2019, 9:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="156856">
+      <result code="1">1</result>
+      <band id="4661">Warbleton &amp; Buxted Silver</band>
+      <conductor id="305650">A. F. Martin</conductor>
+    </result>
+    
+    <result id="156857">
+      <result code="2">2</result>
+      <band id="8577">Chiddingly</band>
+      <conductor id="299529">W. Coleman</conductor>
+    </result>
+    
+    <result id="182515">
+      <result code="">Unknown Result</result>
+      <band id="11420">Horsmonden British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182516">
+      <result code="">Unknown Result</result>
+      <band id="10719">Malling Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

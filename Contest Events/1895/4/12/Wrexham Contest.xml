@@ -1,0 +1,49 @@
+<contest-event id="12348">
+  <event-date date="1895-4-12">April 12, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wrexham Contest</name>
+  <contest id="1552">
+    <name>Wrexham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wrexham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1815">Hail Apollo</test-piece>
+  </test-piece>
+
+  <venue id="1217">Powis Hall, Wrexham, Denbighshire, Wales, UK</venue>
+  <notes>3 bands competed
+Quickstep: 1. Wrexham</notes>
+
+  <created>April 12, 2012, 8:18 p.m.</created>
+  <last-modified>June 17, 2019, 8:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98808">
+      <result code="1">1</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+    <result id="98809">
+      <result code="1">1</result>
+      <band id="7613">Wrexham Borough</band>
+      <conductor id="310643">George Turner</conductor>
+    </result>
+    
+    <result id="264599">
+      <result code="3">3</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

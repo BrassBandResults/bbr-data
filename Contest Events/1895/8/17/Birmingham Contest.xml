@@ -1,0 +1,67 @@
+<contest-event id="12634">
+  <event-date date="1895-8-17">Aug. 17, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Contest</name>
+  <contest id="1401">
+    <name>Birmingham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="277">Birmingham Contest</group>
+    <slug>birmingham-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2152">Edgbaston, Birmingham</venue>
+  <notes>March contest: 1. Wednesbury Crown, 2. Prince&#39;s End
+11 bands competed</notes>
+
+  <created>April 18, 2012, 4:42 p.m.</created>
+  <last-modified>June 24, 2019, 6:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100722">
+      <result code="1">1</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="297529">A. E. Barnsley</conductor>
+    </result>
+    
+    <result id="100723">
+      <result code="2">2</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="310289">J. W. Thomas</conductor>
+    </result>
+    
+    <result id="100725">
+      <result code="3">3</result>
+      <band id="5989">Willenhall Britannia Band</band>
+      <conductor id="308289">James Roberts</conductor>
+    </result>
+    
+    <result id="100724">
+      <result code="3">3</result>
+      <band id="4417">Wednesbury Borough</band>
+      <conductor id="310285">John Thomas</conductor>
+    </result>
+    
+    <result id="100726">
+      <result code="5">5</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="311403">John T. White</conductor>
+    </result>
+    
+    <result id="197491">
+      <result code="">Unknown Result</result>
+      <band id="12064">Upper Stoke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

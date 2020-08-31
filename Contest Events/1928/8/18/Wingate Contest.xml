@@ -1,0 +1,49 @@
+<contest-event id="24177">
+  <event-date date="1928-8-18">Aug. 18, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wingate Contest</name>
+  <contest id="2527">
+    <name>Wingate Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wingate-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1881">Wingate, County Durham</venue>
+  <notes>  March contest - 1st Blackhall, 2nd Easington, 3rd Brandon.
+  3 bands competed.</notes>
+
+  <created>Oct. 1, 2013, 11:16 a.m.</created>
+  <last-modified>Oct. 1, 2013, 11:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176338">
+      <result code="1">1</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="300254">Wilfred Dawson</conductor>
+    </result>
+    
+    <result id="176339">
+      <result code="2">2</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="176340">
+      <result code="3">3</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+  </results>
+</contest-event>

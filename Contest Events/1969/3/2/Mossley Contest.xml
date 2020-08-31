@@ -1,0 +1,82 @@
+<contest-event id="30539">
+  <event-date date="1969-3-2">March 2, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mossley Contest</name>
+  <contest id="2453">
+    <name>Mossley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mossley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1813">George Lawton Hall, Mossley</venue>
+  <notes>March contest - 1st Goodshaw.
+Prizes - 1st £20 and trophy, 2nd £10 and cup, 3rd £5 and trophy,.
+Best cornet and soprano - Stalybridge.
+8 bands competed.
+11th annual contest.</notes>
+
+  <created>Dec. 5, 2014, 2:15 p.m.</created>
+  <last-modified>June 17, 2016, 3:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="215989">
+      <result code="1">1</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="215990">
+      <result code="2">2</result>
+      <band id="3384">Lockwood Band (Huddersfield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="215991">
+      <result code="3">3</result>
+      <band id="1309">British Aerospace (Chadderton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="256805">
+      <result code="">Unknown Result</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="256807">
+      <result code="">Unknown Result</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="256806">
+      <result code="">Unknown Result</result>
+      <band id="227">Golborne Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="215992">
+      <result code="">Unknown Result</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="256808">
+      <result code="">Unknown Result</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

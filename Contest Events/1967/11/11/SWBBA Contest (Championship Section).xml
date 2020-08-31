@@ -1,0 +1,48 @@
+<contest-event id="20100">
+  <event-date date="1967-11-11">Nov. 11, 1967<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Championship Section)</name>
+  <contest id="732">
+    <name>SWBBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1165">Les Preludes [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="413">Queen&#39;s Theatre, Barnstaple, Devon, England, UK</venue>
+  <notes>  Hymn tune contest(Davinia Lorraine - specially composed by Drake Rimmer to celebrate 21st anniversary contest) 1st St Austell, 2nd Bodmin Town.</notes>
+
+  <created>March 30, 2013, 2:06 p.m.</created>
+  <last-modified>March 30, 2013, 2:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149580">
+      <result code="1">1</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="149581">
+      <result code="2">2</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="308106">A. G. Richards</conductor>
+    </result>
+    
+    <result id="149582">
+      <result code="3">3</result>
+      <band id="539">Bugle Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

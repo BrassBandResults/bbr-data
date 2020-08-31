@@ -1,0 +1,61 @@
+<contest-event id="26494">
+  <event-date date="1950-7-1">July 1, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cirencester Contest (Second Section)</name>
+  <contest id="3892">
+    <name>Cirencester Contest (Second Section)</name>
+    <order>220</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="400">Cirencester Contest</group>
+    <slug>cirencester-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1086">The Viking [Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="3112">Cirencester, Gloucestershire, England, UK</venue>
+  <notes>March contest - 1st Chipping Norton, 2nd Cheltenham Spa, 3rd Lydbrook.
+</notes>
+
+  <created>Feb. 21, 2014, 11:09 a.m.</created>
+  <last-modified>Feb. 21, 2014, 12:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="192003">
+      <result code="1">1</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="297521">Neville Barnett</conductor>
+    </result>
+    
+    <result id="192004">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="297033">K. Andrew</conductor>
+    </result>
+    
+    <result id="192005">
+      <result code="3">3</result>
+      <band id="2842">Chipping Norton Silver Band </band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192006">
+      <result code="">Unknown Result</result>
+      <band id="565">Cheltenham Silver</band>
+      <conductor id="300064">James Dalton</conductor>
+    </result>
+    
+    <result id="192007">
+      <result code="">Unknown Result</result>
+      <band id="2070">Hambrook Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

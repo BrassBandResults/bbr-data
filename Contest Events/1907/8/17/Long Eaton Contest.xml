@@ -1,0 +1,87 @@
+<contest-event id="11647">
+  <event-date date="1907-8-17">Aug. 17, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Long Eaton Contest</name>
+  <contest id="1577">
+    <name>Long Eaton Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="327">Long Eaton Contest</group>
+    <slug>long-eaton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1042">Long Eaton, Derbyshire</venue>
+  <notes>1st prize £20, 2nd prize £10, 3rd prize £5, 4th prize £2.
+8 bands competed.</notes>
+
+  <created>April 5, 2012, 4:51 p.m.</created>
+  <last-modified>Sept. 19, 2018, 10:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94746">
+      <result code="1">1</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="94747">
+      <result code="2">2</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="94748">
+      <result code="3">3</result>
+      <band id="1214">Loughborough</band>
+      <conductor id="302386">A. Gilbert</conductor>
+      <test-piece id="1674">Daughter of the Regiment [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="94749">
+      <result code="4">4</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="302435">George Hallam</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="94752">
+      <result code="">Unknown Result</result>
+      <band id="3524">Derby United</band>
+      <conductor id="302841">James Haywood</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="94750">
+      <result code="">Unknown Result</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="94753">
+      <result code="">Unknown Result</result>
+      <band id="5193">Shepshed Town</band>
+      <conductor id="299211">J. Chapman</conductor>
+      <test-piece id="1674">Daughter of the Regiment [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="94751">
+      <result code="">Unknown Result</result>
+      <band id="7870">Long Eaton Town Band</band>
+      <conductor id="301210">R. Few</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,75 @@
+<contest-event id="20947">
+  <event-date date="1972-5-20">May 20, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glasgow Charities Contest</name>
+  <contest id="680">
+    <name>Glasgow Charities Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>glasgow-charities-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="19">Clydebank Town Hall</venue>
+  <notes>  Best section 2 band - Bo&#39;ness and Carriden.
+  Best section 3 band - Shotts St Patrick.
+  Best section 4 band - Armadale.
+  17 bands competed.</notes>
+
+  <created>April 30, 2013, 6:36 a.m.</created>
+  <last-modified>April 30, 2013, 6:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="155188">
+      <result code="1">1</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="155189">
+      <result code="2">2</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="155190">
+      <result code="3">3</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="155191">
+      <result code="4">4</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="155194">
+      <result code="">Unknown Result</result>
+      <band id="2103">Armadale Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="155192">
+      <result code="">Unknown Result</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="155193">
+      <result code="">Unknown Result</result>
+      <band id="664">Shotts St Patrick&#39;s Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

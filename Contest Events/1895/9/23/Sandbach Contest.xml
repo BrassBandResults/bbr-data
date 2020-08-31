@@ -1,0 +1,60 @@
+<contest-event id="12726">
+  <event-date date="1895-9-23">Sept. 23, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sandbach Contest</name>
+  <contest id="2373">
+    <name>Sandbach Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sandbach-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1727">Sandbach, Cheshire, England, UK</venue>
+  <notes>March contest: 1. Widnes, 2. Mossley</notes>
+
+  <created>April 19, 2012, 9:56 p.m.</created>
+  <last-modified>April 19, 2012, 9:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101303">
+      <result code="1">1</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="299065">John Frederick Carter</conductor>
+    </result>
+    
+    <result id="101304">
+      <result code="2">2</result>
+      <band id="4092">Rist&#39;s Cable Works</band>
+      <conductor id="305068">Joseph Lewis</conductor>
+    </result>
+    
+    <result id="101305">
+      <result code="3">3</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="101307">
+      <result code="4">4</result>
+      <band id="8033">Congleton Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101306">
+      <result code="4">4</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

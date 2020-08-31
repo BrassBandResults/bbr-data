@@ -1,0 +1,86 @@
+<contest-event id="37984">
+  <event-date date="1904-6-4">June 4, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Slaithwaite Contest</name>
+  <contest id="1840">
+    <name>Slaithwaite Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>slaithwaite-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3559">Pleasure Grounds, Slaithwaite, Yorkshire</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £6, 3rd £4, 4th £2, 5th £1.
+March contest: 1. Lindley, 2. Shipley.
+9 bands competed</notes>
+
+  <created>May 18, 2017, 4:02 p.m.</created>
+  <last-modified>June 4, 2020, 9:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="274406">
+      <result code="1">1</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="274407">
+      <result code="2">2</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="274408">
+      <result code="3">3</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="274409">
+      <result code="4">4</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="305217">Ben Lodge</conductor>
+    </result>
+    
+    <result id="274410">
+      <result code="5">5</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="274414">
+      <result code="6">6</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="308960">Walter Sharpe</conductor>
+    </result>
+    
+    <result id="274412">
+      <result code="7">7</result>
+      <band id="140">Dodworth Colliery MW Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="274413">
+      <result code="7">7</result>
+      <band id="1863">New Mills Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="274411">
+      <result code="9">9</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="296981">A. Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,58 @@
+<contest-event id="34720">
+  <event-date date="1982-4-10">April 10, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="826">Doon Valley</test-piece>
+  </test-piece>
+
+  <venue id="6060">Townsville, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>March 21, 2016, 2:42 a.m.</created>
+  <last-modified>March 23, 2020, 11:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="250484">
+      <result code="1">1</result>
+      <band id="6569">Thuringowa Brass</band>
+      <conductor id="304118">Vic Johnson</conductor>
+      <test-piece id="162">Mexican Fiesta</test-piece>
+    </result>
+    
+    <result id="316459">
+      <result code="2">2</result>
+      <band id="13427">Home Hill Concert</band>
+      <conductor id="317853">Jim Verner</conductor>
+      <test-piece id="2063">Life&#39;s Treasures</test-piece>
+    </result>
+    
+    <result id="250486">
+      <result code="3">3</result>
+      <band id="9351">Herbert River Brass</band>
+      <conductor id="301985">A. Gosling</conductor>
+      <test-piece id="1017">Thanet Seascapes</test-piece>
+    </result>
+    
+    <result id="250487">
+      <result code="4">4</result>
+      <band id="18026">Mareeba Brass</band>
+      <conductor id="303920">John James</conductor>
+      <test-piece id="646">London River</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

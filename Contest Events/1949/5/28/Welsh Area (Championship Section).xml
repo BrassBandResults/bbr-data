@@ -1,0 +1,54 @@
+<contest-event id="17040">
+  <event-date date="1949-5-28">May 28, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="606">Morning Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="3069">Great Central Hall, Newport, Monmouthshire</venue>
+  <notes>  4 bands competed.</notes>
+
+  <created>Dec. 14, 2012, 4:33 p.m.</created>
+  <last-modified>May 11, 2016, 11:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="129740">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+    <result id="137241">
+      <result code="2">2</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="304261">Oliver Jones</conductor>
+    </result>
+    
+    <result id="137242">
+      <result code="3">3</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="312039">Denis Wright</conductor>
+    </result>
+    
+    <result id="254063">
+      <result code="4">4</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,102 @@
+<contest-event id="10869">
+  <event-date date="2015-3-8">March 8, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Area (Fourth Section)</name>
+  <contest id="20">
+    <name>Yorkshire Area (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="5">Fourth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3147">An English Pastorale</test-piece>
+  </test-piece>
+
+  <venue id="59">St. George&#39;s Hall, Bradford, West Yorkshire, England, UK</venue>
+  <notes>*Top 2 bands qualify for National Final</notes>
+
+  <created>March 9, 2012, 12:11 p.m.</created>
+  <last-modified>March 9, 2015, 6:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="192425">
+      <result code="1">1</result>
+      <band id="265">BD1 Brass</band>
+      <conductor id="309218">Lee Skipsey</conductor>
+    </result>
+    
+    <result id="192428">
+      <result code="2">2</result>
+      <band id="153">Oughtibridge Band</band>
+      <conductor id="309525">Gavin Somerset</conductor>
+    </result>
+    
+    <result id="192429">
+      <result code="3">3</result>
+      <band id="157">Lofthouse 2000 Brass Band</band>
+      <conductor id="311360">Andrew Whitaker</conductor>
+    </result>
+    
+    <result id="192432">
+      <result code="4">4</result>
+      <band id="979">Gawthorpe Brass 85</band>
+      <conductor id="300757">John Edward</conductor>
+    </result>
+    
+    <result id="192427">
+      <result code="5">5</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="309867">Rob Straw</conductor>
+    </result>
+    
+    <result id="220555">
+      <result code="6">6</result>
+      <band id="3485">Loxley Silver Band</band>
+      <conductor id="300614">Lee Dunkley</conductor>
+    </result>
+    
+    <result id="192434">
+      <result code="7">7</result>
+      <band id="266">Deepcar Brass Band</band>
+      <conductor id="303420">John Hopkinson</conductor>
+    </result>
+    
+    <result id="192430">
+      <result code="8">8</result>
+      <band id="148">Huddersfield and Ripponden Brass</band>
+      <conductor id="311624">Helen Williams</conductor>
+    </result>
+    
+    <result id="220556">
+      <result code="9">9</result>
+      <band id="159">Tingley Brass</band>
+      <conductor id="301455">Geoff Fowler</conductor>
+    </result>
+    
+    <result id="192426">
+      <result code="10">10</result>
+      <band id="160">Thurcroft Welfare</band>
+      <conductor id="312055">Mathew Wright</conductor>
+    </result>
+    
+    <result id="192433">
+      <result code="11">11</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="308367">Neil Robinson</conductor>
+    </result>
+    
+    <result id="192431">
+      <result code="W">Withdrawn</result>
+      <band id="907">Golcar Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="28524">
+  <event-date date="1938-10-22">Oct. 22, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wadhurst Contest (Section 2)</name>
+  <contest id="4814">
+    <name>Wadhurst Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="6">March &amp; Hymn Contest</contest-type>
+    <group id="511">Wadhurst Contest</group>
+    <slug>wadhurst-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4182">Wadhurst, Sussex</venue>
+  <notes>Hymn: 1. Sevenoaks, 2. West Chiltington</notes>
+
+  <created>June 11, 2014, 10:46 p.m.</created>
+  <last-modified>June 11, 2014, 10:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="203064">
+      <result code="1">1</result>
+      <band id="3962">West Chiltington Silver Band</band>
+      <conductor id="299249">C. M. Chatfield</conductor>
+    </result>
+    
+    <result id="203065">
+      <result code="2">2</result>
+      <band id="4660">Billingshurst</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="203066">
+      <result code="">Unknown Result</result>
+      <band id="11780">Sevenoaks Town</band>
+      <conductor id="300613">A. Dunkley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

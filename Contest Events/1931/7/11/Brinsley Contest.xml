@@ -1,0 +1,62 @@
+<contest-event id="41568">
+  <event-date date="1931-7-11">July 11, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brinsley Contest</name>
+  <contest id="4695">
+    <name>Brinsley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brinsley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2869">La Favorita</test-piece>
+  </test-piece>
+
+  <venue id="4067">Brinsley, Nottinghamshire</venue>
+  <notes>March contest - 1st Pleasley, 2nd Stanton.
+Prizes - 1st £10 and cup, 2nd £5, 3rd £2.10s.
+6 bands competed</notes>
+
+  <created>Dec. 16, 2018, 10:50 a.m.</created>
+  <last-modified>Dec. 16, 2018, 10:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="302457">
+      <result code="1">1</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="310654">John Turner</conductor>
+    </result>
+    
+    <result id="302458">
+      <result code="2">2</result>
+      <band id="10696">Turner&#39;s G.R.</band>
+      <conductor id="309664">E. J. Stanway</conductor>
+    </result>
+    
+    <result id="302459">
+      <result code="3">3</result>
+      <band id="512">Pleasley Colliery Welfare Band</band>
+      <conductor id="304761">Bert Lambeth</conductor>
+    </result>
+    
+    <result id="302461">
+      <result code="">Unknown Result</result>
+      <band id="8543">Shipley Collieries</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302460">
+      <result code="">Unknown Result</result>
+      <band id="8411">Whitwell British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

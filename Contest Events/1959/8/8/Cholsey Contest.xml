@@ -1,0 +1,70 @@
+<contest-event id="21611">
+  <event-date date="1959-8-8">Aug. 8, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cholsey Contest</name>
+  <contest id="3939">
+    <name>Cholsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cholsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3527">Recreation Ground, Cholsey, Oxfordshire</venue>
+  <notes>March Contest:
+1 Haslemere Town, 2, 80 (unnamed march)
+2 East Woodhay, 3, 76 (&#39;Death or Glory&#39;)
+Shipston Town, 1 (&#39;The Medallion&#39;)
+Waltham St. Lawrence, 4 (&#39;Kenilworth&#39;)
+
+Hymn Contest:
+1 Shipston, 3, 90 (&#39;Deep Harmony&#39;)
+2 East Woodhay, 2 80 (&#39;Abide with Me&#39;)
+Waltham St. Lawrence, 1 (&#39;Sunset&#39;)
+Haslemere Town, 4 (&#39;Aberystwyth&#39;)
+
+10th Annual Contest.</notes>
+
+  <created>May 24, 2013, 9:58 a.m.</created>
+  <last-modified>May 24, 2013, 5:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="158632">
+      <result code="1">1</result>
+      <band id="509">Shipston Town Band</band>
+      <conductor id="309318">Bert Smith</conductor>
+      <test-piece id="857">In Switzerland</test-piece>
+    </result>
+    
+    <result id="158631">
+      <result code="2">2</result>
+      <band id="834">Haslemere Town Band</band>
+      <conductor id="310287">J. B. Thomas</conductor>
+      <test-piece id="857">In Switzerland</test-piece>
+    </result>
+    
+    <result id="158630">
+      <result code="3">3</result>
+      <band id="1481">East Woodhay Silver</band>
+      <conductor id="311192">Des Webb</conductor>
+      <test-piece id="1089">Country Life</test-piece>
+    </result>
+    
+    <result id="158633">
+      <result code="4">4</result>
+      <band id="3922">Waltham St Lawrence Silver Band</band>
+      <conductor id="304572">W. T. Kirkland</conductor>
+      <test-piece id="1222">A Summer Day</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

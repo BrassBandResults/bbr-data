@@ -1,0 +1,75 @@
+<contest-event id="12081">
+  <event-date date="1971-4-25">April 25, 1971<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest (A Section)</name>
+  <contest id="1390">
+    <name>Blackpool Contest (A Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest-a-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5835">South Pier, Blackpool, Lancashire</venue>
+  <notes>  Best soloist - euphonium of Mossley.
+  Best basses - Mossley.
+Prizes - 1st £60 and trophy, 2nd £25 and trophy, 3rd £15.
+20th annual contest
+5 bands competed.</notes>
+
+  <created>April 9, 2012, 11:27 a.m.</created>
+  <last-modified>April 10, 2017, 8:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="153217">
+      <result code="1">1</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="302687">John Harrison</conductor>
+      <test-piece id="305">Symphony of Marches</test-piece>
+    </result>
+    
+    <result id="153218">
+      <result code="2">2</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="305180">G. G. Lloyd</conductor>
+      <test-piece id="2766">Romeo and Juliet [unknown composer, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="153219">
+      <result code="3">3</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="306885">Harry Oakes</conductor>
+      <test-piece id="195">Life Divine</test-piece>
+    </result>
+    
+    <result id="97095">
+      <result code="3">3</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="303452">Frank Hough</conductor>
+      <test-piece id="108">Lorenzo</test-piece>
+    </result>
+    
+    <result id="227906">
+      <result code="">Unknown Result</result>
+      <band id="394">Brindle Band</band>
+      <conductor id="301008">Richard Evans</conductor>
+      <test-piece id="397">The Corsair</test-piece>
+    </result>
+    
+    <result id="227907">
+      <result code="W">Withdrawn</result>
+      <band id="180">Blackpool Brass</band>
+      <conductor id="297280">John Victor Ayling</conductor>
+    </result>
+    
+  </results>
+</contest-event>

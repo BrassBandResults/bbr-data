@@ -1,0 +1,56 @@
+<contest-event id="37863">
+  <event-date date="1988-4-3">April 3, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (C Grade)</name>
+  <contest id="6139">
+    <name>Australian Championships - Wind Band (C Grade)</name>
+    <order>2</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-c-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="4786">Per Ardua   (Lindsay Aked)  &amp;  Sussex Mummers Xmas Carol   (Percy Grainger)</test-piece>
+  </test-piece>
+
+  <venue id="4942">Bankstown Civic Centre, Bankstown, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>May 7, 2017, 12:04 a.m.</created>
+  <last-modified>May 7, 2017, 9:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="273760">
+      <result code="1">1</result>
+      <band id="15116">Metropolitan West Schools  (NSW)</band>
+      <conductor id="316529">Robert Busan</conductor>
+      <test-piece id="361">Partita for Band - Postcards from Home</test-piece>
+    </result>
+    
+    <result id="273761">
+      <result code="2">2</result>
+      <band id="15096">Belconnen Musicians Concert  (ACT)</band>
+      <conductor id="315926">Robin Eakin</conductor>
+      <test-piece id="1367">Over the Hills</test-piece>
+    </result>
+    
+    <result id="273762">
+      <result code="W">Withdrawn</result>
+      <band id="15103">Glen Innes High School (NSW)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="273763">
+      <result code="W">Withdrawn</result>
+      <band id="15168">Penrith City Concert   (NSW)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

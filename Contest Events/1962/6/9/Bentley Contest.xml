@@ -1,0 +1,48 @@
+<contest-event id="34503">
+  <event-date date="1962-6-9">June 9, 1962<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bentley Contest</name>
+  <contest id="5163">
+    <name>Bentley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bentley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="602">Passing Moods</test-piece>
+  </test-piece>
+
+  <venue id="6122">Bentley Colliery, South Yorkshire</venue>
+  <notes>10 bands competed.</notes>
+
+  <created>March 13, 2016, 9:42 p.m.</created>
+  <last-modified>March 13, 2016, 9:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="249083">
+      <result code="1">1</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="249085">
+      <result code="2">2</result>
+      <band id="442">Grimethorpe Colliery Junior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="249084">
+      <result code="3">3</result>
+      <band id="278">Polypipe Rossington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="40488">
+  <event-date date="1913-9-13">Sept. 13, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Liverpool Exhibition Contest</name>
+  <contest id="5786">
+    <name>Liverpool Exhibition Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>liverpool-exhibition-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6759">North Haymarket, Liverpool</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Oct. 1, 2018, 4:34 p.m.</created>
+  <last-modified>Oct. 1, 2018, 4:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294553">
+      <result code="1">1</result>
+      <band id="6759">Litherland Silver</band>
+      <conductor id="318278">G. Rogans</conductor>
+    </result>
+    
+    <result id="294556">
+      <result code="2">2</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="294554">
+      <result code="3">3</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="316297">H. Bower</conductor>
+    </result>
+    
+    <result id="294557">
+      <result code="4">4</result>
+      <band id="6853">Liverpool North End</band>
+      <conductor id="311644">John Williams</conductor>
+    </result>
+    
+    <result id="294555">
+      <result code="5">5</result>
+      <band id="17385">Everton Subscription</band>
+      <conductor id="305082">J. J. Leyland</conductor>
+    </result>
+    
+  </results>
+</contest-event>

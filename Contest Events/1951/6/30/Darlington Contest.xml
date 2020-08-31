@@ -1,0 +1,55 @@
+<contest-event id="35652">
+  <event-date date="1951-6-30">June 30, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darlington Contest</name>
+  <contest id="1455">
+    <name>Darlington Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>darlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="3052">North Park, Darlington</venue>
+  <notes>March contest - 1st Horden, 2nd Easington, 3rd Darlington.
+Waltz contest - 1st Easington, 2nd Horden, 3rd Shildon.</notes>
+
+  <created>July 7, 2016, 4:50 p.m.</created>
+  <last-modified>July 7, 2016, 4:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="258775">
+      <result code="1">1</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258776">
+      <result code="2">2</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258777">
+      <result code="3">3</result>
+      <band id="1980">Shildon Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258778">
+      <result code="">Unknown Result</result>
+      <band id="6828">Darlington British Rail</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

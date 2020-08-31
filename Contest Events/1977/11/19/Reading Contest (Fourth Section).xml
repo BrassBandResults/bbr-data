@@ -1,0 +1,54 @@
+<contest-event id="23495">
+  <event-date date="1977-11-19">Nov. 19, 1977<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Fourth Section)</name>
+  <contest id="703">
+    <name>Reading Contest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="248">Petite Suite de Ballet</test-piece>
+  </test-piece>
+
+  <venue id="301">Alfred Sutton Boys&#39; School, Reading, Berkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>Sept. 6, 2013, 1:09 p.m.</created>
+  <last-modified>Sept. 6, 2013, 1:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="172465">
+      <result code="1">1</result>
+      <band id="2148">Solent Youth Concert &#39;B&#39; Band</band>
+      <conductor id="298993">Henry Capper</conductor>
+    </result>
+    
+    <result id="172466">
+      <result code="2">2</result>
+      <band id="515">Corby Silver Band</band>
+      <conductor id="307341">Ken Pender</conductor>
+    </result>
+    
+    <result id="172467">
+      <result code="3">3</result>
+      <band id="1968">Kennington (Oxford)</band>
+      <conductor id="309924">Ron Sudworth</conductor>
+    </result>
+    
+    <result id="172468">
+      <result code="4">4</result>
+      <band id="595">Sandhurst Silver</band>
+      <conductor id="298743">S. Burbage</conductor>
+    </result>
+    
+  </results>
+</contest-event>

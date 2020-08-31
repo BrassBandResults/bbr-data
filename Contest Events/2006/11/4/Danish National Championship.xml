@@ -1,0 +1,60 @@
+<contest-event id="2645">
+  <event-date date="2006-11-4">Nov. 4, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Danish National Championship</name>
+  <contest id="559">
+    <name>Danish National Championship (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="84">Danish National Championship</group>
+    <slug>danish-national-championship-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="22">Denmark</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="81">Eden</test-piece>
+  </test-piece>
+
+  <venue id="300">Messecenter Herning (Kongrescenter), Herning, Central Denmark, Denmark</venue>
+  <notes></notes>
+
+  <created>Sept. 26, 2010, 10:32 p.m.</created>
+  <last-modified>May 2, 2011, 2:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="27770">
+      <result code="1">1</result>
+      <band id="714">Lyngby-Taarbaek Brass Band</band>
+      <conductor id="308782">Christian Schmiedescamp</conductor>
+    </result>
+    
+    <result id="27771">
+      <result code="2">2</result>
+      <band id="1206">Silkeborg Blaeserne</band>
+      <conductor id="299309">Preben Nørgaard Christensen</conductor>
+    </result>
+    
+    <result id="27772">
+      <result code="3">3</result>
+      <band id="1225">Concord Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="27773">
+      <result code="4">4</result>
+      <band id="3293">Århus Brass Band</band>
+      <conductor id="304818">Jacob Vilhelm Larsen</conductor>
+    </result>
+    
+    <result id="27774">
+      <result code="5">5</result>
+      <band id="1262">Nordvestjysk Brass Band</band>
+      <conductor id="297067">Arvid Anthun</conductor>
+    </result>
+    
+  </results>
+</contest-event>

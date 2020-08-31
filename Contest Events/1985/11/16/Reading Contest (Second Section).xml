@@ -1,0 +1,48 @@
+<contest-event id="16018">
+  <event-date date="1985-11-16">Nov. 16, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Second Section)</name>
+  <contest id="563">
+    <name>Reading Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="531">Academic Festival Overture</test-piece>
+  </test-piece>
+
+  <venue id="291">The Hexagon, Reading, Berkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 10, 2012, 8:23 a.m.</created>
+  <last-modified>Nov. 10, 2012, 8:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="123241">
+      <result code="1">1</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="304091">Ian Johnson</conductor>
+    </result>
+    
+    <result id="123242">
+      <result code="2">2</result>
+      <band id="552">Downton Band</band>
+      <conductor id="302116">A. Green</conductor>
+    </result>
+    
+    <result id="123243">
+      <result code="3">3</result>
+      <band id="2830">London College of Music</band>
+      <conductor id="307168">Anthony Parsons</conductor>
+    </result>
+    
+  </results>
+</contest-event>

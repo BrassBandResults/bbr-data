@@ -1,0 +1,51 @@
+<contest-event id="42140">
+  <event-date date="2019-4-20">April 20, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships - Wind Band (A Grade)</name>
+  <contest id="6138">
+    <name>Australian Championships - Wind Band (A Grade)</name>
+    <order>0</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="580">Australian Championships (Wind Band Sections)</group>
+    <slug>australian-championships-wind-band-a-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3256">Metropolis 1927</test-piece>
+  </test-piece>
+
+  <venue id="304">Brisbane City Hall, Brisbane, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>May 5, 2019, 10:48 p.m.</created>
+  <last-modified>May 5, 2019, 10:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="308130">
+      <result code="1">1</result>
+      <band id="15584">Castle Hill R S L  North West Wind Ensemble (NSW)</band>
+      <conductor id="298426">James Brice</conductor>
+      <test-piece id="5945">Lost Vegas</test-piece>
+    </result>
+    
+    <result id="308131">
+      <result code="2">2</result>
+      <band id="15467">Queensland Wind Orchestra  (Qld)</band>
+      <conductor id="316861">David Law</conductor>
+      <test-piece id="5946">Symphony No 4 - Bookmarks from Japan</test-piece>
+    </result>
+    
+    <result id="308132">
+      <result code="3">3</result>
+      <band id="15470">Queensland  Youth Orchestra Wind Symphony   (Qld)</band>
+      <conductor id="316847">Warwick Potter</conductor>
+      <test-piece id="1706">Symphonic Dances from &#39;West Side Story&#39;</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

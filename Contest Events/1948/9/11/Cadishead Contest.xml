@@ -1,0 +1,64 @@
+<contest-event id="16681">
+  <event-date date="1948-9-11">Sept. 11, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cadishead Contest</name>
+  <contest id="2534">
+    <name>Cadishead Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cadishead-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1093">Cosi Fan Tutte [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4312">St. Mary&#39;s School Grounds, Cadishead, Lancashire</venue>
+  <notes>March contest - 1st Beswick, 2nd Haydock.
+ Prizes - 1st £20 and cup, 2nd £10, 3rd £7, 4th £3.
+1st annual contest
+6 bands competed.
+</notes>
+
+  <created>Dec. 3, 2012, 11:37 a.m.</created>
+  <last-modified>Feb. 22, 2019, 12:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="127992">
+      <result code="1">1</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="309761">Joseph Stevens</conductor>
+    </result>
+    
+    <result id="127993">
+      <result code="2">2</result>
+      <band id="3517">Gorton British Railways</band>
+      <conductor id="302418">Jon Hall</conductor>
+    </result>
+    
+    <result id="127994">
+      <result code="3">3</result>
+      <band id="1525">Wigan &amp; District</band>
+      <conductor id="306615">J. W. Naylor</conductor>
+    </result>
+    
+    <result id="127995">
+      <result code="4">4</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255968">
+      <result code="">Unknown Result</result>
+      <band id="1701">Beswick Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,42 @@
+<contest-event id="19339">
+  <event-date date="1966-5-22">May 22, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO North East (Second Section)</name>
+  <contest id="1628">
+    <name>CISWO North East (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="177">CISWO North East</group>
+    <slug>ciswo-north-east-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="248">Petite Suite de Ballet</test-piece>
+  </test-piece>
+
+  <venue id="3267">Hirst Welfare Hall, Ashington, Northumberland, England, UK</venue>
+  <notes></notes>
+
+  <created>March 19, 2013, 10:23 a.m.</created>
+  <last-modified>March 19, 2013, 11:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="145300">
+      <result code="1">1</result>
+      <band id="4128">Pegswood Colliery Prize Band</band>
+      <conductor id="301118">James Farrell</conductor>
+    </result>
+    
+    <result id="145301">
+      <result code="2">2</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="312043">George Wright</conductor>
+    </result>
+    
+  </results>
+</contest-event>

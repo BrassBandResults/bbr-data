@@ -1,0 +1,42 @@
+<contest-event id="19572">
+  <event-date date="1970-3-21">March 21, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (Championship Section)</name>
+  <contest id="3195">
+    <name>Cornwall BBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="23">Resurgam</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes>  Only two bands competed.</notes>
+
+  <created>March 23, 2013, 10:11 p.m.</created>
+  <last-modified>March 23, 2013, 10:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="146672">
+      <result code="1">1</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="297861">John Berryman</conductor>
+    </result>
+    
+    <result id="146673">
+      <result code="2">2</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

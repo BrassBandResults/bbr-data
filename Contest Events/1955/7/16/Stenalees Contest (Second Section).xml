@@ -1,0 +1,61 @@
+<contest-event id="20170">
+  <event-date date="1955-7-16">July 16, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Second Section)</name>
+  <contest id="3757">
+    <name>Stenalees Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>  Chorus contest(Hallelujah) - 1st Mount Charles(78), 2nd St Agnes(76), 3rd Indian Queens(75), 4th St Austell(72), 5th Lostwithiel(70).
+  5 bands competed.</notes>
+
+  <created>March 31, 2013, 5:54 p.m.</created>
+  <last-modified>March 31, 2013, 5:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="149951">
+      <result code="1">1</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="298418">C. E. Brewer</conductor>
+    </result>
+    
+    <result id="149952">
+      <result code="2">2</result>
+      <band id="1777">Indian Queens Silver</band>
+      <conductor id="304625">Ford Knight</conductor>
+    </result>
+    
+    <result id="149953">
+      <result code="3">3</result>
+      <band id="4013">St. Agnes Silver Band</band>
+      <conductor id="306278">Frank Moore</conductor>
+    </result>
+    
+    <result id="149954">
+      <result code="4">4</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="299697">T. A. Cooper</conductor>
+    </result>
+    
+    <result id="149955">
+      <result code="5">5</result>
+      <band id="8888">Lostwithiel Silver</band>
+      <conductor id="299200">A. Chapman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

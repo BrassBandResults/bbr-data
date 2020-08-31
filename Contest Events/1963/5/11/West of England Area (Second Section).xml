@@ -1,0 +1,72 @@
+<contest-event id="31194">
+  <event-date date="1963-5-11">May 11, 1963<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Second Section)</name>
+  <contest id="49">
+    <name>West of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1180">Spring Song</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes></notes>
+
+  <created>Feb. 23, 2015, 5:23 p.m.</created>
+  <last-modified>Feb. 23, 2015, 5:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="250645">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+    </result>
+    
+    <result id="250649">
+      <result code="2">2</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="297521">Neville Barnett</conductor>
+    </result>
+    
+    <result id="250651">
+      <result code="3">3</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="301358">E. Floyd</conductor>
+    </result>
+    
+    <result id="250647">
+      <result code="4">4</result>
+      <band id="367">City of Bath</band>
+      <conductor id="298707">Russell Buckley</conductor>
+    </result>
+    
+    <result id="250648">
+      <result code="">Unknown Result</result>
+      <band id="1295">Burnham &amp; Highbridge</band>
+      <conductor id="301108">W. S. Farr</conductor>
+    </result>
+    
+    <result id="250650">
+      <result code="">Unknown Result</result>
+      <band id="1255">Stinchcombe Band</band>
+      <conductor id="311613">Ellis Williams</conductor>
+    </result>
+    
+    <result id="250646">
+      <result code="">Unknown Result</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="311113">Graham Watkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

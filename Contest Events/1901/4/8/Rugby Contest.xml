@@ -1,0 +1,100 @@
+<contest-event id="22850">
+  <event-date date="1901-4-8">April 8, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rugby Contest</name>
+  <contest id="1797">
+    <name>Rugby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rugby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="3815">Rugby Lower School Grounds, Rugby</venue>
+  <notes>Promoted by Rugby Steam Shed Band.
+Bands drawn 6 and 7 - names and remarks etc not given in Brass Band News to save embarrassment.
+Prizes - 1st £12, 2nd £8, 3rd £5, 4th £3.
+13 bands competed
+</notes>
+
+  <created>Aug. 14, 2013, 4:52 p.m.</created>
+  <last-modified>June 20, 2018, 1:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="290546">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="290551">
+      <result code="1">1</result>
+      <band id="6591">Wellingborough Town</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="290550">
+      <result code="3">3</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="290552">
+      <result code="4">4</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="290544">
+      <result code="">Unknown Result</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="290545">
+      <result code="">Unknown Result</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="290547">
+      <result code="">Unknown Result</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="290548">
+      <result code="">Unknown Result</result>
+      <band id="5911">Rugby Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290549">
+      <result code="">Unknown Result</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290553">
+      <result code="">Unknown Result</result>
+      <band id="7766">Leicester Highfields</band>
+      <conductor id="310451">Fred Tingle</conductor>
+    </result>
+    
+    <result id="290554">
+      <result code="">Unknown Result</result>
+      <band id="6998">Aston Old</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

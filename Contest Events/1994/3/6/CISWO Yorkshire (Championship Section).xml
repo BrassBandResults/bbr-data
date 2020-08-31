@@ -1,0 +1,55 @@
+<contest-event id="5204">
+  <event-date date="1994-3-6">March 6, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO Yorkshire (Championship Section)</name>
+  <contest id="670">
+    <name>CISWO Yorkshire (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="229">Partita [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="4952">Oval Hall, City Hall, Sheffield</venue>
+  <notes>45th annual contest.
+4 bands competed.</notes>
+
+  <created>April 2, 2011, 12:40 a.m.</created>
+  <last-modified>March 7, 2015, 5:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="45156">
+      <result code="1">1</result>
+      <band id="140">Dodworth Colliery MW Brass</band>
+      <conductor id="306865">Graham O&#39;Connor</conductor>
+    </result>
+    
+    <result id="45155">
+      <result code="2">2</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="300022">Garry Cutt</conductor>
+    </result>
+    
+    <result id="208114">
+      <result code="3">3</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="305999">Hugh Megarrell</conductor>
+    </result>
+    
+    <result id="208115">
+      <result code="4">4</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310429">Stephen Tighe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

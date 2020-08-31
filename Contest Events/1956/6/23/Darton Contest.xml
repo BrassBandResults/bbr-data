@@ -1,0 +1,61 @@
+<contest-event id="20456">
+  <event-date date="1956-6-23">June 23, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darton Contest</name>
+  <contest id="4139">
+    <name>Darton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3412">Darton, Barnsley, West Riding</venue>
+  <notes>
+  March contest - 1st Knottingley, 2nd Thorne Colliery, 3rd Hoyland Town.</notes>
+
+  <created>April 11, 2013, 6:16 p.m.</created>
+  <last-modified>April 11, 2013, 6:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="151754">
+      <result code="1">1</result>
+      <band id="123">Knottingley Silver Band</band>
+      <conductor id="311432">Alfred Whitehead</conductor>
+    </result>
+    
+    <result id="151755">
+      <result code="2">2</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="297651">A. H. Beardsell</conductor>
+    </result>
+    
+    <result id="151756">
+      <result code="3">3</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="311452">Edgar Whitham</conductor>
+    </result>
+    
+    <result id="151758">
+      <result code="">Unknown Result</result>
+      <band id="132">Strata Brass</band>
+      <conductor id="301423">Eric Foster</conductor>
+    </result>
+    
+    <result id="151757">
+      <result code="">Unknown Result</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="297205">Jack Atherton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

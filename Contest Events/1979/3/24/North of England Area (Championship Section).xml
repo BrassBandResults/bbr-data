@@ -1,0 +1,66 @@
+<contest-event id="2357">
+  <event-date date="1979-3-24">March 24, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="128">Variations for Brass Band [Vaughan Williams]</test-piece>
+  </test-piece>
+
+  <venue id="718">Town Hall, Middlesbrough, North Yorkshire</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Aug. 2, 2010, 4:26 p.m.</created>
+  <last-modified>Dec. 1, 2014, 5:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="45297">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="310960">Trevor Walmsley</conductor>
+    </result>
+    
+    <result id="195577">
+      <result code="2">2</result>
+      <band id="921">Northumbria Police Band</band>
+      <conductor id="305424">Stan MacDonald</conductor>
+    </result>
+    
+    <result id="195578">
+      <result code="3">3</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="199346">
+      <result code="4">4</result>
+      <band id="2902">Washington Welfare</band>
+      <conductor id="308528">George Rowell</conductor>
+    </result>
+    
+    <result id="199345">
+      <result code="">Unknown Result</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="297927">David Binding</conductor>
+    </result>
+    
+    <result id="26240">
+      <result code="W">Withdrawn</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="312131">Gary Young</conductor>
+    </result>
+    
+  </results>
+</contest-event>

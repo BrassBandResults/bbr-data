@@ -1,0 +1,49 @@
+<contest-event id="19805">
+  <event-date date="1970-12-5">Dec. 5, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (2nd Section)</name>
+  <contest id="3198">
+    <name>Cornwall BBA Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2461">St. Ives</venue>
+  <notes> 
+ Hymn tune and march contest - 1st Carharrock, 2nd St Pinnock, 3rd Lanner.</notes>
+
+  <created>March 27, 2013, 11:38 a.m.</created>
+  <last-modified>March 27, 2013, 11:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="148164">
+      <result code="1">1</result>
+      <band id="533">St. Pinnock Band</band>
+      <conductor id="297109">Joe Armstrong</conductor>
+    </result>
+    
+    <result id="148165">
+      <result code="2">2</result>
+      <band id="1292">Carharrack &amp; St. Day Silver</band>
+      <conductor id="298140">C. T. Bolitho</conductor>
+    </result>
+    
+    <result id="148166">
+      <result code="3">3</result>
+      <band id="426">Lanner and District Silver Band</band>
+      <conductor id="297694">A. J. Bedding</conductor>
+    </result>
+    
+  </results>
+</contest-event>

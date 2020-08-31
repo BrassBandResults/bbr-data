@@ -1,0 +1,49 @@
+<contest-event id="32679">
+  <event-date date="2015-11-28">Nov. 28, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Third Division)</name>
+  <contest id="79">
+    <name>Belgian Nationals (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-third-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="130">Partita [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="4957">Cultuurcentrum Zwaneberg, Heist-op-den-Berg, Antwerp, Belgium</venue>
+  <notes>played Own Choices:
+The 4 Noble Truths (Philip Sparke), The Dark Side of the Moon (Paul Lovatt-Cooper)</notes>
+
+  <created>Sept. 11, 2015, 8:52 a.m.</created>
+  <last-modified>May 6, 2017, 12:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="237472">
+      <result code="1">1</result>
+      <band id="12452">Dender Brass</band>
+      <conductor id="312194">Joeri van Hove</conductor>
+    </result>
+    
+    <result id="237473">
+      <result code="2">2</result>
+      <band id="7850">United Brass</band>
+      <conductor id="310757">Frank Vantroyen</conductor>
+    </result>
+    
+    <result id="237474">
+      <result code="W">Withdrawn</result>
+      <band id="1230">Young Brassband Willebroek</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

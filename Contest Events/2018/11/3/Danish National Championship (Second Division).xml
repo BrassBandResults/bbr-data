@@ -1,0 +1,51 @@
+<contest-event id="40135">
+  <event-date date="2018-11-3">Nov. 3, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Danish National Championship (Second Division)</name>
+  <contest id="560">
+    <name>Danish National Championship (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="84">Danish National Championship</group>
+    <slug>danish-national-championship-second-division</slug>
+    
+    <notes></notes>
+    <region id="22">Denmark</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="145">Sinfonietta [Horovitz]</test-piece>
+  </test-piece>
+
+  <venue id="988">Musikhuset Aarhus, Aarhus, Central Denmark, Denmark</venue>
+  <notes></notes>
+
+  <created>July 30, 2018, 8:34 a.m.</created>
+  <last-modified>July 30, 2018, 8:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294001">
+      <result code="1">1</result>
+      <band id="1413">Danfoss Orkesteret</band>
+      <conductor id="302777">Gert Skovlod Hattesen</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="294002">
+      <result code="2">2</result>
+      <band id="3099">Hvidovre Musikskolens Brass Band</band>
+      <conductor id="301576">Bo Fuglsang</conductor>
+      <test-piece id="169">Triptych [Sparke]</test-piece>
+    </result>
+    
+    <result id="294003">
+      <result code="3">3</result>
+      <band id="2124">Selandia Brass</band>
+      <conductor id="304818">Jacob Vilhelm Larsen</conductor>
+      <test-piece id="60">The Dark Side of the Moon</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

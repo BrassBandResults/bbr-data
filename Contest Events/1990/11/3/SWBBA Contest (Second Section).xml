@@ -1,0 +1,48 @@
+<contest-event id="16181">
+  <event-date date="1990-11-3">Nov. 3, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SWBBA Contest (Second Section)</name>
+  <contest id="159">
+    <name>SWBBA Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="26">South West BBA Annual Championships</group>
+    <slug>swbba-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="72">Entertainments</test-piece>
+  </test-piece>
+
+  <venue id="263">Festival Theatre, Paignton, Devon, England, UK</venue>
+  <notes>44th annual contest.</notes>
+
+  <created>Nov. 14, 2012, 6:11 p.m.</created>
+  <last-modified>Nov. 15, 2014, 10:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="214294">
+      <result code="1">1</result>
+      <band id="10638">Torbay Borough</band>
+      <conductor id="310142">Harry Taylor</conductor>
+    </result>
+    
+    <result id="182296">
+      <result code="2">2</result>
+      <band id="426">Lanner and District Silver Band</band>
+      <conductor id="302646">Chris Harris</conductor>
+    </result>
+    
+    <result id="214295">
+      <result code="3">3</result>
+      <band id="378">Totnes Band</band>
+      <conductor id="297254">P. Aunger</conductor>
+    </result>
+    
+  </results>
+</contest-event>

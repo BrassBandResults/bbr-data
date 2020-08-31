@@ -1,0 +1,52 @@
+<contest-event id="25598">
+  <event-date date="1920-7-17">July 17, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grantham Contest</name>
+  <contest id="2983">
+    <name>Grantham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>grantham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="417">Coriolanus</test-piece>
+  </test-piece>
+
+  <venue id="4348">Cricket Ground, London Road, Grantham, Lincolnshire, England, UK</venue>
+  <notes>Promoted by Ruston and Hornsby Brass Band
+
+3 bands competed
+
+March: 1. Brinsley, 2. Swanwick, 3. Notts Comrades</notes>
+
+  <created>Dec. 13, 2013, 8:50 p.m.</created>
+  <last-modified>April 2, 2014, 6:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185524">
+      <result code="1">1</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="305257">W. Longman</conductor>
+    </result>
+    
+    <result id="185525">
+      <result code="2">2</result>
+      <band id="11743">Brinsley Church</band>
+      <conductor id="302355">W. Haddon</conductor>
+    </result>
+    
+    <result id="185526">
+      <result code="3">3</result>
+      <band id="8916">Nottingham Comrades</band>
+      <conductor id="303541">Tom Hubbard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

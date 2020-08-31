@@ -1,0 +1,56 @@
+<contest-event id="18426">
+  <event-date date="1952-8-9">Aug. 9, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest</name>
+  <contest id="2332">
+    <name>Dearham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>March contest  1st Barrow Shipyard, 2nd Workington Town.
+Prizes - 1st £30 and cup, 2nd £10, 3rd £5, 4th £4.
+4 bands competed</notes>
+
+  <created>Feb. 21, 2013, 7:09 p.m.</created>
+  <last-modified>March 20, 2019, 2:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="138845">
+      <result code="1">1</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138846">
+      <result code="2">2</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138847">
+      <result code="3">3</result>
+      <band id="2588">Maryport Albion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138848">
+      <result code="4">4</result>
+      <band id="1676">Blyth LNER</band>
+      <conductor id="310325">F. C. Thompson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

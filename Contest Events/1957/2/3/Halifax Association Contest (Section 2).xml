@@ -1,0 +1,54 @@
+<contest-event id="22161">
+  <event-date date="1957-2-3">Feb. 3, 1957<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Halifax Association Contest (Section 2)</name>
+  <contest id="3923">
+    <name>Halifax Association Contest (Section 2)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>halifax-association-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="159">Indian Summer</test-piece>
+  </test-piece>
+
+  <venue id="3297">Prince&#39;s Hall, Sowerby Bridge, West Riding</venue>
+  <notes>March contest - 1st Friendly, 2nd Gomersal Mills, 3rd Todmorden Old.</notes>
+
+  <created>July 4, 2013, 10:50 a.m.</created>
+  <last-modified>July 4, 2013, 2:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164562">
+      <result code="1">1</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="296770">J. Ackroyd</conductor>
+    </result>
+    
+    <result id="164563">
+      <result code="2">2</result>
+      <band id="3151">Blackburn Valley Brass</band>
+      <conductor id="311522">F. L. Wilcock</conductor>
+    </result>
+    
+    <result id="164564">
+      <result code="3">3</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="304333">J. Kane</conductor>
+    </result>
+    
+    <result id="164565">
+      <result code="">Unknown Result</result>
+      <band id="2677">Gomersal Mills</band>
+      <conductor id="298352">Frank Braithwaite</conductor>
+    </result>
+    
+  </results>
+</contest-event>

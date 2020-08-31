@@ -1,0 +1,54 @@
+<contest-event id="4955">
+  <event-date date="1970-4-25">April 25, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Second Section)</name>
+  <contest id="49">
+    <name>West of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="409">First Suite in Eb [arr. Herbert]</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes></notes>
+
+  <created>March 19, 2011, 1:07 a.m.</created>
+  <last-modified>April 1, 2013, 11:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="146972">
+      <result code="1">1</result>
+      <band id="362">Verwood Concert Brass</band>
+      <conductor id="299703">Graham Coote</conductor>
+    </result>
+    
+    <result id="43438">
+      <result code="2">2</result>
+      <band id="269">Sun Life</band>
+      <conductor id="298625">Stan Brown</conductor>
+    </result>
+    
+    <result id="146973">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="305687">A. G. Mason</conductor>
+    </result>
+    
+    <result id="146974">
+      <result code="4">4</result>
+      <band id="3000">Crewkerne Town Band</band>
+      <conductor id="310259">B. M. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

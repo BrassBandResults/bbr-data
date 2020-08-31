@@ -1,0 +1,48 @@
+<contest-event id="14188">
+  <event-date date="1953-5-1">May 1, 1953<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+  <contest id="239">
+    <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-second-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2348">Rienzi [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>July 23, 2012, 4:45 p.m.</created>
+  <last-modified>Feb. 25, 2013, 11:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113195">
+      <result code="1">1</result>
+      <band id="1378">Ligoniel Silver Band</band>
+      <conductor id="300587">J. K. Duff</conductor>
+    </result>
+    
+    <result id="113196">
+      <result code="2">2</result>
+      <band id="1406">Bloomfield Amateur Silver Band</band>
+      <conductor id="305931">Jack McKnight</conductor>
+    </result>
+    
+    <result id="113197">
+      <result code="3">3</result>
+      <band id="1397">1st Portadown Old Boys Silver Band</band>
+      <conductor id="299716">George Corbett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,104 @@
+<contest-event id="34276">
+  <event-date date="1961-9-30">Sept. 30, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Corporation Contest (Section 1)</name>
+  <contest id="4778">
+    <name>Newcastle Corporation Contest (Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newcaste</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>Choice of Lorenzo, Festival Music or Jupiter Symphony.
+Prizes - 1st £50 and trophy, 2nd £30, 3rd £20.
+8 bands competed.</notes>
+
+  <created>March 4, 2016, 2:43 p.m.</created>
+  <last-modified>Jan. 18, 2017, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="247427">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+      <test-piece id="1114">Jupiter Symphony</test-piece>
+    </result>
+    
+    <result id="247428">
+      <result code="2">2</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="313871">Cecil Peacock</conductor>
+      <test-piece id="5">Festival Music</test-piece>
+    </result>
+    
+    <result id="247429">
+      <result code="3">3</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="304944">George Lee</conductor>
+      <test-piece id="5">Festival Music</test-piece>
+    </result>
+    
+    <result id="247562">
+      <result code="4">4</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="308217">Drake Rimmer</conductor>
+      <test-piece id="108">Lorenzo</test-piece>
+    </result>
+    
+    <result id="267921">
+      <result code="">Unknown Result</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="307064">A. L. Palmer</conductor>
+    </result>
+    
+    <result id="247563">
+      <result code="">Unknown Result</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="296962">James Amos</conductor>
+      <test-piece id="108">Lorenzo</test-piece>
+    </result>
+    
+    <result id="247561">
+      <result code="">Unknown Result</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="303851">Enoch Jackson</conductor>
+      <test-piece id="108">Lorenzo</test-piece>
+    </result>
+    
+    <result id="267917">
+      <result code="">Unknown Result</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="309889">Harold Strong</conductor>
+    </result>
+    
+    <result id="267918">
+      <result code="W">Withdrawn</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="267919">
+      <result code="W">Withdrawn</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+    </result>
+    
+    <result id="267920">
+      <result code="W">Withdrawn</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="299342">Bob Clark</conductor>
+    </result>
+    
+  </results>
+</contest-event>

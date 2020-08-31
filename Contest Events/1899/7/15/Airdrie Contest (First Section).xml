@@ -1,0 +1,79 @@
+<contest-event id="12443">
+  <event-date date="1899-7-15">July 15, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Airdrie Contest (First Section)</name>
+  <contest id="2571">
+    <name>Airdrie Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="275">Airdrie Contest</group>
+    <slug>airdrie-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3747">Store Park, Clarkston, Airdrie</venue>
+  <notes>Promoted by Clarkston Brass Band</notes>
+
+  <created>April 14, 2012, 4:35 p.m.</created>
+  <last-modified>Jan. 11, 2017, 8:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99461">
+      <result code="1">1</result>
+      <band id="5493">Aitkenhead</band>
+      <conductor id="299521">William H. Cole</conductor>
+      <test-piece id="1317">Ireland</test-piece>
+    </result>
+    
+    <result id="99462">
+      <result code="2">2</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+      <test-piece id="1865">Grand Duchess</test-piece>
+    </result>
+    
+    <result id="99463">
+      <result code="3">3</result>
+      <band id="1988">Cleland</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1865">Grand Duchess</test-piece>
+    </result>
+    
+    <result id="99464">
+      <result code="4">4</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1865">Grand Duchess</test-piece>
+    </result>
+    
+    <result id="167061">
+      <result code="">Unknown Result</result>
+      <band id="6842">Blantyre Public</band>
+      <conductor id="309530">John Somerville</conductor>
+      <test-piece id="1866">Caledonia</test-piece>
+    </result>
+    
+    <result id="167060">
+      <result code="">Unknown Result</result>
+      <band id="5234">Dykehead</band>
+      <conductor id="304648">James Knox</conductor>
+      <test-piece id="1887">La Fille de Madame Angot</test-piece>
+    </result>
+    
+    <result id="167059">
+      <result code="">Unknown Result</result>
+      <band id="11318">Larkhall Public</band>
+      <conductor id="309311">Alex Smith</conductor>
+      <test-piece id="1866">Caledonia</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

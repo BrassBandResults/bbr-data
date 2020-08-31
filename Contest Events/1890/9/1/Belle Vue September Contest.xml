@@ -1,0 +1,108 @@
+<contest-event id="5591">
+  <event-date date="1890-9-1">Sept. 1, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belle Vue September Contest</name>
+  <contest id="6">
+    <name>British Open</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>british-open</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
+  <notes>Additional source:
+The Leeds Mercury (Leeds, England), Tuesday, September 2, 1890; Issue 16351.
+Prizes: 1st: £30 2nd: £25 3rd: £20 4th: £12 5th: £8 6th: £5.
+Best cornet - H.Roach - Batley Old.
+Best euphonium - A.Sanderson - Stocksbridge.
+26 bands entered, 12 competed.
+</notes>
+
+  <created>April 26, 2011, 9:04 a.m.</created>
+  <last-modified>June 8, 2019, 6:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="48294">
+      <result code="1">1</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="48295">
+      <result code="2">2</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="48296">
+      <result code="3">3</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="48297">
+      <result code="4">4</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="48298">
+      <result code="5">5</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="48299">
+      <result code="6">6</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="48302">
+      <result code="7">7</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="48305">
+      <result code="8">8</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="48303">
+      <result code="">Unknown Result</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="48304">
+      <result code="">Unknown Result</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="305612">Charles Marsden</conductor>
+    </result>
+    
+    <result id="48300">
+      <result code="">Unknown Result</result>
+      <band id="1718">Altrincham Borough</band>
+      <conductor id="301674">W. Garner</conductor>
+    </result>
+    
+    <result id="48301">
+      <result code="">Unknown Result</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

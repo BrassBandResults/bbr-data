@@ -1,0 +1,60 @@
+<contest-event id="33871">
+  <event-date date="1982-4-11">April 11, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="266">Fantasy for Brass Band [Arnold]</test-piece>
+  </test-piece>
+
+  <venue id="6060">Townsville, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 2, 2016, 12:26 a.m.</created>
+  <last-modified>Feb. 2, 2016, 2:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="243874">
+      <result code="1">1</result>
+      <band id="701">Willoughby City Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+    </result>
+    
+    <result id="243875">
+      <result code="2">2</result>
+      <band id="1161">Brisbane Brass</band>
+      <conductor id="311548">Alan Wilkie</conductor>
+    </result>
+    
+    <result id="243876">
+      <result code="3">3</result>
+      <band id="2267">Townsville Brass</band>
+      <conductor id="299108">Noel Cassels</conductor>
+    </result>
+    
+    <result id="243877">
+      <result code="4">4</result>
+      <band id="1318">Sunshine Brass [Queensland]</band>
+      <conductor id="307870">Len Radford</conductor>
+    </result>
+    
+    <result id="243878">
+      <result code="5">5</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="303338">Bill Holmes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

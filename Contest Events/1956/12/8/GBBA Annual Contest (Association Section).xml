@@ -1,0 +1,85 @@
+<contest-event id="22147">
+  <event-date date="1956-12-8">Dec. 8, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>GBBA Annual Contest (Association Section)</name>
+  <contest id="3732">
+    <name>GBBA Annual Contest (Association Section)</name>
+    <order>500</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="96">GBBA Own Choice Contest</group>
+    <slug>gbba-annual-contest-association-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3621">Linden Road School, Gloucester</venue>
+  <notes>  Hymn tune contest - 1st Severn Tunnel, 2nd Stroud, 3rd Cirencester, 4th Cheltenham.
+  9 bands competed.</notes>
+
+  <created>July 3, 2013, 4:15 p.m.</created>
+  <last-modified>July 3, 2013, 4:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164447">
+      <result code="1">1</result>
+      <band id="381">Severn Tunnel Band</band>
+      <conductor id="302571">F. C. Harding</conductor>
+    </result>
+    
+    <result id="164448">
+      <result code="2">2</result>
+      <band id="565">Cheltenham Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164449">
+      <result code="3">3</result>
+      <band id="2992">Stroud and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164450">
+      <result code="4">4</result>
+      <band id="2071">Cirencester Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164451">
+      <result code="">Unknown Result</result>
+      <band id="10907">Avening Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164452">
+      <result code="">Unknown Result</result>
+      <band id="494">Avonbank (Evesham) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164453">
+      <result code="">Unknown Result</result>
+      <band id="8728">City of Gloucester Junior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164455">
+      <result code="">Unknown Result</result>
+      <band id="1290">Gloucester Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164454">
+      <result code="">Unknown Result</result>
+      <band id="9766">Winchcombe Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,43 @@
+<contest-event id="32031">
+  <event-date date="1973-6-3">June 3, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Buxton Festival (Junior Class)</name>
+  <contest id="1097">
+    <name>Buxton Festival (Junior Class)</name>
+    <order>104</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="18">Buxton Festival</group>
+    <slug>buxton-festival-junior-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="752">Lindum Suite</test-piece>
+  </test-piece>
+
+  <venue id="614">Pavilion Gardens, Buxton</venue>
+  <notes>Prizes - 1st £20 and trophy, 2nd £15 and trophy.
+2 bands competed.</notes>
+
+  <created>May 20, 2015, 8:57 p.m.</created>
+  <last-modified>May 20, 2015, 8:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="228138">
+      <result code="1">1</result>
+      <band id="485">Stourport-on-Severn Brass Band</band>
+      <conductor id="301112">B. Farrar</conductor>
+    </result>
+    
+    <result id="228137">
+      <result code="2">2</result>
+      <band id="1821">Mossley Hollins High School Band</band>
+      <conductor id="303852">George Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

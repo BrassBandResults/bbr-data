@@ -1,0 +1,72 @@
+<contest-event id="26955">
+  <event-date date="1994-11-26">Nov. 26, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Section Three)</name>
+  <contest id="1773">
+    <name>North Wales Rally (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="989">Cityscapes [Bulla]</test-piece>
+  </test-piece>
+
+  <venue id="4589">Ysgol John Bright, Llandudno, Clwyd</venue>
+  <notes></notes>
+
+  <created>April 6, 2014, 4:38 p.m.</created>
+  <last-modified>April 6, 2014, 4:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194763">
+      <result code="1">1</result>
+      <band id="449">Deiniolen Band</band>
+      <conductor id="304181">Cynon Jones</conductor>
+    </result>
+    
+    <result id="194768">
+      <result code="2">2</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="304213">Geraint Jones</conductor>
+    </result>
+    
+    <result id="194767">
+      <result code="3">3</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="300154">G. T. Davies</conductor>
+    </result>
+    
+    <result id="194766">
+      <result code="">Unknown Result</result>
+      <band id="346">Menai Bridge Brass Band</band>
+      <conductor id="311693">Wynne Williams</conductor>
+    </result>
+    
+    <result id="194765">
+      <result code="">Unknown Result</result>
+      <band id="768">Port Sunlight Lyceum Brass</band>
+      <conductor id="300095">Cyril Dare</conductor>
+    </result>
+    
+    <result id="194762">
+      <result code="W">Withdrawn</result>
+      <band id="1503">Deeside Silver Band</band>
+      <conductor id="305085">S. Licence</conductor>
+    </result>
+    
+    <result id="194764">
+      <result code="W">Withdrawn</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="298321">Frank Boylin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

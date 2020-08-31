@@ -1,0 +1,60 @@
+<contest-event id="39425">
+  <event-date date="1969-4-6">April 6, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3826">Le Carnaval Romain</test-piece>
+  </test-piece>
+
+  <venue id="6939">Bundaberg Civic Centre, Queensland, Australia</venue>
+  <notes>Street march music points listed under Stage March</notes>
+
+  <created>April 2, 2018, 11:20 p.m.</created>
+  <last-modified>Oct. 27, 2019, 12:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="286304">
+      <result code="1">1</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="297631">Les Baxter</conductor>
+    </result>
+    
+    <result id="286305">
+      <result code="2">2</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="309319">Bill Smith</conductor>
+    </result>
+    
+    <result id="286306">
+      <result code="3">3</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310266">Colin Thomas</conductor>
+    </result>
+    
+    <result id="286307">
+      <result code="4">4</result>
+      <band id="12960">Sandgate District Citizen</band>
+      <conductor id="299154">Bob Cerezo</conductor>
+    </result>
+    
+    <result id="295154">
+      <result code="W">Withdrawn</result>
+      <band id="6432">Maryborough Excelsior [Queensland]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

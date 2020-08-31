@@ -1,0 +1,42 @@
+<contest-event id="30239">
+  <event-date date="1990-4-14">April 14, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Youth Section)</name>
+  <contest id="3571">
+    <name>Scottish Championship (Youth Section)</name>
+    <order>99</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-youth-section</slug>
+    <qualifies-for id="997">National Youth Brass Band Championships</qualifies-for>
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="466">A Spa Suite</test-piece>
+  </test-piece>
+
+  <venue id="74">Falkirk Town Hall, Falkirk, Falkirk Council Area, Scotland, UK</venue>
+  <notes>Only two bands competed.</notes>
+
+  <created>Nov. 12, 2014, 10:25 a.m.</created>
+  <last-modified>Nov. 12, 2014, 10:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="213988">
+      <result code="1">1</result>
+      <band id="1924">West Lothian Schools</band>
+      <conductor id="298124">Nigel Boddice</conductor>
+    </result>
+    
+    <result id="213989">
+      <result code="2">2</result>
+      <band id="5427">Carrick Youth Band</band>
+      <conductor id="298114">John Boax</conductor>
+    </result>
+    
+  </results>
+</contest-event>

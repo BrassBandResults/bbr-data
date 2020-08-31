@@ -1,0 +1,49 @@
+<contest-event id="870">
+  <event-date date="1991-10-26">Oct. 26, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitehaven Contest (Class A)</name>
+  <contest id="220">
+    <name>Whitehaven Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="126">Whitehaven Contest</group>
+    <slug>whitehaven-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5412">Civic Hall, Whitehaven, Cumbria, England, UK</venue>
+  <notes>7th annual contest.</notes>
+
+  <created>Sept. 19, 2009, 6:21 p.m.</created>
+  <last-modified>Feb. 18, 2015, 12:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="9702">
+      <result code="1">1</result>
+      <band id="26">Fishburn Band</band>
+      <conductor id="308354">Ian Robinson</conductor>
+      <test-piece id="266">Fantasy for Brass Band [Arnold]</test-piece>
+    </result>
+    
+    <result id="220887">
+      <result code="2">2</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="305484">William Maginn</conductor>
+    </result>
+    
+    <result id="220888">
+      <result code="3">3</result>
+      <band id="196">Morecambe Brass Band</band>
+      <conductor id="310105">Steve Tarry</conductor>
+    </result>
+    
+  </results>
+</contest-event>

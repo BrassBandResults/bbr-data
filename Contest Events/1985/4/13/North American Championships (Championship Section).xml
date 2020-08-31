@@ -1,0 +1,72 @@
+<contest-event id="10548">
+  <event-date date="1985-4-13">April 13, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Championship Section)</name>
+  <contest id="161">
+    <name>North American Championships (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-championship-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="142">Vizcaya</test-piece>
+  </test-piece>
+
+  <venue id="1498">Weston Collegiate Institute, Weston, Ontario, Canada</venue>
+  <notes>Set testpiece played as part of concert programme
+
+Outstanding Soloist of the Day: Kris Dahlin, Bloomington Brass Band </notes>
+
+  <created>Feb. 21, 2012, 5:18 p.m.</created>
+  <last-modified>Feb. 22, 2012, 11:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="88583">
+      <result code="1">1</result>
+      <band id="6975">Gramercy Brass of New York</band>
+      <conductor id="304758">John Lambert Jnr</conductor>
+      <test-piece id="50">Dances and Arias</test-piece>
+    </result>
+    
+    <result id="88584">
+      <result code="2">2</result>
+      <band id="6973">Bloomington Brass Band</band>
+      <conductor id="307480">David Pickett</conductor>
+      <test-piece id="1467">Jubilee Overture</test-piece>
+    </result>
+    
+    <result id="88586">
+      <result code="3">3</result>
+      <band id="6967">Smoky Mountain Brass Band</band>
+      <conductor id="310571">Richard Trevarthen</conductor>
+    </result>
+    
+    <result id="88588">
+      <result code="">Unknown Result</result>
+      <band id="1003">Atlantic Brass Band</band>
+      <conductor id="306066">Owen Metcalf</conductor>
+    </result>
+    
+    <result id="88585">
+      <result code="">Unknown Result</result>
+      <band id="6976">North State Silver Cornets</band>
+      <conductor id="301658">Ned Gardner</conductor>
+      <test-piece id="163">Little Suite for Brass [Arnold]</test-piece>
+    </result>
+    
+    <result id="88587">
+      <result code="">Unknown Result</result>
+      <band id="2392">Weston Silver Band</band>
+      <conductor id="301224">Douglas Field</conductor>
+      <test-piece id="629">Promenade</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="5411">
+  <event-date date="1974-4-21">April 21, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins (Second Section)</name>
+  <contest id="71">
+    <name>Pontins (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="9">Pontins</group>
+    <slug>pontins-second-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="560">Pontins Holiday Centre, Ainsdale Beach, Southport</venue>
+  <notes>1st annual contest promoted by Prescot Band and Pontins Holiday Camp.</notes>
+
+  <created>April 16, 2011, 7:50 a.m.</created>
+  <last-modified>May 9, 2014, 4:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="46528">
+      <result code="1">1</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="307268">Brian Peacock</conductor>
+    </result>
+    
+    <result id="197156">
+      <result code="2">2</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="311319">Peter Weston</conductor>
+    </result>
+    
+    <result id="197157">
+      <result code="3">3</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="298634">Malcolm Brownbill</conductor>
+    </result>
+    
+  </results>
+</contest-event>

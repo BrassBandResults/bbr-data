@@ -1,0 +1,58 @@
+<contest-event id="2669">
+  <event-date date="1981-11-22">Nov. 22, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Championship Division)</name>
+  <contest id="76">
+    <name>Belgian Nationals (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="289">A Moorside Suite</test-piece>
+  </test-piece>
+
+  <venue id="2331">Cultuurcentrum, Strombeek-Bever, Flemish Brabant, Belgium</venue>
+  <notes></notes>
+
+  <created>Sept. 28, 2010, 1:09 p.m.</created>
+  <last-modified>June 11, 2014, 1:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="27977">
+      <result code="1">1</result>
+      <band id="1211">Brass Band Terpsichore</band>
+      <conductor id="297057">Paul Anne</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+    <result id="114716">
+      <result code="2">2</result>
+      <band id="1229">Brass Band Midden-Brabant</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="303">John O&#39;Gaunt [Vinter]</test-piece>
+    </result>
+    
+    <result id="114717">
+      <result code="3">3</result>
+      <band id="674">Brassband Buizingen</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="194">The Plantagenets</test-piece>
+    </result>
+    
+    <result id="114715">
+      <result code="4">4</result>
+      <band id="676">Kortrijk Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="177">Culloden Moor</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

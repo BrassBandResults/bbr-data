@@ -1,0 +1,93 @@
+<contest-event id="12264">
+  <event-date date="1899-4-29">April 29, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Berkhamsted Contest</name>
+  <contest id="2770">
+    <name>Berkhamsted Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>berkhamsted-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="1862">Berkhamsted, Hertfordshire</venue>
+  <notes>1st prize £6, 2nd prize £4, 3rd prize £2, 4th prize £1.
+March contest 1st(£1) Luton Red Cross, 2nd prize (10s.) divided between Gravesend  and Watford L and N W Rly,
+Each band played two selections, one being &quot;Tom Bowling&quot;
+10 bands competed.</notes>
+
+  <created>April 11, 2012, 2:28 p.m.</created>
+  <last-modified>July 27, 2019, 12:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98311">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="98312">
+      <result code="2">2</result>
+      <band id="1729">Hazell&#39;s Printing Works</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="98313">
+      <result code="3">3</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="98314">
+      <result code="4">4</result>
+      <band id="622">Watford</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+    <result id="98320">
+      <result code="">Unknown Result</result>
+      <band id="4314">Northampton Town</band>
+      <conductor id="302365">James Hager</conductor>
+    </result>
+    
+    <result id="98315">
+      <result code="">Unknown Result</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="298984">H. Cannon</conductor>
+    </result>
+    
+    <result id="98317">
+      <result code="">Unknown Result</result>
+      <band id="7805">Dunstable Borough</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="98316">
+      <result code="">Unknown Result</result>
+      <band id="7770">St Alban&#39;s Abbey</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="98318">
+      <result code="">Unknown Result</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="309056">W. J. Douglas Sherriff</conductor>
+    </result>
+    
+    <result id="98319">
+      <result code="">Unknown Result</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="305585">R. J. Marke</conductor>
+    </result>
+    
+  </results>
+</contest-event>

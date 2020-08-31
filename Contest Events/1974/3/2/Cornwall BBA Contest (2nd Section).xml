@@ -1,0 +1,54 @@
+<contest-event id="20492">
+  <event-date date="1974-3-2">March 2, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (2nd Section)</name>
+  <contest id="3198">
+    <name>Cornwall BBA Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>April 13, 2013, 10:19 a.m.</created>
+  <last-modified>March 6, 2018, 10:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="152018">
+      <result code="1">1</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="302495">Kenneth Hamlod</conductor>
+    </result>
+    
+    <result id="152019">
+      <result code="2">2</result>
+      <band id="533">St. Pinnock Band</band>
+      <conductor id="297109">Joe Armstrong</conductor>
+    </result>
+    
+    <result id="152020">
+      <result code="3">3</result>
+      <band id="1777">Indian Queens Silver</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="152021">
+      <result code="4">4</result>
+      <band id="539">Bugle Silver Band</band>
+      <conductor id="298975">Hugh Camps</conductor>
+    </result>
+    
+  </results>
+</contest-event>

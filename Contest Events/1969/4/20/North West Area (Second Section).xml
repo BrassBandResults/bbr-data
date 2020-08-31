@@ -1,0 +1,66 @@
+<contest-event id="3950">
+  <event-date date="1969-4-20">April 20, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Second Section)</name>
+  <contest id="23">
+    <name>North West Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="635">Second Suite in F</test-piece>
+  </test-piece>
+
+  <venue id="5073">Civic Hall, Worsley, Manchester</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Feb. 8, 2011, 5:44 a.m.</created>
+  <last-modified>May 13, 2015, 1:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="35124">
+      <result code="1">1</result>
+      <band id="1346">Rochdale Band</band>
+      <conductor id="297146">Norman Ashcroft</conductor>
+    </result>
+    
+    <result id="209940">
+      <result code="2">2</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="303490">Herbert H. Howarth</conductor>
+    </result>
+    
+    <result id="209942">
+      <result code="3">3</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="310825">E. Vint</conductor>
+    </result>
+    
+    <result id="209941">
+      <result code="4">4</result>
+      <band id="1671">Stretford Band</band>
+      <conductor id="302649">E. R. Harris</conductor>
+    </result>
+    
+    <result id="209939">
+      <result code="">Unknown Result</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="209938">
+      <result code="">Unknown Result</result>
+      <band id="519">Burbage Silver Band</band>
+      <conductor id="303885">George Jacobs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

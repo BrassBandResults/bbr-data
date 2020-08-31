@@ -1,0 +1,61 @@
+<contest-event id="27747">
+  <event-date date="1979-2-24">Feb. 24, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wembley Contest (Second Section)</name>
+  <contest id="5292">
+    <name>Wembley Contest (Second Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="586">Wembley Contest</group>
+    <slug>wembley-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="589">Introduction and Allegro</test-piece>
+  </test-piece>
+
+  <venue id="79">Wembley Conference Centre, Wembley Park, Brent, Greater London, England, UK</venue>
+  <notes>Promoted by Grand Metropolitan Hotels.
+4 bands competed.</notes>
+
+  <created>May 24, 2014, 9:18 a.m.</created>
+  <last-modified>June 22, 2016, 12:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="199120">
+      <result code="1">1</result>
+      <band id="2029">Wakefield Youth</band>
+      <conductor id="304589">Peter Kitson</conductor>
+    </result>
+    
+    <result id="199119">
+      <result code="2">2</result>
+      <band id="3504">Coventry Imperial</band>
+      <conductor id="297447">Geoffrey Barber</conductor>
+    </result>
+    
+    <result id="199123">
+      <result code="3">3</result>
+      <band id="1550">Tadley Band</band>
+      <conductor id="308727">Gordon Saunders</conductor>
+    </result>
+    
+    <result id="199121">
+      <result code="4">4</result>
+      <band id="1536">Solent Brass</band>
+      <conductor id="299719">R. F. Cordall</conductor>
+    </result>
+    
+    <result id="199122">
+      <result code="W">Withdrawn</result>
+      <band id="1530">Southampton Central</band>
+      <conductor id="298681">William Buchan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

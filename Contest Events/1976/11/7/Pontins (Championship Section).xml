@@ -1,0 +1,72 @@
+<contest-event id="5311">
+  <event-date date="1976-11-7">Nov. 7, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontins (Championship Section)</name>
+  <contest id="82">
+    <name>Pontins (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="9">Pontins</group>
+    <slug>pontins-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1165">Les Preludes [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="119">Pontins Holiday Camp, Prestatyn, Denbighshire, Wales, UK</venue>
+  <notes></notes>
+
+  <created>April 10, 2011, 6:25 a.m.</created>
+  <last-modified>March 25, 2012, 9:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="45839">
+      <result code="1">1</result>
+      <band id="3384">Lockwood Band (Huddersfield)</band>
+      <conductor id="304589">Peter Kitson</conductor>
+    </result>
+    
+    <result id="57563">
+      <result code="2">2</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="304589">Peter Kitson</conductor>
+    </result>
+    
+    <result id="57564">
+      <result code="3">3</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="57568">
+      <result code="">Unknown Result</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="301934">John Golland</conductor>
+    </result>
+    
+    <result id="57565">
+      <result code="">Unknown Result</result>
+      <band id="476">Ibstock Brick Brass</band>
+      <conductor id="302418">Jon Hall</conductor>
+    </result>
+    
+    <result id="57566">
+      <result code="">Unknown Result</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="57567">
+      <result code="">Unknown Result</result>
+      <band id="477">Shirland Welfare Band</band>
+      <conductor id="299012">Doug Carlin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,50 @@
+<contest-event id="19472">
+  <event-date date="1969-6-8">June 8, 1969<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name> Buxton Festival (Championship Section)</name>
+  <contest id="4059">
+    <name> Buxton Festival (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>buxton-festival-championship-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="195">Life Divine</test-piece>
+  </test-piece>
+
+  <venue id="38">Octagon Theatre, Pavilion Gardens, Buxton</venue>
+  <notes> Best instrumentalist - solo cornet Greenway Moor.
+Prizes - 1st £75 and trophy, 2nd £40.
+3 bands competed.</notes>
+
+  <created>March 22, 2013, 8:33 a.m.</created>
+  <last-modified>June 17, 2016, 3:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="145870">
+      <result code="1">1</result>
+      <band id="1000">Greenway Selectus Band</band>
+      <conductor id="302077">Edward Gray</conductor>
+    </result>
+    
+    <result id="145871">
+      <result code="2">2</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="298482">Derek Broadbent</conductor>
+    </result>
+    
+    <result id="145872">
+      <result code="3">3</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="301008">Richard Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="16017">
+  <event-date date="1985-11-16">Nov. 16, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Championship Section)</name>
+  <contest id="2681">
+    <name>Reading Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-champion-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2150">Carnival Overture [Dvořák, arr. Brand]</test-piece>
+  </test-piece>
+
+  <venue id="291">The Hexagon, Reading, Berkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 10, 2012, 8:20 a.m.</created>
+  <last-modified>Nov. 10, 2012, 8:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="123238">
+      <result code="1">1</result>
+      <band id="1215">Morris Motors Band</band>
+      <conductor id="302250">Neville Griffiths</conductor>
+    </result>
+    
+    <result id="123239">
+      <result code="2">2</result>
+      <band id="4405">Newham Band</band>
+      <conductor id="311407">Melvin White</conductor>
+    </result>
+    
+    <result id="123240">
+      <result code="3">3</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="299356">John Clark</conductor>
+    </result>
+    
+    <result id="252333">
+      <result code="">Unknown Result</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="302605">Walter B. Hargreaves</conductor>
+    </result>
+    
+  </results>
+</contest-event>

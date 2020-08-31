@@ -1,0 +1,45 @@
+<contest-event id="12610">
+  <event-date date="1899-8-7">Aug. 7, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandilo Contest</name>
+  <contest id="2022">
+    <name>Llandilo Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="223">Llandilo Contest</group>
+    <slug>llandilo-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1405">Llandilo, Pembrokeshire, Wales, UK</venue>
+  <notes>1st prize £10.
+  2nd prize £5.
+March contest  1st Trebanos,  2nd Gwaun-cae-Gurwen.
+2 bands competed</notes>
+
+  <created>April 18, 2012, 1:33 p.m.</created>
+  <last-modified>July 28, 2019, 11:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100574">
+      <result code="1">1</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="100575">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+  </results>
+</contest-event>

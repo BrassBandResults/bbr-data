@@ -1,0 +1,69 @@
+<contest-event id="23500">
+  <event-date date="1977-11-6">Nov. 6, 1977<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester District Contest (Third Section)</name>
+  <contest id="1292">
+    <name>Manchester District Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="110">Manchester District Contest</group>
+    <slug>manchester-district-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="26">Radisson Blu Edwardian Manchester Hotel, Manchester, Greater Manchester, England, UK</venue>
+  <notes>Prizes - 1st £40 and cup, 2nd £25 and Trophy, 3rd £15 and cup.
+Choice of Gay Delavals or Mexican Fiesta.
+6 bands competed.</notes>
+
+  <created>Sept. 6, 2013, 1:45 p.m.</created>
+  <last-modified>Dec. 19, 2016, 10:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="172480">
+      <result code="1">1</result>
+      <band id="2591">Burnage Manchester</band>
+      <conductor id="306673">Gary Newborough</conductor>
+    </result>
+    
+    <result id="172481">
+      <result code="2">2</result>
+      <band id="997">Trafford Band</band>
+      <conductor id="304089">Harry Johnson</conductor>
+    </result>
+    
+    <result id="172482">
+      <result code="3">3</result>
+      <band id="4269">Droylsden &amp; District</band>
+      <conductor id="308131">R. C. Richards</conductor>
+    </result>
+    
+    <result id="215204">
+      <result code="4">4</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="306885">Harry Oakes</conductor>
+    </result>
+    
+    <result id="266240">
+      <result code="">Unknown Result</result>
+      <band id="1932">Burnley Alliance Silver</band>
+      <conductor id="308427">Neville Rogerson</conductor>
+    </result>
+    
+    <result id="266241">
+      <result code="">Unknown Result</result>
+      <band id="1355">Windsor Salford</band>
+      <conductor id="299412">J. Clayton</conductor>
+      <test-piece id="983">The Gay Delavals</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

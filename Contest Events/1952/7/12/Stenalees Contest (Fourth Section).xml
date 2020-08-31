@@ -1,0 +1,49 @@
+<contest-event id="18383">
+  <event-date date="1952-7-12">July 12, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Fourth Section)</name>
+  <contest id="3889">
+    <name>Stenalees Contest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-contest-fourth-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="16">March &amp; Hymn Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>Hymn tune contest  1st Pendeen, 2nd Launceston  3rd St Keverne.
+3 bands competed</notes>
+
+  <created>Feb. 19, 2013, 3:54 p.m.</created>
+  <last-modified>March 20, 2019, 8:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="138679">
+      <result code="1">1</result>
+      <band id="1408">Pendeen Silver Band</band>
+      <conductor id="308106">A. G. Richards</conductor>
+    </result>
+    
+    <result id="138680">
+      <result code="2">2</result>
+      <band id="550">Launceston Town Band</band>
+      <conductor id="310972">Reginald Walter</conductor>
+    </result>
+    
+    <result id="138681">
+      <result code="3">3</result>
+      <band id="521">St. Keverne Band</band>
+      <conductor id="301483">E. France</conductor>
+    </result>
+    
+  </results>
+</contest-event>

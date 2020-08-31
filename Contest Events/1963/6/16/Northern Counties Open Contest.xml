@@ -1,0 +1,56 @@
+<contest-event id="36184">
+  <event-date date="1963-6-16">June 16, 1963<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northern Counties Open Contest</name>
+  <contest id="283">
+    <name>Northern Counties Open Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>northern-counties-open-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6314">Reid Park, Forfar, Scotland</venue>
+  <notes>Best in 4th Section - Montrose Town.
+</notes>
+
+  <created>Sept. 29, 2016, 11:54 a.m.</created>
+  <last-modified>Feb. 10, 2020, 12:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="262631">
+      <result code="1">1</result>
+      <band id="1050">Forfar Instrumental</band>
+      <conductor id="311453">Geoffrey Whitham</conductor>
+    </result>
+    
+    <result id="262633">
+      <result code="2">2</result>
+      <band id="5618">Aberdeen City Band</band>
+      <conductor id="298679">Alex Buchan</conductor>
+    </result>
+    
+    <result id="262632">
+      <result code="3">3</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="298313">John Boyle</conductor>
+    </result>
+    
+    <result id="262634">
+      <result code="">Unknown Result</result>
+      <band id="1054">Montrose Town</band>
+      <conductor id="300709">James Easton</conductor>
+      <test-piece id="1376">The Mountain Chief</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

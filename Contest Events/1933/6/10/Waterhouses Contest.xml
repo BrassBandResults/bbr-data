@@ -1,0 +1,55 @@
+<contest-event id="23898">
+  <event-date date="1933-6-10">June 10, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Waterhouses Contest</name>
+  <contest id="2468">
+    <name>Waterhouses Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>waterhouses-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="16">March &amp; Hymn Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1817">Waterhouses, County Durham</venue>
+  <notes>March contest - 1st Sacriston, 2nd Hamsteels.
+  4 bands competed</notes>
+
+  <created>Sept. 16, 2013, 8:20 a.m.</created>
+  <last-modified>Dec. 28, 2018, 11:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="174596">
+      <result code="1">1</result>
+      <band id="5177">Sacriston Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174597">
+      <result code="2">2</result>
+      <band id="6856">Hamsteels Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174598">
+      <result code="3">3</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174599">
+      <result code="4">4</result>
+      <band id="6748">Sherburn Hill Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

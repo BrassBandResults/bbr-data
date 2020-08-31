@@ -1,0 +1,84 @@
+<contest-event id="16201">
+  <event-date date="1986-5-17">May 17, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>SEWBBA (Ebbw Vale) Contest (Championship Section)</name>
+  <contest id="110">
+    <name>SEWBBA (Ebbw Vale) Contest (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="17">SEWBBA (Ebbw Vale) Contest</group>
+    <slug>ebbw-vale-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="42">Pageantry</test-piece>
+  </test-piece>
+
+  <venue id="221">Ebbw Vale, Blaenau Gwent, Wales, UK</venue>
+  <notes>  Prizes  1st £100, 2nd £60, 3rd £40.</notes>
+
+  <created>Nov. 15, 2012, 11:54 a.m.</created>
+  <last-modified>Oct. 18, 2014, 4:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="124516">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="304459">Arthur Kenney</conductor>
+    </result>
+    
+    <result id="124517">
+      <result code="2">2</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="309728">Denzil Stephens</conductor>
+    </result>
+    
+    <result id="124518">
+      <result code="3">3</result>
+      <band id="2003">Coedely</band>
+      <conductor id="299350">E. J. Clark</conductor>
+    </result>
+    
+    <result id="124520">
+      <result code="">Unknown Result</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="124524">
+      <result code="">Unknown Result</result>
+      <band id="407">Penclawdd Brass</band>
+      <conductor id="309282">Tony Small</conductor>
+    </result>
+    
+    <result id="124519">
+      <result code="">Unknown Result</result>
+      <band id="425">Abergavenny Borough Band</band>
+      <conductor id="307630">Eric Powell</conductor>
+    </result>
+    
+    <result id="124521">
+      <result code="">Unknown Result</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="311241">Nigel Weeks</conductor>
+    </result>
+    
+    <result id="124522">
+      <result code="">Unknown Result</result>
+      <band id="358">Cross Keys Silver Band</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+    <result id="124523">
+      <result code="">Unknown Result</result>
+      <band id="18">BTM Band</band>
+      <conductor id="304181">Cynon Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

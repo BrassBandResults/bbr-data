@@ -1,0 +1,54 @@
+<contest-event id="41933">
+  <event-date date="1951-7-14">July 14, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Seaton Contest (Class A)</name>
+  <contest id="5104">
+    <name>Seaton Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>seaton-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1108">Songs of Wales</test-piece>
+  </test-piece>
+
+  <venue id="3023">Seaton, Cumbria, England, UK</venue>
+  <notes></notes>
+
+  <created>March 13, 2019, 9:51 a.m.</created>
+  <last-modified>March 13, 2019, 9:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="305513">
+      <result code="1">1</result>
+      <band id="2619">Barrow-in-Furness Youth Club</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="305514">
+      <result code="2">2</result>
+      <band id="2597">Lowca Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305515">
+      <result code="">Unknown Result</result>
+      <band id="248">Dearham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305516">
+      <result code="">Unknown Result</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

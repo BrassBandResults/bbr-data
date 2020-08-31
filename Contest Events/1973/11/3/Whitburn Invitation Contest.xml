@@ -1,0 +1,62 @@
+<contest-event id="14580">
+  <event-date date="1973-11-3">Nov. 3, 1973<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitburn Invitation Contest</name>
+  <contest id="202">
+    <name>Whitburn Invitation Contest</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id=""></group>
+    <slug>whitburn-invitation-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="80">Whitburn Academy</venue>
+  <notes>  Best section 2 band - Kilmarnock.
+  Best section 3 band - Kirkintilloch.
+  Best section 4 band - Alloa.</notes>
+
+  <created>Aug. 24, 2012, 11:56 a.m.</created>
+  <last-modified>May 9, 2013, 9:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="115239">
+      <result code="1">1</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="309870">Allan Street</conductor>
+    </result>
+    
+    <result id="156652">
+      <result code="2">2</result>
+      <band id="897">Kilmarnock Concert Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156653">
+      <result code="3">3</result>
+      <band id="1270">Newmains</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156654">
+      <result code="4">4</result>
+      <band id="13">Kirkintilloch Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="156655">
+      <result code="">Unknown Result</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

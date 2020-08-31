@@ -1,0 +1,43 @@
+<contest-event id="12357">
+  <event-date date="1981-11-22">Nov. 22, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (First Division)</name>
+  <contest id="77">
+    <name>Belgian Nationals (First Division)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-first-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1875">Valery the Rich Girl</test-piece>
+  </test-piece>
+
+  <venue id="2331">Cultuurcentrum, Strombeek-Bever, Flemish Brabant, Belgium</venue>
+  <notes></notes>
+
+  <created>April 13, 2012, 2:46 p.m.</created>
+  <last-modified>June 11, 2014, 1:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98858">
+      <result code="1">1</result>
+      <band id="40">Brass Band Willebroek</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="114719">
+      <result code="">Unknown Result</result>
+      <band id="7849">Brassband Sonevole</band>
+      <conductor id="312711">Louis Cuypers</conductor>
+      <test-piece id="435">Chorale and Variations [Lucas]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

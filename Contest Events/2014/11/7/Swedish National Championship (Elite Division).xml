@@ -1,0 +1,55 @@
+<contest-event id="27110">
+  <event-date date="2014-11-7">Nov. 7, 2014<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (Elite Division)</name>
+  <contest id="851">
+    <name>Swedish National Championship (Elite Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-elite-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="9">Elite</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="56">The Essence of Time</test-piece>
+  </test-piece>
+
+  <venue id="327">Värnamo, Småland, Sweden</venue>
+  <notes>Set test adjudicators: Philip Harper, Karl Ole Midtbö, Franz Matysiak
+Own choice adjudicators: Karl Ole Midtbö, Franz Matysiak, Fredrik Andersson
+
+Best Conductor - Garry Cutt
+Best Instrumentalist - James Fountain, Cornet (Windcorp)</notes>
+
+  <created>April 25, 2014, 5:03 p.m.</created>
+  <last-modified>Nov. 17, 2014, 2:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213670">
+      <result code="1">1</result>
+      <band id="1934">Windcorp Brass Band</band>
+      <conductor id="300022">Garry Cutt</conductor>
+      <test-piece id="399">A Kensington Concerto</test-piece>
+    </result>
+    
+    <result id="213671">
+      <result code="2">2</result>
+      <band id="1208">Solna Brass</band>
+      <conductor id="298004">Emil Björklund</conductor>
+      <test-piece id="15">Cloudcatcher Fells</test-piece>
+    </result>
+    
+    <result id="213672">
+      <result code="3">3</result>
+      <band id="2264">Betlehemskyrkans Musikkår</band>
+      <conductor id="312219">Jörgen Ådvall</conductor>
+      <test-piece id="679">The Lord is King</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

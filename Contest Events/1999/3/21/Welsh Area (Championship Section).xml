@@ -1,0 +1,79 @@
+<contest-event id="955">
+  <event-date date="1999-3-21">March 21, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="45">Blitz</test-piece>
+  </test-piece>
+
+  <venue id="11">Brangwyn Hall, Swansea, Swansea County, Wales, UK</venue>
+  <notes>Prizes - 1st £200, 2nd £100, 3rd £75.
+ 8 bands competed.</notes>
+
+  <created>Oct. 7, 2009, 3:30 p.m.</created>
+  <last-modified>July 8, 2020, 2:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="192681">
+      <result code="1">1</result>
+      <band id="258">Point of Ayr Colliery Band</band>
+      <conductor id="301459">Michael Fowles</conductor>
+    </result>
+    
+    <result id="192682">
+      <result code="2">2</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="297332">Philip Bailey</conductor>
+    </result>
+    
+    <result id="192683">
+      <result code="3">3</result>
+      <band id="4">Cory Band</band>
+      <conductor id="311837">Jeremy Wise</conductor>
+    </result>
+    
+    <result id="192684">
+      <result code="4">4</result>
+      <band id="288">Northop Band</band>
+      <conductor id="312088">Thomas Wyss</conductor>
+    </result>
+    
+    <result id="192685">
+      <result code="5">5</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="305133">Stan Lippeatt</conductor>
+    </result>
+    
+    <result id="192686">
+      <result code="6">6</result>
+      <band id="121">Beaumaris Band</band>
+      <conductor id="300993">Gwyn Evans</conductor>
+    </result>
+    
+    <result id="192687">
+      <result code="7">7</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="308864">Nigel Seaman</conductor>
+    </result>
+    
+    <result id="192688">
+      <result code="8">8</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="301770">Alan Gibbs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

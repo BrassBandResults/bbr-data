@@ -1,0 +1,48 @@
+<contest-event id="32227">
+  <event-date date="1999-5-2">May 2, 1999<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class A)</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="619">The Prizewinners</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune - Drayton</notes>
+
+  <created>July 7, 2015, 11:47 a.m.</created>
+  <last-modified>July 7, 2015, 11:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="231374">
+      <result code="1">1</result>
+      <band id="2112">Castleton Brass [Suffolk]</band>
+      <conductor id="297273">David Aves</conductor>
+    </result>
+    
+    <result id="231375">
+      <result code="2">2</result>
+      <band id="637">Hilgay Silver</band>
+      <conductor id="298479">Alan Broadbent</conductor>
+    </result>
+    
+    <result id="231376">
+      <result code="3">3</result>
+      <band id="1344">Boxted Methodist Silver</band>
+      <conductor id="307044">A. Page</conductor>
+    </result>
+    
+  </results>
+</contest-event>

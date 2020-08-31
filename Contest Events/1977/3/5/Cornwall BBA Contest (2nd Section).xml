@@ -1,0 +1,48 @@
+<contest-event id="16893">
+  <event-date date="1977-3-5">March 5, 1977<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (2nd Section)</name>
+  <contest id="3198">
+    <name>Cornwall BBA Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="391">Prometheus Unbound</test-piece>
+  </test-piece>
+
+  <venue id="2455">Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>Dec. 5, 2012, 6:22 p.m.</created>
+  <last-modified>May 13, 2014, 9:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="128821">
+      <result code="1">1</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="314019">F. J. Roberts</conductor>
+    </result>
+    
+    <result id="128822">
+      <result code="2">2</result>
+      <band id="426">Lanner and District Silver Band</band>
+      <conductor id="296995">J. Anderson</conductor>
+    </result>
+    
+    <result id="128823">
+      <result code="3">3</result>
+      <band id="539">Bugle Silver Band</band>
+      <conductor id="301101">Mike Faro</conductor>
+    </result>
+    
+  </results>
+</contest-event>

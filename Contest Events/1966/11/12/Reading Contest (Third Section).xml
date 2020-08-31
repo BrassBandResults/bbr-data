@@ -1,0 +1,54 @@
+<contest-event id="14267">
+  <event-date date="1966-11-12">Nov. 12, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Third Section)</name>
+  <contest id="562">
+    <name>Reading Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="600">Eine Kleine Nachtmusik</test-piece>
+  </test-piece>
+
+  <venue id="2291">Rainbow Hall, Cheapside, Reading</venue>
+  <notes>30th Annual Band Festival</notes>
+
+  <created>July 28, 2012, 5:44 p.m.</created>
+  <last-modified>April 19, 2013, 11:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113791">
+      <result code="1">1</result>
+      <band id="4168">Guildford Silver</band>
+      <conductor id="308069">Frank Renton</conductor>
+    </result>
+    
+    <result id="113792">
+      <result code="2">2</result>
+      <band id="2083">Highworth Silver</band>
+      <conductor id="311161">G. H. Watts</conductor>
+    </result>
+    
+    <result id="113789">
+      <result code="3">3</result>
+      <band id="2829">Berkhamsted &amp; Boxmoor</band>
+      <conductor id="309043">Stanley Sheppard</conductor>
+    </result>
+    
+    <result id="113790">
+      <result code="4">4</result>
+      <band id="631">Camberley and District Silver Band</band>
+      <conductor id="303590">Gerallt Hughes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

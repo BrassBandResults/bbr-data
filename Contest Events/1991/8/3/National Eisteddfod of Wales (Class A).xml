@@ -1,0 +1,48 @@
+<contest-event id="31004">
+  <event-date date="1991-8-3">Aug. 3, 1991<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>National Eisteddfod of Wales (Class A)</name>
+  <contest id="3279">
+    <name>National Eisteddfod of Wales (Class A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="86">National Eisteddfod of Wales</group>
+    <slug>national-eisteddfod-of-wales-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="23">Resurgam</test-piece>
+  </test-piece>
+
+  <venue id="5753">Mold, Flintshire, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 11, 2015, 3:12 p.m.</created>
+  <last-modified>March 2, 2015, 3:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="220611">
+      <result code="1">1</result>
+      <band id="18">BTM Band</band>
+      <conductor id="311407">Melvin White</conductor>
+    </result>
+    
+    <result id="220612">
+      <result code="2">2</result>
+      <band id="288">Northop Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="220613">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

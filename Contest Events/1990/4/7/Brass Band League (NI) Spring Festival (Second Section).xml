@@ -1,0 +1,48 @@
+<contest-event id="30388">
+  <event-date date="1990-4-7">April 7, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+  <contest id="239">
+    <name>Brass Band League (NI) Spring Festival (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-second-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="201">Call of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes></notes>
+
+  <created>Nov. 24, 2014, 7:18 p.m.</created>
+  <last-modified>Nov. 24, 2014, 7:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="214783">
+      <result code="1">1</result>
+      <band id="12219">Strandtown Junior</band>
+      <conductor id="297525">Steve Barnett</conductor>
+    </result>
+    
+    <result id="214784">
+      <result code="2">2</result>
+      <band id="2654">Carrick Whitehouse Silver</band>
+      <conductor id="300586">J. Duff</conductor>
+    </result>
+    
+    <result id="214785">
+      <result code="3">3</result>
+      <band id="1380">Reid Memorial Silver Band</band>
+      <conductor id="305791">Billy McAuley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

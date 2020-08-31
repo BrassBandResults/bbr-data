@@ -1,0 +1,51 @@
+<contest-event id="42081">
+  <event-date date="2019-4-21">April 21, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5661">Vengeance</test-piece>
+  </test-piece>
+
+  <venue id="304">Brisbane City Hall, Brisbane, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>April 24, 2019, 7:24 a.m.</created>
+  <last-modified>Sept. 22, 2019, 7:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="307728">
+      <result code="1">1</result>
+      <band id="12904">Far Northern Brass</band>
+      <conductor id="317825">Nathan Wiltshire</conductor>
+      <test-piece id="230">Lake of the Moon</test-piece>
+    </result>
+    
+    <result id="307729">
+      <result code="2">2</result>
+      <band id="727">Eaglehawk Citizens Band</band>
+      <conductor id="311259">Ken Wellard</conductor>
+      <test-piece id="3468">Broken Sword</test-piece>
+    </result>
+    
+    <result id="307730">
+      <result code="3">3</result>
+      <band id="6569">Thuringowa Brass</band>
+      <conductor id="319068">Greg Finlay</conductor>
+      <test-piece id="3427">The Journal of Phileas Fogg</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,49 @@
+<contest-event id="30253">
+  <event-date date="1990-5-6">May 6, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Class A)</name>
+  <contest id="425">
+    <name>East Anglian BBA Spring Festival (Class A)</name>
+    <order>20</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="347">St. Michael&#39;s Mount</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>Hymn tune contest - 1st Wrentham.
+52nd annual contest</notes>
+
+  <created>Nov. 13, 2014, 11:24 a.m.</created>
+  <last-modified>Nov. 13, 2014, 11:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="214059">
+      <result code="1">1</result>
+      <band id="2112">Castleton Brass [Suffolk]</band>
+      <conductor id="308849">Robert Scott</conductor>
+    </result>
+    
+    <result id="214060">
+      <result code="2">2</result>
+      <band id="2884">Cromer and Sheringham Brass Band</band>
+      <conductor id="307902">C. A. Randall</conductor>
+    </result>
+    
+    <result id="214061">
+      <result code="3">3</result>
+      <band id="1531">Wrentham Band</band>
+      <conductor id="302698">P. J. Harrold</conductor>
+    </result>
+    
+  </results>
+</contest-event>

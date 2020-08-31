@@ -1,0 +1,54 @@
+<contest-event id="40985">
+  <event-date date="1924-6-10">June 10, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treorchy Contest (Class A)</name>
+  <contest id="3717">
+    <name>Treorchy Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treorchy-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1475">The Flying Dutchman [arr. Hartmann]</test-piece>
+  </test-piece>
+
+  <venue id="1586">Treorchy, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Oct. 27, 2018, 10:03 a.m.</created>
+  <last-modified>Oct. 27, 2018, 10:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297638">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="297639">
+      <result code="2">2</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="303517">Robert Samuel Howells</conductor>
+    </result>
+    
+    <result id="297640">
+      <result code="3">3</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="299069">John Carter</conductor>
+    </result>
+    
+    <result id="297641">
+      <result code="4">4</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="26531">
+  <event-date date="1950-8-26">Aug. 26, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest (Section A)</name>
+  <contest id="5086">
+    <name>Dearham Contest (Section A)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1375">Recollections of Beethoven [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>March contest - 1st Hesketh Bank, 2nd Frizington St Pauls.
+Prizes - 1st £20 and cup, 2nd £12.10s., 3rd £7.10s., 4th £5.</notes>
+
+  <created>Feb. 24, 2014, 5:12 p.m.</created>
+  <last-modified>March 8, 2019, 11:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="192159">
+      <result code="1">1</result>
+      <band id="397">Hesketh Bank Band</band>
+      <conductor id="303596">J. A. Hughes</conductor>
+    </result>
+    
+    <result id="258397">
+      <result code="2">2</result>
+      <band id="2706">Carlisle City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258398">
+      <result code="3">3</result>
+      <band id="2597">Lowca Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258399">
+      <result code="4">4</result>
+      <band id="3307">Standish Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258400">
+      <result code="">Unknown Result</result>
+      <band id="7622">Frizington St Paul&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

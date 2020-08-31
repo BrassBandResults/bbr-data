@@ -1,0 +1,73 @@
+<contest-event id="40733">
+  <event-date date="2018-11-10">Nov. 10, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (First Division)</name>
+  <contest id="852">
+    <name>Swedish National Championship (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-first-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="169">Triptych [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="4625">Arken, Värnamo, Småland, Sweden</venue>
+  <notes>Best section: Tubas of Åsenhöga Brass band
+Best instrumentalist: Johannes Forsberg, Åsenhöga Brass Band
+Conductor with best performance of the test piece: Patrik Randefalk, Åsenhöga Brass Band</notes>
+
+  <created>Oct. 15, 2018, 8:14 p.m.</created>
+  <last-modified>Dec. 9, 2018, 10:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296288">
+      <result code="1">1</result>
+      <band id="13898">Lund University</band>
+      <conductor id="297020">Roger Andersson</conductor>
+      <test-piece id="2292">Turris Fortissima</test-piece>
+    </result>
+    
+    <result id="296291">
+      <result code="2">2</result>
+      <band id="2356">Åsenhöga Brass Band</band>
+      <conductor id="307907">Patrik Randefalk</conductor>
+      <test-piece id="206">Four Preludes</test-piece>
+    </result>
+    
+    <result id="296289">
+      <result code="3">3</result>
+      <band id="1936">Malmo Brass Band</band>
+      <conductor id="311797">Jan Winborg</conductor>
+      <test-piece id="2228">Darkwood</test-piece>
+    </result>
+    
+    <result id="296287">
+      <result code="4">4</result>
+      <band id="2891">Immanuel Brass - Stockholm</band>
+      <conductor id="305367">Andreas Lundin</conductor>
+      <test-piece id="492">Laude</test-piece>
+    </result>
+    
+    <result id="296290">
+      <result code="5">5</result>
+      <band id="5796">Smyrna Brass Band</band>
+      <conductor id="302900">Anders Hellman</conductor>
+    </result>
+    
+    <result id="296286">
+      <result code="6">6</result>
+      <band id="12387">Immanuel Brass - Jönköping</band>
+      <conductor id="303750">Magnus Hylander</conductor>
+      <test-piece id="230">Lake of the Moon</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

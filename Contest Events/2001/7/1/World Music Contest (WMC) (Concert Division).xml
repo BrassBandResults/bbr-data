@@ -1,0 +1,72 @@
+<contest-event id="1991">
+  <event-date date="2001-7-1">July 1, 2001<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>World Music Contest (WMC) (Concert Division)</name>
+  <contest id="228">
+    <name>World Music Contest (WMC) (Concert Division)</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="30">World Music Contest Kerkrade</group>
+    <slug>world-music-contest-wmc-concert-division</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="548">A Tribute to Henk Badings</test-piece>
+  </test-piece>
+
+  <venue id="49">Rodahal, Kerkrade, Limburg, Netherlands</venue>
+  <notes>Krohnengen became first because they won the Set Piece contest, willebroek won the Entertainment section.</notes>
+
+  <created>May 21, 2010, 11:33 a.m.</created>
+  <last-modified>May 22, 2010, 7:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="18527">
+      <result code="1">1</result>
+      <band id="812">Krohnengen Brass Band</band>
+      <conductor id="301106">Ray Farr</conductor>
+    </result>
+    
+    <result id="18528">
+      <result code="2">2</result>
+      <band id="40">Brass Band Willebroek</band>
+      <conductor id="310826">Frans Violet</conductor>
+    </result>
+    
+    <result id="18529">
+      <result code="3">3</result>
+      <band id="258">Point of Ayr Colliery Band</band>
+      <conductor id="312088">Thomas Wyss</conductor>
+    </result>
+    
+    <result id="18530">
+      <result code="4">4</result>
+      <band id="30">Soli Brass</band>
+      <conductor id="302274">Piet Groeneveld</conductor>
+    </result>
+    
+    <result id="18531">
+      <result code="5">5</result>
+      <band id="19">Desford Colliery Band</band>
+      <conductor id="307124">Peter Parkes</conductor>
+    </result>
+    
+    <result id="18532">
+      <result code="6">6</result>
+      <band id="1326">Brass Band Schoonhoven</band>
+      <conductor id="297074">Anno Appelo</conductor>
+    </result>
+    
+    <result id="18533">
+      <result code="7">7</result>
+      <band id="242">Brass Band Normandie</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

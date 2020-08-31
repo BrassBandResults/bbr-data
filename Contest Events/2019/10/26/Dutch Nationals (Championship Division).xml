@@ -1,0 +1,78 @@
+<contest-event id="41525">
+  <event-date date="2019-10-26">Oct. 26, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dutch Nationals (Championship Division)</name>
+  <contest id="274">
+    <name>Dutch Nationals (Championship Division)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="51">Dutch Nationals</group>
+    <slug>dutch-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="11">Netherlands</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="11">Vienna Nights</test-piece>
+  </test-piece>
+
+  <venue id="4490">TivoliVredenburg, Utrecht, Utrecht Province, Netherlands</venue>
+  <notes>Best Eb Bass: Brassband Schoonhoven A</notes>
+
+  <created>Dec. 10, 2018, 12:28 p.m.</created>
+  <last-modified>Oct. 28, 2019, 10:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="312958">
+      <result code="1">1</result>
+      <band id="1326">Brass Band Schoonhoven</band>
+      <conductor id="303300">Paul Holland</conductor>
+    </result>
+    
+    <result id="312961">
+      <result code="2">2</result>
+      <band id="1223">Provinciale Brass Band Groningen</band>
+      <conductor id="310829">Richard Visser</conductor>
+    </result>
+    
+    <result id="312957">
+      <result code="3">3</result>
+      <band id="240">Brass Band Rijnmond</band>
+      <conductor id="319670">Chris Derickx</conductor>
+    </result>
+    
+    <result id="312960">
+      <result code="4">4</result>
+      <band id="989">Brass Band De Wâldsang</band>
+      <conductor id="312215">Rieks van der Velde</conductor>
+    </result>
+    
+    <result id="312959">
+      <result code="5">5</result>
+      <band id="772">De Bazuin Oenkerk</band>
+      <conductor id="312216">Klaas van der Woude</conductor>
+    </result>
+    
+    <result id="312962">
+      <result code="6">6</result>
+      <band id="30">Soli Brass</band>
+      <conductor id="312203">Anne van den Berg</conductor>
+    </result>
+    
+    <result id="312956">
+      <result code="7">7</result>
+      <band id="1235">Amsterdam Brass</band>
+      <conductor id="318499">Paul van Gils</conductor>
+    </result>
+    
+    <result id="312955">
+      <result code="8">8</result>
+      <band id="1327">Altena Brass</band>
+      <conductor id="312188">Ward de Ketelaere</conductor>
+    </result>
+    
+  </results>
+</contest-event>

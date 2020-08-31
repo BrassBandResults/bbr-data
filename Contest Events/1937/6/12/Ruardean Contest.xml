@@ -1,0 +1,65 @@
+<contest-event id="25124">
+  <event-date date="1937-6-12">June 12, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest</name>
+  <contest id="1022">
+    <name>Ruardean Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="356">Ruardean Contest</group>
+    <slug>ruardean-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2500">Recollections of Bellini (arr. Rimmer)</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>Street March contest - 1. Fishponds B.L., 2. Brynmawr
+
+Stage march: 1. Pillowell, 2. Fishponds
+
+  Prizes 1st £12, 2nd £8, 3rd £4.
+ 5bands competed.</notes>
+
+  <created>Nov. 15, 2013, 10:07 p.m.</created>
+  <last-modified>Jan. 18, 2019, 1:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182972">
+      <result code="1">1</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="307395">Herbert S. Perry</conductor>
+    </result>
+    
+    <result id="182973">
+      <result code="2">2</result>
+      <band id="4275">Brynmawr Silver</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="182974">
+      <result code="3">3</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="311191">C. J. Webb</conductor>
+    </result>
+    
+    <result id="182975">
+      <result code="4">4</result>
+      <band id="11872">Lydbrook Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187127">
+      <result code="5">5</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="296955">H. Ambrey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,49 @@
+<contest-event id="30199">
+  <event-date date="1989-12-2">Dec. 2, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Third Section)</name>
+  <contest id="1773">
+    <name>North Wales Rally (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3754">Moses in Egypt (arr. J. A. Greenwood)</test-piece>
+  </test-piece>
+
+  <venue id="5612">Aberconwy Centre, Llandudno, Conwy, Wales, UK</venue>
+  <notes>Hymn tune contest - 1st Trefor.
+Best trombone - Andrew Chadwick (Beaumaris.</notes>
+
+  <created>Nov. 10, 2014, 1:10 p.m.</created>
+  <last-modified>June 26, 2020, 12:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213721">
+      <result code="1">1</result>
+      <band id="346">Menai Bridge Brass Band</band>
+      <conductor id="311597">D. Williams</conductor>
+    </result>
+    
+    <result id="213722">
+      <result code="2">2</result>
+      <band id="121">Beaumaris Band</band>
+      <conductor id="300993">Gwyn Evans</conductor>
+    </result>
+    
+    <result id="213723">
+      <result code="3">3</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="304459">Arthur Kenney</conductor>
+    </result>
+    
+  </results>
+</contest-event>

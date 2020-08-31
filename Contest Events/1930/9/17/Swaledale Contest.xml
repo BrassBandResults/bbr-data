@@ -1,0 +1,67 @@
+<contest-event id="41545">
+  <event-date date="1930-9-17">Sept. 17, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swaledale Contest</name>
+  <contest id="4773">
+    <name>Swaledale Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swaledale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4143">Show Field, Muker, Richmond, Yorkshire</venue>
+  <notes>Prizes - 1st £8, 2nd £5, 3rd £4, 4th £2.
+6 bands competed</notes>
+
+  <created>Dec. 11, 2018, 5:50 p.m.</created>
+  <last-modified>Dec. 12, 2018, 3:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="302181">
+      <result code="1">1</result>
+      <band id="16292">Hawes Good Templars</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302182">
+      <result code="2">2</result>
+      <band id="11553">Keld</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302183">
+      <result code="3">3</result>
+      <band id="11552">Gunnerside</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302185">
+      <result code="">Unknown Result</result>
+      <band id="11551">Bowes</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302184">
+      <result code="">Unknown Result</result>
+      <band id="11554">Coverdale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302186">
+      <result code="">Unknown Result</result>
+      <band id="2900">Muker Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

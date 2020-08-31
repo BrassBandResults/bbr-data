@@ -1,0 +1,55 @@
+<contest-event id="35645">
+  <event-date date="1951-6-23">June 23, 1951<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Flockton Contest</name>
+  <contest id="3895">
+    <name>Flockton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>flockton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1119">Macbeth [D. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3115">Flockton, West Riding, Yorkshire</venue>
+  <notes>March contest - 1st Hammoins, 2nd Hade Edge, 3rd Meltham and Meltham Mills.
+7 bands competed.</notes>
+
+  <created>July 7, 2016, 12:15 p.m.</created>
+  <last-modified>July 7, 2016, 12:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="258749">
+      <result code="1">1</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258750">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258751">
+      <result code="3">3</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258752">
+      <result code="4">4</result>
+      <band id="25">Hammonds Saltaire</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

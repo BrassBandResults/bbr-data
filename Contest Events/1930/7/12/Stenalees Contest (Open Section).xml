@@ -1,0 +1,74 @@
+<contest-event id="25725">
+  <event-date date="1930-7-12">July 12, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Open Section)</name>
+  <contest id="3688">
+    <name>Stenalees Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1045">Songs of England [Bath]</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>1st prize: £20, 2nd £14, 3rd £9.
+March contest(Valorous) - 1st St Dennis, 2nd Penzance, 3rd Indian Queens.
+7 bands competed.</notes>
+
+  <created>Dec. 25, 2013, 7:20 p.m.</created>
+  <last-modified>Dec. 7, 2018, 1:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186194">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="186195">
+      <result code="2">2</result>
+      <band id="1777">Indian Queens Silver</band>
+      <conductor id="304625">Ford Knight</conductor>
+    </result>
+    
+    <result id="186196">
+      <result code="3">3</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="186197">
+      <result code="4">4</result>
+      <band id="4496">Truro City</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="301808">
+      <result code="">Unknown Result</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301807">
+      <result code="">Unknown Result</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301806">
+      <result code="">Unknown Result</result>
+      <band id="4282">St. Blazey and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

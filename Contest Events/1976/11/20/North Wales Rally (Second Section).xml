@@ -1,0 +1,48 @@
+<contest-event id="21587">
+  <event-date date="1976-11-20">Nov. 20, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Second Section)</name>
+  <contest id="1772">
+    <name>North Wales Rally (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="289">A Moorside Suite</test-piece>
+  </test-piece>
+
+  <venue id="3526">Coleg Cambria, Connah&#39;s Quay, Flintshire, Wales, UK</venue>
+  <notes></notes>
+
+  <created>May 23, 2013, 2:32 p.m.</created>
+  <last-modified>May 13, 2014, 10:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="158542">
+      <result code="1">1</result>
+      <band id="288">Northop Band</band>
+      <conductor id="304214">Graham Jones</conductor>
+    </result>
+    
+    <result id="158543">
+      <result code="2">2</result>
+      <band id="2548">Colwyn Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="158544">
+      <result code="3">3</result>
+      <band id="206">City of Chester Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

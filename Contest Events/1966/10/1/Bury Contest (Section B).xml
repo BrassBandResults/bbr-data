@@ -1,0 +1,54 @@
+<contest-event id="19391">
+  <event-date date="1966-10-1">Oct. 1, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bury Contest (Section B)</name>
+  <contest id="4005">
+    <name>Bury Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bury-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3201">Drill Hall, Bury, Lancashire</venue>
+  <notes></notes>
+
+  <created>March 20, 2013, 10:51 a.m.</created>
+  <last-modified>March 20, 2013, 10:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="145578">
+      <result code="1">1</result>
+      <band id="3839">Meersbrook Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145579">
+      <result code="2">2</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145580">
+      <result code="3">3</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145581">
+      <result code="4">4</result>
+      <band id="124">Chapeltown Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

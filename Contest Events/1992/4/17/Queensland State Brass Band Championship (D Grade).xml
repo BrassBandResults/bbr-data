@@ -1,0 +1,78 @@
+<contest-event id="42453">
+  <event-date date="1992-4-17">April 17, 1992<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (D Grade)</name>
+  <contest id="1710">
+    <name>Queensland State Brass Band Championship (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1062">A Circus Suite</test-piece>
+  </test-piece>
+
+  <venue id="7161">Pilbeam Theatre (Concert Hall), Rockhampton, Queensland  Australia</venue>
+  <notes></notes>
+
+  <created>Aug. 8, 2019, 2:28 a.m.</created>
+  <last-modified>Aug. 9, 2019, 12:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311583">
+      <result code="1">1</result>
+      <band id="18122">Ashmore Brass  Gold Coast</band>
+      <conductor id="319453">Charles Fazakerly</conductor>
+    </result>
+    
+    <result id="311580">
+      <result code="2">2</result>
+      <band id="18121">Rockhampton City No.2</band>
+      <conductor id="298952">Graeme Cameron</conductor>
+    </result>
+    
+    <result id="311582">
+      <result code="3">3</result>
+      <band id="18028">Sarina District</band>
+      <conductor id="318216">Bob Hope</conductor>
+    </result>
+    
+    <result id="311579">
+      <result code="4">4</result>
+      <band id="11239">Capricornia Silver 2</band>
+      <conductor id="317214">Rod Haynes</conductor>
+    </result>
+    
+    <result id="311581">
+      <result code="5">5</result>
+      <band id="6566">Bundaberg Municipal Band No 2</band>
+      <conductor id="319452">Bernadette Rotar</conductor>
+    </result>
+    
+    <result id="311586">
+      <result code="W">Withdrawn</result>
+      <band id="18027">Brisbane Brass Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311585">
+      <result code="W">Withdrawn</result>
+      <band id="9302">Burdekin Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311584">
+      <result code="W">Withdrawn</result>
+      <band id="9328">Mackay City Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

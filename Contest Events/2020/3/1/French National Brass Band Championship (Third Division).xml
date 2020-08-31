@@ -1,0 +1,64 @@
+<contest-event id="42096">
+  <event-date date="2020-3-1">March 1, 2020<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French National Brass Band Championship (Third Division)</name>
+  <contest id="848">
+    <name>French National Brass Band Championship (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="120">French National Brass Band Championship</group>
+    <slug>french-national-brass-band-championship--848</slug>
+    
+    <notes></notes>
+    <region id="9">France</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="60">The Dark Side of the Moon</test-piece>
+  </test-piece>
+
+  <venue id="7100">Théâtre Charles Dullin, Le Grand-Quevilly, Normandie, France</venue>
+  <notes></notes>
+
+  <created>April 27, 2019, 9:48 p.m.</created>
+  <last-modified>Dec. 4, 2019, 12:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="314358">
+      <result code="1">1</result>
+      <band id="13007">Brass Band Les Coniques</band>
+      <conductor id="318941">Antoine Fréart</conductor>
+      <test-piece id="258">Renaissance</test-piece>
+    </result>
+    
+    <result id="314360">
+      <result code="2">2</result>
+      <band id="1759">Brass band des Pays de la Loire</band>
+      <conductor id="319841">Hans Loirs</conductor>
+      <test-piece id="6287">Médaillon of the Wild Forest</test-piece>
+    </result>
+    
+    <result id="314357">
+      <result code="3">3</result>
+      <band id="13009">Brass Band Lorient Bretagne Sud (3BS)</band>
+      <conductor id="317698">Bernard Galinier</conductor>
+      <test-piece id="230">Lake of the Moon</test-piece>
+    </result>
+    
+    <result id="314359">
+      <result code="4">4</result>
+      <band id="13011">Brass Band de la Vienne</band>
+      <conductor id="299247">Mathias Charton</conductor>
+      <test-piece id="280">Excalibur</test-piece>
+    </result>
+    
+    <result id="314361">
+      <result code="W">Withdrawn</result>
+      <band id="10397">Brass Band de Champs sur Marne</band>
+      <conductor id="304979">Philippe Legris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

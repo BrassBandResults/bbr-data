@@ -1,0 +1,66 @@
+<contest-event id="9236">
+  <event-date date="1886-6-12">June 12, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aberdare Contest</name>
+  <contest id="1641">
+    <name>Aberdare Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>aberdare-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1074">The Forest Queen</test-piece>
+  </test-piece>
+
+  <venue id="1676">Aberdare, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Dec. 29, 2011, 1:08 p.m.</created>
+  <last-modified>May 17, 2012, 9:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80018">
+      <result code="1">1</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="308989">Robert Shaw</conductor>
+    </result>
+    
+    <result id="80019">
+      <result code="2">2</result>
+      <band id="6261">Tredegar Volunteer</band>
+      <conductor id="305285">Mr Lott</conductor>
+    </result>
+    
+    <result id="80022">
+      <result code="3">3</result>
+      <band id="6262">Aberdare Volunteer</band>
+      <conductor id="306380">Brian Morris</conductor>
+    </result>
+    
+    <result id="80020">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="307398">Mr Perry</conductor>
+    </result>
+    
+    <result id="80021">
+      <result code="">Unknown Result</result>
+      <band id="6182">Merthyr Volunteer</band>
+      <conductor id="304272">Robert Jones</conductor>
+    </result>
+    
+    <result id="80023">
+      <result code="">Unknown Result</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="307688">James Prestwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

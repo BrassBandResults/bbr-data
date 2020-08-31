@@ -1,0 +1,54 @@
+<contest-event id="9090">
+  <event-date date="1972-3-5">March 5, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>CISWO Yorkshire (2nd Section)</name>
+  <contest id="673">
+    <name>CISWO Yorkshire (2nd Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="109">CISWO Yorkshire</group>
+    <slug>ciswo-yorkshire-2nd-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="158">Kenilworth</test-piece>
+  </test-piece>
+
+  <venue id="3258">City Hall, Sheffield</venue>
+  <notes></notes>
+
+  <created>Dec. 21, 2011, 5:14 p.m.</created>
+  <last-modified>June 8, 2014, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="79134">
+      <result code="1">1</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="309995">Sydney Swancott</conductor>
+    </result>
+    
+    <result id="154651">
+      <result code="2">2</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="297096">Jackie Argyle</conductor>
+    </result>
+    
+    <result id="154652">
+      <result code="3">3</result>
+      <band id="127">Barnsley Brass</band>
+      <conductor id="303940">Frank Jaques</conductor>
+    </result>
+    
+    <result id="154653">
+      <result code="4">4</result>
+      <band id="147">Emley Brass Band</band>
+      <conductor id="311306">Charlie Westerby</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,70 @@
+<contest-event id="8283">
+  <event-date date="1876-7-24">July 24, 1876<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marske-by-the-Sea Contest</name>
+  <contest id="1451">
+    <name>Marske-by-the-Sea Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>marske-by-the-sea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1985">Don Giovanni [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="944">Marske-by-the-Sea, North Yorkshire</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4287.htm
+
+Band Contest - Marske-by-the-Sea
+The tenth annual brass band contest at Marske-by-the-Sea took place in a field near the village, and was in many respects a success, a flower show which was this year held for the first time in connection with it proving a great attraction. Notwithstanding the heavy rainfall overnight, the pleasantly-situated ground in which the show was held, and which had been kindly placed at the service of the committee by Mr Charles, was in capital condition, and was visited during the day by several hundred spectators. The prizes offered for the band contest were as usual on a liberal scale, £20 being offered for the first, £14 for the second, £8 for the third, and £5 for the fourth and six bands entered, viz.: Saltaire, Whitworth, Leeds Model, Mirfield, Staleybridge, and Dewsbury. Of these, only the Whitworth, Leeds Model, and Dewsbury put in an appearance, and each played with considerable ability, the selection from &quot;Don Giovanni&quot; being a rare treat. The first prize was eventually awarded to Dewsbury, the Leeds Model receiving the second, and Whitworth the third prize</notes>
+
+  <created>Nov. 11, 2011, 3:30 p.m.</created>
+  <last-modified>Nov. 12, 2012, 5:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="74172">
+      <result code="1">1</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74173">
+      <result code="2">2</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74174">
+      <result code="3">3</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74176">
+      <result code="W">Withdrawn</result>
+      <band id="4062">Mirfield Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74175">
+      <result code="W">Withdrawn</result>
+      <band id="4899">Saltaire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74177">
+      <result code="W">Withdrawn</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

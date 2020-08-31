@@ -1,0 +1,54 @@
+<contest-event id="18751">
+  <event-date date="1944-6-3">June 3, 1944<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northumberland Brass Band League (Section B)</name>
+  <contest id="3586">
+    <name>Northumberland Brass Band League (Section B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northumberland-brass-band-league-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>Result above as shown in column 2 page 13 Musical Progress and Mail July 1944.  Column 1 same page by different correspondent gives result as - 1st Hetton, 2nd Boldon, 3rd Washington.</notes>
+
+  <created>March 2, 2013, 11:21 a.m.</created>
+  <last-modified>Feb. 13, 2016, 11:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="140610">
+      <result code="1">1</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="308832">George Scorer</conductor>
+    </result>
+    
+    <result id="140611">
+      <result code="2">2</result>
+      <band id="10191">Jarvis Industrial Welfare</band>
+      <conductor id="309505">George Snowdon</conductor>
+    </result>
+    
+    <result id="140612">
+      <result code="3">3</result>
+      <band id="309">Felling Band</band>
+      <conductor id="311011">Albert Ward</conductor>
+    </result>
+    
+    <result id="140613">
+      <result code="4">4</result>
+      <band id="923">Boldon Colliery Band</band>
+      <conductor id="298334">H. Bradley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

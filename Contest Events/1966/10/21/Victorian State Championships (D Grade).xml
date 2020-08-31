@@ -1,0 +1,54 @@
+<contest-event id="39190">
+  <event-date date="1966-10-21">Oct. 21, 1966<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (D Grade)</name>
+  <contest id="3480">
+    <name>Victorian State Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-d-grade</slug>
+    
+    <notes>None</notes>
+    
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1757">Sinfonie Concertante</test-piece>
+  </test-piece>
+
+  <venue id="6810">Civic Hall, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 20, 2018, 2:29 a.m.</created>
+  <last-modified>June 26, 2020, 2:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284817">
+      <result code="1">1</result>
+      <band id="16849">St. Vincent de Paul Boys Orphanage -- South Melbourne</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+    <result id="284818">
+      <result code="2">2</result>
+      <band id="6404">City of Bendigo Brass Band</band>
+      <conductor id="317693">Frank Turner</conductor>
+    </result>
+    
+    <result id="284819">
+      <result code="3">3</result>
+      <band id="2198">Port Fairy Band</band>
+      <conductor id="317694">R. Booth</conductor>
+    </result>
+    
+    <result id="284820">
+      <result code="4">4</result>
+      <band id="16857">Tarrington Citizens</band>
+      <conductor id="297641">Eric Beale</conductor>
+    </result>
+    
+  </results>
+</contest-event>

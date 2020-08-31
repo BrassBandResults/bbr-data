@@ -1,0 +1,70 @@
+<contest-event id="31213">
+  <event-date date="1993-8-28">Aug. 28, 1993<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wensleydale International Festival</name>
+  <contest id="5626">
+    <name>Wensleydale International Festival</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wensleydale-international-festival</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="15">March, Hymn and Own Choice Test Piece Contest (Separate Points)</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5771">Aysgarth, North Yorkshire, England, UK</venue>
+  <notes>Edinburgh International contest was not run and the competitors (5 Scottish and 4 English bands) played at Wensleydale instead.  Each band also had to play a solo item.
+Best march - Ever Ready (Ravenswood)
+Best hymn - Whitburn (Crimond)
+Best test piece - Yorkshire Imperial.
+Best soloist - Martin Gill (Eb Bass) Yorkshire Imperial.(Czardas -Monti).
+Best soloist in test piece - Jason Moore (cornet) Yorkshire Imperial.
+Best percussion - Whitburn.
+9 bands competed.</notes>
+
+  <created>Feb. 24, 2015, 11:09 a.m.</created>
+  <last-modified>Feb. 24, 2015, 11:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="222187">
+      <result code="1">1</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="301040">Alan Exley</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+    <result id="222188">
+      <result code="2">2</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="307124">Peter Parkes</conductor>
+    </result>
+    
+    <result id="222189">
+      <result code="3">3</result>
+      <band id="232">Newtongrange Band</band>
+      <conductor id="310220">Raymond Tennant</conductor>
+    </result>
+    
+    <result id="222190">
+      <result code="4">4</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="311453">Geoffrey Whitham</conductor>
+      <test-piece id="48">English Heritage</test-piece>
+    </result>
+    
+    <result id="222191">
+      <result code="">Unknown Result</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="310879">Roy Waite</conductor>
+      <test-piece id="51">Ballet for Band</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

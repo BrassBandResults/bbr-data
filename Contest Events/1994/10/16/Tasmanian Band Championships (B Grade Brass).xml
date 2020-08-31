@@ -1,0 +1,51 @@
+<contest-event id="42867">
+  <event-date date="1994-10-16">Oct. 16, 1994<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1730">Confluence for Brass Band</test-piece>
+  </test-piece>
+
+  <venue id="7190">Ulverstone Civic Centre, Tasmania, Australia</venue>
+  <notes>Bands also required to play a Hymn (not included in championship)</notes>
+
+  <created>Nov. 14, 2019, 9:47 p.m.</created>
+  <last-modified>Nov. 14, 2019, 9:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313734">
+      <result code="1">1</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305375">Chris Lusted</conductor>
+      <test-piece id="286">A Salford Sinfonietta</test-piece>
+    </result>
+    
+    <result id="313735">
+      <result code="2">2</result>
+      <band id="2141">Glenorchy City Concert Brass</band>
+      <conductor id="303661">Dean Hunt</conductor>
+      <test-piece id="57">Connotations</test-piece>
+    </result>
+    
+    <result id="313733">
+      <result code="3">3</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="303045">Anthony Hicks</conductor>
+      <test-piece id="1414">Brass Miniatures</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

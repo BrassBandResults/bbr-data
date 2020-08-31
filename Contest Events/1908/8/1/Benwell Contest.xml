@@ -1,0 +1,67 @@
+<contest-event id="38756">
+  <event-date date="1908-8-1">Aug. 1, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Benwell Contest</name>
+  <contest id="3430">
+    <name>Benwell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>benwell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1081">Echoes of England</test-piece>
+  </test-piece>
+
+  <venue id="2625">Benwell, Newcastle-upon-Tyne</venue>
+  <notes>March contest - 1st St Hilda, 2nd Birtley Town.
+6 bands competed.</notes>
+
+  <created>Nov. 18, 2017, 9:44 p.m.</created>
+  <last-modified>Nov. 18, 2017, 9:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="282003">
+      <result code="1">1</result>
+      <band id="4504">Birtley Town</band>
+      <conductor id="303593">J. Hughes</conductor>
+    </result>
+    
+    <result id="282009">
+      <result code="2">2</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="282005">
+      <result code="3">3</result>
+      <band id="7183">Ovington Band</band>
+      <conductor id="302878">Frank Hedley</conductor>
+    </result>
+    
+    <result id="282007">
+      <result code="">Unknown Result</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282008">
+      <result code="">Unknown Result</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282006">
+      <result code="">Unknown Result</result>
+      <band id="6921">Throckley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

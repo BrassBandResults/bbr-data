@@ -1,0 +1,78 @@
+<contest-event id="3723">
+  <event-date date="1958-3-22">March 22, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Championship Section)</name>
+  <contest id="21">
+    <name>North West Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="138">The Moor of Venice</test-piece>
+  </test-piece>
+
+  <venue id="3130">Albert Hall, Manchester</venue>
+  <notes>8 bands competed</notes>
+
+  <created>Feb. 6, 2011, 2:41 a.m.</created>
+  <last-modified>Aug. 25, 2013, 7:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="34475">
+      <result code="1">1</result>
+      <band id="1347">City of Manchester</band>
+      <conductor id="306421">Alex Mortimer</conductor>
+    </result>
+    
+    <result id="169358">
+      <result code="2">2</result>
+      <band id="6">Fairey Band</band>
+      <conductor id="297392">Eric Ball</conductor>
+    </result>
+    
+    <result id="169359">
+      <result code="3">3</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="306425">Rex Mortimer</conductor>
+    </result>
+    
+    <result id="169360">
+      <result code="">Unknown Result</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="311918">Willie Wood</conductor>
+    </result>
+    
+    <result id="169361">
+      <result code="">Unknown Result</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="312107">William Yates</conductor>
+    </result>
+    
+    <result id="169362">
+      <result code="">Unknown Result</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="299267">Harry Cheshire</conductor>
+    </result>
+    
+    <result id="169363">
+      <result code="">Unknown Result</result>
+      <band id="2502">Prescot Cables</band>
+      <conductor id="298994">John Capper</conductor>
+    </result>
+    
+    <result id="169364">
+      <result code="">Unknown Result</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="307158">Hugh Parry</conductor>
+    </result>
+    
+  </results>
+</contest-event>

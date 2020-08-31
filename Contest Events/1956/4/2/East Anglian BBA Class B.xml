@@ -1,0 +1,49 @@
+<contest-event id="20420">
+  <event-date date="1956-4-2">April 2, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Class B</name>
+  <contest id="426">
+    <name>East Anglian BBA Spring Festival (Class B)</name>
+    <order>30</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1220">Sailors&#39; Songs [F. Wright]</test-piece>
+  </test-piece>
+
+  <venue id="232">St. Andrew&#39;s Hall, Norwich</venue>
+  <notes>
+  Hymn tune contest held in conjunction with Class C - 1st Green Brothers, 2nd Newmarket Town, 3rd Hindolveston.</notes>
+
+  <created>April 10, 2013, 8:26 a.m.</created>
+  <last-modified>Sept. 15, 2016, 12:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="151539">
+      <result code="1">1</result>
+      <band id="832">Newmarket Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151540">
+      <result code="2">2</result>
+      <band id="3885">Breckland Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151541">
+      <result code="3">3</result>
+      <band id="632">Royston Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="6466">
+  <event-date date="1970-3-1">March 1, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Area Qualifying Contest (Championship Section)</name>
+  <contest id="3679">
+    <name>Scottish Area Qualifying Contest (Championship Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="370">Scottish Area Qualifying Contest</group>
+    <slug>scottish-area-daily-herald-qualifying-co-3679</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="7">Scotland</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="397">The Corsair</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>June 14, 2011, 4:36 p.m.</created>
+  <last-modified>March 25, 2013, 11:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="56974">
+      <result code="1">1</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="309870">Allan Street</conductor>
+    </result>
+    
+    <result id="56975">
+      <result code="2">2</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="311453">Geoffrey Whitham</conductor>
+    </result>
+    
+    <result id="56976">
+      <result code="3">3</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="298961">Duncan Campbell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

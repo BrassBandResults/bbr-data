@@ -1,0 +1,44 @@
+<contest-event id="22002">
+  <event-date date="2013-6-16">June 16, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Schweizer Jugendmusikfest (BB Höchststufe)</name>
+  <contest id="4361">
+    <name>Schweizer Jugendmusikfest (BB Höchststufe)</name>
+    <order>10</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="413">Schweizer Jugendmusikfest</group>
+    <slug>schweizer-jugendmusikfest-bb-hochststufe</slug>
+    
+    <notes>None</notes>
+    <region id="10">Switzerland</region>
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2129">Lord Tullamore</test-piece>
+  </test-piece>
+
+  <venue id="3602">Zug, Switzerland</venue>
+  <notes></notes>
+
+  <created>June 21, 2013, 6:24 p.m.</created>
+  <last-modified>May 26, 2014, 4:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="163190">
+      <result code="1">1</result>
+      <band id="1068">BML Talents</band>
+      <conductor id="306989">Patrick Ottiger</conductor>
+      <test-piece id="1139">Cross Patonce</test-piece>
+    </result>
+    
+    <result id="163191">
+      <result code="2">2</result>
+      <band id="108">Liberty Brass Band Junior</band>
+      <conductor id="305341">Christoph Luchsinger</conductor>
+      <test-piece id="280">Excalibur</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

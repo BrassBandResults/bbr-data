@@ -1,0 +1,54 @@
+<contest-event id="39717">
+  <event-date date="1911-6-5">June 5, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class A)</name>
+  <contest id="2236">
+    <name>Llandovery Contest (Class A)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2798">Auber&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>May 25, 2018, 11:59 a.m.</created>
+  <last-modified>May 25, 2018, 12:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287865">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="287862">
+      <result code="2">2</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="287863">
+      <result code="2">2</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="287864">
+      <result code="4">4</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

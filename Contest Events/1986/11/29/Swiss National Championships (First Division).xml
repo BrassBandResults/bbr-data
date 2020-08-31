@@ -1,0 +1,48 @@
+<contest-event id="14399">
+  <event-date date="1986-11-29">Nov. 29, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (First Division)</name>
+  <contest id="12">
+    <name>Swiss National Championships (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-first-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="220">Music for a Festival [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="506">Kursaal Bern, Switzerland</venue>
+  <notes>  Prizes  1st Fr 900,  2nd Fr 200,  3rd Fr100.</notes>
+
+  <created>Aug. 10, 2012, 9:59 a.m.</created>
+  <last-modified>Feb. 10, 2017, 8:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114649">
+      <result code="1">1</result>
+      <band id="9091">Musikgesellschaft Brass Band Hilterfingen</band>
+      <conductor id="308230">J. Ringgenberg</conductor>
+    </result>
+    
+    <result id="127160">
+      <result code="2">2</result>
+      <band id="9970">Musikgesellschaft Ruti bei Buren</band>
+      <conductor id="298770">W. Burkhalter</conductor>
+    </result>
+    
+    <result id="127161">
+      <result code="3">3</result>
+      <band id="1610">Musikgesellschaft Brass Band Lommiswil</band>
+      <conductor id="298770">W. Burkhalter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

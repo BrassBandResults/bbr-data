@@ -1,0 +1,54 @@
+<contest-event id="15254">
+  <event-date date="1987-11-14">Nov. 14, 1987<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest (Third Section)</name>
+  <contest id="562">
+    <name>Reading Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="93">Reading Contest</group>
+    <slug>reading-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="559">Othello</test-piece>
+  </test-piece>
+
+  <venue id="291">The Hexagon, Reading, Berkshire, England, UK</venue>
+  <notes>51st annual contest</notes>
+
+  <created>Oct. 12, 2012, 1:59 p.m.</created>
+  <last-modified>Oct. 22, 2014, 11:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="211849">
+      <result code="1">1</result>
+      <band id="870">Dunchurch Band</band>
+      <conductor id="306814">Paul Northey</conductor>
+    </result>
+    
+    <result id="211850">
+      <result code="2">2</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="302928">Don Hendy</conductor>
+    </result>
+    
+    <result id="211851">
+      <result code="3">3</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="301731">Bill Geldard</conductor>
+    </result>
+    
+    <result id="118460">
+      <result code="">Unknown Result</result>
+      <band id="613">Olney Brass</band>
+      <conductor id="303982">Alan Jenkin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,44 @@
+<contest-event id="25578">
+  <event-date date="2013-11-23">Nov. 23, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belgian Nationals (Second Division)</name>
+  <contest id="78">
+    <name>Belgian Nationals (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-second-division</slug>
+    
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="286">A Salford Sinfonietta</test-piece>
+  </test-piece>
+
+  <venue id="149">Lemmensinstituut, Leuven, Flemish Brabant, Belgium</venue>
+  <notes></notes>
+
+  <created>Dec. 11, 2013, 11:24 a.m.</created>
+  <last-modified>Dec. 11, 2013, 11:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185438">
+      <result code="1">1</result>
+      <band id="680">Brassband Scaldis</band>
+      <conductor id="312196">Raf van Looveren</conductor>
+      <test-piece id="2082">Vivat!</test-piece>
+    </result>
+    
+    <result id="185439">
+      <result code="2">2</result>
+      <band id="1607">Braz &#39;art Band</band>
+      <conductor id="310790">Geert Verschaeve</conductor>
+      <test-piece id="280">Excalibur</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="14410">
+  <event-date date="1990-11-24">Nov. 24, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (Second Division)</name>
+  <contest id="13">
+    <name>Swiss National Championships (Second Division)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-second-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="169">Triptych [Sparke]</test-piece>
+  </test-piece>
+
+  <venue id="36">Music and Convention Centre, Montreux, VD, Switzerland</venue>
+  <notes></notes>
+
+  <created>Aug. 10, 2012, 10:44 a.m.</created>
+  <last-modified>Sept. 11, 2016, 1:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261673">
+      <result code="1">1</result>
+      <band id="78">Brass Band Harmonie Neuenkirch</band>
+      <conductor id="311493">Ludwig Wicki</conductor>
+    </result>
+    
+    <result id="236786">
+      <result code="4">4</result>
+      <band id="93">Musikverein Brass Band Henggart</band>
+      <conductor id="298761">Andreas Buri</conductor>
+    </result>
+    
+    <result id="186746">
+      <result code="7">7</result>
+      <band id="95">Brass Band Matzendorf</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+  </results>
+</contest-event>

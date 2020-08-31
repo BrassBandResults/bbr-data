@@ -1,0 +1,54 @@
+<contest-event id="20404">
+  <event-date date="2013-4-27">April 27, 2013<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grenland International Brass Festival (First Division)</name>
+  <contest id="388">
+    <name>Grenland International Brass Festival (First Division)</name>
+    <order>10</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="66">Grenland International Brass Festival</group>
+    <slug>grenland-international-brass-festival-first-divisi</slug>
+    
+    <notes></notes>
+    <region id="21">Norway</region>
+    <section id="2">First</section>
+  </contest>
+  <contest-type-override id="22">Chuch Concert, Test Piece &amp; Entertainment</contest-type-override>
+  <test-piece>
+    <test-piece id="497">Abstractions</test-piece>
+  </test-piece>
+
+  <venue id="200">Ibsenhuset, Skien, Telemark, Norway</venue>
+  <notes>Soloist prize: Soprano, Hasle Brass</notes>
+
+  <created>April 9, 2013, 8:12 p.m.</created>
+  <last-modified>April 27, 2013, 8:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="151435">
+      <result code="1">1</result>
+      <band id="1128">Hasle Brass</band>
+      <conductor id="306760">Robert Solberg Nilsen</conductor>
+    </result>
+    
+    <result id="151437">
+      <result code="2">2</result>
+      <band id="1111">Rong Brass</band>
+      <conductor id="301871">Eirik Gjerdevik</conductor>
+    </result>
+    
+    <result id="151438">
+      <result code="3">3</result>
+      <band id="1106">Radøy Brass</band>
+      <conductor id="307742">Gareth Pritchard</conductor>
+    </result>
+    
+    <result id="151436">
+      <result code="4">4</result>
+      <band id="1100">Sørum Musikklag</band>
+      <conductor id="296967">Frode Amundsen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

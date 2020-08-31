@@ -1,0 +1,51 @@
+<contest-event id="41860">
+  <event-date date="2019-2-24">Feb. 24, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>French National Brass Band Championship (Third Division)</name>
+  <contest id="848">
+    <name>French National Brass Band Championship (Third Division)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="120">French National Brass Band Championship</group>
+    <slug>french-national-brass-band-championship--848</slug>
+    
+    <notes></notes>
+    <region id="9">France</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="385">Hinemoa</test-piece>
+  </test-piece>
+
+  <venue id="7071">Mégacité, Amiens, Hauts-de-France, France</venue>
+  <notes></notes>
+
+  <created>Feb. 27, 2019, 10:47 a.m.</created>
+  <last-modified>Feb. 27, 2019, 10:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="304947">
+      <result code="1">1</result>
+      <band id="13007">Brass Band Les Coniques</band>
+      <conductor id="318941">Antoine Fréart</conductor>
+      <test-piece id="873">Ancient Monuments</test-piece>
+    </result>
+    
+    <result id="304948">
+      <result code="2">2</result>
+      <band id="12868">Brass Band Musicalis Algrange</band>
+      <conductor id="319070">André Sablon</conductor>
+      <test-piece id="74">Anglian Dances</test-piece>
+    </result>
+    
+    <result id="304949">
+      <result code="3">3</result>
+      <band id="17722">Brass Band des Gones</band>
+      <conductor id="318943">Anthony Galinier</conductor>
+      <test-piece id="3468">Broken Sword</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

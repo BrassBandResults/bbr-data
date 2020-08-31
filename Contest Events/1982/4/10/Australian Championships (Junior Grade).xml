@@ -1,0 +1,78 @@
+<contest-event id="34732">
+  <event-date date="1982-4-10">April 10, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1178">Youth Salutes a Master</test-piece>
+  </test-piece>
+
+  <venue id="6060">Townsville, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>March 21, 2016, 8:47 a.m.</created>
+  <last-modified>March 25, 2016, 10:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="250547">
+      <result code="1">1</result>
+      <band id="741">Willoughby City Junior Band</band>
+      <conductor id="310958">Peter Walmsley</conductor>
+      <test-piece id="1161">Henry the Fifth [Vaughan Williams]</test-piece>
+    </result>
+    
+    <result id="250548">
+      <result code="2">2</result>
+      <band id="12292">Christian Brothers High School Lewisham</band>
+      <conductor id="303046">Bruce Hicks</conductor>
+      <test-piece id="23">Resurgam</test-piece>
+    </result>
+    
+    <result id="250549">
+      <result code="3">3</result>
+      <band id="745">Newcastle PCYC Brass Band</band>
+      <conductor id="304397">John Kellaway</conductor>
+      <test-piece id="383">Sinfonietta [Wilson]</test-piece>
+    </result>
+    
+    <result id="250550">
+      <result code="4">4</result>
+      <band id="17986">St.Joseph&#39;s Christian Brothers College  --  Rockhampton</band>
+      <conductor id="298783">D. A. Burns</conductor>
+      <test-piece id="1721">Episodes for Brass [Hanmer]</test-piece>
+    </result>
+    
+    <result id="250551">
+      <result code="5">5</result>
+      <band id="13324">Sunnybank and District Juniors</band>
+      <conductor id="300509">Brian Douglas</conductor>
+      <test-piece id="237">Four Little Maids</test-piece>
+    </result>
+    
+    <result id="250552">
+      <result code="6">6</result>
+      <band id="16315">Townsville Brass Youth Band</band>
+      <conductor id="303447">Roy Hosking</conductor>
+      <test-piece id="640">The Rising Generation</test-piece>
+    </result>
+    
+    <result id="250553">
+      <result code="W">Withdrawn</result>
+      <band id="12079">Barker College Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

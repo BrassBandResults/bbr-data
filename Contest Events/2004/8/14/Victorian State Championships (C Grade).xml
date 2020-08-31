@@ -1,0 +1,54 @@
+<contest-event id="39081">
+  <event-date date="2004-8-14">Aug. 14, 2004<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (C Grade)</name>
+  <contest id="897">
+    <name>Victorian State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="265">Seven Wonders</test-piece>
+  </test-piece>
+
+  <venue id="4945">Her Majesty&#39;s Theatre, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 2, 2018, 6:07 a.m.</created>
+  <last-modified>Feb. 2, 2018, 6:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="284240">
+      <result code="1">1</result>
+      <band id="2170">Sunshine Community Brass [Victoria]</band>
+      <conductor id="309335">Chris Smith</conductor>
+    </result>
+    
+    <result id="284241">
+      <result code="2">2</result>
+      <band id="2161">Hahndorf Town Band</band>
+      <conductor id="298954">Kevin Cameron</conductor>
+    </result>
+    
+    <result id="284242">
+      <result code="3">3</result>
+      <band id="9348">Wodonga Brass</band>
+      <conductor id="317551">Gregory Lewis</conductor>
+    </result>
+    
+    <result id="284243">
+      <result code="4">4</result>
+      <band id="2318">Frankston City Band</band>
+      <conductor id="306346">Kevin Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="385">
+  <event-date date="2008-5-3">May 3, 2008<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>European Championships (B Section)</name>
+  <contest id="86">
+    <name>European Championships (Challenge Section)</name>
+    <order>20</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="22">European Championships</group>
+    <slug>european-championships-b-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="152">Cornucopia</test-piece>
+  </test-piece>
+
+  <venue id="401">Stavanger Konserthus (Kuppelhallen), Stavanger, Rogaland, Norway</venue>
+  <notes></notes>
+
+  <created>May 8, 2009, 8:43 p.m.</created>
+  <last-modified>Jan. 18, 2010, 9:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="5388">
+      <result code="1">1</result>
+      <band id="890">Brass Band Frener-Reifer Pfeffersberg</band>
+      <conductor id="308042">Bernhard Reifer</conductor>
+      <test-piece id="117">Extreme Make-over</test-piece>
+    </result>
+    
+    <result id="5385">
+      <result code="2">2</result>
+      <band id="715">3ba-brass</band>
+      <conductor id="305749">Franz Matysiak</conductor>
+      <test-piece id="229">Partita [Sparke]</test-piece>
+    </result>
+    
+    <result id="5389">
+      <result code="3">3</result>
+      <band id="889">Musikkorpset Gjallarhorn</band>
+      <conductor id="311305">Espen Westbye</conductor>
+      <test-piece id="285">A Malvern Suite</test-piece>
+    </result>
+    
+    <result id="5390">
+      <result code="4">4</result>
+      <band id="718">Murley Silver Band</band>
+      <conductor id="297004">Keith Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

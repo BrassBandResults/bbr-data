@@ -1,0 +1,62 @@
+<contest-event id="21445">
+  <event-date date="1975-12-7">Dec. 7, 1975<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Suffolk Championship Contest</name>
+  <contest id="3584">
+    <name>Suffolk Championship Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>suffolk-championship-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3521">Newmarket Upper School, Suffolk</venue>
+  <notes>  Musical selection contest - 1st Wrentham, 2nd Copleston, 3rd Long Melford.
+  March contest - 1st Wrentham, 2nd Bury St Edmunds, 3rd Woodbridge.
+  Best cornet - Wrentham.</notes>
+
+  <created>May 17, 2013, 9:02 a.m.</created>
+  <last-modified>May 17, 2013, 11:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="157790">
+      <result code="1">1</result>
+      <band id="1531">Wrentham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157791">
+      <result code="2">2</result>
+      <band id="3507">Long Melford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157792">
+      <result code="3">3</result>
+      <band id="3508">Bury St Edmunds Royal British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157793">
+      <result code="">Unknown Result</result>
+      <band id="5450">Copleston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="157794">
+      <result code="">Unknown Result</result>
+      <band id="621">Woodbridge Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="16777">
+  <event-date date="1989-10-15">Oct. 15, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Preston District Contest (Fourth Section)</name>
+  <contest id="3478">
+    <name>NWABBA Preston District Contest (Section D)</name>
+    <order>130</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="38">Fleetwood Contest (NWABBA Preston District Contest)</group>
+    <slug>nwabba-preston-district-contest-section-d</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="114">Snowdon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="87">Marine Hall, Fleetwood, Lancashire</venue>
+  <notes>4 bands competed.
+41st annual contest.</notes>
+
+  <created>Dec. 4, 2012, 4:33 p.m.</created>
+  <last-modified>Jan. 21, 2015, 10:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="128376">
+      <result code="1">1</result>
+      <band id="10000">Orrell &#39;B&#39;</band>
+      <conductor id="300381">Charles Dickinson</conductor>
+    </result>
+    
+    <result id="128377">
+      <result code="2">2</result>
+      <band id="2759">Southport St. John Ambulance Brigade Silver Band</band>
+      <conductor id="304580">Graham Kitchen</conductor>
+    </result>
+    
+    <result id="128378">
+      <result code="3">3</result>
+      <band id="1840">Chorley Silver Band</band>
+      <conductor id="308440">Kenneth Rollins</conductor>
+    </result>
+    
+    <result id="219540">
+      <result code="4">4</result>
+      <band id="12483">Chorley and District Youth</band>
+      <conductor id="300017">I. Cuthbertson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

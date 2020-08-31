@@ -1,0 +1,42 @@
+<contest-event id="42823">
+  <event-date date="1986-7-20">July 20, 1986<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+  <contest id="3040">
+    <name>Tasmanian Band Championships (Junior A Grade Brass)</name>
+    <order>50</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-junior-a-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="640">The Rising Generation</test-piece>
+  </test-piece>
+
+  <venue id="6487">Princess Theatre, Launceston, Tasmania, Australia</venue>
+  <notes>Bands also required to play a Hymn   (not included in championship)</notes>
+
+  <created>Nov. 7, 2019, 12:50 a.m.</created>
+  <last-modified>Dec. 7, 2019, 3:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313553">
+      <result code="1">1</result>
+      <band id="18300">Glenorchy City Concert Brass Juniors</band>
+      <conductor id="300763">Arthur Edwards</conductor>
+    </result>
+    
+    <result id="313552">
+      <result code="2">2</result>
+      <band id="11242">Ulverstone Municipal Juniors</band>
+      <conductor id="305375">Chris Lusted</conductor>
+    </result>
+    
+  </results>
+</contest-event>

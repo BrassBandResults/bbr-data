@@ -1,0 +1,69 @@
+<contest-event id="1512">
+  <event-date date="1974-11-3">Nov. 3, 1974<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Preston District Contest (Section A)</name>
+  <contest id="3477">
+    <name>NWABBA Preston District Contest (Section A)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="38">Fleetwood Contest (NWABBA Preston District Contest)</group>
+    <slug>nwabba-preston-district-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="521">Suite Gothique</test-piece>
+  </test-piece>
+
+  <venue id="87">Marine Hall, Fleetwood, Lancashire</venue>
+  <notes>1st Prize - The Boddington Challenge Trophy &amp; The Poulton (W Taylor) Trophy - £50
+2nd Prize - The Quaker Trophy - £30 
+3rd Prize - The H Thompson Memorial Trophy - £20
+A Medal will be Presented to the Secratary of the Winning Band</notes>
+
+  <created>Feb. 20, 2010, 4:41 p.m.</created>
+  <last-modified>Feb. 20, 2014, 2:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="190415">
+      <result code="1">1</result>
+      <band id="168">Poulton-Le-Fylde Band</band>
+      <conductor id="297071">Michael Antrobus</conductor>
+    </result>
+    
+    <result id="190413">
+      <result code="2">2</result>
+      <band id="1358">Lancashire Constabulary Band</band>
+      <conductor id="303452">Frank Hough</conductor>
+    </result>
+    
+    <result id="190416">
+      <result code="3">3</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="305391">William Lyon</conductor>
+    </result>
+    
+    <result id="190414">
+      <result code="5">5</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="298634">Malcolm Brownbill</conductor>
+    </result>
+    
+    <result id="190411">
+      <result code="">Unknown Result</result>
+      <band id="394">Brindle Band</band>
+      <conductor id="301008">Richard Evans</conductor>
+    </result>
+    
+    <result id="190412">
+      <result code="W">Withdrawn</result>
+      <band id="1362">Warburtons Bakery Band</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

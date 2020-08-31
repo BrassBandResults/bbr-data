@@ -1,0 +1,48 @@
+<contest-event id="37920">
+  <event-date date="2017-5-6">May 6, 2017<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Show Contest (Giron de Musique de la Glâne)</name>
+  <contest id="6154">
+    <name>Show Contest (Giron de Musique de la Glâne), FR</name>
+    <order>0</order>
+    <contest-type id="10">Set Test and Entertainments Contest</contest-type>
+    <group id="583">Show / Entertainment Contests (Switzerland)</group>
+    <slug>show-contest-giron-de-musique-de-la-glane</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="4826">The Big Top</test-piece>
+  </test-piece>
+
+  <venue id="6175">Promasens, FR, Switzerland</venue>
+  <notes>Held before the common (expertised) Giron de Musique.</notes>
+
+  <created>May 12, 2017, 8:38 a.m.</created>
+  <last-modified>May 12, 2017, 11:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274090">
+      <result code="1">1</result>
+      <band id="8830">Fanfare de Mont-sur-Rolle</band>
+      <conductor id="316580">Emmanuel Violi</conductor>
+    </result>
+    
+    <result id="274091">
+      <result code="2">2</result>
+      <band id="7105">La Lyre paroissiale Courtion</band>
+      <conductor id="306315">Dominique Morel</conductor>
+    </result>
+    
+    <result id="274092">
+      <result code="3">3</result>
+      <band id="8911">Union Instrumentale de Forel (Lavaux)</band>
+      <conductor id="308431">Julien Roh</conductor>
+    </result>
+    
+  </results>
+</contest-event>

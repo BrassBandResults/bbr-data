@@ -1,0 +1,81 @@
+<contest-event id="35077">
+  <event-date date="1961-10-30">Oct. 30, 1961<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="652">Glastonbury</test-piece>
+  </test-piece>
+
+  <venue id="350">Dubbo, New South Wales, Australia</venue>
+  <notes>Championship included Test Selection
+Sacred Item
+Street March  points listed under Own Choice
+Quickstep (Music)  points listed under Stage March
+</notes>
+
+  <created>April 12, 2016, 3:27 a.m.</created>
+  <last-modified>March 24, 2020, 11:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="252907">
+      <result code="1">1</result>
+      <band id="9436">Dubbo Brass Band</band>
+      <conductor id="298776">Cobber Burnett</conductor>
+      <test-piece id="3816">Hymn: Aberystwyth</test-piece>
+    </result>
+    
+    <result id="316487">
+      <result code="2">2</result>
+      <band id="2308">Blue Mountains City Band</band>
+      <conductor id="315311">J. Waldron</conductor>
+      <test-piece id="5858">Hymn: Nearer My God to Thee</test-piece>
+    </result>
+    
+    <result id="252909">
+      <result code="3">3</result>
+      <band id="14804">Campbelltown - Camden (NSW)</band>
+      <conductor id="307562">Harold Pollard</conductor>
+      <test-piece id="5710">Hymn: Bradford</test-piece>
+    </result>
+    
+    <result id="252910">
+      <result code="4">4</result>
+      <band id="5460">Nowra Town Band</band>
+      <conductor id="308921">George Seymour</conductor>
+      <test-piece id="3808">Hymn: Deep Harmony</test-piece>
+    </result>
+    
+    <result id="252911">
+      <result code="5">5</result>
+      <band id="18822">Gilgandra Town  (NSW)</band>
+      <conductor id="297958">E. Bird</conductor>
+      <test-piece id="3817">Hymn: Divinity</test-piece>
+    </result>
+    
+    <result id="252912">
+      <result code="W">Withdrawn</result>
+      <band id="14275">Newcastle Transport Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="252913">
+      <result code="W">Withdrawn</result>
+      <band id="13230">Parkes Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

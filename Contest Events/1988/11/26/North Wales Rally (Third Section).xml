@@ -1,0 +1,48 @@
+<contest-event id="30112">
+  <event-date date="1988-11-26">Nov. 26, 1988<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Third Section)</name>
+  <contest id="1773">
+    <name>North Wales Rally (Third Section)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-rally-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="409">First Suite in Eb [arr. Herbert]</test-piece>
+  </test-piece>
+
+  <venue id="3526">Coleg Cambria, Connah&#39;s Quay, Flintshire, Wales, UK</venue>
+  <notes>Hymn tune contest - 1st Lyceum.</notes>
+
+  <created>Nov. 4, 2014, 2:57 p.m.</created>
+  <last-modified>Nov. 4, 2014, 3 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213136">
+      <result code="1">1</result>
+      <band id="768">Port Sunlight Lyceum Brass</band>
+      <conductor id="309547">Roy Sparkes</conductor>
+    </result>
+    
+    <result id="213137">
+      <result code="2">2</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="298321">Frank Boylin</conductor>
+    </result>
+    
+    <result id="213138">
+      <result code="3">3</result>
+      <band id="667">Conwy Town</band>
+      <conductor id="308287">J. A. Roberts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

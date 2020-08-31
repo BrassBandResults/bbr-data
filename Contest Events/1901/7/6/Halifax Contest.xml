@@ -1,0 +1,102 @@
+<contest-event id="26701">
+  <event-date date="1901-7-6">July 6, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Halifax Contest</name>
+  <contest id="1157">
+    <name>Halifax Contest</name>
+    <order>5</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="340">Halifax Contest</group>
+    <slug>halifax-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="354">Halifax, West Yorkshire</venue>
+  <notes>Promoted by Halifax King Cross Band
+Prizes: £12, £8, £4, £2, £1
+March: 1. Copley, 2. Holme.
+9 bands competed.</notes>
+
+  <created>March 25, 2014, 5:05 p.m.</created>
+  <last-modified>June 22, 2018, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193515">
+      <result code="1">1</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="2317">Belisario [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="193516">
+      <result code="2">2</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="2317">Belisario [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="193517">
+      <result code="3">3</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="193518">
+      <result code="4">4</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="2317">Belisario [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="193519">
+      <result code="5">5</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="2317">Belisario [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="270951">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="270948">
+      <result code="">Unknown Result</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="270952">
+      <result code="">Unknown Result</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="2317">Belisario [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="270949">
+      <result code="">Unknown Result</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="270950">
+      <result code="W">Withdrawn</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

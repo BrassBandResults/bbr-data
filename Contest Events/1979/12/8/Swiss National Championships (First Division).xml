@@ -1,0 +1,60 @@
+<contest-event id="14405">
+  <event-date date="1979-12-8">Dec. 8, 1979<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swiss National Championships (First Division)</name>
+  <contest id="12">
+    <name>Swiss National Championships (First Division)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="6">Swiss National Championships</group>
+    <slug>swiss-national-championships-first-division</slug>
+    
+    <notes></notes>
+    <region id="10">Switzerland</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="862">North West Passage [Newsome]</test-piece>
+  </test-piece>
+
+  <venue id="1951">Kongresshaus, Zürich, Switzerland</venue>
+  <notes>6th annual contest</notes>
+
+  <created>Aug. 10, 2012, 10:05 a.m.</created>
+  <last-modified>Feb. 10, 2017, 8:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="114655">
+      <result code="1">1</result>
+      <band id="79">Brass Band Imperial Lenzburg</band>
+      <conductor id="306586">Erich Müller</conductor>
+    </result>
+    
+    <result id="199958">
+      <result code="2">2</result>
+      <band id="61">Musikgesellschaft Risch-Rotkreuz</band>
+      <conductor id="297409">Samuel Balzli</conductor>
+    </result>
+    
+    <result id="199957">
+      <result code="3">3</result>
+      <band id="1067">Musikgesellschaft Brass Band Eglisau</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186730">
+      <result code="4">4</result>
+      <band id="11758">Brass Band FM Richenthal</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+    <result id="186731">
+      <result code="5">5</result>
+      <band id="10945">Feldmusik Knutwil</band>
+      <conductor id="308056">Franz Renggli</conductor>
+    </result>
+    
+  </results>
+</contest-event>

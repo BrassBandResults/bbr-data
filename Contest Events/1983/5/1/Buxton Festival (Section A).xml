@@ -1,0 +1,74 @@
+<contest-event id="29038">
+  <event-date date="1983-5-1">May 1, 1983<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Buxton Festival (Section A)</name>
+  <contest id="1095">
+    <name>Buxton Festival (Section A)</name>
+    <order>101</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="18">Buxton Festival</group>
+    <slug>buxton-festival-section-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="829">Prince Igor Overture</test-piece>
+  </test-piece>
+
+  <venue id="614">Pavilion Gardens, Buxton</venue>
+  <notes>20th annual contest
+Prizes - 1st £130 and trophy, 2nd £100 and trophy, 3rd £70 and trophy.
+7 bands competed.</notes>
+
+  <created>July 16, 2014, 12:02 p.m.</created>
+  <last-modified>Jan. 12, 2015, 5:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="207162">
+      <result code="1">1</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="303132">Barry Hinde</conductor>
+    </result>
+    
+    <result id="207163">
+      <result code="2">2</result>
+      <band id="1308">Congleton Brass</band>
+      <conductor id="304021">Granville Jennings</conductor>
+    </result>
+    
+    <result id="207164">
+      <result code="3">3</result>
+      <band id="497">Burbage Buxton Band</band>
+      <conductor id="307985">Don Redfern</conductor>
+    </result>
+    
+    <result id="218314">
+      <result code="">Unknown Result</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="310125">Brian Taylor</conductor>
+    </result>
+    
+    <result id="218315">
+      <result code="">Unknown Result</result>
+      <band id="253">Stockport Brass</band>
+      <conductor id="311319">Peter Weston</conductor>
+    </result>
+    
+    <result id="218316">
+      <result code="">Unknown Result</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="301693">Bryan Garside</conductor>
+    </result>
+    
+    <result id="218317">
+      <result code="">Unknown Result</result>
+      <band id="206">City of Chester Band</band>
+      <conductor id="301934">John Golland</conductor>
+    </result>
+    
+  </results>
+</contest-event>

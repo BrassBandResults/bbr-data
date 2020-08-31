@@ -1,0 +1,56 @@
+<contest-event id="39005">
+  <event-date date="1933-11-4">Nov. 4, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal South Street Eisteddfod  (B Grade)</name>
+  <contest id="6241">
+    <name>Royal South Street Eisteddfod  (B Grade)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="563">Royal South Street Eisteddfod</group>
+    <slug>royal-south-street-eisteddfod-b-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1050">Maesgarmon</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>2 Test Selections
+No.2  points listed under Own Choice
+</notes>
+
+  <created>Jan. 10, 2018, 11:35 p.m.</created>
+  <last-modified>April 16, 2020, 3:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="283773">
+      <result code="1">1</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="317542">James J. Watson</conductor>
+    </result>
+    
+    <result id="283774">
+      <result code="2">2</result>
+      <band id="16696">Yallourn &amp; District  (Vic)</band>
+      <conductor id="310635">Charles Turner</conductor>
+    </result>
+    
+    <result id="283775">
+      <result code="3">3</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="315294">Victor Webb</conductor>
+    </result>
+    
+    <result id="283776">
+      <result code="3">3</result>
+      <band id="12927">Kingsville Yarraville Band</band>
+      <conductor id="304131">Frank Johnston</conductor>
+    </result>
+    
+  </results>
+</contest-event>

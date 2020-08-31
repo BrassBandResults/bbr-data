@@ -1,0 +1,60 @@
+<contest-event id="35203">
+  <event-date date="1947-4-3">April 3, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (C Grade)</name>
+  <contest id="88">
+    <name>Australian Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2726">La Regina di Golconda</test-piece>
+  </test-piece>
+
+  <venue id="7069">Maryborough Show Ground, Maryborough, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>April 30, 2016, 11:20 p.m.</created>
+  <last-modified>March 11, 2019, 11:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="253567">
+      <result code="1">1</result>
+      <band id="11228">Ipswich Model</band>
+      <conductor id="302625">Horace Harper</conductor>
+    </result>
+    
+    <result id="253568">
+      <result code="2">2</result>
+      <band id="11230">Cairns Municipal</band>
+      <conductor id="311396">Harold White</conductor>
+    </result>
+    
+    <result id="253569">
+      <result code="3">3</result>
+      <band id="13787">East Brisbane Model</band>
+      <conductor id="303344">Goldie Holmes</conductor>
+    </result>
+    
+    <result id="253570">
+      <result code="4">4</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="311707">Richard Williamson</conductor>
+    </result>
+    
+    <result id="253571">
+      <result code="5">5</result>
+      <band id="17788">Toowoomba R S L Municipal  (Qld)</band>
+      <conductor id="302995">Norm Hestridge</conductor>
+    </result>
+    
+  </results>
+</contest-event>

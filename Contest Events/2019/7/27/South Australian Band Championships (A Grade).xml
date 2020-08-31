@@ -1,0 +1,42 @@
+<contest-event id="42430">
+  <event-date date="2019-7-27">July 27, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Australian Band Championships (A Grade)</name>
+  <contest id="569">
+    <name>South Australian Band Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1016">The Spirit of Youth</test-piece>
+  </test-piece>
+
+  <venue id="7155">Vogue Theatre, Kingswood, Sydney, NSW, Australia</venue>
+  <notes></notes>
+
+  <created>July 28, 2019, 6:15 a.m.</created>
+  <last-modified>July 28, 2019, 11:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="311466">
+      <result code="1">1</result>
+      <band id="2178">Tanunda Town Band</band>
+      <conductor id="307954">Bruce Raymond</conductor>
+    </result>
+    
+    <result id="311467">
+      <result code="2">2</result>
+      <band id="2150">Marion City Band</band>
+      <conductor id="298244">Veronica Boulton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

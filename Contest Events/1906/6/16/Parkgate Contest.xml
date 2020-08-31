@@ -1,0 +1,92 @@
+<contest-event id="10812">
+  <event-date date="1906-6-16">June 16, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Parkgate Contest</name>
+  <contest id="2100">
+    <name>Parkgate Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>parkgate-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2433">John O&#39;Gaunt [1900s]</test-piece>
+  </test-piece>
+
+  <venue id="1533">Parkgate, Rawmarsh, South Yorkshire</venue>
+  <notes>  March contest 1st Kinsley Colliery, 2nd Newhall.
+
+  10 bands competed.</notes>
+
+  <created>March 4, 2012, 8:34 p.m.</created>
+  <last-modified>April 19, 2013, 10:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90223">
+      <result code="1">1</result>
+      <band id="7005">Higham Victoria</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="90224">
+      <result code="2">2</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="300870">J. W. Ellis</conductor>
+    </result>
+    
+    <result id="90225">
+      <result code="3">3</result>
+      <band id="6584">Kinsley Colliery</band>
+      <conductor id="301643">T. Garbutt</conductor>
+    </result>
+    
+    <result id="90226">
+      <result code="4">4</result>
+      <band id="7077">Worsborough Dale</band>
+      <conductor id="305618">J. T. Marsden</conductor>
+    </result>
+    
+    <result id="90229">
+      <result code="">Unknown Result</result>
+      <band id="3274">Darnall W.M.C</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90231">
+      <result code="">Unknown Result</result>
+      <band id="2794">Elsecar Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90230">
+      <result code="">Unknown Result</result>
+      <band id="7078">Jump</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90232">
+      <result code="">Unknown Result</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93237">
+      <result code="">Unknown Result</result>
+      <band id="7304">Newhall (Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90228">
+      <result code="">Unknown Result</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

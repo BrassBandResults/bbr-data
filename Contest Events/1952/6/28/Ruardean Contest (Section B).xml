@@ -1,0 +1,55 @@
+<contest-event id="34018">
+  <event-date date="1952-6-28">June 28, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest (Section B)</name>
+  <contest id="3933">
+    <name>Ruardean Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ruardean-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1019">The Black Prince</test-piece>
+  </test-piece>
+
+  <venue id="5674">Village Hall, Ruardean, Gloucestershire</venue>
+  <notes>March contest - 1 Cinderford, 2 Lydney.
+Prizes - 1st £13 and cup, 2nd £10, 3rd £5.</notes>
+
+  <created>Feb. 11, 2016, 1:44 p.m.</created>
+  <last-modified>March 18, 2019, 11:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="245801">
+      <result code="1">1</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="245802">
+      <result code="2">2</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="245803">
+      <result code="3">3</result>
+      <band id="420">Lydbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="245804">
+      <result code="">Unknown Result</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

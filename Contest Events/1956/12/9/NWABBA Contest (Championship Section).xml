@@ -1,0 +1,61 @@
+<contest-event id="22127">
+  <event-date date="1956-12-9">Dec. 9, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Contest (Championship Section)</name>
+  <contest id="1103">
+    <name>NWABBA Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="142">NWABBA Contest</group>
+    <slug>nwabba-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="530">A Northern Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="383">Public Hall, Preston</venue>
+  <notes>
+  5 bands competed.</notes>
+
+  <created>July 3, 2013, 10:17 a.m.</created>
+  <last-modified>Nov. 20, 2017, 10:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="164336">
+      <result code="1">1</result>
+      <band id="2551">Storeys of Lancaster Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164337">
+      <result code="2">2</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="301697">Frederick Lonsdale Garth</conductor>
+    </result>
+    
+    <result id="164338">
+      <result code="3">3</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164339">
+      <result code="">Unknown Result</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="164340">
+      <result code="">Unknown Result</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,51 @@
+<contest-event id="3211">
+  <event-date date="2005-3-26">March 26, 2005<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior C Grade)</name>
+  <contest id="92">
+    <name>Australian Championships (Junior C Grade)</name>
+    <order>130</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-c-grade</slug>
+    
+    <notes>First contest in grade 1988</notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="716">The Territorians</test-piece>
+  </test-piece>
+
+  <venue id="314">Adelaide, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>Nov. 26, 2010, 2:27 a.m.</created>
+  <last-modified>April 26, 2016, 2:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="31211">
+      <result code="1">1</result>
+      <band id="2340">Boroondara Youth Brass</band>
+      <conductor id="297840">Daniel van Bergen</conductor>
+      <test-piece id="3621">Concerto D&#39;Amore</test-piece>
+    </result>
+    
+    <result id="31212">
+      <result code="2">2</result>
+      <band id="5456">Warringah Concert Brass No. 2</band>
+      <conductor id="308730">John Saunders</conductor>
+      <test-piece id="712">Free World Fantasy</test-piece>
+    </result>
+    
+    <result id="31213">
+      <result code="3">3</result>
+      <band id="2151">Warriparinga Brass</band>
+      <conductor id="298244">Veronica Boulton</conductor>
+      <test-piece id="382">A Rural Suite</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

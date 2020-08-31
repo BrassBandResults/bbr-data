@@ -1,0 +1,60 @@
+<contest-event id="39316">
+  <event-date date="1970-10-31">Oct. 31, 1970<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Australian Band Championships (C Grade)</name>
+  <contest id="571">
+    <name>South Australian Band Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id="85">South Australian Band Championships</group>
+    <slug>south-australian-band-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="346">Impromptu</test-piece>
+  </test-piece>
+
+  <venue id="307">Tanunda, South Australia, Australia</venue>
+  <notes></notes>
+
+  <created>March 18, 2018, 2:07 a.m.</created>
+  <last-modified>June 5, 2018, 12:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="289158">
+      <result code="1">1</result>
+      <band id="740">Ararat City Band</band>
+      <conductor id="317867">Ray Humphries</conductor>
+    </result>
+    
+    <result id="289159">
+      <result code="2">2</result>
+      <band id="2192">Whyalla Citizens&#39; Band</band>
+      <conductor id="310228">Jim Terry</conductor>
+    </result>
+    
+    <result id="289160">
+      <result code="3">3</result>
+      <band id="12941">B.H.A.S. Excelsior</band>
+      <conductor id="299698">Ted Cooper</conductor>
+    </result>
+    
+    <result id="289161">
+      <result code="4">4</result>
+      <band id="2162">Marananga Brass Band</band>
+      <conductor id="320129">Carl Roenfeldt</conductor>
+    </result>
+    
+    <result id="289162">
+      <result code="5">5</result>
+      <band id="2186">Nuriootpa Town Band</band>
+      <conductor id="317776">Fred Boehm</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="39818">
+  <event-date date="1910-8-1">Aug. 1, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swansea Contest (Class A)</name>
+  <contest id="2318">
+    <name>Swansea Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swansea-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5574">L&#39;Africaine</test-piece>
+  </test-piece>
+
+  <venue id="1249">Swansea, Swansea County, Wales, UK</venue>
+  <notes>Prizes - 1st £15 and cup, 2nd £10, 3rd £5.
+6 bands competed.</notes>
+
+  <created>June 2, 2018, 1:04 p.m.</created>
+  <last-modified>June 2, 2018, 1:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288927">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="288929">
+      <result code="2">2</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="314394">T. Valentine</conductor>
+    </result>
+    
+    <result id="288924">
+      <result code="3">3</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="288926">
+      <result code="4">4</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="288925">
+      <result code="">Unknown Result</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David D. Williams</conductor>
+    </result>
+    
+    <result id="288928">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

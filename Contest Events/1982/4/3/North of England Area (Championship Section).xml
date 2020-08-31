@@ -1,0 +1,78 @@
+<contest-event id="8760">
+  <event-date date="1982-4-3">April 3, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="908">Essay [Gregson]</test-piece>
+  </test-piece>
+
+  <venue id="2556">St. Bede&#39;s School, Sunderland</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Dec. 11, 2011, 2:58 p.m.</created>
+  <last-modified>Dec. 1, 2014, 4:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76712">
+      <result code="1">1</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="307124">Peter Parkes</conductor>
+    </result>
+    
+    <result id="76713">
+      <result code="2">2</result>
+      <band id="26">Fishburn Band</band>
+      <conductor id="305289">David Loukes</conductor>
+    </result>
+    
+    <result id="76714">
+      <result code="3">3</result>
+      <band id="2637">Consett-Whitbread Trophy</band>
+      <conductor id="301106">Ray Farr</conductor>
+    </result>
+    
+    <result id="204944">
+      <result code="4">4</result>
+      <band id="921">Northumbria Police Band</band>
+      <conductor id="311517">Dennis Wilby</conductor>
+    </result>
+    
+    <result id="193688">
+      <result code="5">5</result>
+      <band id="298">Kirkbymoorside Town Band</band>
+      <conductor id="305757">Les Maw</conductor>
+    </result>
+    
+    <result id="204942">
+      <result code="">Unknown Result</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="298482">Derek Broadbent</conductor>
+    </result>
+    
+    <result id="204941">
+      <result code="">Unknown Result</result>
+      <band id="433">Broughtons Brass [Durham]</band>
+      <conductor id="307269">Cecil Peacock Jnr</conductor>
+    </result>
+    
+    <result id="204943">
+      <result code="W">Withdrawn</result>
+      <band id="403">British Steel Teesside</band>
+      <conductor id="299028">Denis Carr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

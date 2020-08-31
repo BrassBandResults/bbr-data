@@ -1,0 +1,78 @@
+<contest-event id="24477">
+  <event-date date="1959-4-4">April 4, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1343">Wuthering Heights</test-piece>
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Oct. 10, 2013, 8:33 a.m.</created>
+  <last-modified>Jan. 21, 2017, 9 p.m.</last-modified>
+
+  <results>
+    
+    <result id="195594">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+    </result>
+    
+    <result id="195595">
+      <result code="2">2</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="298709">W. F. Buckley</conductor>
+    </result>
+    
+    <result id="195596">
+      <result code="3">3</result>
+      <band id="410">Easington Colliery Band</band>
+      <conductor id="313871">Cecil Peacock</conductor>
+    </result>
+    
+    <result id="196102">
+      <result code="">Unknown Result</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="307064">A. L. Palmer</conductor>
+    </result>
+    
+    <result id="196101">
+      <result code="">Unknown Result</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="299032">John Carr</conductor>
+    </result>
+    
+    <result id="196100">
+      <result code="">Unknown Result</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="299342">Bob Clark</conductor>
+    </result>
+    
+    <result id="196103">
+      <result code="">Unknown Result</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="304944">George Lee</conductor>
+    </result>
+    
+    <result id="196099">
+      <result code="">Unknown Result</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="299987">Eric Cunningham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

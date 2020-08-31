@@ -1,0 +1,61 @@
+<contest-event id="28199">
+  <event-date date="1981-3-29">March 29, 1981<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Youth Section)</name>
+  <contest id="1121">
+    <name>North West Area (Youth Section)</name>
+    <order>50</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-youth</slug>
+    <qualifies-for id="997">National Youth Brass Band Championships</qualifies-for>
+    <notes></notes>
+    
+    <section id="6">Youth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1544">Patterns</test-piece>
+  </test-piece>
+
+  <venue id="29">Guild Hall, Preston, Lancashire, England, UK</venue>
+  <notes>Prizes - 1st £75, 2nd £50, 3rd £25.
+5 bands competed.</notes>
+
+  <created>June 4, 2014, 3:25 p.m.</created>
+  <last-modified>July 8, 2017, 7:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="201547">
+      <result code="1">1</result>
+      <band id="223">Besses Boys Band</band>
+      <conductor id="299223">Barrie Chappell</conductor>
+    </result>
+    
+    <result id="201548">
+      <result code="2">2</result>
+      <band id="7019">North Midland Co-Op Youth</band>
+      <conductor id="306473">David Moulton</conductor>
+    </result>
+    
+    <result id="201549">
+      <result code="3">3</result>
+      <band id="1524">Rochdale Metropolitan Youth</band>
+      <conductor id="309188">J. A. Siswick</conductor>
+    </result>
+    
+    <result id="201551">
+      <result code="">Unknown Result</result>
+      <band id="5623">Vickers Youth Brass</band>
+      <conductor id="305484">William Maginn</conductor>
+    </result>
+    
+    <result id="201550">
+      <result code="">Unknown Result</result>
+      <band id="3707">Wigan Metropolitan Youth</band>
+      <conductor id="311977">J. Woodward</conductor>
+    </result>
+    
+  </results>
+</contest-event>

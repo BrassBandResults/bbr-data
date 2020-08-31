@@ -1,0 +1,78 @@
+<contest-event id="33452">
+  <event-date date="1960-2-28">Feb. 28, 1960<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darwen Contest</name>
+  <contest id="1766">
+    <name>Darwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="566">English Folk Song Suite</test-piece>
+  </test-piece>
+
+  <venue id="1781">Public Baths, Darwen</venue>
+  <notes></notes>
+
+  <created>Nov. 6, 2015, 2:03 p.m.</created>
+  <last-modified>Nov. 6, 2015, 2:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="240673">
+      <result code="1">1</result>
+      <band id="1000">Greenway Selectus Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240674">
+      <result code="2">2</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240675">
+      <result code="3">3</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240676">
+      <result code="4">4</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="262202">
+      <result code="">Unknown Result</result>
+      <band id="3850">Blackrod Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="262201">
+      <result code="">Unknown Result</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="262203">
+      <result code="">Unknown Result</result>
+      <band id="2584">Lower Ince Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="262204">
+      <result code="">Unknown Result</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

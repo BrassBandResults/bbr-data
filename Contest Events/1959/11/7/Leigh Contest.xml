@@ -1,0 +1,72 @@
+<contest-event id="27299">
+  <event-date date="1959-11-7">Nov. 7, 1959<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leigh Contest</name>
+  <contest id="1631">
+    <name>Leigh Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>leigh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="566">English Folk Song Suite</test-piece>
+  </test-piece>
+
+  <venue id="4668">Co-operative Hall, Leigh, Lancashire</venue>
+  <notes>1st annual contest promoted by Leigh Silver Band.</notes>
+
+  <created>May 6, 2014, 1:45 p.m.</created>
+  <last-modified>May 18, 2015, 8:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="196736">
+      <result code="1">1</result>
+      <band id="1627">Haigh Prize</band>
+      <conductor id="297816">Harry Bentham</conductor>
+    </result>
+    
+    <result id="196737">
+      <result code="2">2</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="306617">Leslie Naylor</conductor>
+    </result>
+    
+    <result id="196738">
+      <result code="3">3</result>
+      <band id="1528">Walkden Band</band>
+      <conductor id="305095">Clifford Lightbown</conductor>
+    </result>
+    
+    <result id="196740">
+      <result code="4">4</result>
+      <band id="3850">Blackrod Public</band>
+      <conductor id="309111">Ellis Sibley</conductor>
+    </result>
+    
+    <result id="227745">
+      <result code="">Unknown Result</result>
+      <band id="1506">Standish Band</band>
+      <conductor id="306455">Fred Moss</conductor>
+    </result>
+    
+    <result id="227744">
+      <result code="">Unknown Result</result>
+      <band id="176">Tyldesley Band</band>
+      <conductor id="305676">Fred Martland</conductor>
+    </result>
+    
+    <result id="227743">
+      <result code="">Unknown Result</result>
+      <band id="480">Tintwistle Band</band>
+      <conductor id="297728">Jim Belfield</conductor>
+    </result>
+    
+  </results>
+</contest-event>

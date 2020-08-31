@@ -1,0 +1,78 @@
+<contest-event id="7614">
+  <event-date date="1976-4-10">April 10, 1976<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="153">Spectrum [Vinter]</test-piece>
+  </test-piece>
+
+  <venue id="11">Brangwyn Hall, Swansea, Swansea County, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 7, 2011, 4:53 p.m.</created>
+  <last-modified>May 18, 2013, 3:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="68437">
+      <result code="1">1</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306342">Ieuan Morgan</conductor>
+    </result>
+    
+    <result id="68438">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="301720">Bram Gay</conductor>
+    </result>
+    
+    <result id="68444">
+      <result code="3">3</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="299285">John Childs</conductor>
+    </result>
+    
+    <result id="68439">
+      <result code="">Unknown Result</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="311381">Colin White</conductor>
+    </result>
+    
+    <result id="68440">
+      <result code="">Unknown Result</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="302687">John Harrison</conductor>
+    </result>
+    
+    <result id="68441">
+      <result code="">Unknown Result</result>
+      <band id="446">Markham and District Band</band>
+      <conductor id="302928">Don Hendy</conductor>
+    </result>
+    
+    <result id="68443">
+      <result code="">Unknown Result</result>
+      <band id="450">Rogerstone Band</band>
+      <conductor id="306210">S. J. Mitchell</conductor>
+    </result>
+    
+    <result id="68442">
+      <result code="">Unknown Result</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="307734">Fred Prior</conductor>
+    </result>
+    
+  </results>
+</contest-event>

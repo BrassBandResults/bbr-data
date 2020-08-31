@@ -1,0 +1,44 @@
+<contest-event id="35191">
+  <event-date date="2015-11-8">Nov. 8, 2015<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bayerischer Orchesterwettbewerb (Kat. B3, Brass Band)</name>
+  <contest id="5968">
+    <name>Bayerischer Orchesterwettbewerb (Kat. B3, Brass Band)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bayerischer-orchesterwettbewerb-kat-b3-brass-band</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="873">Ancient Monuments</test-piece>
+  </test-piece>
+
+  <venue id="6172">Bayerischer Rundfunk BR (Studio I), Munich, Bavaria, Germany</venue>
+  <notes>Brass Band A7 qualified for Deutscher Orchesterwettbewerb 2016 in Ulm.</notes>
+
+  <created>April 27, 2016, 3:11 p.m.</created>
+  <last-modified>May 6, 2017, 12:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="253514">
+      <result code="1">1</result>
+      <band id="949">Brass Band A7</band>
+      <conductor id="300824">Johnny Ekkelboom</conductor>
+      <test-piece id="3246">Helvetia</test-piece>
+    </result>
+    
+    <result id="253515">
+      <result code="2">2</result>
+      <band id="953">Brass Band Regensburg</band>
+      <conductor id="302735">Christine Hartmann</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

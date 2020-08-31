@@ -1,0 +1,81 @@
+<contest-event id="17321">
+  <event-date date="1883-8-25">Aug. 25, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Slaithwaite Contest</name>
+  <contest id="1840">
+    <name>Slaithwaite Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>slaithwaite-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1608">Slaithwaite, West Yorkshire</venue>
+  <notes>Prizes: £25, £15, £10, £5, £2 10s.
+March contest - 1st Black Dyke, 2nd Trawden, 3rd Linthwaite.
+7 bands competed.</notes>
+
+  <created>Dec. 24, 2012, 10:28 p.m.</created>
+  <last-modified>Nov. 1, 2017, 10:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131362">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="131359">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2824">William Tell [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="131360">
+      <result code="3">3</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="131364">
+      <result code="4">4</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2295">Weber Fantasia [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="131365">
+      <result code="5">5</result>
+      <band id="6135">Rochdale Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="131361">
+      <result code="">Unknown Result</result>
+      <band id="2596">Holme Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1948">Meyerbeer [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="131363">
+      <result code="">Unknown Result</result>
+      <band id="1440">Wyke</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

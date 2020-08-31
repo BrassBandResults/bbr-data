@@ -1,0 +1,48 @@
+<contest-event id="37264">
+  <event-date date="1984-4-29">April 29, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Entertainment Contest</name>
+  <contest id="4164">
+    <name>Doncaster Entertainment Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-entertainment-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6424">Rotters Night Club, Doncaster, South Yorkshire</venue>
+  <notes></notes>
+
+  <created>Feb. 18, 2017, 11:12 a.m.</created>
+  <last-modified>Feb. 18, 2017, 11:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="270114">
+      <result code="1">1</result>
+      <band id="272">Hyundai Heart of England</band>
+      <conductor id="308308">Stephen Roberts</conductor>
+    </result>
+    
+    <result id="270115">
+      <result code="2">2</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="307124">Peter Parkes</conductor>
+    </result>
+    
+    <result id="270116">
+      <result code="3">3</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="299849">Ian Craddock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

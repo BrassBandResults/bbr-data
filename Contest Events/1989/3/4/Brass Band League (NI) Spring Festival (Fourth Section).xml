@@ -1,0 +1,48 @@
+<contest-event id="30126">
+  <event-date date="1989-3-4">March 4, 1989<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band League (NI) Spring Festival (Fourth Section)</name>
+  <contest id="237">
+    <name>Brass Band League (NI) Spring Festival (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="35">Brass Band League (NI) Spring Festival</group>
+    <slug>ni-spring-festival-fourth-section</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1035">The Young in Heart</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes>50th annual contest</notes>
+
+  <created>Nov. 5, 2014, 1:32 p.m.</created>
+  <last-modified>Nov. 5, 2014, 1:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="213212">
+      <result code="1">1</result>
+      <band id="1387">Symington Silver Band</band>
+      <conductor id="303008">E. Hewitt</conductor>
+    </result>
+    
+    <result id="213213">
+      <result code="2">2</result>
+      <band id="1246">St. Mark&#39;s Silver Band</band>
+      <conductor id="302784">W. Haughey</conductor>
+    </result>
+    
+    <result id="213214">
+      <result code="3">3</result>
+      <band id="10001">Holy Trinity (Northern Ireland)</band>
+      <conductor id="305789">Paddy McAteer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

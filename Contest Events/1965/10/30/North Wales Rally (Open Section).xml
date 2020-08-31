@@ -1,0 +1,69 @@
+<contest-event id="18956">
+  <event-date date="1965-10-30">Oct. 30, 1965<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Rally (Open Section)</name>
+  <contest id="286">
+    <name>North Wales Rally (Open Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="183">North Wales Rally</group>
+    <slug>north-wales-championships</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="2854">Miners Institute, Rhosllanerchrugog, Wrexham, Wales, UK</venue>
+  <notes>  March contest 1st Edge Hill, 2nd Royal Oakley.
+  17th annual contest.
+
+  6 bands competed.</notes>
+
+  <created>March 8, 2013, 9:37 a.m.</created>
+  <last-modified>May 9, 2013, 2:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="142059">
+      <result code="1">1</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="312107">William Yates</conductor>
+    </result>
+    
+    <result id="142061">
+      <result code="2">2</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="306352">Robert Morgan</conductor>
+    </result>
+    
+    <result id="142060">
+      <result code="2">2</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="304181">Cynon Jones</conductor>
+    </result>
+    
+    <result id="142063">
+      <result code="">Unknown Result</result>
+      <band id="10538">Deudraeth</band>
+      <conductor id="303652">A. Humphries</conductor>
+    </result>
+    
+    <result id="142064">
+      <result code="">Unknown Result</result>
+      <band id="10632">Llay Welfare Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="142062">
+      <result code="">Unknown Result</result>
+      <band id="288">Northop Band</band>
+      <conductor id="310245">George Thelwell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

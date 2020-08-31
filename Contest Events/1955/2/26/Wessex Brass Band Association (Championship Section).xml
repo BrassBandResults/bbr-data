@@ -1,0 +1,62 @@
+<contest-event id="19197">
+  <event-date date="1955-2-26">Feb. 26, 1955<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Championship Section)</name>
+  <contest id="169">
+    <name>Wessex Brass Band Association (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3102">Central Hall, Southampton, Hampshire, England, UK</venue>
+  <notes>March contest 1st Woodfalls(48), 2nd Portsmouth F.B.(46), 3rd Shaftesbury(42).
+  Best cornet, soprano and euphonium - Woodfalls.
+5 bands competed</notes>
+
+  <created>March 16, 2013, 8:43 a.m.</created>
+  <last-modified>April 22, 2019, 6:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="144332">
+      <result code="1">1</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="299388">Sydney Clarke</conductor>
+    </result>
+    
+    <result id="144331">
+      <result code="2">2</result>
+      <band id="3976">City of Southampton (Albion) Band</band>
+      <conductor id="298394">W. H. Breeze</conductor>
+    </result>
+    
+    <result id="144329">
+      <result code="3">3</result>
+      <band id="8618">Portsmouth City Fire Brigade</band>
+      <conductor id="303527">E. H. Howker</conductor>
+    </result>
+    
+    <result id="144328">
+      <result code="">Unknown Result</result>
+      <band id="6808">Fovant</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="144330">
+      <result code="">Unknown Result</result>
+      <band id="1035">Shaftesbury Town Silver Band</band>
+      <conductor id="300376">R. C. Dicker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

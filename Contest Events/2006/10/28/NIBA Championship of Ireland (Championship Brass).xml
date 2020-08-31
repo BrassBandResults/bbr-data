@@ -1,0 +1,54 @@
+<contest-event id="1338">
+  <event-date date="2006-10-28">Oct. 28, 2006<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NIBA Championship of Ireland (Championship Brass)</name>
+  <contest id="278">
+    <name>NIBA Championship of Ireland (Championship Brass)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="52">NIBA Championship of Ireland</group>
+    <slug>niba-championship-of-ireland-championship-brass</slug>
+    
+    <notes></notes>
+    <region id="12">Northern Ireland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="297">Le Carnaval Romain [arr. Wright]</test-piece>
+  </test-piece>
+
+  <venue id="151">Ulster Hall, Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes>Best soloist - Mark Bingham, 1st Old Boys (cornet)</notes>
+
+  <created>Dec. 9, 2009, 11:59 a.m.</created>
+  <last-modified>Nov. 4, 2010, 1:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="13805">
+      <result code="1">1</result>
+      <band id="31">1st Old Boys Association Band (Belfast)</band>
+      <conductor id="298919">Stephen Cairns</conductor>
+    </result>
+    
+    <result id="13806">
+      <result code="2">2</result>
+      <band id="237">Laganvale Band</band>
+      <conductor id="308560">Ernest Ruddock</conductor>
+    </result>
+    
+    <result id="13807">
+      <result code="3">3</result>
+      <band id="1212">Strabane Concert Brass</band>
+      <conductor id="299753">Jonathan Corry</conductor>
+    </result>
+    
+    <result id="13808">
+      <result code="4">4</result>
+      <band id="718">Murley Silver Band</band>
+      <conductor id="297861">John Berryman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

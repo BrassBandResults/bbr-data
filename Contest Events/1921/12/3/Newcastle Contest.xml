@@ -1,0 +1,68 @@
+<contest-event id="26896">
+  <event-date date="1921-12-3">Dec. 3, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Contest</name>
+  <contest id="1046">
+    <name>Newcastle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="160">Newcastle upon Tyne Contest</group>
+    <slug>newcastle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2497">Newcastle-upon-Tyne</venue>
+  <notes>Northern Brass Band Association contest
+
+17 bands competed</notes>
+
+  <created>April 3, 2014, 10:52 p.m.</created>
+  <last-modified>April 3, 2014, 10:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194429">
+      <result code="1">1</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194430">
+      <result code="2">2</result>
+      <band id="1716">Marsden Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194431">
+      <result code="3">3</result>
+      <band id="2138">Palmer&#39;s Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194432">
+      <result code="4">4</result>
+      <band id="3669">Dorman&#39;s Redcar Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194433">
+      <result code="5">5</result>
+      <band id="4656">Thornaby</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194434">
+      <result code="6">6</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

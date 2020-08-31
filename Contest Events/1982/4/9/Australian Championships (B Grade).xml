@@ -1,0 +1,72 @@
+<contest-event id="34713">
+  <event-date date="1982-4-9">April 9, 1982<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="861">Alice in Wonderland [Hanmer]</test-piece>
+  </test-piece>
+
+  <venue id="6060">Townsville, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>March 21, 2016, 12:42 a.m.</created>
+  <last-modified>March 21, 2016, 4:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="250474">
+      <result code="1">1</result>
+      <band id="1321">Maryborough Excelsior City Band [Queensland]</band>
+      <conductor id="306748">Mel Nielson</conductor>
+    </result>
+    
+    <result id="250475">
+      <result code="2">2</result>
+      <band id="2260">Cairns Brass No. 1</band>
+      <conductor id="301148">Bob Favell</conductor>
+    </result>
+    
+    <result id="250476">
+      <result code="3">3</result>
+      <band id="1320">Sunnybank Brass</band>
+      <conductor id="300508">B. Douglas</conductor>
+    </result>
+    
+    <result id="250477">
+      <result code="4">4</result>
+      <band id="12292">Christian Brothers High School Lewisham</band>
+      <conductor id="303046">Bruce Hicks</conductor>
+    </result>
+    
+    <result id="250478">
+      <result code="5">5</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="319448">Keith Bowtell</conductor>
+    </result>
+    
+    <result id="250479">
+      <result code="6">6</result>
+      <band id="2147">Capricornia Silver Band</band>
+      <conductor id="303777">Dennis Ilott</conductor>
+    </result>
+    
+    <result id="250480">
+      <result code="7">7</result>
+      <band id="11230">Cairns Municipal</band>
+      <conductor id="312068">Warren Wright</conductor>
+    </result>
+    
+  </results>
+</contest-event>

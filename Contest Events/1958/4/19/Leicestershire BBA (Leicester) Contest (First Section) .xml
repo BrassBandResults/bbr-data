@@ -1,0 +1,54 @@
+<contest-event id="23019">
+  <event-date date="1958-4-19">April 19, 1958<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leicestershire BBA (Leicester) Contest (First Section) </name>
+  <contest id="192">
+    <name>Leicestershire BBA (Leicester) Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="75">Leicestershire Brass Band Association (Leicester) Contest</group>
+    <slug>leicester-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1015">Venus and Adonis</test-piece>
+  </test-piece>
+
+  <venue id="166">Loughborough, Leicestershire, England, UK</venue>
+  <notes>  Waltz contest - 1st Snibstone, 2ndArley, 3rd Bulkington.</notes>
+
+  <created>Aug. 17, 2013, 9:33 a.m.</created>
+  <last-modified>Aug. 17, 2013, 9:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169643">
+      <result code="1">1</result>
+      <band id="1490">Daw Mill Colliery Band</band>
+      <conductor id="298569">Bill Brotherhood</conductor>
+    </result>
+    
+    <result id="169644">
+      <result code="2">2</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="169645">
+      <result code="3">3</result>
+      <band id="274">William Davis Construction Group Band</band>
+      <conductor id="309671">Fred Starkey</conductor>
+    </result>
+    
+    <result id="169646">
+      <result code="">Unknown Result</result>
+      <band id="874">Bulkington Silver Band</band>
+      <conductor id="297896">A. J. Bicknell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

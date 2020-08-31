@@ -1,0 +1,52 @@
+<contest-event id="25860">
+  <event-date date="1937-7-17">July 17, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shardlow Contest</name>
+  <contest id="4762">
+    <name>Shardlow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shardlow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1073">The Call of Youth</test-piece>
+  </test-piece>
+
+  <venue id="4135">Shardlow, Derbyshire</venue>
+  <notes>
+  Prizes - 1st £10, 2nd £5, 3rd £3.
+  March contest - 1st(£1) Nottingham Silver, 2nd (10s.) Shirland and Higham.
+  Hymn tune  1st Nottingham Silver, 2nd Shirland and Higham.
+  Contest restricted to 8 bands.</notes>
+
+  <created>Jan. 13, 2014, 2:10 p.m.</created>
+  <last-modified>Jan. 13, 2014, 2:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187416">
+      <result code="1">1</result>
+      <band id="5178">Shirland and Higham</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+    </result>
+    
+    <result id="187417">
+      <result code="2">2</result>
+      <band id="3356">Nottingham Co-operative Silver</band>
+      <conductor id="302043">Albert Grant</conductor>
+    </result>
+    
+    <result id="187418">
+      <result code="3">3</result>
+      <band id="8590">Duffield Subscription</band>
+      <conductor id="304119">W. Johnson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

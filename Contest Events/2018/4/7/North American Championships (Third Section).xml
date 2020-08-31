@@ -1,0 +1,69 @@
+<contest-event id="39167">
+  <event-date date="2018-4-7">April 7, 2018<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Third Section)</name>
+  <contest id="878">
+    <name>North American Championships (Third Section)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-championships-3rd-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="230">Lake of the Moon</test-piece>
+  </test-piece>
+
+  <venue id="5779">Embassy Theatre, Fort Wayne, Indiana, USA</venue>
+  <notes>8-10.40 am
+
+The overall score is weighted as 60% test piece, 40% remainder of program.
+First tiebreaker: The band with the highest test piece scores wins.
+Second tiebreaker: The band rated higher on the test piece by 2 of the 3 judges wins.</notes>
+
+  <created>Feb. 17, 2018, 9:45 a.m.</created>
+  <last-modified>April 11, 2018, 8:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284717">
+      <result code="1">1</result>
+      <band id="6962">Triangle Brass Band</band>
+      <conductor id="302037">Tony Granados</conductor>
+      <test-piece id="290">Kingdom of Dragons</test-piece>
+    </result>
+    
+    <result id="284714">
+      <result code="2">2</result>
+      <band id="11903">Fountain City Youth Brass Academy</band>
+      <conductor id="302634">Lee Harrelson</conductor>
+      <test-piece id="166">Trittico [Curnow]</test-piece>
+    </result>
+    
+    <result id="284716">
+      <result code="3">3</result>
+      <band id="7339">Old Crown Brass Band</band>
+      <conductor id="301146">T. J. Faur</conductor>
+      <test-piece id="290">Kingdom of Dragons</test-piece>
+    </result>
+    
+    <result id="284715">
+      <result code="4">4</result>
+      <band id="983">Milwaukee Festival Brass</band>
+      <conductor id="310170">Mark A. Taylor</conductor>
+      <test-piece id="211">Variations on Laudate Dominum</test-piece>
+    </result>
+    
+    <result id="284713">
+      <result code="5">5</result>
+      <band id="11783">Crossroads Brass Band of Central Indiana</band>
+      <conductor id="298203">Paul Bork</conductor>
+      <test-piece id="112">Purcell Variations [Downie]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

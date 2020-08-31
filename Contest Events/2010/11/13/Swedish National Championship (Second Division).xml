@@ -1,0 +1,42 @@
+<contest-event id="3146">
+  <event-date date="2010-11-13">Nov. 13, 2010<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swedish National Championship (Second Division)</name>
+  <contest id="853">
+    <name>Swedish National Championship (Second Division)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="79">Swedish National Championship</group>
+    <slug>swedish-national-championship-second-division</slug>
+    
+    <notes></notes>
+    <region id="27">Sweden</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="672">Visions of Slane</test-piece>
+  </test-piece>
+
+  <venue id="327">Värnamo, Småland, Sweden</venue>
+  <notes></notes>
+
+  <created>Nov. 23, 2010, 10:23 a.m.</created>
+  <last-modified>April 9, 2011, 12:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="30767">
+      <result code="1">1</result>
+      <band id="2268">Södertörns Brass</band>
+      <conductor id="300569">Kenneth Drougge</conductor>
+    </result>
+    
+    <result id="30768">
+      <result code="2">2</result>
+      <band id="2270">Värnamo Missionskyrkas Brassband</band>
+      <conductor id="304059">Håkan Johansson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

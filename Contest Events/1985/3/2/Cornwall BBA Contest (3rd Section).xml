@@ -1,0 +1,48 @@
+<contest-event id="29550">
+  <event-date date="1985-3-2">March 2, 1985<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall BBA Contest (3rd Section)</name>
+  <contest id="3630">
+    <name>Cornwall BBA Contest (3rd Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="74">Cornwall Brass Band Association Contest</group>
+    <slug>cornwall-bba-contest-3rd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="70">The Shipbuilders</test-piece>
+  </test-piece>
+
+  <venue id="3178">City Hall, Truro, Cornwall, England, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 12, 2014, 1:45 p.m.</created>
+  <last-modified>Oct. 12, 2014, 1:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="210594">
+      <result code="1">1</result>
+      <band id="426">Lanner and District Silver Band</band>
+      <conductor id="308127">N. J. Richards</conductor>
+    </result>
+    
+    <result id="210595">
+      <result code="2">2</result>
+      <band id="530">Hayle Town Band</band>
+      <conductor id="302646">Chris Harris</conductor>
+    </result>
+    
+    <result id="210596">
+      <result code="3">3</result>
+      <band id="348">St. Breward Silver Band</band>
+      <conductor id="303672">William Hunt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

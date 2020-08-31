@@ -1,0 +1,48 @@
+<contest-event id="20338">
+  <event-date date="1956-5-12">May 12, 1956<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Second Section)</name>
+  <contest id="49">
+    <name>West of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="114">Snowdon Fantasy</test-piece>
+  </test-piece>
+
+  <venue id="95">Colston Hall, Bristol</venue>
+  <notes></notes>
+
+  <created>April 6, 2013, 1:05 p.m.</created>
+  <last-modified>April 10, 2013, 3:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="150795">
+      <result code="1">1</result>
+      <band id="254">Bodmin Town Band</band>
+      <conductor id="304893">W. D. Lawton</conductor>
+    </result>
+    
+    <result id="151599">
+      <result code="2">2</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="311281">Joseph Welsh</conductor>
+    </result>
+    
+    <result id="151600">
+      <result code="3">3</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="302199">Horace Grey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

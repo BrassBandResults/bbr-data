@@ -1,0 +1,71 @@
+<contest-event id="18493">
+  <event-date date="1952-10-25">Oct. 25, 1952<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northumberland Brass Band League (Section A)</name>
+  <contest id="3585">
+    <name>Northumberland Brass Band League (Section A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northumberland-brass-band-league-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3140">Central Hall, Gosforth</venue>
+  <notes>March contest 1st North Seaton, 2nd Bedlington.
+6 bands competed.
+</notes>
+
+  <created>Feb. 23, 2013, 10:16 a.m.</created>
+  <last-modified>Feb. 10, 2020, 10:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="139167">
+      <result code="1">1</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="298157">W. S. Bond</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="139168">
+      <result code="2">2</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="299032">John Carr</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="139169">
+      <result code="3">3</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="299031">Jack Carr</conductor>
+      <test-piece id="1361">Haydn</test-piece>
+    </result>
+    
+    <result id="139170">
+      <result code="4">4</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+    <result id="305695">
+      <result code="">Unknown Result</result>
+      <band id="8758">Cambois Workmen&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305696">
+      <result code="">Unknown Result</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

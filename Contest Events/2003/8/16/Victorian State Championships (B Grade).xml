@@ -1,0 +1,60 @@
+<contest-event id="39075">
+  <event-date date="2003-8-16">Aug. 16, 2003<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="172">Main Street</test-piece>
+  </test-piece>
+
+  <venue id="4945">Her Majesty&#39;s Theatre, Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 2, 2018, 12:10 a.m.</created>
+  <last-modified>Feb. 2, 2018, 4:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="284213">
+      <result code="1">1</result>
+      <band id="2145">Boroondara Brass</band>
+      <conductor id="307241">Tom Paulin</conductor>
+    </result>
+    
+    <result id="284214">
+      <result code="2">2</result>
+      <band id="9344">Traralgon City Band</band>
+      <conductor id="317593">Mark Ford.</conductor>
+    </result>
+    
+    <result id="284215">
+      <result code="3">3</result>
+      <band id="13256">Ringwood  City</band>
+      <conductor id="306292">Ron Moore</conductor>
+    </result>
+    
+    <result id="284216">
+      <result code="4">4</result>
+      <band id="16064">City of Dandenong   (Vic)</band>
+      <conductor id="305268">Colin Lord</conductor>
+    </result>
+    
+    <result id="284217">
+      <result code="5">5</result>
+      <band id="727">Eaglehawk Citizens Band</band>
+      <conductor id="300693">Chris Earl</conductor>
+    </result>
+    
+  </results>
+</contest-event>

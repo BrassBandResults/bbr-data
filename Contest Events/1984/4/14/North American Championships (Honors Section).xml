@@ -1,0 +1,55 @@
+<contest-event id="10675">
+  <event-date date="1984-4-14">April 14, 1984<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North American Championships (Honors Section)</name>
+  <contest id="162">
+    <name>North American Championships (Honors Section)</name>
+    <order>1010</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="29">North American Championships</group>
+    <slug>north-american-bbc-honors-section</slug>
+    
+    <notes></notes>
+    <region id="15">United States of America</region>
+    <section id="2">First</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="461">A Suite for Switzerland</test-piece>
+  </test-piece>
+
+  <venue id="1494">Philips Auditorium, West Chester University, West Chester, Pennsylvania, USA</venue>
+  <notes></notes>
+
+  <created>Feb. 27, 2012, 11:54 a.m.</created>
+  <last-modified>Feb. 27, 2012, 12:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="89391">
+      <result code="1">1</result>
+      <band id="1009">Sunshine Brass Band [Florida]</band>
+      <conductor id="304615">Karen Kneeburg</conductor>
+    </result>
+    
+    <result id="89392">
+      <result code="2">2</result>
+      <band id="6992">North Carolina State University British Brass Band</band>
+      <conductor id="311137">J. Perry Watson</conductor>
+    </result>
+    
+    <result id="89393">
+      <result code="3">3</result>
+      <band id="6953">Chester Brass Band</band>
+      <conductor id="305896">Gordon McGowan</conductor>
+    </result>
+    
+    <result id="89394">
+      <result code="4">4</result>
+      <band id="6982">Rockville Brass Band</band>
+      <conductor id="311861">Ernest Wolfe</conductor>
+      <test-piece id="566">English Folk Song Suite</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

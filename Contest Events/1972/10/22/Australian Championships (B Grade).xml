@@ -1,0 +1,96 @@
+<contest-event id="34882">
+  <event-date date="1972-10-22">Oct. 22, 1972<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="391">Prometheus Unbound</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes>NB Draw order same for both test and O/C</notes>
+
+  <created>March 31, 2016, 3:48 a.m.</created>
+  <last-modified>April 3, 2016, 9:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="251816">
+      <result code="1">1</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="303914">Frank James</conductor>
+    </result>
+    
+    <result id="251817">
+      <result code="2">2</result>
+      <band id="1163">Moreland City Band</band>
+      <conductor id="300464">Jim Doherty</conductor>
+    </result>
+    
+    <result id="251829">
+      <result code="3">3</result>
+      <band id="5771">Maryborough City Band [Victoria]</band>
+      <conductor id="302658">Jack Harris</conductor>
+    </result>
+    
+    <result id="251830">
+      <result code="4">4</result>
+      <band id="2190">Coburg City Band</band>
+      <conductor id="309762">Ken Stevens</conductor>
+    </result>
+    
+    <result id="251820">
+      <result code="5">5</result>
+      <band id="740">Ararat City Band</band>
+      <conductor id="317867">Ray Humphries</conductor>
+    </result>
+    
+    <result id="251821">
+      <result code="6">6</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="305376">Jack Lusted</conductor>
+    </result>
+    
+    <result id="251833">
+      <result code="7">7</result>
+      <band id="2318">Frankston City Band</band>
+      <conductor id="297456">Frank Bardi</conductor>
+    </result>
+    
+    <result id="251834">
+      <result code="8">8</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="299449">Russell Clogan</conductor>
+    </result>
+    
+    <result id="251835">
+      <result code="W">Withdrawn</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="251826">
+      <result code="W">Withdrawn</result>
+      <band id="2170">Sunshine Community Brass [Victoria]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="251825">
+      <result code="W">Withdrawn</result>
+      <band id="701">Willoughby City Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

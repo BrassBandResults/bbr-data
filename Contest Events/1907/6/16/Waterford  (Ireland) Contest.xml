@@ -1,0 +1,54 @@
+<contest-event id="11359">
+  <event-date date="1907-6-16">June 16, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Waterford  (Ireland) Contest</name>
+  <contest id="2172">
+    <name>Waterford  (Ireland) Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>waterford-ireland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1839">Pride of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="1583">Waterford, County Waterford, Republic of Ireland</venue>
+  <notes>4 bands competed</notes>
+
+  <created>March 21, 2012, 10:53 p.m.</created>
+  <last-modified>Sept. 18, 2018, 12:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93573">
+      <result code="1">1</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93574">
+      <result code="2">2</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293034">
+      <result code="3">3</result>
+      <band id="1412">Barrack Street Waterford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293035">
+      <result code="4">4</result>
+      <band id="17348">Trades Hall</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

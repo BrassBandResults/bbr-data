@@ -1,0 +1,88 @@
+<contest-event id="18995">
+  <event-date date="1954-1-30">Jan. 30, 1954<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wigan Contest</name>
+  <contest id="799">
+    <name>Wigan Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="153">Wigan Contest</group>
+    <slug>wigan-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="855">Bianca e Fernando</test-piece>
+  </test-piece>
+
+  <venue id="2658">Drill Hall, Powell Street, Wigan</venue>
+  <notes>  Hymn tune 1st Leigh B..,
+  Best soprano, euphonium and cornet.
+  Best horn and trombone. 
+  Youngest player Keith Bancroft (Eagley Mills).
+  1st annual contest promoted by Haigh Band.</notes>
+
+  <created>March 11, 2013, 12:18 p.m.</created>
+  <last-modified>May 18, 2015, 9:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="142707">
+      <result code="1">1</result>
+      <band id="766">Chapel-en-le-Frith Band</band>
+      <conductor id="299639">J. A. Cooke</conductor>
+    </result>
+    
+    <result id="142708">
+      <result code="2">2</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="304362">Willie Kaye</conductor>
+    </result>
+    
+    <result id="142709">
+      <result code="3">3</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="308335">Albert Robinson</conductor>
+    </result>
+    
+    <result id="142710">
+      <result code="4">4</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="301075">James Fairhurst</conductor>
+    </result>
+    
+    <result id="142711">
+      <result code="">Unknown Result</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="303353">M. Holmes</conductor>
+    </result>
+    
+    <result id="227506">
+      <result code="">Unknown Result</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="298340">E. Bradshaw</conductor>
+    </result>
+    
+    <result id="142712">
+      <result code="">Unknown Result</result>
+      <band id="2756">Leigh Silver Band</band>
+      <conductor id="301474">Harry Foxwell</conductor>
+    </result>
+    
+    <result id="227507">
+      <result code="">Unknown Result</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="306615">J. W. Naylor</conductor>
+    </result>
+    
+    <result id="227505">
+      <result code="">Unknown Result</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310485">Harry Tomkins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

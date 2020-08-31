@@ -1,0 +1,54 @@
+<contest-event id="42510">
+  <event-date date="2019-8-24">Aug. 24, 2019<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New South Wales A Grade Concert Band State Championships</name>
+  <contest id="6067">
+    <name>New South Wales A Grade Concert Band State Championships</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="572">NSW State Band Championships (Wind Band Sections)</group>
+    <slug>new-south-wales-concert-bands-states-cha-6067</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6052">Russian Christmas Music from Armenian Dances No 2 (Hammersmith)</test-piece>
+  </test-piece>
+
+  <venue id="4949">Joan Sutherland Performing Arts Centre (Richard Bonynge Concert Hall), Penrith, New South Wales, Australia</venue>
+  <notes>TEST SELECTION  Bands had the option to select  for their Test Selection one   from  a nominated list of 8. Used Pieces:
+(a) Hammersmith (Gustav Holst)
+(b) Russian Christmas Music (Alfred Reed)
+(c) Armenian Dances No.2  (Alfred Reed)</notes>
+
+  <created>Aug. 28, 2019, 12:47 a.m.</created>
+  <last-modified>June 10, 2020, 9:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311884">
+      <result code="1">1</result>
+      <band id="18146">North Shore Wind Symphony</band>
+      <conductor id="316266">Andrew McWade</conductor>
+      <test-piece id="6042">Telestai</test-piece>
+    </result>
+    
+    <result id="311881">
+      <result code="2">2</result>
+      <band id="15584">Castle Hill R S L  North West Wind Ensemble (NSW)</band>
+      <conductor id="298426">James Brice</conductor>
+      <test-piece id="5093">Pictures at an Exhibition [Mussorgsky]</test-piece>
+    </result>
+    
+    <result id="311885">
+      <result code="3">3</result>
+      <band id="14840">Sydney Wind Symphony</band>
+      <conductor id="319511">Fiona Lucas</conductor>
+      <test-piece id="4891">Sinfonietta No. 2 [Sparke]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

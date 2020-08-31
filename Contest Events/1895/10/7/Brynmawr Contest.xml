@@ -1,0 +1,57 @@
+<contest-event id="12731">
+  <event-date date="1895-10-7">Oct. 7, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brynmawr Contest</name>
+  <contest id="2666">
+    <name>Brynmawr Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brynmawr-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3311">Market Hall, Brynmawr</venue>
+  <notes>4 bands competed
+
+Another report gave first prize to Tillery Colliery and second to Blaina, with quickstep to Blaina
+</notes>
+
+  <created>April 19, 2012, 10:02 p.m.</created>
+  <last-modified>March 30, 2013, 10:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101334">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="101335">
+      <result code="2">2</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="101336">
+      <result code="3">3</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302243">John Griffiths</conductor>
+    </result>
+    
+    <result id="101337">
+      <result code="4">4</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

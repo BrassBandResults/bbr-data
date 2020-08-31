@@ -1,0 +1,82 @@
+<contest-event id="15882">
+  <event-date date="1909-8-7">Aug. 7, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mansfield Contest</name>
+  <contest id="2621">
+    <name>Mansfield Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mansfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1901">Verdi&#39;s Works [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1975">Mansfield, Nottinghamshire, England, UK</venue>
+  <notes>  Prizes  1st £12 and cup, 2nd £6, 3rd £4, 4th £2, 5th £1.
+
+  March contest 1st Lincoln Malleable, 2nd Hasland.
+
+  8 bands competed.</notes>
+
+  <created>Nov. 6, 2012, 12:33 p.m.</created>
+  <last-modified>Nov. 6, 2012, 1:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122436">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="122437">
+      <result code="2">2</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="122438">
+      <result code="3">3</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="122439">
+      <result code="4">4</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="122440">
+      <result code="5">5</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="122443">
+      <result code="">Unknown Result</result>
+      <band id="8054">Boots Plaisaunce</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122442">
+      <result code="">Unknown Result</result>
+      <band id="3605">Hasland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122441">
+      <result code="">Unknown Result</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

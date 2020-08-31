@@ -1,0 +1,96 @@
+<contest-event id="11765">
+  <event-date date="1893-5-27">May 27, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Alloa Contest</name>
+  <contest id="1653">
+    <name>Alloa Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="278">Alloa Contest</group>
+    <slug>alloa-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1958">Alloa Park, Alloa, Clackmannanshire, Scotland, UK</venue>
+  <notes>Source:
+Glasgow Herald (Glasgow, Scotland), Monday, May 29, 1893; Issue 127.
+
+Prizes: £20, £15, £10, £7, £5, £3
+
+Best cornet: Kirkcaldy
+</notes>
+
+  <created>April 6, 2012, 8:33 p.m.</created>
+  <last-modified>Oct. 16, 2014, 12:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95245">
+      <result code="1">1</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95246">
+      <result code="2">2</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95247">
+      <result code="3">3</result>
+      <band id="1985">Bonnybridge &amp; District</band>
+      <conductor id="311924">Charles Woodcock</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95248">
+      <result code="4">4</result>
+      <band id="5613">Portobello</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95249">
+      <result code="5">5</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95250">
+      <result code="6">6</result>
+      <band id="1982">Cambusbarron</band>
+      <conductor id="303994">James Jenkins</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="211098">
+      <result code="">Unknown Result</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211099">
+      <result code="">Unknown Result</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211097">
+      <result code="">Unknown Result</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

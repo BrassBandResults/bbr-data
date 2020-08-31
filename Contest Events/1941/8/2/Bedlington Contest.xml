@@ -1,0 +1,55 @@
+<contest-event id="41701">
+  <event-date date="1941-8-2">Aug. 2, 1941<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bedlington Contest</name>
+  <contest id="2802">
+    <name>Bedlington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bedlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="7058">Co-operative Hall, Bedlington, Northumberland</venue>
+  <notes>March contest - 1st North Seaton, 2nd Newbiggin Colliery,
+7 bands competed</notes>
+
+  <created>Jan. 29, 2019, 12:27 p.m.</created>
+  <last-modified>Jan. 29, 2019, 12:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="303692">
+      <result code="1">1</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303693">
+      <result code="2">2</result>
+      <band id="6537">Netherton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303694">
+      <result code="3">3</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="301109">W. Farrall</conductor>
+    </result>
+    
+    <result id="303695">
+      <result code="">Unknown Result</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

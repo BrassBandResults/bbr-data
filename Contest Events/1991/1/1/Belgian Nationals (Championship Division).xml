@@ -1,0 +1,42 @@
+<contest-event id="2660">
+  <event-date date="1991-1-1">Jan. 1, 1991<event-date>
+  <event-date-resolution>Y</event-date-resolution>
+  <name>Belgian Nationals (Championship Division)</name>
+  <contest id="76">
+    <name>Belgian Nationals (Championship Division)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="20">Belgian Nationals</group>
+    <slug>belgian-nationals-championship-division</slug>
+    <qualifies-for id="85">European Championships</qualifies-for>
+    <notes></notes>
+    <region id="13">Belgium</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="221">Prisms</test-piece>
+  </test-piece>
+
+  <venue id="54">Royal Conservatory of Brussels, Brussels, Brussels-Capital, Belgium</venue>
+  <notes></notes>
+
+  <created>Sept. 28, 2010, 12:19 p.m.</created>
+  <last-modified>Sept. 28, 2010, 12:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="27965">
+      <result code="1">1</result>
+      <band id="40">Brass Band Willebroek</band>
+      <conductor id="310826">Frans Violet</conductor>
+    </result>
+    
+    <result id="282302">
+      <result code="">Unknown Result</result>
+      <band id="676">Kortrijk Brass Band</band>
+      <conductor id="305478">Lieven Maertens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

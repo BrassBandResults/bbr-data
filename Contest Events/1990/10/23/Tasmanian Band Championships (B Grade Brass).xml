@@ -1,0 +1,58 @@
+<contest-event id="42831">
+  <event-date date="1990-10-23">Oct. 23, 1990<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tasmanian Band Championships (B Grade Brass)</name>
+  <contest id="3038">
+    <name>Tasmanian Band Championships (B Grade Brass)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="286">Tasmanian Band Championships</group>
+    <slug>tasmanian-band-championships-b-grade-brass</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1200">Tuba Mirum</test-piece>
+  </test-piece>
+
+  <venue id="7210">Devonport Town Hall, Tasmania, Australia</venue>
+  <notes></notes>
+
+  <created>Nov. 7, 2019, 10:09 p.m.</created>
+  <last-modified>Nov. 7, 2019, 10:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="313577">
+      <result code="1">1</result>
+      <band id="2141">Glenorchy City Concert Brass</band>
+      <conductor id="303661">Dean Hunt</conductor>
+      <test-piece id="276">The Land of the Long White Cloud - Aotearoa</test-piece>
+    </result>
+    
+    <result id="313578">
+      <result code="2">2</result>
+      <band id="726">Ulverstone Municipal Band [Tasmania]</band>
+      <conductor id="319753">Allan Johnston</conductor>
+      <test-piece id="141">Tam O&#39;Shanter&#39;s Ride [Wright]</test-piece>
+    </result>
+    
+    <result id="313579">
+      <result code="3">3</result>
+      <band id="18331">City of Launceston Brass</band>
+      <conductor id="299338">Allen Clark</conductor>
+      <test-piece id="1681">Masque [Hesketh]</test-piece>
+    </result>
+    
+    <result id="313582">
+      <result code="4">4</result>
+      <band id="2325">Latrobe Federal Band [Tasmania]</band>
+      <conductor id="302473">Charles Hambleton</conductor>
+      <test-piece id="220">Music for a Festival [Sparke]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>
