@@ -26,12 +26,6 @@
 
   <results>
     
-    <result id="321952">
-      <result code="">Unknown Result</result>
-      <band id="2122">Dania Brass Band</band>
-      <conductor id="310730">Unknown</conductor>
-    </result>
-    
     <result id="321951">
       <result code="">Unknown Result</result>
       <band id="1413">Danfoss Orkesteret</band>
@@ -50,8 +44,14 @@
       <conductor id="310730">Unknown</conductor>
     </result>
     
+    <result id="321952">
+      <result code="W">Withdrawn</result>
+      <band id="2122">Dania Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
     <result id="321953">
-      <result code="">Unknown Result</result>
+      <result code="W">Withdrawn</result>
       <band id="11603">Frederiksberg Brass Band</band>
       <conductor id="310730">Unknown</conductor>
     </result>
