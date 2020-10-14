@@ -19,10 +19,12 @@
   </test-piece>
 
   <venue id="1115">Pleasure Gardens, Preston</venue>
-  <notes></notes>
+  <notes>Best cornet - Brindle.
+Best euphonium - Preston Excelsior.
+Best soprano - Chipping.</notes>
 
   <created>Nov. 2, 2012, 3:24 p.m.</created>
-  <last-modified>May 30, 2018, 9:46 p.m.</last-modified>
+  <last-modified>Oct. 13, 2020, 11:38 a.m.</last-modified>
 
   <results>
     
@@ -35,6 +37,24 @@
     <result id="121784">
       <result code="2">2</result>
       <band id="394">Brindle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322347">
+      <result code="">Unknown Result</result>
+      <band id="11519">Chipping Norton Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322345">
+      <result code="">Unknown Result</result>
+      <band id="8068">Preston Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322346">
+      <result code="">Unknown Result</result>
+      <band id="6572">Ribchester Subscription</band>
       <conductor id="310730">Unknown</conductor>
     </result>
     
