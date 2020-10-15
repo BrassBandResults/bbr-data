@@ -19,14 +19,12 @@
   </test-piece>
 
   <venue id="1296">Camelon, Falkirk</venue>
-  <notes>
-
-  Prizes  1st £15, 2nd £10, 3rd £5, 4th £3, 5th£2 divided between Cowdenbeath and Glasgow Co-op.
+  <notes>Prizes  1st £15, 2nd £10, 3rd £5, 4th £3, 5th£2 divided between Cowdenbeath and Glasgow Co-op.
 
   9 bands competed.</notes>
 
   <created>Nov. 3, 2012, 8:24 a.m.</created>
-  <last-modified>Sept. 3, 2016, 9:27 a.m.</last-modified>
+  <last-modified>Oct. 14, 2020, 10:07 a.m.</last-modified>
 
   <results>
     
@@ -52,6 +50,7 @@
       <result code="4">4</result>
       <band id="1050">Forfar Instrumental</band>
       <conductor id="304750">John Lamb</conductor>
+      <test-piece id="3970">Tam O&#39;Shanter</test-piece>
     </result>
     
     <result id="121889">
@@ -64,6 +63,7 @@
       <result code="5">5</result>
       <band id="1274">Longannet Colliery (Cowdenbeath)</band>
       <conductor id="306493">Harry Muddiman</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
     </result>
     
     <result id="121890">
@@ -81,6 +81,18 @@
     <result id="121892">
       <result code="">Unknown Result</result>
       <band id="1996">Wright Memorial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322379">
+      <result code="W">Withdrawn</result>
+      <band id="10451">Falkirk Aluminium Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322378">
+      <result code="W">Withdrawn</result>
+      <band id="5221">Kilsyth Town</band>
       <conductor id="310730">Unknown</conductor>
     </result>
     
