@@ -19,13 +19,11 @@
   </test-piece>
 
   <venue id="1097">Old English Hotel, Matlock Bridge</venue>
-  <notes>
-  8 bands competed.
-
-Prizes: £20, £14, £8, £5, £3</notes>
+  <notes>Prizes: £20, £14, £8, £5, £3.
+8 bands entered, 7 bands competed.</notes>
 
   <created>Jan. 7, 2012, 11:48 a.m.</created>
-  <last-modified>June 5, 2012, 9:27 p.m.</last-modified>
+  <last-modified>Oct. 26, 2020, 8:53 p.m.</last-modified>
 
   <results>
     
@@ -33,30 +31,49 @@ Prizes: £20, £14, £8, £5, £3</notes>
       <result code="1">1</result>
       <band id="2511">Dewsbury Band</band>
       <conductor id="310730">Unknown</conductor>
+      <test-piece id="5415">L&#39;Africane</test-piece>
     </result>
     
     <result id="92791">
       <result code="2">2</result>
       <band id="3495">Kirkstall</band>
       <conductor id="310730">Unknown</conductor>
+      <test-piece id="888">Satanella [unknown arranger]</test-piece>
     </result>
     
     <result id="92792">
       <result code="3">3</result>
       <band id="3493">Clay Cross</band>
       <conductor id="310730">Unknown</conductor>
+      <test-piece id="1931">Macbeth [unknown composer, unknown arranger]</test-piece>
     </result>
     
     <result id="81268">
       <result code="4">4</result>
       <band id="6389">Bacup Old</band>
       <conductor id="305272">John Lord</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
     </result>
     
     <result id="92793">
       <result code="5">5</result>
       <band id="5105">Healey Hall Band</band>
       <conductor id="310730">Unknown</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="322482">
+      <result code="">Unknown Result</result>
+      <band id="4016">Dodsworth&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1616">Tancredi - overture (unknown arranger)</test-piece>
+    </result>
+    
+    <result id="322485">
+      <result code="">Unknown Result</result>
+      <band id="3489">Wednesbury Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2816">Robin Hood [MacFarren, unknown arranger]</test-piece>
     </result>
     
   </results>
