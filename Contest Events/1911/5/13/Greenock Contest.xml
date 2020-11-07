@@ -1,0 +1,67 @@
+<contest-event id="44030">
+  <event-date date="1911-5-13">May 13, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Greenock Contest</name>
+  <contest id="1188">
+    <name>Greenock Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>greenock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="6387">Patriotic</test-piece>
+  </test-piece>
+
+  <venue id="5114">Greenock, Inverclyde, Scotland, UK</venue>
+  <notes>Confined to 3rd section bands.
+6 bands competed.</notes>
+
+  <created>Nov. 6, 2020, 10:50 a.m.</created>
+  <last-modified>Nov. 6, 2020, 10:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="322557">
+      <result code="1">1</result>
+      <band id="5672">Bellshill Town</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="322555">
+      <result code="2">2</result>
+      <band id="6922">Paisley Town</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="322554">
+      <result code="3">3</result>
+      <band id="9896">Govanhill Temperance</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="322558">
+      <result code="4">4</result>
+      <band id="1365">Galston</band>
+      <conductor id="315619">R. Smith</conductor>
+    </result>
+    
+    <result id="322553">
+      <result code="5">5</result>
+      <band id="9382">Coalburn Bronze</band>
+      <conductor id="297968">W. Smith</conductor>
+    </result>
+    
+    <result id="322556">
+      <result code="6">6</result>
+      <band id="4988">Elderslie Reed Band</band>
+      <conductor id="312259">P. McKendrick</conductor>
+    </result>
+    
+  </results>
+</contest-event>
