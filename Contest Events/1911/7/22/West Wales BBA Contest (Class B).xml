@@ -1,0 +1,60 @@
+<contest-event id="44035">
+  <event-date date="1911-7-22">July 22, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class B)</name>
+  <contest id="4007">
+    <name>West Wales BBA Contest (Class B)</name>
+    <order>220</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2786">Rigoletto [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="7336">Mond Recreation Graound, Clydach-on-Tawe, Glamorgan</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Nov. 8, 2020, 12:25 p.m.</created>
+  <last-modified>Nov. 8, 2020, 12:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="322593">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="322585">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="322589">
+      <result code="3">3</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="310293">Llewellyn Thomas</conductor>
+    </result>
+    
+    <result id="322592">
+      <result code="4">4</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="314395">Tom Valentine</conductor>
+    </result>
+    
+    <result id="322591">
+      <result code="5">5</result>
+      <band id="6763">Llandilo</band>
+      <conductor id="306343">J. Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>
