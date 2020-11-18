@@ -1,0 +1,48 @@
+<contest-event id="44047">
+  <event-date date="1913-3-22">March 22, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Halifax Contest (First Section)</name>
+  <contest id="2697">
+    <name>Halifax Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="340">Halifax Contest</group>
+    <slug>halifax-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5422">Wagners Works</test-piece>
+  </test-piece>
+
+  <venue id="3997">Sunny Vale, Hipperholme, Halifax, West Yorkshire</venue>
+  <notes></notes>
+
+  <created>Nov. 17, 2020, 2:47 p.m.</created>
+  <last-modified>Nov. 17, 2020, 2:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="322752">
+      <result code="1">1</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322753">
+      <result code="2">2</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322754">
+      <result code="3">3</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
