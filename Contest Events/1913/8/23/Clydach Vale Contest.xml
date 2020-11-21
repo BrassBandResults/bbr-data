@@ -1,0 +1,48 @@
+<contest-event id="40162">
+  <event-date date="1913-8-23">Aug. 23, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Clydach Vale Contest</name>
+  <contest id="2645">
+    <name>Clydach Vale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>clydach-vale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2811">Bright Gems of Melody</test-piece>
+  </test-piece>
+
+  <venue id="1993">Clydach Vale, Glamorgan</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Aug. 20, 2018, 9:35 a.m.</created>
+  <last-modified>Nov. 20, 2020, 4 p.m.</last-modified>
+
+  <results>
+    
+    <result id="323034">
+      <result code="1">1</result>
+      <band id="9506">Calfaria Clydach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="323035">
+      <result code="2">2</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="323036">
+      <result code="3">3</result>
+      <band id="19333">R.A.O.B. Clydach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
