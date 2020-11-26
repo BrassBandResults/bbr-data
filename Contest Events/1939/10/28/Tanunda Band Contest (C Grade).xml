@@ -1,0 +1,64 @@
+<contest-event id="44160">
+  <event-date date="1939-10-28">Oct. 28, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tanunda Band Contest (C Grade)</name>
+  <contest id="6609">
+    <name>Tanunda Band Contest (C Grade)</name>
+    <order>2</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="617">Tanunda Band Contest</group>
+    <slug>tanunda-band-contest-c-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2324">Fierrabras</test-piece>
+  </test-piece>
+
+  <venue id="7288">Tanunda Recreation Grounds, Tanunda,  South Australia,  Australia</venue>
+  <notes>Change of format
+(1)   Test Selection
+(2)   Own Choice Sacred Number
+(3)   Own Choice Waltz
+(3)   Own Choice March</notes>
+
+  <created>Nov. 25, 2020, 11:24 p.m.</created>
+  <last-modified>Nov. 25, 2020, 11:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="323243">
+      <result code="1">1</result>
+      <band id="2186">Nuriootpa Town Band</band>
+      <conductor id="320071">O.J Krieg</conductor>
+    </result>
+    
+    <result id="323244">
+      <result code="2">2</result>
+      <band id="2192">Whyalla Citizens&#39; Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="323245">
+      <result code="3">3</result>
+      <band id="2161">Hahndorf Town Band</band>
+      <conductor id="320433">Dick Ballard</conductor>
+    </result>
+    
+    <result id="323246">
+      <result code="4">4</result>
+      <band id="19374">Prospect Town Boys</band>
+      <conductor id="317511">Bert Harding</conductor>
+    </result>
+    
+    <result id="323247">
+      <result code="W">Withdrawn</result>
+      <band id="19110">Holdfast Bay Model</band>
+      <conductor id="320434">Albert Drew</conductor>
+    </result>
+    
+  </results>
+</contest-event>
