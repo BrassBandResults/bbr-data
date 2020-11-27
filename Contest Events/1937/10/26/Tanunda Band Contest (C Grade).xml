@@ -1,0 +1,42 @@
+<contest-event id="44199">
+  <event-date date="1937-10-26">Oct. 26, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tanunda Band Contest (C Grade)</name>
+  <contest id="6609">
+    <name>Tanunda Band Contest (C Grade)</name>
+    <order>2</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="617">Tanunda Band Contest</group>
+    <slug>tanunda-band-contest-c-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1026">Gems of Tchaikovsky [arr. Johnstone]</test-piece>
+  </test-piece>
+
+  <venue id="7288">Tanunda Recreation Grounds, Tanunda,  South Australia,  Australia</venue>
+  <notes></notes>
+
+  <created>Nov. 27, 2020, 1:10 a.m.</created>
+  <last-modified>Nov. 27, 2020, 1:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="323369">
+      <result code="1">1</result>
+      <band id="2251">Riverland Brass</band>
+      <conductor id="320442">S. Baldock</conductor>
+    </result>
+    
+    <result id="323370">
+      <result code="2">2</result>
+      <band id="2192">Whyalla Citizens&#39; Band</band>
+      <conductor id="320443">H. L. Herbert</conductor>
+    </result>
+    
+  </results>
+</contest-event>
