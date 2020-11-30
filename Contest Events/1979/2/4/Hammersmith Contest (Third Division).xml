@@ -44,40 +44,32 @@
       <conductor id="297219">Stephen Atkins</conductor>
     </result>
     
-    <result id="177240">
-      <result code="">Unknown Result</result>
-      <band id="1954">British Airways</band>
-      <conductor id="310081">S. Tamplin</conductor>
-    </result>
-    
-    <result id="177243">
-      <result code="">Unknown Result</result>
-      <band id="1539">Denham Brass</band>
-      <conductor id="311718">S. Willis</conductor>
-    </result>
-    
     <result id="177242">
       <result code="">Unknown Result</result>
       <band id="328">Epsom &amp; Ewell Silver Band</band>
       <conductor id="311067">Alex Warne</conductor>
+      <test-piece id="114">Snowdon Fantasy</test-piece>
     </result>
     
     <result id="177239">
       <result code="">Unknown Result</result>
       <band id="616">Fulham Brass Band</band>
       <conductor id="301044">Cecil Exton</conductor>
-    </result>
-    
-    <result id="177237">
-      <result code="">Unknown Result</result>
-      <band id="2737">Kidlington Silver</band>
-      <conductor id="305652">David Martin</conductor>
+      <test-piece id="130">Partita [Gregson]</test-piece>
     </result>
     
     <result id="177236">
       <result code="">Unknown Result</result>
       <band id="4323">Leicester Foresters No. 2</band>
       <conductor id="298239">Robert Boulter</conductor>
+      <test-piece id="345">Devon Fantasy</test-piece>
+    </result>
+    
+    <result id="177237">
+      <result code="">Unknown Result</result>
+      <band id="2737">Kidlington Silver</band>
+      <conductor id="305652">David Martin</conductor>
+      <test-piece id="130">Partita [Gregson]</test-piece>
     </result>
     
     <result id="177238">
@@ -86,10 +78,23 @@
       <conductor id="310130">D. J. Taylor</conductor>
     </result>
     
+    <result id="177240">
+      <result code="">Unknown Result</result>
+      <band id="1954">British Airways</band>
+      <conductor id="310081">S. Tamplin</conductor>
+    </result>
+    
     <result id="177241">
       <result code="">Unknown Result</result>
       <band id="45">Staines Brass</band>
       <conductor id="298077">Bernard Blishen</conductor>
+      <test-piece id="1037">Rufford Abbey</test-piece>
+    </result>
+    
+    <result id="177243">
+      <result code="W">Withdrawn</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="311718">S. Willis</conductor>
     </result>
     
   </results>

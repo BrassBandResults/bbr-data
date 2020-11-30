@@ -19,10 +19,12 @@
   </test-piece>
 
   <venue id="377">Watford Colosseum, Watford, Hertfordshire, England, UK</venue>
-  <notes>9th Annual Contest</notes>
+  <notes>9th Annual Contest
+
+Adjudicators: Programme has printed David Read: Open and Second Sections, Cyril Suckling: Third and Youth Sections. However, this is crossed out by hand, and substituted is David Read: Open, Third, and Youth Sections, Cyril Suckling: Second Section.</notes>
 
   <created>Aug. 17, 2012, 3:38 p.m.</created>
-  <last-modified>July 11, 2014, 1:58 p.m.</last-modified>
+  <last-modified>Nov. 29, 2020, 11:10 a.m.</last-modified>
 
   <results>
     
@@ -45,16 +47,10 @@
       <test-piece id="109">Le Roi d&#39;Ys</test-piece>
     </result>
     
-    <result id="114939">
+    <result id="114934">
       <result code="">Unknown Result</result>
-      <band id="335">Cawston Band</band>
-      <conductor id="308544">J. F. W. Royston</conductor>
-    </result>
-    
-    <result id="114941">
-      <result code="">Unknown Result</result>
-      <band id="617">Hitchin Band</band>
-      <conductor id="308318">Matt Robertson</conductor>
+      <band id="1550">Tadley Band</band>
+      <conductor id="308727">Gordon Saunders</conductor>
     </result>
     
     <result id="114940">
@@ -73,12 +69,20 @@
       <result code="">Unknown Result</result>
       <band id="296">Soham Comrades Band</band>
       <conductor id="306466">Peter Mott</conductor>
+      <test-piece id="1165">Les Preludes [arr. Rimmer]</test-piece>
     </result>
     
-    <result id="114934">
+    <result id="114939">
       <result code="">Unknown Result</result>
-      <band id="1550">Tadley Band</band>
-      <conductor id="308727">Gordon Saunders</conductor>
+      <band id="335">Cawston Band</band>
+      <conductor id="308544">J. F. W. Royston</conductor>
+      <test-piece id="239">Rhapsody in Brass</test-piece>
+    </result>
+    
+    <result id="114941">
+      <result code="W">Withdrawn</result>
+      <band id="617">Hitchin Band</band>
+      <conductor id="308318">Matt Robertson</conductor>
     </result>
     
     <result id="114938">

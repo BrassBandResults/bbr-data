@@ -92,12 +92,6 @@
       <conductor id="303400">Alan Hope</conductor>
     </result>
     
-    <result id="62446">
-      <result code="">Unknown Result</result>
-      <band id="937">Lingdale Silver Band</band>
-      <conductor id="306410">Alan Morrison</conductor>
-    </result>
-    
     <result id="62447">
       <result code="">Unknown Result</result>
       <band id="4211">Grimsby Band</band>
@@ -120,6 +114,12 @@
       <result code="">Unknown Result</result>
       <band id="2562">Ecclesfield Silver</band>
       <conductor id="301040">Alan Exley</conductor>
+    </result>
+    
+    <result id="62446">
+      <result code="W">Withdrawn</result>
+      <band id="937">Lingdale Silver Band</band>
+      <conductor id="306410">Alan Morrison</conductor>
     </result>
     
   </results>

@@ -15,28 +15,39 @@
   </contest>
   <contest-type-override id="12">Test Piece Contest</contest-type-override>
   <test-piece>
-    
+    <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
   </test-piece>
 
   <venue id="2953">Bayards Hill Primary School, Oxford, Oxfordshire, England, UK</venue>
   <notes></notes>
 
   <created>April 1, 2013, 9:06 p.m.</created>
-  <last-modified>April 5, 2013, 5:55 p.m.</last-modified>
+  <last-modified>Nov. 29, 2020, 2:08 p.m.</last-modified>
 
   <results>
     
     <result id="150499">
       <result code="1">1</result>
       <band id="431">Towcester Studio Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="308803">William Scholes</conductor>
     </result>
     
     <result id="150498">
       <result code="2">2</result>
       <band id="691">Oxford Concert Brass</band>
-      <conductor id="310730">Unknown</conductor>
-      <test-piece id="236">From the New World [arr. Rimmer]</test-piece>
+      <conductor id="300754">Cliff Edmunds</conductor>
+    </result>
+    
+    <result id="323544">
+      <result code="">Unknown Result</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="305049">Don Lewis</conductor>
+    </result>
+    
+    <result id="323543">
+      <result code="">Unknown Result</result>
+      <band id="2118">Yarnton Band</band>
+      <conductor id="311606">David Williams</conductor>
     </result>
     
   </results>
