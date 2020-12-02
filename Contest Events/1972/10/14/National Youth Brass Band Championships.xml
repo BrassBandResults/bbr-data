@@ -19,10 +19,10 @@
   </test-piece>
 
   <venue id="507">Chelsea Old Town Hall, Chelsea, Kensington and Chelsea, Greater London, England, UK</venue>
-  <notes></notes>
+  <notes>Programme lists E. Williams as conducting Southend and D. Evans as conducting St. Dennis. However, Eddie Williams was the conductor of St. Dennis at this period, so we assume that the two were reversed in the programme. Please let us know if you have definite knowledge.</notes>
 
   <created>Jan. 30, 2012, 1 p.m.</created>
-  <last-modified>Feb. 17, 2012, 9:09 p.m.</last-modified>
+  <last-modified>Dec. 1, 2020, 7:32 p.m.</last-modified>
 
   <results>
     
@@ -62,22 +62,16 @@
       <conductor id="309459">W. Smith</conductor>
     </result>
     
+    <result id="155504">
+      <result code="">Unknown Result</result>
+      <band id="4822">Richmond on Thames Schools</band>
+      <conductor id="305995">Albert Meek</conductor>
+    </result>
+    
     <result id="155500">
       <result code="">Unknown Result</result>
       <band id="2095">City of Oxford Youth</band>
       <conductor id="299180">Nobby Challis</conductor>
-    </result>
-    
-    <result id="155501">
-      <result code="">Unknown Result</result>
-      <band id="4235">Darlington Youth Band</band>
-      <conductor id="307692">A. R. J. Price</conductor>
-    </result>
-    
-    <result id="155502">
-      <result code="">Unknown Result</result>
-      <band id="3192">Lostwithiel Youth</band>
-      <conductor id="310003">M. W. Sweet</conductor>
     </result>
     
     <result id="155503">
@@ -86,16 +80,22 @@
       <conductor id="299925">James Crosbie</conductor>
     </result>
     
-    <result id="155504">
+    <result id="155501">
       <result code="">Unknown Result</result>
-      <band id="4822">Richmond on Thames Schools</band>
-      <conductor id="305995">Albert Meek</conductor>
+      <band id="4235">Darlington Youth Band</band>
+      <conductor id="307692">A. R. J. Price</conductor>
     </result>
     
     <result id="155505">
       <result code="">Unknown Result</result>
       <band id="10886">Southend Music School</band>
-      <conductor id="311611">Eddie Williams</conductor>
+      <conductor id="320453">D. Evans</conductor>
+    </result>
+    
+    <result id="155502">
+      <result code="">Unknown Result</result>
+      <band id="3192">Lostwithiel Youth</band>
+      <conductor id="310003">M. W. Sweet</conductor>
     </result>
     
   </results>

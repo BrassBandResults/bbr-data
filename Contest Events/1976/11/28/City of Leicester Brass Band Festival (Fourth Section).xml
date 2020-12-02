@@ -1,7 +1,7 @@
 <contest-event id="5863">
   <event-date date="1976-11-28">Nov. 28, 1976<event-date>
   <event-date-resolution>D</event-date-resolution>
-  <name>City of Leicester Brass Band Festival (4th Section)</name>
+  <name>City of Leicester Brass Band Festival (Fourth Section)</name>
   <contest id="833">
     <name>City of Leicester Brass Band Festival (Fourth Section)</name>
     <order>40</order>
@@ -22,7 +22,7 @@
   <notes></notes>
 
   <created>May 9, 2011, 12:50 p.m.</created>
-  <last-modified>May 9, 2011, 12:51 p.m.</last-modified>
+  <last-modified>Dec. 1, 2020, 6:01 p.m.</last-modified>
 
   <results>
     
@@ -50,16 +50,10 @@
       <conductor id="309924">Ron Sudworth</conductor>
     </result>
     
-    <result id="50898">
+    <result id="50908">
       <result code="">Unknown Result</result>
-      <band id="4312">Bridgnorth &amp; District</band>
-      <conductor id="309082">David Short</conductor>
-    </result>
-    
-    <result id="50899">
-      <result code="">Unknown Result</result>
-      <band id="4330">Cotgrave</band>
-      <conductor id="308250">Walter Ritchie</conductor>
+      <band id="125">Stannington Band</band>
+      <conductor id="302730">Roy Hartley</conductor>
     </result>
     
     <result id="50901">
@@ -74,32 +68,38 @@
       <conductor id="308270">A. J. Roberts</conductor>
     </result>
     
-    <result id="50903">
-      <result code="">Unknown Result</result>
-      <band id="2096">Long Lea Valley</band>
-      <conductor id="307752">Royce Pritchett</conductor>
-    </result>
-    
-    <result id="50904">
-      <result code="">Unknown Result</result>
-      <band id="4313">Melton Town Silver</band>
-      <conductor id="299390">T. W. A. Clarke</conductor>
-    </result>
-    
     <result id="50905">
       <result code="">Unknown Result</result>
       <band id="3709">North Powys County Youth</band>
       <conductor id="310618">Gordon Tune</conductor>
     </result>
     
-    <result id="50908">
+    <result id="50903">
       <result code="">Unknown Result</result>
-      <band id="125">Stannington Band</band>
-      <conductor id="302730">Roy Hartley</conductor>
+      <band id="2096">Long Lea Valley</band>
+      <conductor id="307752">Royce Pritchett</conductor>
+    </result>
+    
+    <result id="50898">
+      <result code="W">Withdrawn</result>
+      <band id="4312">Bridgnorth &amp; District</band>
+      <conductor id="309082">David Short</conductor>
+    </result>
+    
+    <result id="50899">
+      <result code="W">Withdrawn</result>
+      <band id="4330">Cotgrave</band>
+      <conductor id="308250">Walter Ritchie</conductor>
+    </result>
+    
+    <result id="50904">
+      <result code="W">Withdrawn</result>
+      <band id="4313">Melton Town Silver</band>
+      <conductor id="299390">T. W. A. Clarke</conductor>
     </result>
     
     <result id="50907">
-      <result code="">Unknown Result</result>
+      <result code="W">Withdrawn</result>
       <band id="485">Stourport-on-Severn Brass Band</band>
       <conductor id="303852">George Jackson</conductor>
     </result>

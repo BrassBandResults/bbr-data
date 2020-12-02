@@ -1,17 +1,17 @@
 <contest-event id="30559">
   <event-date date="1978-12-10">Dec. 10, 1978<event-date>
   <event-date-resolution>D</event-date-resolution>
-  <name>Hull (Youth Bands) Entertainment Contest</name>
+  <name>Hesslewood Youth Brass Band Competition</name>
   <contest id="5570">
-    <name>Hull (Youth Bands) Entertainment Contest</name>
+    <name>Hesslewood Youth Brass Band Competition</name>
     <order>0</order>
     <contest-type id="2">Entertainments Contest</contest-type>
     <group id=""></group>
     <slug>hull-youth-bands-entertainment-contest</slug>
     
-    <notes>None</notes>
+    <notes></notes>
     
-    
+    <section id="6">Youth</section>
   </contest>
   
   <test-piece>
@@ -23,14 +23,14 @@
 12 bands competed.</notes>
 
   <created>Dec. 8, 2014, 10:44 p.m.</created>
-  <last-modified>March 31, 2017, 9:21 p.m.</last-modified>
+  <last-modified>Dec. 1, 2020, 9:01 p.m.</last-modified>
 
   <results>
     
     <result id="216106">
       <result code="1">1</result>
       <band id="4667">Wakefield Metropolitan Schools Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="302952">Les Heppleston</conductor>
     </result>
     
     <result id="216107">
@@ -42,7 +42,7 @@
     <result id="216108">
       <result code="3">3</result>
       <band id="3712">Holmfirth High School</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="309150">Alan Simmons</conductor>
     </result>
     
     <result id="216109">
@@ -57,46 +57,46 @@
       <conductor id="309924">Ron Sudworth</conductor>
     </result>
     
-    <result id="216110">
+    <result id="323606">
       <result code="">Unknown Result</result>
-      <band id="2037">Abraham Darby School Band</band>
-      <conductor id="310730">Unknown</conductor>
-    </result>
-    
-    <result id="216111">
-      <result code="">Unknown Result</result>
-      <band id="4235">Darlington Youth Band</band>
-      <conductor id="310730">Unknown</conductor>
-    </result>
-    
-    <result id="216114">
-      <result code="">Unknown Result</result>
-      <band id="1524">Rochdale Metropolitan Youth</band>
-      <conductor id="310730">Unknown</conductor>
-    </result>
-    
-    <result id="216112">
-      <result code="">Unknown Result</result>
-      <band id="3806">Solihull Youth Brass Band</band>
-      <conductor id="310730">Unknown</conductor>
-    </result>
-    
-    <result id="216115">
-      <result code="">Unknown Result</result>
-      <band id="1463">Tewit Youth</band>
-      <conductor id="310730">Unknown</conductor>
-    </result>
-    
-    <result id="216116">
-      <result code="">Unknown Result</result>
-      <band id="782">Tredegar Youth Band</band>
-      <conductor id="310730">Unknown</conductor>
+      <band id="19407">City of Hull Youth</band>
+      <conductor id="304740">Dixon Laing</conductor>
     </result>
     
     <result id="216117">
       <result code="">Unknown Result</result>
       <band id="3707">Wigan Metropolitan Youth</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="306672">John Newbiggin</conductor>
+    </result>
+    
+    <result id="216110">
+      <result code="">Unknown Result</result>
+      <band id="2037">Abraham Darby School Band</band>
+      <conductor id="320454">Colin Jones</conductor>
+    </result>
+    
+    <result id="216116">
+      <result code="">Unknown Result</result>
+      <band id="782">Tredegar Youth Band</band>
+      <conductor id="311675">Tudor Williams</conductor>
+    </result>
+    
+    <result id="216115">
+      <result code="">Unknown Result</result>
+      <band id="1463">Tewit Youth</band>
+      <conductor id="308100">Leighton Rich</conductor>
+    </result>
+    
+    <result id="216111">
+      <result code="W">Withdrawn</result>
+      <band id="4235">Darlington Youth Band</band>
+      <conductor id="303129">Alfred Hind</conductor>
+    </result>
+    
+    <result id="216114">
+      <result code="W">Withdrawn</result>
+      <band id="1524">Rochdale Metropolitan Youth</band>
+      <conductor id="309188">J. A. Siswick</conductor>
     </result>
     
   </results>
