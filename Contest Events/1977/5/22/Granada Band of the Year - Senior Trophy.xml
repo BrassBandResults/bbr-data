@@ -2,27 +2,27 @@
   <event-date date="1977-5-22">May 22, 1977<event-date>
   <event-date-resolution>D</event-date-resolution>
   <name>Granada Band of the Year - Senior Trophy</name>
-  <contest id="6232">
-    <name>Granada Band of the Year - Senior Trophy</name>
-    <order>0</order>
+  <contest id="32">
+    <name>British Open Spring Festival (Senior Trophy)</name>
+    <order>30</order>
     <contest-type id="12">Test Piece Contest</contest-type>
-    <group id=""></group>
-    <slug>granada-band-of-the-year-senior-trophy</slug>
+    <group id="108">British Open Spring Festival</group>
+    <slug>senior-trophy</slug>
     
-    <notes>None</notes>
+    <notes>No contest held from 1981 to 2001.</notes>
     
     
   </contest>
   
   <test-piece>
-    <test-piece id="4886">Suite Variable</test-piece>
+    <test-piece id="409">First Suite in Eb [arr. Herbert]</test-piece>
   </test-piece>
 
-  <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
-  <notes>Suite in Eb</notes>
+  <venue id="559">Belle Vue (Lancaster Hall), Manchester, Greater Manchester, England, UK</venue>
+  <notes></notes>
 
   <created>Oct. 22, 2017, 9:06 p.m.</created>
-  <last-modified>Oct. 22, 2017, 9:37 p.m.</last-modified>
+  <last-modified>Dec. 2, 2020, 9:28 a.m.</last-modified>
 
   <results>
     
@@ -74,18 +74,6 @@
       <conductor id="302730">Roy Hartley</conductor>
     </result>
     
-    <result id="281212">
-      <result code="">Unknown Result</result>
-      <band id="180">Blackpool Brass</band>
-      <conductor id="303452">Frank Hough</conductor>
-    </result>
-    
-    <result id="281217">
-      <result code="">Unknown Result</result>
-      <band id="1510">Workington</band>
-      <conductor id="297745">Maurice Bell</conductor>
-    </result>
-    
     <result id="281214">
       <result code="">Unknown Result</result>
       <band id="3180">Middlewich Centenary Band</band>
@@ -132,6 +120,18 @@
       <result code="">Unknown Result</result>
       <band id="406">Banks Brewery Band</band>
       <conductor id="310907">J. Walker</conductor>
+    </result>
+    
+    <result id="281212">
+      <result code="W">Withdrawn</result>
+      <band id="180">Blackpool Brass</band>
+      <conductor id="303452">Frank Hough</conductor>
+    </result>
+    
+    <result id="281217">
+      <result code="W">Withdrawn</result>
+      <band id="1510">Workington</band>
+      <conductor id="297745">Maurice Bell</conductor>
     </result>
     
   </results>
