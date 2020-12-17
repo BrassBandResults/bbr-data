@@ -1,0 +1,43 @@
+<contest-event id="44264">
+  <event-date date="2000-7-15">July 15, 2000<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Beaumaris Festival Section D</name>
+  <contest id="6656">
+    <name>Beaumaris Festival Section D</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>beaumaris-festival-section-d</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="2">Entertainments Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="7350">Canolfan Beaumaris, Anglesey</venue>
+  <notes>Best soloist - horn player Beaumaris B.
+2 bands competed</notes>
+
+  <created>Dec. 16, 2020, 10:08 p.m.</created>
+  <last-modified>Dec. 16, 2020, 10:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="323964">
+      <result code="1">1</result>
+      <band id="1217">Beaumaris &#39;B&#39; Band</band>
+      <conductor id="300988">Fred Evans</conductor>
+    </result>
+    
+    <result id="323965">
+      <result code="2">2</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="304252">Michael Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>
