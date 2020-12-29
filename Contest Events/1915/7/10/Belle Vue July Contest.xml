@@ -19,10 +19,11 @@
   </test-piece>
 
   <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
-  <notes>18 bands competed.</notes>
+  <notes>18 bands competed.
+</notes>
 
   <created>April 17, 2011, 6:54 p.m.</created>
-  <last-modified>Oct. 4, 2018, 6:25 p.m.</last-modified>
+  <last-modified>Dec. 28, 2020, 10:03 p.m.</last-modified>
 
   <results>
     
@@ -132,6 +133,18 @@
       <result code="">Unknown Result</result>
       <band id="2615">Openshaw Original</band>
       <conductor id="311773">Louis Wilson</conductor>
+    </result>
+    
+    <result id="324082">
+      <result code="W">Withdrawn</result>
+      <band id="1639">Irwell Old Prize Band</band>
+      <conductor id="300725">Tom Eastwood</conductor>
+    </result>
+    
+    <result id="324085">
+      <result code="W">Withdrawn</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="303686">T. Hunter</conductor>
     </result>
     
   </results>
