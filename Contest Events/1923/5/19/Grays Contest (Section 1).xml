@@ -1,0 +1,48 @@
+<contest-event id="40768">
+  <event-date date="1923-5-19">May 19, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grays Contest (Section 1)</name>
+  <contest id="1926">
+    <name>Grays Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>grays-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1365">Grays, Essex, England, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 17, 2018, 4:06 p.m.</created>
+  <last-modified>Feb. 11, 2021, 10:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="324671">
+      <result code="1">1</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324672">
+      <result code="2">2</result>
+      <band id="622">Watford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324673">
+      <result code="3">3</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
