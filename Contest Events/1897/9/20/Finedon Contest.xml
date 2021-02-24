@@ -1,0 +1,55 @@
+<contest-event id="13392">
+  <event-date date="1897-9-20">Sept. 20, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Finedon Contest</name>
+  <contest id="2716">
+    <name>Finedon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>finedon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2252">Finedon, Northamptonshire</venue>
+  <notes>Prizes: £12, £7, £4 10s, £3
+4 bands competed</notes>
+
+  <created>May 11, 2012, 5:40 p.m.</created>
+  <last-modified>July 10, 2019, 9:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106192">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="106193">
+      <result code="2">2</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="106194">
+      <result code="3">3</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="106195">
+      <result code="4">4</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

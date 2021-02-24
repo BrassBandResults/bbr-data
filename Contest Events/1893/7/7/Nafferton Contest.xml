@@ -1,0 +1,56 @@
+<contest-event id="11808">
+  <event-date date="1893-7-7">July 7, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nafferton Contest</name>
+  <contest id="2371">
+    <name>Nafferton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>nafferton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1725">Nafferton</venue>
+  <notes></notes>
+
+  <created>April 7, 2012, 11:09 a.m.</created>
+  <last-modified>Feb. 21, 2013, 9:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95458">
+      <result code="1">1</result>
+      <band id="7540">Hull Railway Servants</band>
+      <conductor id="303691">E. G. Hurd</conductor>
+      <test-piece id="1558">Emira</test-piece>
+    </result>
+    
+    <result id="95459">
+      <result code="2">2</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="306774">J. W. Noble</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="95460">
+      <result code="3">3</result>
+      <band id="7541">Bridlington Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138888">
+      <result code="4">4</result>
+      <band id="5249">Nafferton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

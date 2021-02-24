@@ -1,0 +1,105 @@
+<contest-event id="36575">
+  <event-date date="1885-9-5">Sept. 5, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cadishead Contest</name>
+  <contest id="2534">
+    <name>Cadishead Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cadishead-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5170">Frost and Sun</test-piece>
+  </test-piece>
+
+  <venue id="6345">Field adjacent to Railway Hotel, Cadishead, Lancashire</venue>
+  <notes>March contest - 1st West Leigh, 2nd Albert Memorial.
+1st annual contest.
+12 bands competed.
+</notes>
+
+  <created>Nov. 23, 2016, 12:54 p.m.</created>
+  <last-modified>Oct. 7, 2019, 11:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="264882">
+      <result code="1">1</result>
+      <band id="6222">Westleigh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264883">
+      <result code="2">2</result>
+      <band id="5894">Albert Memorial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264885">
+      <result code="3">3</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264884">
+      <result code="4">4</result>
+      <band id="2636">Prestwich Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264890">
+      <result code="">Unknown Result</result>
+      <band id="1499">Bedford (Leigh) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264893">
+      <result code="">Unknown Result</result>
+      <band id="1309">British Aerospace (Chadderton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264892">
+      <result code="">Unknown Result</result>
+      <band id="1448">Glazebury</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293887">
+      <result code="">Unknown Result</result>
+      <band id="17363">Irlam Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264887">
+      <result code="">Unknown Result</result>
+      <band id="8240">Lymm Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264886">
+      <result code="">Unknown Result</result>
+      <band id="14239">Middleton and Rhodes United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264889">
+      <result code="">Unknown Result</result>
+      <band id="14466">Peacock&#39;s Gorton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264888">
+      <result code="">Unknown Result</result>
+      <band id="5361">Warrington Volunteer Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

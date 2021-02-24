@@ -1,0 +1,67 @@
+<contest-event id="17178">
+  <event-date date="1881-8-20">Aug. 20, 1881<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shildon Show</name>
+  <contest id="1508">
+    <name>Shildon Show</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="196">Shildon Show</group>
+    <slug>shildon-show</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="976">Vicarage Grounds, Shildon</venue>
+  <notes>5 bands competed
+
+Prizes: £35, £20, £10, £5</notes>
+
+  <created>Dec. 19, 2012, 10:09 p.m.</created>
+  <last-modified>Dec. 19, 2012, 10:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130407">
+      <result code="1">1</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2295">Weber Fantasia [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="130405">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2246">Le Prophete [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="130403">
+      <result code="3">3</result>
+      <band id="6099">Blair and Co. (Stockton)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="130404">
+      <result code="4">4</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="130406">
+      <result code="5">5</result>
+      <band id="3601">New Shildon</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2179">Operatic Fantasia</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

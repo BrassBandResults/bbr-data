@@ -1,0 +1,80 @@
+<contest-event id="17790">
+  <event-date date="1889-12-14">Dec. 14, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eckington Contest</name>
+  <contest id="3241">
+    <name>Eckington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eckington</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2314">Songs of England (Scholes)</test-piece>
+  </test-piece>
+
+  <venue id="2947">Assembly Rooms, Eckington, Derbyshire, England, UK</venue>
+  <notes>Prizes: £5, £3, £1
+Quickstep: 1. Woodhouse, 2. Rotherham.
+7 bands competed</notes>
+
+  <created>Jan. 31, 2013, 11:32 a.m.</created>
+  <last-modified>May 22, 2019, 7:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134705">
+      <result code="1">1</result>
+      <band id="5208">Heanor Church Temperance</band>
+      <conductor id="307990">A. S. Redgate</conductor>
+    </result>
+    
+    <result id="134706">
+      <result code="2">2</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="134701">
+      <result code="3">3</result>
+      <band id="7815">Tinsley Park</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134704">
+      <result code="">Unknown Result</result>
+      <band id="6337">Eastwood Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134703">
+      <result code="">Unknown Result</result>
+      <band id="10340">Eckington Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134700">
+      <result code="">Unknown Result</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="263071">
+      <result code="">Unknown Result</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="299621">John William Cook</conductor>
+    </result>
+    
+    <result id="259624">
+      <result code="W">Withdrawn</result>
+      <band id="3605">Hasland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

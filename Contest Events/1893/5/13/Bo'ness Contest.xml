@@ -1,0 +1,96 @@
+<contest-event id="11744">
+  <event-date date="1893-5-13">May 13, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bo&#39;ness Contest</name>
+  <contest id="2085">
+    <name>Bo&#39;ness Contest [1890-1910]</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="245">Bo&#39;ness Contest</group>
+    <slug>bo-ness-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1521">Bo&#39;ness, Falkirk, Scotland, UK</venue>
+  <notes>Promoted by Kinneil Brass Band. 
+Quickstep contest: 1. Alloa, 2. Cleland, 3. Kirkcaldy
+Prizes: £20, £15, £10, £5, £3.
+9 bands competed.</notes>
+
+  <created>April 6, 2012, 5:58 p.m.</created>
+  <last-modified>June 5, 2019, 11:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95177">
+      <result code="1">1</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95176">
+      <result code="1">1</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="314025">James Robinson</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95178">
+      <result code="3">3</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95179">
+      <result code="4">4</result>
+      <band id="1985">Bonnybridge &amp; District</band>
+      <conductor id="311924">Charles Woodcock</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95180">
+      <result code="5">5</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95181">
+      <result code="">Unknown Result</result>
+      <band id="1988">Cleland</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="165911">
+      <result code="">Unknown Result</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="314025">James Robinson</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="165912">
+      <result code="">Unknown Result</result>
+      <band id="1982">Cambusbarron</band>
+      <conductor id="303994">James Jenkins</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="165910">
+      <result code="">Unknown Result</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="299218">Walter George Chapman</conductor>
+      <test-piece id="1831">Nabucco</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="25942">
+  <event-date date="1861-9-16">Sept. 16, 1861<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham Contest</name>
+  <contest id="1901">
+    <name>Durham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>durham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4400">New Park, Durham City</venue>
+  <notes>Newcastle &amp; Gateshead Licensed Victuallers Picnic
+
+Each band played two selections of their own choice
+
+</notes>
+
+  <created>Jan. 18, 2014, 8:41 p.m.</created>
+  <last-modified>Feb. 11, 2020, 1:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187971">
+      <result code="1">1</result>
+      <band id="5052">South Hetton</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1616">Tancredi - overture (unknown arranger)</test-piece>
+    </result>
+    
+    <result id="187973">
+      <result code="2">2</result>
+      <band id="8528">Chester-le-Street Saxhorn</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1257">Lucrezia Borgia [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="187970">
+      <result code="3">3</result>
+      <band id="8499">Crook Saxhorn</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1455">Kyrie and Gloria from Mozart&#39;s 12th Mass [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="187969">
+      <result code="4">4</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187968">
+      <result code="">Unknown Result</result>
+      <band id="11786">11th Durham Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187972">
+      <result code="">Unknown Result</result>
+      <band id="6195">Beamish</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187974">
+      <result code="">Unknown Result</result>
+      <band id="10190">Kibblesworth Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

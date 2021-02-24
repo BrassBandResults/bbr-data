@@ -1,0 +1,77 @@
+<contest-event id="7158">
+  <event-date date="1868-8-28">Aug. 28, 1868<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Skipton Contest</name>
+  <contest id="1250">
+    <name>Skipton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>skipton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2210">Storeharn&#39;s Field, Skipton</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+
+Prizes: £26 5s, £12 12s, £6 6s, £3 3s
+
+Each band played two pieces</notes>
+
+  <created>Aug. 27, 2011, 9:25 p.m.</created>
+  <last-modified>June 9, 2012, 9:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="81270">
+      <result code="1">1</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="83599">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83600">
+      <result code="3">3</result>
+      <band id="4899">Saltaire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83601">
+      <result code="4">4</result>
+      <band id="140">Dodworth Colliery MW Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109373">
+      <result code="">Unknown Result</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109372">
+      <result code="">Unknown Result</result>
+      <band id="8626">Earby Mechanics Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="109371">
+      <result code="">Unknown Result</result>
+      <band id="3487">Heckmondwike Albion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

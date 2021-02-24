@@ -1,0 +1,104 @@
+<contest-event id="34040">
+  <event-date date="1897-11-9">Nov. 9, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6072">Sydney Town Hall, Sydney, New South Wales, Australia</venue>
+  <notes>Prizes:
+1st - £100/$200 + Besson Silver Cup, valued 50 guineas + Boosey Challenge Cup, valued 30 guineas + gold medal for conductor
+2nd - £50/$100
+3rd - £20/$40
+
+Championship held from Thu 4th Nov to Tue 9th Nov; this was the first contest advertised as for the &quot;Championship of Australia&quot;, and as such is regarded as the first in the current sequence of Australian National Championships.
+8 bands played.
+Points awarded out of 60.
+
+Solo prizes:
+Eb cornet: E. Walters, Parramatta
+Bb Cornet: W. H. Fleetman, Sydney
+Tenor horn: J. Arcus, Sydney</notes>
+
+  <created>Feb. 14, 2016, 9:38 p.m.</created>
+  <last-modified>Feb. 15, 2016, 4:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="245945">
+      <result code="1">1</result>
+      <band id="2417">Queenstown Band</band>
+      <conductor id="303416">Thomas Hopkins</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="245954">
+      <result code="2">2</result>
+      <band id="13950">Naval Artillery Volunteers ( Sydney)</band>
+      <conductor id="299235">Jack Charlesworth</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="245955">
+      <result code="3">3</result>
+      <band id="13150">Sydney Model</band>
+      <conductor id="300357">John Devlin</conductor>
+      <test-piece id="2348">Rienzi [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="245948">
+      <result code="4">4</result>
+      <band id="13082">Parramatta Model</band>
+      <conductor id="306883">George O&#39;Shea</conductor>
+      <test-piece id="1486">Souvenir de Bellini</test-piece>
+    </result>
+    
+    <result id="245949">
+      <result code="5">5</result>
+      <band id="2410">NSW Railway Military Band</band>
+      <conductor id="302903">Charles Helm</conductor>
+      <test-piece id="1841">Bellini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="245950">
+      <result code="5">5</result>
+      <band id="9273">Armidale City Band</band>
+      <conductor id="305306">Alfred Lovell</conductor>
+      <test-piece id="2815">Euryanthe [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="245959">
+      <result code="7">7</result>
+      <band id="2411">Newtown Band [Australia]</band>
+      <conductor id="306030">Thomas Mellor</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="245960">
+      <result code="8">8</result>
+      <band id="18562">Zeehan Military  (Tas)</band>
+      <conductor id="298907">Alf Caddie</conductor>
+      <test-piece id="1216">Zaar und Zimmermann</test-piece>
+    </result>
+    
+    <result id="245961">
+      <result code="W">Withdrawn</result>
+      <band id="13111">Bathurst Military</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

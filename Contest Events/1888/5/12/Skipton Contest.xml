@@ -1,0 +1,81 @@
+<contest-event id="9294">
+  <event-date date="1888-5-12">May 12, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Skipton Contest</name>
+  <contest id="1250">
+    <name>Skipton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>skipton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1225">Lucia di Lammermoor [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="758">Skipton Castle</venue>
+  <notes>Promoted by the Skipton Brass Band
+Prizes totalled £48 10s
+36 bands entered the various events, 15 in the quickstep, 16 in the selection
+Quickstep: 1. Copley, 2. Earby</notes>
+
+  <created>Jan. 1, 2012, 11:23 a.m.</created>
+  <last-modified>Oct. 28, 2019, 7:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80335">
+      <result code="1">1</result>
+      <band id="894">Earby Band</band>
+      <conductor id="317303">W. Hartley</conductor>
+    </result>
+    
+    <result id="80336">
+      <result code="2">2</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+    </result>
+    
+    <result id="80337">
+      <result code="3">3</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="80338">
+      <result code="4">4</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="306842">Job Nutter</conductor>
+    </result>
+    
+    <result id="80339">
+      <result code="">Unknown Result</result>
+      <band id="6281">Carleton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80341">
+      <result code="">Unknown Result</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="92705">
+      <result code="">Unknown Result</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80340">
+      <result code="">Unknown Result</result>
+      <band id="3754">Silsden Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

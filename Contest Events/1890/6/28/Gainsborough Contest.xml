@@ -1,0 +1,76 @@
+<contest-event id="17887">
+  <event-date date="1890-6-28">June 28, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gainsborough Contest</name>
+  <contest id="1624">
+    <name>Gainsborough Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gainsborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2374">Faust [Berlioz arr. Owen]</test-piece>
+  </test-piece>
+
+  <venue id="2980">The Northolme, Gainsborough</venue>
+  <notes>Promoted by Gainsborough Britannia Band
+
+Prizes: £20, £12, £5
+
+Quickstep: 1. Leeds, 2. Wharncliffe, 3. Norland</notes>
+
+  <created>Feb. 4, 2013, 11:27 a.m.</created>
+  <last-modified>March 24, 2014, 7:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135223">
+      <result code="1">1</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135225">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135229">
+      <result code="3">3</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135224">
+      <result code="W">Withdrawn</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135227">
+      <result code="W">Withdrawn</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135226">
+      <result code="W">Withdrawn</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135228">
+      <result code="W">Withdrawn</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

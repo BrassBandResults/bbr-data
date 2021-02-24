@@ -1,0 +1,62 @@
+<contest-event id="11760">
+  <event-date date="1893-5-23">May 23, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Porth Contest</name>
+  <contest id="2345">
+    <name>Porth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>porth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1574">Mozart [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1898">Porth, Glamorgan</venue>
+  <notes>5 bands competed
+
+Prizes: £20, £10, £5</notes>
+
+  <created>April 6, 2012, 8:11 p.m.</created>
+  <last-modified>Nov. 19, 2019, 11:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95228">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="95229">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="95230">
+      <result code="3">3</result>
+      <band id="4709">Bethany Temperance Band</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+    <result id="262555">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="298048">John Blamey</conductor>
+    </result>
+    
+    <result id="262554">
+      <result code="">Unknown Result</result>
+      <band id="7498">Dowlais Town</band>
+      <conductor id="315521">William Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

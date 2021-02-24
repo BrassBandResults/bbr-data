@@ -1,0 +1,86 @@
+<contest-event id="12703">
+  <event-date date="1895-9-2">Sept. 2, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellington Contest</name>
+  <contest id="2532">
+    <name>Wellington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6780">Grove Grounds, Wellington, Shropshire</venue>
+  <notes>9 bands competed
+
+March contest: &quot;Lark Hill&quot; - 1st/2nd shared Wingates  &amp; Gossage&#39;s, 3. Hucknall</notes>
+
+  <created>April 19, 2012, 8:41 p.m.</created>
+  <last-modified>Nov. 23, 2017, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101154">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="101155">
+      <result code="2">2</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="101156">
+      <result code="3">3</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="101157">
+      <result code="4">4</result>
+      <band id="3605">Hasland</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="282343">
+      <result code="">Unknown Result</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="282342">
+      <result code="">Unknown Result</result>
+      <band id="6507">Wellington Rifle Corps</band>
+      <conductor id="297697">James Bedford</conductor>
+    </result>
+    
+    <result id="282345">
+      <result code="">Unknown Result</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="305068">Joseph Lewis</conductor>
+    </result>
+    
+    <result id="282344">
+      <result code="">Unknown Result</result>
+      <band id="4417">Wednesbury Borough</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="282341">
+      <result code="">Unknown Result</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

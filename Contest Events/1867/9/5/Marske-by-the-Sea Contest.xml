@@ -1,0 +1,80 @@
+<contest-event id="8280">
+  <event-date date="1867-9-5">Sept. 5, 1867<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marske-by-the-Sea Contest</name>
+  <contest id="1451">
+    <name>Marske-by-the-Sea Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>marske-by-the-sea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="944">Marske-by-the-Sea, North Yorkshire</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4287.htm
+Prizes: £12, £8, £4, £2</notes>
+
+  <created>Nov. 11, 2011, 3:27 p.m.</created>
+  <last-modified>June 9, 2012, 11:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="109158">
+      <result code="1">1</result>
+      <band id="2649">Bramley Temperance</band>
+      <conductor id="304882">Thomas Lawson</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109153">
+      <result code="2">2</result>
+      <band id="8596">Middlesbrough Alexandra</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109154">
+      <result code="3">3</result>
+      <band id="944">Northallerton Silver Band</band>
+      <conductor id="311354">J. Wheldon Jnr</conductor>
+      <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109156">
+      <result code="4">4</result>
+      <band id="8600">Black Boy Colliery Company</band>
+      <conductor id="311966">Thomas Woods</conductor>
+      <test-piece id="1243">Preciosa [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109155">
+      <result code="5">5</result>
+      <band id="8595">Marske Operatic</band>
+      <conductor id="302959">J. Herbert</conductor>
+      <test-piece id="1257">Lucrezia Borgia [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109157">
+      <result code="6">6</result>
+      <band id="5351">Coxhoe Temperance Brass Band</band>
+      <conductor id="311966">Thomas Woods</conductor>
+      <test-piece id="1616">Tancredi - overture (unknown arranger)</test-piece>
+    </result>
+    
+    <result id="109159">
+      <result code="W">Withdrawn</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

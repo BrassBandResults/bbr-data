@@ -1,0 +1,85 @@
+<contest-event id="7906">
+  <event-date date="1898-7-30">July 30, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Settle Contest</name>
+  <contest id="1370">
+    <name>Settle Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>settle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1083">Rose of England</test-piece>
+  </test-piece>
+
+  <venue id="864">Marshfield Cricket Ground, Settle</venue>
+  <notes>9 bands competed
+Prizes: £8, £6, £4, £2</notes>
+
+  <created>Oct. 25, 2011, 4:18 p.m.</created>
+  <last-modified>July 18, 2019, 11:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107744">
+      <result code="1">1</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="70137">
+      <result code="2">2</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="70138">
+      <result code="3">3</result>
+      <band id="4566">Bentham</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="107745">
+      <result code="4">4</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311405">
+      <result code="">Unknown Result</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311403">
+      <result code="">Unknown Result</result>
+      <band id="5585">Giggleswick</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311404">
+      <result code="">Unknown Result</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311400">
+      <result code="">Unknown Result</result>
+      <band id="7655">Lancaster Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311402">
+      <result code="">Unknown Result</result>
+      <band id="18099">Langcliffe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

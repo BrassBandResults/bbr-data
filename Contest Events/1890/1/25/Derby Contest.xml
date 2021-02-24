@@ -1,0 +1,98 @@
+<contest-event id="17839">
+  <event-date date="1890-1-25">Jan. 25, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2315">Nil Desperandum</test-piece>
+  </test-piece>
+
+  <venue id="1129">Drill Hall, Derby</venue>
+  <notes>Midland Brass Band Association contest
+Prizes: £12, £10, £8, £6, £4, £2.
+11 bands competed</notes>
+
+  <created>Feb. 2, 2013, 4:53 p.m.</created>
+  <last-modified>May 22, 2019, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134948">
+      <result code="1">1</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="134946">
+      <result code="2">2</result>
+      <band id="3524">Derby United</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="134942">
+      <result code="3">3</result>
+      <band id="7429">Bingham Town</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="134944">
+      <result code="4">4</result>
+      <band id="6337">Eastwood Ambulance</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="134940">
+      <result code="5">5</result>
+      <band id="7870">Long Eaton Town Band</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="281972">
+      <result code="6">6</result>
+      <band id="7432">Radford Free Church</band>
+      <conductor id="310542">H. Toynton</conductor>
+    </result>
+    
+    <result id="134947">
+      <result code="">Unknown Result</result>
+      <band id="8984">Amble and Radcliffe Colliery</band>
+      <conductor id="297540">Mr. Barratt</conductor>
+    </result>
+    
+    <result id="134941">
+      <result code="">Unknown Result</result>
+      <band id="4776">Derby Sax and Tuba</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="259581">
+      <result code="">Unknown Result</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="134945">
+      <result code="">Unknown Result</result>
+      <band id="7767">Market Harborough Volunteers</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="134943">
+      <result code="">Unknown Result</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="298432">W. Bridgeford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

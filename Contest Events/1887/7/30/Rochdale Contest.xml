@@ -1,0 +1,68 @@
+<contest-event id="9278">
+  <event-date date="1887-7-30">July 30, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rochdale Contest</name>
+  <contest id="1811">
+    <name>Rochdale Contest (1800s)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rochdale-contest-1800s</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="855">Rochdale, Greater Manchester, England, UK</venue>
+  <notes>Promoted by Rochdale Borough band.
+Prizes - 1st £7, 2nd £3, 3rd £1.10s.
+9 bands entered, 6 competed</notes>
+
+  <created>Dec. 31, 2011, 8:46 p.m.</created>
+  <last-modified>May 10, 2019, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="80219">
+      <result code="1">1</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="303367">John Holt</conductor>
+    </result>
+    
+    <result id="80218">
+      <result code="2">2</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="312145">Thomas Young</conductor>
+    </result>
+    
+    <result id="80217">
+      <result code="3">3</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="80215">
+      <result code="">Unknown Result</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80216">
+      <result code="">Unknown Result</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80220">
+      <result code="">Unknown Result</result>
+      <band id="6269">St James (Heywood)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

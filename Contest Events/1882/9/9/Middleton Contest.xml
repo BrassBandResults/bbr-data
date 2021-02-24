@@ -1,0 +1,106 @@
+<contest-event id="13283">
+  <event-date date="1882-9-9">Sept. 9, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Middleton Contest</name>
+  <contest id="2754">
+    <name>Middleton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>middleton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1094">Old Racecourse, Middleton</venue>
+  <notes>Prizes: £12, £6, £4, £2, £1.
+March contest - 1st Southport.
+11 bands entered, 8 competed</notes>
+
+  <created>May 8, 2012, 10:40 a.m.</created>
+  <last-modified>Nov. 25, 2020, 10:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130699">
+      <result code="1">1</result>
+      <band id="396">Littleborough Band</band>
+      <conductor id="303367">John Holt</conductor>
+      <test-piece id="1708">Hohenlinden</test-piece>
+    </result>
+    
+    <result id="130700">
+      <result code="2">2</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="309166">James Simpson</conductor>
+      <test-piece id="1708">Hohenlinden</test-piece>
+    </result>
+    
+    <result id="130701">
+      <result code="3">3</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="315403">J. Howard</conductor>
+      <test-piece id="2373">Shades of Heroes</test-piece>
+    </result>
+    
+    <result id="130703">
+      <result code="4">4</result>
+      <band id="2523">Radcliffe Temperance Band</band>
+      <conductor id="311914">William Wood</conductor>
+      <test-piece id="1074">The Forest Queen</test-piece>
+    </result>
+    
+    <result id="130702">
+      <result code="5">5</result>
+      <band id="2528">Southport Rifles Band</band>
+      <conductor id="308509">Harry Round</conductor>
+      <test-piece id="1815">Hail Apollo</test-piece>
+    </result>
+    
+    <result id="130697">
+      <result code="">Unknown Result</result>
+      <band id="6177">Hollinwood United</band>
+      <conductor id="317277">J. C. Robinson</conductor>
+      <test-piece id="1708">Hohenlinden</test-piece>
+    </result>
+    
+    <result id="105528">
+      <result code="">Unknown Result</result>
+      <band id="6148">Besses o&#39; th&#39; Barn Congregational</band>
+      <conductor id="303879">Robert Jackson</conductor>
+      <test-piece id="2373">Shades of Heroes</test-piece>
+    </result>
+    
+    <result id="130698">
+      <result code="">Unknown Result</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="312562">A. E. Butterworth</conductor>
+      <test-piece id="2373">Shades of Heroes</test-piece>
+    </result>
+    
+    <result id="281354">
+      <result code="W">Withdrawn</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281355">
+      <result code="W">Withdrawn</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281356">
+      <result code="W">Withdrawn</result>
+      <band id="3563">Rishworth Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,93 @@
+<contest-event id="7772">
+  <event-date date="1896-7-4">July 4, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensbury Contest</name>
+  <contest id="1326">
+    <name>Queensbury Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>queensbury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3415">Old Queen&#39;s Head Inn, Queensbury, West Yorkshire, England, UK</venue>
+  <notes>Open to any band except Black Dike Mills.
+Prizes: £18. £12, £7, £5, £3
+Soprano medal: Wyke
+Trombone medal: Skipton</notes>
+
+  <created>Oct. 19, 2011, 7:02 p.m.</created>
+  <last-modified>July 1, 2019, 12:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103471">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="314456">
+      <result code="2">2</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="103472">
+      <result code="3">3</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="103473">
+      <result code="4">4</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="103474">
+      <result code="5">5</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="103476">
+      <result code="">Unknown Result</result>
+      <band id="3195">Daisy Hill Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103478">
+      <result code="">Unknown Result</result>
+      <band id="3608">Dewsbury Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103477">
+      <result code="">Unknown Result</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103475">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="150003">
+      <result code="W">Withdrawn</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

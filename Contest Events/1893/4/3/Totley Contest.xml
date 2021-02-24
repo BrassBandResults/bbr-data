@@ -1,0 +1,74 @@
+<contest-event id="11729">
+  <event-date date="1893-4-3">April 3, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Totley Contest</name>
+  <contest id="2328">
+    <name>Totley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>totley</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1986">El Dorado</test-piece>
+  </test-piece>
+
+  <venue id="1857">Victoria Gardens, Totley</venue>
+  <notes>Prizes: £16, £8, £4.
+7 bands competed
+</notes>
+
+  <created>April 6, 2012, 4:42 p.m.</created>
+  <last-modified>June 8, 2019, 6:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95113">
+      <result code="1">1</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95114">
+      <result code="2">2</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95115">
+      <result code="3">3</result>
+      <band id="7503">Marsden Moor (Barnsley)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98236">
+      <result code="">Unknown Result</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98235">
+      <result code="">Unknown Result</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98234">
+      <result code="">Unknown Result</result>
+      <band id="7601">Stocksbridge Amateur</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98233">
+      <result code="">Unknown Result</result>
+      <band id="3267">Stocksbridge Old Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,59 @@
+<contest-event id="17523">
+  <event-date date="1887-8-1">Aug. 1, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall County Contest</name>
+  <contest id="2012">
+    <name>Cornwall County Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cornwall-county-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2915">Carbis Bay, Cornwall</venue>
+  <notes>Prizes: 13 guineas + trombone and baton, £6, £4, 1 year&#39;s &quot;Music Journal&quot;
+</notes>
+
+  <created>Jan. 22, 2013, 1:32 p.m.</created>
+  <last-modified>Jan. 22, 2013, 1:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="133184">
+      <result code="1">1</result>
+      <band id="6780">Truro Independent Band</band>
+      <conductor id="307444">Harry Phillips</conductor>
+      <test-piece id="2172">Croix d&#39;Honneur</test-piece>
+    </result>
+    
+    <result id="133186">
+      <result code="2">2</result>
+      <band id="563">Porthleven Town Band</band>
+      <conductor id="298075">Amos Blight</conductor>
+      <test-piece id="1628">Pastorella</test-piece>
+    </result>
+    
+    <result id="133185">
+      <result code="3">3</result>
+      <band id="6481">Penryn Band</band>
+      <conductor id="297644">A.H. Beard</conductor>
+      <test-piece id="2269">Rose d&#39;Amour</test-piece>
+    </result>
+    
+    <result id="133187">
+      <result code="4">4</result>
+      <band id="10917">St. Agnes Red Coats</band>
+      <conductor id="308293">Joseph Roberts</conductor>
+      <test-piece id="2299">Evening Revels</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

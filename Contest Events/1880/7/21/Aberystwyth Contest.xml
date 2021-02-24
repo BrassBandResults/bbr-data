@@ -1,0 +1,44 @@
+<contest-event id="38384">
+  <event-date date="1880-7-21">July 21, 1880<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aberystwyth Contest</name>
+  <contest id="4872">
+    <name>Aberystwyth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>aberystwyth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5244">Hallelujah to the Father</test-piece>
+  </test-piece>
+
+  <venue id="1413">Aberystwyth, Ceredigion, Wales, UK</venue>
+  <notes>Aberystwyth Eisteddfod
+
+Prize £7</notes>
+
+  <created>July 7, 2017, 7:03 a.m.</created>
+  <last-modified>July 7, 2017, 7:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="277870">
+      <result code="1">1</result>
+      <band id="15889">Cardiganshire Artillery Militia</band>
+      <conductor id="317016">Sergeant Keen</conductor>
+    </result>
+    
+    <result id="277871">
+      <result code="1">1</result>
+      <band id="15890">Goginan</band>
+      <conductor id="317017">Thomas Price</conductor>
+    </result>
+    
+  </results>
+</contest-event>

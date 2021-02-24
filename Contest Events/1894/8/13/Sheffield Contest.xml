@@ -1,0 +1,52 @@
+<contest-event id="12277">
+  <event-date date="1894-8-13">Aug. 13, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Contest</name>
+  <contest id="1214">
+    <name>Sheffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="824">Sheffield, South Yorkshire, England, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £6, 3rd £3.
+3 bands competed</notes>
+
+  <created>April 11, 2012, 5:17 p.m.</created>
+  <last-modified>June 14, 2019, 9:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98395">
+      <result code="1">1</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davison</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="98396">
+      <result code="2">2</result>
+      <band id="7811">Treeton</band>
+      <conductor id="308164">Robert Richford</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="98397">
+      <result code="3">3</result>
+      <band id="10424">Crookes</band>
+      <conductor id="307585">H. B. Poole</conductor>
+      <test-piece id="1277">Weber [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

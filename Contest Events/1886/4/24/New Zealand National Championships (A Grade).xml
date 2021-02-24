@@ -1,0 +1,90 @@
+<contest-event id="28486">
+  <event-date date="1886-4-24">April 24, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Zealand National Championships (A Grade)</name>
+  <contest id="216">
+    <name>New Zealand National Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="43">New Zealand National Championships</group>
+    <slug>new-zealand-national-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="18">New Zealand</region>
+    <section id="12">A Grade</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1559">Wagner [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2338">Oamaru, Otago, New Zealand</venue>
+  <notes>8 bands competed</notes>
+
+  <created>June 10, 2014, 3:56 p.m.</created>
+  <last-modified>Aug. 22, 2019, 11:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="202741">
+      <result code="1">1</result>
+      <band id="1157">Ascot Park Hotel Brass</band>
+      <conductor id="309120">W. V. Siddall</conductor>
+    </result>
+    
+    <result id="311804">
+      <result code="2">2</result>
+      <band id="1794">Oamaru Garrison Band</band>
+      <conductor id="319494">W. Heppleston</conductor>
+    </result>
+    
+    <result id="311799">
+      <result code="3">3</result>
+      <band id="18066">Stanmore</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311802">
+      <result code="4">4</result>
+      <band id="18134">Timaru City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311798">
+      <result code="">Unknown Result</result>
+      <band id="9183">Timaru Garrison (South Canterbury Regiment)</band>
+      <conductor id="302965">Thomas Herd</conductor>
+    </result>
+    
+    <result id="311800">
+      <result code="">Unknown Result</result>
+      <band id="1788">Kaikorai Metropolitan Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311801">
+      <result code="">Unknown Result</result>
+      <band id="9182">Christchurch Garrison</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311803">
+      <result code="">Unknown Result</result>
+      <band id="1168">Addington Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311805">
+      <result code="W">Withdrawn</result>
+      <band id="8986">Port Chalmers Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311806">
+      <result code="W">Withdrawn</result>
+      <band id="18133">Queenstown Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,78 @@
+<contest-event id="13009">
+  <event-date date="1896-7-18">July 18, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Olney Contest</name>
+  <contest id="2596">
+    <name>Olney Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="325">Olney Contest</group>
+    <slug>olney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2410">Lucrezia Borgia [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1946">Olney</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>April 29, 2012, 9:02 p.m.</created>
+  <last-modified>July 1, 2019, 3:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103595">
+      <result code="1">1</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="103596">
+      <result code="2">2</result>
+      <band id="7624">Long Buckby Temperance</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="103597">
+      <result code="3">3</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="103598">
+      <result code="">Unknown Result</result>
+      <band id="7928">Higham Ferrers Town</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="103599">
+      <result code="">Unknown Result</result>
+      <band id="2974">Newport Pagnell Town Band</band>
+      <conductor id="302365">James Hager</conductor>
+    </result>
+    
+    <result id="103600">
+      <result code="">Unknown Result</result>
+      <band id="8204">Wolverton Printing Works</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="103601">
+      <result code="">Unknown Result</result>
+      <band id="435">Bedford Town Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="103602">
+      <result code="">Unknown Result</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

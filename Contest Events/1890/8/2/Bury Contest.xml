@@ -1,0 +1,93 @@
+<contest-event id="17850">
+  <event-date date="1890-8-2">Aug. 2, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bury Contest</name>
+  <contest id="1599">
+    <name>Bury Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2315">Nil Desperandum</test-piece>
+  </test-piece>
+
+  <venue id="3939">Bury, Lancashire</venue>
+  <notes>Prizes - 1st £20, 2nd £14, 3rd £9.10s., 4th £2.2s.,
+March contest - 1st Accrington Old, 2nd Brighouse and Rastrick.
+Promoted by Bury Temperance Society.
+10 bands competed.</notes>
+
+  <created>Feb. 2, 2013, 9:17 p.m.</created>
+  <last-modified>Dec. 1, 2017, 3:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283220">
+      <result code="1">1</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283221">
+      <result code="2">2</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283223">
+      <result code="3">3</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283222">
+      <result code="4">4</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283219">
+      <result code="">Unknown Result</result>
+      <band id="3529">Bury Public Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="283224">
+      <result code="">Unknown Result</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283225">
+      <result code="">Unknown Result</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283226">
+      <result code="">Unknown Result</result>
+      <band id="3378">Batley Victoria Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283227">
+      <result code="">Unknown Result</result>
+      <band id="2497">Bury Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283228">
+      <result code="">Unknown Result</result>
+      <band id="6183">Audenshaw and Droylsden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

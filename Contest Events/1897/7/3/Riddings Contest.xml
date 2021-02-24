@@ -1,0 +1,56 @@
+<contest-event id="13256">
+  <event-date date="1897-7-3">July 3, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Riddings Contest</name>
+  <contest id="1827">
+    <name>Riddings Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>riddings-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3449">Riddings Park, Riddings</venue>
+  <notes>Prizes: £10, £7, £4, £2
+March contest: 1. Lea Mills, 2. Codnor
+4 bands competed</notes>
+
+  <created>May 5, 2012, 3:54 p.m.</created>
+  <last-modified>July 9, 2019, 8:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105338">
+      <result code="1">1</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="105339">
+      <result code="2">2</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="105340">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="105341">
+      <result code="4">4</result>
+      <band id="5187">Codnor Primitives</band>
+      <conductor id="308952">J. Sharpe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,92 @@
+<contest-event id="18187">
+  <event-date date="1892-7-7">July 7, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swansea Contest</name>
+  <contest id="2112">
+    <name>Swansea Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swansea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3063">Central Athletic Grounds, Swansea</venue>
+  <notes>Sports &amp; Band Contest
+Prizes: £15, £5, £2.
+5 bands competed</notes>
+
+  <created>Feb. 13, 2013, 4:05 p.m.</created>
+  <last-modified>Nov. 13, 2019, 10:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="137120">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="137121">
+      <result code="2">2</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="319823">J. Jackson</conductor>
+    </result>
+    
+    <result id="137119">
+      <result code="3">3</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="303504">W. R. Howe</conductor>
+    </result>
+    
+    <result id="137117">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="137118">
+      <result code="">Unknown Result</result>
+      <band id="10213">Treherbert Volunteer</band>
+      <conductor id="315379">J.G. Smith</conductor>
+    </result>
+    
+    <result id="137125">
+      <result code="W">Withdrawn</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137123">
+      <result code="W">Withdrawn</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137126">
+      <result code="W">Withdrawn</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137124">
+      <result code="W">Withdrawn</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137122">
+      <result code="W">Withdrawn</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

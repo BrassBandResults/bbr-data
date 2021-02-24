@@ -1,0 +1,60 @@
+<contest-event id="19086">
+  <event-date date="1893-11-6">Nov. 6, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crumlin Contest</name>
+  <contest id="4016">
+    <name>Crumlin Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crumlin-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1277">Weber [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3224">Crumlin, Caerphilly</venue>
+  <notes>Prize: £15</notes>
+
+  <created>March 13, 2013, 12:45 p.m.</created>
+  <last-modified>July 11, 2017, 3:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="143339">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="143343">
+      <result code="2">2</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="319888">John J. Griffiths</conductor>
+    </result>
+    
+    <result id="143340">
+      <result code="">Unknown Result</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="143341">
+      <result code="">Unknown Result</result>
+      <band id="8318">Risca Military</band>
+      <conductor id="307078">William Palmer</conductor>
+    </result>
+    
+    <result id="143342">
+      <result code="">Unknown Result</result>
+      <band id="7868">Cwmtillery</band>
+      <conductor id="301541">D. Frere-Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>
