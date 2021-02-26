@@ -1,6 +1,6 @@
 <contest-event id="8156">
-  <event-date date="1925-1-1">Jan. 1, 1925<event-date>
-  <event-date-resolution>Y</event-date-resolution>
+  <event-date date="1925-6-6">June 6, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
   <name>Fife Charities Band Association Contest</name>
   <contest id="200">
     <name>Fife Charities Band Association Contest</name>
@@ -18,17 +18,30 @@
     
   </test-piece>
 
-  
-  <notes>FCBA &#39;A Band&#39; Champions: Barry, Ostlere &amp; Shepherd</notes>
+  <venue id="1318">Cowdenbeath, Fife, Scotland, UK</venue>
+  <notes>FCBA &#39;A Band&#39; Champions: Barry, Ostlere &amp; Shepherd
+</notes>
 
   <created>Nov. 7, 2011, 4:49 p.m.</created>
-  <last-modified>Nov. 7, 2011, 4:49 p.m.</last-modified>
+  <last-modified>Feb. 25, 2021, 3:22 p.m.</last-modified>
 
   <results>
     
     <result id="73382">
-      <result code="">Unknown Result</result>
+      <result code="1">1</result>
       <band id="1728">Barry, Ostlere &amp; Shepherd</band>
+      <conductor id="308479">George Ross</conductor>
+    </result>
+    
+    <result id="324908">
+      <result code="2">2</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324907">
+      <result code="3">3</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
       <conductor id="310730">Unknown</conductor>
     </result>
     
