@@ -1,0 +1,60 @@
+<contest-event id="44448">
+  <event-date date="1925-7-18">July 18, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stockport Contest</name>
+  <contest id="2261">
+    <name>Stockport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stockport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1636">Stockport, Cheshire</venue>
+  <notes>Stockport Carnival Contest</notes>
+
+  <created>Feb. 26, 2021, 10:18 p.m.</created>
+  <last-modified>Feb. 26, 2021, 10:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="324925">
+      <result code="1">1</result>
+      <band id="2600">Chinley &amp; Buxworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324926">
+      <result code="2">2</result>
+      <band id="2558">Peak Dale Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324927">
+      <result code="3">3</result>
+      <band id="766">Chapel-en-le-Frith Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324928">
+      <result code="">Unknown Result</result>
+      <band id="4428">Heaton Mersey and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324929">
+      <result code="">Unknown Result</result>
+      <band id="4797">Stockport Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
