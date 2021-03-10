@@ -19,10 +19,11 @@
   </test-piece>
 
   <venue id="4865">Festival Hall, Kirkby-in-Ashfield, Nottinghamshire, England, UK</venue>
-  <notes>14 bands played</notes>
+  <notes>14 bands played
+</notes>
 
   <created>June 12, 2012, 3:08 p.m.</created>
-  <last-modified>April 5, 2017, 8:58 p.m.</last-modified>
+  <last-modified>March 9, 2021, 4:29 p.m.</last-modified>
 
   <results>
     
@@ -44,10 +45,22 @@
       <conductor id="300986">Francis Evans</conductor>
     </result>
     
+    <result id="325037">
+      <result code="7">7</result>
+      <band id="2467">Clipstone Colliery Welfare</band>
+      <conductor id="304635">R. Knights</conductor>
+    </result>
+    
     <result id="110005">
       <result code="8">8</result>
       <band id="3157">Ashover Brass Band</band>
       <conductor id="309248">J. Slater</conductor>
+    </result>
+    
+    <result id="325038">
+      <result code="">Unknown Result</result>
+      <band id="884">Welbeck Estates Band</band>
+      <conductor id="315850">J. F. Brailsford</conductor>
     </result>
     
   </results>
