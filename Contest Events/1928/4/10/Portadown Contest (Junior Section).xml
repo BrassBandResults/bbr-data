@@ -1,0 +1,49 @@
+<contest-event id="44472">
+  <event-date date="1928-4-10">April 10, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Portadown Contest (Junior Section)</name>
+  <contest id="6678">
+    <name>Portadown Contest (Junior Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>portadown-contest-junior-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2450">The Carnival of Flowers</test-piece>
+  </test-piece>
+
+  <venue id="5076">Portadown, County Armagh, Northern Ireland, UK</venue>
+  <notes>3 bands competed.
+4th annual contest</notes>
+
+  <created>March 13, 2021, 8:49 p.m.</created>
+  <last-modified>March 13, 2021, 8:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="325082">
+      <result code="1">1</result>
+      <band id="1397">1st Portadown Old Boys Silver Band</band>
+      <conductor id="303012">Norman Hewitt</conductor>
+    </result>
+    
+    <result id="325083">
+      <result code="2">2</result>
+      <band id="19597">Portadown Methodist Boys Brigade</band>
+      <conductor id="311968">W. Woods</conductor>
+    </result>
+    
+    <result id="325084">
+      <result code="3">3</result>
+      <band id="1391">Ballynahinch Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

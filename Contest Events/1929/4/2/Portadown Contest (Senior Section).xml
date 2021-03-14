@@ -1,0 +1,55 @@
+<contest-event id="44471">
+  <event-date date="1929-4-2">April 2, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Portadown Contest (Senior Section)</name>
+  <contest id="6677">
+    <name>Portadown Contest (Senior Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>portadown-contest-senior-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1235">Der Freischütz [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="7383">Portadown, Northern Ireland</venue>
+  <notes>4 bands competed.
+5th annual contest</notes>
+
+  <created>March 13, 2021, 8:44 p.m.</created>
+  <last-modified>March 13, 2021, 8:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="325078">
+      <result code="1">1</result>
+      <band id="2605">I.O.R. Rescue Tent [Northern Ireland]</band>
+      <conductor id="298631">William Brown</conductor>
+    </result>
+    
+    <result id="325079">
+      <result code="2">2</result>
+      <band id="5832">Sirocco</band>
+      <conductor id="297739">J. Bell</conductor>
+    </result>
+    
+    <result id="325080">
+      <result code="3">3</result>
+      <band id="1376">55th Old Boys Association Silver Band</band>
+      <conductor id="305885">James McFadden</conductor>
+    </result>
+    
+    <result id="325081">
+      <result code="4">4</result>
+      <band id="1393">Willowfield Unionist Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
