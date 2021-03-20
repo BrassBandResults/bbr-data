@@ -1,7 +1,7 @@
 <contest-event id="5456">
   <event-date date="1928-7-14">July 14, 1928<event-date>
   <event-date-resolution>D</event-date-resolution>
-  <name>Belle Vue July Contest </name>
+  <name>Belle Vue July Contest</name>
   <contest id="886">
     <name>Belle Vue July Contest</name>
     <order>10</order>
@@ -19,11 +19,11 @@
   </test-piece>
 
   <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
-  <notes>  14th annual contest
-13 bands competed.</notes>
+  <notes>14th annual contest
+16 bands entered, 13 bands competed.</notes>
 
   <created>April 17, 2011, 6:19 p.m.</created>
-  <last-modified>Nov. 26, 2018, 10:59 p.m.</last-modified>
+  <last-modified>March 19, 2021, 12:16 p.m.</last-modified>
 
   <results>
     
@@ -103,6 +103,24 @@
       <result code="">Unknown Result</result>
       <band id="291">BHK (UK) Horden Band</band>
       <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="325115">
+      <result code="W">Withdrawn</result>
+      <band id="5324">Altrincham and Dunham Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="325116">
+      <result code="W">Withdrawn</result>
+      <band id="2605">I.O.R. Rescue Tent [Northern Ireland]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="325117">
+      <result code="W">Withdrawn</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
     </result>
     
   </results>
