@@ -19,10 +19,11 @@
   </test-piece>
 
   <venue id="398">Dome Theatre, Brighton</venue>
-  <notes></notes>
+  <notes>Prizes - 1st £30 and trophy, 2ns £15 and trophy, 3rd £10.10s.
+10 bands competed.</notes>
 
   <created>May 17, 2014, 7:21 a.m.</created>
-  <last-modified>May 17, 2014, 7:22 a.m.</last-modified>
+  <last-modified>April 6, 2021, 10:16 a.m.</last-modified>
 
   <results>
     
@@ -30,18 +31,77 @@
       <result code="1">1</result>
       <band id="1539">Denham Brass</band>
       <conductor id="299617">George Cook</conductor>
+      <test-piece id="1181">Gallions Reach</test-piece>
     </result>
     
     <result id="198109">
       <result code="2">2</result>
       <band id="1550">Tadley Band</band>
       <conductor id="311294">Gideon West</conductor>
+      <test-piece id="662">Egmont [arr. Ball]</test-piece>
     </result>
     
     <result id="198110">
       <result code="3">3</result>
       <band id="5944">Dartford &amp; Erith Silver</band>
       <conductor id="301519">Albert Fredericks</conductor>
+      <test-piece id="1181">Gallions Reach</test-piece>
+    </result>
+    
+    <result id="325189">
+      <result code="5">5</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="311816">Cyril Winstone</conductor>
+      <test-piece id="654">Scheherazade</test-piece>
+    </result>
+    
+    <result id="325188">
+      <result code="7">7</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+      <test-piece id="1181">Gallions Reach</test-piece>
+    </result>
+    
+    <result id="325193">
+      <result code="">Unknown Result</result>
+      <band id="275">John Laing (Hendon) Band</band>
+      <conductor id="306412">Donald Morrison</conductor>
+      <test-piece id="345">Devon Fantasy</test-piece>
+    </result>
+    
+    <result id="325195">
+      <result code="">Unknown Result</result>
+      <band id="1047">Vectis Brass</band>
+      <conductor id="302829">R.H. Hayles</conductor>
+      <test-piece id="600">Eine Kleine Nachtmusik</test-piece>
+    </result>
+    
+    <result id="325194">
+      <result code="">Unknown Result</result>
+      <band id="1307">Luckett&#39;s Travel (Southsea)</band>
+      <conductor id="306238">F. S. Monk</conductor>
+      <test-piece id="654">Scheherazade</test-piece>
+    </result>
+    
+    <result id="325191">
+      <result code="">Unknown Result</result>
+      <band id="616">Fulham Brass Band</band>
+      <conductor id="308754">George Scarfe</conductor>
+      <test-piece id="196">Labour and Love</test-piece>
+    </result>
+    
+    <result id="325192">
+      <result code="">Unknown Result</result>
+      <band id="4659">Haywards Heath Town</band>
+      <conductor id="302539">R. C. Hanney</conductor>
+      <test-piece id="660">Thames Valley Suite</test-piece>
+    </result>
+    
+    <result id="325190">
+      <result code="W">Withdrawn</result>
+      <band id="2721">Cable and Wireless Band</band>
+      <conductor id="303818">Arthur Irons</conductor>
+      <test-piece id="650">Land of the Ever Young</test-piece>
     </result>
     
   </results>

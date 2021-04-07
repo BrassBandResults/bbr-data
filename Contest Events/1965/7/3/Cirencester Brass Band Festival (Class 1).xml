@@ -1,0 +1,48 @@
+<contest-event id="44491">
+  <event-date date="1965-7-3">July 3, 1965<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cirencester Brass Band Festival (Class 1)</name>
+  <contest id="2952">
+    <name>Cirencester Brass Band Festival (Class 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="400">Cirencester Contest</group>
+    <slug>cirencester-brass-band-festival-class-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="652">Glastonbury</test-piece>
+  </test-piece>
+
+  <venue id="3112">Cirencester, Gloucestershire, England, UK</venue>
+  <notes>Prizes - 1st £30 and cup, 2nd £20 and cup.</notes>
+
+  <created>April 6, 2021, 11:27 a.m.</created>
+  <last-modified>April 6, 2021, 11:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="325221">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="297506">Robert Barnes</conductor>
+    </result>
+    
+    <result id="325222">
+      <result code="2">2</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="299224">Cecil Chappell</conductor>
+    </result>
+    
+    <result id="325223">
+      <result code="W">Withdrawn</result>
+      <band id="2013">Berry Hill Silver</band>
+      <conductor id="302725">Harold Hartley</conductor>
+    </result>
+    
+  </results>
+</contest-event>
