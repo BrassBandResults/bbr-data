@@ -1,8 +1,8 @@
 <band id="1931">
-  <name>Jaguar Cars (City of Coventry)</name>
+  <name>City of Coventry</name>
   <slug>jaguar-cars-city-coventry</slug>
   <website>http://</website>
-  <twitter></twitter>
+  <twitter>None</twitter>
   <region id="5">Midlands</region>
   <latitude>52.408493</latitude>
   <longitude>-1.517487</longitude>
@@ -25,6 +25,10 @@
     <name id="1757">Jaguar Cars</name>
     <start>Sept. 11, 1983</start>
     <end>May 23, 1992</end>
+    
+    <name id="19053">Jaguar Cars (City of Coventry)</name>
+    <start>None</start>
+    <end>None</end>
     
   </previous_names>
 </band>
