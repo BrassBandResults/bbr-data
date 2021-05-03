@@ -13,7 +13,7 @@
     
     
   </contest>
-  
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
   <test-piece>
     
   </test-piece>
@@ -22,25 +22,48 @@
   <notes></notes>
 
   <created>Jan. 7, 2019, 10:59 a.m.</created>
-  <last-modified>July 12, 2020, 1:46 p.m.</last-modified>
+  <last-modified>May 3, 2021, 1:56 a.m.</last-modified>
 
   <results>
     
     <result id="303094">
       <result code="1">1</result>
       <band id="17432">Townsville Railway  (Qld)</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="318608">F. Teague</conductor>
+      <test-piece id="1831">Nabucco</test-piece>
     </result>
     
     <result id="303095">
       <result code="2">2</result>
       <band id="1323">Toowoomba Municipal 2</band>
-      <conductor id="310730">Unknown</conductor>
+      <conductor id="318607">A. Compton</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
     </result>
     
     <result id="303096">
       <result code="3">3</result>
       <band id="17590">Monkland Brass</band>
+      <conductor id="318606">C. Paul</conductor>
+      <test-piece id="3759">Souvenir de Opera</test-piece>
+    </result>
+    
+    <result id="325366">
+      <result code="4">4</result>
+      <band id="17475">Maryborough Naval Juniors</band>
+      <conductor id="318202">Sam Whittaker</conductor>
+      <test-piece id="1225">Lucia di Lammermoor [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="325367">
+      <result code="5">5</result>
+      <band id="17474">Gatton &amp; Grantham District</band>
+      <conductor id="318609">L. M. McGregor</conductor>
+      <test-piece id="5729">Memories of Wallace</test-piece>
+    </result>
+    
+    <result id="325368">
+      <result code="W">Withdrawn</result>
+      <band id="17469">Bundaberg Citizens</band>
       <conductor id="310730">Unknown</conductor>
     </result>
     
