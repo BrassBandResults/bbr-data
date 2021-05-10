@@ -1,0 +1,89 @@
+<contest-event id="15761">
+  <event-date date="1909-5-22">May 22, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brechin Contest</name>
+  <contest id="2121">
+    <name>Brechin Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="353">Brechin Contest</group>
+    <slug>brechin-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1544">Brechin Public Park, Brechin, Angus, Scotland, UK</venue>
+  <notes>8 bands entered, 6 competed
+
+5th and 6th divided between Perth Trades and Blairgowrie.
+
+A choice of test pieces was available, all bands chose &quot;Songs of Scotland&quot;
+</notes>
+
+  <created>Nov. 2, 2012, 9:23 a.m.</created>
+  <last-modified>Oct. 12, 2020, 11:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121613">
+      <result code="1">1</result>
+      <band id="1050">Forfar Instrumental</band>
+      <conductor id="304750">John Lamb</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="121614">
+      <result code="2">2</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="121615">
+      <result code="3">3</result>
+      <band id="13784">St. Margaret&#39;s Old (Dundee)</band>
+      <conductor id="306130">George Miller</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="121616">
+      <result code="4">4</result>
+      <band id="1057">Brechin City</band>
+      <conductor id="305614">F. A. Marsden</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="121618">
+      <result code="5">5</result>
+      <band id="5517">Blairgowrie and Rattray</band>
+      <conductor id="301140">John Faulds</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="121617">
+      <result code="5">5</result>
+      <band id="1056">Perth Silver Band</band>
+      <conductor id="301256">John Finney</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="322327">
+      <result code="W">Withdrawn</result>
+      <band id="1054">Montrose Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322326">
+      <result code="W">Withdrawn</result>
+      <band id="2100">RNR (Tay Division) Dundee</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

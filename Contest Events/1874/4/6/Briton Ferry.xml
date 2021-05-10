@@ -1,0 +1,42 @@
+<contest-event id="8662">
+  <event-date date="1874-4-6">April 6, 1874<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Briton Ferry</name>
+  <contest id="1538">
+    <name>Briton Ferry Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>briton-ferry</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1460">Men of Harlech</test-piece>
+  </test-piece>
+
+  <venue id="1002">2nd Glamorgan Artillery Volunteers Parade Yard, Briton Ferry, Glamorgan, Wales, UK</venue>
+  <notes>Prize: £4 4s</notes>
+
+  <created>Dec. 9, 2011, 11:39 a.m.</created>
+  <last-modified>Oct. 24, 2012, 8:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="76306">
+      <result code="1">1</result>
+      <band id="5996">Briton Ferry Artillery Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="76307">
+      <result code="2">2</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

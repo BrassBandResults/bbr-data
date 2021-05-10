@@ -1,0 +1,79 @@
+<contest-event id="30133">
+  <event-date date="1925-9-12">Sept. 12, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dawson (Warrington) Contest</name>
+  <contest id="2836">
+    <name>Dawson (Warrington) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dawson-warrington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="2175">Warrington, Cheshire, England, UK</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £10, 3rd £5.
+8 bands competed.</notes>
+
+  <created>Nov. 6, 2014, 10:56 a.m.</created>
+  <last-modified>Feb. 28, 2021, 9:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299134">
+      <result code="1">1</result>
+      <band id="1663">Irlam Silver Band</band>
+      <conductor id="302988">Reuben Hesford</conductor>
+    </result>
+    
+    <result id="299135">
+      <result code="2">2</result>
+      <band id="6549">Warrington League of the Cross</band>
+      <conductor id="305179">Frank V. Lloyd</conductor>
+    </result>
+    
+    <result id="299136">
+      <result code="3">3</result>
+      <band id="3582">Warrington Borough</band>
+      <conductor id="309348">E. Smith</conductor>
+    </result>
+    
+    <result id="299139">
+      <result code="">Unknown Result</result>
+      <band id="3308">Cheshire Lines Railway</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299138">
+      <result code="">Unknown Result</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299141">
+      <result code="">Unknown Result</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299137">
+      <result code="">Unknown Result</result>
+      <band id="6759">Litherland Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299140">
+      <result code="">Unknown Result</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

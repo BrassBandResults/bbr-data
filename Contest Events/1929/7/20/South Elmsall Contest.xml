@@ -1,0 +1,87 @@
+<contest-event id="24435">
+  <event-date date="1929-7-20">July 20, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Elmsall Contest</name>
+  <contest id="4702">
+    <name>South Elmsall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-elmsall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2554">Der Freischütz [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4114">Rugby League Football Field, South Elmsall, Yorkshire</venue>
+  <notes>
+  Prizes - 1st £12 and cup, 2nd £8, 3rd £4, 4th £2.
+  March contest (own choice) - 1st(£2) Bentley Colliery, 2nd(£1) Thorne Colliery.
+  9 bands competed.</notes>
+
+  <created>Oct. 9, 2013, 2:55 p.m.</created>
+  <last-modified>Dec. 1, 2018, 8:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="178391">
+      <result code="1">1</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="312007">W. Wormald</conductor>
+    </result>
+    
+    <result id="178392">
+      <result code="2">2</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="178393">
+      <result code="3">3</result>
+      <band id="4146">Wharncliffe Woodmoor Colliery</band>
+      <conductor id="303686">Thomas Hunter</conductor>
+    </result>
+    
+    <result id="178394">
+      <result code="4">4</result>
+      <band id="441">Stanley Newmarket Colliery Band</band>
+      <conductor id="303285">Percy Holgate</conductor>
+    </result>
+    
+    <result id="178397">
+      <result code="">Unknown Result</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178396">
+      <result code="">Unknown Result</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178398">
+      <result code="">Unknown Result</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178395">
+      <result code="">Unknown Result</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="309668">Pierre Stapleton</conductor>
+    </result>
+    
+    <result id="178400">
+      <result code="">Unknown Result</result>
+      <band id="3564">Wombwell Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

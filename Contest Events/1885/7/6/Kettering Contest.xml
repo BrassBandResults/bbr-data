@@ -1,0 +1,100 @@
+<contest-event id="13723">
+  <event-date date="1885-7-6">July 6, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kettering Contest</name>
+  <contest id="2367">
+    <name>Kettering Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kettering-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1893">Lyric Garland</test-piece>
+  </test-piece>
+
+  <venue id="2044">Kettering, Northamptonshire, England, UK</venue>
+  <notes>3rd Annual Contest organised by Kettering Rifle Band
+Solo cornet contest after main contest.  Seven entrants:
+Jas Rider - Irwell Bank
+T Proctor - Burslem - 2nd Prize
+J Riley - Black Dyke
+T Seddon - Irwell Bank
+W Smith - Oldham Rifle
+S L Marshall - Irwell Bank
+T Young - Oldham Rifle - 1st Prize
+Reported in Northampton Herald, 11th July 1885
+7 bands competed</notes>
+
+  <created>June 9, 2012, 6:27 p.m.</created>
+  <last-modified>Aug. 30, 2016, 8:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="109353">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="109354">
+      <result code="2">2</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="109355">
+      <result code="3">3</result>
+      <band id="2515">Burslem Band</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="109356">
+      <result code="4">4</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="109357">
+      <result code="5">5</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="109358">
+      <result code="">Unknown Result</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="109359">
+      <result code="">Unknown Result</result>
+      <band id="6327">Northampton Temperance</band>
+      <conductor id="308875">Mr Seddon</conductor>
+    </result>
+    
+    <result id="109360">
+      <result code="">Unknown Result</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="261314">
+      <result code="W">Withdrawn</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261315">
+      <result code="W">Withdrawn</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

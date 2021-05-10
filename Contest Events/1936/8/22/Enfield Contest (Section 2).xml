@@ -1,0 +1,42 @@
+<contest-event id="34086">
+  <event-date date="1936-8-22">Aug. 22, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Enfield Contest (Section 2)</name>
+  <contest id="4806">
+    <name>Enfield Contest (Section 2)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>enfield-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1877">Attila</test-piece>
+  </test-piece>
+
+  <venue id="4176">Durants Park, Enfield Highway, Enfield, Middesex</venue>
+  <notes>2 bands competed.</notes>
+
+  <created>Feb. 17, 2016, 5:38 p.m.</created>
+  <last-modified>Jan. 14, 2019, 5:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="246338">
+      <result code="1">1</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="305732">A. T. Matson</conductor>
+    </result>
+    
+    <result id="246339">
+      <result code="2">2</result>
+      <band id="10207">Dartford Borough</band>
+      <conductor id="306713">G. Nicholls</conductor>
+    </result>
+    
+  </results>
+</contest-event>

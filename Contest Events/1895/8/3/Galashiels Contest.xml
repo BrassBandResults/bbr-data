@@ -1,0 +1,69 @@
+<contest-event id="12574">
+  <event-date date="1895-8-3">Aug. 3, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Galashiels Contest</name>
+  <contest id="2019">
+    <name>Galashiels Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>galashiels-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3368">Mossilee, Galashiels</venue>
+  <notes>Promoted by Galashiels Brass Band
+6 bands entered, 4 competed
+Prizes: £20, £15, £10, £7
+March contest: 1. Alloa, 2. Clydebank</notes>
+
+  <created>April 16, 2012, 6:58 p.m.</created>
+  <last-modified>June 21, 2019, 9:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100364">
+      <result code="1">1</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="100365">
+      <result code="2">2</result>
+      <band id="1982">Cambusbarron</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="100366">
+      <result code="3">3</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="100367">
+      <result code="4">4</result>
+      <band id="5613">Portobello Town</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="148952">
+      <result code="W">Withdrawn</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="148953">
+      <result code="W">Withdrawn</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="15880">
+  <event-date date="1909-8-4">Aug. 4, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cardigan Contest</name>
+  <contest id="3437">
+    <name>Cardigan Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cardigan-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="538">I Lombardi</test-piece>
+  </test-piece>
+
+  <venue id="2628">Cardigan, South Wales</venue>
+  <notes>3rd and 4th divided between Ystalyfera Temp and Ammanford Urban.
+5 bands competed.</notes>
+
+  <created>Nov. 6, 2012, 12:21 p.m.</created>
+  <last-modified>Oct. 15, 2020, 9:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122421">
+      <result code="1">1</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David D. Williams</conductor>
+    </result>
+    
+    <result id="122422">
+      <result code="2">2</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="122423">
+      <result code="3">3</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="122424">
+      <result code="3">3</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="304904">William Layman</conductor>
+    </result>
+    
+    <result id="122425">
+      <result code="5">5</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+  </results>
+</contest-event>

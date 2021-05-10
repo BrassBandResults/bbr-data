@@ -1,0 +1,85 @@
+<contest-event id="12315">
+  <event-date date="1894-9-3">Sept. 3, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellington Contest</name>
+  <contest id="2532">
+    <name>Wellington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="1579">Wellington, Shropshire</venue>
+  <notes>Prizes: £17, £11, £5 10s, £2 10s.
+7 bands competed.</notes>
+
+  <created>April 12, 2012, 11:30 a.m.</created>
+  <last-modified>June 15, 2019, 11:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98572">
+      <result code="1">1</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="264463">
+      <result code="2">2</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="98574">
+      <result code="3">3</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="264460">
+      <result code="4">4</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="264459">
+      <result code="">Unknown Result</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="298041">T. Blake</conductor>
+    </result>
+    
+    <result id="264462">
+      <result code="">Unknown Result</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="308289">James Roberts</conductor>
+    </result>
+    
+    <result id="264461">
+      <result code="">Unknown Result</result>
+      <band id="7538">Wednesbury Temperance</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="264464">
+      <result code="W">Withdrawn</result>
+      <band id="10635">Rock (Wellington)</band>
+      <conductor id="297327">J. Bailey</conductor>
+    </result>
+    
+    <result id="264458">
+      <result code="W">Withdrawn</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

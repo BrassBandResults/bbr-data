@@ -1,0 +1,81 @@
+<contest-event id="29566">
+  <event-date date="1856-9-15">Sept. 15, 1856<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Macclesfield Contest</name>
+  <contest id="1632">
+    <name>Macclesfield Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>macclesfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5240">West Park, Macclesfield, Cheshire, England, UK</venue>
+  <notes>2nd Annual Macclesfield Temperance Gala
+
+Prizes: £10, £5 and £2</notes>
+
+  <created>Oct. 13, 2014, 12:59 p.m.</created>
+  <last-modified>Oct. 13, 2014, 1:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="210655">
+      <result code="1">1</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="210658">
+      <result code="2">2</result>
+      <band id="2792">Compstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210653">
+      <result code="3">3</result>
+      <band id="174">Bollington Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210656">
+      <result code="4">4</result>
+      <band id="5284">Longton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210657">
+      <result code="">Unknown Result</result>
+      <band id="12339">Stalybridge Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210654">
+      <result code="">Unknown Result</result>
+      <band id="2684">Alderley Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210659">
+      <result code="">Unknown Result</result>
+      <band id="12238">Leek Blue Ribbon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210660">
+      <result code="W">Withdrawn</result>
+      <band id="12688">Lees Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

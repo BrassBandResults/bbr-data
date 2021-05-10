@@ -1,0 +1,42 @@
+<contest-event id="42396">
+  <event-date date="1897-12-26">Dec. 26, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tonypandy Contest</name>
+  <contest id="1646">
+    <name>Tonypandy Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="198">Tonypandy Contest</group>
+    <slug>tonypandy-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1935">Hibernia</test-piece>
+  </test-piece>
+
+  <venue id="1618">Tonypandy, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes></notes>
+
+  <created>July 13, 2019, 10:06 a.m.</created>
+  <last-modified>July 13, 2019, 10:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311211">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="296954">Phineas Ambler</conductor>
+    </result>
+    
+    <result id="311212">
+      <result code="2">2</result>
+      <band id="8110">Pontypridd</band>
+      <conductor id="301472">T. Foxhall</conductor>
+    </result>
+    
+  </results>
+</contest-event>

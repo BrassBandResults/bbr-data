@@ -1,0 +1,66 @@
+<contest-event id="22473">
+  <event-date date="1899-5-13">May 13, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Bank (Middlesbrough) Contest</name>
+  <contest id="1584">
+    <name>South Bank (Middlesbrough) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-bank-middlesbrough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3730">Football Field, South Bank, Middlesbrough</venue>
+  <notes>Cleveland and South Durham Brass Band Association
+
+5 bands competed
+
+Prizes: £7, £4, £2
+
+March: 1. Cleveland, 2. Eston</notes>
+
+  <created>Aug. 9, 2013, 10:30 a.m.</created>
+  <last-modified>Feb. 11, 2017, 1:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="167016">
+      <result code="1">1</result>
+      <band id="4655">Eston Miners</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="167015">
+      <result code="2">2</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="311820">F. Winter</conductor>
+    </result>
+    
+    <result id="167017">
+      <result code="3">3</result>
+      <band id="7920">Middlesbrough Erimus</band>
+      <conductor id="311820">F. Winter</conductor>
+    </result>
+    
+    <result id="167018">
+      <result code="4">4</result>
+      <band id="6096">Thornaby Ironworks</band>
+      <conductor id="309548">J. Sparks</conductor>
+    </result>
+    
+    <result id="167019">
+      <result code="5">5</result>
+      <band id="10484">Haverton Hill and Billingham</band>
+      <conductor id="315878">Mr Hoskinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

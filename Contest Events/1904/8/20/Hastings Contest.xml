@@ -1,0 +1,81 @@
+<contest-event id="23420">
+  <event-date date="1904-8-20">Aug. 20, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hastings Contest</name>
+  <contest id="2133">
+    <name>Hastings Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="220">Hastings Contest</group>
+    <slug>hastings-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3936">Alexandra Park, Hastings</venue>
+  <notes>Each playing two own-choice selections
+Prizes: £35, £20, £15, £12, £10, £8.
+7 bands competed</notes>
+
+  <created>Sept. 3, 2013, 2:08 p.m.</created>
+  <last-modified>Aug. 31, 2018, 8:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="172120">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+      <test-piece id="2192">Elijah [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="172121">
+      <result code="2">2</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+      <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="172119">
+      <result code="3">3</result>
+      <band id="8178">Walthamstow Town Silver</band>
+      <conductor id="307975">John Reay</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="172123">
+      <result code="4">4</result>
+      <band id="6603">Enfield Forresters</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+      <test-piece id="1567">Cinq Mars [arr. Round]</test-piece>
+    </result>
+    
+    <result id="172122">
+      <result code="5">5</result>
+      <band id="6331">Chesham Town</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+      <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="172125">
+      <result code="6">6</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="302079">F. B. Gray</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="172124">
+      <result code="7">7</result>
+      <band id="6330">Bexley Heath United</band>
+      <conductor id="302395">W. G. Hales</conductor>
+      <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

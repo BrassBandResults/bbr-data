@@ -1,0 +1,66 @@
+<contest-event id="31113">
+  <event-date date="1934-11-17">Nov. 17, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Ham Contest (Section 1)</name>
+  <contest id="2838">
+    <name>East Ham Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="452">East Ham Contest</group>
+    <slug>east-ham-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="529">The Crusaders</test-piece>
+  </test-piece>
+
+  <venue id="2763">Newham Town Hall, East Ham, Newham, Greater London, England, UK</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Feb. 22, 2015, 10:05 a.m.</created>
+  <last-modified>Jan. 8, 2019, 12:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="221346">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="303128">
+      <result code="2">2</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="303129">
+      <result code="3">3</result>
+      <band id="12623">Enfield Central</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="303131">
+      <result code="4">4</result>
+      <band id="6343">Great Central and Met Railway</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="303130">
+      <result code="4">4</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="311085">H. J. Warwick</conductor>
+    </result>
+    
+    <result id="303132">
+      <result code="6">6</result>
+      <band id="8186">Camberwell Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

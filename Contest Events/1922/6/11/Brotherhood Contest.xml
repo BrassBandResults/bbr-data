@@ -1,0 +1,67 @@
+<contest-event id="23318">
+  <event-date date="1922-6-11">June 11, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotherhood Contest</name>
+  <contest id="3953">
+    <name>Brotherhood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotherhood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1921">Classic Gems</test-piece>
+  </test-piece>
+
+  <venue id="171">Crystal Palace, Crystal Palace Park, Sydenham, County of London, England, UK</venue>
+  <notes>
+  6 bands competed.</notes>
+
+  <created>Aug. 31, 2013, 6:36 a.m.</created>
+  <last-modified>Sept. 22, 2016, 12:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171408">
+      <result code="1">1</result>
+      <band id="8060">Nunhead Christians</band>
+      <conductor id="304978">H. Leggett</conductor>
+    </result>
+    
+    <result id="171409">
+      <result code="2">2</result>
+      <band id="8400">Poplar and Bromley</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="171411">
+      <result code="">Unknown Result</result>
+      <band id="10495">Lloyd Park Hall</band>
+      <conductor id="303380">E. J. Honey</conductor>
+    </result>
+    
+    <result id="171412">
+      <result code="">Unknown Result</result>
+      <band id="10990">Springfield Hall</band>
+      <conductor id="302976">H. Herring</conductor>
+    </result>
+    
+    <result id="171410">
+      <result code="">Unknown Result</result>
+      <band id="11330">St George&#39;s Hall</band>
+      <conductor id="309874">W. J. Streete</conductor>
+    </result>
+    
+    <result id="171413">
+      <result code="">Unknown Result</result>
+      <band id="11331">St James Hall</band>
+      <conductor id="296858">R. E. Aldous</conductor>
+    </result>
+    
+  </results>
+</contest-event>

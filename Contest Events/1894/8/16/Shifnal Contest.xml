@@ -1,0 +1,63 @@
+<contest-event id="12278">
+  <event-date date="1894-8-16">Aug. 16, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shifnal Contest</name>
+  <contest id="2409">
+    <name>Shifnal Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shifnal-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="1766">Shifnal, Shropshire</venue>
+  <notes>Brass Band News Sept 1894 shows Rose Hill (Conductor J.Bedford) instead of Willenhall Temperance.
+March contest: 1. Willenhall, 2. Silverdale, 3. Wednesbury
+Prizes - 1st £15, 2nd £7.10s., 3rd £3,10s.
+5 bands competed</notes>
+
+  <created>April 11, 2012, 5:20 p.m.</created>
+  <last-modified>June 14, 2019, 9:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98398">
+      <result code="1">1</result>
+      <band id="7538">Wednesbury Temperance</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="98402">
+      <result code="2">2</result>
+      <band id="7202">St. George&#39;s Old</band>
+      <conductor id="297697">James Bedford</conductor>
+    </result>
+    
+    <result id="98400">
+      <result code="3">3</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="282315">
+      <result code="3">3</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="308289">James Roberts</conductor>
+    </result>
+    
+    <result id="282316">
+      <result code="">Unknown Result</result>
+      <band id="7775">Shifnal Volunteers</band>
+      <conductor id="306386">F. Morris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="25966">
+  <event-date date="1920-5-22">May 22, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brass Band Organisation (N.W.Area) - Section B</name>
+  <contest id="2632">
+    <name>Fallowfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>fallowfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="1981">Fallowfield, Manchester</venue>
+  <notes>Prizes - 1st £21, 2nd £14, 3rd £7
+4 bands competed.</notes>
+
+  <created>Jan. 20, 2014, 12:06 p.m.</created>
+  <last-modified>Oct. 13, 2018, 11:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296054">
+      <result code="1">1</result>
+      <band id="1447">Blackburn&#39;s Steel Works Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="296053">
+      <result code="2">2</result>
+      <band id="1701">Beswick Prize</band>
+      <conductor id="301511">John Fraser</conductor>
+    </result>
+    
+    <result id="188084">
+      <result code="3">3</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="296055">
+      <result code="4">4</result>
+      <band id="2770">Heywood Old Prize</band>
+      <conductor id="311328">Isaac Wharton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

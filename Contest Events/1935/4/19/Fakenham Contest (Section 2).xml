@@ -1,0 +1,55 @@
+<contest-event id="24689">
+  <event-date date="1935-4-19">April 19, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fakenham Contest (Section 2)</name>
+  <contest id="4798">
+    <name>Fakenham Contest (Section 2)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>fakenham-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="785">La Traviata [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4170">Sennowe Park, Fakenham, Norfolk</venue>
+  <notes>4th annual contest - see also Norfolk Band Festival.
+  4 bands competed.</notes>
+
+  <created>Oct. 25, 2013, 8:05 a.m.</created>
+  <last-modified>March 5, 2020, 3:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180510">
+      <result code="1">1</result>
+      <band id="840">Dereham Band</band>
+      <conductor id="315751">W. Tebbitt</conductor>
+    </result>
+    
+    <result id="180511">
+      <result code="2">2</result>
+      <band id="831">Fakenham Town Band</band>
+      <conductor id="319974">H. Raisborough</conductor>
+    </result>
+    
+    <result id="180512">
+      <result code="3">3</result>
+      <band id="413">Haverhill Silver Band</band>
+      <conductor id="297266">Robert Austin</conductor>
+    </result>
+    
+    <result id="180513">
+      <result code="4">4</result>
+      <band id="9620">Stibbard</band>
+      <conductor id="296757">J. W. Abram</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="23900">
+  <event-date date="1933-5-27">May 27, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darvel Contest</name>
+  <contest id="4632">
+    <name>Darvel Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darvel-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3998">Darvel, East Ayrshire, Scotland, UK</venue>
+  <notes>  March contest - 1st Coltness, 2nd Scottish CWS, 3rd Falkirk.
+  6 bands competed.</notes>
+
+  <created>Sept. 16, 2013, 8:31 a.m.</created>
+  <last-modified>April 13, 2018, 4:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="174608">
+      <result code="1">1</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="174609">
+      <result code="2">2</result>
+      <band id="1270">Newmains</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="174610">
+      <result code="3">3</result>
+      <band id="5554">Knightswood Silver</band>
+      <conductor id="300867">J. Ellis</conductor>
+    </result>
+    
+    <result id="174611">
+      <result code="4">4</result>
+      <band id="5220">Falkirk Trades</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="174613">
+      <result code="">Unknown Result</result>
+      <band id="5483">Motherwell and Wishaw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174612">
+      <result code="">Unknown Result</result>
+      <band id="5478">Shotts Foundry</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

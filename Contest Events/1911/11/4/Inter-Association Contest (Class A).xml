@@ -1,0 +1,54 @@
+<contest-event id="39639">
+  <event-date date="1911-11-4">Nov. 4, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Inter-Association Contest (Class A)</name>
+  <contest id="6288">
+    <name>Inter-Association Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>inter-association-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2458">Llanelli, Carmarthenshire, Wales, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>May 19, 2018, 1 p.m.</created>
+  <last-modified>May 25, 2018, 10:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287363">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="287362">
+      <result code="2">2</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="287361">
+      <result code="3">3</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="287360">
+      <result code="4">4</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="311520">A. Wilcock</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="10882">
+  <event-date date="1906-7-21">July 21, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Heptonstall Contest</name>
+  <contest id="1413">
+    <name>Heptonstall Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>heptonstall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1671">Spohr&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="1548">Heptonstall, West Yorkshire</venue>
+  <notes>1st prize £15, 2nd prize £10, 3rd prize £5, 4th prize £3.
+5 bands competed.</notes>
+
+  <created>March 9, 2012, 1:34 p.m.</created>
+  <last-modified>Sept. 14, 2018, 11:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90587">
+      <result code="1">1</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="90588">
+      <result code="2">2</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="90589">
+      <result code="3">3</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="309902">Tom Stubley</conductor>
+    </result>
+    
+    <result id="90590">
+      <result code="4">4</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="90591">
+      <result code="5">5</result>
+      <band id="2573">Norland</band>
+      <conductor id="297663">Ernest Beaumont</conductor>
+    </result>
+    
+  </results>
+</contest-event>

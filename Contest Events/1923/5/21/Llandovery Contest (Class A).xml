@@ -1,0 +1,54 @@
+<contest-event id="40769">
+  <event-date date="1923-5-21">May 21, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class A)</name>
+  <contest id="2236">
+    <name>Llandovery Contest (Class A)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Oct. 17, 2018, 4:14 p.m.</created>
+  <last-modified>Oct. 17, 2018, 4:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296438">
+      <result code="1">1</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="318504">Ivor L. Rees</conductor>
+    </result>
+    
+    <result id="296439">
+      <result code="2">2</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="296440">
+      <result code="3">3</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="306407">Tal Morris</conductor>
+    </result>
+    
+    <result id="296441">
+      <result code="3">3</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

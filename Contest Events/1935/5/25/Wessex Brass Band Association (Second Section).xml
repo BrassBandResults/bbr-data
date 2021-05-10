@@ -1,0 +1,61 @@
+<contest-event id="25046">
+  <event-date date="1935-5-25">May 25, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wessex Brass Band Association (Second Section)</name>
+  <contest id="171">
+    <name>Wessex Brass Band Association (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="27">Wessex Brass Band Association</group>
+    <slug>wessex-brass-band-association-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="651">A Souvenir of Shakespeare</test-piece>
+  </test-piece>
+
+  <venue id="2622">Coombe Park, Shaftesbury, Dorset</venue>
+  <notes>March contest(New Dominion) - 1st Shaftesbury, 2nd Wincanton, 3rd Berwick.
+  5 bands competed.</notes>
+
+  <created>Nov. 11, 2013, 2:41 p.m.</created>
+  <last-modified>Nov. 11, 2013, 2:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182478">
+      <result code="1">1</result>
+      <band id="1035">Shaftesbury Town Silver Band</band>
+      <conductor id="311055">T. Wareham</conductor>
+    </result>
+    
+    <result id="182479">
+      <result code="2">2</result>
+      <band id="379">Wincanton Silver Band</band>
+      <conductor id="297984">H. J. Bishop</conductor>
+    </result>
+    
+    <result id="182480">
+      <result code="3">3</result>
+      <band id="11636">Berwick and Donhead Silver</band>
+      <conductor id="309879">W. Stretch</conductor>
+    </result>
+    
+    <result id="182481">
+      <result code="">Unknown Result</result>
+      <band id="6808">Fovant</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182482">
+      <result code="">Unknown Result</result>
+      <band id="524">Michelmersh Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="40362">
+  <event-date date="1908-8-2">Aug. 2, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Waterford  (Ireland) Contest</name>
+  <contest id="2172">
+    <name>Waterford  (Ireland) Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>waterford-ireland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5643">Melodies of Old Ireland</test-piece>
+  </test-piece>
+
+  <venue id="1583">Waterford, County Waterford, Republic of Ireland</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Sept. 24, 2018, 9:15 a.m.</created>
+  <last-modified>Sept. 24, 2018, 9:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293638">
+      <result code="1">1</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="293636">
+      <result code="2">2</result>
+      <band id="6623">Penrhiw</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="293637">
+      <result code="3">3</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="303486">A. Howarth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

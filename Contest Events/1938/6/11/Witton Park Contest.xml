@@ -1,0 +1,49 @@
+<contest-event id="26039">
+  <event-date date="1938-6-11">June 11, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Witton Park Contest</name>
+  <contest id="2136">
+    <name>Witton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>witton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    <test-piece id="2624">Any Wright and Round Waltz</test-piece>
+  </test-piece>
+
+  <venue id="1554">Witton Park, County Durham</venue>
+  <notes>Prizes - 1st £5, 2nd £2, 3rd £1.
+  March contest - 1st Thornley Colliery, 2nd Shildon Town.</notes>
+
+  <created>Jan. 22, 2014, 11:27 a.m.</created>
+  <last-modified>Jan. 22, 2019, 3:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188556">
+      <result code="1">1</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="188557">
+      <result code="2">2</result>
+      <band id="1980">Shildon Town</band>
+      <conductor id="297638">S. Bayliss</conductor>
+    </result>
+    
+    <result id="188558">
+      <result code="3">3</result>
+      <band id="4772">Shildon British Railways</band>
+      <conductor id="305506">W. J. Makepeace</conductor>
+    </result>
+    
+  </results>
+</contest-event>

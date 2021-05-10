@@ -1,0 +1,75 @@
+<contest-event id="15924">
+  <event-date date="1909-9-8">Sept. 8, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2197">The Amber Witch [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="485">Derby, Derbyshire, England, UK</venue>
+  <notes>
+  Prizes  1st £10, 2nd £7, 3rd £4, 4th £2, 5th £1.
+
+  March contest 1st Long Eaton Prize, 2nd Newhall St John&#39;s</notes>
+
+  <created>Nov. 7, 2012, 3:42 p.m.</created>
+  <last-modified>Oct. 1, 2013, 7:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122665">
+      <result code="1">1</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="122666">
+      <result code="2">2</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="302841">James Haywood</conductor>
+    </result>
+    
+    <result id="122667">
+      <result code="3">3</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="122668">
+      <result code="4">4</result>
+      <band id="4776">Derby Sax and Tuba</band>
+      <conductor id="309651">C. A. Stone</conductor>
+    </result>
+    
+    <result id="122669">
+      <result code="5">5</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="298175">Enoch Booth</conductor>
+    </result>
+    
+    <result id="122671">
+      <result code="">Unknown Result</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="122670">
+      <result code="">Unknown Result</result>
+      <band id="9854">Derby Junction Street</band>
+      <conductor id="320096">T. Chambers</conductor>
+    </result>
+    
+  </results>
+</contest-event>

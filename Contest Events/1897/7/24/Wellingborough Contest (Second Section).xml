@@ -1,0 +1,67 @@
+<contest-event id="13329">
+  <event-date date="1897-7-24">July 24, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellingborough Contest (Second Section)</name>
+  <contest id="1849">
+    <name>Wellingborough Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellingborough-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1298">Wellingborough, Northants</venue>
+  <notes>Organised by Wellingborough Town Silver Band
+Reported in Northampton Herald, 31st July 1897 
+5 bands competed</notes>
+
+  <created>May 10, 2012, 8:11 p.m.</created>
+  <last-modified>July 9, 2019, 8:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105755">
+      <result code="1">1</result>
+      <band id="7928">Higham Ferrers Town</band>
+      <conductor id="308257">Herbert Roach</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="105756">
+      <result code="2">2</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="105757">
+      <result code="3">3</result>
+      <band id="2348">Thrapston Town</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="105758">
+      <result code="3">3</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="105759">
+      <result code="5">5</result>
+      <band id="4314">Northampton Town</band>
+      <conductor id="310232">G. Thacker</conductor>
+      <test-piece id="1931">Macbeth [unknown composer, unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

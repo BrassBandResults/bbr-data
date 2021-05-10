@@ -1,0 +1,49 @@
+<contest-event id="10401">
+  <event-date date="1905-8-8">Aug. 8, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aberystwyth Contest (First Section)</name>
+  <contest id="1980">
+    <name>Aberystwyth Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>aberystwyth-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1584">La Cenerentola</test-piece>
+  </test-piece>
+
+  <venue id="1413">Aberystwyth, Ceredigion, Wales, UK</venue>
+  <notes>Prizes - 1st £25, 2nd £15, 3rd £6.
+March contest 1st (£1.10s.) Ferndale,  2nd (15s.) Royal Oakley.</notes>
+
+  <created>Feb. 17, 2012, 10:44 p.m.</created>
+  <last-modified>Sept. 11, 2018, 8:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87504">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="87505">
+      <result code="2">2</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87506">
+      <result code="3">3</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

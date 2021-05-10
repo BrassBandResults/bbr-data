@@ -1,0 +1,50 @@
+<contest-event id="24629">
+  <event-date date="1930-5-31">May 31, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Croft Contest (Second Section)</name>
+  <contest id="4789">
+    <name>Croft Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>croft-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="4160">Croft, Leicestershire, England, UK</venue>
+  <notes>
+ March contest(Sons of the Desert) - 1st Oadby, 2nd Burbage.
+  3 bands competed.</notes>
+
+  <created>Oct. 22, 2013, 9:48 a.m.</created>
+  <last-modified>Dec. 6, 2018, 4:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180109">
+      <result code="1">1</result>
+      <band id="12625">Oadby</band>
+      <conductor id="299529">W. Coleman</conductor>
+    </result>
+    
+    <result id="180110">
+      <result code="2">2</result>
+      <band id="519">Burbage Silver Band</band>
+      <conductor id="306270">Charles Moore</conductor>
+    </result>
+    
+    <result id="180111">
+      <result code="3">3</result>
+      <band id="11387">Stoney Stanton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,85 @@
+<contest-event id="12351">
+  <event-date date="1895-4-13">April 13, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Standish Contest</name>
+  <contest id="1793">
+    <name>Standish Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>standish-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1872">Aurora [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1753">Standish, Lancashire</venue>
+  <notes>3rd annual contest promoted by Standish band.March contest: 1. Gossage&#39;s, 2. Wingates, 3. Westhoughton.
+9 bands competed.</notes>
+
+  <created>April 12, 2012, 8:32 p.m.</created>
+  <last-modified>June 17, 2019, 8:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98831">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="98832">
+      <result code="2">2</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="98834">
+      <result code="3">3</result>
+      <band id="3528">Wigan Rifles</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="98833">
+      <result code="3">3</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="98835">
+      <result code="5">5</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="98836">
+      <result code="6">6</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="312047">James Clarke Wright</conductor>
+    </result>
+    
+    <result id="277657">
+      <result code="">Unknown Result</result>
+      <band id="1501">Banks Brass</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="277658">
+      <result code="">Unknown Result</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="297978">J. E. Birtwell</conductor>
+    </result>
+    
+    <result id="277659">
+      <result code="">Unknown Result</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

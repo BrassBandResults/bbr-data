@@ -1,0 +1,66 @@
+<contest-event id="23797">
+  <event-date date="1908-8-1">Aug. 1, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coaltown of Wemyss Contest</name>
+  <contest id="3440">
+    <name>Coaltown of Wemyss Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="359">Coaltown of Wemyss Contest</group>
+    <slug>coaltown-of-wemyss-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2630">Coaltown of Wemyss, Fife, Scotland, UK</venue>
+  <notes>Open to 2nd class bands in Fife
+
+8 bands competed
+
+Choice of 5 test pieces
+
+1st prize: £8</notes>
+
+  <created>Sept. 12, 2013, 9:12 p.m.</created>
+  <last-modified>Sept. 12, 2013, 9:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="173777">
+      <result code="1">1</result>
+      <band id="7453">Pathhead Public</band>
+      <conductor id="305614">F. A. Marsden</conductor>
+    </result>
+    
+    <result id="173778">
+      <result code="2">2</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="173779">
+      <result code="3">3</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="173780">
+      <result code="4">4</result>
+      <band id="1728">Barry, Ostlere &amp; Shepherd</band>
+      <conductor id="301401">Gavin Forrester</conductor>
+    </result>
+    
+    <result id="173781">
+      <result code="5">5</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="305725">David Mathieson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

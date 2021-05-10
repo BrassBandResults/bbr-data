@@ -1,0 +1,61 @@
+<contest-event id="40609">
+  <event-date date="1917-11-10">Nov. 10, 1917<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Briton Ferry Contest (Class B)</name>
+  <contest id="6366">
+    <name>Briton Ferry Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>briton-ferry-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5290">La Dame Blanche</test-piece>
+  </test-piece>
+
+  <venue id="1964">Briton Ferry, Neath Port Talbot, Wales, UK</venue>
+  <notes>Prizes - 1st £8, 2nd £4, 3rd £2.
+5 bands competed.</notes>
+
+  <created>Oct. 8, 2018, 3:55 p.m.</created>
+  <last-modified>Oct. 8, 2018, 3:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295457">
+      <result code="1">1</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="307741">Ernest Pritchard</conductor>
+    </result>
+    
+    <result id="295459">
+      <result code="2">2</result>
+      <band id="6969">Waunarlwydd</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="295455">
+      <result code="3">3</result>
+      <band id="17397">Gorseinon Temperance</band>
+      <conductor id="309956">H. Sutcliffe</conductor>
+    </result>
+    
+    <result id="295456">
+      <result code="">Unknown Result</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+    <result id="295458">
+      <result code="">Unknown Result</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="304289">Tom Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

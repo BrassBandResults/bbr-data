@@ -1,0 +1,110 @@
+<contest-event id="37975">
+  <event-date date="1904-5-14">May 14, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newmilns Contest</name>
+  <contest id="1824">
+    <name>Newmilns Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newmilns-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1282">Newmilns, Ayrshire</venue>
+  <notes>Choice of test pieces: &quot;Songs of Scotland&quot;, &quot;Songs of Ireland&quot;, &quot;Songs of England&quot;
+March contest: 1. Beith, 2. Maybole, 3. Galston
+1st annual contest.
+11 bands competed</notes>
+
+  <created>May 18, 2017, 9:21 a.m.</created>
+  <last-modified>Aug. 27, 2018, 8:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274373">
+      <result code="1">1</result>
+      <band id="5553">Maybole Burgh</band>
+      <conductor id="308992">William Shaw</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="274374">
+      <result code="2">2</result>
+      <band id="6636">Beith</band>
+      <conductor id="309464">William Smith</conductor>
+      <test-piece id="1645">Songs of Ireland</test-piece>
+    </result>
+    
+    <result id="274375">
+      <result code="3">3</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="299027">Albert A. Carr</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="274376">
+      <result code="4">4</result>
+      <band id="4803">Darvel Burgh</band>
+      <conductor id="307317">Henry Peckham</conductor>
+      <test-piece id="1645">Songs of Ireland</test-piece>
+    </result>
+    
+    <result id="274377">
+      <result code="5">5</result>
+      <band id="1365">Galston</band>
+      <conductor id="316623">Mr Wadsworth</conductor>
+      <test-piece id="1645">Songs of Ireland</test-piece>
+    </result>
+    
+    <result id="274378">
+      <result code="6">6</result>
+      <band id="5467">Lugar</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1645">Songs of Ireland</test-piece>
+    </result>
+    
+    <result id="274379">
+      <result code="7">7</result>
+      <band id="317">Dunaskin Doon Band</band>
+      <conductor id="317323">J. Ellis</conductor>
+      <test-piece id="1645">Songs of Ireland</test-piece>
+    </result>
+    
+    <result id="274380">
+      <result code="8">8</result>
+      <band id="6554">Auchinleck</band>
+      <conductor id="310365">Robert Thomson</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="274381">
+      <result code="9">9</result>
+      <band id="6843">Kilbirnie</band>
+      <conductor id="301602">J. Fyfe</conductor>
+      <test-piece id="1645">Songs of Ireland</test-piece>
+    </result>
+    
+    <result id="274382">
+      <result code="9">9</result>
+      <band id="6826">Ballochmyle</band>
+      <conductor id="310365">Robert Thomson</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="274383">
+      <result code="11">11</result>
+      <band id="6637">Dalry</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

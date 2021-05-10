@@ -1,0 +1,55 @@
+<contest-event id="41021">
+  <event-date date="1924-7-26">July 26, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanfillyn Contest</name>
+  <contest id="2372">
+    <name>Llanfillyn Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llanfillyn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2823">Woodland Revels</test-piece>
+  </test-piece>
+
+  <venue id="1726">Llanfillyn, Powys, Wales, UK</venue>
+  <notes>March contest - 1st Crewe, 2nd Newtown.
+4 bands competed.</notes>
+
+  <created>Oct. 29, 2018, 4:53 p.m.</created>
+  <last-modified>Nov. 17, 2018, 7:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297917">
+      <result code="1">1</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297920">
+      <result code="">Unknown Result</result>
+      <band id="17490">Chirk</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297918">
+      <result code="">Unknown Result</result>
+      <band id="2793">Crewe Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297919">
+      <result code="">Unknown Result</result>
+      <band id="18258">Llay Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

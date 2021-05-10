@@ -1,0 +1,79 @@
+<contest-event id="15394">
+  <event-date date="1898-11-5">Nov. 5, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Contest</name>
+  <contest id="1214">
+    <name>Sheffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2805">Norfolk Drill Hall, Edmund Road, Sheffield</venue>
+  <notes>Prizes: £8, £5, £3, £2
+8 bands competed</notes>
+
+  <created>Oct. 15, 2012, 7:07 p.m.</created>
+  <last-modified>July 23, 2019, 8:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="119199">
+      <result code="1">1</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="119200">
+      <result code="2">2</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="119201">
+      <result code="3">3</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="298541">Joseph Brookes</conductor>
+    </result>
+    
+    <result id="119202">
+      <result code="4">4</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="211135">
+      <result code="">Unknown Result</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119203">
+      <result code="">Unknown Result</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119204">
+      <result code="">Unknown Result</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="299621">John William Cook</conductor>
+    </result>
+    
+    <result id="211136">
+      <result code="">Unknown Result</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,105 @@
+<contest-event id="17570">
+  <event-date date="1888-8-4">Aug. 4, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Denby Dale Contest</name>
+  <contest id="2358">
+    <name>Denby Dale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>denby-dale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1724">Denby Dale, West Yorkshire</venue>
+  <notes>12 bands entered, 9 competed
+Promoted by Denby Dale Brass Band
+Prizes: £11, £7, £4, £2
+Quickstep: 1. Norland, 2. Stocksbridge, 3. Batley Old</notes>
+
+  <created>Jan. 23, 2013, 5:26 p.m.</created>
+  <last-modified>April 29, 2019, 9:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="133425">
+      <result code="1">1</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133423">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133426">
+      <result code="3">3</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133431">
+      <result code="4">4</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133428">
+      <result code="">Unknown Result</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133430">
+      <result code="">Unknown Result</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133422">
+      <result code="">Unknown Result</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133429">
+      <result code="">Unknown Result</result>
+      <band id="145">Elland Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133432">
+      <result code="">Unknown Result</result>
+      <band id="6286">Wooldale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133424">
+      <result code="W">Withdrawn</result>
+      <band id="2596">Holme Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133421">
+      <result code="W">Withdrawn</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133427">
+      <result code="W">Withdrawn</result>
+      <band id="2965">Shelley Huddersfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="37517">
+  <event-date date="1937-1-23">Jan. 23, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Salisbury Contest (Class A)</name>
+  <contest id="4092">
+    <name>Salisbury Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="434">Salisbury Contest</group>
+    <slug>salisbury-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi</test-piece>
+  </test-piece>
+
+  <venue id="4847">Victoria Hall, Salisbury, Wiltshire</venue>
+  <notes>Hymn tune contest - 1st Single Hill, 2nd Verwood, 3rd Shrewton.
+5 bands competed.</notes>
+
+  <created>March 13, 2017, 9:25 a.m.</created>
+  <last-modified>March 13, 2017, 9:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="271253">
+      <result code="1">1</result>
+      <band id="10716">Single Hill</band>
+      <conductor id="303430">W. Horler</conductor>
+    </result>
+    
+    <result id="271254">
+      <result code="2">2</result>
+      <band id="362">Verwood Concert Brass</band>
+      <conductor id="309105">S. C. Shutler</conductor>
+    </result>
+    
+    <result id="271255">
+      <result code="3">3</result>
+      <band id="11528">Bridgwater Christy&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="271257">
+      <result code="">Unknown Result</result>
+      <band id="325">Shrewton Silver</band>
+      <conductor id="309575">T. W. Spencer</conductor>
+    </result>
+    
+    <result id="271256">
+      <result code="">Unknown Result</result>
+      <band id="379">Wincanton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

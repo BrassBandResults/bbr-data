@@ -1,0 +1,66 @@
+<contest-event id="14875">
+  <event-date date="1912-5-27">May 27, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class B)</name>
+  <contest id="2097">
+    <name>Llandovery Contest (Class B)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Sept. 28, 2012, 3:14 p.m.</created>
+  <last-modified>Sept. 27, 2018, 1:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="116512">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="116513">
+      <result code="2">2</result>
+      <band id="7361">Mond Silver</band>
+      <conductor id="302257">William Griffiths</conductor>
+    </result>
+    
+    <result id="116514">
+      <result code="3">3</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="310293">Llewellyn Thomas</conductor>
+    </result>
+    
+    <result id="293934">
+      <result code="">Unknown Result</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="293935">
+      <result code="">Unknown Result</result>
+      <band id="8283">Cwmfelin Workmen</band>
+      <conductor id="304000">P. G. Jenkins</conductor>
+    </result>
+    
+    <result id="293936">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

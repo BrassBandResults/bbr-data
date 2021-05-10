@@ -1,0 +1,69 @@
+<contest-event id="17964">
+  <event-date date="1891-6-20">June 20, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest</name>
+  <contest id="1334">
+    <name>Workington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="963">Linda di Chamounix [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2982">Hall Park, Workington</venue>
+  <notes>Workington Friendly Societies Gala
+Prizes: £30, £15, £10, £5, £2
+6 bands competed
+</notes>
+
+  <created>Feb. 6, 2013, 11:06 p.m.</created>
+  <last-modified>Feb. 6, 2018, 9:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="135734">
+      <result code="1">1</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="135735">
+      <result code="2">2</result>
+      <band id="10377">Maryport Artillery</band>
+      <conductor id="310333">Henry Thompson</conductor>
+    </result>
+    
+    <result id="135736">
+      <result code="3">3</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+    </result>
+    
+    <result id="135737">
+      <result code="4">4</result>
+      <band id="9882">Workington St Cuthbert&#39;s</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="135738">
+      <result code="5">5</result>
+      <band id="7600">St John&#39;s (Workington)</band>
+      <conductor id="301907">John Goddard</conductor>
+    </result>
+    
+    <result id="135739">
+      <result code="6">6</result>
+      <band id="1510">Workington</band>
+      <conductor id="317329">R. Davidson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

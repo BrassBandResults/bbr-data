@@ -1,0 +1,60 @@
+<contest-event id="17379">
+  <event-date date="1884-8-5">Aug. 5, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Skegness Contest</name>
+  <contest id="1895">
+    <name>Skegness Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>skegness-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1340">Skegness, Lincolnshire, England, UK</venue>
+  <notes>Mr Gladney did not turn up, so a local blind man was deputed to be the adjudicator. After each band had played the blind umpire was nonplussed and declared he could not decide on their respective merits, as all appeared so equal. Mr Gladney eventually appeared, shortly before 5pm, and the bands replayed their selections and he was able to give his awards.
+1st contest promoted by South Notts Temperance Band.
+Prizes - 1st £20, 2nd £12, 3rd £8, 4th £4.
+4 bands competed</notes>
+
+  <created>Dec. 28, 2012, 6:25 p.m.</created>
+  <last-modified>May 6, 2019, 9:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="131877">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="298267">Harry Bower</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="131878">
+      <result code="2">2</result>
+      <band id="1440">Wyke</band>
+      <conductor id="311454">Hugh Whitham</conductor>
+      <test-piece id="2248">Stiffelio [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="131879">
+      <result code="3">3</result>
+      <band id="18277">Rotherham Volunteers</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="131880">
+      <result code="4">4</result>
+      <band id="6090">Long Eaton Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,78 @@
+<contest-event id="38754">
+  <event-date date="1901-5-25">May 25, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Willesden Contest</name>
+  <contest id="6236">
+    <name>Willesden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>willesden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="451">Gems from Sullivan&#39;s Operas No. 1</test-piece>
+  </test-piece>
+
+  <venue id="6760">Willesden, Middlesex</venue>
+  <notes>8 bands competed</notes>
+
+  <created>Nov. 15, 2017, 8:58 a.m.</created>
+  <last-modified>April 26, 2020, 3:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="317389">
+      <result code="1">1</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="309056">W. J. Douglas Sherriff</conductor>
+    </result>
+    
+    <result id="281928">
+      <result code="2">2</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="281924">
+      <result code="3">3</result>
+      <band id="8178">Walthamstow Town Silver</band>
+      <conductor id="307975">John Reay</conductor>
+    </result>
+    
+    <result id="281925">
+      <result code="4">4</result>
+      <band id="616">Fulham Brass Band</band>
+      <conductor id="299707">Sam Cope</conductor>
+    </result>
+    
+    <result id="281930">
+      <result code="4">4</result>
+      <band id="8352">Tottenham Town</band>
+      <conductor id="318114">A. Fleming</conductor>
+    </result>
+    
+    <result id="281931">
+      <result code="">Unknown Result</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281927">
+      <result code="">Unknown Result</result>
+      <band id="5199">Feltham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="317390">
+      <result code="">Unknown Result</result>
+      <band id="622">Watford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="25544">
+  <event-date date="1925-7-25">July 25, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitehall Contest</name>
+  <contest id="4967">
+    <name>Whitehall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitehall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4318">H.J. Packer&#39;s Recreation Ground, Whitehall, Bristol</venue>
+  <notes>March: 1. Parc and Dare, 2. Yeovil, 3. Bristol N.U.R.
+Choice of test pieces &quot;Echoes of the Opera&quot; or &quot;Lurline&quot;</notes>
+
+  <created>Dec. 10, 2013, 5:12 p.m.</created>
+  <last-modified>Feb. 26, 2021, 11:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185274">
+      <result code="1">1</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="185275">
+      <result code="2">2</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="185276">
+      <result code="3">3</result>
+      <band id="9072">Fishponds Argyle Band</band>
+      <conductor id="299660">Charles Cooper</conductor>
+    </result>
+    
+    <result id="185277">
+      <result code="">Unknown Result</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185278">
+      <result code="">Unknown Result</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="13243">
+  <event-date date="1897-6-19">June 19, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sunderland Contest</name>
+  <contest id="2116">
+    <name>Sunderland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sunderland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1941">Diamond Jubilee</test-piece>
+  </test-piece>
+
+  <venue id="1542">Sunderland</venue>
+  <notes>Prizes: £5, £4, £3, £2, £1
+March contest: 1. Brampton Temperance, 2. Wingate Grange
+5 bands competed.</notes>
+
+  <created>May 5, 2012, 3:14 p.m.</created>
+  <last-modified>July 9, 2019, 8:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105243">
+      <result code="1">1</result>
+      <band id="7874">Brampton Temperance [Cumberland]</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="105244">
+      <result code="2">2</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="299739">George Cornforth</conductor>
+    </result>
+    
+    <result id="105245">
+      <result code="3">3</result>
+      <band id="8050">St Paul&#39;s Gateshead</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="105246">
+      <result code="4">4</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="305455">John Mackintosh</conductor>
+    </result>
+    
+    <result id="105247">
+      <result code="5">5</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="302923">J. Henderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

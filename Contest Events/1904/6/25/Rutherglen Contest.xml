@@ -1,0 +1,90 @@
+<contest-event id="37980">
+  <event-date date="1904-6-25">June 25, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rutherglen Contest</name>
+  <contest id="1874">
+    <name>Rutherglen Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rutherglen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="5359">Bankhead, Rutherglen</venue>
+  <notes>10 bands competed</notes>
+
+  <created>May 18, 2017, 9:59 a.m.</created>
+  <last-modified>Aug. 29, 2018, 8:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274397">
+      <result code="1">1</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="314271">E. Sutton</conductor>
+    </result>
+    
+    <result id="274398">
+      <result code="2">2</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="274399">
+      <result code="3">3</result>
+      <band id="1270">Newmains</band>
+      <conductor id="314271">E. Sutton</conductor>
+    </result>
+    
+    <result id="274400">
+      <result code="4">4</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="274401">
+      <result code="5">5</result>
+      <band id="7244">Jamestown and Vale of Leven</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="274402">
+      <result code="6">6</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="301102">W. Farquhar</conductor>
+    </result>
+    
+    <result id="274403">
+      <result code="7">7</result>
+      <band id="6636">Beith</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="292349">
+      <result code="8">8</result>
+      <band id="4650">Newton Colliery</band>
+      <conductor id="297014">Thomas Anderson</conductor>
+    </result>
+    
+    <result id="292348">
+      <result code="9">9</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="292347">
+      <result code="19">19</result>
+      <band id="5231">Glasgow Loco Works</band>
+      <conductor id="305856">J. McDade</conductor>
+    </result>
+    
+  </results>
+</contest-event>

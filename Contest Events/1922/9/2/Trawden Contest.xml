@@ -1,0 +1,66 @@
+<contest-event id="25605">
+  <event-date date="1922-9-2">Sept. 2, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trawden Contest</name>
+  <contest id="1637">
+    <name>Trawden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trawden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2822">Recollections of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="1596">Trawden, Colne, Lancashire</venue>
+  <notes>March: 1. Nelson, 2. Barnoldswick</notes>
+
+  <created>Dec. 13, 2013, 10:07 p.m.</created>
+  <last-modified>Dec. 13, 2013, 10:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185539">
+      <result code="1">1</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185540">
+      <result code="2">2</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185541">
+      <result code="3">3</result>
+      <band id="3307">Standish Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185542">
+      <result code="4">4</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185544">
+      <result code="5">5</result>
+      <band id="3850">Blackrod Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185543">
+      <result code="5">5</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

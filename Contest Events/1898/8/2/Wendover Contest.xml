@@ -1,0 +1,69 @@
+<contest-event id="15311">
+  <event-date date="1898-8-2">Aug. 2, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wendover Contest</name>
+  <contest id="2618">
+    <name>Wendover Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wendover-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1957">Fairest of the Fair</test-piece>
+  </test-piece>
+
+  <venue id="3716">Hampden Meadow, Wendover, Buckinghamshire, England, UK</venue>
+  <notes>Oddfellows Annual Fete
+Prizes: £4, £3, £2, £1
+6 bands competed
+</notes>
+
+  <created>Oct. 15, 2012, 12:25 p.m.</created>
+  <last-modified>Feb. 5, 2020, 12:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118655">
+      <result code="1">1</result>
+      <band id="7685">Wendover</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118656">
+      <result code="2">2</result>
+      <band id="7960">St. Leonards</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118657">
+      <result code="3">3</result>
+      <band id="756">Ellesborough Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118658">
+      <result code="4">4</result>
+      <band id="7684">Monks Risborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166976">
+      <result code="">Unknown Result</result>
+      <band id="7959">Bishopstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166977">
+      <result code="">Unknown Result</result>
+      <band id="8304">Aylesbury C.E.T.S</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

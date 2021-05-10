@@ -1,0 +1,62 @@
+<contest-event id="17773">
+  <event-date date="1889-8-5">Aug. 5, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Contest</name>
+  <contest id="1411">
+    <name>Doncaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1573">Excelsior [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2936">Avenue Grounds, Thorne Road, Doncaster</venue>
+  <notes>Temperance Gala
+
+12 bands competed
+
+Prizes: £26 16s, £13 7s, £4, £2
+
+Quickstep: 1. Thornhill, 2. Morley
+
+</notes>
+
+  <created>Jan. 30, 2013, 6:28 p.m.</created>
+  <last-modified>Oct. 7, 2019, 11:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="134609">
+      <result code="1">1</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="134610">
+      <result code="2">2</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="134611">
+      <result code="3">3</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="134612">
+      <result code="4">4</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="313344">Gustave Jaeger</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="39011">
+  <event-date date="1933-11-2">Nov. 2, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal South Street Eisteddfod  (C Grade)</name>
+  <contest id="6246">
+    <name>Royal South Street Eisteddfod  (C Grade)</name>
+    <order>30</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="563">Royal South Street Eisteddfod</group>
+    <slug>royal-south-street-eisteddfod-c-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1854">In Old Vienna</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Jan. 12, 2018, 12:45 a.m.</created>
+  <last-modified>April 16, 2020, 3:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="283857">
+      <result code="1">1</result>
+      <band id="697">Kew Band Melbourne</band>
+      <conductor id="315294">Victor Webb</conductor>
+    </result>
+    
+    <result id="283858">
+      <result code="2">2</result>
+      <band id="19331">N&#39;Hill Citizens  (Vic)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283859">
+      <result code="3">3</result>
+      <band id="2195">Warrnambool City Band</band>
+      <conductor id="300207">George Davis</conductor>
+    </result>
+    
+    <result id="283860">
+      <result code="4">4</result>
+      <band id="18716">Essendon Citizens</band>
+      <conductor id="315288">Alf Trehair</conductor>
+    </result>
+    
+  </results>
+</contest-event>

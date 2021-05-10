@@ -1,0 +1,80 @@
+<contest-event id="11711">
+  <event-date date="1907-9-7">Sept. 7, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morley Contest </name>
+  <contest id="1364">
+    <name>Morley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>morley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1630">Il Trovatore - Fantasia [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="881">Morley, Leeds, West Yorkshire, England, UK</venue>
+  <notes>
+  1st prize £4 and cup.
+  2nd prize £3.
+  3rd prize £2.
+  4th prize £1.
+
+  March contest 1st (£1.5s,) Gawthorpe,  2nd (10s.) Thornhill,  3rd (5s.) Leeds Model.
+
+  7 bands competed.</notes>
+
+  <created>April 6, 2012, 1:31 p.m.</created>
+  <last-modified>April 6, 2012, 1:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94969">
+      <result code="1">1</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="94970">
+      <result code="2">2</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="94971">
+      <result code="3">3</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+    <result id="94972">
+      <result code="4">4</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="94973">
+      <result code="">Unknown Result</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="94974">
+      <result code="">Unknown Result</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="94975">
+      <result code="">Unknown Result</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

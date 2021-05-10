@@ -1,0 +1,66 @@
+<contest-event id="40720">
+  <event-date date="1923-3-29">March 29, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (B Grade)</name>
+  <contest id="87">
+    <name>Australian Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="5692">Classic Suite in D</test-piece>
+  </test-piece>
+
+  <venue id="6682">Brisbane Town Centre, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>Oct. 15, 2018, 5:01 a.m.</created>
+  <last-modified>April 13, 2020, 2:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296174">
+      <result code="1">1</result>
+      <band id="17432">Townsville Railway  (Qld)</band>
+      <conductor id="302087">Lou Gray</conductor>
+    </result>
+    
+    <result id="296175">
+      <result code="2">2</result>
+      <band id="1316">Toowoomba Municipal Band</band>
+      <conductor id="299574">Jim Compton</conductor>
+    </result>
+    
+    <result id="296176">
+      <result code="3">3</result>
+      <band id="16764">Cessnock District  (NSW)</band>
+      <conductor id="308512">J. Rowan</conductor>
+    </result>
+    
+    <result id="296177">
+      <result code="4">4</result>
+      <band id="17634">Royal Society of St.George  -  Brisbane  (Qld)</band>
+      <conductor id="318516">J. Donovan</conductor>
+    </result>
+    
+    <result id="296178">
+      <result code="5">5</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="312041">Frank Wright</conductor>
+    </result>
+    
+    <result id="296179">
+      <result code="6">6</result>
+      <band id="17635">Newtown Excelsior  -  Toowoomba  (Qld)</band>
+      <conductor id="305763">Bill May</conductor>
+    </result>
+    
+  </results>
+</contest-event>

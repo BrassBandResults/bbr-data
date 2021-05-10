@@ -1,0 +1,84 @@
+<contest-event id="34175">
+  <event-date date="1913-1-27">Jan. 27, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="998">Romeo et Juliette [Gounod arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>Two set tests, no own choice.</notes>
+
+  <created>Feb. 28, 2016, 2:33 a.m.</created>
+  <last-modified>Dec. 7, 2017, 3:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="246909">
+      <result code="1">1</result>
+      <band id="13143">Rozelle</band>
+      <conductor id="307187">William Partington</conductor>
+    </result>
+    
+    <result id="246910">
+      <result code="2">2</result>
+      <band id="13172">Manly Municipal</band>
+      <conductor id="307430">Jerry Pheloung</conductor>
+    </result>
+    
+    <result id="246911">
+      <result code="3">3</result>
+      <band id="2394">Barrier Industrial Unions&#39; Band</band>
+      <conductor id="309944">Ernie Summerton</conductor>
+    </result>
+    
+    <result id="246912">
+      <result code="4">4</result>
+      <band id="2411">Newtown Band [Australia]</band>
+      <conductor id="305763">Bill May</conductor>
+    </result>
+    
+    <result id="246913">
+      <result code="5">5</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="305950">F. W. G. McLeod</conductor>
+    </result>
+    
+    <result id="246914">
+      <result code="6">6</result>
+      <band id="13692">Rockdale  District</band>
+      <conductor id="310898">Charles Walker</conductor>
+    </result>
+    
+    <result id="246915">
+      <result code="7">7</result>
+      <band id="13184">Sydney Kilties</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246916">
+      <result code="8">8</result>
+      <band id="13185">Marickville Municipal</band>
+      <conductor id="302803">Jack Hawkins</conductor>
+    </result>
+    
+    <result id="246917">
+      <result code="9">9</result>
+      <band id="12307">Kogarah Concert Band</band>
+      <conductor id="311138">James Watson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

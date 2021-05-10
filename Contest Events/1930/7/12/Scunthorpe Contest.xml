@@ -1,0 +1,55 @@
+<contest-event id="25718">
+  <event-date date="1930-7-12">July 12, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scunthorpe Contest</name>
+  <contest id="1395">
+    <name>Scunthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>scunthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3735">Show Ground, Scunthorpe</venue>
+  <notes>Held as part of Hospital Carnival.
+4 bands competed.</notes>
+
+  <created>Dec. 25, 2013, 5:21 p.m.</created>
+  <last-modified>Dec. 8, 2018, 12:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186168">
+      <result code="1">1</result>
+      <band id="2626">Scunthorpe Borough British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186169">
+      <result code="2">2</result>
+      <band id="11499">Ashby Men&#39;s Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186170">
+      <result code="3">3</result>
+      <band id="8056">Newport Popular Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186171">
+      <result code="4">4</result>
+      <band id="2622">Crowle Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

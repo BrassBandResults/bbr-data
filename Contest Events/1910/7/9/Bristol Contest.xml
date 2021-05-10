@@ -1,0 +1,55 @@
+<contest-event id="39794">
+  <event-date date="1910-7-9">July 9, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bristol Contest</name>
+  <contest id="1233">
+    <name>Bristol Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bristol-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2816">Robin Hood [MacFarren, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="5402">Rupert Street Skating Rink, Bristol</venue>
+  <notes>March contest - 1st Kingswood, 2nd Milk Street.
+4 bands competed</notes>
+
+  <created>May 31, 2018, 9:24 p.m.</created>
+  <last-modified>May 31, 2018, 9:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288774">
+      <result code="1">1</result>
+      <band id="6570">Bristol Imperial</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="288775">
+      <result code="2">2</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="288777">
+      <result code="3">3</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="288776">
+      <result code="4">4</result>
+      <band id="7536">Bristol Milk Street</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

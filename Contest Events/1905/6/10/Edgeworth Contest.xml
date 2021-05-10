@@ -1,0 +1,88 @@
+<contest-event id="10053">
+  <event-date date="1905-6-10">June 10, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Edgeworth Contest</name>
+  <contest id="1852">
+    <name>Edgworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>edgworth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2029">Volunteer Inn, Bromley Cross, Bolton, Lancashire</venue>
+  <notes>Edgworth &amp; District Agricultural Society Show
+
+  March contest 1st and 2nd divided between Eagley Mills and Pendleton Old</notes>
+
+  <created>Feb. 9, 2012, 4:06 p.m.</created>
+  <last-modified>Sept. 6, 2018, 9:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85225">
+      <result code="1">1</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="85226">
+      <result code="2">2</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85227">
+      <result code="3">3</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="307627">Benson Powell</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="85228">
+      <result code="4">4</result>
+      <band id="3307">Standish Subscription</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="292708">
+      <result code="">Unknown Result</result>
+      <band id="3670">Victoria Hall (Bolton)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="292709">
+      <result code="">Unknown Result</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="304048">Joe Jessop</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="292710">
+      <result code="">Unknown Result</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="292711">
+      <result code="">Unknown Result</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="309337">Christopher Smith</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

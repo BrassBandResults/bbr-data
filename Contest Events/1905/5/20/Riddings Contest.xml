@@ -1,0 +1,93 @@
+<contest-event id="10017">
+  <event-date date="1905-5-20">May 20, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Riddings Contest</name>
+  <contest id="1827">
+    <name>Riddings Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>riddings-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1079">Rob Roy</test-piece>
+  </test-piece>
+
+  <venue id="1285">Riddings, Derbyshire</venue>
+  <notes>
+
+  1st prize £10.
+  2nd prize £6
+  3rd prize £4.
+  4th prize £2.
+
+  March contest  1st Lea Mills, 2nd Canklow.</notes>
+
+  <created>Feb. 5, 2012, 10:37 p.m.</created>
+  <last-modified>Sept. 6, 2018, 9:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="84904">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="302178">C. A. Gregory</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="84905">
+      <result code="2">2</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="84906">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="84907">
+      <result code="4">4</result>
+      <band id="6581">Canklow</band>
+      <conductor id="305005">William Lerigo</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="84909">
+      <result code="">Unknown Result</result>
+      <band id="489">Shirebrook Band</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="84911">
+      <result code="">Unknown Result</result>
+      <band id="6580">Mansfield Excelsior</band>
+      <conductor id="310187">Sam Taylor</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="84910">
+      <result code="">Unknown Result</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="309297">J. W. Smedley</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="84908">
+      <result code="">Unknown Result</result>
+      <band id="19420">Darnall</band>
+      <conductor id="304312">Joseph Greaves Jubb</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

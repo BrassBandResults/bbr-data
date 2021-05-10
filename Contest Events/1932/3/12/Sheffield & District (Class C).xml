@@ -1,0 +1,60 @@
+<contest-event id="36622">
+  <event-date date="1932-3-12">March 12, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield &amp; District (Class C)</name>
+  <contest id="4612">
+    <name>Sheffield &amp; District (Class C)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-district-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="1453">Chapeltown, Sheffield</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Dec. 6, 2016, 2:16 p.m.</created>
+  <last-modified>Dec. 6, 2016, 2:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="265152">
+      <result code="1">1</result>
+      <band id="10015">St Margaret&#39;s Church (Sheffield)</band>
+      <conductor id="298229">Albert Bottom</conductor>
+    </result>
+    
+    <result id="265153">
+      <result code="2">2</result>
+      <band id="1906">Killamarsh Silver Band</band>
+      <conductor id="298779">George Burnham</conductor>
+    </result>
+    
+    <result id="265156">
+      <result code="">Unknown Result</result>
+      <band id="11594">Burngreave Institute</band>
+      <conductor id="299389">T. Clarke</conductor>
+    </result>
+    
+    <result id="265154">
+      <result code="">Unknown Result</result>
+      <band id="124">Chapeltown Silver Prize Band</band>
+      <conductor id="301081">B. Falck</conductor>
+    </result>
+    
+    <result id="265155">
+      <result code="">Unknown Result</result>
+      <band id="125">Stannington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="23361">
+  <event-date date="1932-7-16">July 16, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Spennymoor Contest</name>
+  <contest id="1586">
+    <name>Spennymoor Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="346">Spennymoor Contest</group>
+    <slug>spennymoor-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="930">Il Bravo [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="581">Spennymoor, County Durham, England, UK</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £5, 3rd £2.10s., 4th £1.
+Promoted by pennymoor Siver Model band for hospital fund.
+  5 bands competed.</notes>
+
+  <created>Sept. 1, 2013, 1:49 p.m.</created>
+  <last-modified>Dec. 7, 2016, 2:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171662">
+      <result code="1">1</result>
+      <band id="8195">Eldon Colliery</band>
+      <conductor id="299549">T. Collinson</conductor>
+    </result>
+    
+    <result id="171663">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="171664">
+      <result code="3">3</result>
+      <band id="10707">Skinningrove Iron &amp; Steel Works</band>
+      <conductor id="308830">John Dennis Scoins</conductor>
+    </result>
+    
+    <result id="171665">
+      <result code="">Unknown Result</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="303853">Harry Jackson</conductor>
+    </result>
+    
+    <result id="171666">
+      <result code="">Unknown Result</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

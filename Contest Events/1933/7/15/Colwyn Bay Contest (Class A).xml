@@ -1,0 +1,56 @@
+<contest-event id="23915">
+  <event-date date="1933-7-15">July 15, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest (Class A)</name>
+  <contest id="4607">
+    <name>Colwyn Bay Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1349">I Capuleti [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6355">Eirias Park, Colwyn Bay, North Wales</venue>
+  <notes>  March contest - 1st Royal Oakeley, 2nd Colwyn Town.
+Prizes - 1st £20, 2nd £10, 3rd £5.
+  4 bands competed.</notes>
+
+  <created>Sept. 16, 2013, 12:11 p.m.</created>
+  <last-modified>April 16, 2018, 9:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="174712">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="174713">
+      <result code="2">2</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="174714">
+      <result code="3">3</result>
+      <band id="2548">Colwyn Borough Band</band>
+      <conductor id="311929">A. H. Woodford</conductor>
+    </result>
+    
+    <result id="174715">
+      <result code="4">4</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

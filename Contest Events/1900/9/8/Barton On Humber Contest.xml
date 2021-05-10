@@ -1,0 +1,50 @@
+<contest-event id="8098">
+  <event-date date="1900-9-8">Sept. 8, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barton On Humber Contest</name>
+  <contest id="1421">
+    <name>Barton On Humber Own Choice Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barton-on-humber-own-choice-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1318">Norma</test-piece>
+  </test-piece>
+
+  <venue id="3822">Barton-on-Humber, Lincolnshire, England, UK</venue>
+  <notes>Promoted by Barton Excelsior Band
+
+3 bands competed</notes>
+
+  <created>Nov. 7, 2011, 3:28 p.m.</created>
+  <last-modified>Oct. 17, 2014, 9:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="73283">
+      <result code="1">1</result>
+      <band id="5651">Selby Town</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="168459">
+      <result code="2">2</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168460">
+      <result code="3">3</result>
+      <band id="4589">Brigg Subscription Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

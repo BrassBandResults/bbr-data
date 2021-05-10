@@ -1,0 +1,54 @@
+<contest-event id="26077">
+  <event-date date="1935-7-13">July 13, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fairford Contest (Section 1)</name>
+  <contest id="3937">
+    <name>Fairford Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="398">Fairford Contest</group>
+    <slug>fairford-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="391">Prometheus Unbound</test-piece>
+  </test-piece>
+
+  <venue id="1210">Fairford, Gloucestershire, England, UK</venue>
+  <notes>1st prize: £25</notes>
+
+  <created>Jan. 22, 2014, 5:17 p.m.</created>
+  <last-modified>Jan. 22, 2014, 5:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188750">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188751">
+      <result code="2">2</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188752">
+      <result code="3">3</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188753">
+      <result code="4">4</result>
+      <band id="1686">Enfield Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

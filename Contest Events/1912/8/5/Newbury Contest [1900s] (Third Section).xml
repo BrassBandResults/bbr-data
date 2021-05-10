@@ -1,0 +1,67 @@
+<contest-event id="15222">
+  <event-date date="1912-8-5">Aug. 5, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newbury Contest [1900s] (Third Section)</name>
+  <contest id="3197">
+    <name>Newbury Contest [1900s] (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="299">Newbury Contest [1900s]</group>
+    <slug>newbury-contest-third-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1422">Harvest Home</test-piece>
+  </test-piece>
+
+  <venue id="2430">Fete Ground, Newbury, Berkshire</venue>
+  <notes></notes>
+
+  <created>Oct. 11, 2012, 3:22 p.m.</created>
+  <last-modified>May 11, 2013, 6:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="119999">
+      <result code="1">1</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="309617">Albert Stacey</conductor>
+    </result>
+    
+    <result id="120000">
+      <result code="2">2</result>
+      <band id="9532">Fleet</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="120001">
+      <result code="3">3</result>
+      <band id="8011">Thatcham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="120031">
+      <result code="">Unknown Result</result>
+      <band id="1481">East Woodhay Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118322">
+      <result code="">Unknown Result</result>
+      <band id="633">Amersham Band</band>
+      <conductor id="311188">Arthur Webb</conductor>
+      <test-piece id="1422">Harvest Home</test-piece>
+    </result>
+    
+    <result id="120032">
+      <result code="">Unknown Result</result>
+      <band id="9721">Fleet No 2</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

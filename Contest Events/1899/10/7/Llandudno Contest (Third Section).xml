@@ -1,0 +1,54 @@
+<contest-event id="12712">
+  <event-date date="1899-10-7">Oct. 7, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandudno Contest (Third Section)</name>
+  <contest id="2662">
+    <name>Llandudno Contest (Third Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llandudno-contest-third-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="160">Llandudno, Conwy, Wales, UK</venue>
+  <notes>Only one band attended.</notes>
+
+  <created>April 19, 2012, 9:03 p.m.</created>
+  <last-modified>July 28, 2019, 5:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101185">
+      <result code="1">1</result>
+      <band id="6074">Llanfairfechan</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="167089">
+      <result code="W">Withdrawn</result>
+      <band id="7777">Holywell Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167090">
+      <result code="W">Withdrawn</result>
+      <band id="346">Menai Bridge Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167091">
+      <result code="W">Withdrawn</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

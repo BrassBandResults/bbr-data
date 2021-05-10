@@ -1,0 +1,52 @@
+<contest-event id="25515">
+  <event-date date="1924-7-19">July 19, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Strathaven Contest (Section 2)</name>
+  <contest id="3249">
+    <name>Strathaven Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="428">Strathaven Contest</group>
+    <slug>strathaven-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2492">Strathaven, Lanarkshire</venue>
+  <notes>Restricted to 2nd and 3rd class bands,
+6 bands competed.</notes>
+
+  <created>Dec. 9, 2013, 11:46 p.m.</created>
+  <last-modified>Oct. 29, 2018, 3:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185176">
+      <result code="1">1</result>
+      <band id="5483">Motherwell and Wishaw</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="1691">Tam O&#39;Shanter [Round]</test-piece>
+    </result>
+    
+    <result id="297902">
+      <result code="2">2</result>
+      <band id="5221">Kilsyth Town</band>
+      <conductor id="302329">George Guy</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+    <result id="297903">
+      <result code="3">3</result>
+      <band id="664">Shotts St Patrick&#39;s Brass</band>
+      <conductor id="301140">John Faulds</conductor>
+      <test-piece id="1691">Tam O&#39;Shanter [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

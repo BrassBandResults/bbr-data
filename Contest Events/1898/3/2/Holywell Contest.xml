@@ -1,0 +1,44 @@
+<contest-event id="13403">
+  <event-date date="1898-3-2">March 2, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holywell Contest</name>
+  <contest id="2435">
+    <name>Holywell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>holywell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2626">Holywell, Flintshire</venue>
+  <notes>Prizes: £10 10s, £4 4s
+March contest: 1. Buckley Engineers
+2 bands competed</notes>
+
+  <created>May 11, 2012, 6:11 p.m.</created>
+  <last-modified>July 14, 2019, 7:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106255">
+      <result code="1">1</result>
+      <band id="8118">Buckley Engineers</band>
+      <conductor id="301860">E. Gittins</conductor>
+    </result>
+    
+    <result id="106256">
+      <result code="2">2</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+  </results>
+</contest-event>

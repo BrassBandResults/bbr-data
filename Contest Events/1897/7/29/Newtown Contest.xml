@@ -1,0 +1,55 @@
+<contest-event id="13333">
+  <event-date date="1897-7-29">July 29, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newtown Contest</name>
+  <contest id="1889">
+    <name>Newtown Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newtown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1916">St. Paul [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1336">Newtown, Powys, Wales, UK</venue>
+  <notes>Prizes: £20, £10, £5
+4 bands competed</notes>
+
+  <created>May 10, 2012, 8:17 p.m.</created>
+  <last-modified>July 10, 2019, 8:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105773">
+      <result code="1">1</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="105774">
+      <result code="2">2</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="105775">
+      <result code="3">3</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="105776">
+      <result code="4">4</result>
+      <band id="6134">Corris</band>
+      <conductor id="311684">W. E. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

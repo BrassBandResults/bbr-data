@@ -1,0 +1,49 @@
+<contest-event id="15454">
+  <event-date date="1912-8-3">Aug. 3, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ferry Hill Contest</name>
+  <contest id="1212">
+    <name>Ferry Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ferry-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2118">Bouquet of Ballads</test-piece>
+  </test-piece>
+
+  <venue id="2524">Ferryhill, County Durham, England, UK</venue>
+  <notes>March contest 1st New Brancepeth.
+3 bands competed.</notes>
+
+  <created>Oct. 20, 2012, 8:26 a.m.</created>
+  <last-modified>Sept. 27, 2018, 11:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119678">
+      <result code="1">1</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="318375">F. Newby</conductor>
+    </result>
+    
+    <result id="119679">
+      <result code="2">2</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="318839">F. Smith</conductor>
+    </result>
+    
+    <result id="119680">
+      <result code="3">3</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="318380">F. Mackintosh</conductor>
+    </result>
+    
+  </results>
+</contest-event>

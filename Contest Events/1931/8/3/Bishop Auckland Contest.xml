@@ -1,0 +1,68 @@
+<contest-event id="24758">
+  <event-date date="1931-8-3">Aug. 3, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bishop Auckland Contest</name>
+  <contest id="2144">
+    <name>Bishop Auckland Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="354">Bishop Auckland Contest</group>
+    <slug>bishop-auckland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1056">The Golden Age</test-piece>
+  </test-piece>
+
+  <venue id="4080">Bishop&#39;s Park, Bishop Auckland</venue>
+  <notes>
+  March contest - 1st Brancepeth, 2nd Eldon.
+  6 bands competed.</notes>
+
+  <created>Oct. 28, 2013, 3:14 p.m.</created>
+  <last-modified>Dec. 16, 2018, 1:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180998">
+      <result code="1">1</result>
+      <band id="8195">Eldon Colliery</band>
+      <conductor id="299552">T. W. Collinson</conductor>
+    </result>
+    
+    <result id="180999">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="181000">
+      <result code="3">3</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="181001">
+      <result code="4">4</result>
+      <band id="6828">Darlington British Rail</band>
+      <conductor id="299552">T. W. Collinson</conductor>
+    </result>
+    
+    <result id="181002">
+      <result code="">Unknown Result</result>
+      <band id="1921">Dawdon Lodge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181003">
+      <result code="">Unknown Result</result>
+      <band id="10724">Sunnybrow Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

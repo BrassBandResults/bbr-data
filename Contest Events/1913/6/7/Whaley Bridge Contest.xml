@@ -1,0 +1,60 @@
+<contest-event id="40449">
+  <event-date date="1913-6-7">June 7, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whaley Bridge Contest</name>
+  <contest id="3122">
+    <name>Whaley Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whaley-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2417">Whaley Bridge, Derbyshire, England, UK</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Sept. 30, 2018, 12:21 p.m.</created>
+  <last-modified>Sept. 30, 2018, 12:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294305">
+      <result code="1">1</result>
+      <band id="766">Chapel-en-le-Frith Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294300">
+      <result code="2">2</result>
+      <band id="2600">Chinley &amp; Buxworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294302">
+      <result code="3">3</result>
+      <band id="1655">Dove Holes Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294306">
+      <result code="">Unknown Result</result>
+      <band id="778">Whaley Bridge Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294301">
+      <result code="">Unknown Result</result>
+      <band id="4852">Peak Dale Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

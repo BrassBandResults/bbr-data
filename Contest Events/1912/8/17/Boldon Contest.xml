@@ -1,0 +1,61 @@
+<contest-event id="15515">
+  <event-date date="1912-8-17">Aug. 17, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Boldon Contest</name>
+  <contest id="3316">
+    <name>Boldon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>boldon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2176">The Old Abbey</test-piece>
+  </test-piece>
+
+  <venue id="2548">Boldon Colliery Village, County Durham</venue>
+  <notes>
+  Prizes  1st £6 and cup, 2nd £3,  3rd £1.
+
+  Best cornet - Hebburn Colliery, best horn - Cleveland Steel Works.
+
+  4 bands competed.
+
+  Promoted by Boldon Colliery Band.</notes>
+
+  <created>Oct. 22, 2012, 2:31 p.m.</created>
+  <last-modified>Oct. 22, 2012, 3:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="120145">
+      <result code="1">1</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="120146">
+      <result code="2">2</result>
+      <band id="1704">Birtley St. Joseph</band>
+      <conductor id="296939">Israel Almond</conductor>
+    </result>
+    
+    <result id="120147">
+      <result code="3">3</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="298945">William Calvert</conductor>
+    </result>
+    
+    <result id="120148">
+      <result code="4">4</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="299452">R. Close</conductor>
+    </result>
+    
+  </results>
+</contest-event>

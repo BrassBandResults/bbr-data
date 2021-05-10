@@ -1,0 +1,97 @@
+<contest-event id="21959">
+  <event-date date="1903-8-15">Aug. 15, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Woolwich Contest</name>
+  <contest id="4349">
+    <name>Woolwich Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>woolwich-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3594">Woolwich, Greenwich, Greater London, England, UK</venue>
+  <notes>  Prizes  -  1st £20, 2nd £12, 3rd £8, 4th £4, 5th £2.
+  March contest - 1st(£2) Grays Temperance, 2nd (£1) Battersea Borough.
+  Best cornet, euphonium and trombone - Rushden Temperance.
+  Promoted by Woolwich Arsenal Football &amp; Athletic Club.
+  9 bands competed.</notes>
+
+  <created>June 19, 2013, 11:57 a.m.</created>
+  <last-modified>July 26, 2016, 1:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162963">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+      <test-piece id="1326">Le Domino Noir [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="162964">
+      <result code="2">2</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="305536">Jesse Manley</conductor>
+      <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="162965">
+      <result code="3">3</result>
+      <band id="4799">New Barnet</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="162966">
+      <result code="4">4</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="310849">Frank Waddington</conductor>
+      <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="162967">
+      <result code="5">5</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="302079">F. B. Gray</conductor>
+      <test-piece id="1326">Le Domino Noir [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="162971">
+      <result code="">Unknown Result</result>
+      <band id="610">Crystal Palace Band</band>
+      <conductor id="301916">Herbert Godfrey</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="162968">
+      <result code="">Unknown Result</result>
+      <band id="6325">Battersea Borough</band>
+      <conductor id="306359">Tom Morgan</conductor>
+      <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="162970">
+      <result code="">Unknown Result</result>
+      <band id="6330">Bexley Heath United</band>
+      <conductor id="302395">W. G. Hales</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="162969">
+      <result code="">Unknown Result</result>
+      <band id="4801">Lewisham</band>
+      <conductor id="302395">W. G. Hales</conductor>
+      <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

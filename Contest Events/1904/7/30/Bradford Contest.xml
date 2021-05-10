@@ -1,0 +1,70 @@
+<contest-event id="38074">
+  <event-date date="1904-7-30">July 30, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bradford Contest</name>
+  <contest id="1236">
+    <name>Bradford Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bradford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6587">The Oval, Bradford, Yorkshire</venue>
+  <notes>In connection with the Bradford Exhibition
+Choice of test pieces: &quot;Reminiscences of Meyerbeer&quot; or &quot;Tannhauser&quot;
+Prizes: £35, £20 £15, £10, £5.
+6 bands competed
+</notes>
+
+  <created>May 24, 2017, 7:31 p.m.</created>
+  <last-modified>Aug. 30, 2018, 11:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274848">
+      <result code="1">1</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="305217">Benjamin Lodge</conductor>
+    </result>
+    
+    <result id="274851">
+      <result code="2">2</result>
+      <band id="1440">Wyke</band>
+      <conductor id="302070">A. Gray</conductor>
+    </result>
+    
+    <result id="274849">
+      <result code="3">3</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="274850">
+      <result code="4">4</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="274846">
+      <result code="5">5</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="274847">
+      <result code="6">6</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

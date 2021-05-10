@@ -1,0 +1,63 @@
+<contest-event id="41139">
+  <event-date date="1925-5-30">May 30, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackhall Contest</name>
+  <contest id="4638">
+    <name>Blackhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blackhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3039">Crimden Dene, Blackhall, County Durham</venue>
+  <notes>Contest for Durham Association bands only
+Prizes - 1st £8.10s., 2nd £5, 3rd £3, 4th £1.
+10 bands competed.
+</notes>
+
+  <created>Nov. 5, 2018, 5:01 p.m.</created>
+  <last-modified>Feb. 25, 2021, 10:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="298803">
+      <result code="1">1</result>
+      <band id="2637">Consett-Whitbread Trophy</band>
+      <conductor id="309383">J. Smith</conductor>
+    </result>
+    
+    <result id="298804">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="298805">
+      <result code="3">3</result>
+      <band id="574">Ferryhill Town</band>
+      <conductor id="305005">William Lerigo</conductor>
+    </result>
+    
+    <result id="298806">
+      <result code="4">4</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324895">
+      <result code="">Unknown Result</result>
+      <band id="574">Ferryhill Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

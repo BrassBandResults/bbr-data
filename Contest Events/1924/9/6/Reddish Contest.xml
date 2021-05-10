@@ -1,0 +1,80 @@
+<contest-event id="41065">
+  <event-date date="1924-9-6">Sept. 6, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reddish Contest</name>
+  <contest id="6410">
+    <name>Reddish Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>reddish-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="781">Gems of Italian Opera</test-piece>
+  </test-piece>
+
+  <venue id="6979">Reddish, Stockport, Cheshire</venue>
+  <notes>Irwell Bank arrived too late to play and were disqualified.
+Prizes - 1st £10 and cup, 2nd £5, 3rd £2.
+7 bands competed</notes>
+
+  <created>Oct. 30, 2018, 3:27 p.m.</created>
+  <last-modified>Oct. 30, 2018, 4:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298171">
+      <result code="1">1</result>
+      <band id="11422">Manchester United</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="298172">
+      <result code="2">2</result>
+      <band id="4074">Lowton Silver</band>
+      <conductor id="318620">H. Fairclough</conductor>
+    </result>
+    
+    <result id="298173">
+      <result code="3">3</result>
+      <band id="6762">Aigburth Subscription</band>
+      <conductor id="311056">Henry Wareing</conductor>
+    </result>
+    
+    <result id="298177">
+      <result code="4">4</result>
+      <band id="3659">Hugh Stevenson and Sons (Manchester)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298174">
+      <result code="">Unknown Result</result>
+      <band id="2600">Chinley &amp; Buxworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298175">
+      <result code="">Unknown Result</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298176">
+      <result code="">Unknown Result</result>
+      <band id="4428">Heaton Mersey and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298178">
+      <result code="D">Disqualified</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="30789">
+  <event-date date="1930-7-5">July 5, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bournemouth Contest (First Section)</name>
+  <contest id="2046">
+    <name>Bournemouth Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="131">Bournemouth Contest</group>
+    <slug>bournemouth-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2348">Rienzi [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="261">Winter Gardens, Bournemouth, Dorset, England, UK</venue>
+  <notes></notes>
+
+  <created>Jan. 22, 2015, 4:27 p.m.</created>
+  <last-modified>Jan. 22, 2015, 4:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="219573">
+      <result code="1">1</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="219575">
+      <result code="2">2</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="219574">
+      <result code="3">3</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="12701">
+  <event-date date="1895-8-31">Aug. 31, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest</name>
+  <contest id="1334">
+    <name>Workington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="850">Workington, Cumbria, England, UK</venue>
+  <notes>Open Contest</notes>
+
+  <created>April 19, 2012, 8:31 p.m.</created>
+  <last-modified>April 19, 2012, 8:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101147">
+      <result code="1">1</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="101148">
+      <result code="2">2</result>
+      <band id="1510">Workington</band>
+      <conductor id="305310">George Lowden</conductor>
+    </result>
+    
+    <result id="101149">
+      <result code="3">3</result>
+      <band id="6302">Carlisle Artillery</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="101150">
+      <result code="4">4</result>
+      <band id="3677">Derwent Iron and Steel Works</band>
+      <conductor id="300713">George Eastwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

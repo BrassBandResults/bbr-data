@@ -1,0 +1,67 @@
+<contest-event id="41241">
+  <event-date date="1926-7-10">July 10, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lincoln Contest</name>
+  <contest id="1644">
+    <name>Lincoln Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lincoln-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="2047">Lincoln Arboretum, Lincoln, Lincolnshire, England, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £7, 3rd £4, 4th £2.
+6 bands competed.</notes>
+
+  <created>Nov. 12, 2018, 9:38 a.m.</created>
+  <last-modified>Nov. 12, 2018, 9:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="299633">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="318919">Ellerby Cox Snr</conductor>
+    </result>
+    
+    <result id="299634">
+      <result code="2">2</result>
+      <band id="3740">Band of the Lincolnshire Fire Brigade</band>
+      <conductor id="301163">E. Feather</conductor>
+    </result>
+    
+    <result id="299635">
+      <result code="3">3</result>
+      <band id="512">Pleasley Colliery Welfare Band</band>
+      <conductor id="304761">Bert Lambeth</conductor>
+    </result>
+    
+    <result id="299636">
+      <result code="4">4</result>
+      <band id="2626">Scunthorpe Borough British Legion</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="299637">
+      <result code="">Unknown Result</result>
+      <band id="11499">Ashby Men&#39;s Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299638">
+      <result code="">Unknown Result</result>
+      <band id="17508">Clayton and Babcock&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

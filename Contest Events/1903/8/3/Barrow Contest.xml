@@ -1,0 +1,52 @@
+<contest-event id="21955">
+  <event-date date="1903-8-3">Aug. 3, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest</name>
+  <contest id="1372">
+    <name>Barrow Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="885">Barrow-in-Furness, Cumbria, England, UK</venue>
+  <notes>  Prizes  -  1st £20, 2nd £10, 3rd £7.
+  3 bands competed.</notes>
+
+  <created>June 19, 2013, 10:16 a.m.</created>
+  <last-modified>June 19, 2013, 10:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162919">
+      <result code="1">1</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="162920">
+      <result code="2">2</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="317972">William Adamson</conductor>
+      <test-piece id="1860">Schubert [arr. Round]</test-piece>
+    </result>
+    
+    <result id="162921">
+      <result code="3">3</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310548">Francis Lucio Traversi</conductor>
+      <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="39646">
+  <event-date date="1911-7-15">July 15, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shirebrook Contest</name>
+  <contest id="1943">
+    <name>Shirebrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="255">Shirebrook Contest</group>
+    <slug>shirebrook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3121">Miners Welfare Grounds, Shirebrook, Derbyshire</venue>
+  <notes>Prizes 1st £10. 10s. and cup, 2nd£6, 3rd £3,
+March contest - 1st(£1)Lincoln Malleable, 2nd(10s.) Creswell Colliery.
+5 bands competed.</notes>
+
+  <created>May 21, 2018, 11:15 a.m.</created>
+  <last-modified>May 21, 2018, 11:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287425">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="318919">Ellerby Cox Snr</conductor>
+      <test-piece id="3458">Land of the Shamrock</test-piece>
+    </result>
+    
+    <result id="287424">
+      <result code="2">2</result>
+      <band id="8434">East Kirkby Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+      <test-piece id="3458">Land of the Shamrock</test-piece>
+    </result>
+    
+    <result id="287422">
+      <result code="3">3</result>
+      <band id="6344">Nottingham Railway City</band>
+      <conductor id="310187">Sam Taylor</conductor>
+      <test-piece id="3458">Land of the Shamrock</test-piece>
+    </result>
+    
+    <result id="287423">
+      <result code="4">4</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="299490">W. Cocking</conductor>
+      <test-piece id="1239">La Traviata [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="287421">
+      <result code="">Unknown Result</result>
+      <band id="489">Shirebrook Band</band>
+      <conductor id="311403">John T. White</conductor>
+      <test-piece id="1239">La Traviata [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

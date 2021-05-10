@@ -1,0 +1,72 @@
+<contest-event id="41062">
+  <event-date date="1924-9-6">Sept. 6, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marple Contest</name>
+  <contest id="5025">
+    <name>Marple Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marple-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="781">Gems of Italian Opera</test-piece>
+  </test-piece>
+
+  <venue id="4387">Jolly Sailor Field, Marple, Cheshire</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Oct. 30, 2018, 3:07 p.m.</created>
+  <last-modified>Oct. 30, 2018, 3:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298149">
+      <result code="1">1</result>
+      <band id="16949">Baxendale&#39;s Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298150">
+      <result code="2">2</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298151">
+      <result code="3">3</result>
+      <band id="3214">Hurst Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298152">
+      <result code="4">4</result>
+      <band id="1058">Marple Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298153">
+      <result code="">Unknown Result</result>
+      <band id="2600">Chinley &amp; Buxworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298154">
+      <result code="">Unknown Result</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298155">
+      <result code="">Unknown Result</result>
+      <band id="17517">Stretford Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

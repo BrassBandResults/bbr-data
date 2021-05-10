@@ -1,0 +1,66 @@
+<contest-event id="15893">
+  <event-date date="1909-8-11">Aug. 11, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shanklin Contest</name>
+  <contest id="2320">
+    <name>Shanklin Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shanklin-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2886">Gems of Mozart [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1675">Shanklin, Isle of Wight, England, UK</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Nov. 7, 2012, 10:05 a.m.</created>
+  <last-modified>Oct. 20, 2020, 8:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="122478">
+      <result code="1">1</result>
+      <band id="7491">Sandown Prize Band</band>
+      <conductor id="299571">C. Comden</conductor>
+    </result>
+    
+    <result id="122479">
+      <result code="2">2</result>
+      <band id="557">Shanklin Town Brass</band>
+      <conductor id="307853">Edward Thomas Quinn</conductor>
+    </result>
+    
+    <result id="122480">
+      <result code="3">3</result>
+      <band id="604">Chichester City Band</band>
+      <conductor id="298233">Robert Bottrill</conductor>
+    </result>
+    
+    <result id="122481">
+      <result code="4">4</result>
+      <band id="9532">Fleet</band>
+      <conductor id="308248">J. A. Ritchie</conductor>
+    </result>
+    
+    <result id="322426">
+      <result code="">Unknown Result</result>
+      <band id="7492">Ventnor Artillery</band>
+      <conductor id="302993">J. Hess</conductor>
+    </result>
+    
+    <result id="122482">
+      <result code="">Unknown Result</result>
+      <band id="9858">Ryde Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

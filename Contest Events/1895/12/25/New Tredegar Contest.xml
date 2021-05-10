@@ -1,0 +1,56 @@
+<contest-event id="36633">
+  <event-date date="1895-12-25">Dec. 25, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Tredegar Contest</name>
+  <contest id="4346">
+    <name>New Tredegar Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-tredegar-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2762">Hallelujah Chorus [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3589">Workmen&#39;s Hall, New Tredegar, Monmouthshire</venue>
+  <notes>4 bands competed
+
+March prize  - Vochriw</notes>
+
+  <created>Dec. 8, 2016, 1:48 p.m.</created>
+  <last-modified>Dec. 19, 2019, 11:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="265271">
+      <result code="1">1</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="314421">
+      <result code="2">2</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="303213">W. Hodgett</conductor>
+    </result>
+    
+    <result id="265273">
+      <result code="2">2</result>
+      <band id="7207">Rhymney Town</band>
+      <conductor id="315711">John Price</conductor>
+    </result>
+    
+    <result id="314420">
+      <result code="4">4</result>
+      <band id="7570">Bargoed</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

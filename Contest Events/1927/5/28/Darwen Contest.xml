@@ -1,0 +1,92 @@
+<contest-event id="36407">
+  <event-date date="1927-5-28">May 28, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darwen Contest</name>
+  <contest id="1766">
+    <name>Darwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="2408">Bold Venture Park, Darwen</venue>
+  <notes>March contest - 1st Oldham Rifles, 2nd Colne Borough.
+Prizes - 1st £20 and cup, 2nd £10 and cup, 3rd  £5, 4th £2.10s., 5th £1.10s.
+10 bands competed.</notes>
+
+  <created>Oct. 26, 2016, 5:47 p.m.</created>
+  <last-modified>Nov. 15, 2018, 5:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="263850">
+      <result code="1">1</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="263851">
+      <result code="2">2</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="263852">
+      <result code="3">3</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="301067">Abram Fairclough</conductor>
+    </result>
+    
+    <result id="263853">
+      <result code="4">4</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="263854">
+      <result code="5">5</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="318454">James Wright</conductor>
+    </result>
+    
+    <result id="265691">
+      <result code="">Unknown Result</result>
+      <band id="2731">Belmont Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265692">
+      <result code="">Unknown Result</result>
+      <band id="6638">Darwen Borough Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265693">
+      <result code="">Unknown Result</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265694">
+      <result code="">Unknown Result</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265695">
+      <result code="">Unknown Result</result>
+      <band id="3366">Weldbank Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

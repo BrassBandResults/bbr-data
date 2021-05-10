@@ -1,0 +1,54 @@
+<contest-event id="25716">
+  <event-date date="1930-6-28">June 28, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dursley Contest (Section 1)</name>
+  <contest id="3127">
+    <name>Dursley Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="506">Dursley Contest</group>
+    <slug>dursley-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1348">The Marriage of Figaro - selection</test-piece>
+  </test-piece>
+
+  <venue id="4368">Recreation Ground, Dursley, Gloucestershire, England, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Dec. 25, 2013, 5:11 p.m.</created>
+  <last-modified>Dec. 7, 2018, 3:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186162">
+      <result code="1">1</result>
+      <band id="1255">Stinchcombe Band</band>
+      <conductor id="301599">H. Fussell</conductor>
+    </result>
+    
+    <result id="186163">
+      <result code="2">2</result>
+      <band id="359">Bream Silver Band</band>
+      <conductor id="304203">Evan Jones</conductor>
+    </result>
+    
+    <result id="186164">
+      <result code="3">3</result>
+      <band id="8388">East Compton</band>
+      <conductor id="307824">G. Purnell</conductor>
+    </result>
+    
+    <result id="301839">
+      <result code="4">4</result>
+      <band id="540">Wotton and District Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

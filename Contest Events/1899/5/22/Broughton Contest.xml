@@ -1,0 +1,52 @@
+<contest-event id="12352">
+  <event-date date="1899-5-22">May 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Broughton Contest</name>
+  <contest id="2541">
+    <name>Broughton (Flintshire) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>broughton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="3310">Brake Schoolroom, Moss, Wrexham, Wales, UK</venue>
+  <notes>1st prize £17.17s.
+  2nd prize £5.5s.
+  3rd prize £2.2s.
+March contest(The Spartan) - 1st (£2.2s.) Oak Alyn (March: &quot;Bird of Freedom&quot;)
+3 bands competed</notes>
+
+  <created>April 13, 2012, 2:34 p.m.</created>
+  <last-modified>July 27, 2019, 12:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98847">
+      <result code="1">1</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="301860">E. Gittins</conductor>
+    </result>
+    
+    <result id="98848">
+      <result code="2">2</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98849">
+      <result code="3">3</result>
+      <band id="6893">Glyn Ceiriog</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

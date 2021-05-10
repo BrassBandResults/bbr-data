@@ -1,0 +1,62 @@
+<contest-event id="12943">
+  <event-date date="1896-5-25">May 25, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Howden-le-Wear Contest</name>
+  <contest id="1859">
+    <name>Howden-le-Wear Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>howden-le-wear</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1531">Howden-le-Wear, County Durham</venue>
+  <notes>March contest: divided between Spennymoor and Tow Law
+
+Prizes: £7, £3, £1</notes>
+
+  <created>April 29, 2012, 11:01 a.m.</created>
+  <last-modified>March 31, 2013, 11:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="102899">
+      <result code="1">1</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">John A. Mutton</conductor>
+    </result>
+    
+    <result id="102900">
+      <result code="2">2</result>
+      <band id="6918">Howden Excelsior</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+    <result id="102901">
+      <result code="3">3</result>
+      <band id="8048">Tow Law Model</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149788">
+      <result code="">Unknown Result</result>
+      <band id="7305">Cockfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149787">
+      <result code="">Unknown Result</result>
+      <band id="5278">West Auckland and St.Helens Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

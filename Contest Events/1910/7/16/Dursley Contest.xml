@@ -1,0 +1,62 @@
+<contest-event id="28803">
+  <event-date date="1910-7-16">July 16, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dursley Contest</name>
+  <contest id="2245">
+    <name>Dursley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dursley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1122">Robin Hood [MacFarren arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1624">Dursley, Gloucestershire, England, UK</venue>
+  <notes>4 bands competed
+
+Prizes: £8, £5, £3, £2</notes>
+
+  <created>June 26, 2014, 10:03 a.m.</created>
+  <last-modified>May 31, 2018, 9:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="205882">
+      <result code="1">1</result>
+      <band id="6570">Bristol Imperial</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="205883">
+      <result code="2">2</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="205884">
+      <result code="3">3</result>
+      <band id="9844">Sharpness Temperance</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="205881">
+      <result code="4">4</result>
+      <band id="7401">Halmore</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="205880">
+      <result code="W">Withdrawn</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

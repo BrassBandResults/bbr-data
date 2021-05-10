@@ -1,0 +1,68 @@
+<contest-event id="36695">
+  <event-date date="1927-6-6">June 6, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest</name>
+  <contest id="1399">
+    <name>Chepstow Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3784">Castle Grounds, Chepstow, Monmouthshire</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £10, 3rd £5.
+March contest(The Carnival King) - 1st(£4.4s.) Metropolitan Works, 2nd(£2.2s.) Troedyrhiw.
+6 bands competed.</notes>
+
+  <created>Dec. 15, 2016, 7:17 p.m.</created>
+  <last-modified>Nov. 21, 2018, 10:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="265753">
+      <result code="1">1</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="265754">
+      <result code="2">2</result>
+      <band id="4618">Troedyrhiw Silver</band>
+      <conductor id="311645">Joseph Williams</conductor>
+    </result>
+    
+    <result id="265755">
+      <result code="3">3</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="265756">
+      <result code="">Unknown Result</result>
+      <band id="359">Bream Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265758">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265757">
+      <result code="">Unknown Result</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

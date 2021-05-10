@@ -1,0 +1,93 @@
+<contest-event id="12912">
+  <event-date date="1912-5-11">May 11, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Baillieston Contest</name>
+  <contest id="2710">
+    <name>Baillieston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>baillieston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2065">Baillieston, Glasgow</venue>
+  <notes>9 bands competed</notes>
+
+  <created>April 28, 2012, 4:18 p.m.</created>
+  <last-modified>Nov. 12, 2020, 6:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102655">
+      <result code="1">1</result>
+      <band id="5504">Hamilton Palace Colliery</band>
+      <conductor id="309464">William Smith</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="102656">
+      <result code="2">2</result>
+      <band id="11318">Larkhall Public</band>
+      <conductor id="297732">Alexander Bell</conductor>
+      <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="102657">
+      <result code="3">3</result>
+      <band id="5672">Bellshill Town</band>
+      <conductor id="305853">John McCubbrey</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="102658">
+      <result code="4">4</result>
+      <band id="2106">St John&#39;s (Port Glasgow)</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="293940">
+      <result code="5">5</result>
+      <band id="5005">Baillieston</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="293939">
+      <result code="">Unknown Result</result>
+      <band id="6922">Paisley Town</band>
+      <conductor id="314271">E. Sutton</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="293943">
+      <result code="">Unknown Result</result>
+      <band id="17369">Lowland Divisional Engineers</band>
+      <conductor id="314196">William Smith</conductor>
+      <test-piece id="5413">Bohemian Girl</test-piece>
+    </result>
+    
+    <result id="293942">
+      <result code="">Unknown Result</result>
+      <band id="9796">Glasgow Western</band>
+      <conductor id="305698">Joel Mason</conductor>
+      <test-piece id="2204">Weber&#39;s Works</test-piece>
+    </result>
+    
+    <result id="293941">
+      <result code="">Unknown Result</result>
+      <band id="12133">Gartsherrie Ironworks</band>
+      <conductor id="311042">James Wardlaw</conductor>
+      <test-piece id="5574">L&#39;Africaine</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

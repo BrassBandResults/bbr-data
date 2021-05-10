@@ -1,0 +1,79 @@
+<contest-event id="7786">
+  <event-date date="1897-6-5">June 5, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Horbury Contest</name>
+  <contest id="1339">
+    <name>Horbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>horbury-own-choice-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6004">Macbeth</test-piece>
+  </test-piece>
+
+  <venue id="4064">Horbury, Wakefield, Yorkshire</venue>
+  <notes>Best euphonium - Brighouse.
+8 bands competed.</notes>
+
+  <created>Oct. 19, 2011, 8:44 p.m.</created>
+  <last-modified>July 8, 2019, 8 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105008">
+      <result code="1">1</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="311472">Sidney Whittaker</conductor>
+    </result>
+    
+    <result id="105009">
+      <result code="2">2</result>
+      <band id="7802">Wakefield Belle Vue</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="105010">
+      <result code="3">3</result>
+      <band id="5865">Churwell (Leeds) Band</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="105011">
+      <result code="4">4</result>
+      <band id="8278">Crigglestone</band>
+      <conductor id="317728">George Thorpe</conductor>
+    </result>
+    
+    <result id="69089">
+      <result code="4">4</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="105013">
+      <result code="">Unknown Result</result>
+      <band id="2466">Clayton West</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105012">
+      <result code="">Unknown Result</result>
+      <band id="7763">Leeds Postmen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105014">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

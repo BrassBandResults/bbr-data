@@ -1,0 +1,77 @@
+<contest-event id="5630">
+  <event-date date="1929-8-17">Aug. 17, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wincanton Contest (Open Section)</name>
+  <contest id="920">
+    <name>Wincanton Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="154">Wincanton Contest</group>
+    <slug>wincanton-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="524">Wincanton, Somerset, England, UK</venue>
+  <notes>Bourton originally entered as 3rd, but letter from E. Cook, Midsomer Norton bandmaster, in BBN 10/1929 gives split 3rd between Midsomer Norton and Kingswood Evangel.
+
+Best euphonium: Sidmouth Town Band
+Best cornet soloist: Sidmouth Town Band
+
+March (&#39;Knight of the Road&#39; - Rimmer):
+1 Kingswood Evangel
+
+Prizes - 1st £15 and cup, 2nd £5, 3rd £3.
+Promoted by Wincanton British Legion.
+
+6 bands competed.</notes>
+
+  <created>April 29, 2011, 11:30 a.m.</created>
+  <last-modified>Oct. 23, 2013, 9:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="48584">
+      <result code="1">1</result>
+      <band id="545">Sidmouth Town Band</band>
+      <conductor id="297490">E. Barnard</conductor>
+    </result>
+    
+    <result id="179053">
+      <result code="2">2</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="179055">
+      <result code="3">3</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179057">
+      <result code="3">3</result>
+      <band id="11416">Midsomer Norton Town</band>
+      <conductor id="299660">Charles Cooper</conductor>
+    </result>
+    
+    <result id="179054">
+      <result code="">Unknown Result</result>
+      <band id="9861">Bourton [Dorset]</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="179056">
+      <result code="">Unknown Result</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

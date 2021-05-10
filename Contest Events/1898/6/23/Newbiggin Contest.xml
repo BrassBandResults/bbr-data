@@ -1,0 +1,64 @@
+<contest-event id="7898">
+  <event-date date="1898-6-23">June 23, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newbiggin Contest</name>
+  <contest id="1366">
+    <name>Newbiggin Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newbiggin-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="882">Newbiggin, Northumberland</venue>
+  <notes>Promoted by the Newbiggin Brass Band
+
+Prizes: £10, £4, £2, £1
+
+March contest: 1. Hebburn, 2. Ashington Duke</notes>
+
+  <created>Oct. 24, 2011, 6:35 p.m.</created>
+  <last-modified>Jan. 29, 2020, 11:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="107351">
+      <result code="1">1</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="107352">
+      <result code="2">2</result>
+      <band id="4510">Ashington Model</band>
+      <conductor id="310181">Richard Taylor</conductor>
+    </result>
+    
+    <result id="107353">
+      <result code="3">3</result>
+      <band id="4512">Barrington</band>
+      <conductor id="310181">Richard Taylor</conductor>
+    </result>
+    
+    <result id="107354">
+      <result code="4">4</result>
+      <band id="8984">Amble and Radcliffe Colliery</band>
+      <conductor id="301792">T. Gibson</conductor>
+    </result>
+    
+    <result id="70111">
+      <result code="">Unknown Result</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

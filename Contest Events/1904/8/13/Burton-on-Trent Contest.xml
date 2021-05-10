@@ -1,0 +1,78 @@
+<contest-event id="38108">
+  <event-date date="1904-8-13">Aug. 13, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burton-on-Trent Contest</name>
+  <contest id="1892">
+    <name>Burton-on-Trent Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>burton-on-trent-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1338">Burton-on-Trent, Staffordshire</venue>
+  <notes>Promoted by Burton Excelsior Band
+
+7 bands competed
+
+Choice of test piece: &quot;Gems of Tschaikovsky&quot;, &quot;Gems of Scotch Melody&quot; or &quot;HMS Pinafore&quot;
+
+March contest: 1. Woodville, 2. Newhall</notes>
+
+  <created>May 30, 2017, 9:28 a.m.</created>
+  <last-modified>May 30, 2017, 9:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274984">
+      <result code="1">1</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274981">
+      <result code="2">2</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274980">
+      <result code="3">3</result>
+      <band id="3861">Melbourne Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274983">
+      <result code="3">3</result>
+      <band id="10612">Tutbury Saxtuba</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274978">
+      <result code="">Unknown Result</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274979">
+      <result code="">Unknown Result</result>
+      <band id="3302">Hugglescote &amp; Ellistown</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274982">
+      <result code="">Unknown Result</result>
+      <band id="6643">Tamworth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

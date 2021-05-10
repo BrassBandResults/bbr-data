@@ -1,0 +1,63 @@
+<contest-event id="24830">
+  <event-date date="1932-5-16">May 16, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham Contest</name>
+  <contest id="1901">
+    <name>Durham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>durham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="3025">Wharton Park, Durham</venue>
+  <notes>  Prizes - 1st £7 and cup, 2nd £3, 3rd £2, 4th £1.
+  March contest(own choice) 1st(£1) Murton Colliery, 2nd(10s.) Cargo Fleet Works.
+  Promoted by Durham Shakespeare Temperance Silver Prize band.
+  5 bands competed.</notes>
+
+  <created>Nov. 2, 2013, 11:03 a.m.</created>
+  <last-modified>Dec. 6, 2016, 1:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181443">
+      <result code="1">1</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="303853">Harry Jackson</conductor>
+    </result>
+    
+    <result id="181444">
+      <result code="2">2</result>
+      <band id="3830">Darlington Forge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181446">
+      <result code="3">3</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181447">
+      <result code="">Unknown Result</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181445">
+      <result code="">Unknown Result</result>
+      <band id="6746">Urpeth Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

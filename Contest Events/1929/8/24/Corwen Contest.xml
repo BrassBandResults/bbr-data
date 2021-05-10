@@ -1,0 +1,56 @@
+<contest-event id="24517">
+  <event-date date="1929-8-24">Aug. 24, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Corwen Contest</name>
+  <contest id="1604">
+    <name>Corwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>corwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="4132">Pavilion, Corwen, North Wales</venue>
+  <notes>  Prizes - 1st £14, 2nd £7, 3rd £2.
+  4 bands competed.
+</notes>
+
+  <created>Oct. 14, 2013, 11:24 a.m.</created>
+  <last-modified>March 6, 2020, 11:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="179095">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="297781">Charles Bennett</conductor>
+    </result>
+    
+    <result id="179096">
+      <result code="2">2</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="306381">C. Morris</conductor>
+    </result>
+    
+    <result id="179097">
+      <result code="3">3</result>
+      <band id="10632">Llay Welfare Institute</band>
+      <conductor id="300480">J. Donlan</conductor>
+    </result>
+    
+    <result id="179098">
+      <result code="">Unknown Result</result>
+      <band id="4494">Ruabon</band>
+      <conductor id="306479">J. Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

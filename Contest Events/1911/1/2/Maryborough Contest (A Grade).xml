@@ -1,0 +1,64 @@
+<contest-event id="44510">
+  <event-date date="1911-1-2">Jan. 2, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Maryborough Contest (A Grade)</name>
+  <contest id="1433">
+    <name>Maryborough Contest (A Grade)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="173">Maryborough Contest</group>
+    <slug>maryborough-contest-a-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6991">Maryborough Exhibition Ground, Maryborough, Queensland, Australia</venue>
+  <notes></notes>
+
+  <created>May 6, 2021, 1:38 a.m.</created>
+  <last-modified>May 6, 2021, 7:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="325405">
+      <result code="1">1</result>
+      <band id="5770">Gympie City Band</band>
+      <conductor id="306504">E. W. Mulder</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="325406">
+      <result code="2">2</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="310603">Charles Trussell</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="325407">
+      <result code="3">3</result>
+      <band id="6433">Wide Bay Regiment Band</band>
+      <conductor id="302405">Alfred Hall</conductor>
+      <test-piece id="1948">Meyerbeer [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="325408">
+      <result code="4">4</result>
+      <band id="11228">Ipswich Model</band>
+      <conductor id="320698">S. O. Booth</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="325409">
+      <result code="W">Withdrawn</result>
+      <band id="19608">Toowoomba - Austral Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

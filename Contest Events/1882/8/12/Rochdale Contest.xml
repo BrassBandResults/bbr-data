@@ -1,0 +1,80 @@
+<contest-event id="9005">
+  <event-date date="1882-8-12">Aug. 12, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rochdale Contest</name>
+  <contest id="1812">
+    <name>Rochdale Band Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rochdale-band-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1087">Lenny Barn, Falinge, Rochdale</venue>
+  <notes>4th annual contest promoted by the Rochdale Borough Band
+Prizes: £20, £15, £10, £6.
+8 bands competed</notes>
+
+  <created>Dec. 19, 2011, 1:24 p.m.</created>
+  <last-modified>May 1, 2019, 11:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="78666">
+      <result code="1">1</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="78667">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="78668">
+      <result code="3">3</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="78669">
+      <result code="4">4</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="78670">
+      <result code="5">5</result>
+      <band id="2523">Radcliffe Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="78672">
+      <result code="">Unknown Result</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="78671">
+      <result code="">Unknown Result</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="78673">
+      <result code="">Unknown Result</result>
+      <band id="2497">Bury Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,135 @@
+<contest-event id="22381">
+  <event-date date="1917-12-1">Dec. 1, 1917<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Championship Section)</name>
+  <contest id="37">
+    <name>Scottish Championship (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="1">Championship</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2550">United Kingdom</test-piece>
+  </test-piece>
+
+  <venue id="259">Waverley Market, Edinburgh</venue>
+  <notes>1st prize: £14, 2nd £10, 3rd £5. 4th £3, 5th £2, 6th £1.
+Best soprano - Buckhaven.
+Best cornet and horn - Glasgow Loco Works.
+Best trombone - Johnstone.</notes>
+
+  <created>Aug. 6, 2013, 12:56 p.m.</created>
+  <last-modified>Oct. 8, 2018, 6:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="166454">
+      <result code="1">1</result>
+      <band id="5231">Glasgow Loco Works</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="166455">
+      <result code="2">2</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="166456">
+      <result code="3">3</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="166457">
+      <result code="4">4</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="166458">
+      <result code="5">5</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="302055">W. W. Grant</conductor>
+    </result>
+    
+    <result id="166459">
+      <result code="6">6</result>
+      <band id="5480">Balgonie Colliery</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="295460">
+      <result code="">Unknown Result</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="316088">John Higgins</conductor>
+    </result>
+    
+    <result id="295465">
+      <result code="">Unknown Result</result>
+      <band id="5227">Dunnikier Colliery</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="295467">
+      <result code="">Unknown Result</result>
+      <band id="5482">Stonehouse [Lanarkshire]</band>
+      <conductor id="297008">R. Anderson</conductor>
+    </result>
+    
+    <result id="295464">
+      <result code="">Unknown Result</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="318478">J. Adamson</conductor>
+    </result>
+    
+    <result id="295466">
+      <result code="">Unknown Result</result>
+      <band id="232">Newtongrange Band</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="295470">
+      <result code="">Unknown Result</result>
+      <band id="1226">Broxburn Silver</band>
+      <conductor id="305637">James Marshall</conductor>
+    </result>
+    
+    <result id="295461">
+      <result code="">Unknown Result</result>
+      <band id="5005">Baillieston</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="295462">
+      <result code="">Unknown Result</result>
+      <band id="5220">Falkirk Trades</band>
+      <conductor id="306027">Frank Mellor</conductor>
+    </result>
+    
+    <result id="295463">
+      <result code="">Unknown Result</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="317690">C. Terriss</conductor>
+    </result>
+    
+    <result id="295468">
+      <result code="">Unknown Result</result>
+      <band id="1988">Cleland</band>
+      <conductor id="299708">Alexander Copeland</conductor>
+    </result>
+    
+    <result id="295469">
+      <result code="">Unknown Result</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+  </results>
+</contest-event>

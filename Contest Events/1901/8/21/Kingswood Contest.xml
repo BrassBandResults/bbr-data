@@ -1,0 +1,55 @@
+<contest-event id="37476">
+  <event-date date="1901-8-21">Aug. 21, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kingswood Contest</name>
+  <contest id="1998">
+    <name>Kingswood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kingswood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="6453">Kingswood Hill, Kingswood, Bristol</venue>
+  <notes>Prizes - 1st £6, 2nd £4, 3rd £2.
+4 bands competed</notes>
+
+  <created>March 8, 2017, 1:30 p.m.</created>
+  <last-modified>June 19, 2018, 8:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="271019">
+      <result code="1">1</result>
+      <band id="4882">Bristol Britannia</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="271021">
+      <result code="2">2</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="271022">
+      <result code="3">3</result>
+      <band id="14832">Kingswood Wesleyan</band>
+      <conductor id="318130">W. Armstrong</conductor>
+    </result>
+    
+    <result id="271020">
+      <result code="4">4</result>
+      <band id="9072">Fishponds Argyle Band</band>
+      <conductor id="299842">J. Cozens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

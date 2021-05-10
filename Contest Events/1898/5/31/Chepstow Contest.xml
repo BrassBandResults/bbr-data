@@ -1,0 +1,49 @@
+<contest-event id="13516">
+  <event-date date="1898-5-31">May 31, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest</name>
+  <contest id="1399">
+    <name>Chepstow Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1211">Moses in Egypt [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1313">Chepstow, Monmouthshire</venue>
+  <notes>Prizes: £15, £10
+3 bands competed.</notes>
+
+  <created>May 21, 2012, 9:34 p.m.</created>
+  <last-modified>July 17, 2019, 11:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="107191">
+      <result code="1">1</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="310289">J. W. Thomas</conductor>
+    </result>
+    
+    <result id="107192">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="107193">
+      <result code="">Unknown Result</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

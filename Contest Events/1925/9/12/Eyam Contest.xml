@@ -1,0 +1,68 @@
+<contest-event id="41181">
+  <event-date date="1925-9-12">Sept. 12, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eyam Contest</name>
+  <contest id="6409">
+    <name>Eyam Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eyam-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="6978">Eyam, Derbyshire</venue>
+  <notes>Prizes - 1st £14 and cup, 2nd £9, 3rd £4.
+March contest - 1st Chesterfield, 2nd Dove Holes.
+6 bands competed</notes>
+
+  <created>Nov. 7, 2018, 12:28 p.m.</created>
+  <last-modified>Nov. 7, 2018, 12:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299142">
+      <result code="1">1</result>
+      <band id="1655">Dove Holes Band</band>
+      <conductor id="300718">T. Eastwood</conductor>
+    </result>
+    
+    <result id="299143">
+      <result code="2">2</result>
+      <band id="4141">Chesterfield Town &amp; Old Comrades</band>
+      <conductor id="309039">L. Sheppard</conductor>
+    </result>
+    
+    <result id="299144">
+      <result code="3">3</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="299146">
+      <result code="">Unknown Result</result>
+      <band id="2562">Ecclesfield Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299147">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299145">
+      <result code="">Unknown Result</result>
+      <band id="778">Whaley Bridge Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

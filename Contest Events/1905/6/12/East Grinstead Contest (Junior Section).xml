@@ -1,0 +1,56 @@
+<contest-event id="10098">
+  <event-date date="1905-6-12">June 12, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Grinstead Contest (Junior Section)</name>
+  <contest id="1867">
+    <name>East Grinstead Contest (Junior Section)</name>
+    <order>50</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="217">East Grinstead Contest</group>
+    <slug>east-grinstead-contest-junior-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1585">Mikado</test-piece>
+  </test-piece>
+
+  <venue id="1311">East Grinstead, Sussex</venue>
+  <notes> 1st prize £6, 2nd prize £4.10s, 3rd prize £3.
+March contest 1st (£1) West Crawley Temperance, 2nd (10s.) Redhill Farm School
+  4 bands competed</notes>
+
+  <created>Feb. 11, 2012, 11:48 a.m.</created>
+  <last-modified>Sept. 6, 2018, 11:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85596">
+      <result code="1">1</result>
+      <band id="11893">Haywards Heath Brass and Reed Band</band>
+      <conductor id="300612">C. W. Dunkinson</conductor>
+    </result>
+    
+    <result id="85597">
+      <result code="2">2</result>
+      <band id="6712">Redhill Farm School</band>
+      <conductor id="302960">M. G. Herbert</conductor>
+    </result>
+    
+    <result id="85598">
+      <result code="3">3</result>
+      <band id="6713">West Hoathly</band>
+      <conductor id="298446">Thomas Briggs</conductor>
+    </result>
+    
+    <result id="85599">
+      <result code="">Unknown Result</result>
+      <band id="6714">Crawley Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

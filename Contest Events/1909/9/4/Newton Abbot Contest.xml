@@ -1,0 +1,55 @@
+<contest-event id="15923">
+  <event-date date="1909-9-4">Sept. 4, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newton Abbot Contest</name>
+  <contest id="3453">
+    <name>Newton Abbot Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newton-abbot-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2208">Reminiscences of All Nations</test-piece>
+  </test-piece>
+
+  <venue id="4071">Newton Race Course, Newton Abbot, Devon</venue>
+  <notes>March contest  1st  Tiverton, 2nd Holsworthy.
+4 bands competed</notes>
+
+  <created>Nov. 7, 2012, 3:34 p.m.</created>
+  <last-modified>Oct. 20, 2020, 9:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122661">
+      <result code="1">1</result>
+      <band id="1467">Tiverton Town</band>
+      <conductor id="305266">W. B. Loosemore</conductor>
+    </result>
+    
+    <result id="122662">
+      <result code="2">2</result>
+      <band id="10129">Torquay Town Band</band>
+      <conductor id="302457">E. Halstaff</conductor>
+    </result>
+    
+    <result id="122663">
+      <result code="3">3</result>
+      <band id="8913">Seaton [Cumbria]</band>
+      <conductor id="303925">R. James</conductor>
+    </result>
+    
+    <result id="122664">
+      <result code="4">4</result>
+      <band id="4001">Holsworthy Town Band</band>
+      <conductor id="302412">E. Hall</conductor>
+    </result>
+    
+  </results>
+</contest-event>

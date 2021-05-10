@@ -1,0 +1,67 @@
+<contest-event id="11236">
+  <event-date date="1907-3-16">March 16, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dundee Contest (First Section)</name>
+  <contest id="2210">
+    <name>Dundee Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="355">Dundee Contest</group>
+    <slug>dundee-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1064">Dundee, Dundee City, Scotland, UK</venue>
+  <notes>Northern Counties Amateur Band contest.
+6 bands competed.</notes>
+
+  <created>March 18, 2012, 8:06 a.m.</created>
+  <last-modified>Sept. 17, 2018, 11:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="92924">
+      <result code="1">1</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="92925">
+      <result code="2">2</result>
+      <band id="1050">Forfar Instrumental</band>
+      <conductor id="304750">John Lamb</conductor>
+    </result>
+    
+    <result id="92926">
+      <result code="3">3</result>
+      <band id="1057">Brechin City</band>
+      <conductor id="304746">David Lamb</conductor>
+    </result>
+    
+    <result id="92927">
+      <result code="4">4</result>
+      <band id="13784">St. Margaret&#39;s Old (Dundee)</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="92928">
+      <result code="5">5</result>
+      <band id="7281">Arbroath Rifles</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="92929">
+      <result code="6">6</result>
+      <band id="1056">Perth Silver Band</band>
+      <conductor id="301256">John Finney</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="44389">
+  <event-date date="1923-6-23">June 23, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Watford Contest (Section 1)</name>
+  <contest id="6669">
+    <name>Watford Contest (Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>watford-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2921">La Traviata [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1864">Watford, Hertfordshire, England, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 10, 2021, 11:48 a.m.</created>
+  <last-modified>Feb. 10, 2021, 11:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="324619">
+      <result code="1">1</result>
+      <band id="819">Luton Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="324620">
+      <result code="2">2</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324621">
+      <result code="3">3</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324622">
+      <result code="4">4</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

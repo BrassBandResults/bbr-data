@@ -1,0 +1,98 @@
+<contest-event id="25530">
+  <event-date date="1924-8-30">Aug. 30, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Markinch Contest</name>
+  <contest id="2835">
+    <name>Markinch Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="515">Markinch Contest</group>
+    <slug>markinch-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3681">Balbirnie, Markinch, Fife, Scotland, UK</venue>
+  <notes>12 bands competed
+
+Prizes: £25, £16, £12, £10, £5, £2</notes>
+
+  <created>Dec. 10, 2013, 1:48 p.m.</created>
+  <last-modified>Dec. 10, 2013, 1:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185220">
+      <result code="1">1</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+    <result id="185221">
+      <result code="2">2</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+      <test-piece id="1691">Tam O&#39;Shanter [Round]</test-piece>
+    </result>
+    
+    <result id="185222">
+      <result code="3">3</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+      <test-piece id="1691">Tam O&#39;Shanter [Round]</test-piece>
+    </result>
+    
+    <result id="185223">
+      <result code="4">4</result>
+      <band id="992">Dysart Colliery Silver Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+      <test-piece id="1691">Tam O&#39;Shanter [Round]</test-piece>
+    </result>
+    
+    <result id="185224">
+      <result code="5">5</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="310226">Charles Terris</conductor>
+    </result>
+    
+    <result id="185225">
+      <result code="6">6</result>
+      <band id="5227">Dunnikier Colliery</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+    <result id="185226">
+      <result code="7">7</result>
+      <band id="11185">Loanhead Ex-Servicemen</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="185227">
+      <result code="8">8</result>
+      <band id="5481">Leven Town</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="298276">
+      <result code="">Unknown Result</result>
+      <band id="5480">Balgonie Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298275">
+      <result code="">Unknown Result</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

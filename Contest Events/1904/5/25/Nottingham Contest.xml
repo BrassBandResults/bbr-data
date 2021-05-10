@@ -1,0 +1,89 @@
+<contest-event id="23279">
+  <event-date date="1904-5-25">May 25, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nottingham Contest</name>
+  <contest id="1185">
+    <name>Nottingham Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>nottingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3908">Ruddington Hall Park, Nottingham</venue>
+  <notes>2nd day of contests at the Notts Agricultural Show
+Open to bands that had not won a cash prize of £20 the previous year.
+Prizes: £12, £7, £4, £3, £2
+Waltz contest: 1. Hucknall Silver, 2. Hucknall Excelsior, 3. Lea Mills.
+9 bands competed.
+</notes>
+
+  <created>Aug. 25, 2013, 10:44 p.m.</created>
+  <last-modified>Aug. 27, 2018, 9:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171165">
+      <result code="1">1</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="171166">
+      <result code="2">2</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="171167">
+      <result code="3">3</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="171168">
+      <result code="4">4</result>
+      <band id="6579">Newstead Colliery</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="171169">
+      <result code="5">5</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="193814">
+      <result code="">Unknown Result</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="193817">
+      <result code="">Unknown Result</result>
+      <band id="292">Riddings Band</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="193815">
+      <result code="">Unknown Result</result>
+      <band id="1214">Loughborough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="193816">
+      <result code="">Unknown Result</result>
+      <band id="6344">Nottingham Railway City</band>
+      <conductor id="306160">R. Mills</conductor>
+    </result>
+    
+  </results>
+</contest-event>

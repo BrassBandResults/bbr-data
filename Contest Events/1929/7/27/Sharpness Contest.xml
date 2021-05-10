@@ -1,0 +1,81 @@
+<contest-event id="24439">
+  <event-date date="1929-7-27">July 27, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sharpness Contest</name>
+  <contest id="2375">
+    <name>Sharpness Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sharpness-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4115">Pleasure Grounds, Sharpness, Gloucestershire</venue>
+  <notes>
+  Prizes - 1st £15 and cup, 2nd £10, 3rd £3.
+  Promoted by Sharpness Football Club.
+  8 bands competed.</notes>
+
+  <created>Oct. 9, 2013, 3:34 p.m.</created>
+  <last-modified>Oct. 9, 2013, 4:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="178412">
+      <result code="1">1</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="311550">George A. Wilkins</conductor>
+    </result>
+    
+    <result id="178413">
+      <result code="2">2</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="178414">
+      <result code="3">3</result>
+      <band id="359">Bream Silver Band</band>
+      <conductor id="304203">Evan Jones</conductor>
+    </result>
+    
+    <result id="178415">
+      <result code="4">4</result>
+      <band id="787">Oakdale Silver Band</band>
+      <conductor id="307146">David Parr</conductor>
+    </result>
+    
+    <result id="178417">
+      <result code="">Unknown Result</result>
+      <band id="6865">Bristol and District N.U.R.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178419">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178418">
+      <result code="">Unknown Result</result>
+      <band id="2031">Nailsworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178416">
+      <result code="">Unknown Result</result>
+      <band id="540">Wotton and District Silver Band</band>
+      <conductor id="298618">Mr. Brown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

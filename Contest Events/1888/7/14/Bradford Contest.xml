@@ -1,0 +1,97 @@
+<contest-event id="9306">
+  <event-date date="1888-7-14">July 14, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bradford Contest</name>
+  <contest id="1236">
+    <name>Bradford Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bradford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2042">Peel Park, Bradford, West Yorkshire</venue>
+  <notes>Prizes: £20 + 9 guineas cornet, £12, £8, £6, £4.
+9 bands competed</notes>
+
+  <created>Jan. 1, 2012, 12:29 p.m.</created>
+  <last-modified>Nov. 8, 2017, 10:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80402">
+      <result code="1">1</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80397">
+      <result code="2">2</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80404">
+      <result code="3">3</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80403">
+      <result code="4">4</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80405">
+      <result code="5">5</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80400">
+      <result code="">Unknown Result</result>
+      <band id="4575">Birkenshaw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80401">
+      <result code="">Unknown Result</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80398">
+      <result code="">Unknown Result</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80399">
+      <result code="">Unknown Result</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80395">
+      <result code="W">Withdrawn</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80396">
+      <result code="W">Withdrawn</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

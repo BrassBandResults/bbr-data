@@ -1,0 +1,60 @@
+<contest-event id="23392">
+  <event-date date="1904-7-30">July 30, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hebburn Contest</name>
+  <contest id="1913">
+    <name>Hebburn Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hebburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1662">Echoes of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="1353">Hebburn, County Durham</venue>
+  <notes>Promoted by Hebburn Colliery Prize Silver Band
+
+Prizes: £10, £5, £2, £1
+
+March: 1. Spencer&#39;s, 2. Heworth
+
+</notes>
+
+  <created>Sept. 2, 2013, 9:20 p.m.</created>
+  <last-modified>June 8, 2020, 10:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171909">
+      <result code="1">1</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="171910">
+      <result code="2">2</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="171911">
+      <result code="3">3</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="171912">
+      <result code="4">4</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+  </results>
+</contest-event>

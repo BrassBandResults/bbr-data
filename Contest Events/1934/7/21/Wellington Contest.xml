@@ -1,0 +1,49 @@
+<contest-event id="25007">
+  <event-date date="1934-7-21">July 21, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellington Contest</name>
+  <contest id="2532">
+    <name>Wellington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="1579">Wellington, Shropshire</venue>
+  <notes>
+  3 bands competed.</notes>
+
+  <created>Nov. 8, 2013, 10:34 a.m.</created>
+  <last-modified>Nov. 8, 2013, 10:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="182179">
+      <result code="1">1</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182180">
+      <result code="2">2</result>
+      <band id="11625">Dorrington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182181">
+      <result code="3">3</result>
+      <band id="11626">Coalbrookdale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

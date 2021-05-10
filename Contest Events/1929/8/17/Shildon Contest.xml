@@ -1,0 +1,67 @@
+<contest-event id="24516">
+  <event-date date="1929-8-17">Aug. 17, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shildon Contest</name>
+  <contest id="2152">
+    <name>Shildon Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shildon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2554">Der Freischütz [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1567">Shildon, County Durham</venue>
+  <notes>  Promoted by Shildon Agricultural Society.
+  6 bands competed.</notes>
+
+  <created>Oct. 14, 2013, 11:16 a.m.</created>
+  <last-modified>Oct. 14, 2013, 11:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="179088">
+      <result code="1">1</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+    </result>
+    
+    <result id="179089">
+      <result code="2">2</result>
+      <band id="8195">Eldon Colliery</band>
+      <conductor id="299552">T. W. Collinson</conductor>
+    </result>
+    
+    <result id="179090">
+      <result code="3">3</result>
+      <band id="2637">Consett-Whitbread Trophy</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+    <result id="179091">
+      <result code="4">4</result>
+      <band id="2138">Palmer&#39;s Works</band>
+      <conductor id="309505">George Snowdon</conductor>
+    </result>
+    
+    <result id="179092">
+      <result code="">Unknown Result</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="179093">
+      <result code="">Unknown Result</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,42 @@
+<contest-event id="36905">
+  <event-date date="1897-6-30">June 30, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Borth Contest</name>
+  <contest id="6083">
+    <name>Borth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>borth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1916">St. Paul [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6388">Borth, Ceredigion</venue>
+  <notes>Two bands competed</notes>
+
+  <created>Jan. 14, 2017, 5:12 p.m.</created>
+  <last-modified>Jan. 14, 2017, 5:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="267580">
+      <result code="1">1</result>
+      <band id="6134">Corris</band>
+      <conductor id="319661">John Hughes</conductor>
+    </result>
+    
+    <result id="267581">
+      <result code="2">2</result>
+      <band id="7278">Aberllefenni</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

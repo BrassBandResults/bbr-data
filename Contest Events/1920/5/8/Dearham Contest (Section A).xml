@@ -1,0 +1,55 @@
+<contest-event id="40675">
+  <event-date date="1920-5-8">May 8, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest (Section A)</name>
+  <contest id="5086">
+    <name>Dearham Contest (Section A)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1318">Norma</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>Prizes - 1st £12, 2nd £6, 3rd £3.
+4 bands competed.</notes>
+
+  <created>Oct. 12, 2018, 6:22 p.m.</created>
+  <last-modified>Jan. 15, 2021, 10:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295864">
+      <result code="1">1</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="295865">
+      <result code="2">2</result>
+      <band id="4131">Workington Discharged Sailors Soldiers</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="295863">
+      <result code="3">3</result>
+      <band id="5674">Frizington St. Joseph</band>
+      <conductor id="299069">John Carter</conductor>
+    </result>
+    
+    <result id="295866">
+      <result code="4">4</result>
+      <band id="1510">Workington</band>
+      <conductor id="313108">Walter Halstead</conductor>
+    </result>
+    
+  </results>
+</contest-event>

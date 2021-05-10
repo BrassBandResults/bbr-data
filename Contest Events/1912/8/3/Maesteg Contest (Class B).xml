@@ -1,0 +1,42 @@
+<contest-event id="15457">
+  <event-date date="1912-8-3">Aug. 3, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Maesteg Contest (Class B)</name>
+  <contest id="3295">
+    <name>Maesteg Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>maesteg-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2525">Maesteg, Glamorgan</venue>
+  <notes> 2 bands competed.</notes>
+
+  <created>Oct. 20, 2012, 9:07 a.m.</created>
+  <last-modified>Sept. 28, 2018, 11:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="119694">
+      <result code="1">1</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="119695">
+      <result code="2">2</result>
+      <band id="9689">Caerau</band>
+      <conductor id="304322">W. Jury</conductor>
+    </result>
+    
+  </results>
+</contest-event>

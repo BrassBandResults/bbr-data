@@ -1,0 +1,45 @@
+<contest-event id="12628">
+  <event-date date="1899-8-19">Aug. 19, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gravesend Contest. (First Section)</name>
+  <contest id="2629">
+    <name>Gravesend Contest. (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gravesend-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1443">Gravesend, Kent</venue>
+  <notes>Choice of test pieces:  Herold, Tannhauser, Weber, Great Britain, Rossini, Bellini, Schubert, Wagner and Halevy
+2 bands competed</notes>
+
+  <created>April 18, 2012, 3:19 p.m.</created>
+  <last-modified>July 28, 2019, 11:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100664">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297366">H. Baker</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100665">
+      <result code="2">2</result>
+      <band id="819">Luton Band</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

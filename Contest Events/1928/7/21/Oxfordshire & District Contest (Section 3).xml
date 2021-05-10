@@ -1,0 +1,60 @@
+<contest-event id="24373">
+  <event-date date="1928-7-21">July 21, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oxfordshire &amp; District Contest (Section 3)</name>
+  <contest id="3233">
+    <name>Oxfordshire &amp; District Contest (Section 3)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="390">Oxfordshire &amp; District Contest</group>
+    <slug>oxfordshire-district-contest-section-3</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi</test-piece>
+  </test-piece>
+
+  <venue id="2478">Shipton Manor, Shipton-on-Cherwell, Oxfordshire, England, UK</venue>
+  <notes>4 bands competed.
+
+No Section 1 this year (cancelled due to low entry). Prizes were cascaded down a section, so the usual Section 2 prizes were given to Section 3 bands.</notes>
+
+  <created>Oct. 7, 2013, 10:09 a.m.</created>
+  <last-modified>March 19, 2021, 4:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="177864">
+      <result code="1">1</result>
+      <band id="609">Chinnor Silver Band</band>
+      <conductor id="298768">Charles Burkett</conductor>
+      <test-piece id="3858">Dawn of Spring</test-piece>
+    </result>
+    
+    <result id="177865">
+      <result code="2">2</result>
+      <band id="629">Bletchington Silver Band</band>
+      <conductor id="302220">J. G. Griffith</conductor>
+      <test-piece id="1663">Gems of Sir Henry Bishop</test-piece>
+    </result>
+    
+    <result id="177866">
+      <result code="3">3</result>
+      <band id="9936">Flackwell Heath</band>
+      <conductor id="298780">W. J. Burnham</conductor>
+      <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="177867">
+      <result code="4">4</result>
+      <band id="844">Hook Norton Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="3858">Dawn of Spring</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

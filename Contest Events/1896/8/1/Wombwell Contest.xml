@@ -1,0 +1,80 @@
+<contest-event id="13026">
+  <event-date date="1896-8-1">Aug. 1, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wombwell Contest</name>
+  <contest id="2734">
+    <name>Wombwell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wombwell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2088">Wombwell, Yorkshire</venue>
+  <notes>Prizes: £7 10s, £5 10s, £1 10s, £1
+March contest: 1. Wharcliffe, 2. Elsecar.
+7 bands competed</notes>
+
+  <created>April 30, 2012, 8:14 p.m.</created>
+  <last-modified>Oct. 18, 2016, 2:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103734">
+      <result code="1">1</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="310193">William Taylor</conductor>
+    </result>
+    
+    <result id="103735">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="103736">
+      <result code="3">3</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="300245">John Dawson</conductor>
+    </result>
+    
+    <result id="103737">
+      <result code="4">4</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="310695">J. Tyas</conductor>
+    </result>
+    
+    <result id="103738">
+      <result code="">Unknown Result</result>
+      <band id="3146">Elsecar Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103739">
+      <result code="">Unknown Result</result>
+      <band id="132">Strata Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103740">
+      <result code="">Unknown Result</result>
+      <band id="6582">Wombwell Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="150079">
+      <result code="W">Withdrawn</result>
+      <band id="133">Horbury Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

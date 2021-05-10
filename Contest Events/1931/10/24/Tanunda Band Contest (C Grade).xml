@@ -1,0 +1,49 @@
+<contest-event id="44126">
+  <event-date date="1931-10-24">Oct. 24, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tanunda Band Contest (C Grade)</name>
+  <contest id="6609">
+    <name>Tanunda Band Contest (C Grade)</name>
+    <order>2</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="617">Tanunda Band Contest</group>
+    <slug>tanunda-band-contest-c-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="6409">No.1  Concert Suite   No.2   In Old Vienna</test-piece>
+  </test-piece>
+
+  <venue id="7288">Tanunda Recreation Grounds, Tanunda,  South Australia,  Australia</venue>
+  <notes>Brighton Colonel Gardens previously known as Brighton Colonel Municipal
+No.2 Test points listed under Own Choice</notes>
+
+  <created>Nov. 23, 2020, 2:20 a.m.</created>
+  <last-modified>Nov. 23, 2020, 2:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="323143">
+      <result code="1">1</result>
+      <band id="19110">Holdfast Bay Model</band>
+      <conductor id="320413">Paul Pfitzner</conductor>
+    </result>
+    
+    <result id="323144">
+      <result code="2">2</result>
+      <band id="19336">Brighton &amp; Colonel Light Municipal</band>
+      <conductor id="320423">J. Findlay</conductor>
+    </result>
+    
+    <result id="323145">
+      <result code="3">3</result>
+      <band id="19317">Gawler District</band>
+      <conductor id="320424">Jack Riggs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,75 @@
+<contest-event id="8244">
+  <event-date date="1916-1-1">Jan. 1, 1916<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Maryborough Contest (A and B Grade March)</name>
+  <contest id="1442">
+    <name>Maryborough Contest (A and B Grade March)</name>
+    <order>7</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="173">Maryborough Contest</group>
+    <slug>maryborough-contest-a-and-b-grade-march</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="20">March Contest (Music and Inspection Points)</contest-type-override>
+  <test-piece>
+    <test-piece id="5281">March: Canberra</test-piece>
+  </test-piece>
+
+  <venue id="936">Maryborough, Queensland, Australia</venue>
+  <notes>Drill points listed under Inspection
+
+DRUM MAJORS  
+Band
+1.  H. Cunnington
+2.  Pty/Officer  H. McGann
+3. S/M  M. Blake
+4.S/M  Cole
+5.  S/M  Thetford
+6.  B. Clarke</notes>
+
+  <created>Nov. 10, 2011, 3:51 p.m.</created>
+  <last-modified>May 9, 2021, 12:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="74025">
+      <result code="1">1</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="318595">F. W. G. McCloed</conductor>
+    </result>
+    
+    <result id="74026">
+      <result code="2">2</result>
+      <band id="5769">Maryborough Naval Band [Queensland]</band>
+      <conductor id="299502">Percy Code</conductor>
+    </result>
+    
+    <result id="74027">
+      <result code="3">3</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="300200">Bill Davis</conductor>
+    </result>
+    
+    <result id="74028">
+      <result code="4">4</result>
+      <band id="5770">Gympie City Band</band>
+      <conductor id="313861">Bill Partington</conductor>
+    </result>
+    
+    <result id="243508">
+      <result code="5">5</result>
+      <band id="12957">Maryborough City Band [Queensland]</band>
+      <conductor id="302405">Alfred Hall</conductor>
+    </result>
+    
+    <result id="74030">
+      <result code="6">6</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="318779">D. Maxwell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

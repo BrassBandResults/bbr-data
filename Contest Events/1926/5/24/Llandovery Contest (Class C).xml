@@ -1,0 +1,43 @@
+<contest-event id="41215">
+  <event-date date="1926-5-24">May 24, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class C)</name>
+  <contest id="3100">
+    <name>Llandovery Contest (Class C)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £8 and shield, 2nd £4 and cup.
+2 bands competed</notes>
+
+  <created>Nov. 9, 2018, 11:14 a.m.</created>
+  <last-modified>March 4, 2021, 11:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299449">
+      <result code="1">1</result>
+      <band id="7072">Gorseinon</band>
+      <conductor id="309551">T. W. Speak</conductor>
+    </result>
+    
+    <result id="299450">
+      <result code="2">2</result>
+      <band id="10616">Penclawdd Silver</band>
+      <conductor id="318650">William Hopkin</conductor>
+    </result>
+    
+  </results>
+</contest-event>

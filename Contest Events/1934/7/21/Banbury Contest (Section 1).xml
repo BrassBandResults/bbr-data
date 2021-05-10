@@ -1,0 +1,60 @@
+<contest-event id="25008">
+  <event-date date="1934-7-21">July 21, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Banbury Contest (Section 1)</name>
+  <contest id="3255">
+    <name>Banbury Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="307">Banbury Contest</group>
+    <slug>banbury-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="651">A Souvenir of Shakespeare</test-piece>
+  </test-piece>
+
+  <venue id="4005">Hospital Grounds, Banbury, Oxfordshire</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Nov. 8, 2013, 10:48 a.m.</created>
+  <last-modified>Jan. 5, 2019, 6:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182182">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="312144">T. Young</conductor>
+    </result>
+    
+    <result id="182183">
+      <result code="2">2</result>
+      <band id="3870">Rushden Mission Band</band>
+      <conductor id="299358">M. F. Clark</conductor>
+    </result>
+    
+    <result id="182184">
+      <result code="3">3</result>
+      <band id="431">Towcester Studio Band</band>
+      <conductor id="298585">Charles Brown</conductor>
+    </result>
+    
+    <result id="182185">
+      <result code="">Unknown Result</result>
+      <band id="7984">Banbury Borough and British Legion Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182186">
+      <result code="">Unknown Result</result>
+      <band id="629">Bletchington Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

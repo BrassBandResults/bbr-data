@@ -1,0 +1,62 @@
+<contest-event id="13554">
+  <event-date date="1898-7-16">July 16, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitworth Contest</name>
+  <contest id="1350">
+    <name>Whitworth Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="330">Whitworth Contest</group>
+    <slug>whitworth</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1956">Bed of Roses</test-piece>
+  </test-piece>
+
+  <venue id="872">Whitworth, Rochdale</venue>
+  <notes>Prizes: £10, £7, £4, £1
+March contest: 1. Pickup Bank, 2. Nazebottom Temperance, 3. Millgate
+8 bands entered, 4 competed</notes>
+
+  <created>May 22, 2012, 10:02 p.m.</created>
+  <last-modified>July 18, 2019, 9:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107457">
+      <result code="1">1</result>
+      <band id="3536">Nazebottom Temperance</band>
+      <conductor id="306213">Walter Mitchell</conductor>
+    </result>
+    
+    <result id="107456">
+      <result code="1">1</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="107458">
+      <result code="3">3</result>
+      <band id="5589">Millgate</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="107459">
+      <result code="4">4</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="304886">Albert Lawton</conductor>
+    </result>
+    
+    <result id="282624">
+      <result code="W">Withdrawn</result>
+      <band id="7586">High Crompton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

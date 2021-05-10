@@ -1,0 +1,62 @@
+<contest-event id="30150">
+  <event-date date="1891-5-18">May 18, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Reading Contest</name>
+  <contest id="5522">
+    <name>Reading Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>reading-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1839">Pride of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="6265">Elm Park, Oxford Road, Reading, Berkshire</venue>
+  <notes>Prizes - 1st 17 guineas, 2nd 10 guineas, 3rd 4 guineas.
+4 bands competed
+</notes>
+
+  <created>Nov. 6, 2014, 4:32 p.m.</created>
+  <last-modified>March 18, 2020, 10:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="308773">
+      <result code="1">1</result>
+      <band id="7915">Staines St. Peter&#39;s</band>
+      <conductor id="319227">S. Pendey</conductor>
+    </result>
+    
+    <result id="260824">
+      <result code="2">2</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="309056">W. J. Douglas Sherriff</conductor>
+    </result>
+    
+    <result id="260825">
+      <result code="3">3</result>
+      <band id="5182">Wokingham Town and British Legion</band>
+      <conductor id="296908">W. Allen</conductor>
+    </result>
+    
+    <result id="260826">
+      <result code="4">4</result>
+      <band id="7851">Wokingham All Saints</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260827">
+      <result code="W">Withdrawn</result>
+      <band id="10380">Watlington Nephalite</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

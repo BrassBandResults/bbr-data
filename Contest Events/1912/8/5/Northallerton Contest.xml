@@ -1,0 +1,58 @@
+<contest-event id="15023">
+  <event-date date="1912-8-5">Aug. 5, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northallerton Contest</name>
+  <contest id="3138">
+    <name>Northallerton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northallerton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2429">Northallerton, North Yorkshire</venue>
+  <notes>
+
+  March contest 1st Wyke,  2nd St Hilda.
+
+  Organised  in conjuction with Annual Carnival</notes>
+
+  <created>Oct. 1, 2012, 4:23 p.m.</created>
+  <last-modified>Oct. 1, 2012, 4:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="117063">
+      <result code="1">1</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="117064">
+      <result code="2">2</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="117065">
+      <result code="3">3</result>
+      <band id="1440">Wyke</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="117066">
+      <result code="4">4</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

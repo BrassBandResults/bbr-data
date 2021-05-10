@@ -1,0 +1,54 @@
+<contest-event id="21268">
+  <event-date date="1936-5-9">May 9, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 2)</name>
+  <contest id="2881">
+    <name>Royal Tunbridge Wells Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="949">Rigoletto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2759">Tunbridge Wells, Kent</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>May 10, 2013, 7:30 a.m.</created>
+  <last-modified>Jan. 9, 2019, 9:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="156850">
+      <result code="1">1</result>
+      <band id="3959">Copthorne Silver Band</band>
+      <conductor id="312140">R. H. C. Young</conductor>
+    </result>
+    
+    <result id="156851">
+      <result code="2">2</result>
+      <band id="806">Cantium Brass</band>
+      <conductor id="309993">J. Swan</conductor>
+    </result>
+    
+    <result id="156852">
+      <result code="3">3</result>
+      <band id="5170">Glynn Vivian Miners Mission (Aylesham)</band>
+      <conductor id="299076">R. Carter</conductor>
+    </result>
+    
+    <result id="182517">
+      <result code="4">4</result>
+      <band id="11580">Tunbridge Wells British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

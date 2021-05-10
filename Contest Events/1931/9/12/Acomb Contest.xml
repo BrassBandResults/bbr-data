@@ -1,0 +1,49 @@
+<contest-event id="24787">
+  <event-date date="1931-9-12">Sept. 12, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Acomb Contest</name>
+  <contest id="4821">
+    <name>Acomb Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>acomb-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1056">The Golden Age</test-piece>
+  </test-piece>
+
+  <venue id="4193">Acomb, Northumberland, England, UK</venue>
+  <notes>
+  March contest - 1st Mickley, 2nd Winlaton.</notes>
+
+  <created>Oct. 31, 2013, 1:03 p.m.</created>
+  <last-modified>Oct. 31, 2013, 1:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181242">
+      <result code="1">1</result>
+      <band id="11392">Winlaton Silver</band>
+      <conductor id="311011">Albert Ward</conductor>
+    </result>
+    
+    <result id="181243">
+      <result code="2">2</result>
+      <band id="4075">Mickley Collery Workmen&#39;s</band>
+      <conductor id="301410">T. Forster</conductor>
+    </result>
+    
+    <result id="181244">
+      <result code="3">3</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="302575">J. G. Harding</conductor>
+    </result>
+    
+  </results>
+</contest-event>

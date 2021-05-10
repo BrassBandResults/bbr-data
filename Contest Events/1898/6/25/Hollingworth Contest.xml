@@ -1,0 +1,74 @@
+<contest-event id="9332">
+  <event-date date="1898-6-25">June 25, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hollingworth Contest</name>
+  <contest id="1675">
+    <name>Hollingworth Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>hollingworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1956">Bed of Roses</test-piece>
+  </test-piece>
+
+  <venue id="6962">Hollingworth, Cheshire</venue>
+  <notes>Prizes: £8, £5, ££, £1
+March contest: (The Challenge) 1. Dobcross, 2. Hyde
+7 bands competed</notes>
+
+  <created>Jan. 2, 2012, 3:08 p.m.</created>
+  <last-modified>July 16, 2019, 10:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="107337">
+      <result code="1">1</result>
+      <band id="7616">Hyde Borough</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="107338">
+      <result code="2">2</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="298705">J. H. Buckley</conductor>
+    </result>
+    
+    <result id="311256">
+      <result code="3">3</result>
+      <band id="3536">Nazebottom Temperance</band>
+      <conductor id="306213">Walter Mitchell</conductor>
+    </result>
+    
+    <result id="107339">
+      <result code="4">4</result>
+      <band id="8264">Oldham Borough</band>
+      <conductor id="298028">G. Blackwell</conductor>
+    </result>
+    
+    <result id="80519">
+      <result code="5">5</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="297449">Joseph Barber</conductor>
+    </result>
+    
+    <result id="107341">
+      <result code="">Unknown Result</result>
+      <band id="8433">Mottram &amp; Broadbottom</band>
+      <conductor id="298489">S. Broadbent</conductor>
+    </result>
+    
+    <result id="107340">
+      <result code="">Unknown Result</result>
+      <band id="6179">Chisworth and Charlesworth</band>
+      <conductor id="319379">S. Thorpe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,92 @@
+<contest-event id="15380">
+  <event-date date="1898-9-10">Sept. 10, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hexham Contest</name>
+  <contest id="2298">
+    <name>Hexham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hexham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1847">Gems of Modern Melody</test-piece>
+  </test-piece>
+
+  <venue id="1661">Hexham, Northumberland, England, UK</venue>
+  <notes>Prizes: £15, £10, £4 and 8 guinea instrument, £3 and 7 guinea instrument
+March contest: 1. . Consett Iron Works, 2. Haltwhistle Rifles
+10 bands competed</notes>
+
+  <created>Oct. 15, 2012, 5:38 p.m.</created>
+  <last-modified>July 22, 2019, 7:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119082">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="119083">
+      <result code="2">2</result>
+      <band id="7526">Haltwhistle Volunteer</band>
+      <conductor id="297323">F. Bailey</conductor>
+    </result>
+    
+    <result id="119084">
+      <result code="3">3</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="119085">
+      <result code="4">4</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="119086">
+      <result code="4">4</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="119087">
+      <result code="">Unknown Result</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="119088">
+      <result code="">Unknown Result</result>
+      <band id="9632">Edwards&#39; Shipyard</band>
+      <conductor id="297559">W. Barrow</conductor>
+    </result>
+    
+    <result id="119089">
+      <result code="">Unknown Result</result>
+      <band id="4850">Liddesdale Temperance</band>
+      <conductor id="299958">James Crozier</conductor>
+    </result>
+    
+    <result id="119090">
+      <result code="">Unknown Result</result>
+      <band id="7759">Mickley Temperance</band>
+      <conductor id="298626">T. Brown</conductor>
+    </result>
+    
+    <result id="119091">
+      <result code="">Unknown Result</result>
+      <band id="9614">South Derwent Junior</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="11907">
+  <event-date date="1893-8-19">Aug. 19, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northwich Contest</name>
+  <contest id="2416">
+    <name>Northwich Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northwich-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3214">Drill Field, Northwich</venue>
+  <notes>15 bands competed
+
+Promoted by the Verdin Adelaide Band</notes>
+
+  <created>April 8, 2012, 12:19 p.m.</created>
+  <last-modified>March 11, 2013, 9:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96040">
+      <result code="1">1</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="96041">
+      <result code="2">2</result>
+      <band id="7593">Onward Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="96042">
+      <result code="3">3</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="96043">
+      <result code="4">4</result>
+      <band id="1650">Cadishead Band</band>
+      <conductor id="308177">J. Rider</conductor>
+    </result>
+    
+    <result id="96044">
+      <result code="5">5</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="313139">J. H. Harper</conductor>
+    </result>
+    
+  </results>
+</contest-event>

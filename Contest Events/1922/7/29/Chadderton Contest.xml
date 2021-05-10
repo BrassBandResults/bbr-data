@@ -1,0 +1,78 @@
+<contest-event id="23326">
+  <event-date date="1922-7-29">July 29, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chadderton Contest</name>
+  <contest id="2606">
+    <name>Chadderton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chadderton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1806">Classic Gems No 2</test-piece>
+  </test-piece>
+
+  <venue id="3920">Denton Lane Football Ground, Chadderton, Lancashire</venue>
+  <notes>Best soprano - W.Hillyard (Dobcross).
+  Best cornet - J.Platt (Dobcross).
+  Best trombone - J.Bradbury (Dobcross).
+  Best euphonium - A.S.Goddard (Milnrow).
+  Best horn - ? (Eccles).
+  March contest - 1st Oldham Postal, 2nd Dobcross.
+  7 bands competed.</notes>
+
+  <created>Aug. 31, 2013, 7:47 a.m.</created>
+  <last-modified>Jan. 18, 2021, 4:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171443">
+      <result code="1">1</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="171442">
+      <result code="2">2</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="300519">James Dow</conductor>
+    </result>
+    
+    <result id="171444">
+      <result code="3">3</result>
+      <band id="2757">Milnrow Public Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="171445">
+      <result code="4">4</result>
+      <band id="3306">Royton</band>
+      <conductor id="299692">Robert Cooper</conductor>
+    </result>
+    
+    <result id="171448">
+      <result code="5">5</result>
+      <band id="1872">Oldham RBL Concert Band</band>
+      <conductor id="317741">Joseph Hampson</conductor>
+    </result>
+    
+    <result id="171447">
+      <result code="6">6</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="300727">Walter Eastwood</conductor>
+    </result>
+    
+    <result id="171446">
+      <result code="7">7</result>
+      <band id="2627">Waterhead</band>
+      <conductor id="303489">F. Howarth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

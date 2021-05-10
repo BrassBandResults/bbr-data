@@ -1,0 +1,53 @@
+<contest-event id="6909">
+  <event-date date="1866-7-3">July 3, 1866<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aston Contest</name>
+  <contest id="1173">
+    <name>Aston Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>aston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="677">Aston Park, Birmingham</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+
+Only 3 bands entered. Now run as a temperance contest.
+
+Prizes: £10, £5, £3</notes>
+
+  <created>July 20, 2011, 3:40 p.m.</created>
+  <last-modified>June 3, 2012, 10:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="61374">
+      <result code="1">1</result>
+      <band id="5979">Greatbridge Havelock Temperance Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61375">
+      <result code="2">2</result>
+      <band id="5081">Spring Hill Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="61376">
+      <result code="3">3</result>
+      <band id="5082">Birmingham Saxhorn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="24767">
+  <event-date date="1931-8-22">Aug. 22, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Griff Colliery Contest</name>
+  <contest id="4818">
+    <name>Griff Colliery Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>griff-colliery-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4187">Griff Colliery, Nuneaton, Warwickshire</venue>
+  <notes>Prizes - 1st £8 and cup, 2nd £4, 3rd £2, 4th £1.
+  March contest - 1st Coventry, 2nd Woodgate.
+  5 bands competed.</notes>
+
+  <created>Oct. 29, 2013, 9:38 a.m.</created>
+  <last-modified>Dec. 16, 2018, 3:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181096">
+      <result code="1">1</result>
+      <band id="236">Staffordshire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181097">
+      <result code="2">2</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181098">
+      <result code="3">3</result>
+      <band id="5915">Coventry Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181099">
+      <result code="4">4</result>
+      <band id="8974">Elliott&#39;s Metal Co</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181100">
+      <result code="5">5</result>
+      <band id="4288">Nuneaton Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

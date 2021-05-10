@@ -1,0 +1,75 @@
+<contest-event id="17158">
+  <event-date date="1881-6-20">June 20, 1881<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Middlesbrough Contest</name>
+  <contest id="1184">
+    <name>Middlesbrough Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>middlesbrough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="693">Cricket Grounds, Linthorpe Road, Middlesbrough</venue>
+  <notes>Prizes: £25, £10, £4</notes>
+
+  <created>Dec. 18, 2012, 10:43 p.m.</created>
+  <last-modified>Dec. 18, 2012, 10:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130303">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2246">Le Prophete [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="130302">
+      <result code="2">2</result>
+      <band id="6099">Blair and Co. (Stockton)</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="130304">
+      <result code="3">3</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+      <test-piece id="2195">Reminiscences of Donizetti [arr. Smith]</test-piece>
+    </result>
+    
+    <result id="130306">
+      <result code="W">Withdrawn</result>
+      <band id="5906">1st Durham Rifle Volunteer (Stockton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130308">
+      <result code="W">Withdrawn</result>
+      <band id="6096">Thornaby Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130307">
+      <result code="W">Withdrawn</result>
+      <band id="6125">Woodlands Colliery [Durham]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130305">
+      <result code="W">Withdrawn</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

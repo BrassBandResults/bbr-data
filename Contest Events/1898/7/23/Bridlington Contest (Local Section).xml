@@ -1,0 +1,55 @@
+<contest-event id="13590">
+  <event-date date="1898-7-23">July 23, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridlington Contest (Local Section)</name>
+  <contest id="2806">
+    <name>Bridlington Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bridlington-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1847">Gems of Modern Melody</test-piece>
+  </test-piece>
+
+  <venue id="2467">The Spa, Bridlington, East Yorkshire</venue>
+  <notes>Prizes: £8, £5, £3
+4 bands competed</notes>
+
+  <created>May 28, 2012, 8:46 p.m.</created>
+  <last-modified>July 18, 2019, 11:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107683">
+      <result code="1">1</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="107684">
+      <result code="2">2</result>
+      <band id="6801">Scarborough Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107685">
+      <result code="3">3</result>
+      <band id="3664">Scarborough Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107686">
+      <result code="">Unknown Result</result>
+      <band id="6615">East Hull</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

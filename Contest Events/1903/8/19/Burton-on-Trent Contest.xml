@@ -1,0 +1,66 @@
+<contest-event id="35775">
+  <event-date date="1903-8-19">Aug. 19, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burton-on-Trent Contest</name>
+  <contest id="1892">
+    <name>Burton-on-Trent Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>burton-on-trent-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6236">Castle Bladon, Burton-on-Trent</venue>
+  <notes>Swadlincote given 1st prize but later disqualified.</notes>
+
+  <created>July 26, 2016, 3:10 p.m.</created>
+  <last-modified>Aug. 16, 2018, 9:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259725">
+      <result code="1">1</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="259726">
+      <result code="2">2</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="299817">W. Cowley</conductor>
+    </result>
+    
+    <result id="259727">
+      <result code="3">3</result>
+      <band id="14076">Newhall Y.M.F.S.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259728">
+      <result code="4">4</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+    </result>
+    
+    <result id="259729">
+      <result code="5">5</result>
+      <band id="14084">Stapenhill Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="259730">
+      <result code="D">Disqualified</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
