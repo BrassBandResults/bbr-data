@@ -1,4 +1,4 @@
-<contest-event id="44507">
+<contest-event id="8241">
   <event-date date="1916-1-1">Jan. 1, 1916<event-date>
   <event-date-resolution>D</event-date-resolution>
   <name>Maryborough Contest (C Grade Street March)</name>
@@ -13,24 +13,53 @@
     
     
   </contest>
-  <contest-type-override id="4">March Contest</contest-type-override>
+  
   <test-piece>
     
   </test-piece>
 
   <venue id="936">Maryborough, Queensland, Australia</venue>
   <notes>Judged on music only
-DRUM MAJORS
-Band 
-1.  W.J. Maslin
+Drum Majors
+Band
+1.   W.J. Muslin
 2.   A. Phillips
 3.   T. Kelly
-4.   B. Clarke</notes>
+4.   B. Clarke
+</notes>
 
-  <created>May 4, 2021, 5:13 a.m.</created>
-  <last-modified>May 4, 2021, 10:43 p.m.</last-modified>
+  <created>Nov. 10, 2011, 3:39 p.m.</created>
+  <last-modified>May 21, 2021, 12:52 a.m.</last-modified>
 
   <results>
+    
+    <result id="325647">
+      <result code="1">1</result>
+      <band id="5777">Childers Town Band</band>
+      <conductor id="310603">Charles Trussell</conductor>
+      <test-piece id="6536">March: Comrades All</test-piece>
+    </result>
+    
+    <result id="74007">
+      <result code="2">2</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="307439">A. H. Phillips</conductor>
+      <test-piece id="5790">March: Artillery</test-piece>
+    </result>
+    
+    <result id="74008">
+      <result code="3">3</result>
+      <band id="5767">Apple Tree Creek Citizens Brass Band</band>
+      <conductor id="320705">A. C Andersen</conductor>
+      <test-piece id="1416">March: Victoria</test-piece>
+    </result>
+    
+    <result id="74009">
+      <result code="4">4</result>
+      <band id="2316">Gladstone Municipal Band</band>
+      <conductor id="311195">Fred Webb</conductor>
+      <test-piece id="3116">March: Invercargill</test-piece>
+    </result>
     
   </results>
 </contest-event>
