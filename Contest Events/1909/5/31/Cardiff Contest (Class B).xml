@@ -1,0 +1,49 @@
+<contest-event id="15774">
+  <event-date date="1909-5-31">May 31, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cardiff Contest (Class B)</name>
+  <contest id="3400">
+    <name>Cardiff Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cardiff-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2886">Gems of Mozart [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="260">Sophia Gardens, Cardiff, Cardiff County, Wales, UK</venue>
+  <notes>
+  Prizes  1st £12, 2nd £5, 3rd £3.</notes>
+
+  <created>Nov. 2, 2012, 12:44 p.m.</created>
+  <last-modified>Feb. 14, 2014, 1:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="121712">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="121713">
+      <result code="2">2</result>
+      <band id="6350">Tonypandy Hibernia</band>
+      <conductor id="310274">G. H. Thomas</conductor>
+    </result>
+    
+    <result id="121714">
+      <result code="3">3</result>
+      <band id="9832">Aber Valley Silver</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

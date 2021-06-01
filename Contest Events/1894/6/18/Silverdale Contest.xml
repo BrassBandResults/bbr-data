@@ -1,0 +1,62 @@
+<contest-event id="12118">
+  <event-date date="1894-6-18">June 18, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Silverdale Contest</name>
+  <contest id="2466">
+    <name>Silverdale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>silverdale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="1816">Silverdale</venue>
+  <notes>5 bands competed
+ 2nd/3rd prizes shared
+Prizes: £12, £7, £3</notes>
+
+  <created>April 9, 2012, 1:41 p.m.</created>
+  <last-modified>June 12, 2019, 9:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="97293">
+      <result code="1">1</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="97294">
+      <result code="2">2</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="97295">
+      <result code="2">2</result>
+      <band id="4092">Rist&#39;s Cable Works</band>
+      <conductor id="305068">Joseph Lewis</conductor>
+    </result>
+    
+    <result id="309799">
+      <result code="">Unknown Result</result>
+      <band id="3580">Burslem Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309800">
+      <result code="">Unknown Result</result>
+      <band id="6654">Leek Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

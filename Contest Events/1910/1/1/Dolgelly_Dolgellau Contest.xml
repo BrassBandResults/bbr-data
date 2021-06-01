@@ -1,0 +1,43 @@
+<contest-event id="39749">
+  <event-date date="1910-1-1">Jan. 1, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgelly/Dolgellau Contest</name>
+  <contest id="1779">
+    <name>Dolgelly/Dolgellau Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1280">A Continental Tour</test-piece>
+  </test-piece>
+
+  <venue id="1253">Dolgellau, Gwynedd, Wales, UK</venue>
+  <notes>Prizes - 1st £12, 2nd £3.
+March - 1st Birkenhead Borough.</notes>
+
+  <created>May 29, 2018, 8:41 a.m.</created>
+  <last-modified>May 29, 2018, 8:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="288437">
+      <result code="1">1</result>
+      <band id="2685">Birkenhead Borough</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="288438">
+      <result code="2">2</result>
+      <band id="7279">Dolgelly</band>
+      <conductor id="318012">W. Irven</conductor>
+    </result>
+    
+  </results>
+</contest-event>

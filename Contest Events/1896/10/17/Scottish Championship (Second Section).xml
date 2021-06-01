@@ -1,0 +1,119 @@
+<contest-event id="2550">
+  <event-date date="1896-10-17">Oct. 17, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Second Section)</name>
+  <contest id="63">
+    <name>Scottish Championship (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1676">Macbeth [Locke arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="259">Waverley Market, Edinburgh</venue>
+  <notes>2nd annual contest
+Sources:
+The Dundee Courier &amp; Argus (Dundee, Scotland), Monday, October 19, 1896; pg. 4; Issue 13512.
+The Dundee Courier &amp; Argus (Dundee, Scotland), Friday, August 12, 1898; pg. 6; Issue 14080.
+
+The disqualification of Dunfermline is not listed in the earlier source, leading to a discrepancy in the final placings.</notes>
+
+  <created>Sept. 13, 2010, 8:51 a.m.</created>
+  <last-modified>Oct. 18, 2016, 8:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="26898">
+      <result code="1">1</result>
+      <band id="1989">Crossgates</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="26899">
+      <result code="2">2</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="26900">
+      <result code="3">3</result>
+      <band id="1057">Brechin City</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="26901">
+      <result code="4">4</result>
+      <band id="4531">Carron Iron Works</band>
+      <conductor id="305419">Frank MacDonald</conductor>
+    </result>
+    
+    <result id="26902">
+      <result code="4">4</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="26903">
+      <result code="6">6</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="26904">
+      <result code="7">7</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="298610">John Brown</conductor>
+    </result>
+    
+    <result id="26907">
+      <result code="8">8</result>
+      <band id="1994">Kilsyth Public</band>
+      <conductor id="311924">Charles Woodcock</conductor>
+    </result>
+    
+    <result id="26909">
+      <result code="9">9</result>
+      <band id="1996">Wright Memorial</band>
+      <conductor id="312023">John Wotherspoon</conductor>
+    </result>
+    
+    <result id="26905">
+      <result code="10">10</result>
+      <band id="1998">Longriggend Temperance</band>
+      <conductor id="306027">Frank Mellor</conductor>
+    </result>
+    
+    <result id="26906">
+      <result code="11">11</result>
+      <band id="1992">Laurieston</band>
+      <conductor id="300571">W. Drummond</conductor>
+    </result>
+    
+    <result id="26908">
+      <result code="12">12</result>
+      <band id="2057">Alva Town</band>
+      <conductor id="318693">R. Hastie</conductor>
+    </result>
+    
+    <result id="87133">
+      <result code="D">Disqualified</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="311153">William Watson</conductor>
+    </result>
+    
+    <result id="87134">
+      <result code="W">Withdrawn</result>
+      <band id="5224">Newhaven</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

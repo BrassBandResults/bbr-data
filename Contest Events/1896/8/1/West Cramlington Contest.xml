@@ -1,0 +1,52 @@
+<contest-event id="13016">
+  <event-date date="1896-8-1">Aug. 1, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Cramlington Contest</name>
+  <contest id="2730">
+    <name>West Cramlington Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>west-cramlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2085">West Cramlington, Northumberland</venue>
+  <notes>Euphonium medal: Burradon.
+3 bands competed.</notes>
+
+  <created>April 29, 2012, 9:16 p.m.</created>
+  <last-modified>May 10, 2018, 6:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="103648">
+      <result code="1">1</result>
+      <band id="8224">East Cramlington</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="5328">March: Le Grandier</test-piece>
+    </result>
+    
+    <result id="103649">
+      <result code="">Unknown Result</result>
+      <band id="6197">Burradon</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="5569">March: Giogoso</test-piece>
+    </result>
+    
+    <result id="103650">
+      <result code="">Unknown Result</result>
+      <band id="8225">Dudley [Northumberland]</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="5570">March: Jolly Briton</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

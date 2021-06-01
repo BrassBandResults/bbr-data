@@ -1,0 +1,43 @@
+<contest-event id="40120">
+  <event-date date="1903-1-1">Jan. 1, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgelly/Dolgellau Contest</name>
+  <contest id="1779">
+    <name>Dolgelly/Dolgellau Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2815">Euryanthe [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1253">Dolgellau, Gwynedd, Wales, UK</venue>
+  <notes>Prize - £20.
+2 bands competed.</notes>
+
+  <created>July 22, 2018, 12:46 p.m.</created>
+  <last-modified>July 22, 2018, 12:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291684">
+      <result code="1">1</result>
+      <band id="14240">Ffestiniog Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291685">
+      <result code="2">2</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

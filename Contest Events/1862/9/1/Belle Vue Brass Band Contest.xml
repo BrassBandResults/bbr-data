@@ -1,0 +1,79 @@
+<contest-event id="5336">
+  <event-date date="1862-9-1">Sept. 1, 1862<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belle Vue Brass Band Contest</name>
+  <contest id="6">
+    <name>British Open</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>british-open</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="917">La Muette de Portici (Masaniello) [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
+  <notes>&#39;Own Choice&#39; and Muette de Portici (Masaniello), Auber
+Prizes: 1st: £30 2nd: £15 3rd: £8 4th: £4.10 5th: £2.10 </notes>
+
+  <created>April 12, 2011, 9:52 p.m.</created>
+  <last-modified>Oct. 26, 2014, 10:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="45977">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301623">Frank Galloway</conductor>
+    </result>
+    
+    <result id="45978">
+      <result code="2">2</result>
+      <band id="2511">Dewsbury Band</band>
+      <conductor id="307325">John Peel</conductor>
+    </result>
+    
+    <result id="45979">
+      <result code="3">3</result>
+      <band id="2509">Chesterfield Rifle Corps Band</band>
+      <conductor id="310582">Thomas Tallis Trimnell</conductor>
+    </result>
+    
+    <result id="45980">
+      <result code="4">4</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="45981">
+      <result code="5">5</result>
+      <band id="2792">Compstall Band</band>
+      <conductor id="310699">Henry Tymm</conductor>
+    </result>
+    
+    <result id="45982">
+      <result code="">Unknown Result</result>
+      <band id="189">Delph Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="45984">
+      <result code="">Unknown Result</result>
+      <band id="1525">Wigan &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="45983">
+      <result code="">Unknown Result</result>
+      <band id="3487">Heckmondwike Albion</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+  </results>
+</contest-event>

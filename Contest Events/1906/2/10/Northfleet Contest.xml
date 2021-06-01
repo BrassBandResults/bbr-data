@@ -1,0 +1,63 @@
+<contest-event id="10519">
+  <event-date date="1906-2-10">Feb. 10, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northfleet Contest</name>
+  <contest id="2055">
+    <name>Northfleet Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northfleet-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1476">Northfleet, Kent</venue>
+  <notes>5 bands competed.
+
+The test piece was &quot;La Juive&quot; by Halevy.
+I found this on p2 of Gravesend Reporter, North Kent and South Essex Advertiser - Saturday 17 February 1906 via the https://www.britishnewspaperarchive.co.uk/ web site.</notes>
+
+  <created>Feb. 21, 2012, 1:17 p.m.</created>
+  <last-modified>April 5, 2020, 11:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="88399">
+      <result code="1">1</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="88400">
+      <result code="2">2</result>
+      <band id="1686">Enfield Band</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="88401">
+      <result code="3">3</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="302079">F. B. Gray</conductor>
+    </result>
+    
+    <result id="88402">
+      <result code="4">4</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="310274">G. H. Thomas</conductor>
+    </result>
+    
+    <result id="88403">
+      <result code="5">5</result>
+      <band id="4527">Willesden</band>
+      <conductor id="298904">John O. Caborn</conductor>
+    </result>
+    
+  </results>
+</contest-event>

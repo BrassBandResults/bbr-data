@@ -1,0 +1,44 @@
+<contest-event id="39192">
+  <event-date date="1868-9-22">Sept. 22, 1868<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridgnorth Contest</name>
+  <contest id="2370">
+    <name>Bridgnorth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bridgnorth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6812">High Street, Bridgnorth, Shropshire</venue>
+  <notes>2 bands competed</notes>
+
+  <created>Feb. 20, 2018, 10:42 a.m.</created>
+  <last-modified>Feb. 20, 2018, 10:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="284827">
+      <result code="1">1</result>
+      <band id="7203">Bridgnorth Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="5487">Martha (arr. Winterbottom)</test-piece>
+    </result>
+    
+    <result id="284826">
+      <result code="2">2</result>
+      <band id="2984">Donnington Wood Silver</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2410">Lucrezia Borgia [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,75 @@
+<contest-event id="13419">
+  <event-date date="1898-4-11">April 11, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Helens Contest</name>
+  <contest id="2362">
+    <name>St. Helens Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1716">St. Helens, Merseyside, England, UK</venue>
+  <notes>Promoted by Sutton Road Prize Band
+Prizes: £7, £5, £3, £2, £1
+March contest: 1. Parr Temperance, 2. Widnes Subscription
+6 bands competed.</notes>
+
+  <created>May 12, 2012, 7:20 p.m.</created>
+  <last-modified>July 15, 2019, 8:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106382">
+      <result code="1">1</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1956">Bed of Roses</test-piece>
+    </result>
+    
+    <result id="106383">
+      <result code="2">2</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+      <test-piece id="1956">Bed of Roses</test-piece>
+    </result>
+    
+    <result id="106384">
+      <result code="3">3</result>
+      <band id="6995">Parr St Peter&#39;s</band>
+      <conductor id="309337">Christopher Smith</conductor>
+      <test-piece id="1956">Bed of Roses</test-piece>
+    </result>
+    
+    <result id="106386">
+      <result code="4">4</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="302452">William Halliwell</conductor>
+      <test-piece id="1956">Bed of Roses</test-piece>
+    </result>
+    
+    <result id="106385">
+      <result code="4">4</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+      <test-piece id="1956">Bed of Roses</test-piece>
+    </result>
+    
+    <result id="106387">
+      <result code="">Unknown Result</result>
+      <band id="6549">Warrington League of the Cross</band>
+      <conductor id="303758">Thomas Hynes</conductor>
+      <test-piece id="1957">Fairest of the Fair</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

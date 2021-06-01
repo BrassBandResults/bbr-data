@@ -1,0 +1,75 @@
+<contest-event id="11518">
+  <event-date date="1907-8-3">Aug. 3, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southampton Contest</name>
+  <contest id="2290">
+    <name>Southampton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southampton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1643">Gems of Irish Melody</test-piece>
+  </test-piece>
+
+  <venue id="1655">Southampton, Hampshire, England, UK</venue>
+  <notes>
+
+  1st prize £10.
+  2nd prize £5.
+  3rd prize £2.10s.
+  4th prize £1.
+
+  March contest 1st Bournemouth Postmen,  2nd Southampton Police.
+
+  6 bands competed.</notes>
+
+  <created>March 28, 2012, 5:17 p.m.</created>
+  <last-modified>March 28, 2012, 5:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94386">
+      <result code="1">1</result>
+      <band id="604">Chichester City Band</band>
+      <conductor id="298233">Robert Bottrill</conductor>
+    </result>
+    
+    <result id="94387">
+      <result code="2">2</result>
+      <band id="7246">Southampton Police</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="94388">
+      <result code="3">3</result>
+      <band id="7454">Bournemouth Postmen&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="94389">
+      <result code="4">4</result>
+      <band id="7297">London and South West Railway</band>
+      <conductor id="315244">W. Watson</conductor>
+    </result>
+    
+    <result id="94390">
+      <result code="">Unknown Result</result>
+      <band id="6707">Horsham Town</band>
+      <conductor id="311584">A. Williams</conductor>
+    </result>
+    
+    <result id="94391">
+      <result code="">Unknown Result</result>
+      <band id="7455">Southampton Postmen</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

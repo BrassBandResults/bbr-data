@@ -1,0 +1,90 @@
+<contest-event id="13192">
+  <event-date date="1897-5-15">May 15, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bo&#39;ness Contest (Second Class)</name>
+  <contest id="2086">
+    <name>Bo&#39;ness Contest (Second Class)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="245">Bo&#39;ness Contest</group>
+    <slug>bo-ness-contest-second-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6004">Macbeth</test-piece>
+  </test-piece>
+
+  <venue id="1379">Kinneil House, Bo&#39;ness, Scotland</venue>
+  <notes>Prizes: £15, £8, £5, £3</notes>
+
+  <created>May 4, 2012, 9:36 p.m.</created>
+  <last-modified>July 8, 2019, 12:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104796">
+      <result code="1">1</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="104797">
+      <result code="2">2</result>
+      <band id="1992">Laurieston</band>
+      <conductor id="300571">W. Drummond</conductor>
+    </result>
+    
+    <result id="104798">
+      <result code="3">3</result>
+      <band id="5475">Gorebridge and Arniston</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="104799">
+      <result code="4">4</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="150582">
+      <result code="">Unknown Result</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="150584">
+      <result code="">Unknown Result</result>
+      <band id="4531">Carron Iron Works</band>
+      <conductor id="305419">Frank MacDonald</conductor>
+    </result>
+    
+    <result id="150583">
+      <result code="">Unknown Result</result>
+      <band id="1226">Broxburn Silver</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="150586">
+      <result code="">Unknown Result</result>
+      <band id="1998">Longriggend Temperance</band>
+      <conductor id="306027">Frank Mellor</conductor>
+    </result>
+    
+    <result id="150587">
+      <result code="">Unknown Result</result>
+      <band id="5224">Newhaven</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="150585">
+      <result code="W">Withdrawn</result>
+      <band id="4976">Galashiels Rifle Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

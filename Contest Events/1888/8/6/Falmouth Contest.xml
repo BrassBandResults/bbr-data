@@ -1,0 +1,86 @@
+<contest-event id="12804">
+  <event-date date="1888-8-6">Aug. 6, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Falmouth Contest</name>
+  <contest id="2688">
+    <name>Falmouth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>falmouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1903">Sybil</test-piece>
+  </test-piece>
+
+  <venue id="1226">Pendennis Castle, Falmouth</venue>
+  <notes></notes>
+
+  <created>April 23, 2012, 1:13 p.m.</created>
+  <last-modified>Jan. 25, 2013, 7:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101734">
+      <result code="1">1</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="297042">John Andrews</conductor>
+      <test-piece id="1852">Pride of Wales</test-piece>
+    </result>
+    
+    <result id="101735">
+      <result code="2">2</result>
+      <band id="8076">Falmouth Rifle Volunteers</band>
+      <conductor id="302444">J. H. Hallett</conductor>
+      <test-piece id="538">I Lombardi</test-piece>
+    </result>
+    
+    <result id="101736">
+      <result code="3">3</result>
+      <band id="8077">Penryn Volunteers</band>
+      <conductor id="302159">J. Greenslade</conductor>
+      <test-piece id="2304">Golden Rose (Overture)</test-piece>
+    </result>
+    
+    <result id="101737">
+      <result code="4">4</result>
+      <band id="6487">7th Duke of Cornwall&#39;s Rifles (Helston)</band>
+      <conductor id="298076">H. Blight</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="101740">
+      <result code="">Unknown Result</result>
+      <band id="8079">Four Lanes Brass</band>
+      <conductor id="297564">A. Bartle</conductor>
+      <test-piece id="1359">Martha [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="101738">
+      <result code="">Unknown Result</result>
+      <band id="8078">Ponsanooth</band>
+      <conductor id="297986">J. H. Bishop</conductor>
+      <test-piece id="1628">Pastorella</test-piece>
+    </result>
+    
+    <result id="101741">
+      <result code="">Unknown Result</result>
+      <band id="6463">Stenalees Silver Band</band>
+      <conductor id="308121">J. T. Richards</conductor>
+      <test-piece id="2305">Merry Mountains</test-piece>
+    </result>
+    
+    <result id="101739">
+      <result code="">Unknown Result</result>
+      <band id="4496">Truro City</band>
+      <conductor id="307444">Harry Phillips</conductor>
+      <test-piece id="2172">Croix d&#39;Honneur</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

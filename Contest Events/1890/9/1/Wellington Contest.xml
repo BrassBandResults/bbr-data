@@ -1,0 +1,81 @@
+<contest-event id="36016">
+  <event-date date="1890-9-1">Sept. 1, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellington Contest</name>
+  <contest id="2532">
+    <name>Wellington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1579">Wellington, Shropshire</venue>
+  <notes>Prizes - 1st £9.92. and cornet, 2nd £6.6s. and trombone, 3rd £4.4s. and baton, 4th £3.3s. , 5th £2.2s.
+2nd annual contest promoted by St George&#39;s band.
+7 bands competed.</notes>
+
+  <created>Sept. 1, 2016, 1 p.m.</created>
+  <last-modified>Nov. 6, 2019, 9:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="264790">
+      <result code="1">1</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+    <result id="264785">
+      <result code="2">2</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310639">George Turner</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+    <result id="264787">
+      <result code="3">3</result>
+      <band id="7538">Wednesbury Temperance</band>
+      <conductor id="310289">J. W. Thomas</conductor>
+      <test-piece id="538">I Lombardi</test-piece>
+    </result>
+    
+    <result id="264786">
+      <result code="4">4</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="310128">Carl Taylor</conductor>
+      <test-piece id="538">I Lombardi</test-piece>
+    </result>
+    
+    <result id="264788">
+      <result code="4">4</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="2767">Romeo and Juliet [Bellini arr. Round]</test-piece>
+    </result>
+    
+    <result id="264784">
+      <result code="">Unknown Result</result>
+      <band id="11012">Newcastle Town</band>
+      <conductor id="305068">Joseph Lewis</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="264789">
+      <result code="">Unknown Result</result>
+      <band id="6507">Wellington Rifle Corps</band>
+      <conductor id="306155">R. Millington</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

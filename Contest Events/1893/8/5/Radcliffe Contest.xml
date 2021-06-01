@@ -1,0 +1,68 @@
+<contest-event id="11880">
+  <event-date date="1893-8-5">Aug. 5, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radcliffe Contest</name>
+  <contest id="1662">
+    <name>Radcliffe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>radcliffe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1275">Theodora</test-piece>
+  </test-piece>
+
+  <venue id="6919">Radcliffe, Lancashire</venue>
+  <notes>Promoted by the Radcliffe and Pilkington Band.
+Prizes - 1st £16.16s., 2nd £6, 3rd £4, 4th £2, 5th £1.
+14 bands competed</notes>
+
+  <created>April 8, 2012, 10:40 a.m.</created>
+  <last-modified>July 27, 2020, 3:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95942">
+      <result code="1">1</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="95943">
+      <result code="2">2</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+    <result id="95944">
+      <result code="3">3</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="95945">
+      <result code="4">4</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="95946">
+      <result code="5">5</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="96084">
+      <result code="">Unknown Result</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="24222">
+  <event-date date="1910-7-16">July 16, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bishop Auckland Contest</name>
+  <contest id="2144">
+    <name>Bishop Auckland Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="354">Bishop Auckland Contest</group>
+    <slug>bishop-auckland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4080">Bishop&#39;s Park, Bishop Auckland</venue>
+  <notes>March: 1. Old Skelton</notes>
+
+  <created>Oct. 2, 2013, 5:55 p.m.</created>
+  <last-modified>Oct. 2, 2013, 5:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="176714">
+      <result code="1">1</result>
+      <band id="5788">Evenwood Model</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="176715">
+      <result code="2">2</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+    <result id="176716">
+      <result code="3">3</result>
+      <band id="6663">Skelton Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176717">
+      <result code="4">4</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

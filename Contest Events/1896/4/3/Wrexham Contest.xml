@@ -1,0 +1,57 @@
+<contest-event id="12862">
+  <event-date date="1896-4-3">April 3, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wrexham Contest</name>
+  <contest id="1552">
+    <name>Wrexham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wrexham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1916">St. Paul [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1217">Powis Hall, Wrexham, Denbighshire, Wales, UK</venue>
+  <notes>Prize: £12 12s.
+
+March contest: 1.  Bradford
+</notes>
+
+  <created>April 27, 2012, 6:14 p.m.</created>
+  <last-modified>March 13, 2020, 4:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102202">
+      <result code="1">1</result>
+      <band id="6758">Tranmere Gleam</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="102204">
+      <result code="2">2</result>
+      <band id="7613">Wrexham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102203">
+      <result code="">Unknown Result</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102205">
+      <result code="">Unknown Result</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

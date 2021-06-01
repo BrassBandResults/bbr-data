@@ -1,0 +1,62 @@
+<contest-event id="13384">
+  <event-date date="1897-9-4">Sept. 4, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontardawe Contest</name>
+  <contest id="2752">
+    <name>Pontardawe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontardawe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1800">England</test-piece>
+  </test-piece>
+
+  <venue id="6880">Pontardawe, Glamorganshire</venue>
+  <notes>Prizes: £10, £4, £2
+March contest: 1. Gwaun-cae-Gurwen, 2.  Llansamlet
+5 bands competed</notes>
+
+  <created>May 11, 2012, 5:19 p.m.</created>
+  <last-modified>June 20, 2020, 1:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106132">
+      <result code="1">1</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="106133">
+      <result code="2">2</result>
+      <band id="7931">Llansamlet</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+    <result id="106134">
+      <result code="3">3</result>
+      <band id="7627">Abercanaid</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="106135">
+      <result code="">Unknown Result</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106136">
+      <result code="">Unknown Result</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

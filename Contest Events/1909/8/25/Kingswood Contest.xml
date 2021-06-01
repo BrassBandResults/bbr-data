@@ -1,0 +1,76 @@
+<contest-event id="15908">
+  <event-date date="1909-8-25">Aug. 25, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kingswood Contest</name>
+  <contest id="1998">
+    <name>Kingswood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kingswood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1900">Old Favourites</test-piece>
+  </test-piece>
+
+  <venue id="1430">Kingswood, Bristol</venue>
+  <notes>March contest 1st Bristol Imperial.
+Best cornet and trombone - Bristol Imperial.
+Best horn - Yorkley.
+Best euphonium - Bristol Temperance.
+7 bands competed.</notes>
+
+  <created>Nov. 7, 2012, 1:04 p.m.</created>
+  <last-modified>Oct. 20, 2020, 9:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122569">
+      <result code="1">1</result>
+      <band id="6570">Bristol Imperial</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="122570">
+      <result code="2">2</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="306359">Tom Morgan</conductor>
+    </result>
+    
+    <result id="122571">
+      <result code="3">3</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="122574">
+      <result code="">Unknown Result</result>
+      <band id="7462">Bristol Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122573">
+      <result code="">Unknown Result</result>
+      <band id="7190">Chippenham Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122575">
+      <result code="">Unknown Result</result>
+      <band id="9073">Kingswood Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122572">
+      <result code="">Unknown Result</result>
+      <band id="457">Ynyshir Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

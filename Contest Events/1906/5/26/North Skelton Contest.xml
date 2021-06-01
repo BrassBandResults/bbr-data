@@ -1,0 +1,55 @@
+<contest-event id="10640">
+  <event-date date="1906-5-26">May 26, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Skelton Contest</name>
+  <contest id="2078">
+    <name>North Skelton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>north-skelton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1279">Verdi [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1514">North Skelton, County Durham</venue>
+  <notes> March contest 1st North Skelton, 2nd Brotton Temperance, 3rd Skinningrove, 4th Lingdale.
+4 bands competed.</notes>
+
+  <created>Feb. 25, 2012, 1:22 p.m.</created>
+  <last-modified>Sept. 13, 2018, 10:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="89049">
+      <result code="1">1</result>
+      <band id="1637">Skinningrove Miners Prize Silver Band</band>
+      <conductor id="304904">William Layman</conductor>
+    </result>
+    
+    <result id="89050">
+      <result code="2">2</result>
+      <band id="937">Lingdale Silver Band</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="89051">
+      <result code="3">3</result>
+      <band id="6629">Brotton Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="89052">
+      <result code="4">4</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="304153">A. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

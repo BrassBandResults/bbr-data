@@ -1,0 +1,71 @@
+<contest-event id="7771">
+  <event-date date="1896-6-27">June 27, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scarborough Contest</name>
+  <contest id="1159">
+    <name>Scarborough Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="195">Scarborough Contest</group>
+    <slug>scarborough-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3077">North Side Cricket Ground, Scarborough</venue>
+  <notes>Prizes: £20, £15, £10, £5
+
+Quickstep: 1. Hartlepool, 2. Falsgrave
+
+Local contest: 1. Scarborough Rifles, 2. Falsgrave
+</notes>
+
+  <created>Oct. 19, 2011, 6:54 p.m.</created>
+  <last-modified>March 31, 2013, 3:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103436">
+      <result code="1">1</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103437">
+      <result code="2">2</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="314455">
+      <result code="3">3</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="103438">
+      <result code="4">4</result>
+      <band id="3664">Scarborough Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103440">
+      <result code="">Unknown Result</result>
+      <band id="5865">Churwell (Leeds) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103439">
+      <result code="">Unknown Result</result>
+      <band id="6462">Falsgrave (Scarborough)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

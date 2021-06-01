@@ -1,0 +1,64 @@
+<contest-event id="19565">
+  <event-date date="1894-12-26">Dec. 26, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest</name>
+  <contest id="1568">
+    <name>Rhyl Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1670">Gems of Cambria</test-piece>
+  </test-piece>
+
+  <venue id="3309">Grand Pavilion, Rhyl, Flintshire, Wales, UK</venue>
+  <notes>1st prize: £6 6s
+
+March competition: 1st Penrhynside (winning £1 1s)
+
+</notes>
+
+  <created>March 23, 2013, 4:47 p.m.</created>
+  <last-modified>June 15, 2019, 9:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="146608">
+      <result code="1">1</result>
+      <band id="6547">Old Colwyn</band>
+      <conductor id="304201">Edwin Jones</conductor>
+    </result>
+    
+    <result id="309971">
+      <result code="">Unknown Result</result>
+      <band id="13236">Aberconway School</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264554">
+      <result code="">Unknown Result</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264555">
+      <result code="">Unknown Result</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="264556">
+      <result code="">Unknown Result</result>
+      <band id="7841">Penrhyn Side</band>
+      <conductor id="319333">D. Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

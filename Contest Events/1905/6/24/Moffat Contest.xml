@@ -1,0 +1,74 @@
+<contest-event id="10226">
+  <event-date date="1905-6-24">June 24, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Moffat Contest</name>
+  <contest id="1890">
+    <name>Moffat Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>moffat-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1079">Rob Roy</test-piece>
+  </test-piece>
+
+  <venue id="1337">Moffat, Dumfriesshire</venue>
+  <notes>1st prize £20, 2nd prize £10, 3rd prize £5, 4th prize £2.10s.
+March contest 1st Broxburn Public, 2nd Polton Mills.
+7 bands competed.</notes>
+
+  <created>Feb. 12, 2012, 6:15 p.m.</created>
+  <last-modified>Sept. 5, 2018, 9:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="86484">
+      <result code="1">1</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="86485">
+      <result code="2">2</result>
+      <band id="4533">Polton Mills</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="86486">
+      <result code="3">3</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="86487">
+      <result code="4">4</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="86488">
+      <result code="">Unknown Result</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="86490">
+      <result code="">Unknown Result</result>
+      <band id="658">Dumfries Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="86489">
+      <result code="">Unknown Result</result>
+      <band id="1270">Newmains</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

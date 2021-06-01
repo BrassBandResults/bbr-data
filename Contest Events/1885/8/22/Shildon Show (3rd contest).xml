@@ -1,0 +1,79 @@
+<contest-event id="9225">
+  <event-date date="1885-8-22">Aug. 22, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shildon Show (3rd contest)</name>
+  <contest id="1643">
+    <name>Shildon Show (3rd contest)</name>
+    <order>30</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="196">Shildon Show</group>
+    <slug>shildon-show-3rd-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="976">Vicarage Grounds, Shildon</venue>
+  <notes>Third of three contests during the show.
+Prizes - 1st £10, 2nd £8, 3rd £5.</notes>
+
+  <created>Dec. 29, 2011, 11:59 a.m.</created>
+  <last-modified>May 7, 2019, 1:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="79947">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="79948">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="79949">
+      <result code="3">3</result>
+      <band id="3745">3rd L.A.V. (Chorley)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="79952">
+      <result code="">Unknown Result</result>
+      <band id="6198">Annfield Plain</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="79954">
+      <result code="">Unknown Result</result>
+      <band id="6215">Darlington Sons of Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="79953">
+      <result code="">Unknown Result</result>
+      <band id="1637">Skinningrove Miners Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="79951">
+      <result code="">Unknown Result</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+    <result id="79950">
+      <result code="">Unknown Result</result>
+      <band id="6125">Woodlands Colliery [Durham]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

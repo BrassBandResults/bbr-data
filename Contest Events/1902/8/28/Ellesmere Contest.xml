@@ -1,0 +1,56 @@
+<contest-event id="37689">
+  <event-date date="1902-8-28">Aug. 28, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ellesmere Contest</name>
+  <contest id="6037">
+    <name>Ellesmere Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ellesmere-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1801">Songs of Other Days</test-piece>
+  </test-piece>
+
+  <venue id="6477">Cremorne Gardens, Ellesmere</venue>
+  <notes>4 bands competed
+
+March: 1. Oak Alyn, 2. Brymbo, 3. Elworth</notes>
+
+  <created>March 31, 2017, 7:42 p.m.</created>
+  <last-modified>July 11, 2018, 2:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="272723">
+      <result code="1">1</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="272726">
+      <result code="2">2</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="272724">
+      <result code="3">3</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="314394">T. Valentine</conductor>
+    </result>
+    
+    <result id="272725">
+      <result code="D">Disqualified</result>
+      <band id="17241">Brymbo C.T.E.S.</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

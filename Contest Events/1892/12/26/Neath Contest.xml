@@ -1,0 +1,62 @@
+<contest-event id="9327">
+  <event-date date="1892-12-26">Dec. 26, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Neath Contest</name>
+  <contest id="1672">
+    <name>Neath Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>neath-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1574">Mozart [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2002">Neath, Neath Port Talbot, Wales, UK</venue>
+  <notes>7 bands entered, 5 competed
+
+Prizes: £18, £9, £5</notes>
+
+  <created>Jan. 1, 2012, 4:31 p.m.</created>
+  <last-modified>June 4, 2019, 1:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80497">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="80498">
+      <result code="2">2</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+    <result id="80499">
+      <result code="3">3</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="262170">
+      <result code="">Unknown Result</result>
+      <band id="14342">Abercanaid Rechabite</band>
+      <conductor id="304272">Robert Jones</conductor>
+    </result>
+    
+    <result id="262171">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

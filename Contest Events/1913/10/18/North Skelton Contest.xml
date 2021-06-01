@@ -1,0 +1,49 @@
+<contest-event id="22271">
+  <event-date date="1913-10-18">Oct. 18, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Skelton Contest</name>
+  <contest id="2078">
+    <name>North Skelton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>north-skelton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1514">North Skelton, County Durham</venue>
+  <notes>  March contest - 1st North Skelton (78), 2nd joint between Skinningrove and Lingdate (55).
+  3 bands competed.</notes>
+
+  <created>July 17, 2013, 3:50 p.m.</created>
+  <last-modified>July 18, 2013, 7:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="165477">
+      <result code="1">1</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="303686">Thomas Hunter</conductor>
+    </result>
+    
+    <result id="165478">
+      <result code="2">2</result>
+      <band id="10707">Skinningrove Iron &amp; Steel Works</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="165479">
+      <result code="3">3</result>
+      <band id="937">Lingdale Silver Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

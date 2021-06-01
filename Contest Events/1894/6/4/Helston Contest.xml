@@ -1,0 +1,65 @@
+<contest-event id="12026">
+  <event-date date="1894-6-4">June 4, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Helston Contest</name>
+  <contest id="2451">
+    <name>Helston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>helston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="3233">Penhellis, Helston</venue>
+  <notes>Prizes: £12, £8, £5, £3, £2</notes>
+
+  <created>April 8, 2012, 10:09 p.m.</created>
+  <last-modified>March 14, 2013, 4:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96632">
+      <result code="1">1</result>
+      <band id="7632">Hayle Artillery</band>
+      <conductor id="310555">E. Trebilcock</conductor>
+      <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+    </result>
+    
+    <result id="96633">
+      <result code="2">2</result>
+      <band id="6525">Duke of Cornwall&#39;s Artillery (St Just) Band</band>
+      <conductor id="311677">W. Williams</conductor>
+      <test-piece id="1851">Rival</test-piece>
+    </result>
+    
+    <result id="96634">
+      <result code="3">3</result>
+      <band id="10381">Illogan Reed and Brass</band>
+      <conductor id="307033">Harry Oxland</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="96635">
+      <result code="4">4</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="297042">John Andrews</conductor>
+      <test-piece id="1852">Pride of Wales</test-piece>
+    </result>
+    
+    <result id="96636">
+      <result code="5">5</result>
+      <band id="6463">Stenalees Silver Band</band>
+      <conductor id="308115">F. Richards</conductor>
+      <test-piece id="1590">Trafalgar</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

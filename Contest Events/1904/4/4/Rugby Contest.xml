@@ -1,0 +1,80 @@
+<contest-event id="23274">
+  <event-date date="1904-4-4">April 4, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rugby Contest</name>
+  <contest id="1797">
+    <name>Rugby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rugby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1503">Rugby, Warwickshire</venue>
+  <notes>Promoted by Rugby Steam Shed Band.
+8 bands competed
+</notes>
+
+  <created>Aug. 25, 2013, 9:17 p.m.</created>
+  <last-modified>Aug. 22, 2018, 9:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171123">
+      <result code="1">1</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="197590">
+      <result code="2">2</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="197594">
+      <result code="3">3</result>
+      <band id="6587">Leicester Excelsior</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="197593">
+      <result code="4">4</result>
+      <band id="8340">Tipton and Princes End</band>
+      <conductor id="309324">C. Smith</conductor>
+    </result>
+    
+    <result id="197595">
+      <result code="4">4</result>
+      <band id="6352">Rothwell Rifles</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="197589">
+      <result code="">Unknown Result</result>
+      <band id="7928">Higham Ferrers Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="197591">
+      <result code="">Unknown Result</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="309324">C. Smith</conductor>
+    </result>
+    
+    <result id="197592">
+      <result code="">Unknown Result</result>
+      <band id="3302">Hugglescote &amp; Ellistown</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

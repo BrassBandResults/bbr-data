@@ -1,0 +1,98 @@
+<contest-event id="22982">
+  <event-date date="1901-8-24">Aug. 24, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abthorpe Contest</name>
+  <contest id="2637">
+    <name>Abthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="3757">Vicarage Grounds, Abthorpe, Northamptonshire, England, UK</venue>
+  <notes>Prizes - 1st £7, 2nd £3, 3rd £1.10s.
+March contest: 1(£1). Astcote, 2(10s.). Kettering Victoria &amp; Daventry divided
+3rd annual contest</notes>
+
+  <created>Aug. 16, 2013, 10:55 a.m.</created>
+  <last-modified>June 21, 2018, 10:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="169400">
+      <result code="1">1</result>
+      <band id="6744">Kettering Victoria Mission</band>
+      <conductor id="300705">Warren East</conductor>
+    </result>
+    
+    <result id="169399">
+      <result code="2">2</result>
+      <band id="7227">Astcote United</band>
+      <conductor id="315319">W. Trusell</conductor>
+    </result>
+    
+    <result id="169402">
+      <result code="3">3</result>
+      <band id="7160">Yardley Gobion</band>
+      <conductor id="304759">Joseph R. Lambert</conductor>
+    </result>
+    
+    <result id="169392">
+      <result code="">Unknown Result</result>
+      <band id="3324">Rugby Steam Shed</band>
+      <conductor id="297698">James Bedford</conductor>
+    </result>
+    
+    <result id="169398">
+      <result code="">Unknown Result</result>
+      <band id="11369">Daventry Town Band</band>
+      <conductor id="318133">W. Upton</conductor>
+    </result>
+    
+    <result id="169393">
+      <result code="">Unknown Result</result>
+      <band id="5911">Rugby Town</band>
+      <conductor id="301244">J. Finch</conductor>
+    </result>
+    
+    <result id="169397">
+      <result code="">Unknown Result</result>
+      <band id="10467">Brackley Town</band>
+      <conductor id="298029">H. Blackwell</conductor>
+    </result>
+    
+    <result id="169394">
+      <result code="">Unknown Result</result>
+      <band id="2693">Bournville Silver</band>
+      <conductor id="305288">J. Loughton</conductor>
+    </result>
+    
+    <result id="169396">
+      <result code="">Unknown Result</result>
+      <band id="7977">Abthorpe</band>
+      <conductor id="306101">W. Middleton</conductor>
+    </result>
+    
+    <result id="169401">
+      <result code="W">Withdrawn</result>
+      <band id="6331">Chesham Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169395">
+      <result code="W">Withdrawn</result>
+      <band id="7975">Silverstone Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

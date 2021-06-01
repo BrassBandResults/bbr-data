@@ -1,0 +1,49 @@
+<contest-event id="10277">
+  <event-date date="1905-7-18">July 18, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Syston Contest</name>
+  <contest id="1924">
+    <name>Syston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>syston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="913">Stradella - overture [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1362">Syston, Leicestershire, England, UK</venue>
+  <notes>1st prize £10, 2nd prize £5, 3rd prize £2.
+3 bands competed</notes>
+
+  <created>Feb. 13, 2012, 3:40 p.m.</created>
+  <last-modified>Sept. 7, 2018, 9:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="86797">
+      <result code="1">1</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="86798">
+      <result code="2">2</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="297238">T. Attewell</conductor>
+    </result>
+    
+    <result id="86799">
+      <result code="3">3</result>
+      <band id="6766">Syston and Thurmaston</band>
+      <conductor id="318147">S. Brown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

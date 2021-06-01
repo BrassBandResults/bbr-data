@@ -1,0 +1,86 @@
+<contest-event id="13798">
+  <event-date date="1891-7-10">July 10, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aylesbury Contest</name>
+  <contest id="1978">
+    <name>Aylesbury Contest [before WW1]</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="276">Aylesbury Contest [before WW1]</group>
+    <slug>aylesbury-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2286">Hazell&#39;s Social &amp; Sport Club Ground, Aylesbury, Buckinghamshire, England, UK</venue>
+  <notes>Reported in British Bandsman &amp; Orchestral Times, September 1891
+Prizes: £20, £12, £7, £5
+9 bands entered, 6 competed</notes>
+
+  <created>June 16, 2012, 4:20 p.m.</created>
+  <last-modified>Nov. 9, 2019, 1:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="110167">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="308951">Harry Sharpe</conductor>
+    </result>
+    
+    <result id="110168">
+      <result code="2">2</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308418">R. Rogers</conductor>
+    </result>
+    
+    <result id="110169">
+      <result code="3">3</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="110170">
+      <result code="4">4</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="110171">
+      <result code="">Unknown Result</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135816">
+      <result code="">Unknown Result</result>
+      <band id="819">Luton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260865">
+      <result code="W">Withdrawn</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260863">
+      <result code="W">Withdrawn</result>
+      <band id="11838">Leighton Buzzard Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260864">
+      <result code="W">Withdrawn</result>
+      <band id="7535">Rothwell Town [Northamptonshire]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,70 @@
+<contest-event id="35767">
+  <event-date date="1903-7-18">July 18, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tipton Contest</name>
+  <contest id="4501">
+    <name>Tipton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tipton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="3864">Victoria Park, Tipton</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £5, 3rd £2.
+March contest - 1st(£1) Princes Ends, 2nd(10s.) Coseley.
+4 bands competed.
+
+</notes>
+
+  <created>July 25, 2016, 7:43 p.m.</created>
+  <last-modified>May 11, 2020, 3:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259633">
+      <result code="1">1</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="259634">
+      <result code="2">2</result>
+      <band id="4429">Coseley</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="259635">
+      <result code="3">3</result>
+      <band id="7905">St Mary&#39;s (Aston Brook)</band>
+      <conductor id="308525">W. F. Rowe</conductor>
+    </result>
+    
+    <result id="291761">
+      <result code="4">4</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291763">
+      <result code="W">Withdrawn</result>
+      <band id="6610">Dudley Town [Midlands]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291762">
+      <result code="W">Withdrawn</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="11741">
+  <event-date date="1907-9-8">Sept. 8, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wexford (Ireland) Contest</name>
+  <contest id="2335">
+    <name>Wexford (Ireland) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wexford-ireland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1645">Songs of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="1691">Wexford, County Wexford, Republic of Ireland</venue>
+  <notes>3 bands competed</notes>
+
+  <created>April 6, 2012, 5:47 p.m.</created>
+  <last-modified>Sept. 20, 2018, 5:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95163">
+      <result code="1">1</result>
+      <band id="6996">Widnes St. Mary&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95164">
+      <result code="2">2</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95165">
+      <result code="3">3</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

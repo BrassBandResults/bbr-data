@@ -1,0 +1,110 @@
+<contest-event id="17962">
+  <event-date date="1891-6-13">June 13, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sowerby Bridge Contest</name>
+  <contest id="2711">
+    <name>Sowerby Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sowerby-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="963">Linda di Chamounix [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1169">Sowerby Bridge, West Yorkshire, England, UK</venue>
+  <notes>Prizes - 1st £12, 2nd £8, 3rd £5, 4th £3, 5th £1.
+5th annual contest
+13 bands competed.</notes>
+
+  <created>Feb. 6, 2013, 6:11 p.m.</created>
+  <last-modified>May 26, 2019, 8:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="284273">
+      <result code="1">1</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284266">
+      <result code="2">2</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284269">
+      <result code="3">3</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284264">
+      <result code="4">4</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284276">
+      <result code="5">5</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="284265">
+      <result code="">Unknown Result</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284267">
+      <result code="">Unknown Result</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284268">
+      <result code="">Unknown Result</result>
+      <band id="4062">Mirfield Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284270">
+      <result code="">Unknown Result</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284271">
+      <result code="">Unknown Result</result>
+      <band id="6151">Northowram Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284272">
+      <result code="">Unknown Result</result>
+      <band id="3608">Dewsbury Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284274">
+      <result code="">Unknown Result</result>
+      <band id="3563">Rishworth Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284275">
+      <result code="">Unknown Result</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="40206">
+  <event-date date="1904-6-23">June 23, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hereford Contest</name>
+  <contest id="2250">
+    <name>Hereford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hereford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1646">Recollections of Flotow</test-piece>
+  </test-piece>
+
+  <venue id="1632">Hereford, Herefordshire, England, UK</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Aug. 29, 2018, 8:49 a.m.</created>
+  <last-modified>Aug. 29, 2018, 8:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292365">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="292366">
+      <result code="2">2</result>
+      <band id="4882">Bristol Britannia</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="292364">
+      <result code="3">3</result>
+      <band id="7482">Cwmtawe District Training Band</band>
+      <conductor id="318146">Theo Evans</conductor>
+    </result>
+    
+    <result id="292367">
+      <result code="4">4</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

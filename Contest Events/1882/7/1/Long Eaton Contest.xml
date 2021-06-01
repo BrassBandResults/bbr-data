@@ -1,0 +1,73 @@
+<contest-event id="17201">
+  <event-date date="1882-7-1">July 1, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Long Eaton Contest</name>
+  <contest id="1577">
+    <name>Long Eaton Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="327">Long Eaton Contest</group>
+    <slug>long-eaton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2263">Siege of Rochelle [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2819">Attenborough&#39;s Ground, Toton Road, Long Eaton</venue>
+  <notes>Brass band news August 1882 shows 3rd prize to Ilkeston.
+Oddfellows demonstation</notes>
+
+  <created>Dec. 20, 2012, 2:59 p.m.</created>
+  <last-modified>Oct. 30, 2017, 4:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130530">
+      <result code="1">1</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130531">
+      <result code="2">2</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="130528">
+      <result code="3">3</result>
+      <band id="6090">Long Eaton Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130529">
+      <result code="4">4</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130527">
+      <result code="">Unknown Result</result>
+      <band id="2562">Ecclesfield Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130532">
+      <result code="">Unknown Result</result>
+      <band id="7542">Ilkeston Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130533">
+      <result code="W">Withdrawn</result>
+      <band id="4905">Nottingham Saxe Tuba</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

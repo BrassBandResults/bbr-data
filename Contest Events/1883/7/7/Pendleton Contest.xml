@@ -1,0 +1,93 @@
+<contest-event id="17256">
+  <event-date date="1883-7-7">July 7, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pendleton Contest</name>
+  <contest id="2392">
+    <name>Pendleton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pendleton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2275">Macbeth [Verdi arr. Frost]</test-piece>
+  </test-piece>
+
+  <venue id="2828">Woolpack Inn, Eccles Old Road, Pendleton</venue>
+  <notes>2nd annual contest promoted by Pendleton Brass Band
+Prizes: £12, £7, £4, £2
+Quickstep: 1. Kingston, 2. Tyldesley
+6 bands competed</notes>
+
+  <created>Dec. 22, 2012, 11:35 p.m.</created>
+  <last-modified>May 2, 2019, 9:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131006">
+      <result code="1">1</result>
+      <band id="2528">Southport Rifles Band</band>
+      <conductor id="308509">Harry Round</conductor>
+    </result>
+    
+    <result id="131001">
+      <result code="2">2</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="303273">Harry L. Holding</conductor>
+    </result>
+    
+    <result id="131002">
+      <result code="3">3</result>
+      <band id="6176">Salford Ironworks</band>
+      <conductor id="305271">James Lord</conductor>
+    </result>
+    
+    <result id="281395">
+      <result code="4">4</result>
+      <band id="9675">St. James&#39;s Tyldesley</band>
+      <conductor id="311254">R. Welch</conductor>
+    </result>
+    
+    <result id="131003">
+      <result code="">Unknown Result</result>
+      <band id="2524">Radcliffe Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="131005">
+      <result code="">Unknown Result</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="307328">John Peers</conductor>
+    </result>
+    
+    <result id="131009">
+      <result code="W">Withdrawn</result>
+      <band id="3693">Droylsden Village</band>
+      <conductor id="310862">J. Wadsworth</conductor>
+    </result>
+    
+    <result id="131010">
+      <result code="W">Withdrawn</result>
+      <band id="10037">Lob Mills (Todmorden)</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="131008">
+      <result code="W">Withdrawn</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="301795">J. Gifford</conductor>
+    </result>
+    
+    <result id="131007">
+      <result code="W">Withdrawn</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+  </results>
+</contest-event>

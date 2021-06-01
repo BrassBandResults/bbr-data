@@ -1,0 +1,49 @@
+<contest-event id="40317">
+  <event-date date="1908-6-9">June 9, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cwmaman Contest</name>
+  <contest id="2238">
+    <name>Cwmaman Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cwmaman-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1830">Songs of Handel</test-piece>
+  </test-piece>
+
+  <venue id="1617">Cwmaman, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>March contest - 1st Penrhiw, 2nd Cwmaman.
+3 bands competed</notes>
+
+  <created>Sept. 22, 2018, 10:07 a.m.</created>
+  <last-modified>Sept. 22, 2018, 10:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293376">
+      <result code="1">1</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="293375">
+      <result code="2">2</result>
+      <band id="6623">Penrhiw</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="293374">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310282">H. S. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

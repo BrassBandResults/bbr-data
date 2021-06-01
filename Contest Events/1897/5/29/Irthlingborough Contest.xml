@@ -1,0 +1,62 @@
+<contest-event id="13205">
+  <event-date date="1897-5-29">May 29, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Irthlingborough Contest</name>
+  <contest id="2633">
+    <name>Irthlingborough Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>irthlingborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6004">Macbeth</test-piece>
+  </test-piece>
+
+  <venue id="1982">Irthlingborough</venue>
+  <notes>Prizes: £8 10s, £5, £2 10s
+
+Reported in Northampton Herald, 5th June 1897</notes>
+
+  <created>May 4, 2012, 11:01 p.m.</created>
+  <last-modified>July 8, 2019, 1:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104917">
+      <result code="1">1</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="104918">
+      <result code="2">2</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="104919">
+      <result code="3">3</result>
+      <band id="6345">Olney Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="104921">
+      <result code="4">4</result>
+      <band id="7928">Higham Ferrers Town</band>
+      <conductor id="308257">Herbert Roach</conductor>
+    </result>
+    
+    <result id="104920">
+      <result code="4">4</result>
+      <band id="7862">Kettering United</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="44015">
+  <event-date date="1910-7-14">July 14, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2209">Don Carlo</test-piece>
+  </test-piece>
+
+  <venue id="4420">Markeaton Park, Derby</venue>
+  <notes>March contest (£1) - 1st Long Eaton, 2nd (10s) - Derby Sax Tuba.
+Prizes - 1st £10, 2nd £6, 3rd £3, 4th £2, 5th £1.
+Promoted by Derby Agricultural Society.
+5 bands competed.</notes>
+
+  <created>Oct. 24, 2020, 7:36 p.m.</created>
+  <last-modified>Oct. 24, 2020, 7:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="322453">
+      <result code="1">1</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="322454">
+      <result code="2">2</result>
+      <band id="4776">Derby Sax and Tuba</band>
+      <conductor id="318314">J. Pegg</conductor>
+    </result>
+    
+    <result id="322456">
+      <result code="3">3</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+    </result>
+    
+    <result id="322455">
+      <result code="4">4</result>
+      <band id="6852">Alvaston and Boulton</band>
+      <conductor id="303819">J. E. Irons</conductor>
+    </result>
+    
+    <result id="322452">
+      <result code="5">5</result>
+      <band id="11016">Mapperley Colliery</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="13603">
+  <event-date date="1898-8-1">Aug. 1, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morpeth Contest</name>
+  <contest id="1454">
+    <name>Morpeth Contest</name>
+    <order>50</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="516">Northumberland Miners&#39; Gala</group>
+    <slug>morpeth-contest</slug>
+    
+    <notes>Programme from 1970: Results 1913 till incl. 1946 from Northumberland Miners Gala Contest.</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="949">Morpeth, Northumberland</venue>
+  <notes>7 bands competed</notes>
+
+  <created>May 28, 2012, 9:12 p.m.</created>
+  <last-modified>May 28, 2012, 9:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107781">
+      <result code="1">1</result>
+      <band id="4510">Ashington Model</band>
+      <conductor id="310181">Richard Taylor</conductor>
+    </result>
+    
+    <result id="107782">
+      <result code="2">2</result>
+      <band id="4512">Barrington</band>
+      <conductor id="310181">Richard Taylor</conductor>
+    </result>
+    
+    <result id="107783">
+      <result code="3">3</result>
+      <band id="8127">Dudley U.M.F.C [Northumberland]</band>
+      <conductor id="310181">Richard Taylor</conductor>
+    </result>
+    
+    <result id="107784">
+      <result code="4">4</result>
+      <band id="6197">Burradon</band>
+      <conductor id="300630">John Dunn</conductor>
+    </result>
+    
+  </results>
+</contest-event>

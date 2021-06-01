@@ -1,0 +1,78 @@
+<contest-event id="22673">
+  <event-date date="1900-8-11">Aug. 11, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rise Carr Contest</name>
+  <contest id="3263">
+    <name>Rise Carr Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rise-carr-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2495">Rise Carr, Darlington</venue>
+  <notes>Rise Carr Show
+
+7 bands competed
+
+Prizes: £8, £5, £3, £2
+
+March: 1. Milburn, 2. Eston and Rise Carr equal</notes>
+
+  <created>Aug. 11, 2013, 7:04 p.m.</created>
+  <last-modified>Aug. 13, 2013, 10:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168298">
+      <result code="1">1</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168301">
+      <result code="2">2</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168295">
+      <result code="3">3</result>
+      <band id="5388">Chester-le-Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168300">
+      <result code="3">3</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168299">
+      <result code="">Unknown Result</result>
+      <band id="6215">Darlington Sons of Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168296">
+      <result code="">Unknown Result</result>
+      <band id="4655">Eston Miners</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168297">
+      <result code="">Unknown Result</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

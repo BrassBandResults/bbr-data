@@ -1,0 +1,113 @@
+<contest-event id="11821">
+  <event-date date="1907-9-28">Sept. 28, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crystal Palace (Consolation Cup)</name>
+  <contest id="2176">
+    <name>Crystal Palace (Consolation Cup)</name>
+    <order>152</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="13">National Championship of Great Britain (Finals)</group>
+    <slug>crystal-palace-consolation-cup</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4471">Crystal Palace (Swing Grounds), Crystal Palace Park, Sydenham, County of London, England, UK</venue>
+  <notes>1st prize £5 and cup.
+2nd prize £3.
+3rd prize £2.
+4th prize £1.
+Choice of Old Memories or Mikado Selection No 2.
+Caerphilly were originally placed first, but later disqualified (BB 16/11/1907).
+Hitchin Town and Jump Subscription were also both listed in the 1908 BB Annual, but not in the original programme. Their inclusion seems probably erroneous; please contact us if you have further information.</notes>
+
+  <created>April 7, 2012, 4:10 p.m.</created>
+  <last-modified>July 6, 2015, 4:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95603">
+      <result code="1">1</result>
+      <band id="434">Cottingham Band</band>
+      <conductor id="298504">W. Brocklesby</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="95604">
+      <result code="2">2</result>
+      <band id="6003">St. Pancras</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+      <test-piece id="1829">Mikado Selection No 2</test-piece>
+    </result>
+    
+    <result id="95605">
+      <result code="3">3</result>
+      <band id="6585">Cudworth</band>
+      <conductor id="301643">T. Garbutt</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="95606">
+      <result code="4">4</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="311403">John T. White</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="95607">
+      <result code="5">5</result>
+      <band id="7570">Bargoed</band>
+      <conductor id="310661">Mr Turner</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="95612">
+      <result code="6">6</result>
+      <band id="6344">Nottingham Railway City</band>
+      <conductor id="306160">R. Mills</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="95611">
+      <result code="7">7</result>
+      <band id="5919">Northfield Institute</band>
+      <conductor id="307698">H. Price</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="95614">
+      <result code="8">8</result>
+      <band id="6187">1st Gloucester Engineers</band>
+      <conductor id="307544">F. Plucknett</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="95608">
+      <result code="9">9</result>
+      <band id="332">The Egham Band</band>
+      <conductor id="309956">H. Sutcliffe</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="95613">
+      <result code="10">10</result>
+      <band id="4527">Willesden</band>
+      <conductor id="298565">E. Brophy</conductor>
+      <test-piece id="1828">Old Memories</test-piece>
+    </result>
+    
+    <result id="196078">
+      <result code="D">Disqualified</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="309727">David Stephens</conductor>
+      <test-piece id="1829">Mikado Selection No 2</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

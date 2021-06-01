@@ -1,0 +1,56 @@
+<contest-event id="12639">
+  <event-date date="1895-8-17">Aug. 17, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hucknall Torkard Contest</name>
+  <contest id="2604">
+    <name>Hucknall Torkard Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hucknall-torkard-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3377">Butler&#39;s Hill, Hucknall</venue>
+  <notes>1st prize: £10
+
+Quickstep: 1. Lea Mills, 2. Derby United</notes>
+
+  <created>April 18, 2012, 4:55 p.m.</created>
+  <last-modified>Nov. 29, 2013, 9:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100753">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="302178">C. A. Gregory</conductor>
+    </result>
+    
+    <result id="100754">
+      <result code="2">2</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100755">
+      <result code="3">3</result>
+      <band id="3524">Derby United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100756">
+      <result code="3">3</result>
+      <band id="5208">Heanor Church Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

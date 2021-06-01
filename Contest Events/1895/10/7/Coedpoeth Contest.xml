@@ -1,0 +1,50 @@
+<contest-event id="12734">
+  <event-date date="1895-10-7">Oct. 7, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coedpoeth Contest</name>
+  <contest id="2509">
+    <name>Coedpoeth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coedpoeth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1590">Trafalgar</test-piece>
+  </test-piece>
+
+  <venue id="3387">Tabor Hill Boys School, Coedpoeth</venue>
+  <notes>Prize: £4 and trombone. 
+3 bands competed
+March contest: 1. Oak Alyn</notes>
+
+  <created>April 19, 2012, 10:05 p.m.</created>
+  <last-modified>June 24, 2019, 10:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101346">
+      <result code="1">1</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="101347">
+      <result code="">Unknown Result</result>
+      <band id="7844">Ffrwd</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+    <result id="101348">
+      <result code="">Unknown Result</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

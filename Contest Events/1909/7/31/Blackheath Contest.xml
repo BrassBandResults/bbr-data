@@ -1,0 +1,66 @@
+<contest-event id="15861">
+  <event-date date="1909-7-31">July 31, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackheath Contest</name>
+  <contest id="2822">
+    <name>Blackheath Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blackheath-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1900">Old Favourites</test-piece>
+  </test-piece>
+
+  <venue id="2624">Blackheath, Staffordshire</venue>
+  <notes>
+
+  Prizes 1st £6, 2nd £3, 3rd £1.10s.
+
+  March contest 1st (£1) Birmingham City, 2nd (10s.) Langley.
+
+  5 bands competed.</notes>
+
+  <created>Nov. 6, 2012, 10:34 a.m.</created>
+  <last-modified>Nov. 6, 2012, 10:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="122334">
+      <result code="1">1</result>
+      <band id="2569">Birmingham City</band>
+      <conductor id="307384">Isaac Perrin</conductor>
+    </result>
+    
+    <result id="122335">
+      <result code="2">2</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="301275">Herbert Fisher</conductor>
+    </result>
+    
+    <result id="122336">
+      <result code="3">3</result>
+      <band id="6640">Halesowen Temperance</band>
+      <conductor id="307196">J. Partridge</conductor>
+    </result>
+    
+    <result id="122337">
+      <result code="">Unknown Result</result>
+      <band id="9749">Bloxwich Imperial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122338">
+      <result code="">Unknown Result</result>
+      <band id="416">Langley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

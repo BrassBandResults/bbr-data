@@ -1,0 +1,60 @@
+<contest-event id="40491">
+  <event-date date="1913-8-30">Aug. 30, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wardle Contest</name>
+  <contest id="3353">
+    <name>Wardle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wardle-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2802">Songs of Sentiment</test-piece>
+  </test-piece>
+
+  <venue id="2581">Wardle, Greater Manchester, England, UK</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Oct. 1, 2018, 5:07 p.m.</created>
+  <last-modified>Oct. 1, 2018, 5:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294577">
+      <result code="1">1</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="294576">
+      <result code="2">2</result>
+      <band id="2616">Ramsbottom Rifle</band>
+      <conductor id="318409">Fred Russell</conductor>
+    </result>
+    
+    <result id="294580">
+      <result code="3">3</result>
+      <band id="2770">Heywood Old Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294579">
+      <result code="4">4</result>
+      <band id="3314">Shawclough &amp; Spotland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294578">
+      <result code="5">5</result>
+      <band id="9790">Rochdale Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

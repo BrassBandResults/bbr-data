@@ -1,0 +1,91 @@
+<contest-event id="10352">
+  <event-date date="1905-8-8">Aug. 8, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tisbury Contest</name>
+  <contest id="1959">
+    <name>Tisbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tisbury-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1655">Flowers of Spring</test-piece>
+  </test-piece>
+
+  <venue id="1392">Tisbury, Wiltshire</venue>
+  <notes>1st prize £10,2nd prize £5, 3rd prize £3, 4th prize £2.
+10 bands competed.</notes>
+
+  <created>Feb. 16, 2012, 6:23 p.m.</created>
+  <last-modified>Sept. 10, 2018, 9:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87264">
+      <result code="1">1</result>
+      <band id="6802">Broad Chalke</band>
+      <conductor id="302322">F. Gurd</conductor>
+    </result>
+    
+    <result id="87265">
+      <result code="2">2</result>
+      <band id="6803">Tisbury</band>
+      <conductor id="308255">A. Rixon</conductor>
+    </result>
+    
+    <result id="87266">
+      <result code="3">3</result>
+      <band id="6804">West Cholderton</band>
+      <conductor id="300467">F. Dollery</conductor>
+    </result>
+    
+    <result id="87267">
+      <result code="4">4</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="309879">W. Stretch</conductor>
+    </result>
+    
+    <result id="87268">
+      <result code="">Unknown Result</result>
+      <band id="552">Downton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87271">
+      <result code="">Unknown Result</result>
+      <band id="6808">Fovant</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87272">
+      <result code="">Unknown Result</result>
+      <band id="6809">Wylye</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87273">
+      <result code="">Unknown Result</result>
+      <band id="12553">Steeple Langford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87270">
+      <result code="">Unknown Result</result>
+      <band id="6807">Odstock</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87269">
+      <result code="">Unknown Result</result>
+      <band id="6806">Ansty</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

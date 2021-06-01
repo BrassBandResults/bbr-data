@@ -1,0 +1,62 @@
+<contest-event id="26692">
+  <event-date date="1901-5-4">May 4, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birstall Contest</name>
+  <contest id="2627">
+    <name>Birstall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>birstall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2577">Woodland Whispers</test-piece>
+  </test-piece>
+
+  <venue id="1978">Birstall, West Yorkshire</venue>
+  <notes>Promoted by Birstall Old Band
+
+10 bands entered, 9 competed
+
+Choice of test pieces: &quot;I Puritani&quot; or &quot;Lucrezia Borgia&quot;
+
+Prizes: £8, £5, £3, £1
+
+March: 1. Hepworth, 2. Brighouse</notes>
+
+  <created>March 25, 2014, 3:06 p.m.</created>
+  <last-modified>June 18, 2018, 10:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193466">
+      <result code="1">1</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193467">
+      <result code="2">2</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193468">
+      <result code="3">3</result>
+      <band id="4404">Brighouse Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193469">
+      <result code="4">4</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

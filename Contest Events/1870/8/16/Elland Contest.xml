@@ -1,0 +1,70 @@
+<contest-event id="8255">
+  <event-date date="1870-8-16">Aug. 16, 1870<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Elland Contest</name>
+  <contest id="1420">
+    <name>Elland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>elland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1415">Souvenir de Meyerbeer [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="925">Elland, West Yorkshire, England, UK</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4287.htm
+
+Flower Show + Band Contest - Elland
+The third annual exhibition of the Elland Floral and Horticultural Society took place, on grounds adjoining Whitwell-place, Elland, The weather was brilliantly fine, and thousands of people from Halifax, Huddersfield, and other places availed themselves of the cheap fares offered by the railway company to visit this popular show. During the afternoon a brass band contest was held, for prizes amounting to about £130. Twelve bands had entered, but only six put in an appearance, as follows: Denton Original Band, Dewsbury Old Band, Elland Edge, Matlock, Meltham Mills, and Staleybridge Old Band. The judge was Mr. Charles Godfrey, band master of the Royal Horse Guards, and each band first played his &quot;Souvenir de Meyerbeer,&quot; and afterwards a piece of their own selection. The prizes were awarded as follow: First (£30), Meltham Mills; second (£20), Elland Edge; third (£15), Matlock; fourth (£10), Dewsbury; and fifth (£5), Staleybridge. A solo cornet contest followed for a B flat cornet, which was won by Mr. Walter Chapman, of the Denton Band, the other competitors being Mr, C. Auty, of Dewsbury, and Mr, J. Naylor, of Matlock, Altogether the affair was a great success, the grounds being literally crowded during the afternoon.</notes>
+
+  <created>Nov. 11, 2011, 11:53 a.m.</created>
+  <last-modified>Nov. 11, 2011, 1:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="74116">
+      <result code="1">1</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74114">
+      <result code="2">2</result>
+      <band id="3718">Elland Upper Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74115">
+      <result code="3">3</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74113">
+      <result code="4">4</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74117">
+      <result code="5">5</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="74112">
+      <result code="6">6</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

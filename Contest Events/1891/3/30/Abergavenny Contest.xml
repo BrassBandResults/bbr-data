@@ -1,0 +1,55 @@
+<contest-event id="35918">
+  <event-date date="1891-3-30">March 30, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abergavenny Contest</name>
+  <contest id="1801">
+    <name>Abergavenny Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="323">Abergavenny Contest</group>
+    <slug>abergavenny-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6259">Market Hall, Abergavenny, Monmouthshire, Wales, UK</venue>
+  <notes>Prizes: £20, £5, £2 10s&#39;
+6 bands competed</notes>
+
+  <created>Aug. 14, 2016, 5:13 p.m.</created>
+  <last-modified>Feb. 2, 2018, 9:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="260628">
+      <result code="1">1</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+    <result id="260629">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="303504">W. R. Howe</conductor>
+    </result>
+    
+    <result id="260630">
+      <result code="3">3</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="307688">James Prestwood</conductor>
+    </result>
+    
+    <result id="260631">
+      <result code="4">4</result>
+      <band id="6291">2nd V.B. South Wales Borderers (Newport)</band>
+      <conductor id="302582">F. Hardy</conductor>
+    </result>
+    
+  </results>
+</contest-event>

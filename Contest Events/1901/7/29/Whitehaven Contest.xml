@@ -1,0 +1,72 @@
+<contest-event id="39997">
+  <event-date date="1901-7-29">July 29, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitehaven Contest</name>
+  <contest id="4655">
+    <name>Whitehaven Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitehaven-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2659">Whitehaven, Cumbria, England, UK</venue>
+  <notes>6 bands competed</notes>
+
+  <created>June 24, 2018, 8:35 a.m.</created>
+  <last-modified>June 24, 2018, 8:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="290763">
+      <result code="1">1</result>
+      <band id="5674">Frizington St. Joseph</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="290764">
+      <result code="2">2</result>
+      <band id="1510">Workington</band>
+      <conductor id="305310">George Lowden</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="290766">
+      <result code="3">3</result>
+      <band id="934">Dalton Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="290762">
+      <result code="4">4</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="290761">
+      <result code="5">5</result>
+      <band id="17226">Frizington League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="290765">
+      <result code="6">6</result>
+      <band id="927">Askam Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1174">Crispino [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

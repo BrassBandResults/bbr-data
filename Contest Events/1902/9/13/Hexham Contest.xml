@@ -1,0 +1,59 @@
+<contest-event id="37710">
+  <event-date date="1902-9-13">Sept. 13, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hexham Contest</name>
+  <contest id="2298">
+    <name>Hexham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hexham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3136">Abbey Grounds, Hexham, Northumberland, England, UK</venue>
+  <notes>5 bands competed
+
+March: 1. Hebburn Colliery, 2. Consett, 3. Cleveland, 4. Hebburn Temperance
+
+Choice of test pieces: &quot;Beethoven&quot;, &quot;Sullivan&quot; and &quot;The Slave&quot;
+</notes>
+
+  <created>April 4, 2017, 10:36 a.m.</created>
+  <last-modified>Feb. 24, 2020, 10:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="272852">
+      <result code="1">1</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="272853">
+      <result code="2">2</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="272854">
+      <result code="3">3</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="272855">
+      <result code="4">4</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

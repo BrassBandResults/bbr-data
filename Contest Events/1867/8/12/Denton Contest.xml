@@ -1,0 +1,64 @@
+<contest-event id="7283">
+  <event-date date="1867-8-12">Aug. 12, 1867<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Denton Contest</name>
+  <contest id="1280">
+    <name>Denton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>denton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="789">Denton</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+
+Band Contest - Denton
+A Brass Band Contest took place at Denton, near Manchester, and most of the celebrated bands from Yorkshire and Lancashire competed. Although we cannot congratulate the Matlock band on having achieved complete success, it is still highly gratifying to find that it is superior to such bands as Dewsbury, SaItaire, and other first-class bands. The prizes were awarded as follows: 1st Prize, £20, and tenor horn, Bacup; 2nd prize; £14, Matlock;. 3rd prize, £8, Dewsbury; 4th prize, £5. Saltaire; 6th prize, £3, Healy Hall (Rochdale). Three other bands were unsuccessful,</notes>
+
+  <created>Sept. 27, 2011, 11:23 a.m.</created>
+  <last-modified>June 9, 2012, 10:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="65479">
+      <result code="1">1</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="65480">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="65481">
+      <result code="3">3</result>
+      <band id="2511">Dewsbury Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="65482">
+      <result code="4">4</result>
+      <band id="4899">Saltaire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="65483">
+      <result code="5">5</result>
+      <band id="5105">Healey Hall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,50 @@
+<contest-event id="35624">
+  <event-date date="1889-3-1">March 1, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest</name>
+  <contest id="1076">
+    <name>Colwyn Bay Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6220">Public Hall, Colwyn Bay</venue>
+  <notes>St David&#39;s Day Eisteddfod
+
+3 bands competed</notes>
+
+  <created>July 6, 2016, 8:50 p.m.</created>
+  <last-modified>Nov. 10, 2017, 11:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="258634">
+      <result code="1">1</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258636">
+      <result code="">Unknown Result</result>
+      <band id="6547">Old Colwyn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="258635">
+      <result code="">Unknown Result</result>
+      <band id="6132">Royal Conway</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

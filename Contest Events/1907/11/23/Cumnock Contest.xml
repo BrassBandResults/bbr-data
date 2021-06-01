@@ -1,0 +1,55 @@
+<contest-event id="11830">
+  <event-date date="1907-11-23">Nov. 23, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cumnock Contest</name>
+  <contest id="2151">
+    <name>Cumnock Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cumnock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1564">Cumnock, East Ayrshire, Scotland, UK</venue>
+  <notes>
+  4 bands competed.</notes>
+
+  <created>April 7, 2012, 6:01 p.m.</created>
+  <last-modified>July 6, 2015, 7:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95698">
+      <result code="1">1</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="95699">
+      <result code="2">2</result>
+      <band id="5476">Burntisland Silver</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+    </result>
+    
+    <result id="95700">
+      <result code="3">3</result>
+      <band id="7239">Hurlford</band>
+      <conductor id="300621">S. Dunlop</conductor>
+    </result>
+    
+    <result id="95701">
+      <result code="4">4</result>
+      <band id="7173">Birnieknowe</band>
+      <conductor id="300960">William Etherington</conductor>
+    </result>
+    
+  </results>
+</contest-event>

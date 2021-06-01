@@ -1,0 +1,58 @@
+<contest-event id="11802">
+  <event-date date="1893-7-6">July 6, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aylesbury Contest</name>
+  <contest id="1978">
+    <name>Aylesbury Contest [before WW1]</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="276">Aylesbury Contest [before WW1]</group>
+    <slug>aylesbury-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1410">Aylesbury, Buckinghamshire, England, UK</venue>
+  <notes>Prizes - 1st £20, 2nd £10, 3rd £7.
+5 bands competed</notes>
+
+  <created>April 7, 2012, 10:56 a.m.</created>
+  <last-modified>June 5, 2019, 10:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95427">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95428">
+      <result code="2">2</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+      <test-piece id="5435">Heroic Fantasia</test-piece>
+    </result>
+    
+    <result id="95429">
+      <result code="3">3</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="297966">F. Birkenshaw</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="95430">
+      <result code="4">4</result>
+      <band id="819">Luton Band</band>
+      <conductor id="301956">W. Goodger</conductor>
+    </result>
+    
+  </results>
+</contest-event>

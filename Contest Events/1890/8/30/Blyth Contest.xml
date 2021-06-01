@@ -1,0 +1,69 @@
+<contest-event id="17928">
+  <event-date date="1890-8-30">Aug. 30, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blyth Contest</name>
+  <contest id="2402">
+    <name>Blyth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blyth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3032">Bath Terrace, Blyth, Northumberland</venue>
+  <notes>Blyth Flower Show
+Prizes: £20, £10, £7, £3
+Quickstep: 1. Whitworth, 2. South Derwent
+6 bands competed</notes>
+
+  <created>Feb. 5, 2013, 4:19 p.m.</created>
+  <last-modified>May 24, 2019, 9:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135429">
+      <result code="1">1</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="135425">
+      <result code="2">2</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="135424">
+      <result code="3">3</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+    <result id="135427">
+      <result code="4">4</result>
+      <band id="7933">Hebburn Artillery</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="135428">
+      <result code="">Unknown Result</result>
+      <band id="9789">Blyth Artillery Volunteers (Cowpen)</band>
+      <conductor id="297112">Paul Armstrong</conductor>
+    </result>
+    
+    <result id="135426">
+      <result code="">Unknown Result</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+  </results>
+</contest-event>

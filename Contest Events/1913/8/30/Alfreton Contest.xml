@@ -1,0 +1,62 @@
+<contest-event id="26847">
+  <event-date date="1913-8-30">Aug. 30, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Alfreton Contest</name>
+  <contest id="2554">
+    <name>Alfreton Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>alfreton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1938">Emilia</test-piece>
+  </test-piece>
+
+  <venue id="2874">Alfreton Park, Alfreton, Derbyshire, England, UK</venue>
+  <notes>Promoted by Swanwick Collieries Band
+
+March: 1. Mansfield, 2. Lincoln</notes>
+
+  <created>April 2, 2014, 4:10 p.m.</created>
+  <last-modified>April 2, 2014, 4:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194171">
+      <result code="1">1</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="194172">
+      <result code="2">2</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="318919">Ellerby Cox Snr</conductor>
+    </result>
+    
+    <result id="194173">
+      <result code="3">3</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="303772">Simeon Iliffe</conductor>
+    </result>
+    
+    <result id="194174">
+      <result code="4">4</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="194175">
+      <result code="5">5</result>
+      <band id="881">Creswell Colliery Band</band>
+      <conductor id="299490">W. Cocking</conductor>
+    </result>
+    
+  </results>
+</contest-event>

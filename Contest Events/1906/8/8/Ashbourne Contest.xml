@@ -1,0 +1,53 @@
+<contest-event id="10975">
+  <event-date date="1906-8-8">Aug. 8, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashbourne Contest</name>
+  <contest id="2148">
+    <name>Ashbourne Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashbourne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1561">Ashbourne, Derbyshire, England, UK</venue>
+  <notes>1st prize £12, 2nd prize £9, 3rd prize £4.
+March contest 1st Woodville,  2nd Kirkby Colliery.
+3 bands competed.</notes>
+
+  <created>March 10, 2012, 11:22 a.m.</created>
+  <last-modified>Sept. 14, 2018, 9:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90950">
+      <result code="1">1</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="888">Satanella [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="90951">
+      <result code="2">2</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="315248">T. Elliott</conductor>
+      <test-piece id="5433">Dinorah</test-piece>
+    </result>
+    
+    <result id="90952">
+      <result code="3">3</result>
+      <band id="4501">Newhall United</band>
+      <conductor id="307109">Guy Parker</conductor>
+      <test-piece id="1076">The Glee Garland</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

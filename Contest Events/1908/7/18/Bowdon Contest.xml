@@ -1,0 +1,72 @@
+<contest-event id="23796">
+  <event-date date="1908-7-18">July 18, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bowdon Contest</name>
+  <contest id="4602">
+    <name>Bowdon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bowdon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3988">Bowdon, Altrincham</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Sept. 12, 2013, 8:59 p.m.</created>
+  <last-modified>Sept. 22, 2018, 2:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="173772">
+      <result code="1">1</result>
+      <band id="3692">St. Annes on the Sea</band>
+      <conductor id="305094">T. Lightbourne</conductor>
+      <test-piece id="1830">Songs of Handel</test-piece>
+    </result>
+    
+    <result id="173773">
+      <result code="2">2</result>
+      <band id="17363">Irlam Village</band>
+      <conductor id="314492">J. H. White</conductor>
+      <test-piece id="455">The Lily of Killarney [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="173774">
+      <result code="3">3</result>
+      <band id="1663">Irlam Silver Band</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+      <test-piece id="455">The Lily of Killarney [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="173775">
+      <result code="4">4</result>
+      <band id="2770">Heywood Old Prize</band>
+      <conductor id="311328">Isaac Wharton</conductor>
+      <test-piece id="1830">Songs of Handel</test-piece>
+    </result>
+    
+    <result id="173776">
+      <result code="5">5</result>
+      <band id="1718">Altrincham Borough</band>
+      <conductor id="309122">G. Sidebotham</conductor>
+      <test-piece id="455">The Lily of Killarney [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="293440">
+      <result code="6">6</result>
+      <band id="7494">Sale Village</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="455">The Lily of Killarney [arr. Godfrey]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

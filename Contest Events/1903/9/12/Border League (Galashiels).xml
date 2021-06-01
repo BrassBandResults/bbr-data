@@ -1,0 +1,69 @@
+<contest-event id="23266">
+  <event-date date="1903-9-12">Sept. 12, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Border League (Galashiels)</name>
+  <contest id="1314">
+    <name>Border League (Galashiels)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>border-league</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2598">Border Melodies</test-piece>
+  </test-piece>
+
+  <venue id="3661">Gala Park, Galashiels</venue>
+  <notes>6 bands competed
+
+March: 1. Gala Rifles, 2. Hawick, 3. Selkirk
+</notes>
+
+  <created>Aug. 25, 2013, 1:34 p.m.</created>
+  <last-modified>Sept. 4, 2013, 8:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171041">
+      <result code="1">1</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171042">
+      <result code="2">2</result>
+      <band id="4976">Galashiels Rifle Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171043">
+      <result code="3">3</result>
+      <band id="1028">Galashiels Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171044">
+      <result code="4">4</result>
+      <band id="655">Peebles Burgh Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171053">
+      <result code="">Unknown Result</result>
+      <band id="334">St. Ronan&#39;s Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171045">
+      <result code="">Unknown Result</result>
+      <band id="10557">Selkirk Junior Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

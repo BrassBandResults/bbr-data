@@ -1,0 +1,66 @@
+<contest-event id="27427">
+  <event-date date="1902-4-10">April 10, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kendal Contest</name>
+  <contest id="5228">
+    <name>Kendal Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kendal-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="4571">March from Scipio</test-piece>
+  </test-piece>
+
+  <venue id="4692">Kendal, Cumbria, England, UK</venue>
+  <notes></notes>
+
+  <created>May 12, 2014, 5:36 p.m.</created>
+  <last-modified>March 10, 2017, 6:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="197575">
+      <result code="1">1</result>
+      <band id="8089">Carnforth</band>
+      <conductor id="304145">R. Johnstone</conductor>
+    </result>
+    
+    <result id="197572">
+      <result code="2">2</result>
+      <band id="5599">Kirkby Stephen Silver Band</band>
+      <conductor id="307135">J. C. Parkinson</conductor>
+    </result>
+    
+    <result id="197573">
+      <result code="3">3</result>
+      <band id="12070">Windermere Volunteer</band>
+      <conductor id="297401">W. F. Balme</conductor>
+    </result>
+    
+    <result id="197574">
+      <result code="4">4</result>
+      <band id="12336">Brough [Cumbria]</band>
+      <conductor id="300143">C. R. Davies</conductor>
+    </result>
+    
+    <result id="197570">
+      <result code="W">Withdrawn</result>
+      <band id="12068">Milnthorpe Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="197571">
+      <result code="W">Withdrawn</result>
+      <band id="12069">Nether Kellet</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

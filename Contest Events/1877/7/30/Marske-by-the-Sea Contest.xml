@@ -1,0 +1,69 @@
+<contest-event id="8284">
+  <event-date date="1877-7-30">July 30, 1877<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marske-by-the-Sea Contest</name>
+  <contest id="1451">
+    <name>Marske-by-the-Sea Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>marske-by-the-sea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="944">Marske-by-the-Sea, North Yorkshire</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4287.htm
+Prizes: £20, £14, £7, £5</notes>
+
+  <created>Nov. 11, 2011, 3:33 p.m.</created>
+  <last-modified>Nov. 28, 2012, 12:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="127138">
+      <result code="1">1</result>
+      <band id="4899">Saltaire Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="127135">
+      <result code="2">2</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="127136">
+      <result code="3">3</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="127139">
+      <result code="4">4</result>
+      <band id="5351">Coxhoe Temperance Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="127137">
+      <result code="5">5</result>
+      <band id="356">Marske Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="127134">
+      <result code="W">Withdrawn</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="12456">
+  <event-date date="1895-5-18">May 18, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Jedburgh Contest</name>
+  <contest id="2330">
+    <name>Jedburgh Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>jedburgh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1741">Great Britain</test-piece>
+  </test-piece>
+
+  <venue id="3698">Allerley Well Park, Jedburgh</venue>
+  <notes>By coincidence all the four bands selected the same piece as their own choice. It was the test piece at Kirkcaldy the previous year.
+Prizes: 20 guineas, 12 guineas, 8 guineas, 5 guineas
+Promoted by Jedforest Brass Band Committee
+4 bands competed</notes>
+
+  <created>April 14, 2012, 8:19 p.m.</created>
+  <last-modified>June 17, 2019, 7:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99551">
+      <result code="1">1</result>
+      <band id="1028">Galashiels Town</band>
+      <conductor id="306298">Thomas Moore</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+    <result id="99552">
+      <result code="2">2</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="314025">James Robinson</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+    <result id="99553">
+      <result code="3">3</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+    <result id="99554">
+      <result code="4">4</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

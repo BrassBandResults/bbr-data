@@ -1,0 +1,43 @@
+<contest-event id="29811">
+  <event-date date="1913-8-4">Aug. 4, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holywell Contest</name>
+  <contest id="2435">
+    <name>Holywell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>holywell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2790">Gems of the Old Days</test-piece>
+  </test-piece>
+
+  <venue id="2626">Holywell, Flintshire</venue>
+  <notes>March contest - 1st Shotton, 2nd Bromborough.
+2 bands competed</notes>
+
+  <created>Oct. 21, 2014, 3:55 p.m.</created>
+  <last-modified>Oct. 1, 2018, 12:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="211727">
+      <result code="1">1</result>
+      <band id="12712">Bromborough Pool</band>
+      <conductor id="299871">A. J. Crate</conductor>
+    </result>
+    
+    <result id="211728">
+      <result code="2">2</result>
+      <band id="12375">Shotton Subscription</band>
+      <conductor id="301858">George Gittens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

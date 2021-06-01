@@ -1,0 +1,49 @@
+<contest-event id="15700">
+  <event-date date="1912-12-19">Dec. 19, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bedlinog Contest</name>
+  <contest id="3385">
+    <name>Bedlinog Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="620">East Glamorgan League</group>
+    <slug>bedliniog-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1318">Norma</test-piece>
+  </test-piece>
+
+  <venue id="2602">Bedliniog, Glamorgan</venue>
+  <notes>
+  1st contest promoted by the East Glamorgan League.</notes>
+
+  <created>Oct. 30, 2012, 1:11 p.m.</created>
+  <last-modified>Nov. 29, 2012, 1:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="121193">
+      <result code="1">1</result>
+      <band id="7623">Nelson Temperance</band>
+      <conductor id="301026">F. Every</conductor>
+    </result>
+    
+    <result id="121194">
+      <result code="2">2</result>
+      <band id="9800">St Cynons</band>
+      <conductor id="301018">W. J. Evans</conductor>
+    </result>
+    
+    <result id="121195">
+      <result code="3">3</result>
+      <band id="7250">Bedlinog</band>
+      <conductor id="300188">W. Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

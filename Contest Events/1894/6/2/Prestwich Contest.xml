@@ -1,0 +1,62 @@
+<contest-event id="12021">
+  <event-date date="1894-6-2">June 2, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Prestwich Contest</name>
+  <contest id="2448">
+    <name>Prestwich Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>prestwich-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1843">Pomona</test-piece>
+  </test-piece>
+
+  <venue id="1804">Prestwich</venue>
+  <notes>1st annual contest promoted by Prestwich Brass Band
+10 bands competed of 13 entries
+Prizes: £12, £7, £4, £2, £1</notes>
+
+  <created>April 8, 2012, 9:01 p.m.</created>
+  <last-modified>June 11, 2019, 2:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96610">
+      <result code="1">1</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="96611">
+      <result code="2">2</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="96612">
+      <result code="3">3</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="96613">
+      <result code="4">4</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="306633">Thomas Needham</conductor>
+    </result>
+    
+    <result id="96614">
+      <result code="5">5</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

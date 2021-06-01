@@ -1,0 +1,52 @@
+<contest-event id="26828">
+  <event-date date="1913-5-10">May 10, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lincoln Contest</name>
+  <contest id="1644">
+    <name>Lincoln Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lincoln-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1938">Emilia</test-piece>
+  </test-piece>
+
+  <venue id="2139">Whitehall Grounds, Lincoln, Lincolnshire, England, UK</venue>
+  <notes>Promoted by Lincoln Malleable Band
+
+March: 1. Clown, 2. Ruston&#39;s
+
+</notes>
+
+  <created>April 2, 2014, 12:10 p.m.</created>
+  <last-modified>March 24, 2020, 12:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="316495">
+      <result code="1">1</result>
+      <band id="6792">Clowne Silver</band>
+      <conductor id="310916">M. H. Walker</conductor>
+    </result>
+    
+    <result id="194087">
+      <result code="2">2</result>
+      <band id="8158">Lincoln Ruston&#39;s Silver</band>
+      <conductor id="297620">E. Bausor</conductor>
+    </result>
+    
+    <result id="194088">
+      <result code="3">3</result>
+      <band id="4589">Brigg Subscription Band</band>
+      <conductor id="307843">G. Quarmby</conductor>
+    </result>
+    
+  </results>
+</contest-event>

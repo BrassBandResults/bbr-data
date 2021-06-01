@@ -1,0 +1,92 @@
+<contest-event id="26775">
+  <event-date date="1904-5-21">May 21, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lancaster Contest</name>
+  <contest id="1261">
+    <name>Lancaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lancaster-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6554">Giant Acre Field, Lancaster, Lancashire</venue>
+  <notes>10 bands competed
+
+March: 1. Pemberton (&quot;Horseman&quot;), 2. Shipley (&quot;Albion&quot;), 3. Barrow Shipyard (&quot;Oriental&quot;)</notes>
+
+  <created>March 31, 2014, 8:25 p.m.</created>
+  <last-modified>May 17, 2017, 4 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193791">
+      <result code="1">1</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="193792">
+      <result code="2">2</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="193793">
+      <result code="3">3</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="193794">
+      <result code="4">4</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="193795">
+      <result code="5">5</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310548">Francis Lucio Traversi</conductor>
+    </result>
+    
+    <result id="274313">
+      <result code="">Unknown Result</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+    </result>
+    
+    <result id="274314">
+      <result code="">Unknown Result</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274312">
+      <result code="">Unknown Result</result>
+      <band id="7655">Lancaster Borough</band>
+      <conductor id="297736">F. L. Bell</conductor>
+    </result>
+    
+    <result id="274311">
+      <result code="">Unknown Result</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="311520">A. Wilcock</conductor>
+    </result>
+    
+    <result id="274315">
+      <result code="">Unknown Result</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

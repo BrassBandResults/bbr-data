@@ -1,0 +1,86 @@
+<contest-event id="26772">
+  <event-date date="1904-5-14">May 14, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest</name>
+  <contest id="1334">
+    <name>Workington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="850">Workington, Cumbria, England, UK</venue>
+  <notes>March: 1. Barrow Shipyard, 2. Dalton, 3. Workington Artillery &amp; Barrow Steelworks</notes>
+
+  <created>March 31, 2014, 8:11 p.m.</created>
+  <last-modified>Aug. 27, 2018, 6:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="193776">
+      <result code="1">1</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310548">Francis Lucio Traversi</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193778">
+      <result code="2">2</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193777">
+      <result code="2">2</result>
+      <band id="934">Dalton Town Band</band>
+      <conductor id="299069">John Carter</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193779">
+      <result code="4">4</result>
+      <band id="3403">Whitehaven Brass Band</band>
+      <conductor id="318025">W. Heap</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193780">
+      <result code="5">5</result>
+      <band id="1510">Workington</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="292171">
+      <result code="">Unknown Result</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="292169">
+      <result code="">Unknown Result</result>
+      <band id="14077">Cockermouth Borough</band>
+      <conductor id="315243">James Millington</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="292170">
+      <result code="">Unknown Result</result>
+      <band id="17309">Barrow Cemetery Cottages Mission</band>
+      <conductor id="318260">F. Holmes</conductor>
+      <test-piece id="1646">Recollections of Flotow</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,92 @@
+<contest-event id="10808">
+  <event-date date="1906-6-6">June 6, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nottingham Contest</name>
+  <contest id="1185">
+    <name>Nottingham Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>nottingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1717">Cluster of Classics</test-piece>
+  </test-piece>
+
+  <venue id="603">Nottingham, Nottinghamshire, England, UK</venue>
+  <notes>1st prize £10, 2nd prize £6, 3rd prize £4, 4th prize £2, 5th prize £1.
+Valse contest  1st Houghton Main, 2nd Newstead, 3rd divided between Melbourne and Kirkby-in-Ashfield.
+10 bands competed.</notes>
+
+  <created>March 4, 2012, 5:21 p.m.</created>
+  <last-modified>Sept. 13, 2018, 12:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90179">
+      <result code="1">1</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="90180">
+      <result code="2">2</result>
+      <band id="6579">Newstead Colliery</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="90181">
+      <result code="3">3</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="90182">
+      <result code="4">4</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="90183">
+      <result code="5">5</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="90185">
+      <result code="">Unknown Result</result>
+      <band id="6340">Beeston Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90187">
+      <result code="">Unknown Result</result>
+      <band id="6337">Eastwood Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90188">
+      <result code="">Unknown Result</result>
+      <band id="3861">Melbourne Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90184">
+      <result code="">Unknown Result</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90186">
+      <result code="">Unknown Result</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,83 @@
+<contest-event id="10979">
+  <event-date date="1906-8-11">Aug. 11, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ripley Contest</name>
+  <contest id="2150">
+    <name>Ripley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ripley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1563">Ripley, Derbyshire</venue>
+  <notes>
+
+  March contest 1st Ripley United, 2nd Heanor Old, 3rd Derby Excelsior.
+
+  7 bands competed.</notes>
+
+  <created>March 10, 2012, 11:58 a.m.</created>
+  <last-modified>Sept. 14, 2018, 9:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90978">
+      <result code="1">1</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="309297">J. W. Smedley</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="90979">
+      <result code="2">2</result>
+      <band id="7092">Derby Excelsior</band>
+      <conductor id="301028">Henry Evetts</conductor>
+      <test-piece id="5433">Dinorah</test-piece>
+    </result>
+    
+    <result id="90980">
+      <result code="3">3</result>
+      <band id="7169">Heanor Old</band>
+      <conductor id="301050">S. Eyre</conductor>
+      <test-piece id="888">Satanella [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="90981">
+      <result code="4">4</result>
+      <band id="5205">Kilburn United</band>
+      <conductor id="302841">James Haywood</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+    <result id="90982">
+      <result code="">Unknown Result</result>
+      <band id="7170">Derby Keddleston Street</band>
+      <conductor id="297336">T. A. Bailey</conductor>
+      <test-piece id="888">Satanella [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="90983">
+      <result code="">Unknown Result</result>
+      <band id="6337">Eastwood Ambulance</band>
+      <conductor id="304992">T. Leivers</conductor>
+      <test-piece id="2804">Dinorah [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="90984">
+      <result code="">Unknown Result</result>
+      <band id="7171">Duffield Ambulance</band>
+      <conductor id="318314">J. Pegg</conductor>
+      <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

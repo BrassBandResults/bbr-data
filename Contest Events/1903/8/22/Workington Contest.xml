@@ -1,0 +1,80 @@
+<contest-event id="21974">
+  <event-date date="1903-8-22">Aug. 22, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest</name>
+  <contest id="1334">
+    <name>Workington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2463">Mercadante</test-piece>
+  </test-piece>
+
+  <venue id="850">Workington, Cumbria, England, UK</venue>
+  <notes>8 bands competed.
+
+Prizes: £35, £20, £15, £10, £5</notes>
+
+  <created>June 20, 2013, 11:31 a.m.</created>
+  <last-modified>July 29, 2016, 1:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="163041">
+      <result code="1">1</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="163043">
+      <result code="2">2</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="163044">
+      <result code="3">3</result>
+      <band id="18682">Crooke</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="171022">
+      <result code="4">4</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="171023">
+      <result code="5">5</result>
+      <band id="7933">Hebburn Artillery</band>
+      <conductor id="313844">Joseph Paley</conductor>
+    </result>
+    
+    <result id="163046">
+      <result code="">Unknown Result</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="163047">
+      <result code="">Unknown Result</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="163045">
+      <result code="">Unknown Result</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

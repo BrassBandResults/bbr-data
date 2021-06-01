@@ -1,0 +1,71 @@
+<contest-event id="12609">
+  <event-date date="1899-8-7">Aug. 7, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Peterborough Contest</name>
+  <contest id="1175">
+    <name>Peterborough Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>peterborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1406">Peterborough, Cambridgeshire</venue>
+  <notes>1st prize £20.
+2nd prize £14.
+3rd prize £8.
+4th prize £4.
+March contest 1st (£1) Batley Old (Le Grande),  2nd (10s.) Kettering Rifles (La Rominaro).
+5 bands competed.
+Contest Field September 1899 </notes>
+
+  <created>April 18, 2012, 1:28 p.m.</created>
+  <last-modified>July 10, 2017, 9:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100569">
+      <result code="1">1</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="309902">Tom Stubley</conductor>
+      <test-piece id="2801">Die Walküre</test-piece>
+    </result>
+    
+    <result id="100570">
+      <result code="2">2</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="100571">
+      <result code="3">3</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="277968">
+      <result code="4">4</result>
+      <band id="124">Chapeltown Silver Prize Band</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="100573">
+      <result code="5">5</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

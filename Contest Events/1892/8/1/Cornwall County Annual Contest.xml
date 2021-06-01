@@ -1,0 +1,59 @@
+<contest-event id="18212">
+  <event-date date="1892-8-1">Aug. 1, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall County Annual Contest</name>
+  <contest id="1744">
+    <name>Cornwall County Annual Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cornwall-county-5th-annual</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1991">Herculaneum</test-piece>
+  </test-piece>
+
+  <venue id="3074">Tehidy Park, Camborne</venue>
+  <notes>12th Annual Contest.
+4 bands competed</notes>
+
+  <created>Feb. 14, 2013, 9:59 a.m.</created>
+  <last-modified>June 3, 2019, 11:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="137280">
+      <result code="1">1</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="297042">John Andrews</conductor>
+      <test-piece id="1852">Pride of Wales</test-piece>
+    </result>
+    
+    <result id="137281">
+      <result code="2">2</result>
+      <band id="10381">Illogan Reed and Brass</band>
+      <conductor id="307033">Harry Oxland</conductor>
+      <test-piece id="1929">Crown Diamonds</test-piece>
+    </result>
+    
+    <result id="137282">
+      <result code="3">3</result>
+      <band id="10308">Camborne</band>
+      <conductor id="317423">W. Wren</conductor>
+      <test-piece id="2322">The Champion (Grand Fantasia)</test-piece>
+    </result>
+    
+    <result id="309160">
+      <result code="4">4</result>
+      <band id="6463">Stenalees Silver Band</band>
+      <conductor id="308121">J. T. Richards</conductor>
+      <test-piece id="2322">The Champion (Grand Fantasia)</test-piece>
+    </result>
+    
+  </results>
+</contest-event>
