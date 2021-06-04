@@ -1,0 +1,76 @@
+<contest-event id="8666">
+  <event-date date="1875-7-5">July 5, 1875<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Pomona Gardens</name>
+  <contest id="1542">
+    <name>Royal Pomona Gardens</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>royal-ponona-gardens</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3447">Iphigenia in Tauris</test-piece>
+  </test-piece>
+
+  <venue id="2146">Pomona Gardens, Manchester</venue>
+  <notes>2nd Annual Contest
+1st prize was £50, euphonium valued £27, cornet valued £20 and medals valued at £10.
+Prizes amounted to about £250, including £85 worth of instruments from Joseph Higham&#39;s, and £43 worth of instruments from F. Besson &amp; Co.
+
+Besses won £10</notes>
+
+  <created>Dec. 9, 2011, 12:30 p.m.</created>
+  <last-modified>March 17, 2018, 12:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76327">
+      <result code="1">1</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="123478">
+      <result code="2">2</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="123479">
+      <result code="3">3</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="123480">
+      <result code="4">4</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="123481">
+      <result code="5">5</result>
+      <band id="3726">Newchurch</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="123483">
+      <result code="">Unknown Result</result>
+      <band id="2789">Hulme Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="123482">
+      <result code="">Unknown Result</result>
+      <band id="9911">Radcliffe Good Templars</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

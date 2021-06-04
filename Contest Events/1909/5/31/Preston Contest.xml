@@ -1,0 +1,62 @@
+<contest-event id="15789">
+  <event-date date="1909-5-31">May 31, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Preston Contest</name>
+  <contest id="1282">
+    <name>Preston Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>preston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1115">Pleasure Gardens, Preston</venue>
+  <notes>Best cornet - Brindle.
+Best euphonium - Preston Excelsior.
+Best soprano - Chipping.</notes>
+
+  <created>Nov. 2, 2012, 3:24 p.m.</created>
+  <last-modified>Oct. 13, 2020, 11:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121783">
+      <result code="1">1</result>
+      <band id="1446">Horwich RMI</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121784">
+      <result code="2">2</result>
+      <band id="394">Brindle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322347">
+      <result code="">Unknown Result</result>
+      <band id="11519">Chipping Norton Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322345">
+      <result code="">Unknown Result</result>
+      <band id="8068">Preston Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322346">
+      <result code="">Unknown Result</result>
+      <band id="6572">Ribchester Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

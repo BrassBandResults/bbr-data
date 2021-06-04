@@ -1,0 +1,61 @@
+<contest-event id="26615">
+  <event-date date="1880-8-2">Aug. 2, 1880<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Liverpool Contest</name>
+  <contest id="3709">
+    <name>Liverpool Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>liverpool-contest-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6437">Wedding Day [unknown composer]</test-piece>
+  </test-piece>
+
+  
+  <notes>12 bands competed.</notes>
+
+  <created>March 11, 2014, 9:11 a.m.</created>
+  <last-modified>Dec. 11, 2020, 8:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="192798">
+      <result code="1">1</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192803">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192800">
+      <result code="3">3</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2775">Wedding March [arr. Round]</test-piece>
+    </result>
+    
+    <result id="192801">
+      <result code="4">4</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192802">
+      <result code="5">5</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

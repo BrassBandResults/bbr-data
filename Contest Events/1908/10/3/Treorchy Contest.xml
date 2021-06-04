@@ -1,0 +1,73 @@
+<contest-event id="40381">
+  <event-date date="1908-10-3">Oct. 3, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treorchy Contest</name>
+  <contest id="2180">
+    <name>Treorchy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treorchy-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1929">Crown Diamonds</test-piece>
+  </test-piece>
+
+  <venue id="2601">Ambulance Hall, Treorchy, Glamorgan</venue>
+  <notes>March contest - 1st Ferndale, 2nd Cory, 3rd Dinas.
+7 bands competed.</notes>
+
+  <created>Sept. 24, 2018, 6:38 p.m.</created>
+  <last-modified>July 25, 2020, 9:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293771">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="293770">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="293768">
+      <result code="3">3</result>
+      <band id="6353">Albion Colliery</band>
+      <conductor id="316075">Gus Foxall</conductor>
+    </result>
+    
+    <result id="293769">
+      <result code="4">4</result>
+      <band id="6984">Dinas</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="293772">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310282">H. S. Thomas</conductor>
+    </result>
+    
+    <result id="293773">
+      <result code="">Unknown Result</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="301832">Samuel Gillard</conductor>
+    </result>
+    
+    <result id="293774">
+      <result code="">Unknown Result</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

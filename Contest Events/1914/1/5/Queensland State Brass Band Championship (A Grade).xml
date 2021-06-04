@@ -1,0 +1,70 @@
+<contest-event id="41581">
+  <event-date date="1914-1-5">Jan. 5, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="7069">Maryborough Show Ground, Maryborough, Queensland, Australia</venue>
+  <notes>Boosey Challenge Shield
+Aggregate  -  2  Selections ;  Street March  ;  Waltz  ;  Quickstep March
+
+1st  Ipswich Vice Regal    518 pts
+2nd  Brisbane Excelsior   514
+3.   Warwick Town           477
+4.   Gympie City              473</notes>
+
+  <created>Dec. 21, 2018, 10:30 p.m.</created>
+  <last-modified>April 30, 2021, 9:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="302636">
+      <result code="1">1</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="305950">F. W. G. McLeod</conductor>
+      <test-piece id="1844">Herold [arr. Round]</test-piece>
+    </result>
+    
+    <result id="302637">
+      <result code="2">2</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="300200">Bill Davis</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="302638">
+      <result code="3">3</result>
+      <band id="5770">Gympie City Band</band>
+      <conductor id="318785">W. Mulder</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="302639">
+      <result code="4">4</result>
+      <band id="17529">Warwick Town</band>
+      <conductor id="318552">A. E. Loxton</conductor>
+      <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="302640">
+      <result code="W">Withdrawn</result>
+      <band id="17561">Rockhampton City Boys</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,70 @@
+<contest-event id="19268">
+  <event-date date="1894-8-6">Aug. 6, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall County Annual Contest</name>
+  <contest id="1744">
+    <name>Cornwall County Annual Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cornwall-county-5th-annual</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2195">Reminiscences of Donizetti [arr. Smith]</test-piece>
+  </test-piece>
+
+  <venue id="2089">Trevenson Park, Redruth</venue>
+  <notes>Prizes amounted to £47 13s</notes>
+
+  <created>March 17, 2013, 10:48 p.m.</created>
+  <last-modified>March 17, 2013, 10:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="145005">
+      <result code="1">1</result>
+      <band id="6508">Duke of Cornwall&#39;s Rifles (Camborne) Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+    </result>
+    
+    <result id="145008">
+      <result code="2">2</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1278">Elixir of Love</test-piece>
+    </result>
+    
+    <result id="145007">
+      <result code="3">3</result>
+      <band id="6487">7th Duke of Cornwall&#39;s Rifles (Helston)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1852">Pride of Wales</test-piece>
+    </result>
+    
+    <result id="145006">
+      <result code="4">4</result>
+      <band id="6525">Duke of Cornwall&#39;s Artillery (St Just) Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1851">Rival</test-piece>
+    </result>
+    
+    <result id="145010">
+      <result code="W">Withdrawn</result>
+      <band id="10381">Illogan Reed and Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="145009">
+      <result code="W">Withdrawn</result>
+      <band id="6463">Stenalees Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

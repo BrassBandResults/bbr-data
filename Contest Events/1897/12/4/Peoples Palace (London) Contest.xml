@@ -1,0 +1,61 @@
+<contest-event id="42395">
+  <event-date date="1897-12-4">Dec. 4, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Peoples Palace (London) Contest</name>
+  <contest id="2566">
+    <name>Peoples Palace (London) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>peoples-palace-london-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1078">Gems of Columbia</test-piece>
+  </test-piece>
+
+  <venue id="1923">People&#39;s Palace, Queen Mary University of London, Mile End Road, Tower Hamlets, Greater London, England, UK</venue>
+  <notes>Restricted to bands from East and North East London.
+5 bands competed.</notes>
+
+  <created>July 12, 2019, 7:02 p.m.</created>
+  <last-modified>July 13, 2019, 6:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="311199">
+      <result code="1">1</result>
+      <band id="8178">Walthamstow Town Silver</band>
+      <conductor id="299707">Sam Cope</conductor>
+    </result>
+    
+    <result id="311200">
+      <result code="2">2</result>
+      <band id="6871">Ilford Horns Temperance</band>
+      <conductor id="311781">R. Wilson</conductor>
+    </result>
+    
+    <result id="311201">
+      <result code="3">3</result>
+      <band id="6004">Strand Union School</band>
+      <conductor id="319388">W. Binnie</conductor>
+    </result>
+    
+    <result id="311202">
+      <result code="4">4</result>
+      <band id="8352">Tottenham Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311205">
+      <result code="5">5</result>
+      <band id="8238">Walthamstow Oddfellows</band>
+      <conductor id="300273">F. Dean</conductor>
+    </result>
+    
+  </results>
+</contest-event>

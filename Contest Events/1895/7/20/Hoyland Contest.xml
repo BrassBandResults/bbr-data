@@ -1,0 +1,93 @@
+<contest-event id="12556">
+  <event-date date="1895-7-20">July 20, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hoyland Contest</name>
+  <contest id="2603">
+    <name>Hoyland Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hoyland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1952">Hoyland</venue>
+  <notes>March contest: 1. Mexborough, 2. Wharncliffe
+Prizes - 1st £8, 2nd £5, 3rd £3, 4th £1.
+10 bands competed
+</notes>
+
+  <created>April 16, 2012, 4:30 p.m.</created>
+  <last-modified>June 20, 2019, 9:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100272">
+      <result code="1">1</result>
+      <band id="5210">Barnsley Model</band>
+      <conductor id="310193">William Taylor</conductor>
+    </result>
+    
+    <result id="100273">
+      <result code="2">2</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="300245">John Dawson</conductor>
+    </result>
+    
+    <result id="100274">
+      <result code="3">3</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310695">J. Tyas</conductor>
+    </result>
+    
+    <result id="100275">
+      <result code="4">4</result>
+      <band id="7078">Jump</band>
+      <conductor id="311104">R. Watkin</conductor>
+    </result>
+    
+    <result id="100276">
+      <result code="">Unknown Result</result>
+      <band id="7198">Spital Hill</band>
+      <conductor id="305612">Charles Marsden</conductor>
+    </result>
+    
+    <result id="100277">
+      <result code="">Unknown Result</result>
+      <band id="7802">Wakefield Belle Vue</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="100278">
+      <result code="">Unknown Result</result>
+      <band id="2794">Elsecar Subscription</band>
+      <conductor id="299169">William Chadwick</conductor>
+    </result>
+    
+    <result id="100279">
+      <result code="">Unknown Result</result>
+      <band id="7004">Rutland Mills</band>
+      <conductor id="307487">Jonas Pickles</conductor>
+    </result>
+    
+    <result id="100280">
+      <result code="">Unknown Result</result>
+      <band id="5083">Thorncliffe Victoria</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="310605">
+      <result code="">Unknown Result</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

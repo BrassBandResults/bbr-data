@@ -1,0 +1,60 @@
+<contest-event id="40843">
+  <event-date date="1923-7-7">July 7, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haltwhistle Contest</name>
+  <contest id="2087">
+    <name>Haltwhistle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haltwhistle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1522">Haltwhistle, Northumberland</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Oct. 20, 2018, 9:58 a.m.</created>
+  <last-modified>Feb. 1, 2021, 11:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296779">
+      <result code="1">1</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296780">
+      <result code="2">2</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296781">
+      <result code="3">3</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296782">
+      <result code="4">4</result>
+      <band id="2138">Palmer&#39;s Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296783">
+      <result code="5">5</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

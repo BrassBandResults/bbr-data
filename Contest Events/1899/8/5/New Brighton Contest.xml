@@ -1,0 +1,85 @@
+<contest-event id="12520">
+  <event-date date="1899-8-5">Aug. 5, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Brighton Contest</name>
+  <contest id="1875">
+    <name>New Brighton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-brighton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2144">New Brighton Tower, Cheshire</venue>
+  <notes>1st prize £30 and cup.
+  2nd prize £15.
+  3rd prize £10.
+  4th prize £5.
+Best cornet - John Paley (Black Dyke).
+Best euphonium - John Green (Nutgrove).
+1st annual contest organised at New Brighton Tower.
+17 bands entered,  8 bands competed.</notes>
+
+  <created>April 15, 2012, 7:38 p.m.</created>
+  <last-modified>July 28, 2019, 2:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100056">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="100057">
+      <result code="2">2</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="100058">
+      <result code="3">3</result>
+      <band id="18682">Crooke</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100059">
+      <result code="4">4</result>
+      <band id="1510">Workington</band>
+      <conductor id="308840">Herbert Scott</conductor>
+    </result>
+    
+    <result id="100060">
+      <result code="">Unknown Result</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="100061">
+      <result code="">Unknown Result</result>
+      <band id="3589">Rhodes Bleach Works</band>
+      <conductor id="311401">John Henry White</conductor>
+    </result>
+    
+    <result id="100062">
+      <result code="">Unknown Result</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100063">
+      <result code="">Unknown Result</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

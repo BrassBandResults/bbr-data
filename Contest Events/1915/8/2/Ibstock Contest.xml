@@ -1,0 +1,62 @@
+<contest-event id="40555">
+  <event-date date="1915-8-2">Aug. 2, 1915<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ibstock Contest</name>
+  <contest id="2337">
+    <name>Ibstock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ibstock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2813">Melodies of the Past</test-piece>
+  </test-piece>
+
+  <venue id="1832">Ram Hotel, Ibstock, Leicestershire, England, UK</venue>
+  <notes>Prizes - 1st £6, 2nd £4, 3rd £2, 4th £1
+Promoted for Leicester Royal Infirmary funds.
+5 bands competed.</notes>
+
+  <created>Oct. 4, 2018, 9:09 p.m.</created>
+  <last-modified>Dec. 31, 2020, 11:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295128">
+      <result code="1">1</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="295127">
+      <result code="2">2</result>
+      <band id="4090">Ibstock Welfare</band>
+      <conductor id="304886">Albert Lawton</conductor>
+    </result>
+    
+    <result id="295125">
+      <result code="3">3</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="308937">G. C. Sharp</conductor>
+    </result>
+    
+    <result id="295126">
+      <result code="4">4</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="303810">W. Insley</conductor>
+    </result>
+    
+    <result id="295129">
+      <result code="5">5</result>
+      <band id="1491">Barlestone Victoria</band>
+      <conductor id="318446">W. Lovell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

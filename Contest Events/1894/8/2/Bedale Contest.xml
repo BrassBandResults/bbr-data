@@ -1,0 +1,61 @@
+<contest-event id="10312">
+  <event-date date="1894-8-2">Aug. 2, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bedale Contest</name>
+  <contest id="1245">
+    <name>Bedale Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bedale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="646">Bedale, North Yorkshire, England, UK</venue>
+  <notes>Source:
+The Yorkshire Herald, and The York Herald (York, England), Friday, August 03, 1894; pg. 3; Issue 13468.
+
+Prizes: £12, £5</notes>
+
+  <created>Feb. 15, 2012, 11:53 a.m.</created>
+  <last-modified>March 17, 2013, 11:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="87005">
+      <result code="1">1</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1005">L&#39;Etoile du Nord [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="87006">
+      <result code="2">2</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="306921">James Oliver</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+    <result id="87007">
+      <result code="3">3</result>
+      <band id="585">Leyburn</band>
+      <conductor id="304013">T. Jenkinson</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="87008">
+      <result code="4">4</result>
+      <band id="944">Northallerton Silver Band</band>
+      <conductor id="301452">C. Fowler</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

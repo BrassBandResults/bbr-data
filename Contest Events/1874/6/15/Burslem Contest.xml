@@ -1,0 +1,88 @@
+<contest-event id="15560">
+  <event-date date="1874-6-15">June 15, 1874<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burslem Contest</name>
+  <contest id="1514">
+    <name>Burslem Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>burslem-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2188">Simon Boccanegra (arr. Bonnisseau)</test-piece>
+  </test-piece>
+
+  <venue id="983">Porthill Park, Burslem</venue>
+  <notes>Prizes: £47 and Bb bombardon, £32 5s and Bb euphonium, £21 10s and Bb baritone, £15 and Bb flugel horn. 
+
+Cornet prize (cornet value 12 guineas) to Mr Peers (Stalybridge)
+
+Malinslee Band were disqualified from taking the 3rd prize through having professionals, thus Chesterton gained a prize.</notes>
+
+  <created>Oct. 24, 2012, 10:27 p.m.</created>
+  <last-modified>Oct. 24, 2012, 10:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="120429">
+      <result code="1">1</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="307328">John Peers</conductor>
+    </result>
+    
+    <result id="120425">
+      <result code="2">2</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="120430">
+      <result code="3">3</result>
+      <band id="5283">Stafford Rifle</band>
+      <conductor id="305782">Mr. McAllister</conductor>
+    </result>
+    
+    <result id="120428">
+      <result code="4">4</result>
+      <band id="10107">Chesterton United</band>
+      <conductor id="298464">J. E. Brindley</conductor>
+    </result>
+    
+    <result id="120426">
+      <result code="5">5</result>
+      <band id="5905">1st Staffordshire Artillery</band>
+      <conductor id="300253">Thomas Dawson</conductor>
+    </result>
+    
+    <result id="120427">
+      <result code="D">Disqualified</result>
+      <band id="9752">Malinslee</band>
+      <conductor id="306154">Mr. Millington</conductor>
+    </result>
+    
+    <result id="120433">
+      <result code="W">Withdrawn</result>
+      <band id="2792">Compstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="120432">
+      <result code="W">Withdrawn</result>
+      <band id="7202">St. George&#39;s Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="120431">
+      <result code="W">Withdrawn</result>
+      <band id="3489">Wednesbury Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,42 @@
+<contest-event id="9065">
+  <event-date date="1883-8-2">Aug. 2, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest</name>
+  <contest id="1568">
+    <name>Rhyl Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1074">The Forest Queen</test-piece>
+  </test-piece>
+
+  <venue id="1029">Winter Gardens, Rhyl</venue>
+  <notes>Only 2 bands competed.</notes>
+
+  <created>Dec. 20, 2011, 10:48 p.m.</created>
+  <last-modified>Nov. 1, 2017, 10:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="78894">
+      <result code="1">1</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="310424">J. R. Tidswell</conductor>
+    </result>
+    
+    <result id="78895">
+      <result code="1">1</result>
+      <band id="185">Middleton Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

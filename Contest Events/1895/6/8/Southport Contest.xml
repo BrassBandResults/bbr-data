@@ -1,0 +1,123 @@
+<contest-event id="12485">
+  <event-date date="1895-6-8">June 8, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southport Contest</name>
+  <contest id="1547">
+    <name>Southport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="390">Southport, Merseyside, England, UK</venue>
+  <notes>Prizes: £16, £10, £5, £3, £1
+13 bands competed</notes>
+
+  <created>April 15, 2012, 8:08 a.m.</created>
+  <last-modified>June 17, 2019, 11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99738">
+      <result code="1">1</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="1886">Buttercups &amp; Daisies</test-piece>
+    </result>
+    
+    <result id="99739">
+      <result code="1">1</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="99740">
+      <result code="3">3</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="311914">William Wood</conductor>
+    </result>
+    
+    <result id="99741">
+      <result code="4">4</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99742">
+      <result code="5">5</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1886">Buttercups &amp; Daisies</test-piece>
+    </result>
+    
+    <result id="99746">
+      <result code="">Unknown Result</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99750">
+      <result code="">Unknown Result</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99745">
+      <result code="">Unknown Result</result>
+      <band id="1501">Banks Brass</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99747">
+      <result code="">Unknown Result</result>
+      <band id="7586">High Crompton</band>
+      <conductor id="307313">William Peatfield</conductor>
+    </result>
+    
+    <result id="99748">
+      <result code="">Unknown Result</result>
+      <band id="2770">Heywood Old Prize</band>
+      <conductor id="301337">R. K. Fletcher</conductor>
+    </result>
+    
+    <result id="99749">
+      <result code="">Unknown Result</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301861">Edward Gittins</conductor>
+    </result>
+    
+    <result id="99744">
+      <result code="">Unknown Result</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="99743">
+      <result code="">Unknown Result</result>
+      <band id="7616">Hyde Borough</band>
+      <conductor id="306701">Sam Newton</conductor>
+    </result>
+    
+    <result id="147667">
+      <result code="W">Withdrawn</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="147668">
+      <result code="W">Withdrawn</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

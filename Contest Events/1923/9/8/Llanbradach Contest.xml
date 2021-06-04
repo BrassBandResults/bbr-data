@@ -1,0 +1,48 @@
+<contest-event id="40934">
+  <event-date date="1923-9-8">Sept. 8, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanbradach Contest</name>
+  <contest id="6382">
+    <name>Llanbradach Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llanbradach-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1089">Country Life</test-piece>
+  </test-piece>
+
+  <venue id="6952">Llanbradach, Caerphilly, Glamorgan</venue>
+  <notes>March contest - 1st Cwm Town.</notes>
+
+  <created>Oct. 24, 2018, 1:14 p.m.</created>
+  <last-modified>Oct. 24, 2018, 1:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297206">
+      <result code="1">1</result>
+      <band id="793">Cwm Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297207">
+      <result code="2">2</result>
+      <band id="11332">Llanbradach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297208">
+      <result code="3">3</result>
+      <band id="9593">Ynysybwl</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

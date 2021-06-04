@@ -1,0 +1,76 @@
+<contest-event id="13793">
+  <event-date date="1891-7-7">July 7, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stanion Contest</name>
+  <contest id="2368">
+    <name>Stanion Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stanion-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5384">Stanley in Africa</test-piece>
+  </test-piece>
+
+  <venue id="1722">Stanion, Northants</venue>
+  <notes>3rd Annual Contest organised by Stanion Jubilee Brass Band
+Reported in Northampton Herald, 11th July 1891
+Quickstep: 1. Kettering, 2. Desborough
+Prizes: £3 and 12 guinea cornet, £2 and 11 guinea baritone, 10 guinea tenor horn, 7 guinea flugel horn, 5 guinea trombone.
+5 bands competed</notes>
+
+  <created>June 16, 2012, 3:26 p.m.</created>
+  <last-modified>Nov. 17, 2017, 9:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="110137">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="110138">
+      <result code="2">2</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="110139">
+      <result code="3">3</result>
+      <band id="7535">Rothwell Town [Northamptonshire]</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="110140">
+      <result code="4">4</result>
+      <band id="7947">Desborough Old</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="110141">
+      <result code="5">5</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="135815">
+      <result code="W">Withdrawn</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135814">
+      <result code="W">Withdrawn</result>
+      <band id="8629">Walgrave Amateur</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

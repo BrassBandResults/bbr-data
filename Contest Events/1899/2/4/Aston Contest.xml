@@ -1,0 +1,80 @@
+<contest-event id="11959">
+  <event-date date="1899-2-4">Feb. 4, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aston Contest</name>
+  <contest id="1173">
+    <name>Aston Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>aston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1108">Aston Lower Grounds, Birmingham</venue>
+  <notes>1st prize £15, 2nd prize £10,  3rd prize £5
+March contest 1st Rushden Temperance, 2nd Hucknall Temperance.
+ 9 bands entered, 8 bands competed.</notes>
+
+  <created>April 8, 2012, 3:53 p.m.</created>
+  <last-modified>July 23, 2019, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96246">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="96247">
+      <result code="2">2</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="96248">
+      <result code="3">3</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="96249">
+      <result code="">Unknown Result</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="96250">
+      <result code="">Unknown Result</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="96251">
+      <result code="">Unknown Result</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297366">H. Baker</conductor>
+    </result>
+    
+    <result id="96252">
+      <result code="">Unknown Result</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="96253">
+      <result code="">Unknown Result</result>
+      <band id="1214">Loughborough</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="8286">
+  <event-date date="1870-7-16">July 16, 1870<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hollingworth Lake Contest</name>
+  <contest id="1811">
+    <name>Rochdale Contest (1800s)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rochdale-contest-1800s</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1265">Nabucodonosor - Overture [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="946">Hollingworth Lake, Rochdale</venue>
+  <notes>Source:
+ The Preston Guardian etc (Preston, England), Saturday, July 23, 1870; Issue 3081.
+
+IBEW lists Briercliffe as the winners, but this seems to be an error.
+
+Briercliffe played &quot;Hallelujah Chorus&quot;, &quot;Kyrie&quot;, and &quot;Gloria.&quot;
+Five prizes, amounting to £74
+12 bands competed.</notes>
+
+  <created>Nov. 11, 2011, 3:47 p.m.</created>
+  <last-modified>April 3, 2016, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94733">
+      <result code="1">1</result>
+      <band id="18240">Darwen Temperance</band>
+      <conductor id="306232">A. R. Moncke</conductor>
+    </result>
+    
+    <result id="94734">
+      <result code="2">2</result>
+      <band id="5105">Healey Hall Band</band>
+      <conductor id="302721">E. Hartley</conductor>
+    </result>
+    
+    <result id="94735">
+      <result code="3">3</result>
+      <band id="3300">Deighton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="74184">
+      <result code="4">4</result>
+      <band id="3671">Briercliffe Prize Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1693">Hallelujah Chorus [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="94736">
+      <result code="5">5</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="251987">
+      <result code="">Unknown Result</result>
+      <band id="3726">Newchurch</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="251988">
+      <result code="">Unknown Result</result>
+      <band id="2616">Ramsbottom Rifle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,44 @@
+<contest-event id="15025">
+  <event-date date="1912-8-5">Aug. 5, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newbury Contest [1900s] (First Section)</name>
+  <contest id="3140">
+    <name>Newbury Contest [1900s] (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="299">Newbury Contest [1900s]</group>
+    <slug>newbury-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2430">Fete Ground, Newbury, Berkshire</venue>
+  <notes>  2 bands only competed.
+
+  Promoted by Newbury Conservative Club.</notes>
+
+  <created>Oct. 1, 2012, 5:04 p.m.</created>
+  <last-modified>May 11, 2013, 6:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="117082">
+      <result code="1">1</result>
+      <band id="7510">Newbury Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="117083">
+      <result code="2">2</result>
+      <band id="9532">Fleet</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

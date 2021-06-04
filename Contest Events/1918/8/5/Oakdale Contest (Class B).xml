@@ -1,0 +1,42 @@
+<contest-event id="28818">
+  <event-date date="1918-8-5">Aug. 5, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oakdale Contest (Class B)</name>
+  <contest id="5402">
+    <name>Oakdale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>oakdale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2296">I Puritani [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2509">Oakdale, Caerphilly, Wales, UK</venue>
+  <notes>2 bands competed</notes>
+
+  <created>June 26, 2014, 4:49 p.m.</created>
+  <last-modified>Oct. 11, 2018, 9:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="205943">
+      <result code="1">1</result>
+      <band id="8418">Abergorchy</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="295772">
+      <result code="2">2</result>
+      <band id="7570">Bargoed</band>
+      <conductor id="318461">W. H. Bosanko</conductor>
+    </result>
+    
+  </results>
+</contest-event>

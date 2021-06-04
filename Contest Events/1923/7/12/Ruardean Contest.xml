@@ -1,0 +1,50 @@
+<contest-event id="40844">
+  <event-date date="1923-7-12">July 12, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest</name>
+  <contest id="1022">
+    <name>Ruardean Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="356">Ruardean Contest</group>
+    <slug>ruardean-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>Prizes - 1st £15, 2nd £5.
+March contest - 1st Treharris.
+3 bands competed.</notes>
+
+  <created>Oct. 20, 2018, 10:04 a.m.</created>
+  <last-modified>Oct. 20, 2018, 11:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296784">
+      <result code="1">1</result>
+      <band id="8031">Treharris</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="296785">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303914">Frank James</conductor>
+    </result>
+    
+    <result id="296786">
+      <result code="3">3</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

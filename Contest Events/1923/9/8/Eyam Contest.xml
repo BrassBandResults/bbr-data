@@ -1,0 +1,67 @@
+<contest-event id="40936">
+  <event-date date="1923-9-8">Sept. 8, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eyam Contest</name>
+  <contest id="6409">
+    <name>Eyam Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eyam-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="6978">Eyam, Derbyshire</venue>
+  <notes>March contest - 1st Rawmarsh, 2nd Chesterfield.
+6 bands competed.</notes>
+
+  <created>Oct. 25, 2018, 6:41 a.m.</created>
+  <last-modified>Oct. 25, 2018, 6:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297210">
+      <result code="1">1</result>
+      <band id="4141">Chesterfield Town &amp; Old Comrades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297211">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297212">
+      <result code="3">3</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297213">
+      <result code="">Unknown Result</result>
+      <band id="2600">Chinley &amp; Buxworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297215">
+      <result code="">Unknown Result</result>
+      <band id="2562">Ecclesfield Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297214">
+      <result code="">Unknown Result</result>
+      <band id="3485">Loxley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

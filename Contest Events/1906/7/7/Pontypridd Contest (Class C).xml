@@ -1,0 +1,74 @@
+<contest-event id="10842">
+  <event-date date="1906-7-7">July 7, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class C)</name>
+  <contest id="2114">
+    <name>Pontypridd Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1739">Songs of Balfe</test-piece>
+  </test-piece>
+
+  <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>1st prize £7, 2nd prize £4, 3rd prize £2, 4th prize £1.
+March contest 1st (£1) Aberdare, 2nd (10s.6d.) Lewis Merthyr.
+7 bands competed.</notes>
+
+  <created>March 7, 2012, 4:51 p.m.</created>
+  <last-modified>Sept. 14, 2018, 10:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90403">
+      <result code="1">1</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="90404">
+      <result code="2">2</result>
+      <band id="7045">Nantymoel Town Prize Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="90405">
+      <result code="3">3</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+    </result>
+    
+    <result id="90406">
+      <result code="4">4</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="90408">
+      <result code="">Unknown Result</result>
+      <band id="6984">Dinas</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="90407">
+      <result code="">Unknown Result</result>
+      <band id="6353">Albion Colliery</band>
+      <conductor id="316075">Gus Foxall</conductor>
+    </result>
+    
+    <result id="90409">
+      <result code="">Unknown Result</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="298231">J. Bottomley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

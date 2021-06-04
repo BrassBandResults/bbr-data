@@ -1,0 +1,68 @@
+<contest-event id="10443">
+  <event-date date="1905-8-31">Aug. 31, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1640">Llewellyn</test-piece>
+  </test-piece>
+
+  <venue id="3968">Osmaston, Derby</venue>
+  <notes>1st prize £10, 2nd prize £6, 3rd prize £3, 4th prize £2, 5th prize £1.
+March contest 1st Newstead Colliery,  2nd Woodville United.
+6 bands competed.</notes>
+
+  <created>Feb. 18, 2012, 4:25 p.m.</created>
+  <last-modified>Sept. 11, 2018, 1:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="87765">
+      <result code="1">1</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="87766">
+      <result code="2">2</result>
+      <band id="3861">Melbourne Town</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="87767">
+      <result code="3">3</result>
+      <band id="6852">Alvaston and Boulton</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="87768">
+      <result code="4">4</result>
+      <band id="6579">Newstead Colliery</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="87769">
+      <result code="5">5</result>
+      <band id="3524">Derby United</band>
+      <conductor id="301235">H. Fieldsend</conductor>
+    </result>
+    
+    <result id="87770">
+      <result code="6">6</result>
+      <band id="6655">Melbourne Baptists</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+  </results>
+</contest-event>

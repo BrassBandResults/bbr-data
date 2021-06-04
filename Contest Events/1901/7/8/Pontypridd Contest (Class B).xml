@@ -1,0 +1,74 @@
+<contest-event id="38578">
+  <event-date date="1901-7-8">July 8, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class B)</name>
+  <contest id="2568">
+    <name>Pontypridd Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2815">Euryanthe [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3085">Ynys-Angharad Park, Pontypridd, Glamorgan</venue>
+  <notes>Prizes - 1st £12 and shield, 2nd £7, 3rd £4, 4th £2.
+7 bands competed.
+11th annual South Wales and Monmouth Contest.</notes>
+
+  <created>Sept. 13, 2017, 12:45 p.m.</created>
+  <last-modified>Aug. 27, 2018, 7:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="279396">
+      <result code="1">1</result>
+      <band id="8031">Treharris</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="290710">
+      <result code="2">2</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="290709">
+      <result code="3">3</result>
+      <band id="7623">Nelson Temperance</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+    <result id="290711">
+      <result code="4">4</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="279395">
+      <result code="">Unknown Result</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="298155">John Bond</conductor>
+    </result>
+    
+    <result id="290707">
+      <result code="">Unknown Result</result>
+      <band id="7482">Cwmtawe District Training Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290708">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="298048">John Blamey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

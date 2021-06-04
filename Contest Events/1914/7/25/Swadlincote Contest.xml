@@ -1,0 +1,67 @@
+<contest-event id="44232">
+  <event-date date="1914-7-25">July 25, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swadlincote Contest</name>
+  <contest id="3131">
+    <name>Swadlincote Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swadlingcote-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="1991">Swadlincote, Derbyshire</venue>
+  <notes>Prizes - 1st £6 and cup, 2nd £4 and cup, 3rd £3, 4th £1.
+6 bands competed.</notes>
+
+  <created>Dec. 11, 2020, 11:12 p.m.</created>
+  <last-modified>Dec. 11, 2020, 11:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="323866">
+      <result code="1">1</result>
+      <band id="5296">Gresley and Swadlincote Garibaldi Brass Band</band>
+      <conductor id="314122">Cecil J. Sharp</conductor>
+    </result>
+    
+    <result id="323871">
+      <result code="2">2</result>
+      <band id="5909">Burton Silver [Leics.]</band>
+      <conductor id="304886">Albert Lawton</conductor>
+    </result>
+    
+    <result id="323868">
+      <result code="3">3</result>
+      <band id="4090">Ibstock Welfare</band>
+      <conductor id="304886">Albert Lawton</conductor>
+    </result>
+    
+    <result id="323872">
+      <result code="4">4</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="299817">W. Cowley</conductor>
+    </result>
+    
+    <result id="323869">
+      <result code="">Unknown Result</result>
+      <band id="18205">Church Gresley Colliery</band>
+      <conductor id="310454">Ian Tinsley</conductor>
+    </result>
+    
+    <result id="323870">
+      <result code="">Unknown Result</result>
+      <band id="6656">Moira Colliery</band>
+      <conductor id="297192">James Astle</conductor>
+    </result>
+    
+  </results>
+</contest-event>

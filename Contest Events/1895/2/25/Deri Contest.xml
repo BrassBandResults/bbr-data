@@ -1,0 +1,42 @@
+<contest-event id="12341">
+  <event-date date="1895-2-25">Feb. 25, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deri Contest</name>
+  <contest id="2538">
+    <name>Deri Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>deri-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1870">Vital Spark</test-piece>
+  </test-piece>
+
+  <venue id="1893">Deri, Caerphilly, Wales, UK</venue>
+  <notes>Prize: £3</notes>
+
+  <created>April 12, 2012, 7:31 p.m.</created>
+  <last-modified>April 12, 2012, 7:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98754">
+      <result code="1">1</result>
+      <band id="6596">Deri</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98755">
+      <result code="2">2</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

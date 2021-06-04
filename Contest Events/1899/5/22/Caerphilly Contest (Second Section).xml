@@ -1,0 +1,60 @@
+<contest-event id="12368">
+  <event-date date="1899-5-22">May 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest (Second Section)</name>
+  <contest id="2543">
+    <name>Caerphilly Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1866">Caledonia</test-piece>
+  </test-piece>
+
+  <venue id="1307">Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes>5 bands competed</notes>
+
+  <created>April 13, 2012, 3:16 p.m.</created>
+  <last-modified>July 27, 2019, 3:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98901">
+      <result code="1">1</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="98902">
+      <result code="2">2</result>
+      <band id="7856">Ton Pentre Volunteers</band>
+      <conductor id="298048">John Blamey</conductor>
+    </result>
+    
+    <result id="98903">
+      <result code="3">3</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="98904">
+      <result code="">Unknown Result</result>
+      <band id="6596">Deri</band>
+      <conductor id="307641">William Powell</conductor>
+    </result>
+    
+    <result id="98905">
+      <result code="">Unknown Result</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="297557">J. Barrow</conductor>
+    </result>
+    
+  </results>
+</contest-event>

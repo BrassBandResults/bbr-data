@@ -1,0 +1,88 @@
+<contest-event id="17763">
+  <event-date date="1889-7-25">July 25, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Selby Contest</name>
+  <contest id="1400">
+    <name>Selby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>selby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2949">Bowling Green, Selby</venue>
+  <notes>Selby Flower and Stock Show
+March contest: 1. Leeds, 2. Wyke Temperance.
+Prizes - 1st £20, 2nd £10, 3rd £5, 4th £2.
+7 bands competed</notes>
+
+  <created>Jan. 30, 2013, 5:41 p.m.</created>
+  <last-modified>Nov. 3, 2019, 12:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134574">
+      <result code="1">1</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="994">Faust [Spohr arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="134575">
+      <result code="2">2</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2796">Faust [Berlioz arr. Swift]</test-piece>
+    </result>
+    
+    <result id="134573">
+      <result code="3">3</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="134576">
+      <result code="4">4</result>
+      <band id="3527">Gainsborough Rifles</band>
+      <conductor id="297727">William Belcher</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="134577">
+      <result code="">Unknown Result</result>
+      <band id="10311">Selby Rifles</band>
+      <conductor id="300802">Mr. Eggleshaw</conductor>
+      <test-piece id="5318">Excelsior [Hogg]</test-piece>
+    </result>
+    
+    <result id="279329">
+      <result code="">Unknown Result</result>
+      <band id="11919">York Industrial School</band>
+      <conductor id="317152">C. Birkill</conductor>
+      <test-piece id="2773">Martha - Selection [arr. Round]</test-piece>
+    </result>
+    
+    <result id="279327">
+      <result code="">Unknown Result</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="279328">
+      <result code="W">Withdrawn</result>
+      <band id="16272">Selby Ousegate School</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,87 @@
+<contest-event id="12508">
+  <event-date date="1899-7-27">July 27, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grimsby Contest</name>
+  <contest id="1511">
+    <name>Grimsby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>grimsby</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3216">Donizetti [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="979">Vicarage Grounds, Grimsby</venue>
+  <notes>
+  1st prize £12.
+  2nd prize £10.
+  3rd prize £5.
+  4th prize £2.10s.
+  5th prize £1 divided between East Kirkby United and Handsworth Woodhouse.
+
+  March contest 1st (£1) Hucknall Excelsior, 2nd (10s.) Lincoln Malleable.
+
+  8 bands competed.</notes>
+
+  <created>April 15, 2012, 2:57 p.m.</created>
+  <last-modified>Jan. 5, 2015, 8:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99955">
+      <result code="1">1</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="99956">
+      <result code="2">2</result>
+      <band id="3267">Stocksbridge Old Prize</band>
+      <conductor id="308708">P. Sanderson</conductor>
+    </result>
+    
+    <result id="99957">
+      <result code="3">3</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="99958">
+      <result code="4">4</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="297783">Fred Bennett</conductor>
+    </result>
+    
+    <result id="99959">
+      <result code="5">5</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="301210">R. Few</conductor>
+    </result>
+    
+    <result id="99960">
+      <result code="5">5</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="299621">John William Cook</conductor>
+    </result>
+    
+    <result id="99961">
+      <result code="">Unknown Result</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="298159">A. W. Bone</conductor>
+    </result>
+    
+    <result id="99962">
+      <result code="">Unknown Result</result>
+      <band id="7909">Grimsby County</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

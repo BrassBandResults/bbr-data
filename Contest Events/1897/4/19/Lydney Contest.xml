@@ -1,0 +1,74 @@
+<contest-event id="13170">
+  <event-date date="1897-4-19">April 19, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest</name>
+  <contest id="2491">
+    <name>Lydney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lydney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1676">Macbeth [Locke arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1846">Lydney, Gloucestershire</venue>
+  <notes>First Section Contest
+Prizes: £10 10s and cornet, £6 6s, £3 3s, £1 10s
+7 bands competed</notes>
+
+  <created>May 3, 2012, 10:36 p.m.</created>
+  <last-modified>July 6, 2019, 9:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104609">
+      <result code="1">1</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="310289">J. W. Thomas</conductor>
+    </result>
+    
+    <result id="104610">
+      <result code="2">2</result>
+      <band id="4417">Wednesbury Borough</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="104611">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="302393">E. Hales</conductor>
+    </result>
+    
+    <result id="104612">
+      <result code="4">4</result>
+      <band id="4882">Bristol Britannia</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="104613">
+      <result code="">Unknown Result</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="104614">
+      <result code="">Unknown Result</result>
+      <band id="7462">Bristol Temperance</band>
+      <conductor id="310597">R. Trudgeon</conductor>
+    </result>
+    
+    <result id="104615">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="309276">C.B. Smale</conductor>
+    </result>
+    
+  </results>
+</contest-event>

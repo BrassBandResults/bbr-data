@@ -1,0 +1,88 @@
+<contest-event id="21963">
+  <event-date date="1903-8-22">Aug. 22, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cannock Contest (Section 2)</name>
+  <contest id="1997">
+    <name>Cannock Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="213">Cannock Contest</group>
+    <slug>cannock-contest-section-2</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1429">Cannock, Staffordshire</venue>
+  <notes>  Best cornet - Blakenhall Heath.
+  Best horn - Dudley Town.
+  According to British Bandsman p610 5/9/1903 - 7 bands competed. &quot;No 8 Tutbury Town - unable to play; darkness coming on.
+The weather got worse and worse, and the contest finished in a fearful storm of wind and rain.&quot;</notes>
+
+  <created>June 19, 2013, 1:36 p.m.</created>
+  <last-modified>June 20, 2013, 12:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162989">
+      <result code="1">1</result>
+      <band id="6610">Dudley Town [Midlands]</band>
+      <conductor id="303747">W. E. Hyde</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="162990">
+      <result code="2">2</result>
+      <band id="7817">Short Heath (Havelock)</band>
+      <conductor id="301275">Herbert Fisher</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="163051">
+      <result code="3">3</result>
+      <band id="7818">Blakenhall Heath</band>
+      <conductor id="312053">John Wright</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="162992">
+      <result code="4">4</result>
+      <band id="5919">Northfield Institute</band>
+      <conductor id="307698">H. Price</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="163052">
+      <result code="">Unknown Result</result>
+      <band id="5285">Cannock</band>
+      <conductor id="306386">F. Morris</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="163053">
+      <result code="">Unknown Result</result>
+      <band id="5163">Cannock St. Lukes</band>
+      <conductor id="307698">H. Price</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+    <result id="163054">
+      <result code="">Unknown Result</result>
+      <band id="5164">Rugeley Town</band>
+      <conductor id="308295">Joseph Roberts</conductor>
+      <test-piece id="1172">The Slave</test-piece>
+    </result>
+    
+    <result id="163055">
+      <result code="">Unknown Result</result>
+      <band id="7419">Tutbury Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,98 @@
+<contest-event id="13200">
+  <event-date date="1897-5-22">May 22, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southport Contest</name>
+  <contest id="1547">
+    <name>Southport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1935">Hibernia</test-piece>
+  </test-piece>
+
+  <venue id="1010">Winter Gardens, Southport</venue>
+  <notes>One of the two contests arranged for the bands attending the Miners&#39; Demonstration
+14 bands entered, 11 competed
+Prizes: £8, £6, £4, £2</notes>
+
+  <created>May 4, 2012, 10:39 p.m.</created>
+  <last-modified>July 8, 2019, 10:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="104865">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="104866">
+      <result code="2">2</result>
+      <band id="3528">Wigan Rifles</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="104867">
+      <result code="3">3</result>
+      <band id="18682">Crooke</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="104868">
+      <result code="4">4</result>
+      <band id="8281">Bradford Prize</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="104869">
+      <result code="">Unknown Result</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="104870">
+      <result code="">Unknown Result</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="104871">
+      <result code="">Unknown Result</result>
+      <band id="2524">Radcliffe Old Band</band>
+      <conductor id="311914">William Wood</conductor>
+    </result>
+    
+    <result id="104872">
+      <result code="">Unknown Result</result>
+      <band id="6221">Firs Lane</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="104873">
+      <result code="">Unknown Result</result>
+      <band id="8282">Darcy Lever</band>
+      <conductor id="318243">James Halliwell</conductor>
+    </result>
+    
+    <result id="104874">
+      <result code="">Unknown Result</result>
+      <band id="7267">Bredbury and Romiley</band>
+      <conductor id="319377">R. Pool</conductor>
+    </result>
+    
+    <result id="104875">
+      <result code="">Unknown Result</result>
+      <band id="6995">Parr St Peter&#39;s</band>
+      <conductor id="298098">J. Blundell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

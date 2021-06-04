@@ -1,0 +1,66 @@
+<contest-event id="23447">
+  <event-date date="1904-9-10">Sept. 10, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest (Welsh Section)</name>
+  <contest id="4554">
+    <name>Rhyl Contest (Welsh Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest-welsh-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2192">Elijah [arr. Gladney]</test-piece>
+  </test-piece>
+
+  <venue id="3720">Pier Pavilion, Rhyl</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Sept. 4, 2013, 9:49 a.m.</created>
+  <last-modified>Sept. 3, 2018, 5:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="172223">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="172224">
+      <result code="2">2</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="172228">
+      <result code="3">3</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="302258">William Griffiths</conductor>
+    </result>
+    
+    <result id="172226">
+      <result code="">Unknown Result</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="172227">
+      <result code="">Unknown Result</result>
+      <band id="4">Cory Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="172225">
+      <result code="W">Withdrawn</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="311599">David Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,131 @@
+<contest-event id="7079">
+  <event-date date="1862-6-30">June 30, 1862<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bristol Contest</name>
+  <contest id="1233">
+    <name>Bristol Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bristol-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2166">Das Musikfest Waltzer</test-piece>
+  </test-piece>
+
+  <venue id="649">Zoological Gardens, Clifton, Bristol</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4286.htm
+
+A brass band contest took place at Bristol, in which the band of the Wednesbury Rifle Corps took the first prize, in a field of six. The prize gained consisted of £12 and a silver-mounted baton for the conductor, Mr. S. Cresswell. The playing of the Wednesbury band was pronounced to be first-rate, the first cornet playing being particularly fine. The band, on its return to Wednesbury on Tuesday, was met at the Railway Station by a great number of people, who accompanied them to their meeting house, Mr. Britten&#39;s, in Meeting Street, and when they separated for their several homes they were loudly cheered.
+Prizes: £12, £8, £5, £3</notes>
+
+  <created>Aug. 22, 2011, 12:51 p.m.</created>
+  <last-modified>Oct. 30, 2015, 11:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="63210">
+      <result code="1">1</result>
+      <band id="3489">Wednesbury Band</band>
+      <conductor id="299889">S. Cresswell</conductor>
+      <test-piece id="1831">Nabucco</test-piece>
+    </result>
+    
+    <result id="119367">
+      <result code="2">2</result>
+      <band id="9656">Bristol Volunteer Rifle Corps</band>
+      <conductor id="302297">Lieut. Gruning</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="119368">
+      <result code="3">3</result>
+      <band id="9657">Weston-super-Mare Rifle Corps</band>
+      <conductor id="310914">John Walker</conductor>
+      <test-piece id="2168">Normandie</test-piece>
+    </result>
+    
+    <result id="245835">
+      <result code="4">4</result>
+      <band id="9654">Gloucester Volunteer Artillery &amp; Engineer Corps</band>
+      <conductor id="300192">W. J. Davies</conductor>
+      <test-piece id="2169">La Dragonne</test-piece>
+    </result>
+    
+    <result id="119366">
+      <result code="5">5</result>
+      <band id="9655">Bradford-on-Avon</band>
+      <conductor id="310430">Henry Tiley</conductor>
+      <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="119364">
+      <result code="">Unknown Result</result>
+      <band id="9653">City of Gloucester Rifles</band>
+      <conductor id="303589">George Hughes</conductor>
+      <test-piece id="2167">Mynheer Van Dunck</test-piece>
+    </result>
+    
+    <result id="119363">
+      <result code="">Unknown Result</result>
+      <band id="5143">2nd Gloucestershire Volunteer Engineers</band>
+      <conductor id="297907">John Biggs</conductor>
+      <test-piece id="1842">La Enchanteresse</test-piece>
+    </result>
+    
+    <result id="119361">
+      <result code="W">Withdrawn</result>
+      <band id="5136">4th Devon Rifle Volunteers (Modbury)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119362">
+      <result code="W">Withdrawn</result>
+      <band id="9652">9th Wilts Volunteer Rifle (Bradford)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119356">
+      <result code="W">Withdrawn</result>
+      <band id="7512">Campden Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119360">
+      <result code="W">Withdrawn</result>
+      <band id="9651">Crediton Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119359">
+      <result code="W">Withdrawn</result>
+      <band id="9650">New Swindon Volunteer Rifle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119357">
+      <result code="W">Withdrawn</result>
+      <band id="9649">St George&#39;s (Wolverhampton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119358">
+      <result code="W">Withdrawn</result>
+      <band id="5055">Victoria (Wolverhampton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119355">
+      <result code="W">Withdrawn</result>
+      <band id="6186">Warmley Tower</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

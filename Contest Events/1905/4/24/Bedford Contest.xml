@@ -1,0 +1,61 @@
+<contest-event id="9955">
+  <event-date date="1905-4-24">April 24, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bedford Contest</name>
+  <contest id="1798">
+    <name>Bedford Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bedford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1270">Bedford, Bedfordshire, England, UK</venue>
+  <notes>
+  March contest 1st Luton Red Cross, 2nd Kettering Rifles, 3rd Peterborough Town.</notes>
+
+  <created>Feb. 4, 2012, 10:59 a.m.</created>
+  <last-modified>Feb. 4, 2012, 11:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="84563">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="84564">
+      <result code="2">2</result>
+      <band id="819">Luton Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="84565">
+      <result code="3">3</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307686">Thomas Preston</conductor>
+    </result>
+    
+    <result id="84566">
+      <result code="4">4</result>
+      <band id="6591">Wellingborough Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84567">
+      <result code="">Unknown Result</result>
+      <band id="6592">Peterborough Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

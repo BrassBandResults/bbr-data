@@ -1,0 +1,49 @@
+<contest-event id="15620">
+  <event-date date="1912-8-6">Aug. 6, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontyates Contest (Class B)</name>
+  <contest id="3357">
+    <name>Pontyates Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontyates-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2583">Pontyates, Carmarthen</venue>
+  <notes>3 bands competed.
+</notes>
+
+  <created>Oct. 27, 2012, 9:43 a.m.</created>
+  <last-modified>March 23, 2020, 11:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293988">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="316430">
+      <result code="2">2</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="310293">Llewellyn Thomas</conductor>
+    </result>
+    
+    <result id="120706">
+      <result code="3">3</result>
+      <band id="9507">Clydach Town</band>
+      <conductor id="300177">R. Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

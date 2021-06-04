@@ -1,0 +1,54 @@
+<contest-event id="11909">
+  <event-date date="1893-8-19">Aug. 19, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitby Contest</name>
+  <contest id="1172">
+    <name>Whitby Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>whitby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1772">Whitby, North Yorkshire, England, UK</venue>
+  <notes>7 bands competed</notes>
+
+  <created>April 8, 2012, 12:28 p.m.</created>
+  <last-modified>May 11, 2014, 10:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96057">
+      <result code="1">1</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="96058">
+      <result code="2">2</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="96059">
+      <result code="3">3</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="96060">
+      <result code="4">4</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

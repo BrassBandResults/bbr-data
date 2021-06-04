@@ -1,0 +1,73 @@
+<contest-event id="23300">
+  <event-date date="1904-6-23">June 23, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Shields Contest (Second Section)</name>
+  <contest id="4523">
+    <name>South Shields Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-shields-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="208">South Marine Park, South Shields</venue>
+  <notes>Choice of two test pieces: &quot;La Favorita&quot; or &quot;Songs of Schubert&quot;
+</notes>
+
+  <created>Aug. 26, 2013, 9:14 p.m.</created>
+  <last-modified>Aug. 26, 2013, 9:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171309">
+      <result code="1">1</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="171310">
+      <result code="2">2</result>
+      <band id="1716">Marsden Colliery</band>
+      <conductor id="308917">W. Sewell</conductor>
+    </result>
+    
+    <result id="171311">
+      <result code="3">3</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="308149">J. Richardson</conductor>
+    </result>
+    
+    <result id="171312">
+      <result code="4">4</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="311027">James Ward</conductor>
+    </result>
+    
+    <result id="171313">
+      <result code="5">5</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="310159">J. W. Taylor</conductor>
+    </result>
+    
+    <result id="171314">
+      <result code="6">6</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="171308">
+      <result code="W">Withdrawn</result>
+      <band id="9525">Linton Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

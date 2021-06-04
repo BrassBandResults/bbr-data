@@ -1,0 +1,56 @@
+<contest-event id="22695">
+  <event-date date="1913-11-22">Nov. 22, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanelly Contest (Class A)</name>
+  <contest id="4466">
+    <name>Llanelly Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="430">Llanelly Contest</group>
+    <slug>llanelly-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1831">Nabucco</test-piece>
+  </test-piece>
+
+  <venue id="3786">St. Peter&#39;s Hall, Llanelly</venue>
+  <notes>  Prizes - 1st £12 and shield, 2nd £6, 3rd £3.
+  Organised by West Wales Brass Band Association.
+  4 bands competed.</notes>
+
+  <created>Aug. 12, 2013, 7:30 a.m.</created>
+  <last-modified>Oct. 1, 2018, 3:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="167761">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="167762">
+      <result code="2">2</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="318427">William Hughes</conductor>
+    </result>
+    
+    <result id="167763">
+      <result code="3">3</result>
+      <band id="11274">4th V.B. Welsh Regiment (Llanelly)</band>
+      <conductor id="311686">W. H. Williams</conductor>
+    </result>
+    
+    <result id="167764">
+      <result code="4">4</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

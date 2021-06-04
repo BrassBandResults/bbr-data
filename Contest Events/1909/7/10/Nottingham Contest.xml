@@ -1,0 +1,71 @@
+<contest-event id="15841">
+  <event-date date="1909-7-10">July 10, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nottingham Contest</name>
+  <contest id="1185">
+    <name>Nottingham Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>nottingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2886">Gems of Mozart [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="603">Nottingham, Nottinghamshire, England, UK</venue>
+  <notes>
+  Prizes 1st £5 and cup, 2nd £3, 3rd £2, 4th £1.
+
+  March contest 1st (£2and cup) Boots Plaisaunce, 2nd (£1) South Notts Temperance, 3rd (15s.) Hornsby Temperance.
+
+  6 bands competed.</notes>
+
+  <created>Nov. 5, 2012, 1:08 p.m.</created>
+  <last-modified>Feb. 14, 2014, 1:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122208">
+      <result code="1">1</result>
+      <band id="8054">Boots Plaisaunce</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122209">
+      <result code="2">2</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122210">
+      <result code="3">3</result>
+      <band id="6580">Mansfield Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122211">
+      <result code="4">4</result>
+      <band id="3740">Band of the Lincolnshire Fire Brigade</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122213">
+      <result code="">Unknown Result</result>
+      <band id="6344">Nottingham Railway City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122212">
+      <result code="">Unknown Result</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

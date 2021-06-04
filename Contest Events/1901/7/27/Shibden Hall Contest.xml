@@ -1,0 +1,68 @@
+<contest-event id="26703">
+  <event-date date="1901-7-27">July 27, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shibden Hall Contest</name>
+  <contest id="3306">
+    <name>Shibden Hall Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="324">Shibden Hall Contest</group>
+    <slug>shibden-hall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2571">Belisario [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2536">Shibden Hall Park, Halifax</venue>
+  <notes>Halifax Independent Labour Party
+Prizes: £12, £7, £4, £2.
+6 bands competed.</notes>
+
+  <created>March 25, 2014, 6:35 p.m.</created>
+  <last-modified>June 24, 2018, 8:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="193525">
+      <result code="1">1</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="193526">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="193527">
+      <result code="3">3</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="193528">
+      <result code="4">4</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="299457">A. Clough</conductor>
+    </result>
+    
+    <result id="193529">
+      <result code="">Unknown Result</result>
+      <band id="2573">Norland</band>
+      <conductor id="297663">Ernest Beaumont</conductor>
+    </result>
+    
+    <result id="193530">
+      <result code="">Unknown Result</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="302893">H. Hellawell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

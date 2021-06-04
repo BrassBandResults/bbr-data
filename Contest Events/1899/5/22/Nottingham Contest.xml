@@ -1,0 +1,90 @@
+<contest-event id="12339">
+  <event-date date="1899-5-22">May 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nottingham Contest</name>
+  <contest id="1185">
+    <name>Nottingham Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>nottingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="700">Arboretum, Nottingham</venue>
+  <notes>  1st prize £12.12s. and trombone value £7.7s.
+  2nd prize £6.6s.
+  3rd prize £3.3s.
+  4th prize £2.2s.
+March contest 1st (£2.2s.) Hucknall Temperance,  2nd (1.1s.) Hucknall Excelsior, 3rd Codnor, 4th Chesterfield.
+Best uniformed band - Doncaster.
+7 bands competed.</notes>
+
+  <created>April 12, 2012, 4:13 p.m.</created>
+  <last-modified>June 25, 2017, 11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98735">
+      <result code="1">1</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="98736">
+      <result code="2">2</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="301210">R. Few</conductor>
+    </result>
+    
+    <result id="98737">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="98738">
+      <result code="4">4</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="98739">
+      <result code="">Unknown Result</result>
+      <band id="5186">Alfreton Church</band>
+      <conductor id="311690">William Williams</conductor>
+    </result>
+    
+    <result id="98741">
+      <result code="">Unknown Result</result>
+      <band id="5187">Codnor Primitives</band>
+      <conductor id="308952">J. Sharpe</conductor>
+    </result>
+    
+    <result id="98740">
+      <result code="">Unknown Result</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="167020">
+      <result code="W">Withdrawn</result>
+      <band id="7431">Eastwood Temperance</band>
+      <conductor id="304992">T. Leivers</conductor>
+    </result>
+    
+    <result id="167021">
+      <result code="W">Withdrawn</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="13190">
+  <event-date date="1897-5-15">May 15, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haltwhistle Contest</name>
+  <contest id="2087">
+    <name>Haltwhistle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haltwhistle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1934">Victoria Regina</test-piece>
+  </test-piece>
+
+  <venue id="1522">Haltwhistle, Northumberland</venue>
+  <notes>Prizes: £14, £7, £3, £1
+
+March contest: 1. Westwood, 2. Consett</notes>
+
+  <created>May 4, 2012, 9:33 p.m.</created>
+  <last-modified>May 4, 2012, 9:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104787">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="104788">
+      <result code="2">2</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="104789">
+      <result code="3">3</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="104790">
+      <result code="4">4</result>
+      <band id="7526">Haltwhistle Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104791">
+      <result code="">Unknown Result</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104792">
+      <result code="">Unknown Result</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

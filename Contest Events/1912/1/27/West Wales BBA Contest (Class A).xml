@@ -1,0 +1,61 @@
+<contest-event id="35992">
+  <event-date date="1912-1-27">Jan. 27, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1860">Schubert [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6271">Hippodrome, Gwaun-cae-Gurwen, Glamorgan, Wales, UK</venue>
+  <notes>Best cornet and euphonium - Gwaun-cae-Gurwen.
+2 bands competed.</notes>
+
+  <created>Aug. 24, 2016, 10:09 p.m.</created>
+  <last-modified>May 19, 2018, 12:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="261075">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="261076">
+      <result code="2">2</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="261079">
+      <result code="W">Withdrawn</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261078">
+      <result code="W">Withdrawn</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261077">
+      <result code="W">Withdrawn</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

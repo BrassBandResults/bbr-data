@@ -1,0 +1,51 @@
+<contest-event id="28348">
+  <event-date date="1913-8-2">Aug. 2, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newbiggin Contest</name>
+  <contest id="1366">
+    <name>Newbiggin Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newbiggin-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4838">The Links, Newbiggin, Northumberland</venue>
+  <notes>March: 1. North Seaton, 2. Netherton</notes>
+
+  <created>June 7, 2014, 5:15 p.m.</created>
+  <last-modified>June 7, 2014, 5:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202208">
+      <result code="1">1</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2788">Il Trovatore - Selection [arr. Round]</test-piece>
+    </result>
+    
+    <result id="202209">
+      <result code="2">2</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2811">Bright Gems of Melody</test-piece>
+    </result>
+    
+    <result id="202207">
+      <result code="3">3</result>
+      <band id="6537">Netherton</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,59 @@
+<contest-event id="13092">
+  <event-date date="1896-9-5">Sept. 5, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haydon Bridge Contest</name>
+  <contest id="2307">
+    <name>Haydon Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haydon-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1668">Haydon Bridge, Northumberland, England, UK</venue>
+  <notes>March contest: 1. Westwood, 2. Haltwhistle
+Prizes - 1st £8 and trombone, 2nd £6 and cornet, 3rd £4, 4th £2.</notes>
+
+  <created>May 1, 2012, 7:07 p.m.</created>
+  <last-modified>July 1, 2019, 9:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="104134">
+      <result code="1">1</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="104135">
+      <result code="2">2</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="307392">George Perry</conductor>
+      <test-piece id="1841">Bellini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="104136">
+      <result code="3">3</result>
+      <band id="6921">Throckley</band>
+      <conductor id="307392">George Perry</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="104137">
+      <result code="4">4</result>
+      <band id="7526">Haltwhistle Volunteer</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

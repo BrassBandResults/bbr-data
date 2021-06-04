@@ -1,0 +1,91 @@
+<contest-event id="34024">
+  <event-date date="1920-1-26">Jan. 26, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2804">Dinorah [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>SOUTH SYDNEY WITHDREW: M. M Edwards (secretary ) said last night in view of the decision: &quot;It has been unanimously decided by the band to take no further part in the contest. When we went to Ballarat in October, under one of the best judges in Australia we secured 6 points off possible; here we are awarded 59 points off possible. We intend to challenge the winners at the conclusion of the contest.&quot;
+
+IN REPLY: South Sydney have announced their withdrawal owing to dissatisfaction with the award of the adjudicator. It is more likely, however an altogether different reason. As Secretary of the Band Association I officially notified the band at the conclusion of their playing on the first night I intended to lodge a protest on the grounds when called upon under contest rules one of their players refused to make a statutory declaration to the effect that the name he played under was his own and not a false one .
+It was probably the fear of disqualification had more to do with the withdrawal than the award of the judge 
+Signed George A Burges
+Secretary of the Band Association of NSW</notes>
+
+  <created>Feb. 12, 2016, 11:34 p.m.</created>
+  <last-modified>Dec. 18, 2017, 10:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="245836">
+      <result code="1">1</result>
+      <band id="2411">Newtown Band [Australia]</band>
+      <conductor id="304480">Ernest Kerry</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="245837">
+      <result code="2">2</result>
+      <band id="13093">Newcastle City</band>
+      <conductor id="304482">Henry Kerry</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="245838">
+      <result code="3">3</result>
+      <band id="13045">Leichhardt Municipal</band>
+      <conductor id="301951">Tom Goodall</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="245839">
+      <result code="4">4</result>
+      <band id="13722">Lidcombe Municipal</band>
+      <conductor id="304480">Ernest Kerry</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="245840">
+      <result code="5">5</result>
+      <band id="13090">Dulwich Hill Citizens</band>
+      <conductor id="297853">J. H. Berry</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="245841">
+      <result code="6">6</result>
+      <band id="12307">Kogarah Concert Band</band>
+      <conductor id="309406">Les Smith</conductor>
+      <test-piece id="921">L&#39;Africaine [arr. Grosse]</test-piece>
+    </result>
+    
+    <result id="245842">
+      <result code="7">7</result>
+      <band id="13692">Rockdale  District</band>
+      <conductor id="310898">Charles Walker</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="245843">
+      <result code="W">Withdrawn</result>
+      <band id="9373">St. John Ambulance Brigade Band (District of NSW)</band>
+      <conductor id="303235">Les Hoffman</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

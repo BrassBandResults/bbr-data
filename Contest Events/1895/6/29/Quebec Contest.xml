@@ -1,0 +1,54 @@
+<contest-event id="12531">
+  <event-date date="1895-6-29">June 29, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Quebec Contest</name>
+  <contest id="1558">
+    <name>Quebec Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>quebec-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1023">Quebec, County Durham</venue>
+  <notes>3 bands competed
+
+Prizes: £10, £6, £3
+
+March contest: Divided between Spennymoor and Brandon
+
+Open to bands which had not won a prize exceeding £10</notes>
+
+  <created>April 15, 2012, 10:03 p.m.</created>
+  <last-modified>March 27, 2013, 5:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100115">
+      <result code="1">1</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">John A. Mutton</conductor>
+    </result>
+    
+    <result id="100116">
+      <result code="2">2</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="298278">G. W. Bowes</conductor>
+    </result>
+    
+    <result id="100117">
+      <result code="3">3</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="303249">F. C. Hoggett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

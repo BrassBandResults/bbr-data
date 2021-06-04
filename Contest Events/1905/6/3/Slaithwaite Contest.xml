@@ -1,0 +1,92 @@
+<contest-event id="10035">
+  <event-date date="1905-6-3">June 3, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Slaithwaite Contest</name>
+  <contest id="1840">
+    <name>Slaithwaite Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>slaithwaite-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1608">Slaithwaite, West Yorkshire</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £6, 3rd £4, 4th £2, 5th £1.
+March contest 1st (£1) Lindley, 2nd (10s.) Linthwaite.
+10 bands competed.</notes>
+
+  <created>Feb. 8, 2012, 2:29 p.m.</created>
+  <last-modified>Sept. 6, 2018, 5:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85095">
+      <result code="1">1</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="305217">Benjamin Lodge</conductor>
+    </result>
+    
+    <result id="85096">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="85097">
+      <result code="3">3</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="85098">
+      <result code="4">4</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="85099">
+      <result code="5">5</result>
+      <band id="3536">Nazebottom Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="85101">
+      <result code="">Unknown Result</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+    <result id="85104">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="85102">
+      <result code="">Unknown Result</result>
+      <band id="3535">Royal George</band>
+      <conductor id="299065">John Frederick Carter</conductor>
+    </result>
+    
+    <result id="85100">
+      <result code="">Unknown Result</result>
+      <band id="2573">Norland</band>
+      <conductor id="297663">Ernest Beaumont</conductor>
+    </result>
+    
+    <result id="85103">
+      <result code="">Unknown Result</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

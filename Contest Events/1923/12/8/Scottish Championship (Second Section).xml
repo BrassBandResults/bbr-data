@@ -1,0 +1,90 @@
+<contest-event id="7458">
+  <event-date date="1923-12-8">Dec. 8, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Second Section)</name>
+  <contest id="63">
+    <name>Scottish Championship (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="771">William Tell [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="811">Forrest Road Drill Hall, Edinburgh</venue>
+  <notes>SBBA website lists 10 bands, but its 1994 contest result book writes &quot;9 bands played&quot;.</notes>
+
+  <created>Oct. 4, 2011, 11:23 a.m.</created>
+  <last-modified>Oct. 19, 2018, 9:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="67387">
+      <result code="1">1</result>
+      <band id="5523">Dalziel Steelworks</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="67388">
+      <result code="2">2</result>
+      <band id="664">Shotts St Patrick&#39;s Brass</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="67389">
+      <result code="3">3</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="67390">
+      <result code="4">4</result>
+      <band id="5005">Baillieston</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="67392">
+      <result code="5">5</result>
+      <band id="1725">City of Edinburgh Band</band>
+      <conductor id="303240">George Hogg</conductor>
+    </result>
+    
+    <result id="67391">
+      <result code="5">5</result>
+      <band id="5483">Motherwell and Wishaw</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="67393">
+      <result code="">Unknown Result</result>
+      <band id="5480">Balgonie Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67394">
+      <result code="">Unknown Result</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67395">
+      <result code="">Unknown Result</result>
+      <band id="7952">Loanhead Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67396">
+      <result code="">Unknown Result</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

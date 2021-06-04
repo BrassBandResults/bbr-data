@@ -1,0 +1,69 @@
+<contest-event id="13215">
+  <event-date date="1897-6-5">June 5, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Albans Contest</name>
+  <contest id="1024">
+    <name>St. Albans Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-albans-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3330">St. Albans, Hertfordshire</venue>
+  <notes>Promoted by St Albans City Silver Prize Band
+Prizes: £7 and tenor horn, £4 and trombone, £2, £1
+Waltz contest: 1. St. Alban&#39;s Abbey, 2. Dunstable Excelsior.
+6 bands competed.</notes>
+
+  <created>May 5, 2012, 8:48 a.m.</created>
+  <last-modified>July 8, 2019, 6:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105029">
+      <result code="1">1</result>
+      <band id="7770">St Alban&#39;s Abbey</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="105030">
+      <result code="2">2</result>
+      <band id="4798">Dunstable Excelsior</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="105031">
+      <result code="3">3</result>
+      <band id="5577">John Dickinson (Apsley) Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="105032">
+      <result code="4">4</result>
+      <band id="8271">Berkhamsted Volunteers</band>
+      <conductor id="298984">H. Cannon</conductor>
+    </result>
+    
+    <result id="105034">
+      <result code="5">5</result>
+      <band id="7805">Dunstable Borough</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="105033">
+      <result code="6">6</result>
+      <band id="622">Watford</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

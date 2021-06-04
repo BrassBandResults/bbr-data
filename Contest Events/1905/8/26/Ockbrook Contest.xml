@@ -1,0 +1,62 @@
+<contest-event id="10435">
+  <event-date date="1905-8-26">Aug. 26, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ockbrook Contest</name>
+  <contest id="2000">
+    <name>Ockbrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ockbrook-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1640">Llewellyn</test-piece>
+  </test-piece>
+
+  <venue id="1432">Ockbrook, Derbyshire, England, UK</venue>
+  <notes>1st prize £16.19s, 2nd prize £4.10s, 3rd prize £3, 4th prize £2.
+  March contest  1st(£1) Woodville Silver, 2nd (10s.) Melbourne Town.
+5 bands competed.</notes>
+
+  <created>Feb. 18, 2012, 2:02 p.m.</created>
+  <last-modified>Sept. 11, 2018, 8:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87692">
+      <result code="1">1</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="87693">
+      <result code="2">2</result>
+      <band id="3861">Melbourne Town</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="87694">
+      <result code="3">3</result>
+      <band id="6852">Alvaston and Boulton</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="87695">
+      <result code="4">4</result>
+      <band id="6090">Long Eaton Temperance Band</band>
+      <conductor id="310833">E. Voce</conductor>
+    </result>
+    
+    <result id="87696">
+      <result code="5">5</result>
+      <band id="4572">Stapleford Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

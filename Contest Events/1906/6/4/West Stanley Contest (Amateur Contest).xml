@@ -1,0 +1,81 @@
+<contest-event id="10774">
+  <event-date date="1906-6-4">June 4, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest (Amateur Contest)</name>
+  <contest id="2094">
+    <name>West Stanley Contest (Amateur Contest)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="227">West Stanley Contest</group>
+    <slug>west-stanley-contest-amateur-contest-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1005">L&#39;Etoile du Nord [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="908">West Stanley, County Durham</venue>
+  <notes>
+  1st prize £15.
+  2nd prize £7.10s.
+  3rd prize £4.
+  4th prize £2.
+  5th prize £1.
+
+  March contest 1st (£1.10s.) Heworth, 2nd (10s.) Hetton.
+
+  7 bands competed.</notes>
+
+  <created>March 2, 2012, 2:26 p.m.</created>
+  <last-modified>July 22, 2013, 12:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="89956">
+      <result code="1">1</result>
+      <band id="2138">Palmer&#39;s Works</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="89957">
+      <result code="2">2</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="89958">
+      <result code="3">3</result>
+      <band id="6824">Hebburn Town</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="89959">
+      <result code="4">4</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="89960">
+      <result code="5">5</result>
+      <band id="5814">Pelton Fell Workmen&#39;s</band>
+      <conductor id="311840">J. Wishart</conductor>
+    </result>
+    
+    <result id="89961">
+      <result code="">Unknown Result</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="89962">
+      <result code="">Unknown Result</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="300323">R. Dennison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

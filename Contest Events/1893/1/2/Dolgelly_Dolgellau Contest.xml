@@ -1,0 +1,49 @@
+<contest-event id="42300">
+  <event-date date="1893-1-2">Jan. 2, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgelly/Dolgellau Contest</name>
+  <contest id="1779">
+    <name>Dolgelly/Dolgellau Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1253">Dolgellau, Gwynedd, Wales, UK</venue>
+  <notes>Prize - £15.
+3 bands competed</notes>
+
+  <created>June 4, 2019, 1:16 p.m.</created>
+  <last-modified>June 4, 2019, 1:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="309316">
+      <result code="1">1</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="309317">
+      <result code="2">2</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="309318">
+      <result code="3">3</result>
+      <band id="7885">Portmadoc</band>
+      <conductor id="308178">James Rider</conductor>
+    </result>
+    
+  </results>
+</contest-event>

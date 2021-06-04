@@ -1,0 +1,79 @@
+<contest-event id="17942">
+  <event-date date="1891-5-2">May 2, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Heanor Contest (Testpiece)</name>
+  <contest id="2265">
+    <name>Heanor Contest (Testpiece)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="262">Heanor Contest</group>
+    <slug>heanor-testpiece</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2320">Nonpareil</test-piece>
+  </test-piece>
+
+  <venue id="1639">Recreation Ground, Heanor</venue>
+  <notes>1st prize: £9 and 9 guinea cornet.
+8 bands competed.</notes>
+
+  <created>Feb. 5, 2013, 6:44 p.m.</created>
+  <last-modified>May 27, 2019, 4:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135544">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="135541">
+      <result code="2">2</result>
+      <band id="5208">Heanor Church Temperance</band>
+      <conductor id="313967">A. Redgate</conductor>
+    </result>
+    
+    <result id="135539">
+      <result code="3">3</result>
+      <band id="3524">Derby United</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="135545">
+      <result code="4">4</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="135540">
+      <result code="5">5</result>
+      <band id="1214">Loughborough</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="135546">
+      <result code="6">6</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135543">
+      <result code="">Unknown Result</result>
+      <band id="7430">Gotham Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135542">
+      <result code="">Unknown Result</result>
+      <band id="7429">Bingham Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

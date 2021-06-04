@@ -1,0 +1,64 @@
+<contest-event id="24115">
+  <event-date date="1903-8-29">Aug. 29, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bath Contest</name>
+  <contest id="4356">
+    <name>Bath Contest</name>
+    <order>0</order>
+    <contest-type id="8">Own Choice from a Specified List</contest-type>
+    <group id=""></group>
+    <slug>bath-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3855">Sydney Gardens, Bath</venue>
+  <notes>4 bands competed
+
+Choice of test pieces: &quot;Don Sebastiano&quot; or &quot;Le Domino Noir&quot;
+
+Prizes: £30, £20, £10
+
+March: 1. Tillery, 2. Abertillery, 3. Aberaman</notes>
+
+  <created>Sept. 27, 2013, 1:53 p.m.</created>
+  <last-modified>Aug. 19, 2018, 10:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175900">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+      <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="175899">
+      <result code="2">2</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+      <test-piece id="1326">Le Domino Noir [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="175901">
+      <result code="3">3</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302243">John Griffiths</conductor>
+      <test-piece id="1326">Le Domino Noir [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="175898">
+      <result code="4">4</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="297821">Henry Bentley</conductor>
+      <test-piece id="1326">Le Domino Noir [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,42 @@
+<contest-event id="40988">
+  <event-date date="1924-6-14">June 14, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brynkir Contest</name>
+  <contest id="6405">
+    <name>Brynkir Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brynkir-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2823">Woodland Revels</test-piece>
+  </test-piece>
+
+  <venue id="6973">Brynkir, Carnarvonshire</venue>
+  <notes>March contest - 1st Llandulas, 2nd Nantlle.</notes>
+
+  <created>Oct. 27, 2018, 11:04 a.m.</created>
+  <last-modified>Oct. 27, 2018, 11:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297665">
+      <result code="1">1</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="297666">
+      <result code="2">2</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

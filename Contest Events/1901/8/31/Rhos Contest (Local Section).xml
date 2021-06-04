@@ -1,0 +1,49 @@
+<contest-event id="43491">
+  <event-date date="1901-8-31">Aug. 31, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhos Contest (Local Section)</name>
+  <contest id="6600">
+    <name>Rhos Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhos-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2428">Gems of Evergreen Melody</test-piece>
+  </test-piece>
+
+  <venue id="5163">Rhosllanerchrugog, Wrexham, Wales, UK</venue>
+  <notes>Promoted by Rhos Flower Show.
+3 bands competed</notes>
+
+  <created>April 28, 2020, 3:13 p.m.</created>
+  <last-modified>April 28, 2020, 3:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="318033">
+      <result code="1">1</result>
+      <band id="4494">Ruabon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="318034">
+      <result code="2">2</result>
+      <band id="18888">Penycae</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="318035">
+      <result code="3">3</result>
+      <band id="4495">Rhostyllen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

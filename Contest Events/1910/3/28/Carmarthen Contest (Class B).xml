@@ -1,0 +1,73 @@
+<contest-event id="39763">
+  <event-date date="1910-3-28">March 28, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carmarthen Contest (Class B)</name>
+  <contest id="3391">
+    <name>Carmarthen Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="352">Carmarthen Contest</group>
+    <slug>carmarthen-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2816">Robin Hood [MacFarren, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1487">Carmarthen, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £8, 2nd £4, 3rd £2.
+7 bands competed.</notes>
+
+  <created>May 30, 2018, 12:18 p.m.</created>
+  <last-modified>May 30, 2018, 12:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288521">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="288522">
+      <result code="2">2</result>
+      <band id="7073">Brynamman Volunteers</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="288518">
+      <result code="3">3</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="302636">A. G. Harries</conductor>
+    </result>
+    
+    <result id="288523">
+      <result code="3">3</result>
+      <band id="9773">Taibach</band>
+      <conductor id="318423">James Coombes</conductor>
+    </result>
+    
+    <result id="288519">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="288520">
+      <result code="">Unknown Result</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="299807">W. J. Coverley</conductor>
+    </result>
+    
+    <result id="288524">
+      <result code="">Unknown Result</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

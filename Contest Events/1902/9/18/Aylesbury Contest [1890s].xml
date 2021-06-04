@@ -1,0 +1,77 @@
+<contest-event id="23218">
+  <event-date date="1902-9-18">Sept. 18, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aylesbury Contest [1890s]</name>
+  <contest id="1978">
+    <name>Aylesbury Contest [before WW1]</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="276">Aylesbury Contest [before WW1]</group>
+    <slug>aylesbury-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3708">Walton Grange, Aylesbury, Buckinghamshire, England, UK</venue>
+  <notes>Choice of test pieces: &quot;England&quot;, L&#39;Elisir d&#39;Amore&quot;, &quot;Zampa&quot;
+
+5 bands competed
+
+Prizes: £15, £10, £5, £2
+
+March: 1. Rushden, 2. Earl&#39;s Barton,3. Luton</notes>
+
+  <created>Aug. 21, 2013, 3:22 p.m.</created>
+  <last-modified>April 4, 2017, 11:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170734">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297366">H. Baker</conductor>
+      <test-piece id="937">L&#39;Elisir d&#39;Amore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="170733">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+      <test-piece id="937">L&#39;Elisir d&#39;Amore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="170735">
+      <result code="3">3</result>
+      <band id="819">Luton Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="937">L&#39;Elisir d&#39;Amore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="170732">
+      <result code="4">4</result>
+      <band id="7685">Wendover</band>
+      <conductor id="310722">W. Underhill</conductor>
+      <test-piece id="1800">England</test-piece>
+    </result>
+    
+    <result id="170731">
+      <result code="5">5</result>
+      <band id="1729">Hazell&#39;s Printing Works</band>
+      <conductor id="307263">Robert Payne</conductor>
+      <test-piece id="1800">England</test-piece>
+    </result>
+    
+    <result id="170736">
+      <result code="W">Withdrawn</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

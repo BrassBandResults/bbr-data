@@ -1,0 +1,70 @@
+<contest-event id="38940">
+  <event-date date="1891-6-20">June 20, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hoyland Contest</name>
+  <contest id="2603">
+    <name>Hoyland Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hoyland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2806">Linda di Chamounix [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1952">Hoyland</venue>
+  <notes>Best trombone - Glossop Old.
+Promoted by Wharncliffe Silkstone band.
+Brass Band News Septemer 1894 states conductor of Glossop Old was Charles Hall, which seems likely as Owen is also shown as conducting at both Southport and Hardraw Scar on this date.
+12 bands entered, 11 bands competed.
+</notes>
+
+  <created>Dec. 2, 2017, 2:57 p.m.</created>
+  <last-modified>Nov. 9, 2019, 1:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283283">
+      <result code="1">1</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="283284">
+      <result code="2">2</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="283285">
+      <result code="3">3</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="305612">Charles Marsden</conductor>
+    </result>
+    
+    <result id="283286">
+      <result code="4">4</result>
+      <band id="3608">Dewsbury Temperance</band>
+      <conductor id="310200">H. Teale</conductor>
+    </result>
+    
+    <result id="283287">
+      <result code="5">5</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="305612">Charles Marsden</conductor>
+    </result>
+    
+    <result id="313621">
+      <result code="">Unknown Result</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

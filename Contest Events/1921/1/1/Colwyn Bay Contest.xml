@@ -1,0 +1,43 @@
+<contest-event id="24885">
+  <event-date date="1921-1-1">Jan. 1, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest</name>
+  <contest id="1076">
+    <name>Colwyn Bay Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2253">The Maid of Orleans [Laurent]</test-piece>
+  </test-piece>
+
+  <venue id="1251">Colwyn Bay, Conwy, Wales, UK</venue>
+  <notes>
+  March contest 1st Llanddulas, 2nd Llandudno.</notes>
+
+  <created>Nov. 4, 2013, 9:29 p.m.</created>
+  <last-modified>Nov. 4, 2013, 9:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181717">
+      <result code="1">1</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="181718">
+      <result code="2">2</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="310548">Francis Lucio Traversi</conductor>
+    </result>
+    
+  </results>
+</contest-event>

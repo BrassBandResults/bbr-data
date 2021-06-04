@@ -1,0 +1,55 @@
+<contest-event id="14932">
+  <event-date date="1912-6-12">June 12, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Corwen Contest</name>
+  <contest id="1604">
+    <name>Corwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>corwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1670">Gems of Cambria</test-piece>
+  </test-piece>
+
+  <venue id="2410">Rug Park, Corwen, Denbighshire, Wales, UK</venue>
+  <notes>Prizes - 1st £15, 2nd £10, 3rd £5.
+4 bands competed.</notes>
+
+  <created>Sept. 29, 2012, 11:10 a.m.</created>
+  <last-modified>Sept. 27, 2018, 11:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="116670">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="116671">
+      <result code="2">2</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="116672">
+      <result code="3">3</result>
+      <band id="7279">Dolgelly</band>
+      <conductor id="311634">John Williams</conductor>
+    </result>
+    
+    <result id="116673">
+      <result code="4">4</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

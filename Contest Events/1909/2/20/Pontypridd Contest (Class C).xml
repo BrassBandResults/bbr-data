@@ -1,0 +1,75 @@
+<contest-event id="12746">
+  <event-date date="1909-2-20">Feb. 20, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class C)</name>
+  <contest id="2114">
+    <name>Pontypridd Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>April 19, 2012, 10:30 p.m.</created>
+  <last-modified>Sept. 25, 2018, 11:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101420">
+      <result code="1">1</result>
+      <band id="8043">Maesteg Hibernian</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="101421">
+      <result code="2">2</result>
+      <band id="6350">Tonypandy Hibernia</band>
+      <conductor id="310274">G. H. Thomas</conductor>
+      <test-piece id="2768">Le Domino Noir [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101422">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310282">H. S. Thomas</conductor>
+      <test-piece id="2886">Gems of Mozart [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="101426">
+      <result code="">Unknown Result</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101423">
+      <result code="">Unknown Result</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101424">
+      <result code="">Unknown Result</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101425">
+      <result code="">Unknown Result</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

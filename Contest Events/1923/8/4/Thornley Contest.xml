@@ -1,0 +1,48 @@
+<contest-event id="40903">
+  <event-date date="1923-8-4">Aug. 4, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Thornley Contest</name>
+  <contest id="2600">
+    <name>Thornley Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="345">Thornley Contest</group>
+    <slug>thornley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="880">Mirella [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4023">Thornley, County Durham</venue>
+  <notes>March contest - 1st South Moor, 2nd Hetton, 3rd Burnhope.</notes>
+
+  <created>Oct. 22, 2018, 12:14 p.m.</created>
+  <last-modified>Oct. 22, 2018, 12:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296953">
+      <result code="1">1</result>
+      <band id="9825">Hetton District Saxhorn</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+    <result id="296954">
+      <result code="2">2</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="296955">
+      <result code="3">3</result>
+      <band id="3369">Burnhope Colliery Welfare</band>
+      <conductor id="301235">H. Fieldsend</conductor>
+    </result>
+    
+  </results>
+</contest-event>

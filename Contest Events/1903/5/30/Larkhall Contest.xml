@@ -1,0 +1,106 @@
+<contest-event id="21818">
+  <event-date date="1903-5-30">May 30, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Larkhall Contest</name>
+  <contest id="1822">
+    <name>Larkhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>larkhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1280">Larkhall, South Lanarkshire, Scotland, UK</venue>
+  <notes>Promoted by Larkhall Public Band
+
+10 bands competed
+
+March contest - 1st Newmilns, 2nd Alloa, 3rd Coltness.
+
+£40 in prize money</notes>
+
+  <created>June 12, 2013, 7:31 p.m.</created>
+  <last-modified>Aug. 22, 2013, 7:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="273228">
+      <result code="1">1</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="2768">Le Domino Noir [arr. Round]</test-piece>
+    </result>
+    
+    <result id="273234">
+      <result code="2">2</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="2768">Le Domino Noir [arr. Round]</test-piece>
+    </result>
+    
+    <result id="273235">
+      <result code="3">3</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
+    </result>
+    
+    <result id="273231">
+      <result code="4">4</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+      <test-piece id="2768">Le Domino Noir [arr. Round]</test-piece>
+    </result>
+    
+    <result id="273229">
+      <result code="">Unknown Result</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+      <test-piece id="2768">Le Domino Noir [arr. Round]</test-piece>
+    </result>
+    
+    <result id="273230">
+      <result code="">Unknown Result</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">William Smith</conductor>
+      <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="273232">
+      <result code="">Unknown Result</result>
+      <band id="5495">Larkhall Raploch</band>
+      <conductor id="319912">David Jones</conductor>
+      <test-piece id="2463">Mercadante</test-piece>
+    </result>
+    
+    <result id="273233">
+      <result code="">Unknown Result</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="2768">Le Domino Noir [arr. Round]</test-piece>
+    </result>
+    
+    <result id="273236">
+      <result code="">Unknown Result</result>
+      <band id="6764">Quarter Colliery</band>
+      <conductor id="297732">Alexander Bell</conductor>
+      <test-piece id="2768">Le Domino Noir [arr. Round]</test-piece>
+    </result>
+    
+    <result id="273237">
+      <result code="">Unknown Result</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="2768">Le Domino Noir [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

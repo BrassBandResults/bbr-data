@@ -1,0 +1,66 @@
+<contest-event id="40533">
+  <event-date date="1914-8-22">Aug. 22, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sandbach Contest</name>
+  <contest id="2373">
+    <name>Sandbach Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sandbach-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="1727">Sandbach, Cheshire, England, UK</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Oct. 4, 2018, 10:16 a.m.</created>
+  <last-modified>Oct. 4, 2018, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294991">
+      <result code="1">1</result>
+      <band id="9500">Northwich Adelaide</band>
+      <conductor id="314814">Edwin Firth</conductor>
+    </result>
+    
+    <result id="294987">
+      <result code="2">2</result>
+      <band id="3620">Wood Lane</band>
+      <conductor id="309441">Roland E. Smith</conductor>
+    </result>
+    
+    <result id="294986">
+      <result code="3">3</result>
+      <band id="668">Audley Brass</band>
+      <conductor id="318354">R. Herod</conductor>
+    </result>
+    
+    <result id="294990">
+      <result code="4">4</result>
+      <band id="17395">Sandbach Town</band>
+      <conductor id="318437">Sam Charlesworth</conductor>
+    </result>
+    
+    <result id="294988">
+      <result code="">Unknown Result</result>
+      <band id="3592">Stockport L.M.S.</band>
+      <conductor id="302682">H. Harrison</conductor>
+    </result>
+    
+    <result id="294989">
+      <result code="">Unknown Result</result>
+      <band id="3180">Middlewich Centenary Band</band>
+      <conductor id="298343">William Brady</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="13319">
+  <event-date date="1897-7-17">July 17, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ripley Contest</name>
+  <contest id="2150">
+    <name>Ripley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ripley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1563">Ripley, Derbyshire</venue>
+  <notes>First Section Contest
+
+Prizes: £11, £7, £4
+March contest: 1. Hucknall Temperance, 2. Codnor United</notes>
+
+  <created>May 10, 2012, 7:51 p.m.</created>
+  <last-modified>May 10, 2012, 7:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105681">
+      <result code="1">1</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="105682">
+      <result code="2">2</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="302178">C. A. Gregory</conductor>
+    </result>
+    
+    <result id="105685">
+      <result code="3">3</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105683">
+      <result code="3">3</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="105684">
+      <result code="">Unknown Result</result>
+      <band id="5187">Codnor Primitives</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

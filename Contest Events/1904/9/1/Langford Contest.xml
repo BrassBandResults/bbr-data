@@ -1,0 +1,73 @@
+<contest-event id="29711">
+  <event-date date="1904-9-1">Sept. 1, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Langford Contest</name>
+  <contest id="1030">
+    <name>Langford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>langford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3603">Langford, Bedfordshire, England, UK</venue>
+  <notes>6 bands competed.
+Langford Flower Show.
+
+March: 1. Peterboro Excelsior, 2. Bedford, 3. Peterboro Silver
+
+The adjudicator said that never in his life had he heard anything so bad as the playing of Arlesey Band!
+
+Prizes: £8, £6, £5</notes>
+
+  <created>Oct. 18, 2014, 7:21 p.m.</created>
+  <last-modified>Feb. 13, 2015, 1:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="211271">
+      <result code="1">1</result>
+      <band id="435">Bedford Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211272">
+      <result code="2">2</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211267">
+      <result code="3">3</result>
+      <band id="6323">Peterborough Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211268">
+      <result code="4">4</result>
+      <band id="617">Hitchin Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211269">
+      <result code="5">5</result>
+      <band id="10963">3rd V.B. Bedfordshire Regiment (Biggleswade)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211270">
+      <result code="6">6</result>
+      <band id="7910">Arlesey Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="40378">
+  <event-date date="1908-8-28">Aug. 28, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Knighton Contest</name>
+  <contest id="3445">
+    <name>Knighton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>knighton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3740">Rossini&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="2636">Knighton, Powys, Wales, UK</venue>
+  <notes>Prizes - 1st £40, 2nd £20, 3rd £10, 4th £5.
+4 bands competed.</notes>
+
+  <created>Sept. 24, 2018, 5:40 p.m.</created>
+  <last-modified>Sept. 24, 2018, 5:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293753">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="293751">
+      <result code="2">2</result>
+      <band id="14446">Aberdare Church Mission</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="293752">
+      <result code="3">3</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="293754">
+      <result code="4">4</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

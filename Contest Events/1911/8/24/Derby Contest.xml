@@ -1,0 +1,69 @@
+<contest-event id="39622">
+  <event-date date="1911-8-24">Aug. 24, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3458">Land of the Shamrock</test-piece>
+  </test-piece>
+
+  <venue id="4420">Markeaton Park, Derby</venue>
+  <notes>Prizes - 1st £10, 2nd £6, 3rd £3, 4th £2, 5th £1.
+March contest - 1st (£1) Barrow-on-Soar, 2nd (10s.) Silverdale.
+Promoted by Derbyshire Agricultural Society.
+5 bands competed.</notes>
+
+  <created>May 19, 2018, 6:08 a.m.</created>
+  <last-modified>Nov. 9, 2020, 10:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287257">
+      <result code="1">1</result>
+      <band id="4092">Rist&#39;s Cable Works</band>
+      <conductor id="298175">Enoch Booth</conductor>
+    </result>
+    
+    <result id="287259">
+      <result code="2">2</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="298175">Enoch Booth</conductor>
+    </result>
+    
+    <result id="287261">
+      <result code="3">3</result>
+      <band id="11476">Barrow-on-Soar</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="287258">
+      <result code="4">4</result>
+      <band id="3032">Stanton Band</band>
+      <conductor id="303345">H. Holmes</conductor>
+    </result>
+    
+    <result id="287260">
+      <result code="4">4</result>
+      <band id="3524">Derby United</band>
+      <conductor id="302841">James Haywood</conductor>
+    </result>
+    
+    <result id="287262">
+      <result code="W">Withdrawn</result>
+      <band id="7170">Derby Keddleston Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

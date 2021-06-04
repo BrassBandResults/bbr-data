@@ -1,0 +1,77 @@
+<contest-event id="17566">
+  <event-date date="1888-7-16">July 16, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle under Lyme Contest</name>
+  <contest id="1021">
+    <name>Newcastle under Lyme Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newcastle-under-lyme-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1815">Hail Apollo</test-piece>
+  </test-piece>
+
+  <venue id="2934">Stubbs Public Walks, Newcastle-Under-Lyme</venue>
+  <notes>Newcastle Rose and Horticultural Show.
+Prizes - 1st £13.9s. and cornet, 2nd £7.13s. and tenor horn, 3rd £3.14s, and trombone.
+7 bands competed.</notes>
+
+  <created>Jan. 23, 2013, 4:48 p.m.</created>
+  <last-modified>May 16, 2019, 1:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="281737">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2374">Faust [Berlioz arr. Owen]</test-piece>
+    </result>
+    
+    <result id="283062">
+      <result code="2">2</result>
+      <band id="16556">Hanley Mission</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="281739">
+      <result code="3">3</result>
+      <band id="3566">Silverdale Town</band>
+      <conductor id="305068">Joseph Lewis</conductor>
+    </result>
+    
+    <result id="281741">
+      <result code="4">4</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2827">Beethoven Fantasia [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="281742">
+      <result code="5">5</result>
+      <band id="8103">Burslem Port Vale</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+    <result id="281740">
+      <result code="">Unknown Result</result>
+      <band id="4520">Hanley Excelsior</band>
+      <conductor id="305860">H. McDermott</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="281743">
+      <result code="">Unknown Result</result>
+      <band id="14248">Newcastle Temperance</band>
+      <conductor id="311440">H. Whitehouse</conductor>
+    </result>
+    
+  </results>
+</contest-event>

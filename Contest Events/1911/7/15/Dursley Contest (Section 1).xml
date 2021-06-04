@@ -1,0 +1,55 @@
+<contest-event id="28009">
+  <event-date date="1911-7-15">July 15, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dursley Contest (Section 1)</name>
+  <contest id="3127">
+    <name>Dursley Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="506">Dursley Contest</group>
+    <slug>dursley-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2770">The Bohemian Girl [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1624">Dursley, Gloucestershire, England, UK</venue>
+  <notes>4 bands competed
+</notes>
+
+  <created>May 29, 2014, 8:40 p.m.</created>
+  <last-modified>May 22, 2018, 8:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="200694">
+      <result code="1">1</result>
+      <band id="7402">Tytherington</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="200695">
+      <result code="2">2</result>
+      <band id="7401">Halmore</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="200696">
+      <result code="3">3</result>
+      <band id="9844">Sharpness Temperance</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="287515">
+      <result code="4">4</result>
+      <band id="7399">Dursley Volunteers</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

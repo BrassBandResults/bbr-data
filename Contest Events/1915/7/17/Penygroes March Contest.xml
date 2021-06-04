@@ -1,0 +1,70 @@
+<contest-event id="40553">
+  <event-date date="1915-7-17">July 17, 1915<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Penygroes March Contest</name>
+  <contest id="6360">
+    <name>Penygroes March Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>penygroes-march-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="5430">Brynycwar Grounds, Penygroes, Llanelli, Carmarthenshire</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Oct. 4, 2018, 5:13 p.m.</created>
+  <last-modified>Oct. 4, 2018, 6:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295103">
+      <result code="1">1</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+      <test-piece id="5342">March: Palmer House</test-piece>
+    </result>
+    
+    <result id="295100">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+      <test-piece id="2607">March: The Cossack</test-piece>
+    </result>
+    
+    <result id="295099">
+      <result code="">Unknown Result</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+      <test-piece id="2485">March: The President</test-piece>
+    </result>
+    
+    <result id="295101">
+      <result code="">Unknown Result</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="295102">
+      <result code="">Unknown Result</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311657">R. Williams</conductor>
+    </result>
+    
+    <result id="295104">
+      <result code="">Unknown Result</result>
+      <band id="9506">Calfaria Clydach</band>
+      <conductor id="304288">T. J. Jones</conductor>
+      <test-piece id="3006">March: Battle Abbey</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

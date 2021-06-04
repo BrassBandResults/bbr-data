@@ -1,0 +1,69 @@
+<contest-event id="26878">
+  <event-date date="1920-9-18">Sept. 18, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashton-under-Lyne Contest</name>
+  <contest id="2050">
+    <name>Ashton-under-Lyne Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashton-under-lyne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2040">Ashton-Under-Lyne</venue>
+  <notes>9 bands competed
+Prizes: £50, £30, £15, £7
+March: 1 equal: Slaithwaite, Wingates and Scapegoat
+Best cornet and soprano - Helmshore</notes>
+
+  <created>April 3, 2014, 8:20 p.m.</created>
+  <last-modified>April 13, 2017, 9:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="194344">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194345">
+      <result code="2">2</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194346">
+      <result code="3">3</result>
+      <band id="4134">Southowram Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194347">
+      <result code="4">4</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240013">
+      <result code="">Unknown Result</result>
+      <band id="5271">Helmshore Prize Band</band>
+      <conductor id="297179">Richard Aspin</conductor>
+    </result>
+    
+    <result id="194348">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

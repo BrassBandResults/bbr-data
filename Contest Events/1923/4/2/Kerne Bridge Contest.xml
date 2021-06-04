@@ -1,0 +1,55 @@
+<contest-event id="40730">
+  <event-date date="1923-4-2">April 2, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kerne Bridge Contest</name>
+  <contest id="2700">
+    <name>Kerne Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="482">Walford Contest</group>
+    <slug>kerne-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="2056">Kerne Bridge, Herefordshire, England, UK</venue>
+  <notes>March contest - 1st Yorkley, 2nd  Oakdale.
+4 bands competed.</notes>
+
+  <created>Oct. 15, 2018, 12:54 p.m.</created>
+  <last-modified>Oct. 15, 2018, 12:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296260">
+      <result code="1">1</result>
+      <band id="17398">Oakdale Institute</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="296259">
+      <result code="2">2</result>
+      <band id="8031">Treharris</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="296258">
+      <result code="3">3</result>
+      <band id="12476">Yorkley Concert</band>
+      <conductor id="304218">H. Jones</conductor>
+    </result>
+    
+    <result id="296261">
+      <result code="4">4</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

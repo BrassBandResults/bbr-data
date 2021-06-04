@@ -1,0 +1,74 @@
+<contest-event id="12975">
+  <event-date date="1896-6-20">June 20, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Long Buckby Contest</name>
+  <contest id="2597">
+    <name>Long Buckby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>long-buckby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2410">Lucrezia Borgia [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1947">Long Buckby</venue>
+  <notes>2nd Annual Contest organised by Long Buckby Town Prize Band
+Reported in Northampton Herald 27th June 1896
+7 bands competed</notes>
+
+  <created>April 29, 2012, 1:35 p.m.</created>
+  <last-modified>July 1, 2019, 8:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="103378">
+      <result code="1">1</result>
+      <band id="7624">Long Buckby Temperance</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="103379">
+      <result code="1">1</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="103380">
+      <result code="3">3</result>
+      <band id="4031">Rothwell Albion Silver</band>
+      <conductor id="312145">Thomas Young</conductor>
+    </result>
+    
+    <result id="103381">
+      <result code="4">4</result>
+      <band id="7928">Higham Ferrers Town</band>
+      <conductor id="297669">B. Beaver</conductor>
+    </result>
+    
+    <result id="103382">
+      <result code="">Unknown Result</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="103383">
+      <result code="">Unknown Result</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="298432">W. Bridgeford</conductor>
+    </result>
+    
+    <result id="103384">
+      <result code="">Unknown Result</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

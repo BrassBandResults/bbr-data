@@ -1,0 +1,56 @@
+<contest-event id="35735">
+  <event-date date="1923-1-26">Jan. 26, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (A Grade)</name>
+  <contest id="565">
+    <name>NSW State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2570">Mendelssohn [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>July 22, 2016, 3:15 a.m.</created>
+  <last-modified>Dec. 10, 2020, 12:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259420">
+      <result code="1">1</result>
+      <band id="9283">Lithgow City Brass Band</band>
+      <conductor id="315229">T. Watson</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="259421">
+      <result code="2">2</result>
+      <band id="12307">Kogarah Concert Band</band>
+      <conductor id="309406">Les Smith</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="323770">
+      <result code="W">Withdrawn</result>
+      <band id="13045">Leichhardt Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="323769">
+      <result code="W">Withdrawn</result>
+      <band id="19419">Newsastle Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

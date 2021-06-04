@@ -1,0 +1,91 @@
+<contest-event id="12440">
+  <event-date date="1899-7-15">July 15, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newport Pagnell Contest</name>
+  <contest id="2569">
+    <name>Newport Pagnell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newport-pagnell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="3750">Tickford Street, Newport Pagnell, Buckinghamshire, England, UK</venue>
+  <notes>9 bands entered, 7 competed
+
+  1st prize £7 and cornet valued at £9.9s.
+  2nd prize £5.
+  3rd prize £2.
+  4th prize £1.
+
+  March contest 1st(£1 Finedon Old,  2nd (10s.) Olney Town.</notes>
+
+  <created>April 14, 2012, 3:54 p.m.</created>
+  <last-modified>Aug. 9, 2013, 7:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99437">
+      <result code="1">1</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="99438">
+      <result code="2">2</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="99439">
+      <result code="3">3</result>
+      <band id="6345">Olney Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="99440">
+      <result code="4">4</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="167062">
+      <result code="">Unknown Result</result>
+      <band id="1729">Hazell&#39;s Printing Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167063">
+      <result code="">Unknown Result</result>
+      <band id="7928">Higham Ferrers Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167064">
+      <result code="">Unknown Result</result>
+      <band id="4314">Northampton Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167065">
+      <result code="W">Withdrawn</result>
+      <band id="8271">Berkhamsted Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167066">
+      <result code="W">Withdrawn</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

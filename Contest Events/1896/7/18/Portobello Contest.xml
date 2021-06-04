@@ -1,0 +1,72 @@
+<contest-event id="13003">
+  <event-date date="1896-7-18">July 18, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Portobello Contest</name>
+  <contest id="1513">
+    <name>Portobello Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>portobello-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1198">Portobello, City of Edinburgh, Scotland, UK</venue>
+  <notes>Trombone medal: Crossgates</notes>
+
+  <created>April 29, 2012, 8:48 p.m.</created>
+  <last-modified>April 29, 2012, 8:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103564">
+      <result code="1">1</result>
+      <band id="1989">Crossgates</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="103565">
+      <result code="2">2</result>
+      <band id="1996">Wright Memorial</band>
+      <conductor id="312023">John Wotherspoon</conductor>
+    </result>
+    
+    <result id="103566">
+      <result code="3">3</result>
+      <band id="1998">Longriggend Temperance</band>
+      <conductor id="306027">Frank Mellor</conductor>
+    </result>
+    
+    <result id="103567">
+      <result code="4">4</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="103568">
+      <result code="4">4</result>
+      <band id="1990">Musselburgh Town</band>
+      <conductor id="303241">J. Hogg</conductor>
+    </result>
+    
+    <result id="213750">
+      <result code="">Unknown Result</result>
+      <band id="9380">Broxburn and Livingston Junior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="213751">
+      <result code="">Unknown Result</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

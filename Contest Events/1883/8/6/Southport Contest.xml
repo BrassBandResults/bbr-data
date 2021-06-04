@@ -1,0 +1,61 @@
+<contest-event id="17272">
+  <event-date date="1883-8-6">Aug. 6, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southport Contest</name>
+  <contest id="1547">
+    <name>Southport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1500">Hours of Beauty</test-piece>
+  </test-piece>
+
+  <venue id="1010">Winter Gardens, Southport</venue>
+  <notes>Prizes: £15, £10, £5, £3.
+5 bands competed.</notes>
+
+  <created>Dec. 23, 2012, 9:26 p.m.</created>
+  <last-modified>Dec. 23, 2017, 5:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131089">
+      <result code="1">1</result>
+      <band id="2528">Southport Rifles Band</band>
+      <conductor id="308226">Thomas Rimmer</conductor>
+    </result>
+    
+    <result id="131090">
+      <result code="2">2</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="306842">Job Nutter</conductor>
+    </result>
+    
+    <result id="281430">
+      <result code="3">3</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="281423">
+      <result code="4">4</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="307328">John Peers</conductor>
+    </result>
+    
+    <result id="131093">
+      <result code="5">5</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="307344">W. Pendlebury</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="39870">
+  <event-date date="1910-9-3">Sept. 3, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest</name>
+  <contest id="2332">
+    <name>Dearham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1122">Robin Hood [MacFarren arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes></notes>
+
+  <created>June 5, 2018, 8:40 a.m.</created>
+  <last-modified>June 5, 2018, 8:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="289242">
+      <result code="1">1</result>
+      <band id="1510">Workington</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="289243">
+      <result code="2">2</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="289244">
+      <result code="3">3</result>
+      <band id="3403">Whitehaven Brass Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="289245">
+      <result code="4">4</result>
+      <band id="5674">Frizington St. Joseph</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+  </results>
+</contest-event>

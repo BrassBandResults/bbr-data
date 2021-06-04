@@ -1,0 +1,82 @@
+<contest-event id="37369">
+  <event-date date="1900-7-21">July 21, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mexborough Contest</name>
+  <contest id="3832">
+    <name>Mexborough Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mexborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6442">Cricket Field, Mexborough</venue>
+  <notes>Promoted by Mexborough Great Central Railway Brass Band
+March: 1. East Kirkby, 2. Scunthorpe
+Prizes: £7, £4, £2 10s, £1.
+7 bands competed</notes>
+
+  <created>Feb. 24, 2017, 9:26 a.m.</created>
+  <last-modified>June 14, 2018, 9:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270527">
+      <result code="1">1</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="270528">
+      <result code="2">2</result>
+      <band id="8434">East Kirkby Temperance</band>
+      <conductor id="301210">R. Few</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="270529">
+      <result code="3">3</result>
+      <band id="7583">Scunthorpe Rifles</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1226">Operatic Selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="270531">
+      <result code="3">3</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="298159">A. W. Bone</conductor>
+      <test-piece id="1226">Operatic Selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="270530">
+      <result code="3">3</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+      <test-piece id="1226">Operatic Selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="289713">
+      <result code="6">6</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+      <test-piece id="1226">Operatic Selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="289714">
+      <result code="7">7</result>
+      <band id="9885">Kilnhurst Alliance</band>
+      <conductor id="310695">J. Tyas</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

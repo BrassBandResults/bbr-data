@@ -1,0 +1,50 @@
+<contest-event id="40913">
+  <event-date date="1923-8-6">Aug. 6, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brynkir Contest</name>
+  <contest id="6405">
+    <name>Brynkir Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brynkir-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3858">Dawn of Spring</test-piece>
+  </test-piece>
+
+  <venue id="6973">Brynkir, Carnarvonshire</venue>
+  <notes>Prizes - 1st £20, 2nd £5, 3rd £3.
+March contest - 1st Trefor, 2nd Llan Festiniog.
+</notes>
+
+  <created>Oct. 22, 2018, 4:16 p.m.</created>
+  <last-modified>Oct. 22, 2018, 4:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297027">
+      <result code="1">1</result>
+      <band id="9960">Harlech Brass Band</band>
+      <conductor id="308312">William Roberts</conductor>
+    </result>
+    
+    <result id="297028">
+      <result code="2">2</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="308409">Fred Rogan</conductor>
+    </result>
+    
+    <result id="297029">
+      <result code="3">3</result>
+      <band id="972">Trefor Band</band>
+      <conductor id="318573">R. W. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,57 @@
+<contest-event id="40527">
+  <event-date date="1914-7-18">July 18, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newport (Shropshire) Contest</name>
+  <contest id="6353">
+    <name>Newport (Shropshire) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newport-shropshire-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="6932">Newport, Shropshire</venue>
+  <notes>Best cornet - Bridgnorth.
+Best euphonium and trombone - St George&#39;s.
+Prizes - 1st £10, 2nd £6, 3rd £4.
+4 bands competed</notes>
+
+  <created>Oct. 4, 2018, 5:46 a.m.</created>
+  <last-modified>Oct. 4, 2018, 8:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294924">
+      <result code="1">1</result>
+      <band id="4022">Lilleshall Collieries</band>
+      <conductor id="309898">Joseph Stubbs</conductor>
+    </result>
+    
+    <result id="294925">
+      <result code="2">2</result>
+      <band id="314">Jackfield Elcock Reisen Band</band>
+      <conductor id="297197">G. W. Aston</conductor>
+    </result>
+    
+    <result id="294926">
+      <result code="3">3</result>
+      <band id="3719">Bridgnorth Band</band>
+      <conductor id="300164">James Davies</conductor>
+    </result>
+    
+    <result id="294923">
+      <result code="4">4</result>
+      <band id="3788">Newport Town Band</band>
+      <conductor id="309898">Joseph Stubbs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

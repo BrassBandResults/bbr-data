@@ -1,0 +1,54 @@
+<contest-event id="29596">
+  <event-date date="1877-8-9">Aug. 9, 1877<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cinderford Contest</name>
+  <contest id="2783">
+    <name>Cinderford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cinderford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3271">Cinderford, Gloucestershire, England, UK</venue>
+  <notes>Prizes: £7, £3
+
+Two bands competed
+
+</notes>
+
+  <created>Oct. 13, 2014, 10:19 p.m.</created>
+  <last-modified>March 29, 2020, 9:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="210774">
+      <result code="1">1</result>
+      <band id="10763">Cinderford New Town</band>
+      <conductor id="307664">Amos Preece</conductor>
+      <test-piece id="1463">Fete Musicale</test-piece>
+    </result>
+    
+    <result id="316824">
+      <result code="2">2</result>
+      <band id="12347">Forest Vale</band>
+      <conductor id="316357">James Wilson</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="210773">
+      <result code="W">Withdrawn</result>
+      <band id="6190">Trafalgar Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,79 @@
+<contest-event id="22394">
+  <event-date date="1920-8-28">Aug. 28, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Markinch Contest</name>
+  <contest id="2835">
+    <name>Markinch Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="515">Markinch Contest</group>
+    <slug>markinch-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2174">Markinch, Fife, Scotland, UK</venue>
+  <notes>Own choice &quot;National Airs&quot; test piece
+
+12 bands competed
+
+Prizes: £20, £15, £10, £8, £5, £2
+
+Cowdenbeath has a charabanc crash en route to the contest, and one of their instruments was smashed. Bowhill supplied a replacement.
+</notes>
+
+  <created>Aug. 6, 2013, 2:49 p.m.</created>
+  <last-modified>Dec. 2, 2013, 10:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="166571">
+      <result code="1">1</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="166572">
+      <result code="2">2</result>
+      <band id="5220">Falkirk Trades</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="166573">
+      <result code="3">3</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="310226">Charles Terris</conductor>
+    </result>
+    
+    <result id="166574">
+      <result code="4">4</result>
+      <band id="5227">Dunnikier Colliery</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="166575">
+      <result code="5">5</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="304143">J. Johnstone</conductor>
+    </result>
+    
+    <result id="166576">
+      <result code="6">6</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="302391">John Haldane</conductor>
+    </result>
+    
+    <result id="184803">
+      <result code="W">Withdrawn</result>
+      <band id="1728">Barry, Ostlere &amp; Shepherd</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

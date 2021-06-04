@@ -1,0 +1,66 @@
+<contest-event id="13332">
+  <event-date date="1897-7-28">July 28, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Melbourne Contest</name>
+  <contest id="1948">
+    <name>Melbourne Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>melbourne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1936">Victorian Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1382">Melbourne, Derbyshire, England, UK</venue>
+  <notes>March contest: 1. Belper</notes>
+
+  <created>May 10, 2012, 8:15 p.m.</created>
+  <last-modified>May 10, 2012, 8:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105767">
+      <result code="1">1</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="302841">James Haywood</conductor>
+    </result>
+    
+    <result id="105768">
+      <result code="2">2</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="105769">
+      <result code="3">3</result>
+      <band id="6852">Alvaston and Boulton</band>
+      <conductor id="302841">James Haywood</conductor>
+    </result>
+    
+    <result id="105771">
+      <result code="4">4</result>
+      <band id="11496">Swadlincote Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105770">
+      <result code="4">4</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="299817">W. Cowley</conductor>
+    </result>
+    
+    <result id="105772">
+      <result code="">Unknown Result</result>
+      <band id="6655">Melbourne Baptists</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

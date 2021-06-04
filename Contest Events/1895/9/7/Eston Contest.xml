@@ -1,0 +1,72 @@
+<contest-event id="12721">
+  <event-date date="1895-9-7">Sept. 7, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eston Contest</name>
+  <contest id="2501">
+    <name>Eston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1941">Eston, North Yorkshire</venue>
+  <notes>Promoted by Eston Miners&#39; Old Brass Band
+
+March contest: 1. Spennymoor, 2. Hull, 3. Skelton</notes>
+
+  <created>April 19, 2012, 9:48 p.m.</created>
+  <last-modified>March 30, 2013, 7:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101269">
+      <result code="1">1</result>
+      <band id="6096">Thornaby Ironworks</band>
+      <conductor id="297592">J.E. Bassett</conductor>
+      <test-piece id="1860">Schubert [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101270">
+      <result code="2">2</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">John A. Mutton</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101271">
+      <result code="3">3</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101272">
+      <result code="4">4</result>
+      <band id="6918">Howden Excelsior</band>
+      <conductor id="306491">John Mudd</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="101274">
+      <result code="">Unknown Result</result>
+      <band id="7540">Hull Railway Servants</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101273">
+      <result code="">Unknown Result</result>
+      <band id="583">Trimdon Concert Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

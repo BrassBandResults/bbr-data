@@ -1,0 +1,80 @@
+<contest-event id="9759">
+  <event-date date="1870-8-13">Aug. 13, 1870<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1043">Raikes Hall Gardens, Blackpool</venue>
+  <notes>
+  7 bands competed</notes>
+
+  <created>Jan. 30, 2012, 6:07 p.m.</created>
+  <last-modified>June 7, 2012, 3:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="83695">
+      <result code="1">1</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="305272">John Lord</conductor>
+      <test-piece id="921">L&#39;Africaine [arr. Grosse]</test-piece>
+    </result>
+    
+    <result id="83696">
+      <result code="2">2</result>
+      <band id="7481">Burnley Rifles</band>
+      <conductor id="302695">William Harrison</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="83697">
+      <result code="3">3</result>
+      <band id="3723">Over Darwen Rifles</band>
+      <conductor id="300878">William Ellis</conductor>
+      <test-piece id="1985">Don Giovanni [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="83698">
+      <result code="4">4</result>
+      <band id="2497">Bury Borough</band>
+      <conductor id="298443">John Briggs</conductor>
+      <test-piece id="1255">La Sonnambula [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="83699">
+      <result code="5">5</result>
+      <band id="18240">Darwen Temperance</band>
+      <conductor id="306232">A. R. Moncke</conductor>
+      <test-piece id="5289">Le Carillonneur de Bruges</test-piece>
+    </result>
+    
+    <result id="278643">
+      <result code="">Unknown Result</result>
+      <band id="6910">Liverpool Boys Refuge</band>
+      <conductor id="317097">Brother Zertullian</conductor>
+      <test-piece id="1616">Tancredi - overture (unknown arranger)</test-piece>
+    </result>
+    
+    <result id="278642">
+      <result code="">Unknown Result</result>
+      <band id="7022">Todmorden Amateur</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2184">&#39;Worthy is the Lamb&#39; and &quot;Amen&quot; from The Messiah</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

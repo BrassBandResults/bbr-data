@@ -1,0 +1,57 @@
+<contest-event id="44564">
+  <event-date date="1918-1-1">Jan. 1, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Maryborough Contest (Country Grade)</name>
+  <contest id="6702">
+    <name>Maryborough Contest (Country Grade)</name>
+    <order>5</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="173">Maryborough Contest</group>
+    <slug>maryborough-contest-country-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="7069">Maryborough Show Ground, Maryborough, Queensland, Australia</venue>
+  <notes>Morton Bay Juniors protested against Maryborough Junior Naval on the grounds several players were registered with the Maryborough Naval &quot;A&quot; grade band</notes>
+
+  <created>June 3, 2021, 3:05 a.m.</created>
+  <last-modified>June 3, 2021, 3:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="325954">
+      <result code="1">1</result>
+      <band id="19668">Maryborough Junior Naval</band>
+      <conductor id="318202">Sam Whittaker</conductor>
+      <test-piece id="5732">Waltz: Sylvan Echoes</test-piece>
+    </result>
+    
+    <result id="325955">
+      <result code="2">2</result>
+      <band id="17474">Gatton &amp; Grantham District</band>
+      <conductor id="320761">L. A. McGregor</conductor>
+      <test-piece id="5730">Waltz: Dreams of the Past</test-piece>
+    </result>
+    
+    <result id="325956">
+      <result code="3">3</result>
+      <band id="19669">Morton Bay Juniors</band>
+      <conductor id="318610">F. P. Blight</conductor>
+      <test-piece id="5734">Waltz: Estudiantina</test-piece>
+    </result>
+    
+    <result id="325957">
+      <result code="W">Withdrawn</result>
+      <band id="5767">Apple Tree Creek Citizens Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="15684">
+  <event-date date="1912-9-21">Sept. 21, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kilsyth Contest</name>
+  <contest id="2333">
+    <name>Kilsyth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kilsyth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="2598">Garrel Glen, Kilsyth, Lanarkshire</venue>
+  <notes> March contest 1st Larkhall Town, 2nd Baillieston.
+4 bands competed</notes>
+
+  <created>Oct. 30, 2012, 9:07 a.m.</created>
+  <last-modified>Sept. 29, 2018, 6:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121112">
+      <result code="1">1</result>
+      <band id="5484">Larkhall Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121113">
+      <result code="2">2</result>
+      <band id="5005">Baillieston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121114">
+      <result code="3">3</result>
+      <band id="13">Kirkintilloch Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121115">
+      <result code="4">4</result>
+      <band id="5452">Gartsherrie Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
