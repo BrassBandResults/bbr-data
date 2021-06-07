@@ -1,0 +1,76 @@
+<contest-event id="21777">
+  <event-date date="1903-4-18">April 18, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Baildon Contest</name>
+  <contest id="4308">
+    <name>Baildon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>baildon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2459">Crown of Victory</test-piece>
+  </test-piece>
+
+  <venue id="3548">Baildon, Shipley, West Yorkshire</venue>
+  <notes>  Prizes - 1st 8, 2nd £5, 3rd £3, 4th £2 5th £1.
+March contest  -  1st(£1) Armley and Wortley, 2nd(10s) Shipley.
+  Best euphonium - Cleckheaton.
+  Best trombone - Copley.
+  7 bands competed.</notes>
+
+  <created>June 10, 2013, 10:11 a.m.</created>
+  <last-modified>May 26, 2015, 1:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="161776">
+      <result code="1">1</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="161777">
+      <result code="2">2</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="161778">
+      <result code="3">3</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="305523">H. Mallinson</conductor>
+    </result>
+    
+    <result id="161779">
+      <result code="4">4</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="161780">
+      <result code="5">5</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="161781">
+      <result code="6">6</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="161782">
+      <result code="7">7</result>
+      <band id="3195">Daisy Hill Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

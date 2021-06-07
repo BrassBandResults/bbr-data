@@ -1,0 +1,61 @@
+<contest-event id="13669">
+  <event-date date="1871-5-20">May 20, 1871<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newhallhey Contest</name>
+  <contest id="2399">
+    <name>Newhallhey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhallhey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2213">Newhallhey, Rawtenstall, Lancashire</venue>
+  <notes>
+  6 bands competed.</notes>
+
+  <created>June 7, 2012, 3:18 p.m.</created>
+  <last-modified>June 7, 2012, 3:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="108828">
+      <result code="1">1</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="108829">
+      <result code="2">2</result>
+      <band id="3726">Newchurch</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="108830">
+      <result code="3">3</result>
+      <band id="5105">Healey Hall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="108831">
+      <result code="4">4</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="108832">
+      <result code="5">5</result>
+      <band id="2538">Water Band Rossendale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

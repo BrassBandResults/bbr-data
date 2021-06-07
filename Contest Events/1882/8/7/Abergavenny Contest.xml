@@ -1,0 +1,54 @@
+<contest-event id="29619">
+  <event-date date="1882-8-7">Aug. 7, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abergavenny Contest</name>
+  <contest id="1801">
+    <name>Abergavenny Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="323">Abergavenny Contest</group>
+    <slug>abergavenny-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5388">Queen of the Valley</test-piece>
+  </test-piece>
+
+  <venue id="1272">Abergavenny, Monmouthshire, Wales, UK</venue>
+  <notes></notes>
+
+  <created>Oct. 14, 2014, 12:06 p.m.</created>
+  <last-modified>Nov. 21, 2017, 10:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="210905">
+      <result code="1">1</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210902">
+      <result code="2">2</result>
+      <band id="9420">Neath</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210903">
+      <result code="3">3</result>
+      <band id="12353">1st Breconshire Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210904">
+      <result code="">Unknown Result</result>
+      <band id="12354">1st Glamorgan (Risca) Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

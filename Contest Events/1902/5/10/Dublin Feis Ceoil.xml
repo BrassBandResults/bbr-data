@@ -1,0 +1,42 @@
+<contest-event id="37506">
+  <event-date date="1902-5-10">May 10, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dublin Feis Ceoil</name>
+  <contest id="6081">
+    <name>Dublin Feis Ceoil</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dublin-feis-ceoil</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2567">Faust [Berlioz arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="6448">Rotunda, Dublin</venue>
+  <notes>2 bands competed</notes>
+
+  <created>March 12, 2017, 7:55 p.m.</created>
+  <last-modified>March 12, 2017, 7:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="271198">
+      <result code="1">1</result>
+      <band id="5832">Sirocco</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="271199">
+      <result code="2">2</result>
+      <band id="14547">Willowfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

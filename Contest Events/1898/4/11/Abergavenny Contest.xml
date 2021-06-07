@@ -1,0 +1,67 @@
+<contest-event id="13410">
+  <event-date date="1898-4-11">April 11, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abergavenny Contest</name>
+  <contest id="1801">
+    <name>Abergavenny Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="323">Abergavenny Contest</group>
+    <slug>abergavenny-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1272">Abergavenny, Monmouthshire, Wales, UK</venue>
+  <notes>Prizes: £20, £8, £4
+6 bands competed</notes>
+
+  <created>May 11, 2012, 8:14 p.m.</created>
+  <last-modified>July 15, 2019, 8:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106328">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="106329">
+      <result code="2">2</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="106330">
+      <result code="3">3</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="312145">Thomas Young</conductor>
+    </result>
+    
+    <result id="106331">
+      <result code="">Unknown Result</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="307067">George Palmer</conductor>
+    </result>
+    
+    <result id="106332">
+      <result code="">Unknown Result</result>
+      <band id="8035">Blaenavon Templars</band>
+      <conductor id="296987">C. H. Anderson</conductor>
+    </result>
+    
+    <result id="106333">
+      <result code="">Unknown Result</result>
+      <band id="7462">Bristol Temperance</band>
+      <conductor id="310597">R. Trudgeon</conductor>
+    </result>
+    
+  </results>
+</contest-event>

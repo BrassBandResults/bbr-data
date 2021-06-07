@@ -1,0 +1,98 @@
+<contest-event id="16047">
+  <event-date date="1875-3-27">March 27, 1875<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trawden Contest</name>
+  <contest id="1637">
+    <name>Trawden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trawden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1615">Nabucodonosor [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2222">Prospect Field, Trawden</venue>
+  <notes>Prizes: £10 and soprano cornet, £8, £6, £3, £1
+
+</notes>
+
+  <created>Nov. 10, 2012, 8:12 p.m.</created>
+  <last-modified>Nov. 10, 2012, 8:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="123436">
+      <result code="1">1</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="303265">J. Holden</conductor>
+    </result>
+    
+    <result id="123428">
+      <result code="2">2</result>
+      <band id="8607">Barnoldswick Model</band>
+      <conductor id="311799">J. Windle</conductor>
+    </result>
+    
+    <result id="123431">
+      <result code="3">3</result>
+      <band id="9755">5th Lancashire Artillery Volunteers (Church)</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="123435">
+      <result code="4">4</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="313780">Edward Newton</conductor>
+    </result>
+    
+    <result id="123430">
+      <result code="5">5</result>
+      <band id="9909">Cowling Temperance Prize Band</band>
+      <conductor id="300585">James Duerden</conductor>
+    </result>
+    
+    <result id="123427">
+      <result code="">Unknown Result</result>
+      <band id="3671">Briercliffe Prize Brass Band</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="123429">
+      <result code="">Unknown Result</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="123432">
+      <result code="">Unknown Result</result>
+      <band id="5095">Kildwick and District Prize</band>
+      <conductor id="316516">J. Pollard</conductor>
+    </result>
+    
+    <result id="123433">
+      <result code="">Unknown Result</result>
+      <band id="7197">Newhallhey</band>
+      <conductor id="305618">J. T. Marsden</conductor>
+    </result>
+    
+    <result id="123434">
+      <result code="">Unknown Result</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="310110">H. Tattersall</conductor>
+    </result>
+    
+    <result id="123426">
+      <result code="W">Withdrawn</result>
+      <band id="9908">Barrowford</band>
+      <conductor id="308610">Wayne Ruston</conductor>
+    </result>
+    
+  </results>
+</contest-event>

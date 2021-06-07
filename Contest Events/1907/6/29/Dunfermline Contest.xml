@@ -1,0 +1,68 @@
+<contest-event id="11400">
+  <event-date date="1907-6-29">June 29, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dunfermline Contest</name>
+  <contest id="1891">
+    <name>Dunfermline Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dunfermline-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="804">Dunfermline, Fife, Scotland, UK</venue>
+  <notes>12 bands entered
+
+  1st prize £15.
+  2nd prize £12.
+  3rd prize £11.
+  4th prize £7.
+  5th prize £2.
+
+  March contest  1st Polton Mills,  2nd  Kelty and Blairadam.</notes>
+
+  <created>March 24, 2012, 7:39 a.m.</created>
+  <last-modified>July 1, 2014, 3:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93799">
+      <result code="1">1</result>
+      <band id="4533">Polton Mills</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="93800">
+      <result code="2">2</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="93801">
+      <result code="3">3</result>
+      <band id="5224">Newhaven</band>
+      <conductor id="298610">John Brown</conductor>
+    </result>
+    
+    <result id="93802">
+      <result code="4">4</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="93803">
+      <result code="5">5</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+  </results>
+</contest-event>

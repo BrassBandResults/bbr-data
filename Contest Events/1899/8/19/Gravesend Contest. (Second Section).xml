@@ -1,0 +1,59 @@
+<contest-event id="12629">
+  <event-date date="1899-8-19">Aug. 19, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gravesend Contest. (Second Section)</name>
+  <contest id="2630">
+    <name>Gravesend Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gravesend-contest-second-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1443">Gravesend, Kent</venue>
+  <notes>Choice of test pieces: Masaniello, Nil Desperandum, William Tell, Lucia di Lammermoor, Moses in Egypt, Songs of the Sea, Bohemian Girl, Marino Falerio, Il Guiramento.
+4 bands competed.</notes>
+
+  <created>April 18, 2012, 3:21 p.m.</created>
+  <last-modified>July 28, 2019, 11:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100666">
+      <result code="1">1</result>
+      <band id="622">Watford</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+      <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100667">
+      <result code="2">2</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="304907">W. Layzell</conductor>
+      <test-piece id="1738">Songs of the Sea</test-piece>
+    </result>
+    
+    <result id="100668">
+      <result code="3">3</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+      <test-piece id="2780">Moses in Egypt [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100669">
+      <result code="4">4</result>
+      <band id="6330">Bexley Heath United</band>
+      <conductor id="299989">James Cunningham</conductor>
+      <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

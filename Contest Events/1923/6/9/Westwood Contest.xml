@@ -1,0 +1,56 @@
+<contest-event id="40786">
+  <event-date date="1923-6-9">June 9, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Westwood Contest</name>
+  <contest id="2536">
+    <name>Westwood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>westwood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2624">Any Wright and Round Waltz</test-piece>
+  </test-piece>
+
+  <venue id="1892">Westwood, Northumberland, England, UK</venue>
+  <notes>March contest - 1st Heworth Colliery, 2nd Brancepeth Colliery,
+Prizes - 1st £10 and cup, 2nd £5, 3rd £3, 4th £1.10s.
+8 bands competed.</notes>
+
+  <created>Oct. 18, 2018, 9:31 a.m.</created>
+  <last-modified>Oct. 18, 2018, 12:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296527">
+      <result code="1">1</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="296528">
+      <result code="2">2</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="307472">T. Pick</conductor>
+    </result>
+    
+    <result id="296529">
+      <result code="3">3</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="296530">
+      <result code="4">4</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="304493">E. Keskeys</conductor>
+    </result>
+    
+  </results>
+</contest-event>

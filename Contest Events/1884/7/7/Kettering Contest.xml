@@ -1,0 +1,66 @@
+<contest-event id="17345">
+  <event-date date="1884-7-7">July 7, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kettering Contest</name>
+  <contest id="2367">
+    <name>Kettering Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kettering-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1506">Joan of Arc [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2864">Bayes Grounds, Lower Street, Kettering</venue>
+  <notes>Prizes: £22, £16, £10, £7, £5
+2nd annual contest promoted by Kettering Rifles.</notes>
+
+  <created>Dec. 26, 2012, 9:29 p.m.</created>
+  <last-modified>May 3, 2019, 1:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131597">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="131596">
+      <result code="2">2</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="131595">
+      <result code="3">3</result>
+      <band id="2515">Burslem Band</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="920">Un Ballo in Maschera [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="131594">
+      <result code="4">4</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="303273">Harry L. Holding</conductor>
+      <test-piece id="523">Gems of Mozart [arr. T. Wright]</test-piece>
+    </result>
+    
+    <result id="131593">
+      <result code="5">5</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="309215">William Skinner</conductor>
+      <test-piece id="1594">&#39;Worthy is the Lamb&#39; from &#39;The Messiah&#39; [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

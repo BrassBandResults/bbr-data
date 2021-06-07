@@ -1,0 +1,97 @@
+<contest-event id="4979">
+  <event-date date="1861-9-2">Sept. 2, 1861<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belle Vue Brass Band Contest</name>
+  <contest id="6">
+    <name>British Open</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>british-open</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1810">Satanella [arr. Hird]</test-piece>
+  </test-piece>
+
+  <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
+  <notes>Satanella plus own-choice test piece
+
+All Bands played an Own Choice test piece
+Prizes: 1st: £35 2nd: £15 3rd: £8 4th: £4.10 5th: £2.10 
+
+Source:
+Manchester Times (Manchester, England), Saturday, September 7, 1861; Issue 196.
+
+This original report contradicts what is given in the 4BR archive on several counts, most importantly regarding the Deepcar band, which the original report makes clear was the same band as the &quot;Stockbridge Works&quot; band. 4BR lists these as separate bands, giving each a draw number and a conductor for only &quot;Stockbridge Works&quot; (&quot;H. Biltcliffe&quot;) who is not attested in this original source.</notes>
+
+  <created>March 21, 2011, 6:11 p.m.</created>
+  <last-modified>Oct. 26, 2014, 10:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="43675">
+      <result code="1">1</result>
+      <band id="12514">Halifax</band>
+      <conductor id="300360">Isaac Dewhurst</conductor>
+      <test-piece id="1265">Nabucodonosor - Overture [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="43676">
+      <result code="2">2</result>
+      <band id="3297">Dewsbury Rifle Corps</band>
+      <conductor id="307325">John Peel</conductor>
+      <test-piece id="2816">Robin Hood [MacFarren, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="43677">
+      <result code="3">3</result>
+      <band id="2509">Chesterfield Rifle Corps Band</band>
+      <conductor id="310582">Thomas Tallis Trimnell</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="43678">
+      <result code="4">4</result>
+      <band id="3298">Sherwood Rangers</band>
+      <conductor id="305105">William Lilley</conductor>
+      <test-piece id="1254">Ernani [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="43679">
+      <result code="5">5</result>
+      <band id="8966">Victoria Volunteer Rifles (Paddington)</band>
+      <conductor id="305459">T. Mackroy</conductor>
+      <test-piece id="2804">Dinorah [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="43682">
+      <result code="">Unknown Result</result>
+      <band id="189">Delph Band</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+    <result id="43680">
+      <result code="">Unknown Result</result>
+      <band id="7479">Stocksbridge Works (Deepcar)</band>
+      <conductor id="299116">H. Castle</conductor>
+    </result>
+    
+    <result id="43681">
+      <result code="W">Withdrawn</result>
+      <band id="3300">Deighton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="43683">
+      <result code="W">Withdrawn</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="309437">Richard Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

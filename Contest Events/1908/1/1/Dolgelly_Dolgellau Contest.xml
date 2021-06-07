@@ -1,0 +1,61 @@
+<contest-event id="40289">
+  <event-date date="1908-1-1">Jan. 1, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgelly/Dolgellau Contest</name>
+  <contest id="1779">
+    <name>Dolgelly/Dolgellau Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1868">Comfort Ye and The Glory of the Lord</test-piece>
+  </test-piece>
+
+  <venue id="1253">Dolgellau, Gwynedd, Wales, UK</venue>
+  <notes>March contest - 1st Nantlle Vale.
+4 bands competed.</notes>
+
+  <created>Sept. 21, 2018, 9:25 a.m.</created>
+  <last-modified>July 14, 2020, 10:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293145">
+      <result code="1">1</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293142">
+      <result code="2">2</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="293143">
+      <result code="">Unknown Result</result>
+      <band id="7279">Dolgelly</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293144">
+      <result code="">Unknown Result</result>
+      <band id="9960">Harlech Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293146">
+      <result code="W">Withdrawn</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

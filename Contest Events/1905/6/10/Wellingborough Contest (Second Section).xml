@@ -1,0 +1,63 @@
+<contest-event id="10045">
+  <event-date date="1905-6-10">June 10, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellingborough Contest (Second Section)</name>
+  <contest id="1849">
+    <name>Wellingborough Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellingborough-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2596">Songs of Rhineland</test-piece>
+  </test-piece>
+
+  <venue id="3950">Dog and Duck ground, 	Wellingborough, Northants</venue>
+  <notes>1st prize £8.
+2nd prize £4. 
+3rd prize (£2) and 4th prize (£1) divided between Watford Artisans and Irthingborough
+5 bands competed</notes>
+
+  <created>Feb. 8, 2012, 5:24 p.m.</created>
+  <last-modified>Sept. 6, 2018, 9:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85157">
+      <result code="1">1</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="85158">
+      <result code="2">2</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="85159">
+      <result code="3">3</result>
+      <band id="622">Watford</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="85160">
+      <result code="3">3</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="307686">Thomas Preston</conductor>
+    </result>
+    
+    <result id="85161">
+      <result code="5">5</result>
+      <band id="6605">Kettering Midland</band>
+      <conductor id="300260">A. Dayton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

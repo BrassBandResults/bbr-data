@@ -1,0 +1,66 @@
+<contest-event id="10265">
+  <event-date date="1905-7-15">July 15, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hebburn Contest</name>
+  <contest id="1913">
+    <name>Hebburn Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hebburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1353">Hebburn, County Durham</venue>
+  <notes>March contest 1st Spencer&#39;s Steelworks, 2nd Chester-le-Street Town.</notes>
+
+  <created>Feb. 13, 2012, 1:47 p.m.</created>
+  <last-modified>March 3, 2020, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="86731">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="86732">
+      <result code="2">2</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="86733">
+      <result code="3">3</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="86734">
+      <result code="4">4</result>
+      <band id="5388">Chester-le-Street</band>
+      <conductor id="303593">John Hughes</conductor>
+    </result>
+    
+    <result id="86736">
+      <result code="">Unknown Result</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="86735">
+      <result code="">Unknown Result</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+  </results>
+</contest-event>

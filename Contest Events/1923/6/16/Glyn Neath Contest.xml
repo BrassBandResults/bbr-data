@@ -1,0 +1,54 @@
+<contest-event id="40792">
+  <event-date date="1923-6-16">June 16, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glyn Neath Contest</name>
+  <contest id="6362">
+    <name>Glyn Neath Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>glyn-neath-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3977">Glynneath, Neath Port Talbot, Wales, UK</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Oct. 18, 2018, 12:42 p.m.</created>
+  <last-modified>Oct. 18, 2018, 12:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296556">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="296557">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="296558">
+      <result code="3">3</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="310854">Fred Wade</conductor>
+    </result>
+    
+    <result id="296559">
+      <result code="4">4</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

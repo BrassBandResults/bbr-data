@@ -1,0 +1,52 @@
+<contest-event id="11533">
+  <event-date date="1907-8-5">Aug. 5, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class A)</name>
+  <contest id="2115">
+    <name>Pontypridd Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="451">Gems from Sullivan&#39;s Operas No. 1</test-piece>
+  </test-piece>
+
+  <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>
+  1st prize £30 and shield.
+  2nd prize £15.
+  3rd prize £10.
+3 bands competed.</notes>
+
+  <created>March 31, 2012, 6:47 a.m.</created>
+  <last-modified>July 4, 2015, 7:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94447">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="94448">
+      <result code="2">2</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="94449">
+      <result code="3">3</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="302239">John Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

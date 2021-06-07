@@ -1,0 +1,61 @@
+<contest-event id="40923">
+  <event-date date="1923-8-18">Aug. 18, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Horwich Contest</name>
+  <contest id="2400">
+    <name>Horwich Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>horwich-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1755">Horwich, Lancashire</venue>
+  <notes>March contest - 1st Parr Temperance, 2nd Queen Street Mission.
+5 bands competed.</notes>
+
+  <created>Oct. 23, 2018, 8:18 a.m.</created>
+  <last-modified>Oct. 23, 2018, 8:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297101">
+      <result code="1">1</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="307627">Benson Powell</conductor>
+    </result>
+    
+    <result id="297102">
+      <result code="2">2</result>
+      <band id="1649">Blackpool Excelsior</band>
+      <conductor id="310194">W. E. Taylor</conductor>
+    </result>
+    
+    <result id="297103">
+      <result code="2">2</result>
+      <band id="4353">Bolton Temperance</band>
+      <conductor id="297173">Walter Ashworth</conductor>
+    </result>
+    
+    <result id="297104">
+      <result code="4">4</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297105">
+      <result code="5">5</result>
+      <band id="8292">Southport (Lancashire and Yorkshire Railway)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

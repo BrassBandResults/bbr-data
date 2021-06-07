@@ -1,0 +1,67 @@
+<contest-event id="40846">
+  <event-date date="1923-7-14">July 14, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newhall Contest</name>
+  <contest id="1916">
+    <name>Newhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4605">Newhall Park, Newhall, Derbyshire</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £8 and cup, 3rd £4, 4th £2.
+6 bands competed</notes>
+
+  <created>Oct. 20, 2018, 10:13 a.m.</created>
+  <last-modified>Oct. 20, 2018, 10:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296789">
+      <result code="1">1</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+    </result>
+    
+    <result id="296790">
+      <result code="2">2</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="309450">Samuel Smith</conductor>
+    </result>
+    
+    <result id="296791">
+      <result code="3">3</result>
+      <band id="9749">Bloxwich Imperial</band>
+      <conductor id="318557">J. E. Sidebotham</conductor>
+    </result>
+    
+    <result id="296792">
+      <result code="4">4</result>
+      <band id="5913">Burton Excelsior</band>
+      <conductor id="298175">Enoch Booth</conductor>
+    </result>
+    
+    <result id="296794">
+      <result code="">Unknown Result</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296793">
+      <result code="">Unknown Result</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

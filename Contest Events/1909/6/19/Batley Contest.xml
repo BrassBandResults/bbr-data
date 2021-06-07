@@ -1,0 +1,74 @@
+<contest-event id="15807">
+  <event-date date="1909-6-19">June 19, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Batley Contest</name>
+  <contest id="1251">
+    <name>Batley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>batley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1900">Old Favourites</test-piece>
+  </test-piece>
+
+  <venue id="1116">Cricket Field, Batley</venue>
+  <notes>Prizes  1st £8 and cup,  2nd £5,  3rd £3,  4th £2.
+March contest 1st Slaithwaite, 2nd Carlton.
+7 bands competed.</notes>
+
+  <created>Nov. 3, 2012, 8:43 a.m.</created>
+  <last-modified>Sept. 3, 2016, 9:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121908">
+      <result code="1">1</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="305217">Benjamin Lodge</conductor>
+    </result>
+    
+    <result id="121909">
+      <result code="2">2</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="121910">
+      <result code="3">3</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="121911">
+      <result code="4">4</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="308969">Frank Shaw</conductor>
+    </result>
+    
+    <result id="121913">
+      <result code="">Unknown Result</result>
+      <band id="3178">Birstall Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121914">
+      <result code="">Unknown Result</result>
+      <band id="142">Clifton and Lightcliffe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121912">
+      <result code="">Unknown Result</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

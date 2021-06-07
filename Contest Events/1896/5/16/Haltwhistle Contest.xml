@@ -1,0 +1,60 @@
+<contest-event id="12927">
+  <event-date date="1896-5-16">May 16, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haltwhistle Contest</name>
+  <contest id="2087">
+    <name>Haltwhistle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haltwhistle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1522">Haltwhistle, Northumberland</venue>
+  <notes>Cornet contest - 1st J.Reay (Carlisle) , 2nd R.Binnie (Walbottle).</notes>
+
+  <created>April 29, 2012, 10:39 a.m.</created>
+  <last-modified>Dec. 27, 2019, 9:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102765">
+      <result code="1">1</result>
+      <band id="7628">Walbottle Temperance</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="102766">
+      <result code="2">2</result>
+      <band id="6302">Carlisle Artillery</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="102767">
+      <result code="3">3</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">John A. Mutton</conductor>
+    </result>
+    
+    <result id="102768">
+      <result code="4">4</result>
+      <band id="6195">Beamish</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="102769">
+      <result code="4">4</result>
+      <band id="8049">East Stanley</band>
+      <conductor id="299673">J. Cooper</conductor>
+    </result>
+    
+  </results>
+</contest-event>

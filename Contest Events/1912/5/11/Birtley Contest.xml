@@ -1,0 +1,75 @@
+<contest-event id="12907">
+  <event-date date="1912-5-11">May 11, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birtley Contest</name>
+  <contest id="1902">
+    <name>Birtley Selection Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="304">Birtley Contest</group>
+    <slug>birtley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1345">Birtley, County Durham</venue>
+  <notes> 1st prize £14 and cup.
+ 2nd prize £6.
+ 3rd prize £3.
+ 4th prize £1.
+
+ March contest 1st (£1) St Hilda Colliery, 2nd (10s.) South Moor.
+
+ 6 bands entered selection contest, 14 entered march contest.
+
+ 9th annual contest.</notes>
+
+  <created>April 28, 2012, 11:39 a.m.</created>
+  <last-modified>Oct. 5, 2012, 10:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="102621">
+      <result code="1">1</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="302069">A. Gray</conductor>
+    </result>
+    
+    <result id="102622">
+      <result code="2">2</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="102623">
+      <result code="3">3</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="102624">
+      <result code="4">4</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="102626">
+      <result code="">Unknown Result</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="102625">
+      <result code="">Unknown Result</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="318440">Edwin R. Pritchard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

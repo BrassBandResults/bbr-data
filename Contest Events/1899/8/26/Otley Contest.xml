@@ -1,0 +1,67 @@
+<contest-event id="8043">
+  <event-date date="1899-8-26">Aug. 26, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Otley Contest</name>
+  <contest id="1407">
+    <name>Otley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>otley-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="917">Otley, West Yorkshire</venue>
+  <notes></notes>
+
+  <created>Nov. 3, 2011, 6:50 p.m.</created>
+  <last-modified>May 3, 2021, 9:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="325371">
+      <result code="1">1</result>
+      <band id="6624">Bradford Postmen</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1420">March: Knight of the Road</test-piece>
+    </result>
+    
+    <result id="72645">
+      <result code="2">2</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="325372">
+      <result code="3">3</result>
+      <band id="4593">Baildon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="325373">
+      <result code="">Unknown Result</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="213011">
+      <result code="">Unknown Result</result>
+      <band id="7615">Harrogate Temperance</band>
+      <conductor id="310181">Richard Taylor</conductor>
+    </result>
+    
+    <result id="325370">
+      <result code="">Unknown Result</result>
+      <band id="19604">Yeadon Postmen&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

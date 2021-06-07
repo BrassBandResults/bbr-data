@@ -1,0 +1,80 @@
+<contest-event id="12412">
+  <event-date date="1899-6-17">June 17, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wakefield Contest</name>
+  <contest id="1182">
+    <name>Wakefield Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wakefield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3740">Trinity Athletic and Football Co.&#39;s Grounds, Belle Vue, Wakefield</venue>
+  <notes>Promoted by Belle Vue (Wakefield) Prize Brass Band
+
+  1st prize £7.
+  2nd prize £4.
+  3rd prize £2 and 4th prize £1. divided between Bradford Postmen and Ackworth Parish.
+
+  March contest 1st (£1) Bradford Postmen, 2nd (10s.) Thornhill.
+
+  7 bands competed.</notes>
+
+  <created>April 14, 2012, 8:32 a.m.</created>
+  <last-modified>Aug. 9, 2013, 3:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99275">
+      <result code="1">1</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+    <result id="99276">
+      <result code="2">2</result>
+      <band id="3178">Birstall Old</band>
+      <conductor id="309902">Tom Stubley</conductor>
+    </result>
+    
+    <result id="99278">
+      <result code="3">3</result>
+      <band id="7876">Ackworth Parish</band>
+      <conductor id="311558">Joseph Wilkinson</conductor>
+    </result>
+    
+    <result id="99277">
+      <result code="3">3</result>
+      <band id="6624">Bradford Postmen</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="99280">
+      <result code="">Unknown Result</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="99279">
+      <result code="">Unknown Result</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167050">
+      <result code="">Unknown Result</result>
+      <band id="133">Horbury Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

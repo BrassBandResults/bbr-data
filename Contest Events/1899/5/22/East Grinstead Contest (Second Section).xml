@@ -1,0 +1,65 @@
+<contest-event id="12361">
+  <event-date date="1899-5-22">May 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Grinstead Contest (Second Section)</name>
+  <contest id="1866">
+    <name>East Grinstead Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="217">East Grinstead Contest</group>
+    <slug>east-grinstead-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1560">La Sonnambula [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1311">East Grinstead, Sussex</venue>
+  <notes>1st prize £6 and cornet.
+2nd prize £4.15s and clarinet!
+3rd prize £3.3s. and trombone.
+4th prize £2.2s.
+March contest 1st (£1) Wargrave Industrial School(Tender and True),  2nd (10s.) Cranleigh(The Avenue)
+5 bands competed.</notes>
+
+  <created>April 13, 2012, 2:50 p.m.</created>
+  <last-modified>June 25, 2017, 10:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98866">
+      <result code="1">1</result>
+      <band id="11868">Cranleigh Military</band>
+      <conductor id="298026">J. Blacklidge</conductor>
+    </result>
+    
+    <result id="98867">
+      <result code="2">2</result>
+      <band id="7851">Wokingham All Saints</band>
+      <conductor id="299707">Sam Cope</conductor>
+    </result>
+    
+    <result id="98868">
+      <result code="3">3</result>
+      <band id="11867">Handcross Military</band>
+      <conductor id="309533">C. O. Soquist</conductor>
+    </result>
+    
+    <result id="98869">
+      <result code="4">4</result>
+      <band id="7852">Wargrave Industrial School</band>
+      <conductor id="299594">W. Connor</conductor>
+    </result>
+    
+    <result id="98870">
+      <result code="5">5</result>
+      <band id="6710">Haslemere Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

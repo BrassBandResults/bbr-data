@@ -1,0 +1,61 @@
+<contest-event id="21821">
+  <event-date date="1903-5-30">May 30, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rawmarsh Contest</name>
+  <contest id="2594">
+    <name>Rawmarsh Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rawmarsh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2903">Il Seraglio [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3352">Cricket Field, Rawmarsh</venue>
+  <notes>  March contest  -  1st Wharncliffe Silkstone, 2nd Grimesthorpe.
+  Best cornet,soprano,euphonium,trombone,horn and bass trombone - Wharncliffe.</notes>
+
+  <created>June 12, 2013, 7:43 p.m.</created>
+  <last-modified>July 23, 2016, 5:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162154">
+      <result code="1">1</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="162155">
+      <result code="2">2</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="303178">Major Hitchen</conductor>
+    </result>
+    
+    <result id="162156">
+      <result code="3">3</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="162157">
+      <result code="4">4</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="162158">
+      <result code="5">5</result>
+      <band id="9885">Kilnhurst Alliance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

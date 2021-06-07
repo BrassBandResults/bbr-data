@@ -1,0 +1,60 @@
+<contest-event id="11237">
+  <event-date date="1907-3-16">March 16, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dundee Contest (Second Section)</name>
+  <contest id="2211">
+    <name>Dundee Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="355">Dundee Contest</group>
+    <slug>dundee-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1780">Gems of Scotia</test-piece>
+  </test-piece>
+
+  <venue id="1064">Dundee, Dundee City, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>March 18, 2012, 8:16 a.m.</created>
+  <last-modified>March 18, 2012, 8:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="92930">
+      <result code="1">1</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="92931">
+      <result code="2">2</result>
+      <band id="5517">Blairgowrie and Rattray</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="92932">
+      <result code="3">3</result>
+      <band id="8084">Carnoustie</band>
+      <conductor id="300950">Joseph Esplin</conductor>
+    </result>
+    
+    <result id="92933">
+      <result code="4">4</result>
+      <band id="7101">Kirriemuir Town Band</band>
+      <conductor id="318322">James Lamb</conductor>
+    </result>
+    
+    <result id="173209">
+      <result code="W">Withdrawn</result>
+      <band id="1054">Montrose Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

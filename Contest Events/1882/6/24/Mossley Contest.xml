@@ -1,0 +1,87 @@
+<contest-event id="17197">
+  <event-date date="1882-6-24">June 24, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mossley Contest</name>
+  <contest id="2453">
+    <name>Mossley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mossley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1809">Mossley</venue>
+  <notes>Prizes: £20, £15, £10, £5, £2, £1.
+1st annual contest
+7 bands competed</notes>
+
+  <created>Dec. 20, 2012, 12:19 p.m.</created>
+  <last-modified>Aug. 12, 2019, 1:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130502">
+      <result code="1">1</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2204">Weber&#39;s Works</test-piece>
+    </result>
+    
+    <result id="130503">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="130504">
+      <result code="3">3</result>
+      <band id="6135">Rochdale Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2246">Le Prophete [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="130505">
+      <result code="4">4</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="130506">
+      <result code="5">5</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="130508">
+      <result code="6">6</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+    <result id="130507">
+      <result code="6">6</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="297854">John Berry</conductor>
+      <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="281313">
+      <result code="W">Withdrawn</result>
+      <band id="18260">Glossop Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,86 @@
+<contest-event id="24132">
+  <event-date date="1874-4-4">April 4, 1874<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trawden Contest</name>
+  <contest id="1637">
+    <name>Trawden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trawden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2222">Prospect Field, Trawden</venue>
+  <notes>Prizes: £10 and 15 guinea euphonium, £5 and 9 guinea tenor horn, £2 and 8 guinea soprano, £2, £1</notes>
+
+  <created>Sept. 28, 2013, 10:11 p.m.</created>
+  <last-modified>Sept. 28, 2013, 10:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="176000">
+      <result code="1">1</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="305272">John Lord</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="176001">
+      <result code="2">2</result>
+      <band id="3726">Newchurch</band>
+      <conductor id="303464">Ormerod Houldsworth</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="175999">
+      <result code="3">3</result>
+      <band id="9909">Cowling Temperance Prize Band</band>
+      <conductor id="300585">James Duerden</conductor>
+      <test-piece id="1225">Lucia di Lammermoor [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="176003">
+      <result code="4">4</result>
+      <band id="4600">Church and Oswaldtwistle</band>
+      <conductor id="305271">James Lord</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="176005">
+      <result code="5">5</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="176002">
+      <result code="">Unknown Result</result>
+      <band id="3720">Cloughfold</band>
+      <conductor id="299983">J. Cunliffe</conductor>
+      <test-piece id="921">L&#39;Africaine [arr. Grosse]</test-piece>
+    </result>
+    
+    <result id="176004">
+      <result code="">Unknown Result</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="305271">James Lord</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="176006">
+      <result code="">Unknown Result</result>
+      <band id="4062">Mirfield Silver</band>
+      <conductor id="298525">John Brook</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

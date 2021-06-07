@@ -1,0 +1,84 @@
+<contest-event id="21810">
+  <event-date date="1903-6-2">June 2, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Worksop Contest</name>
+  <contest id="2707">
+    <name>Worksop Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>worksop-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="1326">Le Domino Noir [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3555">Manor Park, Worksop, Nottinghamshire</venue>
+  <notes>1st day of the Notts Agricultural Show.
+Prizes - 1st £20 and cup, 2nd £12 and cup, 3rd £5, 4th £3, 5th £2.
+March contest - 1st(£3) Lea Mills, 2nd(£2) Lindley, 3rd(£1) Rushden.
+  Best euphonium - Lindley.
+  Best cornet - Kingston Mills.
+  Promoted by Nottingham Agricultural Society.
+  8 bands competed.</notes>
+
+  <created>June 12, 2013, 3:37 p.m.</created>
+  <last-modified>July 24, 2016, 9:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162071">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="162072">
+      <result code="2">2</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="162073">
+      <result code="3">3</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="162074">
+      <result code="4">4</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="162075">
+      <result code="5">5</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="162076">
+      <result code="">Unknown Result</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="162077">
+      <result code="">Unknown Result</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="162078">
+      <result code="">Unknown Result</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

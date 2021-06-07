@@ -1,0 +1,60 @@
+<contest-event id="40036">
+  <event-date date="1901-8-31">Aug. 31, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bulwell Contest</name>
+  <contest id="2286">
+    <name>Bulwell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bulwell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1652">Bulwell, Nottinghamshire</venue>
+  <notes>March contest - 1st Bestwood, 2nd Newstead.</notes>
+
+  <created>June 28, 2018, 11:31 a.m.</created>
+  <last-modified>June 28, 2018, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291001">
+      <result code="1">1</result>
+      <band id="3605">Hasland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291002">
+      <result code="1">1</result>
+      <band id="879">Newstead Abbey Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291003">
+      <result code="3">3</result>
+      <band id="11888">Bestwood Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291004">
+      <result code="4">4</result>
+      <band id="11273">Bagthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291005">
+      <result code="5">5</result>
+      <band id="6878">Bulwell Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,66 @@
+<contest-event id="34172">
+  <event-date date="1909-4-5">April 5, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2886">Gems of Mozart [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>Test piece element only.</notes>
+
+  <created>Feb. 27, 2016, 9:49 p.m.</created>
+  <last-modified>Feb. 28, 2016, 9:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="246883">
+      <result code="1">1</result>
+      <band id="11807">Bathurst District</band>
+      <conductor id="305031">Samuel Lewins</conductor>
+    </result>
+    
+    <result id="246884">
+      <result code="2">2</result>
+      <band id="13093">Newcastle City</band>
+      <conductor id="297461">William Barkel</conductor>
+    </result>
+    
+    <result id="246885">
+      <result code="3">3</result>
+      <band id="11249">Metropolitan (Sydney)</band>
+      <conductor id="307070">John Palmer</conductor>
+    </result>
+    
+    <result id="246886">
+      <result code="4">4</result>
+      <band id="13142">Orange Town</band>
+      <conductor id="307430">Jerry Pheloung</conductor>
+    </result>
+    
+    <result id="246887">
+      <result code="5">5</result>
+      <band id="13143">Rozelle</band>
+      <conductor id="305306">Alfred Lovell</conductor>
+    </result>
+    
+    <result id="246888">
+      <result code="6">6</result>
+      <band id="13033">NSW Tramways</band>
+      <conductor id="306883">George O&#39;Shea</conductor>
+    </result>
+    
+  </results>
+</contest-event>

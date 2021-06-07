@@ -1,0 +1,62 @@
+<contest-event id="40426">
+  <event-date date="1913-3-22">March 22, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Compstall Contest</name>
+  <contest id="1795">
+    <name>Compstall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>compstall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2802">Songs of Sentiment</test-piece>
+  </test-piece>
+
+  <venue id="2033">Compstall Gardens, Cheshire</venue>
+  <notes>March contest - 1st Altrincham, 2nd New Mills.
+5 bands competed.
+</notes>
+
+  <created>Sept. 29, 2018, 3:37 p.m.</created>
+  <last-modified>Nov. 17, 2020, 2:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294162">
+      <result code="1">1</result>
+      <band id="1718">Altrincham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294160">
+      <result code="2">2</result>
+      <band id="1863">New Mills Band</band>
+      <conductor id="297646">John Beard</conductor>
+    </result>
+    
+    <result id="322742">
+      <result code="3">3</result>
+      <band id="17363">Irlam Village</band>
+      <conductor id="317093">Herbert Bennett</conductor>
+    </result>
+    
+    <result id="294163">
+      <result code="4">4</result>
+      <band id="3670">Victoria Hall (Bolton)</band>
+      <conductor id="317093">Herbert Bennett</conductor>
+    </result>
+    
+    <result id="294164">
+      <result code="5">5</result>
+      <band id="4276">Halliwell</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+  </results>
+</contest-event>

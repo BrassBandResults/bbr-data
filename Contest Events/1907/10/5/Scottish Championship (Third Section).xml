@@ -1,0 +1,78 @@
+<contest-event id="7434">
+  <event-date date="1907-10-5">Oct. 5, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1306">Fra Diavolo [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="259">Waverley Market, Edinburgh</venue>
+  <notes></notes>
+
+  <created>Oct. 3, 2011, 11:10 p.m.</created>
+  <last-modified>March 18, 2012, 8:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="67062">
+      <result code="1">1</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="67063">
+      <result code="2">2</result>
+      <band id="5499">Bannockburn Colliery</band>
+      <conductor id="300960">William Etherington</conductor>
+    </result>
+    
+    <result id="67064">
+      <result code="3">3</result>
+      <band id="5476">Burntisland Silver</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+    </result>
+    
+    <result id="67065">
+      <result code="4">4</result>
+      <band id="655">Peebles Burgh Silver</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="67066">
+      <result code="">Unknown Result</result>
+      <band id="2103">Armadale Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67067">
+      <result code="">Unknown Result</result>
+      <band id="5517">Blairgowrie and Rattray</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67068">
+      <result code="">Unknown Result</result>
+      <band id="5497">Coaltown of Wemyss</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="67069">
+      <result code="">Unknown Result</result>
+      <band id="664">Shotts St Patrick&#39;s Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

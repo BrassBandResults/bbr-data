@@ -1,0 +1,55 @@
+<contest-event id="12584">
+  <event-date date="1895-8-5">Aug. 5, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest (Local Section)</name>
+  <contest id="2401">
+    <name>Barrow Contest (Local Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest-local-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="885">Barrow-in-Furness, Cumbria, England, UK</venue>
+  <notes>Brass Band News September 1895 shows 2nd Lancaster, 4th Barrow Ironworks.
+4 bands competed</notes>
+
+  <created>April 17, 2012, 9:55 p.m.</created>
+  <last-modified>June 22, 2019, 7:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100445">
+      <result code="1">1</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="100446">
+      <result code="2">2</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+    </result>
+    
+    <result id="100448">
+      <result code="3">3</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="309514">W. T. Sobie</conductor>
+    </result>
+    
+    <result id="100447">
+      <result code="3">3</result>
+      <band id="7655">Lancaster Borough</band>
+      <conductor id="297736">F. L. Bell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

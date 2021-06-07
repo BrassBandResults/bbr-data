@@ -1,0 +1,55 @@
+<contest-event id="11810">
+  <event-date date="1907-9-21">Sept. 21, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dodworth Contest</name>
+  <contest id="1383">
+    <name>Dodworth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dodworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1274">Daughter of the Regiment [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="1462">Dodworth, South Yorkshire, England, UK</venue>
+  <notes>March contest 1st Holme, 2nd Rockingham.
+4 bands competed.</notes>
+
+  <created>April 7, 2012, 11:12 a.m.</created>
+  <last-modified>Sept. 20, 2018, 5:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95463">
+      <result code="1">1</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="95464">
+      <result code="2">2</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="95465">
+      <result code="3">3</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95466">
+      <result code="4">4</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

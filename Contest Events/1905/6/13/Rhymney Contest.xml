@@ -1,0 +1,56 @@
+<contest-event id="10103">
+  <event-date date="1905-6-13">June 13, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>1st prize £10, 2nd prize £5, 3rd prize £3.
+4 bands competed
+</notes>
+
+  <created>Feb. 11, 2012, 1:34 p.m.</created>
+  <last-modified>June 16, 2020, 10:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="85620">
+      <result code="1">1</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="310273">G. Thomas</conductor>
+    </result>
+    
+    <result id="85621">
+      <result code="2">2</result>
+      <band id="6595">Cwmparc</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="85622">
+      <result code="3">3</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="318146">Theo Evans</conductor>
+    </result>
+    
+    <result id="85623">
+      <result code="4">4</result>
+      <band id="6596">Deri</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

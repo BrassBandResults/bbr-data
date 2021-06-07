@@ -1,0 +1,86 @@
+<contest-event id="40053">
+  <event-date date="1902-5-19">May 19, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1801">Songs of Other Days</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>Prizes - 1st £9, 2nd £6, 3rd £3.
+March contest - 1st divided between Cory and Great Western.
+9 bands competed.</notes>
+
+  <created>July 3, 2018, 5:57 a.m.</created>
+  <last-modified>July 3, 2018, 6:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291119">
+      <result code="1">1</result>
+      <band id="15599">Dowlais and Merthyr Inn</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="291121">
+      <result code="2">2</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="291118">
+      <result code="3">3</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="291115">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="300719">Thomas Eastwood</conductor>
+    </result>
+    
+    <result id="291116">
+      <result code="">Unknown Result</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="300719">Thomas Eastwood</conductor>
+    </result>
+    
+    <result id="291117">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291120">
+      <result code="">Unknown Result</result>
+      <band id="7627">Abercanaid</band>
+      <conductor id="310410">Thomas Threlfall</conductor>
+    </result>
+    
+    <result id="291122">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="318151">R. Warden</conductor>
+    </result>
+    
+    <result id="291123">
+      <result code="">Unknown Result</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

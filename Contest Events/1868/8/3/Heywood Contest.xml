@@ -1,0 +1,54 @@
+<contest-event id="9746">
+  <event-date date="1868-8-3">Aug. 3, 1868<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Heywood Contest</name>
+  <contest id="1325">
+    <name>Heywood Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>heywood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="844">Heywood, Lancashire, England, UK</venue>
+  <notes>Seven bands entered only 4 competed</notes>
+
+  <created>Jan. 30, 2012, 4:11 p.m.</created>
+  <last-modified>Dec. 23, 2015, 2:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="83626">
+      <result code="1">1</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="305272">John Lord</conductor>
+    </result>
+    
+    <result id="83627">
+      <result code="2">2</result>
+      <band id="2792">Compstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83628">
+      <result code="3">3</result>
+      <band id="6528">Hollin Mill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="83629">
+      <result code="4">4</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

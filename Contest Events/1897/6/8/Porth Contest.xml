@@ -1,0 +1,73 @@
+<contest-event id="13231">
+  <event-date date="1897-6-8">June 8, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Porth Contest</name>
+  <contest id="2345">
+    <name>Porth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>porth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1916">St. Paul [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1898">Porth, Glamorgan</venue>
+  <notes>Prizes: £18, £10, £7
+March contest: 1. Ferndale</notes>
+
+  <created>May 5, 2012, 2:32 p.m.</created>
+  <last-modified>May 5, 2012, 2:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105149">
+      <result code="1">1</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="105150">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="105151">
+      <result code="3">3</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="312145">Thomas Young</conductor>
+    </result>
+    
+    <result id="105153">
+      <result code="">Unknown Result</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105154">
+      <result code="">Unknown Result</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105155">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105152">
+      <result code="">Unknown Result</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,100 @@
+<contest-event id="12905">
+  <event-date date="1912-5-11">May 11, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crofton Contest</name>
+  <contest id="2706">
+    <name>Crofton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crofton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="2061">Crofton, Wakefield, West Yorkshire</venue>
+  <notes>  March contest 1st Horbury, 2nd Rockingham Colliery.
+
+  11 bands competed.
+
+  2nd annual contest</notes>
+
+  <created>April 28, 2012, 11 a.m.</created>
+  <last-modified>July 8, 2013, 2:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102601">
+      <result code="1">1</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="102602">
+      <result code="2">2</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="309028">Isaac Shepherd</conductor>
+    </result>
+    
+    <result id="102603">
+      <result code="3">3</result>
+      <band id="133">Horbury Victoria Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="102604">
+      <result code="4">4</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="307097">William Park</conductor>
+    </result>
+    
+    <result id="102605">
+      <result code="">Unknown Result</result>
+      <band id="4452">Wakefield City</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="102606">
+      <result code="">Unknown Result</result>
+      <band id="3173">Ravensthorpe Subscription</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="102607">
+      <result code="">Unknown Result</result>
+      <band id="8155">Hodroyd Hall</band>
+      <conductor id="301829">N. Gill</conductor>
+    </result>
+    
+    <result id="102608">
+      <result code="">Unknown Result</result>
+      <band id="7480">Birdwell Brass</band>
+      <conductor id="305659">John Martin</conductor>
+    </result>
+    
+    <result id="102609">
+      <result code="">Unknown Result</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="105409">
+      <result code="">Unknown Result</result>
+      <band id="18364">Royston Subscription</band>
+      <conductor id="298690">George Buckle</conductor>
+    </result>
+    
+    <result id="102610">
+      <result code="">Unknown Result</result>
+      <band id="3325">Brotherton Old</band>
+      <conductor id="297665">Harry Beaumont</conductor>
+    </result>
+    
+  </results>
+</contest-event>

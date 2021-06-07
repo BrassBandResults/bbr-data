@@ -1,0 +1,74 @@
+<contest-event id="9230">
+  <event-date date="1885-9-28">Sept. 28, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1139">North Shore, Blackpool</venue>
+  <notes>Prizes: £40, £25, £15
+Quickstep: 1. Honley (£4)
+6 bands competed</notes>
+
+  <created>Dec. 29, 2011, 12:21 p.m.</created>
+  <last-modified>May 8, 2019, 8:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="79983">
+      <result code="1">1</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1005">L&#39;Etoile du Nord [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="79981">
+      <result code="2">2</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="79980">
+      <result code="3">3</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="79984">
+      <result code="">Unknown Result</result>
+      <band id="2518">Great Horton Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="79985">
+      <result code="">Unknown Result</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="79982">
+      <result code="">Unknown Result</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

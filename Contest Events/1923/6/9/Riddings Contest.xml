@@ -1,0 +1,73 @@
+<contest-event id="40789">
+  <event-date date="1923-6-9">June 9, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Riddings Contest</name>
+  <contest id="1827">
+    <name>Riddings Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>riddings-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1285">Riddings, Derbyshire</venue>
+  <notes>March contest - 1st Kirkby Old, 2nd Mansfield Colliery.
+7 bands competed</notes>
+
+  <created>Oct. 18, 2018, 12:08 p.m.</created>
+  <last-modified>Oct. 18, 2018, 12:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296541">
+      <result code="1">1</result>
+      <band id="2207">John Thompson Works Band</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="296542">
+      <result code="2">2</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="308659">J. Saint</conductor>
+    </result>
+    
+    <result id="296543">
+      <result code="3">3</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="309450">Samuel Smith</conductor>
+    </result>
+    
+    <result id="296544">
+      <result code="4">4</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="300940">T. Entwistle</conductor>
+    </result>
+    
+    <result id="296547">
+      <result code="">Unknown Result</result>
+      <band id="4141">Chesterfield Town &amp; Old Comrades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296545">
+      <result code="">Unknown Result</result>
+      <band id="3605">Hasland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296546">
+      <result code="">Unknown Result</result>
+      <band id="5208">Heanor Church Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

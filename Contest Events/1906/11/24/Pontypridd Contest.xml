@@ -1,0 +1,73 @@
+<contest-event id="11164">
+  <event-date date="1906-11-24">Nov. 24, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest</name>
+  <contest id="1211">
+    <name>Pontypridd Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1274">Daughter of the Regiment [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="1278">Pontypridd, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>1st prize £12 and shield, 2nd prize £7, 3rd prize £4, 4th prize £1.
+ 7 bands competed.</notes>
+
+  <created>March 14, 2012, 11:01 p.m.</created>
+  <last-modified>Sept. 16, 2018, 10:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="92420">
+      <result code="1">1</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="92421">
+      <result code="2">2</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="309727">David Stephens</conductor>
+    </result>
+    
+    <result id="92422">
+      <result code="3">3</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="310670">William Turner</conductor>
+    </result>
+    
+    <result id="92423">
+      <result code="4">4</result>
+      <band id="6984">Dinas</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="92424">
+      <result code="">Unknown Result</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="298749">D. G. Burdett</conductor>
+    </result>
+    
+    <result id="92426">
+      <result code="">Unknown Result</result>
+      <band id="7250">Bedlinog</band>
+      <conductor id="318316">J. Bradbury</conductor>
+    </result>
+    
+    <result id="92425">
+      <result code="">Unknown Result</result>
+      <band id="6623">Penrhiw</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

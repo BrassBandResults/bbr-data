@@ -1,0 +1,70 @@
+<contest-event id="37974">
+  <event-date date="1904-5-23">May 23, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dunstable Contest (2nd Section)</name>
+  <contest id="6161">
+    <name>Dunstable Contest (2nd Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dunstable-contest-2nd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1398">Dunstable, Bedfordshire, England, UK</venue>
+  <notes>Prizes: £5, £3, £2, £1
+
+Choice of test piece: &quot;HMS PInafore&quot; or &quot;Gems of Tschaikovsky&quot;
+
+6 bands competed</notes>
+
+  <created>May 18, 2017, 9:02 a.m.</created>
+  <last-modified>May 18, 2017, 9:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274367">
+      <result code="1">1</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="307686">Thomas Preston</conductor>
+    </result>
+    
+    <result id="274368">
+      <result code="2">2</result>
+      <band id="7928">Higham Ferrers Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="274369">
+      <result code="3">3</result>
+      <band id="6331">Chesham Town</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+    <result id="274370">
+      <result code="4">4</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="298876">George Byford</conductor>
+    </result>
+    
+    <result id="274371">
+      <result code="">Unknown Result</result>
+      <band id="4908">Bromley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274372">
+      <result code="">Unknown Result</result>
+      <band id="6773">Sunbury</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

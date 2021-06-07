@@ -1,0 +1,57 @@
+<contest-event id="13826">
+  <event-date date="1898-8-20">Aug. 20, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kettering Contest</name>
+  <contest id="2367">
+    <name>Kettering Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kettering-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2263">Town Football Ground, Kettering</venue>
+  <notes>Third Contest of the Northamptonshire Brass Band League, Division 1
+Each band played Tannhauser then Gems of Victorian Melody.
+Reported in Northampton Herald, 27th August 1898
+4 bands competed</notes>
+
+  <created>June 19, 2012, 6:30 p.m.</created>
+  <last-modified>Jan. 28, 2020, 11:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="110403">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="110404">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="110405">
+      <result code="3">3</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="110406">
+      <result code="4">4</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

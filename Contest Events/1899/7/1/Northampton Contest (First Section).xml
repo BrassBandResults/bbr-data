@@ -1,0 +1,85 @@
+<contest-event id="12424">
+  <event-date date="1899-7-1">July 1, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northampton Contest (First Section)</name>
+  <contest id="2562">
+    <name>Northampton Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northampton-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3343">Franklin&#39;s Gardens, Northampton</venue>
+  <notes>  1st prize £20.
+  2nd prize £10.
+  3rd prize £5.
+
+  8 bands competed.
+
+Northampton Town did not play Halevey, they played &quot;Harold&quot; instead
+</notes>
+
+  <created>April 14, 2012, 11:52 a.m.</created>
+  <last-modified>Dec. 18, 2020, 4:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99348">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="99349">
+      <result code="2">2</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="99350">
+      <result code="3">3</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="99351">
+      <result code="">Unknown Result</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="99352">
+      <result code="">Unknown Result</result>
+      <band id="4314">Northampton Town</band>
+      <conductor id="302365">James Hager</conductor>
+    </result>
+    
+    <result id="99353">
+      <result code="">Unknown Result</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="99354">
+      <result code="">Unknown Result</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="99355">
+      <result code="">Unknown Result</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

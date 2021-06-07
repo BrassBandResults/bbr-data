@@ -1,0 +1,48 @@
+<contest-event id="15935">
+  <event-date date="1909-9-4">Sept. 4, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Auchinleck Contest (First Section)</name>
+  <contest id="3455">
+    <name>Auchinleck Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>auchinleck-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1985">Don Giovanni [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2648">Auchinleck, East Ayrshire, Scotland, UK</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Nov. 8, 2012, 8:45 a.m.</created>
+  <last-modified>Oct. 20, 2020, 6:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122723">
+      <result code="1">1</result>
+      <band id="4803">Darvel Burgh</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="122724">
+      <result code="2">2</result>
+      <band id="6554">Auchinleck</band>
+      <conductor id="310365">Robert Thomson</conductor>
+    </result>
+    
+    <result id="122725">
+      <result code="3">3</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="302329">George Guy</conductor>
+    </result>
+    
+  </results>
+</contest-event>

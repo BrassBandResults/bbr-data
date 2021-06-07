@@ -1,0 +1,86 @@
+<contest-event id="11407">
+  <event-date date="1907-6-29">June 29, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Forfar Contest</name>
+  <contest id="2119">
+    <name>Forfar Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>forfar-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1543">Station Park, Forfar, Angus, Scotland, UK</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>March 24, 2012, 10:13 a.m.</created>
+  <last-modified>Sept. 19, 2018, 9:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93838">
+      <result code="1">1</result>
+      <band id="1050">Forfar Instrumental</band>
+      <conductor id="304750">John Lamb</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="93839">
+      <result code="2">2</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="308992">William Shaw</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="93840">
+      <result code="3">3</result>
+      <band id="1057">Brechin City</band>
+      <conductor id="304746">David Lamb</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="93841">
+      <result code="4">4</result>
+      <band id="5517">Blairgowrie and Rattray</band>
+      <conductor id="301140">John Faulds</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="93848">
+      <result code="5">5</result>
+      <band id="1056">Perth Silver Band</band>
+      <conductor id="301256">John Finney</conductor>
+      <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+    </result>
+    
+    <result id="93843">
+      <result code="6">6</result>
+      <band id="8084">Carnoustie</band>
+      <conductor id="300950">Joseph Esplin</conductor>
+      <test-piece id="1768">Crown of Scottish Song</test-piece>
+    </result>
+    
+    <result id="93844">
+      <result code="7">7</result>
+      <band id="1054">Montrose Town</band>
+      <conductor id="301246">F. Findlay</conductor>
+      <test-piece id="1768">Crown of Scottish Song</test-piece>
+    </result>
+    
+    <result id="93845">
+      <result code="8">8</result>
+      <band id="7101">Kirriemuir Town Band</band>
+      <conductor id="318322">James Lamb</conductor>
+      <test-piece id="1768">Crown of Scottish Song</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

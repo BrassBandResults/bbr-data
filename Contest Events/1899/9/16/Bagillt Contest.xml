@@ -1,0 +1,49 @@
+<contest-event id="12675">
+  <event-date date="1899-9-16">Sept. 16, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bagillt Contest</name>
+  <contest id="1016">
+    <name>Bagillt Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bagillt-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="3762">Old Works, Bagillt</venue>
+  <notes>March contest - 1st Wrexham, 2nd Penmaenmawr.
+3 bands competed</notes>
+
+  <created>April 19, 2012, 4:35 p.m.</created>
+  <last-modified>July 28, 2019, 4:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100974">
+      <result code="1">1</result>
+      <band id="7613">Wrexham Borough</band>
+      <conductor id="310643">George Turner</conductor>
+    </result>
+    
+    <result id="100975">
+      <result code="2">2</result>
+      <band id="2740">Penmaenmawr Silver</band>
+      <conductor id="299804">J. S. Coverley</conductor>
+    </result>
+    
+    <result id="100976">
+      <result code="3">3</result>
+      <band id="4508">Bagillt</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+  </results>
+</contest-event>

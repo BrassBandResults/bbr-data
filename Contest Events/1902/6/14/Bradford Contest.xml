@@ -1,0 +1,69 @@
+<contest-event id="37545">
+  <event-date date="1902-6-14">June 14, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bradford Contest</name>
+  <contest id="1236">
+    <name>Bradford Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bradford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6459">Bradford Moor Park, Bradford, Yorkshire</venue>
+  <notes></notes>
+
+  <created>March 15, 2017, 7:22 p.m.</created>
+  <last-modified>March 15, 2017, 7:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="271435">
+      <result code="1">1</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="301261">Squire Firth</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="271431">
+      <result code="2">2</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="307057">John Paley</conductor>
+      <test-piece id="1554">Rienzi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="271434">
+      <result code="3">3</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="305523">H. Mallinson</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="271432">
+      <result code="D">Disqualified</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="271436">
+      <result code="W">Withdrawn</result>
+      <band id="6624">Bradford Postmen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="271433">
+      <result code="W">Withdrawn</result>
+      <band id="2466">Clayton West</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

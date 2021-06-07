@@ -1,0 +1,80 @@
+<contest-event id="11258">
+  <event-date date="1907-5-4">May 4, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birtley Contest</name>
+  <contest id="1902">
+    <name>Birtley Selection Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="304">Birtley Contest</group>
+    <slug>birtley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1783">Saffo</test-piece>
+  </test-piece>
+
+  <venue id="1345">Birtley, County Durham</venue>
+  <notes>Promoted by Birtley League of the Cross band.  1st prize £15,2nd prize £7, 3rd prize £3,4th prize £1.10s.
+March contest 1st (£1) Hetton,  2nd (10s.) Spencer&#39;s
+8 bands competed.</notes>
+
+  <created>March 18, 2012, 8:29 p.m.</created>
+  <last-modified>Sept. 17, 2018, 9:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93086">
+      <result code="1">1</result>
+      <band id="2138">Palmer&#39;s Works</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="93087">
+      <result code="2">2</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="93088">
+      <result code="3">3</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="93089">
+      <result code="4">4</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="93091">
+      <result code="">Unknown Result</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93090">
+      <result code="">Unknown Result</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93093">
+      <result code="">Unknown Result</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93092">
+      <result code="">Unknown Result</result>
+      <band id="6650">South Pelaw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

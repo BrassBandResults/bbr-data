@@ -1,0 +1,56 @@
+<contest-event id="12569">
+  <event-date date="1895-8-3">Aug. 3, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chirk Contest</name>
+  <contest id="2080">
+    <name>Chirk Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chirk-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1670">Gems of Cambria</test-piece>
+  </test-piece>
+
+  <venue id="1519">Chirk, Wrexham, Wales, UK</venue>
+  <notes>4 bands competed
+Prizes: £10, £6
+March contest: 1. Gossage&#39;s</notes>
+
+  <created>April 16, 2012, 5:59 p.m.</created>
+  <last-modified>June 21, 2019, 9:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100344">
+      <result code="1">1</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="100345">
+      <result code="2">2</result>
+      <band id="3666">Birch Mills</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="100346">
+      <result code="">Unknown Result</result>
+      <band id="7806">Rhosrobin</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="100347">
+      <result code="">Unknown Result</result>
+      <band id="6893">Glyn Ceiriog</band>
+      <conductor id="319356">Lloyd Morris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="40594">
+  <event-date date="1917-8-1">Aug. 1, 1917<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Mountain Ash Contest</name>
+  <contest id="2549">
+    <name>Mountain Ash Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mountain-ash-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1646">Recollections of Flotow</test-piece>
+  </test-piece>
+
+  <venue id="1271">Mountain Ash, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Oct. 8, 2018, 11:48 a.m.</created>
+  <last-modified>Oct. 8, 2018, 11:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295374">
+      <result code="1">1</result>
+      <band id="7076">Mountain Ash Hibernian</band>
+      <conductor id="318477">J. Cotter</conductor>
+    </result>
+    
+    <result id="295376">
+      <result code="2">2</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="317968">W. Greenwood</conductor>
+    </result>
+    
+    <result id="295377">
+      <result code="2">2</result>
+      <band id="8031">Treharris</band>
+      <conductor id="318463">Harold Hirst</conductor>
+    </result>
+    
+    <result id="295375">
+      <result code="4">4</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="306920">J. R. Oliver</conductor>
+    </result>
+    
+  </results>
+</contest-event>

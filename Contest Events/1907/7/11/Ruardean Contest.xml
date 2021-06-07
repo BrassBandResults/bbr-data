@@ -1,0 +1,45 @@
+<contest-event id="11436">
+  <event-date date="1907-7-11">July 11, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest</name>
+  <contest id="1022">
+    <name>Ruardean Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="356">Ruardean Contest</group>
+    <slug>ruardean-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>1st prize £10.
+March contest  1st Yorkley Onward.
+Prize: £10
+2 bands competed</notes>
+
+  <created>March 26, 2012, 1:59 p.m.</created>
+  <last-modified>July 2, 2015, 10:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94057">
+      <result code="1">1</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="304226">J. L. Jones</conductor>
+    </result>
+    
+    <result id="173243">
+      <result code="2">2</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

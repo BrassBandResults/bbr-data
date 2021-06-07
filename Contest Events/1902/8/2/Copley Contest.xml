@@ -1,0 +1,68 @@
+<contest-event id="26726">
+  <event-date date="1902-8-2">Aug. 2, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Copley Contest</name>
+  <contest id="1657">
+    <name>Copley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>copley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1152">Copley, near Halifax</venue>
+  <notes>Prizes: £10, £7, £5
+March contest: 1. Linthwaite, 2. Sowerby.
+5 bands competed
+</notes>
+
+  <created>March 25, 2014, 10:16 p.m.</created>
+  <last-modified>Dec. 18, 2020, 2:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193622">
+      <result code="1">1</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="193623">
+      <result code="2">2</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="193624">
+      <result code="3">3</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="960">Maria di Rohan</test-piece>
+    </result>
+    
+    <result id="272317">
+      <result code="4">4</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1010">Euryanthe [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="272318">
+      <result code="5">5</result>
+      <band id="145">Elland Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="960">Maria di Rohan</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

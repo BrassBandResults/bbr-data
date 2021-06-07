@@ -1,0 +1,61 @@
+<contest-event id="40484">
+  <event-date date="1913-8-23">Aug. 23, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swadlincote Contest</name>
+  <contest id="3131">
+    <name>Swadlincote Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swadlingcote-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2802">Songs of Sentiment</test-piece>
+  </test-piece>
+
+  <venue id="1991">Swadlincote, Derbyshire</venue>
+  <notes>Prizes - 1st £6 and cup, 2nd £4 and cup, 3rd £3, 4th £1.
+5 bands competed</notes>
+
+  <created>Oct. 1, 2018, 3:54 p.m.</created>
+  <last-modified>Oct. 1, 2018, 4:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294536">
+      <result code="1">1</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294534">
+      <result code="2">2</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294533">
+      <result code="3">3</result>
+      <band id="5909">Burton Silver [Leics.]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294532">
+      <result code="4">4</result>
+      <band id="6656">Moira Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294535">
+      <result code="5">5</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

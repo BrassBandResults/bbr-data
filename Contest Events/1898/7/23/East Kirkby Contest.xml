@@ -1,0 +1,75 @@
+<contest-event id="13560">
+  <event-date date="1898-7-23">July 23, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Kirkby Contest</name>
+  <contest id="1794">
+    <name>East Kirkby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="237">East Kirkby Contest</group>
+    <slug>east-kirkby-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3714">Kirkby Town Football Ground, Kirkby-in-Ashfield</venue>
+  <notes>Promoted by East Kirkby United Temperance Prize Band
+Prizes: £5, £3 10s, £2, £1
+March contest: 1. Derby, 2. Chesterfield
+6 bands competed</notes>
+
+  <created>May 22, 2012, 10:20 p.m.</created>
+  <last-modified>July 18, 2019, 11:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107502">
+      <result code="1">1</result>
+      <band id="5186">Alfreton Church</band>
+      <conductor id="311690">William Williams</conductor>
+      <test-piece id="2248">Stiffelio [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="107503">
+      <result code="2">2</result>
+      <band id="2509">Chesterfield Rifle Corps Band</band>
+      <conductor id="311888">J. G. Wood</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="107504">
+      <result code="3">3</result>
+      <band id="5187">Codnor Primitives</band>
+      <conductor id="308952">J. Sharpe</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="107505">
+      <result code="4">4</result>
+      <band id="8212">Annesley United</band>
+      <conductor id="299993">John Cupit</conductor>
+      <test-piece id="2248">Stiffelio [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="107507">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="298541">Joseph Brookes</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="107506">
+      <result code="">Unknown Result</result>
+      <band id="4776">Derby Sax and Tuba</band>
+      <conductor id="302395">W. G. Hales</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

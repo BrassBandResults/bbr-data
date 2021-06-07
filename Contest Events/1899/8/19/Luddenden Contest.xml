@@ -1,0 +1,64 @@
+<contest-event id="12631">
+  <event-date date="1899-8-19">Aug. 19, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>1st prize £10.
+  2nd prize £6.
+  3rd prize £3.
+  4th prize £1.
+5 bands competed</notes>
+
+  <created>April 18, 2012, 3:48 p.m.</created>
+  <last-modified>July 28, 2019, 2:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100682">
+      <result code="1">1</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="100683">
+      <result code="2">2</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="100684">
+      <result code="3">3</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="100685">
+      <result code="4">4</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="100686">
+      <result code="5">5</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="313855">Handel Parker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

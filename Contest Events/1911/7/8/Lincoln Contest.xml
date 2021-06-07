@@ -1,0 +1,58 @@
+<contest-event id="39647">
+  <event-date date="1911-7-8">July 8, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lincoln Contest</name>
+  <contest id="1644">
+    <name>Lincoln Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lincoln-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3458">Land of the Shamrock</test-piece>
+  </test-piece>
+
+  <venue id="2047">Lincoln Arboretum, Lincoln, Lincolnshire, England, UK</venue>
+  <notes>Prizes - 1st £20, 2nd £10, 3rd £5.
+March contest - 1st Hebden Bridge, 2nd Perfection Soap works, 
+3 bands competed.
+Organised by Lincoln Temperance fete.
+22nd annual contest.</notes>
+
+  <created>May 21, 2018, 11:54 a.m.</created>
+  <last-modified>May 22, 2018, 9:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="287426">
+      <result code="1">1</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="287427">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="287428">
+      <result code="3">3</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="318919">Ellerby Cox Snr</conductor>
+    </result>
+    
+    <result id="287429">
+      <result code="W">Withdrawn</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

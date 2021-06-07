@@ -1,0 +1,60 @@
+<contest-event id="35976">
+  <event-date date="1891-9-7">Sept. 7, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ferndale Contest</name>
+  <contest id="1968">
+    <name>Ferndale Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="312">Ferndale Contest</group>
+    <slug>ferndale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2806">Linda di Chamounix [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1400">Ferndale, Glamorgan</venue>
+  <notes>Ferndale Eisteddfod</notes>
+
+  <created>Aug. 22, 2016, 8:54 p.m.</created>
+  <last-modified>Aug. 22, 2016, 9:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="260965">
+      <result code="1">1</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+    <result id="260967">
+      <result code="2">2</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="298048">John Blamey</conductor>
+    </result>
+    
+    <result id="260966">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305677">Richard Martyn</conductor>
+    </result>
+    
+    <result id="278072">
+      <result code="W">Withdrawn</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="260964">
+      <result code="W">Withdrawn</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

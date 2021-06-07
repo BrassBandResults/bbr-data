@@ -1,0 +1,75 @@
+<contest-event id="13543">
+  <event-date date="1898-6-30">June 30, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stroud Contest</name>
+  <contest id="2854">
+    <name>Stroud Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stroud-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4618">Cainscross House, Stroud, Gloucestershire, England, UK</venue>
+  <notes>Stroud Horse Show
+Prizes: £10 and cornet, £7 and cornet, £6
+The day concluded with an illumination by acetelyne gas of Mr Godsell&#39;s garden.
+6 bands competed</notes>
+
+  <created>May 22, 2012, 9:30 p.m.</created>
+  <last-modified>Jan. 27, 2020, 10:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107378">
+      <result code="1">1</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="310289">J. W. Thomas</conductor>
+    </result>
+    
+    <result id="107379">
+      <result code="2">2</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="107380">
+      <result code="3">3</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="107381">
+      <result code="4">4</result>
+      <band id="4882">Bristol Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107382">
+      <result code="5">5</result>
+      <band id="5143">2nd Gloucestershire Volunteer Engineers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107383">
+      <result code="6">6</result>
+      <band id="8329">Amberley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="166959">
+      <result code="W">Withdrawn</result>
+      <band id="7462">Bristol Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

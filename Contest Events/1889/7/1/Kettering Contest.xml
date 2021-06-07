@@ -1,0 +1,68 @@
+<contest-event id="12849">
+  <event-date date="1889-7-1">July 1, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kettering Contest</name>
+  <contest id="2367">
+    <name>Kettering Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kettering-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1573">Excelsior [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2044">Kettering, Northamptonshire, England, UK</venue>
+  <notes>Prizes - 1st £15.11s. and cornet valued £9.9s., 2nd £12, 3rd £7, 4th £5, 5th £3.
+March contest 1st (Trombone valued £6.6s.) Northampton Temperance, 2nd (baton) Rushden National.
+Northampton Herald 6th July, 1889</notes>
+
+  <created>April 27, 2012, 4:45 p.m.</created>
+  <last-modified>May 22, 2019, 9:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="102096">
+      <result code="1">1</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="102097">
+      <result code="2">2</result>
+      <band id="3524">Derby United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102098">
+      <result code="3">3</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297966">F. Birkenshaw</conductor>
+    </result>
+    
+    <result id="102099">
+      <result code="4">4</result>
+      <band id="6327">Northampton Temperance</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="102100">
+      <result code="5">5</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="109891">
+      <result code="W">Withdrawn</result>
+      <band id="8629">Walgrave Amateur</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

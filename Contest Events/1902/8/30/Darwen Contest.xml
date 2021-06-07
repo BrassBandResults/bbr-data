@@ -1,0 +1,97 @@
+<contest-event id="27429">
+  <event-date date="1902-8-30">Aug. 30, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darwen Contest</name>
+  <contest id="1766">
+    <name>Darwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2408">Bold Venture Park, Darwen</venue>
+  <notes>March: 1. Blackburn, 2. Goodshaw.
+Best euphonium - Goodshaw.
+Best cornet - Darwen Temperance.
+Best trombone and horn - Blackburn Ragged School.
+Best soprano - Darwen Borough.
+9 bands competed.
+
+</notes>
+
+  <created>May 12, 2014, 7:34 p.m.</created>
+  <last-modified>May 11, 2020, 3:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="197582">
+      <result code="1">1</result>
+      <band id="6638">Darwen Borough Prize Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="197583">
+      <result code="2">2</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="197584">
+      <result code="3">3</result>
+      <band id="12449">Blackburn Town</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="197585">
+      <result code="4">4</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="291551">
+      <result code="">Unknown Result</result>
+      <band id="6645">Guide Temperance</band>
+      <conductor id="297978">J. E. Birtwell</conductor>
+    </result>
+    
+    <result id="291554">
+      <result code="">Unknown Result</result>
+      <band id="18240">Darwen Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="291553">
+      <result code="">Unknown Result</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="239378">
+      <result code="">Unknown Result</result>
+      <band id="3828">Rishton Public</band>
+      <conductor id="309535">Joseph Sourbutts</conductor>
+    </result>
+    
+    <result id="291552">
+      <result code="">Unknown Result</result>
+      <band id="6648">Wilpshire</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="239377">
+      <result code="W">Withdrawn</result>
+      <band id="5271">Helmshore Prize Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+  </results>
+</contest-event>

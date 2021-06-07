@@ -1,0 +1,55 @@
+<contest-event id="11162">
+  <event-date date="1906-11-16">Nov. 16, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belfast Contest</name>
+  <contest id="2186">
+    <name>Belfast Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>belfast-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1774">Gems of Song [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="654">Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes>1st prize £3 and cup, 2nd £2, 3rd £1.
+4 bands competed.</notes>
+
+  <created>March 14, 2012, 10:52 p.m.</created>
+  <last-modified>Sept. 16, 2018, 10:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="92410">
+      <result code="1">1</result>
+      <band id="5832">Sirocco</band>
+      <conductor id="297323">F. Bailey</conductor>
+    </result>
+    
+    <result id="92411">
+      <result code="2">2</result>
+      <band id="1378">Ligoniel Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="92412">
+      <result code="3">3</result>
+      <band id="1397">1st Portadown Old Boys Silver Band</band>
+      <conductor id="305766">F. May</conductor>
+    </result>
+    
+    <result id="92413">
+      <result code="4">4</result>
+      <band id="7249">Crescent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

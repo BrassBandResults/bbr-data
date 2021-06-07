@@ -1,0 +1,81 @@
+<contest-event id="12811">
+  <event-date date="1888-8-25">Aug. 25, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eagley Contest</name>
+  <contest id="2690">
+    <name>Eagley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eagley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1905">Fair and Faithful</test-piece>
+  </test-piece>
+
+  <venue id="2029">Volunteer Inn, Bromley Cross, Bolton, Lancashire</venue>
+  <notes> Prizes - 1st £12, 2nd £7.10s., 3r £5., 4th £2., 5th prize £1.
+March contest  1st (£1) Dunscar, 2nd (10s.) Radcliffe Public.
+15 bands entered, 8 bands competed.
+1st contest organised by Eagley Band.</notes>
+
+  <created>April 24, 2012, 4:27 p.m.</created>
+  <last-modified>Nov. 29, 2017, 11:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101784">
+      <result code="1">1</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101785">
+      <result code="2">2</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101786">
+      <result code="3">3</result>
+      <band id="8085">Bridge Croft</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101787">
+      <result code="4">4</result>
+      <band id="2519">Heywood Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101788">
+      <result code="5">5</result>
+      <band id="2528">Southport Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238634">
+      <result code="">Unknown Result</result>
+      <band id="6183">Audenshaw and Droylsden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238632">
+      <result code="">Unknown Result</result>
+      <band id="10359">Dunscar Works Bolton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="238633">
+      <result code="">Unknown Result</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

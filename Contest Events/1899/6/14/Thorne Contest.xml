@@ -1,0 +1,86 @@
+<contest-event id="12404">
+  <event-date date="1899-6-14">June 14, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Thorne Contest</name>
+  <contest id="2556">
+    <name>Thorne Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>thorne-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4881">Thorne Hall, Thorne, South Yorkshire</venue>
+  <notes>  1st prize £15.
+  2nd prize £10.
+  3rd prize £5 and 4th prize £3 divided between Rotherham Borough and Wharncliffe Silkstone.
+
+  March contest 1st (£2) Wyke Temperance, 2nd (£1) Gainsborough Britannia.
+
+Deportment: Doncaster
+8 bands competed</notes>
+
+  <created>April 13, 2012, 10:05 p.m.</created>
+  <last-modified>June 23, 2014, 9:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99195">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="99196">
+      <result code="2">2</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2801">Die Walküre</test-piece>
+    </result>
+    
+    <result id="99197">
+      <result code="3">3</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="99198">
+      <result code="3">3</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="99199">
+      <result code="5">5</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="205381">
+      <result code="">Unknown Result</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205382">
+      <result code="">Unknown Result</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="205383">
+      <result code="">Unknown Result</result>
+      <band id="131">Kippax Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

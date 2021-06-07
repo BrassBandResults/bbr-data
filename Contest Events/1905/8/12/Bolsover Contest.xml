@@ -1,0 +1,68 @@
+<contest-event id="10409">
+  <event-date date="1905-8-12">Aug. 12, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bolsover Contest</name>
+  <contest id="1985">
+    <name>Bolsover Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bolsover-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="940">Le Pre-aux-Clercs [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1416">Bolsover, Derbyshire</venue>
+  <notes>Prizes - 1st £8 and cup, 2nd £5, 3rd £3.10s., 4th £2. 
+March contest 1st(£1) Newstead,  2nd (10s.) Lea Mills.
+6 bands competed.</notes>
+
+  <created>Feb. 18, 2012, 9:56 a.m.</created>
+  <last-modified>Sept. 11, 2018, 8:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87550">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87551">
+      <result code="2">2</result>
+      <band id="6579">Newstead Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87552">
+      <result code="3">3</result>
+      <band id="6581">Canklow</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87553">
+      <result code="4">4</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87554">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87555">
+      <result code="">Unknown Result</result>
+      <band id="1906">Killamarsh Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

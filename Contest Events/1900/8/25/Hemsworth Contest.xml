@@ -1,0 +1,56 @@
+<contest-event id="37387">
+  <event-date date="1900-8-25">Aug. 25, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hemsworth Contest</name>
+  <contest id="2074">
+    <name>Hemsworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hemsworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1511">Hemsworth, West Yorkshire</venue>
+  <notes>March: 1. Cleckheaton, 2. Hepworth
+
+7 bands competed</notes>
+
+  <created>Feb. 26, 2017, 4:42 p.m.</created>
+  <last-modified>Feb. 26, 2017, 4:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270609">
+      <result code="1">1</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="270610">
+      <result code="2">2</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="270611">
+      <result code="3">3</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="270612">
+      <result code="4">4</result>
+      <band id="2511">Dewsbury Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

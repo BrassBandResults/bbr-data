@@ -1,0 +1,49 @@
+<contest-event id="40249">
+  <event-date date="1904-11-5">Nov. 5, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotton Contest</name>
+  <contest id="1549">
+    <name>Brotton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1015">Brotton, Cleveland</venue>
+  <notes>March contest - 1st Brotton Temperance.
+4 bands competed.</notes>
+
+  <created>Sept. 3, 2018, 9:44 p.m.</created>
+  <last-modified>Sept. 3, 2018, 9:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="292678">
+      <result code="1">1</result>
+      <band id="6629">Brotton Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="292679">
+      <result code="2">2</result>
+      <band id="6008">Brotton Old</band>
+      <conductor id="297353">A. Baker</conductor>
+    </result>
+    
+    <result id="292680">
+      <result code="3">3</result>
+      <band id="6628">Charltons Star of Hope</band>
+      <conductor id="303486">A. Howarth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

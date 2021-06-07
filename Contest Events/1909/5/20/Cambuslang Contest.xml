@@ -1,0 +1,86 @@
+<contest-event id="15759">
+  <event-date date="1909-5-20">May 20, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cambuslang Contest</name>
+  <contest id="2360">
+    <name>Cambuslang Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cambuslang-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1961">Whitefield Park, Cambuslang</venue>
+  <notes>Best 3rd Section band - Bannockburn.
+9 bands competed</notes>
+
+  <created>Nov. 2, 2012, 9:08 a.m.</created>
+  <last-modified>Oct. 12, 2020, 11:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="121595">
+      <result code="1">1</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+      <test-piece id="1741">Great Britain</test-piece>
+    </result>
+    
+    <result id="121596">
+      <result code="2">2</result>
+      <band id="5221">Kilsyth Town</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="121597">
+      <result code="3">3</result>
+      <band id="5504">Hamilton Palace Colliery</band>
+      <conductor id="309477">William Smith</conductor>
+    </result>
+    
+    <result id="121598">
+      <result code="4">4</result>
+      <band id="5511">Glasgow Iron and Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121599">
+      <result code="">Unknown Result</result>
+      <band id="5499">Bannockburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121600">
+      <result code="">Unknown Result</result>
+      <band id="6842">Blantyre Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121602">
+      <result code="">Unknown Result</result>
+      <band id="6889">Renton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121601">
+      <result code="">Unknown Result</result>
+      <band id="5583">Rutherglen Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="121603">
+      <result code="">Unknown Result</result>
+      <band id="6798">Wishaw Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

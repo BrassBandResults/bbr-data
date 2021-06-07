@@ -1,0 +1,86 @@
+<contest-event id="13139">
+  <event-date date="1914-5-30">May 30, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coalville Contest</name>
+  <contest id="2398">
+    <name>Coalville Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coalville-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="1751">Coalville, Leicestershire, England, UK</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £5, 3rd £2.10s.
+Winner took the Coalville Urban District Charity Parade and Gala Brass Band Contest Cup.
+9 bands competed.</notes>
+
+  <created>May 2, 2012, 1:42 p.m.</created>
+  <last-modified>Oct. 3, 2018, 9:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104377">
+      <result code="1">1</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="200708">
+      <result code="2">2</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+    </result>
+    
+    <result id="200709">
+      <result code="3">3</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="303772">Simeon Iliffe</conductor>
+    </result>
+    
+    <result id="200711">
+      <result code="4">4</result>
+      <band id="3302">Hugglescote &amp; Ellistown</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="200710">
+      <result code="4">4</result>
+      <band id="5909">Burton Silver [Leics.]</band>
+      <conductor id="304886">Albert Lawton</conductor>
+    </result>
+    
+    <result id="294782">
+      <result code="">Unknown Result</result>
+      <band id="8310">Ashby and District</band>
+      <conductor id="299817">W. Cowley</conductor>
+    </result>
+    
+    <result id="294784">
+      <result code="">Unknown Result</result>
+      <band id="7507">Hugglescote Town</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="294785">
+      <result code="">Unknown Result</result>
+      <band id="7597">Ibstock Excelsior</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="294783">
+      <result code="">Unknown Result</result>
+      <band id="4090">Ibstock Welfare</band>
+      <conductor id="304886">Albert Lawton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

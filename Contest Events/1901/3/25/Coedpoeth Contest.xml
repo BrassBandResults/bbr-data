@@ -1,0 +1,49 @@
+<contest-event id="39971">
+  <event-date date="1901-3-25">March 25, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coedpoeth Contest</name>
+  <contest id="2509">
+    <name>Coedpoeth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coedpoeth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1863">Coedpoeth, Wrexham, Wales, UK</venue>
+  <notes>March contest - 1st Coedpoeth.
+3 bands competed.</notes>
+
+  <created>June 20, 2018, 9:11 a.m.</created>
+  <last-modified>June 20, 2018, 9:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="290434">
+      <result code="1">1</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="308277">Edward Roberts</conductor>
+    </result>
+    
+    <result id="290432">
+      <result code="2">2</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290433">
+      <result code="3">3</result>
+      <band id="4778">Brymbo Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

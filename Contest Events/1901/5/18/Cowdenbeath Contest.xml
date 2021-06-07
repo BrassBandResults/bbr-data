@@ -1,0 +1,73 @@
+<contest-event id="37425">
+  <event-date date="1901-5-18">May 18, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cowdenbeath Contest</name>
+  <contest id="1873">
+    <name>Cowdenbeath Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="215">Cowdenbeath Contest</group>
+    <slug>cowdenbeath-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="3907">North End Park, Cowdenbeath, Fife, Scotland, UK</venue>
+  <notes>1st contest promoted by the County of |Fife band league.
+6 bands competed,</notes>
+
+  <created>March 3, 2017, 10:54 a.m.</created>
+  <last-modified>April 26, 2020, 3:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270772">
+      <result code="1">1</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="270770">
+      <result code="2">2</result>
+      <band id="1728">Barry, Ostlere &amp; Shepherd</band>
+      <conductor id="301401">Gavin Forrester</conductor>
+    </result>
+    
+    <result id="270771">
+      <result code="3">3</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="270768">
+      <result code="4">4</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="270773">
+      <result code="5">5</result>
+      <band id="4973">Auchtermuchty Brass Band</band>
+      <conductor id="313241">Mr Hogg</conductor>
+    </result>
+    
+    <result id="270767">
+      <result code="6">6</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="270769">
+      <result code="W">Withdrawn</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,71 @@
+<contest-event id="23208">
+  <event-date date="1902-8-23">Aug. 23, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cleethorpes Contest</name>
+  <contest id="2001">
+    <name>Cleethorpes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cleethorpes-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2588">Sons of Britannia</test-piece>
+  </test-piece>
+
+  <venue id="1433">Cleethorpes, Lincolnshire, England, UK</venue>
+  <notes>Promoted by Grimsby Borough Prize Silver Band
+Prizes: £10, £7, £3, £2
+March contest: 1. Dannemora, 2. Stocksbridge.
+Best cornet, euphonium, trombone and bass - Dannemora.
+Best soprano, horn and baritone - Stocksbridge.
+</notes>
+
+  <created>Aug. 20, 2013, 6:55 p.m.</created>
+  <last-modified>July 11, 2018, 7:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170667">
+      <result code="1">1</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="170664">
+      <result code="2">2</result>
+      <band id="3267">Stocksbridge Old Prize</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="170665">
+      <result code="3">3</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="303176">G. M. Hitchen</conductor>
+    </result>
+    
+    <result id="170666">
+      <result code="4">4</result>
+      <band id="9885">Kilnhurst Alliance</band>
+      <conductor id="310695">J. Tyas</conductor>
+    </result>
+    
+    <result id="170668">
+      <result code="W">Withdrawn</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170669">
+      <result code="W">Withdrawn</result>
+      <band id="6584">Kinsley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

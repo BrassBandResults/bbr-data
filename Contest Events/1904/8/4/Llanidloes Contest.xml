@@ -1,0 +1,44 @@
+<contest-event id="38068">
+  <event-date date="1904-8-4">Aug. 4, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanidloes Contest</name>
+  <contest id="1956">
+    <name>Llanidloes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llanidloes-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="4868">Poliuto (arr. Edwin Swift)</test-piece>
+  </test-piece>
+
+  <venue id="1388">Llanidloes, Powys, Wales, UK</venue>
+  <notes>Prizes: £25, £12, £8, £4
+
+March contest - 1st Ferndale, 2nd Cory.</notes>
+
+  <created>May 24, 2017, 9:48 a.m.</created>
+  <last-modified>June 7, 2020, 9:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="319320">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="319321">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

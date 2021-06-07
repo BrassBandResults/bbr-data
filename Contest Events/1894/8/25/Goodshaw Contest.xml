@@ -1,0 +1,64 @@
+<contest-event id="12305">
+  <event-date date="1894-8-25">Aug. 25, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Goodshaw Contest</name>
+  <contest id="2528">
+    <name>Goodshaw Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>goodshaw-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1843">Pomona</test-piece>
+  </test-piece>
+
+  <venue id="1882">Goodshaw</venue>
+  <notes>5 bands competed
+Prizes- 1ST £14, 2ND £8, 3RD £5, 4TH £2.10S., 5TH £1.10S.
+Euphonium medal: Haslingden
+
+March contest: 1. Wingate, 2. Haslingden</notes>
+
+  <created>April 12, 2012, 10:39 a.m.</created>
+  <last-modified>June 13, 2019, 8:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98533">
+      <result code="1">1</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="98534">
+      <result code="2">2</result>
+      <band id="3675">Boothfold</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="98535">
+      <result code="3">3</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="98536">
+      <result code="4">4</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="98537">
+      <result code="5">5</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

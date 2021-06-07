@@ -1,0 +1,56 @@
+<contest-event id="10802">
+  <event-date date="1906-6-4">June 4, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Howden-le-Wear</name>
+  <contest id="1859">
+    <name>Howden-le-Wear Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>howden-le-wear</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="888">Satanella [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1531">Howden-le-Wear, County Durham</venue>
+  <notes>1st prize £9, 2nd prize £5, 3rd prize £3, 4th prize £1.
+March 1st (£1) Willington,  2nd (10s.) Peases West
+4 bands competed.</notes>
+
+  <created>March 4, 2012, 12:55 p.m.</created>
+  <last-modified>Sept. 13, 2018, 1:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90088">
+      <result code="1">1</result>
+      <band id="6627">Guisborough Priory</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="90089">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="90090">
+      <result code="3">3</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+    <result id="90091">
+      <result code="4">4</result>
+      <band id="6689">Peases West</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+  </results>
+</contest-event>

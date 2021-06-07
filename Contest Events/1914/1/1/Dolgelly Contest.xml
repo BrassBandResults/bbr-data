@@ -1,0 +1,56 @@
+<contest-event id="22225">
+  <event-date date="1914-1-1">Jan. 1, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgelly Contest</name>
+  <contest id="1779">
+    <name>Dolgelly/Dolgellau Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1500">Hours of Beauty</test-piece>
+  </test-piece>
+
+  <venue id="1253">Dolgellau, Gwynedd, Wales, UK</venue>
+  <notes>  March contest - 1st shared between Rhos and Acton.
+Prizes - 1st £12, 2nd £3.
+  4 bands competed.</notes>
+
+  <created>July 13, 2013, 10:56 a.m.</created>
+  <last-modified>Oct. 1, 2018, 3:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="165129">
+      <result code="1">1</result>
+      <band id="3432">Llangollen Silver Band</band>
+      <conductor id="311641">Jeff Williams</conductor>
+    </result>
+    
+    <result id="165130">
+      <result code="2">2</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="297778">A. Bennett</conductor>
+    </result>
+    
+    <result id="165131">
+      <result code="">Unknown Result</result>
+      <band id="9772">Rhosddu and Acton</band>
+      <conductor id="300725">Tom Eastwood</conductor>
+    </result>
+    
+    <result id="165132">
+      <result code="">Unknown Result</result>
+      <band id="10525">Barmouth</band>
+      <conductor id="302229">E. Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>
