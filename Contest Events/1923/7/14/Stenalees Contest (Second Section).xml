@@ -1,0 +1,56 @@
+<contest-event id="40848">
+  <event-date date="1923-7-14">July 14, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Second Section)</name>
+  <contest id="3757">
+    <name>Stenalees Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="880">Mirella [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>Prizes - 1st £16 and trophy, 2nd £12, 3rd £8.
+Hymn tune contest (Aberystwyth) - 1st Indian Queens, 2nd St Blazey.
+4 bands competed</notes>
+
+  <created>Oct. 20, 2018, 10:29 a.m.</created>
+  <last-modified>Oct. 20, 2018, 10:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296800">
+      <result code="1">1</result>
+      <band id="1777">Indian Queens Silver</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="296801">
+      <result code="2">2</result>
+      <band id="1296">Newquay Band</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="296802">
+      <result code="3">3</result>
+      <band id="4282">St. Blazey and District</band>
+      <conductor id="311939">E. F. Woodhead</conductor>
+    </result>
+    
+    <result id="296803">
+      <result code="4">4</result>
+      <band id="4496">Truro City</band>
+      <conductor id="303541">Tom Hubbard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

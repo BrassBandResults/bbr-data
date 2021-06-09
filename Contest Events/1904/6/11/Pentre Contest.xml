@@ -1,0 +1,74 @@
+<contest-event id="40205">
+  <event-date date="1904-6-11">June 11, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pentre Contest</name>
+  <contest id="6013">
+    <name>Pentre Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pentre-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5604">A Garland of Song</test-piece>
+  </test-piece>
+
+  <venue id="3742">Ynys Field, Ton, Pentre</venue>
+  <notes>Promoted by Pentre Volunteers Band.
+March contest - 1st Merthyr Vale, 2nd Cwmparc.
+7 bands competed</notes>
+
+  <created>Aug. 29, 2018, 8:40 a.m.</created>
+  <last-modified>Aug. 29, 2018, 8:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292351">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="292354">
+      <result code="2">2</result>
+      <band id="10967">Mardy</band>
+      <conductor id="310261">C. Thomas</conductor>
+    </result>
+    
+    <result id="292352">
+      <result code="3">3</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="310273">G. Thomas</conductor>
+    </result>
+    
+    <result id="292355">
+      <result code="4">4</result>
+      <band id="6260">Gilfachgoch</band>
+      <conductor id="307214">W. G. Paterson</conductor>
+    </result>
+    
+    <result id="292353">
+      <result code="5">5</result>
+      <band id="6595">Cwmparc</band>
+      <conductor id="310156">J. C. Taylor</conductor>
+    </result>
+    
+    <result id="292357">
+      <result code="">Unknown Result</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="292363">
+      <result code="">Unknown Result</result>
+      <band id="12696">Tylorstown</band>
+      <conductor id="305213">J. A. Locksley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

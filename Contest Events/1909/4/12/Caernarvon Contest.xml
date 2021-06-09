@@ -1,0 +1,58 @@
+<contest-event id="12772">
+  <event-date date="1909-4-12">April 12, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caernarvon Contest</name>
+  <contest id="2217">
+    <name>Caernarvon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caernarvon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1828">Old Memories</test-piece>
+  </test-piece>
+
+  <venue id="1149">Caernarfon, Gwynedd, Wales, UK</venue>
+  <notes>1st prize 10 and cup.
+2nd prize £3.
+3rd prize £2.
+March contest 1st Penmaenmawr,  2nd Nantlle.
+4 bands competed</notes>
+
+  <created>April 21, 2012, 10:37 a.m.</created>
+  <last-modified>Sept. 3, 2016, 8:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101611">
+      <result code="1">1</result>
+      <band id="9835">Nantlle Deulyn</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="101612">
+      <result code="2">2</result>
+      <band id="2740">Penmaenmawr Silver</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="101613">
+      <result code="3">3</result>
+      <band id="5215">Moeltryfan</band>
+      <conductor id="309899">J. W. Stubbs</conductor>
+    </result>
+    
+    <result id="101614">
+      <result code="">Unknown Result</result>
+      <band id="7279">Dolgelly</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+  </results>
+</contest-event>

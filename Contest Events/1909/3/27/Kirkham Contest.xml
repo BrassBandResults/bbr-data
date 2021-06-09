@@ -1,0 +1,48 @@
+<contest-event id="12761">
+  <event-date date="1909-3-27">March 27, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kirkham Contest</name>
+  <contest id="1970">
+    <name>Kirkham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kirkham-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2201">Gustavus</test-piece>
+  </test-piece>
+
+  <venue id="1401">Kirkham, Lancashire</venue>
+  <notes>3 bands competed</notes>
+
+  <created>April 20, 2012, 3:12 p.m.</created>
+  <last-modified>Sept. 3, 2016, 7:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="101499">
+      <result code="1">1</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="101500">
+      <result code="2">2</result>
+      <band id="10903">Poulton-Le-Fylde Band</band>
+      <conductor id="304373">A. D. Keate</conductor>
+    </result>
+    
+    <result id="101501">
+      <result code="3">3</result>
+      <band id="4621">Kirkham Subscription</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

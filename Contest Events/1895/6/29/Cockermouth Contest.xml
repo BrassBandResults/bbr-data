@@ -1,0 +1,61 @@
+<contest-event id="12529">
+  <event-date date="1895-6-29">June 29, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cockermouth Contest</name>
+  <contest id="2369">
+    <name>Cockermouth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cockermouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2591">Cockermouth, Cumbria, England, UK</venue>
+  <notes>5 bands competed
+Prizes: £12, £6, £3, £1 10s</notes>
+
+  <created>April 15, 2012, 9:20 p.m.</created>
+  <last-modified>June 20, 2019, 8:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100103">
+      <result code="1">1</result>
+      <band id="3677">Derwent Iron and Steel Works</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="100104">
+      <result code="2">2</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="100105">
+      <result code="3">3</result>
+      <band id="1510">Workington</band>
+      <conductor id="305310">George Lowden</conductor>
+    </result>
+    
+    <result id="100106">
+      <result code="4">4</result>
+      <band id="6302">Carlisle Artillery</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="310602">
+      <result code="5">5</result>
+      <band id="7600">St John&#39;s (Workington)</band>
+      <conductor id="300713">George Eastwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,86 @@
+<contest-event id="9240">
+  <event-date date="1886-7-3">July 3, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Skipton Contest</name>
+  <contest id="1250">
+    <name>Skipton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>skipton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="883">Skipton</venue>
+  <notes>Prizes: £24, £14, £8, £4, £2
+
+Euph prize: Wyke
+Trom prize: Honley</notes>
+
+  <created>Dec. 29, 2011, 2:44 p.m.</created>
+  <last-modified>Sept. 4, 2016, 8:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="80050">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="80052">
+      <result code="2">2</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2827">Beethoven Fantasia [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="80049">
+      <result code="3">3</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="80051">
+      <result code="4">4</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2826">Tannhäuser [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="80054">
+      <result code="5">5</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="80053">
+      <result code="6">6</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="80056">
+      <result code="W">Withdrawn</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80055">
+      <result code="W">Withdrawn</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

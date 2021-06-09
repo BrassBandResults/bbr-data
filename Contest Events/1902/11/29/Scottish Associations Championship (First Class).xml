@@ -1,0 +1,74 @@
+<contest-event id="23223">
+  <event-date date="1902-11-29">Nov. 29, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Associations Championship (First Class)</name>
+  <contest id="4511">
+    <name>Scottish Associations Championship (First Class)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>scottish-associations-championship-first-class</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3881">Hengler&#39;s Cirque, Glasgow</venue>
+  <notes>Competition between the best bands of the two brass band associations: the Scottish Amateur and the Scottish Central.
+
+7 bands competed</notes>
+
+  <created>Aug. 21, 2013, 5:34 p.m.</created>
+  <last-modified>Aug. 21, 2013, 5:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170779">
+      <result code="1">1</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="170784">
+      <result code="2">2</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="170780">
+      <result code="3">3</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="170783">
+      <result code="4">4</result>
+      <band id="1270">Newmains</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="170785">
+      <result code="">Unknown Result</result>
+      <band id="5495">Larkhall Raploch</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170782">
+      <result code="">Unknown Result</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170781">
+      <result code="">Unknown Result</result>
+      <band id="5613">Portobello Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

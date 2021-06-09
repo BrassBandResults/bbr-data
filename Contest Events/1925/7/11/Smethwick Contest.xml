@@ -1,0 +1,68 @@
+<contest-event id="24966">
+  <event-date date="1925-7-11">July 11, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Smethwick Contest</name>
+  <contest id="1993">
+    <name>Smethwick Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>smethwick-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="1425">Smethwick, Staffordshire</venue>
+  <notes>Prizes - 1st £15 and cup, 2nd £10, 3rd £5, 4th £3, 5th £2.
+  March contest - 1st Amington, 2nd Willenhall.
+  6 bands competed.</notes>
+
+  <created>Nov. 6, 2013, 1:28 p.m.</created>
+  <last-modified>Nov. 6, 2018, 9:17 a.m.</last-modified>
+
+  <results>
+    
+    <result id="181963">
+      <result code="1">1</result>
+      <band id="347">Amington Band</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="181964">
+      <result code="2">2</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="301275">Herbert Fisher</conductor>
+    </result>
+    
+    <result id="181965">
+      <result code="3">3</result>
+      <band id="2569">Birmingham City</band>
+      <conductor id="309820">E. F. Stokes</conductor>
+    </result>
+    
+    <result id="181966">
+      <result code="4">4</result>
+      <band id="8193">Bescot L.M.S.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181967">
+      <result code="5">5</result>
+      <band id="416">Langley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181968">
+      <result code="6">6</result>
+      <band id="8974">Elliott&#39;s Metal Co</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

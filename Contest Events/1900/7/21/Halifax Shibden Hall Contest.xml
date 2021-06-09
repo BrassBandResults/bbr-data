@@ -1,0 +1,55 @@
+<contest-event id="8086">
+  <event-date date="1900-7-21">July 21, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Halifax Shibden Hall Contest</name>
+  <contest id="1419">
+    <name>Halifax (Shibden Hall) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>halifax-shibdon-hall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="924">Shibden Hall, Halifax</venue>
+  <notes>Promoted by Halifax Independant Labour Party.
+Prizes - 1st £12, 2nd £7, 3rd £4, 4th £2, 5th £1.</notes>
+
+  <created>Nov. 7, 2011, 3:06 p.m.</created>
+  <last-modified>April 6, 2020, 12:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="289715">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="289716">
+      <result code="2">2</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="73260">
+      <result code="2">2</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="289717">
+      <result code="4">4</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+  </results>
+</contest-event>

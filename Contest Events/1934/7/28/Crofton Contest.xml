@@ -1,0 +1,97 @@
+<contest-event id="27007">
+  <event-date date="1934-7-28">July 28, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crofton Contest</name>
+  <contest id="2706">
+    <name>Crofton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crofton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="2061">Crofton, Wakefield, West Yorkshire</venue>
+  <notes>March contest - 1st Denby Dale.
+11 bands competed.</notes>
+
+  <created>April 8, 2014, 7:51 p.m.</created>
+  <last-modified>Jan. 10, 2017, 9:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="267002">
+      <result code="1">1</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267003">
+      <result code="2">2</result>
+      <band id="2794">Elsecar Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267004">
+      <result code="3">3</result>
+      <band id="133">Horbury Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267012">
+      <result code="">Unknown Result</result>
+      <band id="3151">Blackburn Valley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267011">
+      <result code="">Unknown Result</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267005">
+      <result code="">Unknown Result</result>
+      <band id="4549">Hemsworth Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267006">
+      <result code="">Unknown Result</result>
+      <band id="632">Royston Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267010">
+      <result code="">Unknown Result</result>
+      <band id="3186">Ryhill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267009">
+      <result code="">Unknown Result</result>
+      <band id="3309">South Kirkby</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267007">
+      <result code="">Unknown Result</result>
+      <band id="3576">Stourton Memorial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267008">
+      <result code="">Unknown Result</result>
+      <band id="4260">Wakefield Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

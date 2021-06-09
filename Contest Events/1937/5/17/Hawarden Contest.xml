@@ -1,0 +1,62 @@
+<contest-event id="25923">
+  <event-date date="1937-5-17">May 17, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hawarden Contest</name>
+  <contest id="2677">
+    <name>Hawarden Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>hawarden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1364">Recollections of Auber</test-piece>
+  </test-piece>
+
+  <venue id="4093">Hawarden Park, Hawarden, Flintshire, Wales, UK</venue>
+  <notes>March contest - 1st Bickershaw, 2nd Birkenhead Borough.
+Prizes - 1st £25 and shield, 2nd £15, 3rd £8.
+  5 bands competed.</notes>
+
+  <created>Jan. 18, 2014, 9:05 a.m.</created>
+  <last-modified>Jan. 18, 2019, 11:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187900">
+      <result code="1">1</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="187901">
+      <result code="2">2</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="187902">
+      <result code="3">3</result>
+      <band id="2685">Birkenhead Borough</band>
+      <conductor id="311056">Henry Wareing</conductor>
+    </result>
+    
+    <result id="189894">
+      <result code="">Unknown Result</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189893">
+      <result code="">Unknown Result</result>
+      <band id="6759">Litherland Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

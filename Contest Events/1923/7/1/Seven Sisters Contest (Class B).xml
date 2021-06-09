@@ -1,0 +1,54 @@
+<contest-event id="40835">
+  <event-date date="1923-7-1">July 1, 1923<event-date>
+  <event-date-resolution>M</event-date-resolution>
+  <name>Seven Sisters Contest (Class B)</name>
+  <contest id="2833">
+    <name>Seven Sisters Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="446">Seven Sisters Contest</group>
+    <slug>seven-sisters-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1216">Zaar und Zimmermann</test-piece>
+  </test-piece>
+
+  <venue id="4000">Memorial Hall, Seven Sisters, Neath, Glamorgan</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Oct. 19, 2018, 1:32 p.m.</created>
+  <last-modified>Oct. 19, 2018, 1:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296753">
+      <result code="1">1</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="318504">Ivor L. Rees</conductor>
+    </result>
+    
+    <result id="296754">
+      <result code="2">2</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="306343">J. Morgan</conductor>
+    </result>
+    
+    <result id="296755">
+      <result code="3">3</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311657">R. Williams</conductor>
+    </result>
+    
+    <result id="296756">
+      <result code="4">4</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

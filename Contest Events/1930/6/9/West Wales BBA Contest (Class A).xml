@@ -1,0 +1,61 @@
+<contest-event id="24631">
+  <event-date date="1930-6-9">June 9, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="527">The Merry Wives of Windsor [Keighley]</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>
+  5 bands competed.</notes>
+
+  <created>Oct. 22, 2013, 10 a.m.</created>
+  <last-modified>Dec. 6, 2018, 4:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180120">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="180121">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="180122">
+      <result code="3">3</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="180123">
+      <result code="">Unknown Result</result>
+      <band id="12297">Burry Port Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180124">
+      <result code="">Unknown Result</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

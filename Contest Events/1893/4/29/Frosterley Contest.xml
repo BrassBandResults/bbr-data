@@ -1,0 +1,68 @@
+<contest-event id="11733">
+  <event-date date="1893-4-29">April 29, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Frosterley Contest</name>
+  <contest id="2067">
+    <name>Frosterley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>frosterley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1986">El Dorado</test-piece>
+  </test-piece>
+
+  <venue id="1505">Frosterley, County Durham</venue>
+  <notes>Quickstep contest: 1. South Derwent.
+Prizes -1st  £8 and cornet, 2nd £5 and trombone, 3rd £5.
+4 bands competed</notes>
+
+  <created>April 6, 2012, 5:17 p.m.</created>
+  <last-modified>June 5, 2019, 11:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95130">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="95131">
+      <result code="2">2</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="95132">
+      <result code="3">3</result>
+      <band id="6085">New Shildon Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98239">
+      <result code="4">4</result>
+      <band id="3541">Castle Eden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98238">
+      <result code="W">Withdrawn</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98237">
+      <result code="W">Withdrawn</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

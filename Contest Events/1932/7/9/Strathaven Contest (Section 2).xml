@@ -1,0 +1,61 @@
+<contest-event id="23353">
+  <event-date date="1932-7-9">July 9, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Strathaven Contest (Section 2)</name>
+  <contest id="3249">
+    <name>Strathaven Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="428">Strathaven Contest</group>
+    <slug>strathaven-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2492">Strathaven, Lanarkshire</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £6, 3rd £4, 4th £2, 5th £1.
+5 bands competed.</notes>
+
+  <created>Sept. 1, 2013, 6:59 a.m.</created>
+  <last-modified>Dec. 10, 2016, 1:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="171611">
+      <result code="1">1</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="171612">
+      <result code="2">2</result>
+      <band id="646">Croy Silver Band</band>
+      <conductor id="310365">Robert Thomson</conductor>
+    </result>
+    
+    <result id="171613">
+      <result code="3">3</result>
+      <band id="1272">Bellshill &amp; District Concert Brass</band>
+      <conductor id="297790">Herbert Bennett</conductor>
+    </result>
+    
+    <result id="171614">
+      <result code="4">4</result>
+      <band id="5468">Lesmahagow Miners</band>
+      <conductor id="301582">W. Fullarton</conductor>
+    </result>
+    
+    <result id="171615">
+      <result code="5">5</result>
+      <band id="5554">Knightswood Silver</band>
+      <conductor id="300014">W. Curtis</conductor>
+    </result>
+    
+  </results>
+</contest-event>

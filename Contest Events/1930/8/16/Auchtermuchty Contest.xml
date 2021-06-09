@@ -1,0 +1,57 @@
+<contest-event id="41523">
+  <event-date date="1930-8-16">Aug. 16, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Auchtermuchty Contest</name>
+  <contest id="4435">
+    <name>Auchtermuchty Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>auchtermuchty-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3690">Auchtermuchty, Fife, Scotland, UK</venue>
+  <notes>March contest - 1st Wellesley Colliery.</notes>
+
+  <created>Dec. 10, 2018, 9:41 a.m.</created>
+  <last-modified>Dec. 10, 2018, 9:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="301983">
+      <result code="1">1</result>
+      <band id="5476">Burntisland Silver</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="301984">
+      <result code="2">2</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="302391">John Haldane</conductor>
+      <test-piece id="1831">Nabucco</test-piece>
+    </result>
+    
+    <result id="301985">
+      <result code="3">3</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="317690">C. Terriss</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="301986">
+      <result code="">Unknown Result</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="307331">William Pegg</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="40164">
+  <event-date date="1904-4-4">April 4, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontardawe Contest (Class B)</name>
+  <contest id="6316">
+    <name>Pontardawe Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontardawe-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1646">Recollections of Flotow</test-piece>
+  </test-piece>
+
+  <venue id="6880">Pontardawe, Glamorganshire</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Aug. 22, 2018, 12:04 p.m.</created>
+  <last-modified>Aug. 22, 2018, 12:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="292020">
+      <result code="1">1</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311620">Henry Williams</conductor>
+    </result>
+    
+    <result id="292021">
+      <result code="2">2</result>
+      <band id="6738">Alltwen</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="292019">
+      <result code="3">3</result>
+      <band id="6763">Llandilo</band>
+      <conductor id="296758">Lawrence Abram</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="25685">
+  <event-date date="1928-6-16">June 16, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hardraw Scar</name>
+  <contest id="537">
+    <name>Hardraw Scar</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="39">Hardraw Scar</group>
+    <slug>hardraw-scar</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1049">The Mastersingers (Die Meistersinger)</test-piece>
+  </test-piece>
+
+  <venue id="27">Green Dragon Inn, Hardraw, North Yorkshire</venue>
+  <notes>Prizes - 1st £50 and cup, 2nd £30, 3rd £10.
+March contest - 1st Carlton Main £1.10s., 2nd Brighouse 15s., 3rd Black Dyke.
+Brass Band News July 1928 shows George Hawkins adjudicating.
+5 bands competed.</notes>
+
+  <created>Dec. 20, 2013, 5:57 p.m.</created>
+  <last-modified>March 18, 2021, 10:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="300965">
+      <result code="1">1</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="300987">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="323918">
+      <result code="3">3</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="300988">
+      <result code="">Unknown Result</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300966">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

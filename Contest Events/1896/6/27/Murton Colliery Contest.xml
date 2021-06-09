@@ -1,0 +1,73 @@
+<contest-event id="12982">
+  <event-date date="1896-6-27">June 27, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Murton Colliery Contest</name>
+  <contest id="2472">
+    <name>Murton Colliery Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>murton-colliery-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1919">Murton Colliery, County Durham</venue>
+  <notes>Promoted by Murton Colliery Prize B
+Prizes: £11 and trombone, £9, £4, £2
+March contest: 1. Hartlepool Temperance, 2. Hartlepool Borough, 3. Consett.
+Best euphonium - Michael Hobday Consett).
+6 bands competed.</notes>
+
+  <created>April 29, 2012, 3 p.m.</created>
+  <last-modified>Sept. 7, 2016, 4:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103441">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="103442">
+      <result code="2">2</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="103444">
+      <result code="3">3</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="299739">George Cornforth</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="103443">
+      <result code="3">3</result>
+      <band id="6279">West Pelton Volunteers</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="103445">
+      <result code="">Unknown Result</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">John A. Mutton</conductor>
+    </result>
+    
+    <result id="149875">
+      <result code="">Unknown Result</result>
+      <band id="7628">Walbottle Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="23267">
+  <event-date date="1936-4-4">April 4, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Riding Contest (1st Section)</name>
+  <contest id="1785">
+    <name>West Riding Contest (1st Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="182">West Riding Contest</group>
+    <slug>west-riding-contest-1st-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3145">Victoria Hall, Saltaire, Shipley, Yorkshire</venue>
+  <notes>
+  March contest in conjunction with section 2 - 1st Bradford City, 2nd Flockton, 3rd Canal Ironworks, 4th Clayton Subscription.
+  6 bands competed.</notes>
+
+  <created>Aug. 25, 2013, 7:58 p.m.</created>
+  <last-modified>Sept. 25, 2016, 9:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171064">
+      <result code="1">1</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302009">Harry Grace</conductor>
+    </result>
+    
+    <result id="171065">
+      <result code="2">2</result>
+      <band id="2687">Canal Ironworks</band>
+      <conductor id="299555">Gershom Collison</conductor>
+    </result>
+    
+    <result id="171066">
+      <result code="3">3</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="308985">Percy Shaw</conductor>
+    </result>
+    
+    <result id="171063">
+      <result code="4">4</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="310397">Ernest Thorpe</conductor>
+    </result>
+    
+    <result id="171062">
+      <result code="">Unknown Result</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="302807">Herbert Bowdin Hawley</conductor>
+    </result>
+    
+    <result id="171067">
+      <result code="">Unknown Result</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="304432">George Kemp</conductor>
+    </result>
+    
+  </results>
+</contest-event>

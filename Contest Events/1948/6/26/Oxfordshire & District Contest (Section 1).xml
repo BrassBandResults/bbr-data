@@ -1,0 +1,43 @@
+<contest-event id="19930">
+  <event-date date="1948-6-26">June 26, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oxfordshire &amp; District Contest (Section 1)</name>
+  <contest id="3231">
+    <name>Oxfordshire &amp; District Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="390">Oxfordshire &amp; District Contest</group>
+    <slug>oxfordshire-district-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="525">Carmen</test-piece>
+  </test-piece>
+
+  
+  <notes>March contest - 1st Hazells, 2nd Furniture Industries.
+5 bands competed.</notes>
+
+  <created>March 29, 2013, 9:34 a.m.</created>
+  <last-modified>May 26, 2016, 12:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255788">
+      <result code="1">1</result>
+      <band id="1729">Hazell&#39;s Printing Works</band>
+      <conductor id="296852">Jonathan T. H. Alderson</conductor>
+    </result>
+    
+    <result id="255789">
+      <result code="2">2</result>
+      <band id="2133">Ercol</band>
+      <conductor id="306654">S. Nesbitt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

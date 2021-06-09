@@ -1,0 +1,70 @@
+<contest-event id="25301">
+  <event-date date="1940-9-8">Sept. 8, 1940<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashington Contest</name>
+  <contest id="2395">
+    <name>Ashington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4257">The Ballroom, Ashington, Northumberland, England, UK</venue>
+  <notes>Each band to play 12 minutes of own song selection, and restricted to 16 players.
+  No prize money but medals for best cornet, trombone and horn to Newbiggin.
+  Best soprano to North Seaton, best flugal to Netherton.
+  Promoted to raise money for War Funds.
+  6 bands competed.</notes>
+
+  <created>Nov. 26, 2013, 1:23 p.m.</created>
+  <last-modified>Jan. 28, 2019, 11:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="184253">
+      <result code="1">1</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184254">
+      <result code="2">2</result>
+      <band id="3842">Netherton Colliery Workmens</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184255">
+      <result code="3">3</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184256">
+      <result code="4">4</result>
+      <band id="6071">Tynemouth Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184257">
+      <result code="">Unknown Result</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184258">
+      <result code="">Unknown Result</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

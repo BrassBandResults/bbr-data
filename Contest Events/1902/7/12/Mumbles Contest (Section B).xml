@@ -1,0 +1,76 @@
+<contest-event id="40070">
+  <event-date date="1902-7-12">July 12, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mumbles Contest (Section B)</name>
+  <contest id="1918">
+    <name>Mumbles Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="224">Mumbles Contest</group>
+    <slug>mumbles-contest-section-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2030">Don Pasquale</test-piece>
+  </test-piece>
+
+  <venue id="6889">Mumbles Pier, Glamorgan</venue>
+  <notes>Best soprano - Great Western.
+Best G trombone - Gwaun-cae-Gurwen.
+Best tenor trombone - Ystalyfera.
+7 bands competed.
+12th annual South Wales and Monmouth Contest</notes>
+
+  <created>July 5, 2018, 10:22 p.m.</created>
+  <last-modified>May 3, 2020, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291271">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="291272">
+      <result code="2">2</result>
+      <band id="7498">Dowlais Town</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="291274">
+      <result code="3">3</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="318139">R. Castle</conductor>
+    </result>
+    
+    <result id="291276">
+      <result code="4">4</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="308288">J. H. Roberts</conductor>
+    </result>
+    
+    <result id="291270">
+      <result code="">Unknown Result</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="291273">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="309047">Joseph Sheridan</conductor>
+    </result>
+    
+    <result id="291275">
+      <result code="">Unknown Result</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

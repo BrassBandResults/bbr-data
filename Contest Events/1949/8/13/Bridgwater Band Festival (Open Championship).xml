@@ -1,0 +1,63 @@
+<contest-event id="41870">
+  <event-date date="1949-8-13">Aug. 13, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridgwater Band Festival (Open Championship)</name>
+  <contest id="927">
+    <name>Bridgwater Band Festival (Open Championship)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="273">Bridgwater Band Festival</group>
+    <slug>bridgwater-band-festival-open-championship</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5881">Aroldo [unknown arranger] or Cosi fan Tutte</test-piece>
+  </test-piece>
+
+  <venue id="3086">Blake Gardens, Bridgwater, Somerset, England, UK</venue>
+  <notes>March contest - 1st Yorkley Onward, 2nd Lydney Town.,
+Best trombone - A.S.H.Baddeley (Chippenham).
+Prizes - 1st £30, 2nd £15, 3rd £10.
+</notes>
+
+  <created>March 1, 2019, 12:21 p.m.</created>
+  <last-modified>March 1, 2019, 2:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="305029">
+      <result code="1">1</result>
+      <band id="297">Thomas Coaches Mid Rhondda Band</band>
+      <conductor id="304261">Oliver Jones</conductor>
+    </result>
+    
+    <result id="305030">
+      <result code="2">2</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="311113">Graham Watkins</conductor>
+    </result>
+    
+    <result id="305031">
+      <result code="3">3</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="303212">R. O. Hodges</conductor>
+    </result>
+    
+    <result id="305061">
+      <result code="4">4</result>
+      <band id="7190">Chippenham Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="305062">
+      <result code="">Unknown Result</result>
+      <band id="367">City of Bath</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="12020">
+  <event-date date="1894-6-2">June 2, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Musselburgh Contest</name>
+  <contest id="1920">
+    <name>Musselburgh Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>musselburgh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3664">Pinkie Grounds, Musselburgh</venue>
+  <notes>1st annual contest.
+Prizes: £5 11s and cornet, £2 12s and soprano, £1 3s and trombone, £3, £1.
+11 bands competed.</notes>
+
+  <created>April 8, 2012, 8:57 p.m.</created>
+  <last-modified>June 10, 2019, 3:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96605">
+      <result code="1">1</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="314025">James Robinson</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="96606">
+      <result code="2">2</result>
+      <band id="5515">Carberry and Wallyford</band>
+      <conductor id="301110">Friend Farrand</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="96607">
+      <result code="3">3</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="298610">John Brown</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="96608">
+      <result code="4">4</result>
+      <band id="7588">Methilhill</band>
+      <conductor id="299019">James Carmichael</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="96609">
+      <result code="5">5</result>
+      <band id="5481">Leven Town</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

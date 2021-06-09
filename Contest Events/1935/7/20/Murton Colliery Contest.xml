@@ -1,0 +1,63 @@
+<contest-event id="28420">
+  <event-date date="1935-7-20">July 20, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Murton Colliery Contest</name>
+  <contest id="2472">
+    <name>Murton Colliery Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>murton-colliery-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4418">Fatten Pasture Ground, Murton, County Durham</venue>
+  <notes>7 bands competed
+
+March: 1. Brandon, 2. Durham Shakespeare
+Hymn: 1. Brandon, 2. Cargo Fleet</notes>
+
+  <created>June 9, 2014, 6:18 p.m.</created>
+  <last-modified>June 9, 2014, 6:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202519">
+      <result code="1">1</result>
+      <band id="3606">Middlesbrough Borough</band>
+      <conductor id="311770">James Wilson Jnr</conductor>
+    </result>
+    
+    <result id="202520">
+      <result code="2">2</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="202521">
+      <result code="3">3</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="303853">Harry Jackson</conductor>
+    </result>
+    
+    <result id="202522">
+      <result code="4">4</result>
+      <band id="6748">Sherburn Hill Colliery</band>
+      <conductor id="312107">William Yates</conductor>
+    </result>
+    
+    <result id="202523">
+      <result code="">Unknown Result</result>
+      <band id="3301">Durham Shakespeare</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

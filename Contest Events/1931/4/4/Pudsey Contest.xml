@@ -1,0 +1,62 @@
+<contest-event id="25982">
+  <event-date date="1931-4-4">April 4, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pudsey Contest</name>
+  <contest id="4678">
+    <name>Pudsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pudsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="196">Labour and Love</test-piece>
+  </test-piece>
+
+  <venue id="484">Pudsey, Leeds</venue>
+  <notes>9th annual contest promoted by Pudsey Borough Band
+
+March: 1. Spenborough, 2. Bradford City</notes>
+
+  <created>Jan. 20, 2014, 2:36 p.m.</created>
+  <last-modified>Jan. 20, 2014, 2:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188157">
+      <result code="1">1</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188158">
+      <result code="2">2</result>
+      <band id="3176">Spenborough Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188159">
+      <result code="3">3</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188160">
+      <result code="4">4</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188161">
+      <result code="4">4</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

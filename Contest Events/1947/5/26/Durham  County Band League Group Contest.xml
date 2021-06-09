@@ -1,0 +1,50 @@
+<contest-event id="18004">
+  <event-date date="1947-5-26">May 26, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Durham  County Band League Group Contest</name>
+  <contest id="3666">
+    <name>Durham  County Band League Group Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>durham-county-band-league-group-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="213">Bedlington, Northumberland</venue>
+  <notes>4 bands withdrew
+
+  March contest 1st Bedlington, 2nd Lynemouth, 3rd Murton.</notes>
+
+  <created>Feb. 7, 2013, 10:54 p.m.</created>
+  <last-modified>Feb. 12, 2019, 4:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135995">
+      <result code="1">1</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="310159">J. W. Taylor</conductor>
+    </result>
+    
+    <result id="135996">
+      <result code="2">2</result>
+      <band id="411">Greggs Bakery Band</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+    <result id="135997">
+      <result code="3">3</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="297236">William Atkinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

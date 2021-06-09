@@ -1,0 +1,66 @@
+<contest-event id="11140">
+  <event-date date="1906-9-29">Sept. 29, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dalry Contest (First Section)</name>
+  <contest id="2003">
+    <name>Dalry Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="250">Dalry Contest</group>
+    <slug>dalry-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1435">Dalry, North Ayrshire, Scotland, UK</venue>
+  <notes></notes>
+
+  <created>March 14, 2012, 5:31 p.m.</created>
+  <last-modified>March 14, 2012, 5:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="92240">
+      <result code="1">1</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="92241">
+      <result code="2">2</result>
+      <band id="4803">Darvel Burgh</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="92242">
+      <result code="3">3</result>
+      <band id="283">Dalmellington Band</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="92243">
+      <result code="4">4</result>
+      <band id="5553">Maybole Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="92244">
+      <result code="5">5</result>
+      <band id="6636">Beith</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="92245">
+      <result code="6">6</result>
+      <band id="6554">Auchinleck</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,72 @@
+<contest-event id="25659">
+  <event-date date="1933-9-9">Sept. 9, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1204">Lohengrin [arr. Johnstone]</test-piece>
+  </test-piece>
+
+  <venue id="2011">Brynamman, Glamorgan</venue>
+  <notes>  7 bands competed.</notes>
+
+  <created>Dec. 20, 2013, 11:36 a.m.</created>
+  <last-modified>April 24, 2018, 7:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185813">
+      <result code="1">1</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">Thomas Charles White</conductor>
+    </result>
+    
+    <result id="185814">
+      <result code="2">2</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="185816">
+      <result code="3">3</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="185815">
+      <result code="3">3</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="304287">T. E. Jones</conductor>
+    </result>
+    
+    <result id="185819">
+      <result code="">Unknown Result</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185817">
+      <result code="">Unknown Result</result>
+      <band id="8405">Cwmavon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185818">
+      <result code="">Unknown Result</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

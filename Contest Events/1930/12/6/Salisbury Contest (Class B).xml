@@ -1,0 +1,51 @@
+<contest-event id="13486">
+  <event-date date="1930-12-6">Dec. 6, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Salisbury Contest (Class B)</name>
+  <contest id="2842">
+    <name>Salisbury Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="434">Salisbury Contest</group>
+    <slug>salisbury-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1854">In Old Vienna</test-piece>
+  </test-piece>
+
+  <venue id="2177">Salisbury, Wiltshire, England, UK</venue>
+  <notes>  2nd Annual Contest organised by Wessex Band Association.
+
+  Best cornet,soprano,horn and euphonium - Boscombe Silver.  
+  Best trombone - Fovant.</notes>
+
+  <created>May 19, 2012, 6:19 a.m.</created>
+  <last-modified>Jan. 11, 2014, 11:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106954">
+      <result code="1">1</result>
+      <band id="8404">Boscombe Silver</band>
+      <conductor id="312125">C. J. Young</conductor>
+    </result>
+    
+    <result id="106955">
+      <result code="2">2</result>
+      <band id="362">Verwood Concert Brass</band>
+      <conductor id="309103">S. C. Shulter</conductor>
+    </result>
+    
+    <result id="106956">
+      <result code="3">3</result>
+      <band id="6808">Fovant</band>
+      <conductor id="312076">S. J. Wyatt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

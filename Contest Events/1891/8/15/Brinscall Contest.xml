@@ -1,0 +1,67 @@
+<contest-event id="18022">
+  <event-date date="1891-8-15">Aug. 15, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brinscall Contest</name>
+  <contest id="2753">
+    <name>Brinscall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brinscall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2106">Brinscall, Lancashire, England, UK</venue>
+  <notes>Promoted by Brinscall &amp; Withnell Band
+Prizes - 1st £10, 2nd £5, 3rd £4, 4th £3, 5th £2.
+Quickstep: 1. Halliwell, 2. Bacup.
+5 bands competed.</notes>
+
+  <created>Feb. 7, 2013, 11:53 p.m.</created>
+  <last-modified>May 27, 2019, 6:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="136068">
+      <result code="1">1</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301861">Edward Gittins</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="281999">
+      <result code="2">2</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="302565">T. Hardacre</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="136070">
+      <result code="3">3</result>
+      <band id="4276">Halliwell</band>
+      <conductor id="313862">John Partington</conductor>
+      <test-piece id="963">Linda di Chamounix [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="136071">
+      <result code="4">4</result>
+      <band id="10368">Farington Subscription</band>
+      <conductor id="307617">T. Potter</conductor>
+      <test-piece id="2810">The Bohemian Girl (arr. Rimmer)</test-piece>
+    </result>
+    
+    <result id="136072">
+      <result code="5">5</result>
+      <band id="1309">British Aerospace (Chadderton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

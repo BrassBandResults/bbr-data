@@ -1,0 +1,76 @@
+<contest-event id="11805">
+  <event-date date="1893-7-6">July 6, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Gardens Band Contest</name>
+  <contest id="1156">
+    <name>Sheffield Gardens Band Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>sheffield-gardens-band-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="662">Botanical Gardens, Sheffield</venue>
+  <notes>4 bands competed. 1st &amp; 2nd places shared.</notes>
+
+  <created>April 7, 2012, 11:02 a.m.</created>
+  <last-modified>June 7, 2019, 1:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95439">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="95440">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="95441">
+      <result code="3">3</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="291680">
+      <result code="4">4</result>
+      <band id="2457">Woodhouse Prize Band</band>
+      <conductor id="299621">John William Cook</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="309488">
+      <result code="W">Withdrawn</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309490">
+      <result code="W">Withdrawn</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="309489">
+      <result code="W">Withdrawn</result>
+      <band id="7198">Spital Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

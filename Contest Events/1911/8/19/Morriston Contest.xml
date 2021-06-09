@@ -1,0 +1,48 @@
+<contest-event id="44039">
+  <event-date date="1911-8-19">Aug. 19, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morriston Contest</name>
+  <contest id="6086">
+    <name>Morriston Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>morriston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5578">An Italian Carnival</test-piece>
+  </test-piece>
+
+  <venue id="4468">Morriston, Glamorgan</venue>
+  <notes>9 bands entered, but only 3 attended owing to a rail strike.</notes>
+
+  <created>Nov. 9, 2020, 9:50 p.m.</created>
+  <last-modified>Nov. 9, 2020, 9:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="322616">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="322615">
+      <result code="2">2</result>
+      <band id="8286">Clydach St. John&#39;s </band>
+      <conductor id="300183">Russell Davies</conductor>
+    </result>
+    
+    <result id="322617">
+      <result code="3">3</result>
+      <band id="9506">Calfaria Clydach</band>
+      <conductor id="304288">T. J. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

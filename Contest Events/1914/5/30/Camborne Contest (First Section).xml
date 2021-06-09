@@ -1,0 +1,48 @@
+<contest-event id="40509">
+  <event-date date="1914-5-30">May 30, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Camborne Contest (First Section)</name>
+  <contest id="4142">
+    <name>Camborne Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>camborne-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2628">The Martyrs</test-piece>
+  </test-piece>
+
+  <venue id="578">Camborne, Cornwall</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Oct. 3, 2018, 11:48 a.m.</created>
+  <last-modified>Oct. 3, 2018, 11:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294812">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="294811">
+      <result code="2">2</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="300726">Tom Eastwood</conductor>
+    </result>
+    
+    <result id="294813">
+      <result code="3">3</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="317353">W. Halstead</conductor>
+    </result>
+    
+  </results>
+</contest-event>

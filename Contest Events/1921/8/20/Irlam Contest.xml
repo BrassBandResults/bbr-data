@@ -1,0 +1,56 @@
+<contest-event id="33296">
+  <event-date date="1921-8-20">Aug. 20, 1921<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Irlam Contest</name>
+  <contest id="5519">
+    <name>Irlam Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>irlam-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2728">Recollections of Wales</test-piece>
+  </test-piece>
+
+  <venue id="6024">Irlam, Lancashire</venue>
+  <notes>Best soprano, horn and cornet - Helmshore.
+March contest - 1st Glazebury, 2nd Helmshore.
+8 bands competed.</notes>
+
+  <created>Oct. 31, 2015, 2:20 p.m.</created>
+  <last-modified>Oct. 31, 2015, 2:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="240020">
+      <result code="1">1</result>
+      <band id="5271">Helmshore Prize Band</band>
+      <conductor id="297179">Richard Aspin</conductor>
+    </result>
+    
+    <result id="240021">
+      <result code="2">2</result>
+      <band id="1448">Glazebury</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240022">
+      <result code="3">3</result>
+      <band id="3568">Partington Steel and Iron Company</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="240023">
+      <result code="4">4</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,59 @@
+<contest-event id="23217">
+  <event-date date="1902-9-13">Sept. 13, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mapplewell Contest</name>
+  <contest id="2028">
+    <name>Mapplewell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mapplewell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="451">Gems from Sullivan&#39;s Operas No. 1</test-piece>
+  </test-piece>
+
+  <venue id="3879">Wentworth Arms Hotel, Mapplewell, South Yorkshire</venue>
+  <notes>5 bands competed
+
+Prizes: £10, £5, £3, £2
+
+March: 1. Brighouse (&quot;King&#39;s Cavalier&quot;), 2. Thornhill (&quot;B.B. &amp; C.F.&quot;)
+</notes>
+
+  <created>Aug. 21, 2013, 3:17 p.m.</created>
+  <last-modified>April 4, 2017, 10:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170727">
+      <result code="1">1</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+    <result id="170728">
+      <result code="2">2</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="170729">
+      <result code="3">3</result>
+      <band id="8365">Brighouse Borough</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="170730">
+      <result code="4">4</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="308150">J. Richardson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="24340">
+  <event-date date="1928-6-23">June 23, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stourbridge Contest</name>
+  <contest id="1428">
+    <name>Stourbridge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stourbridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3541">Stourbridge, West Midlands, England, UK</venue>
+  <notes> Prizes - 1st £10 and cup, 2nd £6, 3rd £4.
+ Promoted in conjunction with Corbett Hospital Carnival.
+ 5 bands competed.</notes>
+
+  <created>Oct. 5, 2013, 10:34 a.m.</created>
+  <last-modified>Oct. 24, 2017, 8:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="177658">
+      <result code="1">1</result>
+      <band id="236">Staffordshire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177659">
+      <result code="2">2</result>
+      <band id="10607">Stourbridge War Memorial Club</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177660">
+      <result code="3">3</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177661">
+      <result code="">Unknown Result</result>
+      <band id="4919">Bilston Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177662">
+      <result code="">Unknown Result</result>
+      <band id="1625">West Bromwich Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

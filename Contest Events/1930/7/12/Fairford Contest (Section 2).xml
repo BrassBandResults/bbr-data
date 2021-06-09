@@ -1,0 +1,73 @@
+<contest-event id="25720">
+  <event-date date="1930-7-12">July 12, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fairford Contest (Section 2)</name>
+  <contest id="3212">
+    <name>Fairford Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="398">Fairford Contest</group>
+    <slug>fairford-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2337">Sea Songs</test-piece>
+  </test-piece>
+
+  <venue id="1210">Fairford, Gloucestershire, England, UK</venue>
+  <notes>Prizes - 1st£12 and cup, 2nd £6, 3rd £3.
+7 bands competed</notes>
+
+  <created>Dec. 25, 2013, 5:29 p.m.</created>
+  <last-modified>Dec. 7, 2018, 12:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186176">
+      <result code="1">1</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="303212">R. O. Hodges</conductor>
+    </result>
+    
+    <result id="186177">
+      <result code="2">2</result>
+      <band id="10464">Cinderford Excelsior</band>
+      <conductor id="299468">Albert Clutterbuck</conductor>
+    </result>
+    
+    <result id="186178">
+      <result code="3">3</result>
+      <band id="5778">Paulton Silver</band>
+      <conductor id="304535">R. W. Kingman</conductor>
+    </result>
+    
+    <result id="186179">
+      <result code="4">4</result>
+      <band id="8933">Northampton Borough Band</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="301787">
+      <result code="">Unknown Result</result>
+      <band id="425">Abergavenny Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301788">
+      <result code="">Unknown Result</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="301789">
+      <result code="">Unknown Result</result>
+      <band id="9625">Wroughton Primitive Methodists</band>
+      <conductor id="308375">William Robinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

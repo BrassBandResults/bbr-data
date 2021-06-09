@@ -1,0 +1,67 @@
+<contest-event id="25144">
+  <event-date date="1937-5-17">May 17, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kerne Bridge Contest</name>
+  <contest id="2700">
+    <name>Kerne Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="482">Walford Contest</group>
+    <slug>kerne-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1073">The Call of Youth</test-piece>
+  </test-piece>
+
+  <venue id="4604">School Meadow, Walford, Herefordshire</venue>
+  <notes>Prizes - 1st £15 and cup, 2nd £5, 3rd £2.
+6 bands competed.</notes>
+
+  <created>Nov. 16, 2013, 11:16 a.m.</created>
+  <last-modified>Jan. 17, 2019, 11:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="183071">
+      <result code="1">1</result>
+      <band id="8138">Brynmawr</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="183072">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="183073">
+      <result code="3">3</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="187126">
+      <result code="">Unknown Result</result>
+      <band id="783">Cwmbran Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187125">
+      <result code="">Unknown Result</result>
+      <band id="793">Cwm Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187124">
+      <result code="">Unknown Result</result>
+      <band id="8974">Elliott&#39;s Metal Co</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

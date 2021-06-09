@@ -1,0 +1,85 @@
+<contest-event id="24575">
+  <event-date date="1923-8-25">Aug. 25, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Backworth Contest</name>
+  <contest id="1017">
+    <name>Backworth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>backworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3556">Silver Lining</test-piece>
+  </test-piece>
+
+  <venue id="1942">Backworth, Tyne and Wear, England, UK</venue>
+  <notes>  March contest - 1st Heworth Colliery, 2nd Coxlodge.
+9 bands competed.</notes>
+
+  <created>Oct. 19, 2013, 8:54 a.m.</created>
+  <last-modified>Feb. 15, 2016, 3:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="179761">
+      <result code="1">1</result>
+      <band id="2722">Coxlodge Institute Band</band>
+      <conductor id="308246">G. J. C. Ritchie</conductor>
+    </result>
+    
+    <result id="179762">
+      <result code="2">2</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="302043">Albert Grant</conductor>
+    </result>
+    
+    <result id="179763">
+      <result code="3">3</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="310397">Ernest Thorpe</conductor>
+    </result>
+    
+    <result id="179764">
+      <result code="4">4</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="179765">
+      <result code="">Unknown Result</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="301111">J. Farrand</conductor>
+    </result>
+    
+    <result id="179766">
+      <result code="">Unknown Result</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="298199">J. B. Bootland</conductor>
+    </result>
+    
+    <result id="179767">
+      <result code="">Unknown Result</result>
+      <band id="8195">Eldon Colliery</band>
+      <conductor id="312144">T. Young</conductor>
+    </result>
+    
+    <result id="179768">
+      <result code="">Unknown Result</result>
+      <band id="1723">Wallsend Shipyard</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="179769">
+      <result code="">Unknown Result</result>
+      <band id="5818">Wallsend Borough Band</band>
+      <conductor id="311013">Charles Ward</conductor>
+    </result>
+    
+  </results>
+</contest-event>

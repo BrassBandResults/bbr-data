@@ -1,0 +1,84 @@
+<contest-event id="3759">
+  <event-date date="1945-9-29">Sept. 29, 1945<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Championship Section)</name>
+  <contest id="37">
+    <name>Scottish Championship (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="747">The Valkyrie</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes>9 bands played.</notes>
+
+  <created>Feb. 6, 2011, 7:12 p.m.</created>
+  <last-modified>June 7, 2018, 10:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="66256">
+      <result code="1">1</result>
+      <band id="1270">Newmains</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="66257">
+      <result code="2">2</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="307763">Thomas Proctor</conductor>
+    </result>
+    
+    <result id="66258">
+      <result code="3">3</result>
+      <band id="1728">Barry, Ostlere &amp; Shepherd</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="66259">
+      <result code="4">4</result>
+      <band id="1697">Parkhead Forge (Glasgow)</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="289334">
+      <result code="5">5</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="302391">John Haldane</conductor>
+    </result>
+    
+    <result id="289333">
+      <result code="6">6</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289330">
+      <result code="">Unknown Result</result>
+      <band id="430">Bathgate Band</band>
+      <conductor id="308205">J. Riley</conductor>
+    </result>
+    
+    <result id="289331">
+      <result code="">Unknown Result</result>
+      <band id="1985">Bonnybridge &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289332">
+      <result code="">Unknown Result</result>
+      <band id="1727">Govan Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,78 @@
+<contest-event id="34082">
+  <event-date date="1936-8-15">Aug. 15, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Orpington Contest (Third Section)</name>
+  <contest id="5619">
+    <name>Orpington Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="549">Orpington Contest</group>
+    <slug>orpington-contest-third-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4372">Oldfield, High Street, Orpington, Kent</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Feb. 17, 2016, 3:34 p.m.</created>
+  <last-modified>Jan. 14, 2019, 4:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="246315">
+      <result code="1">1</result>
+      <band id="7749">Shepherd&#39;s Bush</band>
+      <conductor id="310647">George Turner</conductor>
+    </result>
+    
+    <result id="246316">
+      <result code="2">2</result>
+      <band id="4332">Aveley Band</band>
+      <conductor id="299882">A. V. Creasey</conductor>
+    </result>
+    
+    <result id="246317">
+      <result code="3">3</result>
+      <band id="5171">Haggerston</band>
+      <conductor id="299195">A. E. Chandler</conductor>
+    </result>
+    
+    <result id="246318">
+      <result code="4">4</result>
+      <band id="2819">Romford</band>
+      <conductor id="296887">Edward Allder</conductor>
+    </result>
+    
+    <result id="246322">
+      <result code="">Unknown Result</result>
+      <band id="5170">Glynn Vivian Miners Mission (Aylesham)</band>
+      <conductor id="299076">R. Carter</conductor>
+    </result>
+    
+    <result id="246321">
+      <result code="">Unknown Result</result>
+      <band id="4657">Hoo Silver</band>
+      <conductor id="300882">R. Ellison</conductor>
+    </result>
+    
+    <result id="246319">
+      <result code="">Unknown Result</result>
+      <band id="11582">Orpington Band</band>
+      <conductor id="299198">John Chantler</conductor>
+    </result>
+    
+    <result id="246320">
+      <result code="">Unknown Result</result>
+      <band id="8602">Sheppey Boys</band>
+      <conductor id="300007">J. Curry</conductor>
+    </result>
+    
+  </results>
+</contest-event>

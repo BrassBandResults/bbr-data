@@ -1,0 +1,80 @@
+<contest-event id="5943">
+  <event-date date="1949-4-23">April 23, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Eastern Area (Championship Section)</name>
+  <contest id="9">
+    <name>Yorkshire Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="606">Morning Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="713">Huddersfield Town Hall, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes>Prize Money: 1st £60, 2nd £40, 3rd £20.
+
+Eric Ball was barred from conducting B&amp;R since he was the composer of the set piece.</notes>
+
+  <created>May 12, 2011, 10:07 a.m.</created>
+  <last-modified>March 20, 2016, 10:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="51964">
+      <result code="1">1</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="311899">Milnes Wood</conductor>
+    </result>
+    
+    <result id="74855">
+      <result code="2">2</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="311432">Alfred Whitehead</conductor>
+    </result>
+    
+    <result id="74856">
+      <result code="3">3</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="303042">James Hickman</conductor>
+    </result>
+    
+    <result id="74857">
+      <result code="4">4</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="137197">
+      <result code="5">5</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310485">Harry Tomkins</conductor>
+    </result>
+    
+    <result id="190543">
+      <result code="6">6</result>
+      <band id="1685">Sheffield Transport Department</band>
+      <conductor id="311662">Ralph Williams</conductor>
+    </result>
+    
+    <result id="190544">
+      <result code="7">7</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="298123">Jack Boddice</conductor>
+    </result>
+    
+    <result id="190545">
+      <result code="7">7</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

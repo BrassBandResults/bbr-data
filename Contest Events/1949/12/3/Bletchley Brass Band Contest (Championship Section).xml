@@ -1,0 +1,54 @@
+<contest-event id="18231">
+  <event-date date="1949-12-3">Dec. 3, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bletchley Brass Band Contest (Championship Section)</name>
+  <contest id="767">
+    <name>Bletchley Brass Band Contest (Championship Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="107">Bletchley Brass Band Contest</group>
+    <slug>bletchley-brass-band-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="662">Egmont [arr. Ball]</test-piece>
+  </test-piece>
+
+  <venue id="453">Wilton Hall, Bletchley, Buckinghamshire, England, UK</venue>
+  <notes>8 bands competed</notes>
+
+  <created>Feb. 14, 2013, 12:38 p.m.</created>
+  <last-modified>Nov. 5, 2013, 4:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="137430">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="310329">George Thompson</conductor>
+    </result>
+    
+    <result id="137431">
+      <result code="2">2</result>
+      <band id="2133">Ercol</band>
+      <conductor id="306654">S. Nesbitt</conductor>
+    </result>
+    
+    <result id="137432">
+      <result code="3">3</result>
+      <band id="2001">Richmond Band</band>
+      <conductor id="303548">E. Huckridge</conductor>
+    </result>
+    
+    <result id="137433">
+      <result code="4">4</result>
+      <band id="5924">Kent&#39;s Works (Luton)</band>
+      <conductor id="299936">George Crossland</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,69 @@
+<contest-event id="26940">
+  <event-date date="1924-8-16">Aug. 16, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birdwell Contest</name>
+  <contest id="5176">
+    <name>Birdwell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>birdwell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2782">William Tell [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4586">Birdwell, South Yorkshire</venue>
+  <notes>Promoted by Birdwell Subscription Band
+Prizes - 1st £14, 2nd £8, 3rd £5.
+March: 1. Hinchliffe, 2. Hickleton
+6 bands competed.</notes>
+
+  <created>April 5, 2014, 10:01 p.m.</created>
+  <last-modified>Oct. 30, 2018, 9:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="194652">
+      <result code="1">1</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="194653">
+      <result code="2">2</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">Thomas Hunter</conductor>
+    </result>
+    
+    <result id="194654">
+      <result code="3">3</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="298052">
+      <result code="4">4</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="298054">
+      <result code="">Unknown Result</result>
+      <band id="4421">Sheffield Corporation Health Dept</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298053">
+      <result code="">Unknown Result</result>
+      <band id="3267">Stocksbridge Old Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

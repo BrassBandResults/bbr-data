@@ -1,0 +1,88 @@
+<contest-event id="17503">
+  <event-date date="1886-8-28">Aug. 28, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dunfermline Contest</name>
+  <contest id="1891">
+    <name>Dunfermline Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dunfermline-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2903">Lady&#39;s Mill Park, Dunfermline</venue>
+  <notes>West of Fife Horticultural Show.
+Brass Band News October 1886 states that Townhill played without a conductor.
+Prizes: £25, £15, £10, £5.
+7 bands competed.</notes>
+
+  <created>Jan. 21, 2013, 2:12 p.m.</created>
+  <last-modified>Aug. 31, 2016, 8:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="133046">
+      <result code="1">1</result>
+      <band id="1985">Bonnybridge &amp; District</band>
+      <conductor id="303994">James Jenkins</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="133047">
+      <result code="2">2</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="303994">James Jenkins</conductor>
+      <test-piece id="6379">Reminiscences of Weber [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="133048">
+      <result code="3">3</result>
+      <band id="11159">Alva Volunteers</band>
+      <conductor id="303994">James Jenkins</conductor>
+      <test-piece id="5379">Reminiscences of Rossini</test-piece>
+    </result>
+    
+    <result id="133049">
+      <result code="4">4</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2780">Moses in Egypt [arr. Round]</test-piece>
+    </result>
+    
+    <result id="133050">
+      <result code="">Unknown Result</result>
+      <band id="1984">Coatbridge Burgh</band>
+      <conductor id="299521">William H. Cole</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="133053">
+      <result code="">Unknown Result</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1560">La Sonnambula [arr. Round]</test-piece>
+    </result>
+    
+    <result id="133052">
+      <result code="">Unknown Result</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="303994">James Jenkins</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="133051">
+      <result code="W">Withdrawn</result>
+      <band id="7411">Tillicoultry</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

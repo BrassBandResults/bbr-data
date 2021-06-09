@@ -1,0 +1,55 @@
+<contest-event id="3972">
+  <event-date date="1946-3-16">March 16, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Second Section)</name>
+  <contest id="23">
+    <name>North West Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="600">Eine Kleine Nachtmusik</test-piece>
+  </test-piece>
+
+  <venue id="518">Belle Vue (Pagoda Hall), Manchester, Greater Manchester, England, UK</venue>
+  <notes>Prizes  1st £30 and Daily Herald Silver Challenge Cup, 2nd £20, 3rd £15, 4th £10.
+10 bands competed.</notes>
+
+  <created>Feb. 8, 2011, 11:32 a.m.</created>
+  <last-modified>Feb. 7, 2019, 12:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="35170">
+      <result code="1">1</result>
+      <band id="1525">Wigan &amp; District</band>
+      <conductor id="301134">Ted Farrington</conductor>
+    </result>
+    
+    <result id="128910">
+      <result code="2">2</result>
+      <band id="2757">Milnrow Public Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="128911">
+      <result code="3">3</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="302845">Arthur Hazelhurst</conductor>
+    </result>
+    
+    <result id="128912">
+      <result code="4">4</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="301075">James Fairhurst</conductor>
+    </result>
+    
+  </results>
+</contest-event>

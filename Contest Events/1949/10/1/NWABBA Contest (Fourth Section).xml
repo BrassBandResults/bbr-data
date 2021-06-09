@@ -1,0 +1,50 @@
+<contest-event id="16743">
+  <event-date date="1949-10-1">Oct. 1, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NWABBA Contest (Fourth Section)</name>
+  <contest id="861">
+    <name>NWABBA Contest (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="142">NWABBA Contest</group>
+    <slug>nwabba-contest-fourth-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="422">Pride of the Forest</test-piece>
+  </test-piece>
+
+  <venue id="617">Parr Hall, Warrington, Cheshire, England, UK</venue>
+  <notes>March contest - 1st Brindle, 2nd Calder Vale.
+Hymn tune contest - 1st Calder Vale, 2nd Brindle.
+  5 bands competed.</notes>
+
+  <created>Dec. 4, 2012, 11:08 a.m.</created>
+  <last-modified>March 1, 2019, 3:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="128275">
+      <result code="1">1</result>
+      <band id="394">Brindle Band</band>
+      <conductor id="306456">Harold Moss</conductor>
+    </result>
+    
+    <result id="128276">
+      <result code="2">2</result>
+      <band id="3249">Bolton Public</band>
+      <conductor id="306538">Alex Murray</conductor>
+    </result>
+    
+    <result id="128277">
+      <result code="3">3</result>
+      <band id="2791">Calder Vale Subscription</band>
+      <conductor id="298632">Arthur Brownbill</conductor>
+    </result>
+    
+  </results>
+</contest-event>

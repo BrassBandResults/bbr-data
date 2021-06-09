@@ -1,0 +1,48 @@
+<contest-event id="25190">
+  <event-date date="1938-4-18">April 18, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Great Bentley Contest (Class B)</name>
+  <contest id="4906">
+    <name>Great Bentley Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>great-bentley-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4246">Great Bentley, Essex</venue>
+  <notes>  March contest - 1st Braintree, 2nd Boxted.</notes>
+
+  <created>Nov. 18, 2013, 10:31 p.m.</created>
+  <last-modified>Nov. 18, 2013, 10:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="183484">
+      <result code="1">1</result>
+      <band id="10074">Braintree Town</band>
+      <conductor id="301211">W. M. Few</conductor>
+    </result>
+    
+    <result id="183482">
+      <result code="2">2</result>
+      <band id="1344">Boxted Methodist Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183483">
+      <result code="3">3</result>
+      <band id="11664">West Mersea British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

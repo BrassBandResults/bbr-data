@@ -1,0 +1,57 @@
+<contest-event id="24029">
+  <event-date date="1927-5-7">May 7, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caernarfon March Contest</name>
+  <contest id="4672">
+    <name>Caernarfon March Contest</name>
+    <order>0</order>
+    <contest-type id="16">March &amp; Hymn Contest (Separate Points)</contest-type>
+    <group id=""></group>
+    <slug>caernarfon-march-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1149">Caernarfon, Gwynedd, Wales, UK</venue>
+  <notes>Prizes - 1st £2, 2nd £1.
+  Hymn tune contest - 1st(£2) - Llandudno Town.
+  6 bands competed.
+</notes>
+
+  <created>Sept. 24, 2013, 8:25 a.m.</created>
+  <last-modified>March 10, 2021, 10:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175577">
+      <result code="1">1</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="175578">
+      <result code="2">2</result>
+      <band id="2700">Llanberis Silver</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="325050">
+      <result code="">Unknown Result</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="310548">Francis Lucio Traversi</conductor>
+    </result>
+    
+    <result id="325051">
+      <result code="">Unknown Result</result>
+      <band id="453">Llanrug Band</band>
+      <conductor id="307163">T. Parry</conductor>
+    </result>
+    
+  </results>
+</contest-event>

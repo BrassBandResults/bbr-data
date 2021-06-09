@@ -1,0 +1,69 @@
+<contest-event id="39669">
+  <event-date date="1911-4-17">April 17, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wilton Contest</name>
+  <contest id="2139">
+    <name>Wilton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wilton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3458">Land of the Shamrock</test-piece>
+  </test-piece>
+
+  <venue id="1556">Wilton, Wiltshire, England, UK</venue>
+  <notes>March contest - 1st South of England Temperance, 2nd Broadchalk.
+Best euphonium - Broadchalk.
+Best cornet and trombone - South of England Temperance.
+6 bands competed.</notes>
+
+  <created>May 22, 2018, 3:30 p.m.</created>
+  <last-modified>May 23, 2018, 7:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287600">
+      <result code="1">1</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="302136">J. Green</conductor>
+    </result>
+    
+    <result id="287599">
+      <result code="2">2</result>
+      <band id="6802">Broad Chalke</band>
+      <conductor id="302322">F. Gurd</conductor>
+    </result>
+    
+    <result id="287597">
+      <result code="3">3</result>
+      <band id="6808">Fovant</band>
+      <conductor id="312076">S. J. Wyatt</conductor>
+    </result>
+    
+    <result id="287602">
+      <result code="4">4</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="309879">W. Stretch</conductor>
+    </result>
+    
+    <result id="287598">
+      <result code="">Unknown Result</result>
+      <band id="9861">Bourton [Dorset]</band>
+      <conductor id="317974">W. Hosmer</conductor>
+    </result>
+    
+    <result id="287601">
+      <result code="">Unknown Result</result>
+      <band id="6807">Odstock</band>
+      <conductor id="317975">E. Blake</conductor>
+    </result>
+    
+  </results>
+</contest-event>

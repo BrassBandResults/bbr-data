@@ -1,0 +1,50 @@
+<contest-event id="22223">
+  <event-date date="1914-1-1">Jan. 1, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest</name>
+  <contest id="1076">
+    <name>Colwyn Bay Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2802">Songs of Sentiment</test-piece>
+  </test-piece>
+
+  <venue id="1251">Colwyn Bay, Conwy, Wales, UK</venue>
+  <notes>  March contest - 1st Royal Oakley.
+Prizes - 1st £10, 2nd £4, 3rd £2.
+  3 bands competed.</notes>
+
+  <created>July 13, 2013, 10:36 a.m.</created>
+  <last-modified>Oct. 1, 2018, 3:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="165123">
+      <result code="1">1</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="165124">
+      <result code="2">2</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="165125">
+      <result code="3">3</result>
+      <band id="668">Audley Brass</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

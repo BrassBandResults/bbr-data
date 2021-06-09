@@ -1,0 +1,56 @@
+<contest-event id="17787">
+  <event-date date="1889-9-7">Sept. 7, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Willington Contest</name>
+  <contest id="2531">
+    <name>Willington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>willington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1741">Great Britain</test-piece>
+  </test-piece>
+
+  <venue id="1885">Willington, County Durham</venue>
+  <notes>Willington Flower Show
+
+Quickstep: 1. Whitworth</notes>
+
+  <created>Jan. 31, 2013, 11:21 a.m.</created>
+  <last-modified>Jan. 31, 2013, 11:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="134683">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134684">
+      <result code="1">1</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134685">
+      <result code="3">3</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134686">
+      <result code="4">4</result>
+      <band id="6068">Wooley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

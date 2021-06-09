@@ -1,0 +1,60 @@
+<contest-event id="41143">
+  <event-date date="1925-6-1">June 1, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackhall Contest</name>
+  <contest id="4638">
+    <name>Blackhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blackhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="3039">Crimden Dene, Blackhall, County Durham</venue>
+  <notes>9 bands competed.</notes>
+
+  <created>Nov. 5, 2018, 5:26 p.m.</created>
+  <last-modified>Nov. 5, 2018, 5:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298827">
+      <result code="1">1</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="298828">
+      <result code="2">2</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="303853">Harry Jackson</conductor>
+    </result>
+    
+    <result id="298829">
+      <result code="3">3</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298830">
+      <result code="4">4</result>
+      <band id="8408">Usworth Colliery</band>
+      <conductor id="310397">Ernest Thorpe</conductor>
+    </result>
+    
+    <result id="298949">
+      <result code="">Unknown Result</result>
+      <band id="11618">Coxhoe Silver</band>
+      <conductor id="304230">J.O. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

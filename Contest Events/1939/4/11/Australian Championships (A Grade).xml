@@ -1,0 +1,68 @@
+<contest-event id="33959">
+  <event-date date="1939-4-11">April 11, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6064">Bundaberg, Queensland, Australia</venue>
+  <notes>Two Set Pieces:
+No.1 Eroica Symphony
+No.2 Royal Water Music
+
+No.2 Test points listed under Own Choice
+
+Other Disciplines
+Hymn  (Own Choice)
+Oval Match Test Music &quot;The Red Gauntlet March&quot;</notes>
+
+  <created>Feb. 7, 2016, 2:34 a.m.</created>
+  <last-modified>May 24, 2021, 1:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="244908">
+      <result code="1">1</result>
+      <band id="1319">Bundaberg Municipal Band</band>
+      <conductor id="304416">James Kelly</conductor>
+    </result>
+    
+    <result id="244909">
+      <result code="2">2</result>
+      <band id="13774">Cairns Citizens</band>
+      <conductor id="299574">Jim Compton</conductor>
+    </result>
+    
+    <result id="244910">
+      <result code="3">3</result>
+      <band id="12940">Brisbane City Waterside Workers</band>
+      <conductor id="307374">Harold Perkins</conductor>
+    </result>
+    
+    <result id="244911">
+      <result code="4">4</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="307246">Alf Paxton</conductor>
+    </result>
+    
+    <result id="244912">
+      <result code="5">5</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="300200">Bill Davis</conductor>
+    </result>
+    
+  </results>
+</contest-event>

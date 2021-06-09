@@ -1,0 +1,87 @@
+<contest-event id="11852">
+  <event-date date="1893-7-22">July 22, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kilnhurst Contest</name>
+  <contest id="2387">
+    <name>Kilnhurst Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kilnhurst-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1986">El Dorado</test-piece>
+  </test-piece>
+
+  <venue id="1741">Kilnhurst</venue>
+  <notes>Promoted by Kilnhurst Alliance Brass Band
+
+March contest: 1.  Rotherham Old Borough, 2. Rotherham Borough Temperance
+Prizes: £10, £6, £3, £1.</notes>
+
+  <created>April 7, 2012, 8:45 p.m.</created>
+  <last-modified>June 5, 2019, 10:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95823">
+      <result code="1">1</result>
+      <band id="6397">Barnsley Volunteers</band>
+      <conductor id="309885">J. Stringer</conductor>
+    </result>
+    
+    <result id="95824">
+      <result code="2">2</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="95825">
+      <result code="3">3</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="95826">
+      <result code="4">4</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davison</conductor>
+    </result>
+    
+    <result id="138893">
+      <result code="">Unknown Result</result>
+      <band id="8172">Gleadless Church</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="138894">
+      <result code="">Unknown Result</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="300245">John Dawson</conductor>
+    </result>
+    
+    <result id="95827">
+      <result code="">Unknown Result</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="298412">J. Brentnall</conductor>
+    </result>
+    
+    <result id="138895">
+      <result code="W">Withdrawn</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="138896">
+      <result code="W">Withdrawn</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

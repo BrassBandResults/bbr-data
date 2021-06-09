@@ -1,0 +1,102 @@
+<contest-event id="17208">
+  <event-date date="1882-8-5">Aug. 5, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bakewell Contest</name>
+  <contest id="3310">
+    <name>Bakewell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bakewell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1554">Rienzi [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2543">Bakewell, Derbyshire, England, UK</venue>
+  <notes>Bakewell Horticultural Show
+
+Prizes: £20, £12, £6, £2</notes>
+
+  <created>Dec. 20, 2012, 6:34 p.m.</created>
+  <last-modified>Aug. 12, 2019, 6:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130585">
+      <result code="1">1</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2295">Weber Fantasia [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="130586">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1226">Operatic Selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="130587">
+      <result code="3">3</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1226">Operatic Selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="130588">
+      <result code="4">4</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2824">William Tell [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="130590">
+      <result code="">Unknown Result</result>
+      <band id="6179">Chisworth and Charlesworth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130589">
+      <result code="">Unknown Result</result>
+      <band id="6135">Rochdale Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130582">
+      <result code="W">Withdrawn</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130583">
+      <result code="W">Withdrawn</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130580">
+      <result code="W">Withdrawn</result>
+      <band id="4905">Nottingham Saxe Tuba</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130581">
+      <result code="W">Withdrawn</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130584">
+      <result code="W">Withdrawn</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

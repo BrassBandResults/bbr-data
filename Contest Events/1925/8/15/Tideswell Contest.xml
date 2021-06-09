@@ -1,0 +1,74 @@
+<contest-event id="41165">
+  <event-date date="1925-8-15">Aug. 15, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tideswell Contest</name>
+  <contest id="2676">
+    <name>Tideswell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tideswell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4463">Alleys Field, Tideswell, Derbyshire, England, UK</venue>
+  <notes>Prizes - 1st £16 and cup, 2nd £10, 3rd £5.
+March contest - 1st Dove Holes, 2nd Peak Dale.
+7 bands competed.</notes>
+
+  <created>Nov. 6, 2018, 12:50 p.m.</created>
+  <last-modified>Nov. 6, 2018, 12:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299001">
+      <result code="1">1</result>
+      <band id="3605">Hasland</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="299002">
+      <result code="2">2</result>
+      <band id="1655">Dove Holes Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="299003">
+      <result code="3">3</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="299660">Charles Cooper</conductor>
+    </result>
+    
+    <result id="299004">
+      <result code="4">4</result>
+      <band id="2558">Peak Dale Public</band>
+      <conductor id="302436">Percy Hallam</conductor>
+    </result>
+    
+    <result id="299005">
+      <result code="">Unknown Result</result>
+      <band id="10603">Chesterfield Old Comrades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299006">
+      <result code="">Unknown Result</result>
+      <band id="4641">Harpur Hill Buxton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299007">
+      <result code="">Unknown Result</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

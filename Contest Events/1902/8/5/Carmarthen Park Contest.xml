@@ -1,0 +1,48 @@
+<contest-event id="40094">
+  <event-date date="1902-8-5">Aug. 5, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carmarthen Park Contest</name>
+  <contest id="2510">
+    <name>Carmarthen Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>carmarthen-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5604">A Garland of Song</test-piece>
+  </test-piece>
+
+  <venue id="1487">Carmarthen, Carmarthenshire, Wales, UK</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>July 10, 2018, 2:47 p.m.</created>
+  <last-modified>July 10, 2018, 2:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291480">
+      <result code="1">1</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="291481">
+      <result code="2">2</result>
+      <band id="6966">Protheroe&#39;s Silver</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="291479">
+      <result code="3">3</result>
+      <band id="7322">Loughor Silver</band>
+      <conductor id="300319">Sam Bleddyn Dennis</conductor>
+    </result>
+    
+  </results>
+</contest-event>

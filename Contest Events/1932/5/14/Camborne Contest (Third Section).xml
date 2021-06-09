@@ -1,0 +1,54 @@
+<contest-event id="6077">
+  <event-date date="1932-5-14">May 14, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Camborne Contest (Third Section)</name>
+  <contest id="1009">
+    <name>Camborne Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="159">Camborne Contest</group>
+    <slug>camborne-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1549">March: Death or Glory</test-piece>
+  </test-piece>
+
+  <venue id="578">Camborne, Cornwall</venue>
+  <notes>4 bands competed</notes>
+
+  <created>May 21, 2011, 3:33 p.m.</created>
+  <last-modified>Dec. 20, 2018, 6:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="53521">
+      <result code="1">1</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="311612">Edwin J. Williams Snr</conductor>
+    </result>
+    
+    <result id="53522">
+      <result code="2">2</result>
+      <band id="4497">St. Erth</band>
+      <conductor id="310596">Norman Trudgeon</conductor>
+    </result>
+    
+    <result id="53523">
+      <result code="3">3</result>
+      <band id="4011">Gweek Silver Band</band>
+      <conductor id="308088">S. Reynolds</conductor>
+    </result>
+    
+    <result id="53524">
+      <result code="">Unknown Result</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="303541">Tom Hubbard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,73 @@
+<contest-event id="17300">
+  <event-date date="1946-9-14">Sept. 14, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Walthamstow Contest (Section 3)</name>
+  <contest id="3736">
+    <name>Walthamstow Contest (Section 3)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="550">Walthamstow Contest</group>
+    <slug>walthamstow-contest-section-3</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="651">A Souvenir of Shakespeare</test-piece>
+  </test-piece>
+
+  <venue id="612">Lloyd Park, Walthamstow, Waltham Forest, Greater London, England, UK</venue>
+  <notes>Prizes: £2 10s, £1 15s, £1 5s
+6 bands competed</notes>
+
+  <created>Dec. 24, 2012, 11:34 a.m.</created>
+  <last-modified>Feb. 11, 2019, 11:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="131210">
+      <result code="1">1</result>
+      <band id="4657">Hoo Silver</band>
+      <conductor id="311261">A. Weller</conductor>
+    </result>
+    
+    <result id="131211">
+      <result code="2">2</result>
+      <band id="2001">Richmond Band</band>
+      <conductor id="303548">E. Huckridge</conductor>
+    </result>
+    
+    <result id="131212">
+      <result code="3">3</result>
+      <band id="4332">Aveley Band</band>
+      <conductor id="306718">L. R. J. Nicholls</conductor>
+    </result>
+    
+    <result id="131213">
+      <result code="4">4</result>
+      <band id="3348">Rainham Working Men&#39;s Club</band>
+      <conductor id="305733">E. Matson</conductor>
+    </result>
+    
+    <result id="221559">
+      <result code="">Unknown Result</result>
+      <band id="5924">Kent&#39;s Works (Luton)</band>
+      <conductor id="299936">George Crossland</conductor>
+    </result>
+    
+    <result id="221560">
+      <result code="">Unknown Result</result>
+      <band id="4405">Newham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="221561">
+      <result code="W">Withdrawn</result>
+      <band id="6495">Bermondsey Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

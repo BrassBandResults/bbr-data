@@ -1,0 +1,50 @@
+<contest-event id="36687">
+  <event-date date="1927-6-18">June 18, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hardraw Scar</name>
+  <contest id="537">
+    <name>Hardraw Scar</name>
+    <order>0</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="39">Hardraw Scar</group>
+    <slug>hardraw-scar</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="27">Green Dragon Inn, Hardraw, North Yorkshire</venue>
+  <notes>Prizes - 1st £40 and cup, 2nd £30, 3rd £15, 4th £5.
+March contest - 1st Horden, 2nd Colne.
+3 bands competed.</notes>
+
+  <created>Dec. 15, 2016, 11:02 a.m.</created>
+  <last-modified>Nov. 19, 2018, 1:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="265709">
+      <result code="1">1</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="265710">
+      <result code="2">2</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="265711">
+      <result code="3">3</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="307568">William Pollard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

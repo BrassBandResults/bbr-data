@@ -1,0 +1,55 @@
+<contest-event id="25825">
+  <event-date date="1931-7-27">July 27, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Helston Contest (Second Section)</name>
+  <contest id="4996">
+    <name>Helston Contest (Second Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="483">Helston Contest</group>
+    <slug>helston-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2869">La Favorita</test-piece>
+  </test-piece>
+
+  <venue id="1807">Helston, Cornwall</venue>
+  <notes>March: 1. Falmouth, 2. Truro, 3. Penzance, 4. Porthleven.
+Prizes - 1st £14 and cup, 2nd £8, 3rd £5, 4th £3.</notes>
+
+  <created>Jan. 12, 2014, 9:55 p.m.</created>
+  <last-modified>Dec. 19, 2018, 11:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187228">
+      <result code="1">1</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187227">
+      <result code="2">2</result>
+      <band id="4496">Truro City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187226">
+      <result code="3">3</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187229">
+      <result code="4">4</result>
+      <band id="563">Porthleven Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

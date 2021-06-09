@@ -1,0 +1,61 @@
+<contest-event id="15906">
+  <event-date date="1909-8-21">Aug. 21, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morley Contest</name>
+  <contest id="1364">
+    <name>Morley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>morley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2374">Faust [Berlioz arr. Owen]</test-piece>
+  </test-piece>
+
+  <venue id="4791">Dartmouth Park, Morley, West Yorkshire</venue>
+  <notes>March contest  1st Armley and Wortley,  2nd Gawthorpe VCictoria.
+5 bands competed.</notes>
+
+  <created>Nov. 7, 2012, 12:12 p.m.</created>
+  <last-modified>Oct. 20, 2020, 6:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122559">
+      <result code="1">1</result>
+      <band id="3178">Birstall Old</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="122560">
+      <result code="2">2</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="122561">
+      <result code="3">3</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="122562">
+      <result code="4">4</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="122563">
+      <result code="5">5</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,70 @@
+<contest-event id="14233">
+  <event-date date="1912-7-19">July 19, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tynemouth Contest</name>
+  <contest id="2043">
+    <name>Tynemouth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tynemouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="7">March &amp; Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  
+  <notes>Selection (test piece Apollo) plus own choice march.
+
+March contest results:
+
+- 1st Harton Colliery (J Oliver, &quot;Conquerer&quot;, £1 10s)
+- 2nd South Shields Temperance (J W Taylor, &quot;BB and CF&quot;)
+
+Mr Bower&#39;s adjudication of Harton Colliery&#39;s performance of Conquerer:
+
+&quot;Splendid start; grand to listen to; Sop a little sharp on top notes; Sop again a little faulty; a grand brisk style; basses quite a feature and accompaniments very neat.  Trio:  Melody a little out of tune; you are too anxious; cornet entry good; perhaps the wind is interfering; it is rather boisterous [nb I think Mr Bower was actually referring to the wind with this comment - it is noted elsewhere that the conditions on the day were &quot;boisterous&quot;]; everthing good; p&#39;s and f&#39;s well observed; tone of band good.  Second time through much better and Sop improves; everything just now is grand; bass solo excellent.  A really splendid performance to a march you are equal to.&quot;
+</notes>
+
+  <created>July 25, 2012, 2:17 p.m.</created>
+  <last-modified>July 29, 2012, 12:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="113700">
+      <result code="1">1</result>
+      <band id="1716">Marsden Colliery</band>
+      <conductor id="310159">J. W. Taylor</conductor>
+    </result>
+    
+    <result id="113701">
+      <result code="2">2</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="303519">S. F. Howells</conductor>
+    </result>
+    
+    <result id="113702">
+      <result code="3">3</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="113703">
+      <result code="4">4</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="113704">
+      <result code="5">5</result>
+      <band id="8984">Amble and Radcliffe Colliery</band>
+      <conductor id="317969">Chris Johnson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

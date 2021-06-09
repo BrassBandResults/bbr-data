@@ -1,0 +1,58 @@
+<contest-event id="26495">
+  <event-date date="1950-7-8">July 8, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northallerton Contest (Open Section)</name>
+  <contest id="3900">
+    <name>Northallerton Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northallerton-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2429">Northallerton, North Yorkshire</venue>
+  <notes>Hymn tune contest - 1st Blackhall, 2nd Crookhall, 3rd Thornley.
+Best cornet C.Sayers, best horn G.Dawson, best euphonium J.Marsh, best trombone A.Bird (not known which bands they played for.
+Prizes - 1st £20 and bowl, 2nd £10, 3rd £5.
+7 bands competed.
+</notes>
+
+  <created>Feb. 21, 2014, 12:52 p.m.</created>
+  <last-modified>Oct. 7, 2019, 11:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="192008">
+      <result code="1">1</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192009">
+      <result code="2">2</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192010">
+      <result code="3">3</result>
+      <band id="4772">Shildon British Railways</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="192011">
+      <result code="">Unknown Result</result>
+      <band id="1628">Blackhall Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

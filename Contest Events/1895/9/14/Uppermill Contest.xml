@@ -1,0 +1,57 @@
+<contest-event id="12723">
+  <event-date date="1895-9-14">Sept. 14, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Uppermill Contest</name>
+  <contest id="2461">
+    <name>Uppermill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>uppermill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2388">Torquato Tasso [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1310">Uppermill, Greater Manchester, England, UK</venue>
+  <notes>Raising funds for the Saddleworth Public Baths Fund
+Prizes: £15, £7, £4, £2
+March contest: 1. Mossley, 2. Goodshaw
+2nd annual contest.</notes>
+
+  <created>April 19, 2012, 9:50 p.m.</created>
+  <last-modified>April 3, 2016, 3:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101275">
+      <result code="1">1</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="101276">
+      <result code="2">2</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="101277">
+      <result code="3">3</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310580">Harry Trickett</conductor>
+    </result>
+    
+    <result id="101278">
+      <result code="4">4</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+  </results>
+</contest-event>

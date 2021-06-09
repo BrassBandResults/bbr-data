@@ -1,0 +1,48 @@
+<contest-event id="24488">
+  <event-date date="1919-9-6">Sept. 6, 1919<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bolehall Contest</name>
+  <contest id="4756">
+    <name>Bolehall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bolehall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2555">Zampa [arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="4127">Bolehall House, Bolehall</venue>
+  <notes>March: 1. Audley</notes>
+
+  <created>Oct. 10, 2013, 8:38 p.m.</created>
+  <last-modified>Dec. 2, 2013, 9:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="178850">
+      <result code="1">1</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178851">
+      <result code="2">2</result>
+      <band id="668">Audley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178852">
+      <result code="3">3</result>
+      <band id="347">Amington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

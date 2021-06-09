@@ -1,0 +1,80 @@
+<contest-event id="33094">
+  <event-date date="1888-5-12">May 12, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Skelmersdale Contest</name>
+  <contest id="1208">
+    <name>Skelmersdale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="180">Skelmersdale Contest</group>
+    <slug>skelmersdale-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4097">Skelmersdale, Lancashire, England, UK</venue>
+  <notes>Prizes - 1st £6 and cornet, 2nd £3 and euphonium, 3rd £1 and tenor horn, 4th trombone.
+7 bands competed.</notes>
+
+  <created>Oct. 15, 2015, 12:08 p.m.</created>
+  <last-modified>April 28, 2019, 9:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="238506">
+      <result code="1">1</result>
+      <band id="2528">Southport Rifles Band</band>
+      <conductor id="308226">Thomas Rimmer</conductor>
+      <test-piece id="1518">Roach</test-piece>
+    </result>
+    
+    <result id="238507">
+      <result code="2">2</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="301750">Thomas German</conductor>
+      <test-piece id="3449">Cleopatra</test-piece>
+    </result>
+    
+    <result id="238508">
+      <result code="3">3</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="305510">John Makin</conductor>
+      <test-piece id="3449">Cleopatra</test-piece>
+    </result>
+    
+    <result id="238509">
+      <result code="4">4</result>
+      <band id="3656">St. James Gorton</band>
+      <conductor id="301750">Thomas German</conductor>
+      <test-piece id="5925">Village Festival</test-piece>
+    </result>
+    
+    <result id="281718">
+      <result code="">Unknown Result</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="308617">W. Rutter</conductor>
+      <test-piece id="5924">Snowflake</test-piece>
+    </result>
+    
+    <result id="281719">
+      <result code="">Unknown Result</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="307344">W. Pendlebury</conductor>
+      <test-piece id="5926">You Can&#39;t Resist</test-piece>
+    </result>
+    
+    <result id="281720">
+      <result code="">Unknown Result</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="301805">John Gilberthorpe</conductor>
+      <test-piece id="3449">Cleopatra</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

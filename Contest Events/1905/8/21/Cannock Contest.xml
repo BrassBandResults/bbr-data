@@ -1,0 +1,52 @@
+<contest-event id="10430">
+  <event-date date="1905-8-21">Aug. 21, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cannock Contest</name>
+  <contest id="1198">
+    <name>Cannock Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="213">Cannock Contest</group>
+    <slug>cannock-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1429">Cannock, Staffordshire</venue>
+  <notes>  1st prize £12 and cup.
+  2nd prize £8.
+  3rd prize £5.
+
+Bands had choice of test piece: &quot;Gems of Mendelssohn&quot; or &quot;La Cenerentola&quot;</notes>
+
+  <created>Feb. 18, 2012, 1:05 p.m.</created>
+  <last-modified>March 3, 2015, 11:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87667">
+      <result code="1">1</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="311791">William Wilson</conductor>
+    </result>
+    
+    <result id="87668">
+      <result code="2">2</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="87669">
+      <result code="3">3</result>
+      <band id="4417">Wednesbury Borough</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+  </results>
+</contest-event>

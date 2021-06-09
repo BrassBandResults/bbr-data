@@ -1,0 +1,79 @@
+<contest-event id="24728">
+  <event-date date="1936-7-25">July 25, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Banbury Contest (Section 1)</name>
+  <contest id="3255">
+    <name>Banbury Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="307">Banbury Contest</group>
+    <slug>banbury-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2500">Recollections of Bellini [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4005">Hospital Grounds, Banbury, Oxfordshire</venue>
+  <notes>8 bands competed
+6th annual contest</notes>
+
+  <created>Oct. 26, 2013, 11:35 a.m.</created>
+  <last-modified>Jan. 11, 2019, 1:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180727">
+      <result code="1">1</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308051">A. G. Remington</conductor>
+    </result>
+    
+    <result id="180723">
+      <result code="2">2</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="312144">T. Young</conductor>
+    </result>
+    
+    <result id="180724">
+      <result code="3">3</result>
+      <band id="10695">Luton Public</band>
+      <conductor id="299549">T. Collinson</conductor>
+    </result>
+    
+    <result id="180722">
+      <result code="">Unknown Result</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180728">
+      <result code="">Unknown Result</result>
+      <band id="468">Foresters Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180725">
+      <result code="">Unknown Result</result>
+      <band id="2604">Griff Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180721">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180726">
+      <result code="">Unknown Result</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,84 @@
+<contest-event id="40330">
+  <event-date date="1908-7-4">July 4, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belper Contest</name>
+  <contest id="1075">
+    <name>Belper Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>belper-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="455">The Lily of Killarney [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4388">River Gardens, Belper, Derbyshire, England, UK</venue>
+  <notes>9 bands competed.</notes>
+
+  <created>Sept. 23, 2018, 10:18 a.m.</created>
+  <last-modified>Sept. 23, 2018, 10:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293459">
+      <result code="1">1</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="293457">
+      <result code="2">2</result>
+      <band id="3605">Hasland</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="293455">
+      <result code="3">3</result>
+      <band id="4776">Derby Sax and Tuba</band>
+      <conductor id="305150">H. Little</conductor>
+    </result>
+    
+    <result id="293453">
+      <result code="">Unknown Result</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="293454">
+      <result code="">Unknown Result</result>
+      <band id="3861">Melbourne Town</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="293456">
+      <result code="">Unknown Result</result>
+      <band id="4891">Ripley United Silver Prize Band</band>
+      <conductor id="309297">J. W. Smedley</conductor>
+    </result>
+    
+    <result id="293458">
+      <result code="">Unknown Result</result>
+      <band id="6852">Alvaston and Boulton</band>
+      <conductor id="305150">H. Little</conductor>
+    </result>
+    
+    <result id="293460">
+      <result code="">Unknown Result</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="302841">James Haywood</conductor>
+    </result>
+    
+    <result id="293461">
+      <result code="">Unknown Result</result>
+      <band id="6887">Bentinck Colliery</band>
+      <conductor id="308931">Charles Sharley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

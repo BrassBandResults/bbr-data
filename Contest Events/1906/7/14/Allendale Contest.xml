@@ -1,0 +1,74 @@
+<contest-event id="10845">
+  <event-date date="1906-7-14">July 14, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Allendale Contest</name>
+  <contest id="1754">
+    <name>Allendale Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>allendale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1234">Allendale, Northumberland, England, UK</venue>
+  <notes>1st prize £8, 2nd prize £4, 3rd prize £2, 4th prize £1.
+March contest 1st (£1) Consett Iron Co. 2nd (10s.) South Pelaw.
+7 bands competed.</notes>
+
+  <created>March 7, 2012, 5:26 p.m.</created>
+  <last-modified>Sept. 14, 2018, 10:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90420">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="90421">
+      <result code="2">2</result>
+      <band id="4504">Birtley Town</band>
+      <conductor id="312138">James Young</conductor>
+    </result>
+    
+    <result id="90422">
+      <result code="3">3</result>
+      <band id="6650">South Pelaw</band>
+      <conductor id="308245">G. Ritchie</conductor>
+    </result>
+    
+    <result id="90423">
+      <result code="4">4</result>
+      <band id="6632">Browney Colliery</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="90426">
+      <result code="">Unknown Result</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90424">
+      <result code="">Unknown Result</result>
+      <band id="6693">Marley Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90425">
+      <result code="">Unknown Result</result>
+      <band id="6279">West Pelton Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

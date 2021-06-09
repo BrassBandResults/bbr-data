@@ -1,0 +1,54 @@
+<contest-event id="41824">
+  <event-date date="1948-5-15">May 15, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhos Contest (Class B)</name>
+  <contest id="3739">
+    <name>Rhos Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhos-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1093">Cosi Fan Tutte [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2854">Miners Institute, Rhosllanerchrugog, Wrexham, Wales, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Feb. 19, 2019, 1:49 p.m.</created>
+  <last-modified>Feb. 19, 2019, 1:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="304646">
+      <result code="1">1</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="305152">Reg Little</conductor>
+    </result>
+    
+    <result id="304647">
+      <result code="2">2</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304648">
+      <result code="3">3</result>
+      <band id="10632">Llay Welfare Institute</band>
+      <conductor id="300480">J. Donlan</conductor>
+    </result>
+    
+    <result id="304649">
+      <result code="4">4</result>
+      <band id="2548">Colwyn Borough Band</band>
+      <conductor id="300774">H. Edwards</conductor>
+    </result>
+    
+  </results>
+</contest-event>

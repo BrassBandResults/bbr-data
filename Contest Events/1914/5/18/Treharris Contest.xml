@@ -1,0 +1,56 @@
+<contest-event id="29819">
+  <event-date date="1914-5-18">May 18, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treharris Contest</name>
+  <contest id="2673">
+    <name>Treharris Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treharris-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2777">St. Paul [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3777">Public Hall, Treharris</venue>
+  <notes>Promoted by Treharris Silver Band
+March: Caerphilly.
+4 bands competed.</notes>
+
+  <created>Oct. 21, 2014, 7:01 p.m.</created>
+  <last-modified>Oct. 3, 2018, 6:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="211756">
+      <result code="1">1</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="294732">
+      <result code="2">2</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="308968">Eli Shaw</conductor>
+    </result>
+    
+    <result id="211755">
+      <result code="3">3</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="317968">W. Greenwood</conductor>
+    </result>
+    
+    <result id="294733">
+      <result code="4">4</result>
+      <band id="17371">Llanhylleth Colliery</band>
+      <conductor id="313057">Ted Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

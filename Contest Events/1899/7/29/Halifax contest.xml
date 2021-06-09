@@ -1,0 +1,86 @@
+<contest-event id="8036">
+  <event-date date="1899-7-29">July 29, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Halifax contest</name>
+  <contest id="1157">
+    <name>Halifax Contest</name>
+    <order>5</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="340">Halifax Contest</group>
+    <slug>halifax-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="354">Halifax, West Yorkshire</venue>
+  <notes>
+
+  1st prize £12.
+  2nd prize £7.
+  3rd prize 4.
+  4th prize £2.
+  5th prize £1.
+
+  8 bands competed.</notes>
+
+  <created>Nov. 3, 2011, 6:30 p.m.</created>
+  <last-modified>April 15, 2012, 4:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99997">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="72636">
+      <result code="2">2</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="99998">
+      <result code="3">3</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="72637">
+      <result code="4">4</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="99999">
+      <result code="5">5</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="100002">
+      <result code="">Unknown Result</result>
+      <band id="124">Chapeltown Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100000">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100001">
+      <result code="">Unknown Result</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

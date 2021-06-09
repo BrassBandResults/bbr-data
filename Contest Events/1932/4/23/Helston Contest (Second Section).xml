@@ -1,0 +1,62 @@
+<contest-event id="25830">
+  <event-date date="1932-4-23">April 23, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Helston Contest (Second Section)</name>
+  <contest id="4996">
+    <name>Helston Contest (Second Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="483">Helston Contest</group>
+    <slug>helston-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1994">Gems of Melody</test-piece>
+  </test-piece>
+
+  <venue id="1807">Helston, Cornwall</venue>
+  <notes>March: 1. Penzance, 2. Falmouth
+Prizes - 1st £14, 2nd £8, 3rd £5, 4th £3.
+5 bands competed.</notes>
+
+  <created>Jan. 12, 2014, 10:12 p.m.</created>
+  <last-modified>Dec. 7, 2016, 11:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187248">
+      <result code="1">1</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="187247">
+      <result code="2">2</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="299173">Thomas Chainey</conductor>
+    </result>
+    
+    <result id="187250">
+      <result code="3">3</result>
+      <band id="2459">St Ives Town</band>
+      <conductor id="310090">John Tanner</conductor>
+    </result>
+    
+    <result id="187251">
+      <result code="4">4</result>
+      <band id="1296">Newquay Band</band>
+      <conductor id="306490">William Moyle</conductor>
+    </result>
+    
+    <result id="187249">
+      <result code="4">4</result>
+      <band id="4496">Truro City</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+  </results>
+</contest-event>

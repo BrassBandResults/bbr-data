@@ -1,0 +1,95 @@
+<contest-event id="11410">
+  <event-date date="1907-6-29">June 29, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shotton Contest</name>
+  <contest id="2259">
+    <name>Shotton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shotton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1797">Prairie Queen</test-piece>
+  </test-piece>
+
+  <venue id="1635">Shotton, Peterlee, County Durham, England, UK</venue>
+  <notes>
+
+  1st prize £8.
+  2nd prize £4.
+  3rd prize £2.
+  4th prize 1.
+
+  March contest  1st Hetton own,  2nd divided between Sunderland Temperance and Hartlepool Town.
+
+  9 bands competed.
+
+  </notes>
+
+  <created>March 24, 2012, 3:22 p.m.</created>
+  <last-modified>March 24, 2012, 3:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93861">
+      <result code="1">1</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="297792">J. Bennett</conductor>
+    </result>
+    
+    <result id="93862">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="93863">
+      <result code="3">3</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="305455">John Mackintosh</conductor>
+    </result>
+    
+    <result id="93864">
+      <result code="4">4</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="306471">J. Moulding</conductor>
+    </result>
+    
+    <result id="93865">
+      <result code="">Unknown Result</result>
+      <band id="4504">Birtley Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93867">
+      <result code="">Unknown Result</result>
+      <band id="7423">Hartlepool Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93869">
+      <result code="">Unknown Result</result>
+      <band id="7425">Seaham Bottle Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93868">
+      <result code="">Unknown Result</result>
+      <band id="2628">Sunderland Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93866">
+      <result code="">Unknown Result</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="24756">
+  <event-date date="1930-4-19">April 19, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Westhoughton Contest</name>
+  <contest id="2213">
+    <name>Westhoughton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>westhoughton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="527">The Merry Wives of Windsor [Keighley]</test-piece>
+  </test-piece>
+
+  <venue id="1602">Westhoughton, Nr Bolton, Lancashire</venue>
+  <notes>
+  Prizes - 1st £15 and cup, 2nd £10, 3rd £4, 4th £3, 5th £2.
+  17th annual contest promoted by Westhoughton Old band.
+  No other details available.</notes>
+
+  <created>Oct. 28, 2013, 1:35 p.m.</created>
+  <last-modified>Oct. 28, 2013, 1:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180983">
+      <result code="1">1</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301649">
+      <result code="3">3</result>
+      <band id="3850">Blackrod Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301650">
+      <result code="4">4</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301652">
+      <result code="">Unknown Result</result>
+      <band id="4279">Hindley Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301651">
+      <result code="">Unknown Result</result>
+      <band id="1720">Wrightington &amp; Heskin</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

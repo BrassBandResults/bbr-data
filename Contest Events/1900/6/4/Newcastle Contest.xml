@@ -1,0 +1,48 @@
+<contest-event id="39915">
+  <event-date date="1900-6-4">June 4, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Contest</name>
+  <contest id="1046">
+    <name>Newcastle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="160">Newcastle upon Tyne Contest</group>
+    <slug>newcastle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1035">Cricket Field, Bath Road, Newcastle</venue>
+  <notes>March contest - 1st Jarrow, 2nd Hebburn.</notes>
+
+  <created>June 14, 2018, 11:05 a.m.</created>
+  <last-modified>June 14, 2018, 11:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="289678">
+      <result code="1">1</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289679">
+      <result code="2">2</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289680">
+      <result code="3">3</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,73 @@
+<contest-event id="6084">
+  <event-date date="1897-4-16">April 16, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bagillt Contest</name>
+  <contest id="1016">
+    <name>Bagillt Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bagillt-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1078">Gems of Columbia</test-piece>
+  </test-piece>
+
+  <venue id="1995">Bagillt, Flintshire, Wales, UK</venue>
+  <notes>March contest: 1. Ffynnongroew
+7 bands competed</notes>
+
+  <created>May 21, 2011, 3:48 p.m.</created>
+  <last-modified>July 7, 2019, 2:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="53551">
+      <result code="1">1</result>
+      <band id="4508">Bagillt</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="53552">
+      <result code="2">2</result>
+      <band id="4509">Voel Gaer</band>
+      <conductor id="302632">W. J. Harper</conductor>
+    </result>
+    
+    <result id="53553">
+      <result code="3">3</result>
+      <band id="671">Holywell Band</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="104484">
+      <result code="">Unknown Result</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="302242">James Griffiths</conductor>
+    </result>
+    
+    <result id="104485">
+      <result code="">Unknown Result</result>
+      <band id="8265">Halkyn</band>
+      <conductor id="311340">Benjamin Wheeler</conductor>
+    </result>
+    
+    <result id="104486">
+      <result code="">Unknown Result</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="104487">
+      <result code="">Unknown Result</result>
+      <band id="8042">Ffynnongroew Excelsior</band>
+      <conductor id="300676">Haydn Dykins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

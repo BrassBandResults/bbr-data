@@ -1,0 +1,50 @@
+<contest-event id="26194">
+  <event-date date="1939-7-1">July 1, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Falmouth Contest (Second Section)</name>
+  <contest id="1737">
+    <name>Falmouth Contest (Second Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="498">Falmouth Contest</group>
+    <slug>falmouth-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1368">Recollections of Weber</test-piece>
+  </test-piece>
+
+  <venue id="1222">Falmouth, Cornwall</venue>
+  <notes>
+  March contest - 1st St Stythians, 2nd Gweek.
+  3 bands competed.</notes>
+
+  <created>Jan. 29, 2014, 2:41 p.m.</created>
+  <last-modified>Jan. 29, 2014, 2:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="189671">
+      <result code="1">1</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="303541">Tom Hubbard</conductor>
+    </result>
+    
+    <result id="189672">
+      <result code="2">2</result>
+      <band id="4011">Gweek Silver Band</band>
+      <conductor id="299173">Thomas Chainey</conductor>
+    </result>
+    
+    <result id="189673">
+      <result code="3">3</result>
+      <band id="521">St. Keverne Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

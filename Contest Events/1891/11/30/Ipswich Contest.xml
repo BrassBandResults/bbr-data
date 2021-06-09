@@ -1,0 +1,48 @@
+<contest-event id="18074">
+  <event-date date="1891-11-30">Nov. 30, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ipswich Contest</name>
+  <contest id="1193">
+    <name>Ipswich Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>ipswich-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2032">Public Hall, Ipswich, Suffolk</venue>
+  <notes>Juvenile bands only allowed.
+
+2 bands competed
+
+Prizes: £3, £2</notes>
+
+  <created>Feb. 8, 2013, 4:21 p.m.</created>
+  <last-modified>Feb. 8, 2013, 4:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="136349">
+      <result code="1">1</result>
+      <band id="8095">St. John&#39;s Home</band>
+      <conductor id="308590">W. Rush</conductor>
+      <test-piece id="1947">Don Pedro</test-piece>
+    </result>
+    
+    <result id="136350">
+      <result code="2">2</result>
+      <band id="10422">Junior Oddfellows (Ipswich)</band>
+      <conductor id="301188">W. Fenner</conductor>
+      <test-piece id="1837">I Zingari</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="43512">
+  <event-date date="1902-5-19">May 19, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest</name>
+  <contest id="2096">
+    <name>Llandovery Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1787">Echoes of the Ocean</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £10.10s., 2nd £6.6s., 3rd £3.
+5 bands competed</notes>
+
+  <created>May 1, 2020, 7:29 p.m.</created>
+  <last-modified>May 1, 2020, 8:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="318139">
+      <result code="1">1</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="318138">
+      <result code="2">2</result>
+      <band id="8289">Pontyberem United</band>
+      <conductor id="302636">A. G. Harries</conductor>
+    </result>
+    
+    <result id="318140">
+      <result code="3">3</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David D. Williams</conductor>
+    </result>
+    
+    <result id="318137">
+      <result code="">Unknown Result</result>
+      <band id="6966">Protheroe&#39;s Silver</band>
+      <conductor id="300397">George Dimmock</conductor>
+    </result>
+    
+    <result id="318141">
+      <result code="">Unknown Result</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="318146">Theo Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

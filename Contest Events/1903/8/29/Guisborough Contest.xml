@@ -1,0 +1,69 @@
+<contest-event id="21996">
+  <event-date date="1903-8-29">Aug. 29, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Guisborough Contest</name>
+  <contest id="1554">
+    <name>Guisborough Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="238">Guisborough Contest</group>
+    <slug>guisbrough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1326">Le Domino Noir [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1474">Guisborough, North Yorkshire</venue>
+  <notes>  Prizes  -  1st £9, 2nd £5, 3rd £3, 4th £1.
+  March contest - 1st Guisborough Priory, 2nd Charlton&#39;s, 3rd Hebburn Temperance 
+  Contest promoted by Guisborough Horticultural Society.
+  5 bands competed.</notes>
+
+  <created>June 21, 2013, 9:17 a.m.</created>
+  <last-modified>June 21, 2013, 9:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163164">
+      <result code="1">1</result>
+      <band id="6663">Skelton Old</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="163165">
+      <result code="2">2</result>
+      <band id="6627">Guisborough Priory</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="163166">
+      <result code="3">3</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="163167">
+      <result code="4">4</result>
+      <band id="6628">Charltons Star of Hope</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="163168">
+      <result code="5">5</result>
+      <band id="10987">Middlesbrough Trades</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="163169">
+      <result code="W">Withdrawn</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

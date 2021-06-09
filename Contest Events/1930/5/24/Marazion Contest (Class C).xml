@@ -1,0 +1,61 @@
+<contest-event id="24573">
+  <event-date date="1930-5-24">May 24, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marazion Contest (Class C)</name>
+  <contest id="4723">
+    <name>Marazion Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="444">Marazion Contest</group>
+    <slug>marazion-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1070">Mignonne</test-piece>
+  </test-piece>
+
+  <venue id="4366">The Paddock, Rookery Grounds, Marazion, Cornwall</venue>
+  <notes> March contest(Torchlight) - 1st Truro City, 2nd Penzance.
+ 5 bands competed.</notes>
+
+  <created>Oct. 19, 2013, 7:47 a.m.</created>
+  <last-modified>Dec. 6, 2018, 12:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="179750">
+      <result code="1">1</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="179751">
+      <result code="2">2</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="299173">Thomas Chainey</conductor>
+    </result>
+    
+    <result id="179752">
+      <result code="3">3</result>
+      <band id="4496">Truro City</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="179753">
+      <result code="4">4</result>
+      <band id="533">St. Pinnock Band</band>
+      <conductor id="304495">Marsh Kessell</conductor>
+    </result>
+    
+    <result id="179754">
+      <result code="5">5</result>
+      <band id="563">Porthleven Town Band</band>
+      <conductor id="308312">William Roberts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

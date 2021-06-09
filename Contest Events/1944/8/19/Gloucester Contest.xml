@@ -1,0 +1,79 @@
+<contest-event id="24866">
+  <event-date date="1944-8-19">Aug. 19, 1944<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gloucester Contest</name>
+  <contest id="4854">
+    <name>Gloucester Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gloucester-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1367">Over the Hills</test-piece>
+  </test-piece>
+
+  <venue id="5735">Gloucester Spa Cricket Field, Gloucester</venue>
+  <notes>March contest - 1st Bristol Aeroplane Co, 2nd Yorkley, 3rd Drybrook.
+  8 bands competed.</notes>
+
+  <created>Nov. 4, 2013, 2:08 p.m.</created>
+  <last-modified>Feb. 3, 2019, 3:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181617">
+      <result code="1">1</result>
+      <band id="10192">Bristol Aeroplane Company</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="181618">
+      <result code="2">2</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="305152">Reg Little</conductor>
+    </result>
+    
+    <result id="181619">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="305996">C. F. Meek</conductor>
+    </result>
+    
+    <result id="181620">
+      <result code="">Unknown Result</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="297491">G. Barnard</conductor>
+    </result>
+    
+    <result id="181621">
+      <result code="">Unknown Result</result>
+      <band id="2078">City of Hereford</band>
+      <conductor id="307741">Ernest Pritchard</conductor>
+    </result>
+    
+    <result id="181622">
+      <result code="">Unknown Result</result>
+      <band id="11611">Dowty Equipment</band>
+      <conductor id="312381">George Beckingham</conductor>
+    </result>
+    
+    <result id="181623">
+      <result code="">Unknown Result</result>
+      <band id="11612">Park Street (Gloucester) Mission</band>
+      <conductor id="299393">W. F. Clarke</conductor>
+    </result>
+    
+    <result id="181624">
+      <result code="">Unknown Result</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303510">L. F. Howell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

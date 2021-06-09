@@ -1,0 +1,61 @@
+<contest-event id="35419">
+  <event-date date="1948-6-19">June 19, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest (First Section)</name>
+  <contest id="3259">
+    <name>Rhyl Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="508">Owain Glyndwr</test-piece>
+  </test-piece>
+
+  <venue id="42">Pavilion Theatre, Rhyl</venue>
+  <notes>Prizes - 1st £65 and shield, 2nd £40, 3rd £20, 4th £10.
+5 bands competed.</notes>
+
+  <created>May 26, 2016, 11:05 a.m.</created>
+  <last-modified>Feb. 20, 2019, 10:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="255771">
+      <result code="1">1</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="304256">Norman Jones</conductor>
+    </result>
+    
+    <result id="255772">
+      <result code="2">2</result>
+      <band id="35">Yorkshire Imperial Brass Band</band>
+      <conductor id="311432">Alfred Whitehead</conductor>
+    </result>
+    
+    <result id="255773">
+      <result code="3">3</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="300740">J. Eckersley</conductor>
+    </result>
+    
+    <result id="255774">
+      <result code="4">4</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="255775">
+      <result code="5">5</result>
+      <band id="1692">Sankey&#39;s Castle Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

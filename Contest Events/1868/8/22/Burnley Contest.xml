@@ -1,0 +1,72 @@
+<contest-event id="11224">
+  <event-date date="1868-8-22">Aug. 22, 1868<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burnley Contest</name>
+  <contest id="1264">
+    <name>Burnley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>burnley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1599">Burnley, Lancashire, England, UK</venue>
+  <notes>
+Prizes: £25, £15, £10, £5</notes>
+
+  <created>March 17, 2012, 8:13 a.m.</created>
+  <last-modified>June 9, 2012, 9:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="92832">
+      <result code="1">1</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="300585">James Duerden</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="92833">
+      <result code="2">2</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="311468">Harrison Whittaker</conductor>
+      <test-piece id="1243">Preciosa [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="92834">
+      <result code="3">3</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="92835">
+      <result code="4">4</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="308000">John Reece</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="92836">
+      <result code="">Unknown Result</result>
+      <band id="2616">Ramsbottom Rifle</band>
+      <conductor id="307505">James Pilling</conductor>
+      <test-piece id="1207">Semiramide [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="109370">
+      <result code="W">Withdrawn</result>
+      <band id="18240">Darwen Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

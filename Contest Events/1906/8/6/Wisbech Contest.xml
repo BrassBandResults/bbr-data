@@ -1,0 +1,63 @@
+<contest-event id="10970">
+  <event-date date="1906-8-6">Aug. 6, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wisbech Contest</name>
+  <contest id="2145">
+    <name>Wisbech Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wisbech-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1506">Joan of Arc [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1559">Wisbech, Cambridgeshire, England, UK</venue>
+  <notes>March contest 1st Wisbech Town, 2nd March Railway.
+Best soprano - Thrapston.
+Best cornet, horn and euphonium - Peterborough.
+  5 bands competed.</notes>
+
+  <created>March 10, 2012, 10:18 a.m.</created>
+  <last-modified>Sept. 14, 2018, 6:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90933">
+      <result code="1">1</result>
+      <band id="6323">Peterborough Excelsior</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="90934">
+      <result code="2">2</result>
+      <band id="2348">Thrapston Town</band>
+      <conductor id="309417">Nathaniel Smith</conductor>
+    </result>
+    
+    <result id="90935">
+      <result code="3">3</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="90937">
+      <result code="">Unknown Result</result>
+      <band id="6349">Wisbech Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90936">
+      <result code="">Unknown Result</result>
+      <band id="4214">March Brass 2000</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

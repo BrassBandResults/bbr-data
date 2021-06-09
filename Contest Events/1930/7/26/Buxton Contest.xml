@@ -1,0 +1,54 @@
+<contest-event id="15112">
+  <event-date date="1930-7-26">July 26, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Buxton Contest</name>
+  <contest id="1247">
+    <name>Buxton Contest [1800s]</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>buxton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="1989">Buxton, Derbyshire</venue>
+  <notes></notes>
+
+  <created>Oct. 9, 2012, 7:02 p.m.</created>
+  <last-modified>April 21, 2019, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="301893">
+      <result code="1">1</result>
+      <band id="766">Chapel-en-le-Frith Band</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="301894">
+      <result code="2">2</result>
+      <band id="519">Burbage Silver Band</band>
+      <conductor id="301327">Harry Fletcher</conductor>
+    </result>
+    
+    <result id="301895">
+      <result code="3">3</result>
+      <band id="4641">Harpur Hill Buxton</band>
+      <conductor id="301330">J. F. Fletcher</conductor>
+    </result>
+    
+    <result id="301896">
+      <result code="4">4</result>
+      <band id="779">Tideswell Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

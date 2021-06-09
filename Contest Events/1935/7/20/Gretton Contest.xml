@@ -1,0 +1,44 @@
+<contest-event id="28421">
+  <event-date date="1935-7-20">July 20, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gretton Contest</name>
+  <contest id="2924">
+    <name>Gretton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>gretton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1360">The Bronze Horse</test-piece>
+  </test-piece>
+
+  <venue id="2250">Gretton, Northamptonshire</venue>
+  <notes>2 bands competed
+
+March: 1. Leicester, 2. Stamford</notes>
+
+  <created>June 9, 2014, 6:23 p.m.</created>
+  <last-modified>June 9, 2014, 6:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202524">
+      <result code="1">1</result>
+      <band id="2021">City of Leicester</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202525">
+      <result code="2">2</result>
+      <band id="491">Stamford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

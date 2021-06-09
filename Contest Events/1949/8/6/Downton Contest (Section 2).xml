@@ -1,0 +1,42 @@
+<contest-event id="26370">
+  <event-date date="1949-8-6">Aug. 6, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Downton Contest (Section 2)</name>
+  <contest id="3921">
+    <name>Downton Contest (Section 2)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>downton-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1376">The Mountain Chief</test-piece>
+  </test-piece>
+
+  <venue id="3141">Downton, Salisbury, Wiltshire</venue>
+  <notes>March contest - 1st Downton, 2nd Inkpen.</notes>
+
+  <created>Feb. 13, 2014, 7:38 p.m.</created>
+  <last-modified>Feb. 28, 2019, 10:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190880">
+      <result code="1">1</result>
+      <band id="552">Downton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="190881">
+      <result code="2">2</result>
+      <band id="7531">Inkpen Village Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="39793">
+  <event-date date="1910-7-23">July 23, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shirebrook Contest</name>
+  <contest id="1943">
+    <name>Shirebrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="255">Shirebrook Contest</group>
+    <slug>shirebrook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2204">Weber&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="3121">Miners Welfare Grounds, Shirebrook, Derbyshire</venue>
+  <notes>Prizes - 1st £12 and cup, 2nd £6, 3rd £3.10s. 4th £1.
+March contest - 1st(£1) Lincoln Malleable, 2nd(10s.)Boots Plaisaunce.
+9th annual contest.
+5 bands competed.</notes>
+
+  <created>May 31, 2018, 9:14 p.m.</created>
+  <last-modified>June 1, 2018, 11:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="288772">
+      <result code="1">1</result>
+      <band id="8434">East Kirkby Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="288773">
+      <result code="2">2</result>
+      <band id="8054">Boots Plaisaunce</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="288769">
+      <result code="3">3</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="288771">
+      <result code="3">3</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="288770">
+      <result code="5">5</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

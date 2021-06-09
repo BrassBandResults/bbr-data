@@ -1,0 +1,56 @@
+<contest-event id="12562">
+  <event-date date="1895-7-27">July 27, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rotherham Contest</name>
+  <contest id="2492">
+    <name>Rotherham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rotherham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1847">Rotherham, South Yorkshire, England, UK</venue>
+  <notes>March contest: 1. Rotherham, 2. Dannemora, 3. Hucknall Excelsior.
+Prizes - 1st £10, 2nd £6, 3rd £4.
+ 4 bands competed</notes>
+
+  <created>April 16, 2012, 5:06 p.m.</created>
+  <last-modified>June 21, 2019, 1:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100315">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="100316">
+      <result code="2">2</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="100317">
+      <result code="3">3</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="100318">
+      <result code="4">4</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+  </results>
+</contest-event>

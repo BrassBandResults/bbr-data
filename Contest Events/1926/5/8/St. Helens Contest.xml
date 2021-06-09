@@ -1,0 +1,88 @@
+<contest-event id="44456">
+  <event-date date="1926-5-8">May 8, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Helens Contest</name>
+  <contest id="2362">
+    <name>St. Helens Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="6992">Clock Face Colliery, St. Helens</venue>
+  <notes>March contest - 1st Skelmersdale, 2nd Abram Colliery.
+Prizes - 1st £20, 2nd £10, 3rd £5, 4th £2.
+3 annual contest promoted by Clock Face Colliery band.
+9 bands competed.
+</notes>
+
+  <created>March 4, 2021, 11:06 p.m.</created>
+  <last-modified>March 5, 2021, 1:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="324993">
+      <result code="1">1</result>
+      <band id="19405">Abram Colliery</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="324994">
+      <result code="2">2</result>
+      <band id="12913">Skelmersdale Old</band>
+      <conductor id="301132">Richard Farrington</conductor>
+    </result>
+    
+    <result id="324995">
+      <result code="3">3</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="301067">Abram Fairclough</conductor>
+    </result>
+    
+    <result id="324996">
+      <result code="4">4</result>
+      <band id="1650">Cadishead Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="324997">
+      <result code="">Unknown Result</result>
+      <band id="6762">Aigburth Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="325000">
+      <result code="">Unknown Result</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324999">
+      <result code="">Unknown Result</result>
+      <band id="1663">Irlam Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="325001">
+      <result code="">Unknown Result</result>
+      <band id="3218">Thatto Heath</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324998">
+      <result code="">Unknown Result</result>
+      <band id="3219">Timperley &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,65 @@
+<contest-event id="12032">
+  <event-date date="1894-6-9">June 9, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chop Gate Contest</name>
+  <contest id="2353">
+    <name>Chop Gate Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chop-gate-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="1179">Chop Gate, Bilsdale</venue>
+  <notes>5 bands competed
+
+Prizes: £10, £5, £2
+
+March contest: 1. Hartlepool N.E.R.
+</notes>
+
+  <created>April 8, 2012, 10:34 p.m.</created>
+  <last-modified>June 12, 2019, 8:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96661">
+      <result code="1">1</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="96662">
+      <result code="2">2</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="303251">J. A. Hoggett</conductor>
+    </result>
+    
+    <result id="96663">
+      <result code="3">3</result>
+      <band id="7633">Hartlepool N.E.R</band>
+      <conductor id="308206">J. Riley</conductor>
+    </result>
+    
+    <result id="309797">
+      <result code="">Unknown Result</result>
+      <band id="6099">Blair and Co. (Stockton)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="313952">
+      <result code="W">Withdrawn</result>
+      <band id="10426">Stokesley Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

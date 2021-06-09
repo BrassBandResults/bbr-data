@@ -1,0 +1,61 @@
+<contest-event id="10689">
+  <event-date date="1906-6-2">June 2, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gravesend Contest. (Third Section)</name>
+  <contest id="2084">
+    <name>Gravesend Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="243">Gravesend Contest</group>
+    <slug>gravesend-contest-third-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1724">Latona</test-piece>
+  </test-piece>
+
+  <venue id="5360">Rosherville Gardens, Gravesend, Kent</venue>
+  <notes>1st prize £4 and cup, 2nd prize £3, 3rd prize £2, 4th prize £1., 5th prize 10s.
+ March contest 1st (£1) Willesden, 2nd (10s.) Ponders End Mission.</notes>
+
+  <created>Feb. 27, 2012, 3:11 p.m.</created>
+  <last-modified>Sept. 14, 2018, 9:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="89441">
+      <result code="1">1</result>
+      <band id="6341">Dartford Volunteers</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="92226">
+      <result code="2">2</result>
+      <band id="7231">Dartford Town</band>
+      <conductor id="296887">Edward Allder</conductor>
+    </result>
+    
+    <result id="89443">
+      <result code="3">3</result>
+      <band id="6361">Ponders End Mission</band>
+      <conductor id="297083">F. J. Archer</conductor>
+    </result>
+    
+    <result id="89444">
+      <result code="4">4</result>
+      <band id="4527">Willesden</band>
+      <conductor id="298904">John O. Caborn</conductor>
+    </result>
+    
+    <result id="89445">
+      <result code="5">5</result>
+      <band id="4766">Wood Green Brass</band>
+      <conductor id="308231">C. J. Ringrose</conductor>
+    </result>
+    
+  </results>
+</contest-event>

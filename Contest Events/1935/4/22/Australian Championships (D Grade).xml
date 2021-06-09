@@ -1,0 +1,63 @@
+<contest-event id="35113">
+  <event-date date="1935-4-22">April 22, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (D Grade)</name>
+  <contest id="89">
+    <name>Australian Championships (D Grade)</name>
+    <order>40</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-d-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="15">D Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="7068">Bundaberg Show Ground, Queensland, Australia</venue>
+  <notes>Other Disciplines
+Oval March Test Music    &quot; Lydney Park &quot;
+Street March  (own choice)
+Hymn Tune     (own Choice)</notes>
+
+  <created>April 15, 2016, 1:44 a.m.</created>
+  <last-modified>Feb. 19, 2019, 10:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="253155">
+      <result code="1">1</result>
+      <band id="5811">Bundaberg Excelsior Band</band>
+      <conductor id="306505">Edward Mulhall Snr</conductor>
+    </result>
+    
+    <result id="253156">
+      <result code="2">2</result>
+      <band id="5774">Mount Morgan Brass Band</band>
+      <conductor id="309165">George Simpson</conductor>
+    </result>
+    
+    <result id="253157">
+      <result code="3">3</result>
+      <band id="9352">Longreach Town Band</band>
+      <conductor id="296810">Alfred Affoo</conductor>
+    </result>
+    
+    <result id="253158">
+      <result code="4">4</result>
+      <band id="9211">Charters Towers Concert Band</band>
+      <conductor id="299382">M. Clarke</conductor>
+    </result>
+    
+    <result id="253159">
+      <result code="5">5</result>
+      <band id="13842">Innisfail Citizens</band>
+      <conductor id="309662">Rex Stanton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

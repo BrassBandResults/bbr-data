@@ -1,0 +1,51 @@
+<contest-event id="18009">
+  <event-date date="1891-8-3">Aug. 3, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest (Local Section)</name>
+  <contest id="2401">
+    <name>Barrow Contest (Local Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest-local-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2916">Cavendish Park, Barrow-in-Furness</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Feb. 7, 2013, 11:07 p.m.</created>
+  <last-modified>Feb. 8, 2018, 7 p.m.</last-modified>
+
+  <results>
+    
+    <result id="136011">
+      <result code="1">1</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="136012">
+      <result code="2">2</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="284445">
+      <result code="3">3</result>
+      <band id="10377">Maryport Artillery</band>
+      <conductor id="310333">Henry Thompson</conductor>
+      <test-piece id="963">Linda di Chamounix [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

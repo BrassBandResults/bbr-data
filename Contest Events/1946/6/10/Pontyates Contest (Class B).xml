@@ -1,0 +1,60 @@
+<contest-event id="17240">
+  <event-date date="1946-6-10">June 10, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontyates Contest (Class B)</name>
+  <contest id="3357">
+    <name>Pontyates Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontyates-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2583">Pontyates, Carmarthen</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Dec. 22, 2012, 1:46 p.m.</created>
+  <last-modified>Feb. 7, 2019, 11:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="130900">
+      <result code="1">1</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130901">
+      <result code="2">2</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130902">
+      <result code="3">3</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130903">
+      <result code="">Unknown Result</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="130904">
+      <result code="">Unknown Result</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

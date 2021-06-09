@@ -1,0 +1,118 @@
+<contest-event id="17843">
+  <event-date date="1890-4-5">April 5, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colne Contest</name>
+  <contest id="1303">
+    <name>Colne Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="329">Colne Contest</group>
+    <slug>colne</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2315">Nil Desperandum</test-piece>
+  </test-piece>
+
+  <venue id="1856">Swan Croft, Colne</venue>
+  <notes>Prizes: £20, £12, £8, £5, £2
+Open to bands which had not won a first prize in 1889
+Quickstep: 1. Batley Old, 2. Oldham Rifles.
+11 bands competed
+7th annual contest</notes>
+
+  <created>Feb. 2, 2013, 6:36 p.m.</created>
+  <last-modified>May 23, 2019, 12:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134966">
+      <result code="1">1</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="134967">
+      <result code="2">2</result>
+      <band id="1797">Burnley Public</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134968">
+      <result code="3">3</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134969">
+      <result code="4">4</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="134971">
+      <result code="5">5</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134970">
+      <result code="5">5</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134975">
+      <result code="7">7</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="134973">
+      <result code="8">8</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="134976">
+      <result code="9">9</result>
+      <band id="3828">Rishton Public</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="134972">
+      <result code="9">9</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="313855">Handel Parker</conductor>
+    </result>
+    
+    <result id="134974">
+      <result code="11">11</result>
+      <band id="4416">Stockport (late Yeomanry)</band>
+      <conductor id="300661">W. Duxbury</conductor>
+    </result>
+    
+    <result id="134978">
+      <result code="W">Withdrawn</result>
+      <band id="894">Earby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134977">
+      <result code="W">Withdrawn</result>
+      <band id="10400">Padiham Public</band>
+      <conductor id="297978">J. E. Birtwell</conductor>
+    </result>
+    
+    <result id="134979">
+      <result code="W">Withdrawn</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="303464">Ormerod Houldsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,76 @@
+<contest-event id="38065">
+  <event-date date="1904-7-9">July 9, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Berkhamsted Contest</name>
+  <contest id="2770">
+    <name>Berkhamsted Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>berkhamsted-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3441">Castle Grounds, Berkhamsted</venue>
+  <notes>Choice of test piece: &quot;Gems of Tschaikovsky&quot; or &quot;HMS Pinafore&quot;
+Prizes: £7, £4, £2
+March contest: 1. Irthlingborough, 2. Chesham, 3. Rushden.
+6 bands competed
+</notes>
+
+  <created>May 24, 2017, 8:54 a.m.</created>
+  <last-modified>Feb. 5, 2020, 12:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="274813">
+      <result code="1">1</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="313923">T. R. Preston</conductor>
+      <test-piece id="3402">Gems of Tschaikowsky [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="274810">
+      <result code="2">2</result>
+      <band id="6331">Chesham Town</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+      <test-piece id="3402">Gems of Tschaikowsky [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="274812">
+      <result code="3">3</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+      <test-piece id="3402">Gems of Tschaikowsky [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="274814">
+      <result code="4">4</result>
+      <band id="4798">Dunstable Excelsior</band>
+      <conductor id="300471">H. W. Dolman</conductor>
+      <test-piece id="3402">Gems of Tschaikowsky [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="274811">
+      <result code="4">4</result>
+      <band id="6345">Olney Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+      <test-piece id="3402">Gems of Tschaikowsky [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="281353">
+      <result code="6">6</result>
+      <band id="601">Yiewsley and West Drayton Band</band>
+      <conductor id="298565">E. Brophy</conductor>
+      <test-piece id="1803">H.M.S. Pinafore</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

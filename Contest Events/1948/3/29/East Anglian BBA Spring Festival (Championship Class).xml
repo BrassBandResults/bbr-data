@@ -1,0 +1,54 @@
+<contest-event id="36867">
+  <event-date date="1948-3-29">March 29, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Anglian BBA Spring Festival (Championship Class)</name>
+  <contest id="424">
+    <name>East Anglian BBA Spring Festival (Championship Class)</name>
+    <order>10</order>
+    <contest-type id="2">Entertainments Contest</contest-type>
+    <group id="73">East Anglian BBA Spring Festival</group>
+    <slug>east-anglian-bba-championship-class</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1093">Cosi Fan Tutte [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2502">Norwich</venue>
+  <notes></notes>
+
+  <created>Jan. 12, 2017, 1:07 a.m.</created>
+  <last-modified>March 21, 2020, 3:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="316311">
+      <result code="1">1</result>
+      <band id="296">Soham Comrades Band</band>
+      <conductor id="310072">Fred Talbot</conductor>
+    </result>
+    
+    <result id="304614">
+      <result code="2">2</result>
+      <band id="8398">Sheringham Temperance</band>
+      <conductor id="297156">Alfred Ashpole</conductor>
+    </result>
+    
+    <result id="304615">
+      <result code="3">3</result>
+      <band id="594">Norfolk Brass Ensemble</band>
+      <conductor id="299061">Edward Sydney Carter</conductor>
+    </result>
+    
+    <result id="304616">
+      <result code="4">4</result>
+      <band id="831">Fakenham Town Band</band>
+      <conductor id="308570">Edgar Ruffles</conductor>
+    </result>
+    
+  </results>
+</contest-event>

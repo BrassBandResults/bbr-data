@@ -1,0 +1,58 @@
+<contest-event id="22913">
+  <event-date date="1901-6-22">June 22, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Broxburn Contest</name>
+  <contest id="2574">
+    <name>Broxburn Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>broxburn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3400">Whinny Knowes Park, Broxburn</venue>
+  <notes>1st section contest
+
+4 bands competed
+
+Prizes: £10, £6, £3</notes>
+
+  <created>Aug. 15, 2013, 2:29 p.m.</created>
+  <last-modified>Aug. 15, 2013, 2:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168990">
+      <result code="1">1</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="314271">E. Sutton</conductor>
+    </result>
+    
+    <result id="168991">
+      <result code="2">2</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="309322">C. Smith</conductor>
+    </result>
+    
+    <result id="168992">
+      <result code="2">2</result>
+      <band id="5613">Portobello Town</band>
+      <conductor id="314271">E. Sutton</conductor>
+    </result>
+    
+    <result id="270955">
+      <result code="4">4</result>
+      <band id="4531">Carron Iron Works</band>
+      <conductor id="305419">Frank MacDonald</conductor>
+    </result>
+    
+  </results>
+</contest-event>

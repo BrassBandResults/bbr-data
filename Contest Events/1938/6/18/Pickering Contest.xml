@@ -1,0 +1,62 @@
+<contest-event id="41682">
+  <event-date date="1938-6-18">June 18, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pickering Contest</name>
+  <contest id="5125">
+    <name>Pickering Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>pickering-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1391">Pickering, North Yorkshire, England, UK</venue>
+  <notes>March contest - 1st Kirkbymoorside, 2nd Stape.
+Hymn tune contest - 1st Kirkbymoorside, 2nd Great Ayton.
+5 bands competed</notes>
+
+  <created>Jan. 23, 2019, 11:37 a.m.</created>
+  <last-modified>Jan. 23, 2019, 11:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="303532">
+      <result code="1">1</result>
+      <band id="11280">Pickering Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303533">
+      <result code="2">2</result>
+      <band id="5394">Farndale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303534">
+      <result code="3">3</result>
+      <band id="298">Kirkbymoorside Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303535">
+      <result code="">Unknown Result</result>
+      <band id="11674">Great Ayton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303536">
+      <result code="">Unknown Result</result>
+      <band id="576">Stape Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

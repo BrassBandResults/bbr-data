@@ -1,0 +1,62 @@
+<contest-event id="29978">
+  <event-date date="1914-6-25">June 25, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypool Contest</name>
+  <contest id="2713">
+    <name>Pontypool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontypool-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1921">Classic Gems</test-piece>
+  </test-piece>
+
+  <venue id="5581">Pontypool Park, Pontypool, Monmouthshire</venue>
+  <notes>Prize: £7
+
+March: 1. Abergavenny, 2. Blaenavon</notes>
+
+  <created>Oct. 30, 2014, 5:50 p.m.</created>
+  <last-modified>Oct. 30, 2014, 5:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="212763">
+      <result code="1">1</result>
+      <band id="11332">Llanbradach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212764">
+      <result code="2">2</result>
+      <band id="8196">Pontypool Town and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212765">
+      <result code="3">3</result>
+      <band id="1865">Blaenavon Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212766">
+      <result code="4">4</result>
+      <band id="8318">Risca Military</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212767">
+      <result code="">Unknown Result</result>
+      <band id="425">Abergavenny Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

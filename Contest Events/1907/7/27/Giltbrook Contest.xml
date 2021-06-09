@@ -1,0 +1,61 @@
+<contest-event id="11473">
+  <event-date date="1907-7-27">July 27, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Giltbrook Contest</name>
+  <contest id="2285">
+    <name>Giltbrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>giltbrook-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1651">Giltbrook, Nottinghamshire</venue>
+  <notes>1st prize £10, 2nd prize £5,  3rd prize £2.
+5 bands competed.</notes>
+
+  <created>March 27, 2012, 4:54 p.m.</created>
+  <last-modified>Sept. 20, 2018, 10:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="94293">
+      <result code="1">1</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="94294">
+      <result code="2">2</result>
+      <band id="7450">Digby Ambulance</band>
+      <conductor id="310216">M. Templeman</conductor>
+    </result>
+    
+    <result id="94295">
+      <result code="3">3</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="94296">
+      <result code="">Unknown Result</result>
+      <band id="6337">Eastwood Ambulance</band>
+      <conductor id="304992">T. Leivers</conductor>
+    </result>
+    
+    <result id="94297">
+      <result code="">Unknown Result</result>
+      <band id="7169">Heanor Old</band>
+      <conductor id="318333">Mr. Geeson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,96 @@
+<contest-event id="11260">
+  <event-date date="1907-5-11">May 11, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Felling Contest</name>
+  <contest id="1823">
+    <name>Felling Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="348">Felling Contest</group>
+    <slug>felling-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1785">Winter Roses</test-piece>
+  </test-piece>
+
+  <venue id="1281">Felling, Gateshead, Tyne and Wear, England, UK</venue>
+  <notes>
+  1st prize £8 and cup.
+  2nd prize £4.
+  3rd prize £2.
+  4th prize £1.
+
+  10 bands competed.</notes>
+
+  <created>March 18, 2012, 8:37 p.m.</created>
+  <last-modified>Nov. 1, 2012, 4:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93096">
+      <result code="1">1</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="93097">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="93098">
+      <result code="3">3</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="302878">Frank Hedley</conductor>
+    </result>
+    
+    <result id="93099">
+      <result code="4">4</result>
+      <band id="577">Dunston Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="93105">
+      <result code="">Unknown Result</result>
+      <band id="7294">Binchester</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93100">
+      <result code="">Unknown Result</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93101">
+      <result code="">Unknown Result</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93102">
+      <result code="">Unknown Result</result>
+      <band id="5814">Pelton Fell Workmen&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93103">
+      <result code="">Unknown Result</result>
+      <band id="6650">South Pelaw</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93104">
+      <result code="">Unknown Result</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

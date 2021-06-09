@@ -1,0 +1,49 @@
+<contest-event id="23359">
+  <event-date date="1932-7-9">July 9, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wheatley Hill Contest</name>
+  <contest id="4542">
+    <name>Wheatley Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wheatley-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="2761">Wheatley Hill, Durham</venue>
+  <notes> Prizes - 1st £8 and cup, 2nd £3.10s., 3rd £1.10s., 4th 10s.
+March contest - 1st(£1) Easington Colliery, 2nd(10s.) divided between Murton Colliery and Thornley Colliery.</notes>
+
+  <created>Sept. 1, 2013, 1:39 p.m.</created>
+  <last-modified>Jan. 31, 2014, 10:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171654">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171655">
+      <result code="2">2</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171656">
+      <result code="3">3</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

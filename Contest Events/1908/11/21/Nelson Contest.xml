@@ -1,0 +1,85 @@
+<contest-event id="24121">
+  <event-date date="1908-11-21">Nov. 21, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2567">Faust [Berlioz arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="4263">Grand Theatre, Nelson, Lancashire, England, UK</venue>
+  <notes>Promoted by North-East Lancashire and Craven Brass Bands Association
+</notes>
+
+  <created>Sept. 27, 2013, 11:17 p.m.</created>
+  <last-modified>Nov. 27, 2013, 9:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="175916">
+      <result code="1">1</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="175917">
+      <result code="2">2</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="311520">A. Wilcock</conductor>
+    </result>
+    
+    <result id="175918">
+      <result code="3">3</result>
+      <band id="894">Earby Band</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="175919">
+      <result code="4">4</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="311520">A. Wilcock</conductor>
+    </result>
+    
+    <result id="184368">
+      <result code="">Unknown Result</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184365">
+      <result code="">Unknown Result</result>
+      <band id="7582">Colne Mount Zion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184367">
+      <result code="">Unknown Result</result>
+      <band id="5095">Kildwick and District Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184366">
+      <result code="">Unknown Result</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184364">
+      <result code="W">Withdrawn</result>
+      <band id="6577">Burnley Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

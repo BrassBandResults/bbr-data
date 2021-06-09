@@ -1,0 +1,99 @@
+<contest-event id="22663">
+  <event-date date="1900-2-5">Feb. 5, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treharris Contest</name>
+  <contest id="2673">
+    <name>Treharris Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treharris-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1881">Recollections of Carl Rosa</test-piece>
+  </test-piece>
+
+  <venue id="3777">Public Hall, Treharris</venue>
+  <notes>Promoted by Treharris Brass Band
+March contest: 1. Mountain Ash, 2. Cwmaman
+11 bands competed
+</notes>
+
+  <created>Aug. 11, 2013, 5:14 p.m.</created>
+  <last-modified>March 19, 2020, 11:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="167524">
+      <result code="1">1</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="167525">
+      <result code="2">2</result>
+      <band id="11269">Plymouth Abercanaid</band>
+      <conductor id="312394">H. Bentley</conductor>
+    </result>
+    
+    <result id="167526">
+      <result code="3">3</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="300719">Thomas Eastwood</conductor>
+    </result>
+    
+    <result id="289476">
+      <result code="">Unknown Result</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289477">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="289478">
+      <result code="">Unknown Result</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="289479">
+      <result code="">Unknown Result</result>
+      <band id="6595">Cwmparc</band>
+      <conductor id="310558">W. Treharne</conductor>
+    </result>
+    
+    <result id="289480">
+      <result code="">Unknown Result</result>
+      <band id="6260">Gilfachgoch</band>
+      <conductor id="307214">W. G. Paterson</conductor>
+    </result>
+    
+    <result id="316222">
+      <result code="">Unknown Result</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310676">W. Turtle</conductor>
+    </result>
+    
+    <result id="289481">
+      <result code="">Unknown Result</result>
+      <band id="6596">Deri</band>
+      <conductor id="307641">William Powell</conductor>
+    </result>
+    
+    <result id="289482">
+      <result code="">Unknown Result</result>
+      <band id="6599">Great Western Colliery Silver</band>
+      <conductor id="301472">T. Foxhall</conductor>
+    </result>
+    
+  </results>
+</contest-event>

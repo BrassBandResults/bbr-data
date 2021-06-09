@@ -1,0 +1,68 @@
+<contest-event id="13748">
+  <event-date date="1889-7-2">July 2, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stanion Contest</name>
+  <contest id="2368">
+    <name>Stanion Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stanion-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1722">Stanion, Northants</venue>
+  <notes>Waltz Contest results:
+
+1st Prize Walgrave Amateur
+2nd Prize Gretton
+3rd Prize Bozeat Brass
+
+Walter Reynolds was disqualified from leading Bozeat Brass Band on the grounds that he was a professional musician.
+
+Reported in Northampton Herald, 6th July 1889</notes>
+
+  <created>June 11, 2012, 7:10 p.m.</created>
+  <last-modified>Sept. 4, 2016, 6:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="109932">
+      <result code="1">1</result>
+      <band id="8629">Walgrave Amateur</band>
+      <conductor id="300370">A. Dickens</conductor>
+    </result>
+    
+    <result id="109933">
+      <result code="2">2</result>
+      <band id="8636">Brigstock</band>
+      <conductor id="308120">J. S. Richards</conductor>
+    </result>
+    
+    <result id="109934">
+      <result code="3">3</result>
+      <band id="8637">Bozeat Brass</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="109935">
+      <result code="">Unknown Result</result>
+      <band id="2000">Gretton Silver Band</band>
+      <conductor id="309580">T. Spendlove</conductor>
+    </result>
+    
+    <result id="109936">
+      <result code="W">Withdrawn</result>
+      <band id="7947">Desborough Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

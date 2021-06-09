@@ -1,0 +1,68 @@
+<contest-event id="25079">
+  <event-date date="1936-9-5">Sept. 5, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hollingworth Lake Contest</name>
+  <contest id="2877">
+    <name>Hollingworth Lake Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hollingworth-lake-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1096">Autumn Echoes</test-piece>
+  </test-piece>
+
+  <venue id="946">Hollingworth Lake, Rochdale</venue>
+  <notes>Hymn tune contest - 1st Shawclough and Spotland, 2nd Stacksteads.
+Prizes - 1st £8 and cup, 2nd £4 and cup, 3rd £2.
+6 bands competed.</notes>
+
+  <created>Nov. 13, 2013, 1:36 p.m.</created>
+  <last-modified>Jan. 14, 2019, 7:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182662">
+      <result code="1">1</result>
+      <band id="1671">Stretford Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182663">
+      <result code="2">2</result>
+      <band id="2770">Heywood Old Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182664">
+      <result code="3">3</result>
+      <band id="3214">Hurst Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182665">
+      <result code="">Unknown Result</result>
+      <band id="2601">Cliviger</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182666">
+      <result code="">Unknown Result</result>
+      <band id="3314">Shawclough &amp; Spotland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182667">
+      <result code="">Unknown Result</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

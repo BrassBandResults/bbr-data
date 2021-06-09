@@ -1,0 +1,70 @@
+<contest-event id="25994">
+  <event-date date="1932-9-3">Sept. 3, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Kirkby Contest</name>
+  <contest id="1911">
+    <name>South Kirkby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-kirkby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1088">A Village Pastoral</test-piece>
+  </test-piece>
+
+  <venue id="1350">South Kirkby, West Yorkshire</venue>
+  <notes>1st annual contest promoted by South Kirkby Band
+
+10 bands competed
+
+March: 1. Royston, 2. Thorne</notes>
+
+  <created>Jan. 20, 2014, 6:02 p.m.</created>
+  <last-modified>Jan. 20, 2014, 6:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188226">
+      <result code="1">1</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="309668">Pierre Stapleton</conductor>
+    </result>
+    
+    <result id="188227">
+      <result code="2">2</result>
+      <band id="2794">Elsecar Subscription</band>
+      <conductor id="311699">E. Williamson</conductor>
+    </result>
+    
+    <result id="188228">
+      <result code="3">3</result>
+      <band id="4452">Wakefield City</band>
+      <conductor id="306266">A. A. Moore</conductor>
+    </result>
+    
+    <result id="188229">
+      <result code="4">4</result>
+      <band id="434">Cottingham Band</band>
+      <conductor id="305756">E. B. Maw</conductor>
+    </result>
+    
+    <result id="188230">
+      <result code="">Unknown Result</result>
+      <band id="4555">Brotherton United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188225">
+      <result code="">Unknown Result</result>
+      <band id="18364">Royston Subscription</band>
+      <conductor id="298690">George Buckle</conductor>
+    </result>
+    
+  </results>
+</contest-event>

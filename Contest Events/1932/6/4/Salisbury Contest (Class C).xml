@@ -1,0 +1,49 @@
+<contest-event id="23378">
+  <event-date date="1932-6-4">June 4, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Salisbury Contest (Class C)</name>
+  <contest id="2841">
+    <name>Salisbury Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="434">Salisbury Contest</group>
+    <slug>salisbury-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="2840">Victoria Park, Salisbury, Wiltshire, England, UK</venue>
+  <notes>
+ 3 bands competed.</notes>
+
+  <created>Sept. 2, 2013, 6:59 a.m.</created>
+  <last-modified>Dec. 9, 2016, 10:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171780">
+      <result code="1">1</result>
+      <band id="524">Michelmersh Silver Band</band>
+      <conductor id="304842">H. H. Laurence</conductor>
+    </result>
+    
+    <result id="171781">
+      <result code="2">2</result>
+      <band id="1263">Calne Silver Band</band>
+      <conductor id="298022">C. E. Blackford</conductor>
+    </result>
+    
+    <result id="171782">
+      <result code="3">3</result>
+      <band id="3973">Lockerley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

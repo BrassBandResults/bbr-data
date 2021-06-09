@@ -1,0 +1,61 @@
+<contest-event id="25682">
+  <event-date date="1933-6-5">June 5, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treorchy Contest</name>
+  <contest id="2180">
+    <name>Treorchy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treorchy-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1350">Berlioz</test-piece>
+  </test-piece>
+
+  <venue id="2601">Ambulance Hall, Treorchy, Glamorgan</venue>
+  <notes>
+  11 bands competed.</notes>
+
+  <created>Dec. 20, 2013, 5:22 p.m.</created>
+  <last-modified>Dec. 20, 2013, 5:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186025">
+      <result code="1">1</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186026">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186027">
+      <result code="3">3</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186028">
+      <result code="4">4</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186029">
+      <result code="5">5</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

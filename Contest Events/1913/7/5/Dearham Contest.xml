@@ -1,0 +1,61 @@
+<contest-event id="40454">
+  <event-date date="1913-7-5">July 5, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest</name>
+  <contest id="2332">
+    <name>Dearham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2802">Songs of Sentiment</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>March contest - 1st Moor Row Old, 2nd Cleator Moor.
+5 bands competed</notes>
+
+  <created>Sept. 30, 2018, 3:18 p.m.</created>
+  <last-modified>Sept. 30, 2018, 3:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294346">
+      <result code="1">1</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="301811">James Gilchrist</conductor>
+    </result>
+    
+    <result id="294342">
+      <result code="2">2</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="294343">
+      <result code="3">3</result>
+      <band id="12187">Cleator Moor St John&#39;s</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="294345">
+      <result code="4">4</result>
+      <band id="7505">Aspatria</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="294344">
+      <result code="">Unknown Result</result>
+      <band id="248">Dearham Band</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+  </results>
+</contest-event>

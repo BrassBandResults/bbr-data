@@ -1,0 +1,65 @@
+<contest-event id="38966">
+  <event-date date="1914-10-24">Oct. 24, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal South Street Eisteddfod  (B Grade)</name>
+  <contest id="6241">
+    <name>Royal South Street Eisteddfod  (B Grade)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="563">Royal South Street Eisteddfod</group>
+    <slug>royal-south-street-eisteddfod-b-grade</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2206">Viva Beethoven [arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="353">Ballarat, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Dec. 13, 2017, 12:41 a.m.</created>
+  <last-modified>April 7, 2020, 1:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="283414">
+      <result code="1">1</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="299502">Percy Code</conductor>
+      <test-piece id="747">The Valkyrie</test-piece>
+    </result>
+    
+    <result id="317187">
+      <result code="2">2</result>
+      <band id="2195">Warrnambool City Band</band>
+      <conductor id="300207">George Davis</conductor>
+      <test-piece id="2204">Weber&#39;s Works</test-piece>
+    </result>
+    
+    <result id="317188">
+      <result code="3">3</result>
+      <band id="695">Hawthorn City</band>
+      <conductor id="319940">John Booth - Gore</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="317189">
+      <result code="4">4</result>
+      <band id="16565">Footscray Municipal  (Vic)</band>
+      <conductor id="299501">John Code</conductor>
+      <test-piece id="5752">Verdi&#39;s Works [arr. Trussell]</test-piece>
+    </result>
+    
+    <result id="317190">
+      <result code="5">5</result>
+      <band id="18563">3rd Australian Horse Regiment (NSW)</band>
+      <conductor id="299503">John Cody</conductor>
+      <test-piece id="1334">Robert il Diavolo [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

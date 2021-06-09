@@ -1,0 +1,54 @@
+<contest-event id="25564">
+  <event-date date="1925-9-19">Sept. 19, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Downton Contest (Section 2)</name>
+  <contest id="3921">
+    <name>Downton Contest (Section 2)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>downton-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="4344">Wick Park, Downton, Wiltshire</venue>
+  <notes>March: 1. Shaftesbury, 2. Shepton, 3. Lockerley</notes>
+
+  <created>Dec. 10, 2013, 9:15 p.m.</created>
+  <last-modified>Nov. 7, 2018, 1:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185350">
+      <result code="1">1</result>
+      <band id="11730">Shepton Mallet Excelsior</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="185352">
+      <result code="2">2</result>
+      <band id="11717">1st All Saints Boy Scouts (Southampton)</band>
+      <conductor id="302398">A. Halestropp</conductor>
+    </result>
+    
+    <result id="185351">
+      <result code="3">3</result>
+      <band id="3973">Lockerley Silver Band</band>
+      <conductor id="306255">E. Moody</conductor>
+    </result>
+    
+    <result id="185349">
+      <result code="4">4</result>
+      <band id="11731">Shaftesbury Comrades</band>
+      <conductor id="300127">R. W. Davidson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

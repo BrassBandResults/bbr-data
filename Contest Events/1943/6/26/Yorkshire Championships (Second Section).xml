@@ -1,0 +1,49 @@
+<contest-event id="29910">
+  <event-date date="1943-6-26">June 26, 1943<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yorkshire Championships (Second Section)</name>
+  <contest id="18">
+    <name>Yorkshire Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2735">Round the Camp Fire</test-piece>
+  </test-piece>
+
+  <venue id="495">Odsal Stadium, Bradford</venue>
+  <notes>This contest (began 1943?) was not run as an Area contest in the Nationals sequence, but the 1945 running of this event was taken as the first running of the North Eastern (later Yorkshire) area contest. Also referred to as &quot;Yorkshire Festival&quot;. 
+Prizes 1st £12, 2nd £7, 3rd £4, 4th £2.</notes>
+
+  <created>Oct. 29, 2014, 2:23 a.m.</created>
+  <last-modified>Jan. 30, 2019, 3:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="212315">
+      <result code="1">1</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212316">
+      <result code="2">2</result>
+      <band id="11604">N.F.S. North Midland Region</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="212317">
+      <result code="3">3</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

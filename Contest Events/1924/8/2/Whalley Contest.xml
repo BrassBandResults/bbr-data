@@ -1,0 +1,62 @@
+<contest-event id="26936">
+  <event-date date="1924-8-2">Aug. 2, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whalley Contest</name>
+  <contest id="3507">
+    <name>Whalley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whalley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="781">Gems of Italian Opera</test-piece>
+  </test-piece>
+
+  <venue id="2681">Whalley, Lancashire</venue>
+  <notes>Prizes - 1st £25 and cup, 2nd £15, 3rd £10, 4th £7, 5th £3.
+March: 1. Nelson, 2. Lowerhouse.
+5 bands competed.</notes>
+
+  <created>April 5, 2014, 9:50 p.m.</created>
+  <last-modified>Oct. 29, 2018, 11:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194639">
+      <result code="1">1</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="194640">
+      <result code="2">2</result>
+      <band id="6574">Clitheroe Borough</band>
+      <conductor id="299928">Bert Cross</conductor>
+    </result>
+    
+    <result id="194641">
+      <result code="3">3</result>
+      <band id="1714">Lowerhouse Mills Burnley</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="194642">
+      <result code="4">4</result>
+      <band id="4352">Blackburn Public</band>
+      <conductor id="298068">J. E. Bleasdale</conductor>
+    </result>
+    
+    <result id="194643">
+      <result code="5">5</result>
+      <band id="8194">Blackburn Coronation</band>
+      <conductor id="308370">R. Robinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

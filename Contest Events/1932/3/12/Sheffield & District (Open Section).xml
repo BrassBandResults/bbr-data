@@ -1,0 +1,66 @@
+<contest-event id="36620">
+  <event-date date="1932-3-12">March 12, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield &amp; District (Open Section)</name>
+  <contest id="4610">
+    <name>Sheffield &amp; District (Open Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-district-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1453">Chapeltown, Sheffield</venue>
+  <notes>6 bands competed</notes>
+
+  <created>Dec. 6, 2016, 2:04 p.m.</created>
+  <last-modified>Dec. 6, 2016, 2:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="265140">
+      <result code="1">1</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="265141">
+      <result code="2">2</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="312103">Albert Yates</conductor>
+    </result>
+    
+    <result id="265142">
+      <result code="3">3</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="265145">
+      <result code="">Unknown Result</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265144">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265143">
+      <result code="">Unknown Result</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="12576">
+  <event-date date="1895-8-3">Aug. 3, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burton Latimer Contest</name>
+  <contest id="2336">
+    <name>Burton Latimer Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>burton-latimer-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1872">Aurora [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2249">Burton Latimer, Northamptonshire, England, UK</venue>
+  <notes>March contest: 1. Finedon Old, 2. Rothwell &amp; Kettering shared
+Reported in Northampton Herald 10th August 1895 
+5 bands competed.</notes>
+
+  <created>April 16, 2012, 7:12 p.m.</created>
+  <last-modified>June 21, 2019, 1:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100379">
+      <result code="1">1</result>
+      <band id="7535">Rothwell Town [Northamptonshire]</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="100380">
+      <result code="2">2</result>
+      <band id="7944">Finedon New</band>
+      <conductor id="297426">Mark de Bank</conductor>
+    </result>
+    
+    <result id="100381">
+      <result code="3">3</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="100382">
+      <result code="4">4</result>
+      <band id="7862">Kettering United</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="100383">
+      <result code="5">5</result>
+      <band id="7945">Burton Latimer Town</band>
+      <conductor id="307848">Arthur Quincey</conductor>
+    </result>
+    
+    <result id="148929">
+      <result code="W">Withdrawn</result>
+      <band id="6327">Northampton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

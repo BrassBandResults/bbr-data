@@ -1,0 +1,59 @@
+<contest-event id="44280">
+  <event-date date="1916-1-26">Jan. 26, 1916<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>Music  2 Own Choice Selections
+No.1  points listed under Taest</notes>
+
+  <created>Dec. 21, 2020, 4:46 a.m.</created>
+  <last-modified>May 25, 2021, 3:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="324050">
+      <result code="1">1</result>
+      <band id="13143">Rozelle</band>
+      <conductor id="307187">William Partington</conductor>
+      <test-piece id="6462">Rossini  (arr. Round)   /   Selection from 2nd &amp; 5th Symphonies   (arr. Round)</test-piece>
+    </result>
+    
+    <result id="324051">
+      <result code="2">2</result>
+      <band id="11249">Metropolitan (Sydney)</band>
+      <conductor id="307070">John Palmer</conductor>
+      <test-piece id="6432">Beethoven (Round) / Heroic</test-piece>
+    </result>
+    
+    <result id="324052">
+      <result code="3">3</result>
+      <band id="13045">Leichhardt Municipal</band>
+      <conductor id="301951">Tom Goodall</conductor>
+      <test-piece id="6463">Mereadante   (arr. Round)   /   II Trovatore  (arr. Round)</test-piece>
+    </result>
+    
+    <result id="324053">
+      <result code="4">4</result>
+      <band id="19445">Rockdale Municipal   (NSW)</band>
+      <conductor id="310898">Charles Walker</conductor>
+      <test-piece id="6464">Italiane   /   Heroic  (arr. Owens)</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="26301">
+  <event-date date="1949-5-21">May 21, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Albans Contest (Division 3)</name>
+  <contest id="5095">
+    <name>St. Albans Contest (Division 3)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-albans-contest-division-3</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="422">Pride of the Forest</test-piece>
+  </test-piece>
+
+  <venue id="3330">St. Albans, Hertfordshire</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Feb. 11, 2014, 1:01 p.m.</created>
+  <last-modified>June 14, 2016, 12:53 p.m.</last-modified>
+
+  <results>
+    
+    <result id="190618">
+      <result code="1">1</result>
+      <band id="5576">Boxmoor Silver Band</band>
+      <conductor id="303726">Reginald Hutchinson</conductor>
+    </result>
+    
+    <result id="190619">
+      <result code="2">2</result>
+      <band id="10407">Brecknock Silver</band>
+      <conductor id="308754">George Scarfe</conductor>
+    </result>
+    
+    <result id="190620">
+      <result code="3">3</result>
+      <band id="5924">Kent&#39;s Works (Luton)</band>
+      <conductor id="299936">George Crossland</conductor>
+    </result>
+    
+  </results>
+</contest-event>

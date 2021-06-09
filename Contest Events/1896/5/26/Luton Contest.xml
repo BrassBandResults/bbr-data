@@ -1,0 +1,117 @@
+<contest-event id="12949">
+  <event-date date="1896-5-26">May 26, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luton Contest</name>
+  <contest id="2529">
+    <name>Luton Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="321">Luton Contest</group>
+    <slug>luton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1894">Gems of Albion</test-piece>
+  </test-piece>
+
+  <venue id="2216">Luton Town Football Ground, Luton, Bedfordshire, England, UK</venue>
+  <notes>Promoted by Luton Red Cross Band
+Waltz contest - 1st 2nd and 3rd divided between St Albans City, Thraspston Town and Bedford Town.
+Prizes: £12, £8, £4, £2
+14 bands competed.</notes>
+
+  <created>April 29, 2012, 11:09 a.m.</created>
+  <last-modified>June 30, 2019, 6:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102930">
+      <result code="1">1</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="102931">
+      <result code="2">2</result>
+      <band id="7770">St Alban&#39;s Abbey</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="102932">
+      <result code="3">3</result>
+      <band id="435">Bedford Town Band</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="102933">
+      <result code="4">4</result>
+      <band id="2348">Thrapston Town</band>
+      <conductor id="309417">Nathaniel Smith</conductor>
+    </result>
+    
+    <result id="200561">
+      <result code="">Unknown Result</result>
+      <band id="4528">Luton Volunteers</band>
+      <conductor id="301956">W. Goodger</conductor>
+    </result>
+    
+    <result id="200562">
+      <result code="">Unknown Result</result>
+      <band id="7929">Hanslope Excelsior</band>
+      <conductor id="308951">Harry Sharpe</conductor>
+    </result>
+    
+    <result id="200563">
+      <result code="">Unknown Result</result>
+      <band id="6871">Ilford Horns Temperance</band>
+      <conductor id="311781">R. Wilson</conductor>
+    </result>
+    
+    <result id="200564">
+      <result code="">Unknown Result</result>
+      <band id="7772">St. Pancras Midland Railway</band>
+      <conductor id="311132">F. Watson</conductor>
+    </result>
+    
+    <result id="200565">
+      <result code="">Unknown Result</result>
+      <band id="6604">Hampstead Silver</band>
+      <conductor id="308872">George T. H. Seddon</conductor>
+    </result>
+    
+    <result id="200566">
+      <result code="">Unknown Result</result>
+      <band id="10618">London Silver</band>
+      <conductor id="301849">Walter Fred Gilyatt</conductor>
+    </result>
+    
+    <result id="200567">
+      <result code="">Unknown Result</result>
+      <band id="7820">Luton Town</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="200568">
+      <result code="">Unknown Result</result>
+      <band id="7910">Arlesey Volunteer</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="200569">
+      <result code="">Unknown Result</result>
+      <band id="6328">Walthamstow Temperance</band>
+      <conductor id="309756">F. W. Stevens</conductor>
+    </result>
+    
+    <result id="200570">
+      <result code="">Unknown Result</result>
+      <band id="8352">Tottenham Town</band>
+      <conductor id="305467">J. H. Maddison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,116 @@
+<contest-event id="10015">
+  <event-date date="1905-5-13">May 13, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Warrington Contest</name>
+  <contest id="1778">
+    <name>Warrington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="407">Warrington Contest</group>
+    <slug>warrington-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1584">La Cenerentola</test-piece>
+  </test-piece>
+
+  <venue id="2175">Warrington, Cheshire, England, UK</venue>
+  <notes>Prizes - 1st £35,. 2nd prize £25. 3rd prize £20. 4th prize £10 .5th prize £6. 6th prize £4.
+Promoted by Crosfields Soap Works band.
+14 bands competed.</notes>
+
+  <created>Feb. 5, 2012, 9:46 p.m.</created>
+  <last-modified>June 15, 2020, 7:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="84886">
+      <result code="1">1</result>
+      <band id="18682">Crooke</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="84887">
+      <result code="2">2</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="84888">
+      <result code="3">3</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="84889">
+      <result code="4">4</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="84890">
+      <result code="5">5</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="84891">
+      <result code="6">6</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="84897">
+      <result code="">Unknown Result</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84894">
+      <result code="">Unknown Result</result>
+      <band id="6638">Darwen Borough Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84892">
+      <result code="">Unknown Result</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84898">
+      <result code="">Unknown Result</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84896">
+      <result code="">Unknown Result</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84899">
+      <result code="">Unknown Result</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84895">
+      <result code="">Unknown Result</result>
+      <band id="3582">Warrington Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84893">
+      <result code="">Unknown Result</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

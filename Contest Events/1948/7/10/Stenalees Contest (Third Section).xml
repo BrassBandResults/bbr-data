@@ -1,0 +1,48 @@
+<contest-event id="35453">
+  <event-date date="1948-7-10">July 10, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Third Section)</name>
+  <contest id="1738">
+    <name>Stenalees Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1097">Knights of Old</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>March contest (Kenilworth) - 1st Carharrack, 2nd St Pinnock.</notes>
+
+  <created>June 1, 2016, 11:23 a.m.</created>
+  <last-modified>June 1, 2016, 11:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="255946">
+      <result code="1">1</result>
+      <band id="20">Mount Charles Brass Band</band>
+      <conductor id="302043">Albert Grant</conductor>
+    </result>
+    
+    <result id="255947">
+      <result code="2">2</result>
+      <band id="533">St. Pinnock Band</band>
+      <conductor id="300752">F. S. Edmonds</conductor>
+    </result>
+    
+    <result id="255948">
+      <result code="3">3</result>
+      <band id="1292">Carharrack &amp; St. Day Silver</band>
+      <conductor id="296899">J. C. Allen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

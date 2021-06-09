@@ -1,0 +1,68 @@
+<contest-event id="24960">
+  <event-date date="1925-7-4">July 4, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marsden Contest</name>
+  <contest id="2589">
+    <name>Marsden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marsden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="280">Marsden, West Yorkshire</venue>
+  <notes>Prizes - 1st £20, 2nd £15, 3rd £10, 4th £5.
+  March contest (British Legion) - 1st Holme, 2nd Hepworth, 3rd Sowerby Bridge.
+  6 bands competed.</notes>
+
+  <created>Nov. 6, 2013, 10:56 a.m.</created>
+  <last-modified>Nov. 8, 2018, 12:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181919">
+      <result code="1">1</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="181920">
+      <result code="2">2</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="181921">
+      <result code="3">3</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="297851">Fred Berry</conductor>
+    </result>
+    
+    <result id="181922">
+      <result code="4">4</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181924">
+      <result code="">Unknown Result</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181923">
+      <result code="">Unknown Result</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

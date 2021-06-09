@@ -1,0 +1,80 @@
+<contest-event id="24192">
+  <event-date date="1928-8-25">Aug. 25, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Craghead Contest</name>
+  <contest id="4654">
+    <name>Craghead Contest</name>
+    <order>0</order>
+    <contest-type id="8">Own Choice from a Specified List</contest-type>
+    <group id=""></group>
+    <slug>craghead-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2624">Any Wright and Round Waltz</test-piece>
+  </test-piece>
+
+  <venue id="4015">Hedley Park, Craghead, County Durham</venue>
+  <notes>Prizes - 1st £8 and cup, 2nd £5, 3rd £2.
+  March contest - 1st Backworth Colliery, 2nd Brancepeth Colliery.
+  8 bands competed.</notes>
+
+  <created>Oct. 2, 2013, 10:37 a.m.</created>
+  <last-modified>Nov. 27, 2018, 9:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176494">
+      <result code="1">1</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="310159">J. W. Taylor</conductor>
+    </result>
+    
+    <result id="176495">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="176496">
+      <result code="3">3</result>
+      <band id="11413">Bearpark Colliery</band>
+      <conductor id="300298">Joseph Deighton</conductor>
+    </result>
+    
+    <result id="176497">
+      <result code="4">4</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="307461">J. Philpot</conductor>
+    </result>
+    
+    <result id="176498">
+      <result code="5">5</result>
+      <band id="3369">Burnhope Colliery Welfare</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+    </result>
+    
+    <result id="176500">
+      <result code="">Unknown Result</result>
+      <band id="3371">Lumley 6th Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176499">
+      <result code="">Unknown Result</result>
+      <band id="8129">Shiney Row and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176501">
+      <result code="">Unknown Result</result>
+      <band id="8407">Westwood Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="25700">
+  <event-date date="1929-7-13">July 13, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Third Section)</name>
+  <contest id="1738">
+    <name>Stenalees Contest (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2354">Accrington</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>Hymn: 1. Newlyn</notes>
+
+  <created>Dec. 21, 2013, 6:35 p.m.</created>
+  <last-modified>Dec. 21, 2013, 6:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186102">
+      <result code="1">1</result>
+      <band id="1774">St Newlyn East</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="186103">
+      <result code="2">2</result>
+      <band id="533">St. Pinnock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="186104">
+      <result code="3">3</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

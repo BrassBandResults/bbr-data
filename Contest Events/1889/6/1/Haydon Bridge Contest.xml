@@ -1,0 +1,96 @@
+<contest-event id="12844">
+  <event-date date="1889-6-1">June 1, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haydon Bridge Contest</name>
+  <contest id="2307">
+    <name>Haydon Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haydon-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1668">Haydon Bridge, Northumberland, England, UK</venue>
+  <notes>  Prizes -1st £38 and cornet valued £12.12s., 2nd  £24 and trombone valued 6.6s., 3rd £15., 4th £10.
+10 bands entered but only 5 competed.</notes>
+
+  <created>April 27, 2012, 3:25 p.m.</created>
+  <last-modified>Nov. 13, 2017, 11:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="102065">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2374">Faust [Berlioz arr. Owen]</test-piece>
+    </result>
+    
+    <result id="102066">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="102067">
+      <result code="3">3</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="994">Faust [Spohr arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="102068">
+      <result code="4">4</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="1671">Spohr&#39;s Works</test-piece>
+    </result>
+    
+    <result id="102070">
+      <result code="5">5</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="102074">
+      <result code="W">Withdrawn</result>
+      <band id="7865">Bardon Mill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102073">
+      <result code="W">Withdrawn</result>
+      <band id="6446">Haydon Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193080">
+      <result code="W">Withdrawn</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102072">
+      <result code="W">Withdrawn</result>
+      <band id="8113">St Cuthbert</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102071">
+      <result code="W">Withdrawn</result>
+      <band id="8112">St. Derwent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

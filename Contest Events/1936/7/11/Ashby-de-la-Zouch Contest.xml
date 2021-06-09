@@ -1,0 +1,98 @@
+<contest-event id="34075">
+  <event-date date="1936-7-11">July 11, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ashby-de-la-Zouch Contest</name>
+  <contest id="3449">
+    <name>Ashby-de-la-Zouch Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ashby-de-la-zouch-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2500">Recollections of Bellini [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="2640">Ashby-de-la-Zouch, Leicestershire, England, UK</venue>
+  <notes>March contest - 1st New Haden Colliery, 2nd Stanton Ironworks.
+Prizes - 1st £10 and cup, 2nd £5, 3rd £3.
+11 bands competed.</notes>
+
+  <created>Feb. 17, 2016, 12:03 p.m.</created>
+  <last-modified>Jan. 11, 2019, 11:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="246287">
+      <result code="1">1</result>
+      <band id="1799">New Haden Colliery</band>
+      <conductor id="309672">P. H. Starkie</conductor>
+    </result>
+    
+    <result id="246283">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+    </result>
+    
+    <result id="246286">
+      <result code="3">3</result>
+      <band id="2467">Clipstone Colliery Welfare</band>
+      <conductor id="298123">Jack Boddice</conductor>
+    </result>
+    
+    <result id="246278">
+      <result code="">Unknown Result</result>
+      <band id="8589">Coton in the Elms</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246285">
+      <result code="">Unknown Result</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="310654">John Turner</conductor>
+    </result>
+    
+    <result id="246284">
+      <result code="">Unknown Result</result>
+      <band id="6381">John Knowles Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246282">
+      <result code="">Unknown Result</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246288">
+      <result code="">Unknown Result</result>
+      <band id="3864">Middleton Victoria</band>
+      <conductor id="309567">J. S. Spencer</conductor>
+    </result>
+    
+    <result id="246281">
+      <result code="">Unknown Result</result>
+      <band id="4130">Rolls Royce (Crewe Division)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246280">
+      <result code="">Unknown Result</result>
+      <band id="236">Staffordshire Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="246279">
+      <result code="">Unknown Result</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310991">H. G. Walton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

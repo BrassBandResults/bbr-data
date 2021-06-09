@@ -1,0 +1,67 @@
+<contest-event id="41252">
+  <event-date date="1926-8-7">Aug. 7, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hartlepool Contest</name>
+  <contest id="1582">
+    <name>Hartlepool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hartlepool-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="13">Other</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1036">Trainage Field, Hartlepool</venue>
+  <notes>Prizes - 1st £8, 2nd £5, 3rd £2, 4th £1.
+6 bands competed.,</notes>
+
+  <created>Nov. 12, 2018, 3:54 p.m.</created>
+  <last-modified>Nov. 12, 2018, 4 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299759">
+      <result code="1">1</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="299760">
+      <result code="2">2</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="303853">Harry Jackson</conductor>
+    </result>
+    
+    <result id="299761">
+      <result code="3">3</result>
+      <band id="574">Ferryhill Town</band>
+      <conductor id="305005">William Lerigo</conductor>
+    </result>
+    
+    <result id="299762">
+      <result code="4">4</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="298065">J. Blaylock</conductor>
+    </result>
+    
+    <result id="299763">
+      <result code="">Unknown Result</result>
+      <band id="924">Pride Valley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299764">
+      <result code="">Unknown Result</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

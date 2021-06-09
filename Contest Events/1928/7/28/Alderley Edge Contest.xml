@@ -1,0 +1,63 @@
+<contest-event id="24156">
+  <event-date date="1928-7-28">July 28, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Alderley Edge Contest</name>
+  <contest id="2149">
+    <name>Alderley Edge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>alderley-edge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="2528">Harden Park, Alderley Edge, Cheshire</venue>
+  <notes>  Prizes - 1st £15 and cup, 2nd £10, 3rd £5.
+  Best local band(£2.2s) - Burnage.
+  Promoted by Alderley Edge and Wilmslow Horticultural Society.
+  5 bands competed.</notes>
+
+  <created>Sept. 30, 2013, 9:54 a.m.</created>
+  <last-modified>Aug. 14, 2016, 9:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176161">
+      <result code="1">1</result>
+      <band id="1701">Beswick Prize</band>
+      <conductor id="301511">John Fraser</conductor>
+    </result>
+    
+    <result id="176162">
+      <result code="2">2</result>
+      <band id="2684">Alderley Edge</band>
+      <conductor id="301390">S. Ford</conductor>
+    </result>
+    
+    <result id="176163">
+      <result code="3">3</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176165">
+      <result code="">Unknown Result</result>
+      <band id="2591">Burnage Manchester</band>
+      <conductor id="304957">F. S. Leech</conductor>
+    </result>
+    
+    <result id="176164">
+      <result code="">Unknown Result</result>
+      <band id="12906">Middleton Junction Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

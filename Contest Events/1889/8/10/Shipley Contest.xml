@@ -1,0 +1,81 @@
+<contest-event id="12863">
+  <event-date date="1889-8-10">Aug. 10, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shipley Contest</name>
+  <contest id="2661">
+    <name>Shipley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shipley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1573">Excelsior [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2050">Saltaire Park, Shipley, West Yorkshire</venue>
+  <notes>March contest 1st Batley Old,  2nd Earby.
+Prizes: £15, £10, £5, £2, £1
+Promoted by the Saltaire Park Band Performance Committee.
+8 bands competed</notes>
+
+  <created>April 27, 2012, 6:14 p.m.</created>
+  <last-modified>Nov. 3, 2019, 12:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102206">
+      <result code="1">1</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="102207">
+      <result code="2">2</result>
+      <band id="894">Earby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102208">
+      <result code="3">3</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102209">
+      <result code="4">4</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102211">
+      <result code="5">5</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102210">
+      <result code="5">5</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102213">
+      <result code="">Unknown Result</result>
+      <band id="3195">Daisy Hill Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102212">
+      <result code="">Unknown Result</result>
+      <band id="4577">Huddersfield Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,50 @@
+<contest-event id="25146">
+  <event-date date="1938-7-23">July 23, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Banbury Contest (Section 1)</name>
+  <contest id="3255">
+    <name>Banbury Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="307">Banbury Contest</group>
+    <slug>banbury-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2726">La Regina di Golconda</test-piece>
+  </test-piece>
+
+  <venue id="4005">Hospital Grounds, Banbury, Oxfordshire</venue>
+  <notes>  Prizes - 1st £13 and trophy, 2nd £8.8s., 3rd £5.5s.
+  8th annual contest in connection with Hospital Carnival Fete.
+3 bands competed.</notes>
+
+  <created>Nov. 16, 2013, 2:14 p.m.</created>
+  <last-modified>Jan. 22, 2014, 5:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188041">
+      <result code="1">1</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="304002">R. O. G. Jenkins</conductor>
+    </result>
+    
+    <result id="188042">
+      <result code="2">2</result>
+      <band id="828">Wolverton Town Band</band>
+      <conductor id="304584">J. Kitchener</conductor>
+    </result>
+    
+    <result id="188761">
+      <result code="3">3</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

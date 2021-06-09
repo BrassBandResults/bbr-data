@@ -1,0 +1,67 @@
+<contest-event id="15401">
+  <event-date date="1931-8-22">Aug. 22, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1442">Grand Selection: Mendelssohn&#39;s Works [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="157">Ammanford, Carmarthenshire, Wales, UK</venue>
+  <notes> Musical Progress and Mail claims contest held at Ammanford, Brass Band News states it was held in Swansea and promoted by Swansea Town Football Club.
+6 bands competed</notes>
+
+  <created>Oct. 16, 2012, 4:30 p.m.</created>
+  <last-modified>Dec. 16, 2018, 3:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119308">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="119309">
+      <result code="2">2</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="119310">
+      <result code="3">3</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="181104">
+      <result code="">Unknown Result</result>
+      <band id="8405">Cwmavon</band>
+      <conductor id="307864">James Radcliffe</conductor>
+    </result>
+    
+    <result id="181102">
+      <result code="">Unknown Result</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+    <result id="181103">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

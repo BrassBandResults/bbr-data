@@ -1,0 +1,81 @@
+<contest-event id="12222">
+  <event-date date="1894-7-14">July 14, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abbey Lakes Contest</name>
+  <contest id="2334">
+    <name>Abbey Lakes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abbey-lakes-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1843">Pomona</test-piece>
+  </test-piece>
+
+  <venue id="1690">Abbey Lakes, Upholland, Lancashire, England, UK</venue>
+  <notes>Prizes: £5, £4, £3, £2, £1
+1st/2nd prizes shared.
+8 bands competed
+</notes>
+
+  <created>April 10, 2012, 5:49 p.m.</created>
+  <last-modified>April 18, 2020, 11:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98055">
+      <result code="1">1</result>
+      <band id="6638">Darwen Borough Prize Band</band>
+      <conductor id="300939">J. E. Entwistle</conductor>
+    </result>
+    
+    <result id="98054">
+      <result code="1">1</result>
+      <band id="7773">St Paul&#39;s Goose Green</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="98056">
+      <result code="3">3</result>
+      <band id="2582">North Ashton Prize</band>
+      <conductor id="308639">J. Rylands</conductor>
+    </result>
+    
+    <result id="98057">
+      <result code="4">4</result>
+      <band id="3307">Standish Subscription</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="98058">
+      <result code="5">5</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="277616">
+      <result code="">Unknown Result</result>
+      <band id="1501">Banks Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277615">
+      <result code="">Unknown Result</result>
+      <band id="18682">Crooke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277617">
+      <result code="">Unknown Result</result>
+      <band id="15816">Upholland Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

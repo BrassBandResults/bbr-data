@@ -1,0 +1,69 @@
+<contest-event id="12022">
+  <event-date date="1894-6-2">June 2, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Raunds Contest</name>
+  <contest id="2273">
+    <name>Raunds Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>raunds-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2782">William Tell [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1643">Raunds, Northamptonshire</venue>
+  <notes>Promoted by Raunds Temperance Band
+Prizes: £15, £4 and trombone, £4, £3, £2
+March contest: 1. Kettering Rifles, 2. Kettering Town and Rushden Temperance shared.
+6 bands competed.</notes>
+
+  <created>April 8, 2012, 9:05 p.m.</created>
+  <last-modified>Nov. 25, 2019, 10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96615">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="96616">
+      <result code="2">2</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="96617">
+      <result code="3">3</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="96618">
+      <result code="4">4</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="96619">
+      <result code="5">5</result>
+      <band id="819">Luton Band</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="143743">
+      <result code="6">6</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

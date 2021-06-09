@@ -1,0 +1,44 @@
+<contest-event id="35032">
+  <event-date date="1945-3-30">March 30, 1945<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6052">North Sydney Oval, Sydney, New South Wales, Australia</venue>
+  <notes>NB The same two bands played in  both D and Junior Grades</notes>
+
+  <created>April 8, 2016, 11:56 p.m.</created>
+  <last-modified>Feb. 2, 2021, 10:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="252516">
+      <result code="1">1</result>
+      <band id="13659">Cowra District Boys</band>
+      <conductor id="304623">Colin Knight</conductor>
+      <test-piece id="1016">The Spirit of Youth</test-piece>
+    </result>
+    
+    <result id="252517">
+      <result code="2">2</result>
+      <band id="13661">Tamworth Police Boys Club</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

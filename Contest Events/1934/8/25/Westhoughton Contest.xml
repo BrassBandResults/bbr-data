@@ -1,0 +1,85 @@
+<contest-event id="33403">
+  <event-date date="1934-8-25">Aug. 25, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Westhoughton Contest</name>
+  <contest id="2213">
+    <name>Westhoughton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>westhoughton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="1602">Westhoughton, Nr Bolton, Lancashire</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £5, 3rd £3, 4thg £2, 5th £1.
+9 bands competed.</notes>
+
+  <created>Nov. 4, 2015, 9:06 a.m.</created>
+  <last-modified>Jan. 7, 2019, 3:36 p.m.</last-modified>
+
+  <results>
+    
+    <result id="240450">
+      <result code="1">1</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="306456">Harold Moss</conductor>
+    </result>
+    
+    <result id="240451">
+      <result code="2">2</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="313297">J. W. Hughes</conductor>
+    </result>
+    
+    <result id="240452">
+      <result code="3">3</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="304847">Albert Law</conductor>
+    </result>
+    
+    <result id="240453">
+      <result code="4">4</result>
+      <band id="2632">Hindley</band>
+      <conductor id="296790">W. Adamson</conductor>
+    </result>
+    
+    <result id="240454">
+      <result code="5">5</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="300740">J. Eckersley</conductor>
+    </result>
+    
+    <result id="267084">
+      <result code="">Unknown Result</result>
+      <band id="2685">Birkenhead Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267082">
+      <result code="">Unknown Result</result>
+      <band id="189">Delph Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267083">
+      <result code="">Unknown Result</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="267085">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="298353">Fred Braithwaite</conductor>
+    </result>
+    
+  </results>
+</contest-event>

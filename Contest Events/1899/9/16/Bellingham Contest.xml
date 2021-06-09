@@ -1,0 +1,51 @@
+<contest-event id="12673">
+  <event-date date="1899-9-16">Sept. 16, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bellingham Contest</name>
+  <contest id="2646">
+    <name>Bellingham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bellingham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1994">Bellingham, Northumberland, England, UK</venue>
+  <notes>1st prize £15.
+  2nd prize £10.
+  3rd prize £5.
+3 bands competed</notes>
+
+  <created>April 19, 2012, 4:27 p.m.</created>
+  <last-modified>July 10, 2017, 9:46 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100967">
+      <result code="1">1</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="100968">
+      <result code="2">2</result>
+      <band id="4850">Liddesdale Temperance</band>
+      <conductor id="299958">James Crozier</conductor>
+    </result>
+    
+    <result id="100969">
+      <result code="3">3</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+  </results>
+</contest-event>

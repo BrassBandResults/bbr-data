@@ -1,0 +1,54 @@
+<contest-event id="24951">
+  <event-date date="1925-6-27">June 27, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1749">Eroica Symphony</test-piece>
+  </test-piece>
+
+  <venue id="4000">Memorial Hall, Seven Sisters, Neath, Glamorgan</venue>
+  <notes></notes>
+
+  <created>Nov. 6, 2013, 10:04 a.m.</created>
+  <last-modified>Nov. 6, 2013, 10:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="181893">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="303413">John Hopkins</conductor>
+    </result>
+    
+    <result id="181894">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="181895">
+      <result code="3">3</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="181896">
+      <result code="4">4</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

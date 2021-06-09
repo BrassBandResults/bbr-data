@@ -1,0 +1,78 @@
+<contest-event id="41427">
+  <event-date date="1929-6-15">June 15, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lesmahagow Contest</name>
+  <contest id="3170">
+    <name>Lesmahagow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lesmahagow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1683">National Airs</test-piece>
+  </test-piece>
+
+  <venue id="2447">Lesmahagow, Lanarkshire</venue>
+  <notes>8 bands competed</notes>
+
+  <created>Nov. 30, 2018, 2:24 p.m.</created>
+  <last-modified>Nov. 30, 2018, 2:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="301296">
+      <result code="1">1</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="301297">
+      <result code="2">2</result>
+      <band id="375">Renfrew Burgh Band</band>
+      <conductor id="313875">John Peckham Snr</conductor>
+    </result>
+    
+    <result id="301298">
+      <result code="3">3</result>
+      <band id="5484">Larkhall Silver</band>
+      <conductor id="301582">W. Fullarton</conductor>
+    </result>
+    
+    <result id="301299">
+      <result code="4">4</result>
+      <band id="5499">Bannockburn Colliery</band>
+      <conductor id="297732">Alexander Bell</conductor>
+    </result>
+    
+    <result id="301301">
+      <result code="">Unknown Result</result>
+      <band id="11478">Clydebank Congregational</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301300">
+      <result code="">Unknown Result</result>
+      <band id="646">Croy Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301302">
+      <result code="">Unknown Result</result>
+      <band id="5229">Duntocher</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301303">
+      <result code="">Unknown Result</result>
+      <band id="17545">Kingswood Abbey Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

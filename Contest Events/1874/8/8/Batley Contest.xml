@@ -1,0 +1,75 @@
+<contest-event id="8488">
+  <event-date date="1874-8-8">Aug. 8, 1874<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Batley Contest</name>
+  <contest id="1251">
+    <name>Batley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>batley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2191">Gemma di Vergy [arr. Smith]</test-piece>
+  </test-piece>
+
+  <venue id="980">Howley Ruins, Batley</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4287.htm
+
+The annual brass band contest was held on the grounds near the ruins of Howley Hall, and was well attended. Out of ten bands that had entered seven put in an appearance. The committee had secured the services of one of the best composers of the day to write a piece of music expressly for the occasion. The name of the piece was &quot;Gemma de Vergi&quot;, which each band played first. The second piece was of their selection. Mr. Richard Smith, of Hull, publisher of the &quot;Champion Brass Band Journal&quot;, was the judge, and he had a most difficult task, owing to the boisterous state of the weather. He gave the prizes as follows: First prize £20, Meltham Mills band; 2nd prize £15, Buttershaw Mills band; 3rd prize £10, Dewsbury Old Band; 4th prize Wike Old Band; and 5th prize £2, Wyke Temperance Band. The other hands which competed were Holme Bridge and Golcar bands. In addition to the above prizes, the judge gave an extra prize consisting of a splendid gold-mounted ivory baton, manufactured by Messrs. Besson and Co., to Mr. Gladney, conductor of the Meltham Mills band, for having conducted the various movements in both selections nearest to the time intended by the authors.</notes>
+
+  <created>Dec. 7, 2011, 3:16 p.m.</created>
+  <last-modified>Jan. 15, 2014, 2:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="75401">
+      <result code="1">1</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="75402">
+      <result code="2">2</result>
+      <band id="3498">Buttershaw Mills (Bradford)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="75403">
+      <result code="3">3</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="75404">
+      <result code="4">4</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="75405">
+      <result code="5">5</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="75407">
+      <result code="">Unknown Result</result>
+      <band id="907">Golcar Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="75406">
+      <result code="">Unknown Result</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

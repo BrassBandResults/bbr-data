@@ -1,0 +1,52 @@
+<contest-event id="17163">
+  <event-date date="1881-7-4">July 4, 1881<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rugeley Contest</name>
+  <contest id="3705">
+    <name>Rugeley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rugeley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2815">Halgey Park, Rugeley</venue>
+  <notes>Prizes: £15, £7, £3
+</notes>
+
+  <created>Dec. 19, 2012, 10:14 a.m.</created>
+  <last-modified>June 7, 2014, 7:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="202055">
+      <result code="1">1</result>
+      <band id="6131">Willenhall Templar</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="1497">Honoria</test-piece>
+    </result>
+    
+    <result id="130325">
+      <result code="2">2</result>
+      <band id="6130">6th Staffordshire Rifle Volunteers (Burslem)</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="1497">Honoria</test-piece>
+    </result>
+    
+    <result id="130326">
+      <result code="3">3</result>
+      <band id="10106">Stoke Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1497">Honoria</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

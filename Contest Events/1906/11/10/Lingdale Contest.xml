@@ -1,0 +1,49 @@
+<contest-event id="11161">
+  <event-date date="1906-11-10">Nov. 10, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lingdale Contest</name>
+  <contest id="2185">
+    <name>Lingdale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lingdale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="888">Satanella [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1589">Lingdale, North Yorkshire</venue>
+  <notes>March contest  1st Skinningrove,  2nd North Skelton.
+3 bands competed</notes>
+
+  <created>March 14, 2012, 10:48 p.m.</created>
+  <last-modified>Sept. 16, 2018, 9:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="92407">
+      <result code="1">1</result>
+      <band id="937">Lingdale Silver Band</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="92408">
+      <result code="2">2</result>
+      <band id="1637">Skinningrove Miners Prize Silver Band</band>
+      <conductor id="304904">William Layman</conductor>
+    </result>
+    
+    <result id="92409">
+      <result code="3">3</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="304153">A. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

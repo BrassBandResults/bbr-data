@@ -1,0 +1,81 @@
+<contest-event id="12617">
+  <event-date date="1899-8-12">Aug. 12, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mansfield Contest</name>
+  <contest id="2621">
+    <name>Mansfield Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mansfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3756">Field Mill Ground (Stadium), Mansfield</venue>
+  <notes>Promoted by Mansfield Borough Band
+
+  1st prize £5.
+  2nd prize £3.
+  3rd prize £2.
+  4th prize £1.
+
+  March contest 1st (£1) East Kirkby United,  2nd 10s.)  Kirkby-in-Ashfield,  3rd (5s.) Beeston Humber.
+
+  7 bands competed.</notes>
+
+  <created>April 18, 2012, 2:09 p.m.</created>
+  <last-modified>Aug. 9, 2013, 8:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100598">
+      <result code="1">1</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="100599">
+      <result code="2">2</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="100600">
+      <result code="3">3</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="301210">R. Few</conductor>
+    </result>
+    
+    <result id="100601">
+      <result code="4">4</result>
+      <band id="5187">Codnor Primitives</band>
+      <conductor id="308952">J. Sharpe</conductor>
+    </result>
+    
+    <result id="100604">
+      <result code="">Unknown Result</result>
+      <band id="6794">Beeston Humber</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100603">
+      <result code="">Unknown Result</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100602">
+      <result code="">Unknown Result</result>
+      <band id="1670">Staveley Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

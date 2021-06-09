@@ -1,0 +1,115 @@
+<contest-event id="9298">
+  <event-date date="1888-5-26">May 26, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southport Contest</name>
+  <contest id="1547">
+    <name>Southport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1570">Maritana [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1010">Winter Gardens, Southport</venue>
+  <notes>Prizes - 1st £16, 2nd £10, 3rd £5, 4th £3, 5th £1.
+14 bands entered and 10 competed.</notes>
+
+  <created>Jan. 1, 2012, 11:45 a.m.</created>
+  <last-modified>Oct. 28, 2019, 7:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80352">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="80353">
+      <result code="2">2</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="80354">
+      <result code="3">3</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="80355">
+      <result code="4">4</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="297449">Joseph Barber</conductor>
+    </result>
+    
+    <result id="80356">
+      <result code="5">5</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="91806">
+      <result code="6">6</result>
+      <band id="2528">Southport Rifles Band</band>
+      <conductor id="308226">Thomas Rimmer</conductor>
+    </result>
+    
+    <result id="284019">
+      <result code="">Unknown Result</result>
+      <band id="5455">Chadderton Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284020">
+      <result code="">Unknown Result</result>
+      <band id="8099">Burnley Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284021">
+      <result code="">Unknown Result</result>
+      <band id="2524">Radcliffe Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284022">
+      <result code="">Unknown Result</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284026">
+      <result code="W">Withdrawn</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284023">
+      <result code="W">Withdrawn</result>
+      <band id="2519">Heywood Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284024">
+      <result code="W">Withdrawn</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="284025">
+      <result code="W">Withdrawn</result>
+      <band id="5197">Leyland Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

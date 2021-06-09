@@ -1,0 +1,75 @@
+<contest-event id="26040">
+  <event-date date="1938-6-11">June 11, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest</name>
+  <contest id="1022">
+    <name>Ruardean Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="356">Ruardean Contest</group>
+    <slug>ruardean-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="789">Wayside Scenes</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>Prizes - 1st £15, 2nd £8, 3rd £4.
+  March contest on stage - Cwm Town.
+  March contest on road - Blaina and District.
+  7 bands competed.</notes>
+
+  <created>Jan. 22, 2014, 11:34 a.m.</created>
+  <last-modified>Jan. 22, 2019, 12:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188559">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="188560">
+      <result code="2">2</result>
+      <band id="416">Langley Band</band>
+      <conductor id="300220">Roland Davis</conductor>
+    </result>
+    
+    <result id="188561">
+      <result code="3">3</result>
+      <band id="2604">Griff Colliery</band>
+      <conductor id="305203">F. W. Locker</conductor>
+    </result>
+    
+    <result id="188563">
+      <result code="">Unknown Result</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188564">
+      <result code="">Unknown Result</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188562">
+      <result code="">Unknown Result</result>
+      <band id="793">Cwm Town Band</band>
+      <conductor id="308424">W. L. Rogers</conductor>
+    </result>
+    
+    <result id="188565">
+      <result code="">Unknown Result</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

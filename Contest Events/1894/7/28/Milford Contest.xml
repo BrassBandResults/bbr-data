@@ -1,0 +1,62 @@
+<contest-event id="12239">
+  <event-date date="1894-7-28">July 28, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Milford Contest</name>
+  <contest id="2500">
+    <name>Milford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>milford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2782">William Tell [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1852">Milford, Derbyshire, England, UK</venue>
+  <notes>5 bands competed
+Prizes: £10, £6, £3, £2
+March contest: 1. Rotherham Temperance</notes>
+
+  <created>April 10, 2012, 7:41 p.m.</created>
+  <last-modified>Nov. 26, 2019, 2:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98127">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="98128">
+      <result code="2">2</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="98129">
+      <result code="3">3</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="302841">James Haywood</conductor>
+    </result>
+    
+    <result id="98130">
+      <result code="4">4</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="302178">C. A. Gregory</conductor>
+    </result>
+    
+    <result id="145021">
+      <result code="5">5</result>
+      <band id="512">Pleasley Colliery Welfare Band</band>
+      <conductor id="301714">F. Gaunt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

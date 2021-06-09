@@ -1,0 +1,55 @@
+<contest-event id="18728">
+  <event-date date="1940-4-13">April 13, 1940<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Riding Contest (1st Section)</name>
+  <contest id="1785">
+    <name>West Riding Contest (1st Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="182">West Riding Contest</group>
+    <slug>west-riding-contest-1st-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1370">Beethoven&#39;s Works [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="598">Ossett Town Hall, Ossett, West Yorkshire, England, UK</venue>
+  <notes>March contest  1st Gawthorpe, 2nd Canal Ironworks.
+4 bands competed</notes>
+
+  <created>March 1, 2013, 12:48 p.m.</created>
+  <last-modified>Jan. 26, 2019, 3:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="140495">
+      <result code="1">1</result>
+      <band id="2998">Yorkshire Traction</band>
+      <conductor id="310397">Ernest Thorpe</conductor>
+    </result>
+    
+    <result id="140496">
+      <result code="2">2</result>
+      <band id="2687">Canal Ironworks</band>
+      <conductor id="299555">Gershom Collison</conductor>
+    </result>
+    
+    <result id="140497">
+      <result code="3">3</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="302807">Herbert Bowdin Hawley</conductor>
+    </result>
+    
+    <result id="140507">
+      <result code="">Unknown Result</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="304433">Harold Kemp</conductor>
+    </result>
+    
+  </results>
+</contest-event>

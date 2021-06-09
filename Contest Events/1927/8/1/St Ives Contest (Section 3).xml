@@ -1,0 +1,75 @@
+<contest-event id="23992">
+  <event-date date="1927-8-1">Aug. 1, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St Ives Contest (Section 3)</name>
+  <contest id="4537">
+    <name>St Ives Contest (Section 3)</name>
+    <order>3</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="485">St Ives Contest</group>
+    <slug>st-ives-contest-section-3</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="800">Poetic Fancies</test-piece>
+  </test-piece>
+
+  <venue id="3923">St. Ives, Cornwall</venue>
+  <notes>  March contest - 1st Falmouth, 2nd St.Minver.
+  7 bands competed.
+
+Prizes: £14, £10, £7</notes>
+
+  <created>Sept. 23, 2013, 1:22 p.m.</created>
+  <last-modified>Aug. 15, 2016, 8:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175353">
+      <result code="1">1</result>
+      <band id="6466">St Minver Silver Band</band>
+      <conductor id="311728">J. F. Wills</conductor>
+    </result>
+    
+    <result id="175354">
+      <result code="2">2</result>
+      <band id="1774">St Newlyn East</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="175355">
+      <result code="3">3</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="299173">Thomas Chainey</conductor>
+    </result>
+    
+    <result id="175356">
+      <result code="4">4</result>
+      <band id="299">Helston Town Band</band>
+      <conductor id="302672">W. A. Harris</conductor>
+    </result>
+    
+    <result id="175358">
+      <result code="">Unknown Result</result>
+      <band id="1470">Camelford Town</band>
+      <conductor id="296790">W. Adamson</conductor>
+    </result>
+    
+    <result id="175357">
+      <result code="">Unknown Result</result>
+      <band id="8612">Hayle Silver</band>
+      <conductor id="310090">John Tanner</conductor>
+    </result>
+    
+    <result id="175359">
+      <result code="">Unknown Result</result>
+      <band id="4497">St. Erth</band>
+      <conductor id="311726">E. C. Wills</conductor>
+    </result>
+    
+  </results>
+</contest-event>

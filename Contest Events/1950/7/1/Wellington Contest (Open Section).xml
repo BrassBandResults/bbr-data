@@ -1,0 +1,48 @@
+<contest-event id="26496">
+  <event-date date="1950-7-1">July 1, 1950<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellington Contest (Open Section)</name>
+  <contest id="5103">
+    <name>Wellington Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellington-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1108">Songs of Wales</test-piece>
+  </test-piece>
+
+  <venue id="1579">Wellington, Shropshire</venue>
+  <notes></notes>
+
+  <created>Feb. 21, 2014, 1:13 p.m.</created>
+  <last-modified>Feb. 21, 2014, 1:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="192012">
+      <result code="1">1</result>
+      <band id="347">Amington Band</band>
+      <conductor id="300220">Roland Davis</conductor>
+    </result>
+    
+    <result id="192013">
+      <result code="2">2</result>
+      <band id="2515">Burslem Band</band>
+      <conductor id="300220">Roland Davis</conductor>
+    </result>
+    
+    <result id="192014">
+      <result code="3">3</result>
+      <band id="1869">Monsanto Chemical Works</band>
+      <conductor id="303825">F. G. H. Irving</conductor>
+    </result>
+    
+  </results>
+</contest-event>

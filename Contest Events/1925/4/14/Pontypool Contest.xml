@@ -1,0 +1,68 @@
+<contest-event id="41099">
+  <event-date date="1925-4-14">April 14, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypool Contest</name>
+  <contest id="2713">
+    <name>Pontypool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontypool-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="5581">Pontypool Park, Pontypool, Monmouthshire</venue>
+  <notes>Prizes - 1st £9, 2nd £4, 3rd £2.
+March contest - 1st Oakdale, 2nd Treharris.
+6 bands competed.</notes>
+
+  <created>Nov. 3, 2018, 1:32 p.m.</created>
+  <last-modified>Feb. 24, 2021, 10:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298526">
+      <result code="1">1</result>
+      <band id="787">Oakdale Silver Band</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="298527">
+      <result code="2">2</result>
+      <band id="8031">Treharris</band>
+      <conductor id="300480">J. Donlan</conductor>
+    </result>
+    
+    <result id="298528">
+      <result code="3">3</result>
+      <band id="4618">Troedyrhiw Silver</band>
+      <conductor id="311645">Joseph Williams</conductor>
+    </result>
+    
+    <result id="298531">
+      <result code="">Unknown Result</result>
+      <band id="8138">Brynmawr</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298529">
+      <result code="">Unknown Result</result>
+      <band id="793">Cwm Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298530">
+      <result code="">Unknown Result</result>
+      <band id="17371">Llanhylleth Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

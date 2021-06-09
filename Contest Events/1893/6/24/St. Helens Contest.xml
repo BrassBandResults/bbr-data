@@ -1,0 +1,76 @@
+<contest-event id="11785">
+  <event-date date="1893-6-24">June 24, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Helens Contest</name>
+  <contest id="2362">
+    <name>St. Helens Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1275">Theodora</test-piece>
+  </test-piece>
+
+  <venue id="1716">St. Helens, Merseyside, England, UK</venue>
+  <notes>Euphonium prize: Wingates
+March contest: 1. Widnes Subscription
+Prizes - 1st £12, 2nd £7, 3rd £4, 4th £2, 5th £1.
+9 bands competed
+</notes>
+
+  <created>April 7, 2012, 7:49 a.m.</created>
+  <last-modified>Jan. 4, 2020, 4:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95352">
+      <result code="1">1</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="95353">
+      <result code="2">2</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="95354">
+      <result code="3">3</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="95355">
+      <result code="4">4</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="95356">
+      <result code="5">5</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="314468">
+      <result code="">Unknown Result</result>
+      <band id="16504">Warrington Primitive Methodist</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95357">
+      <result code="">Unknown Result</result>
+      <band id="3662">Widnes Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

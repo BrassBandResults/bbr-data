@@ -1,0 +1,64 @@
+<contest-event id="25199">
+  <event-date date="1938-4-30">April 30, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dundee Contest</name>
+  <contest id="1597">
+    <name>Dundee Contest</name>
+    <order>5</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="355">Dundee Contest</group>
+    <slug>dundee-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1064">Dundee, Dundee City, Scotland, UK</venue>
+  <notes>
+  7 bands competed</notes>
+
+  <created>Nov. 19, 2013, 11:33 a.m.</created>
+  <last-modified>Jan. 21, 2014, 10:07 a.m.</last-modified>
+
+  <results>
+    
+    <result id="183501">
+      <result code="1">1</result>
+      <band id="642">Tullis Russell Mills</band>
+      <conductor id="302391">John Haldane</conductor>
+      <test-piece id="1554">Rienzi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="183502">
+      <result code="2">2</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="297790">Herbert Bennett</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="183503">
+      <result code="3">3</result>
+      <band id="1050">Forfar Instrumental</band>
+      <conductor id="297008">R. Anderson</conductor>
+      <test-piece id="1559">Wagner [arr. Round]</test-piece>
+    </result>
+    
+    <result id="183504">
+      <result code="">Unknown Result</result>
+      <band id="2100">RNR (Tay Division) Dundee</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183505">
+      <result code="">Unknown Result</result>
+      <band id="1240">West Calder Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

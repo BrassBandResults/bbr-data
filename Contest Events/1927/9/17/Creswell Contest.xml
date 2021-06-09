@@ -1,0 +1,62 @@
+<contest-event id="41369">
+  <event-date date="1927-9-17">Sept. 17, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Creswell Contest</name>
+  <contest id="4489">
+    <name>Creswell Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>creswell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5821">Il Flauto Magico [unknown arranger] or A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="6994">Creswell, Derbyshire</venue>
+  <notes>March contest - 1st Pleasley, 2nd Bolsover.
+Prizes - 1st £15, 2nd £9, 3rd £4, 4th £2.
+5 bands competed.</notes>
+
+  <created>Nov. 23, 2018, 7:24 p.m.</created>
+  <last-modified>March 11, 2021, 9:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="300770">
+      <result code="1">1</result>
+      <band id="512">Pleasley Colliery Welfare Band</band>
+      <conductor id="304761">Bert Lambeth</conductor>
+    </result>
+    
+    <result id="300771">
+      <result code="2">2</result>
+      <band id="8543">Shipley Collieries</band>
+      <conductor id="309444">S. Smith</conductor>
+    </result>
+    
+    <result id="300772">
+      <result code="3">3</result>
+      <band id="1665">Bolsover Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="300773">
+      <result code="4">4</result>
+      <band id="8411">Whitwell British Legion</band>
+      <conductor id="301129">Joseph Farrington</conductor>
+    </result>
+    
+    <result id="300774">
+      <result code="5">5</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

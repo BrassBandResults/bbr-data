@@ -1,0 +1,84 @@
+<contest-event id="12521">
+  <event-date date="1895-6-22">June 22, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lea Mills Contest</name>
+  <contest id="1673">
+    <name>Lea Mills Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>lea-mills-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3124">Lea Hurst Park, Holloway, Derbyshire</venue>
+  <notes>Promoted by Lea Mills Prize Brass Band
+4 bands competed
+March contest: 1. Belper United, 2. Irwell Bank</notes>
+
+  <created>April 15, 2012, 8:20 p.m.</created>
+  <last-modified>June 17, 2019, 9:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100064">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100065">
+      <result code="2">2</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301861">Edward Gittins</conductor>
+      <test-piece id="2204">Weber&#39;s Works</test-piece>
+    </result>
+    
+    <result id="100066">
+      <result code="3">3</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="302841">James Haywood</conductor>
+      <test-piece id="1860">Schubert [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100067">
+      <result code="4">4</result>
+      <band id="7436">Wirksworth United</band>
+      <conductor id="302841">James Haywood</conductor>
+      <test-piece id="2388">Torquato Tasso [arr. Round]</test-piece>
+    </result>
+    
+    <result id="147677">
+      <result code="W">Withdrawn</result>
+      <band id="10731">Alfreton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="147676">
+      <result code="W">Withdrawn</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="147675">
+      <result code="W">Withdrawn</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="147678">
+      <result code="W">Withdrawn</result>
+      <band id="6090">Long Eaton Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

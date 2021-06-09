@@ -1,0 +1,55 @@
+<contest-event id="10961">
+  <event-date date="1906-8-6">Aug. 6, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wilton Contest</name>
+  <contest id="2139">
+    <name>Wilton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wilton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1724">Latona</test-piece>
+  </test-piece>
+
+  <venue id="1556">Wilton, Wiltshire, England, UK</venue>
+  <notes> March contest 1st Broad Chalke, 2nd Berwick St John.
+9 bands competed.</notes>
+
+  <created>March 10, 2012, 7:42 a.m.</created>
+  <last-modified>Sept. 15, 2018, 8:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90880">
+      <result code="1">1</result>
+      <band id="6802">Broad Chalke</band>
+      <conductor id="302322">F. Gurd</conductor>
+    </result>
+    
+    <result id="90881">
+      <result code="2">2</result>
+      <band id="6804">West Cholderton</band>
+      <conductor id="300467">F. Dollery</conductor>
+    </result>
+    
+    <result id="90882">
+      <result code="3">3</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="309879">W. Stretch</conductor>
+    </result>
+    
+    <result id="90883">
+      <result code="4">4</result>
+      <band id="1767">Hadstock Silver Band</band>
+      <conductor id="301179">F. Felton</conductor>
+    </result>
+    
+  </results>
+</contest-event>
