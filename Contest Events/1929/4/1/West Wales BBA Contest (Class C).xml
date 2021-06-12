@@ -1,0 +1,66 @@
+<contest-event id="24253">
+  <event-date date="1929-4-1">April 1, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class C)</name>
+  <contest id="4008">
+    <name>West Wales BBA Contest (Class C)</name>
+    <order>230</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="7108">Pavilion, Station Road, Llanelly, Carmarthenshire</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Oct. 3, 2013, 8:12 a.m.</created>
+  <last-modified>May 6, 2019, 2:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="177023">
+      <result code="1">1</result>
+      <band id="8389">Resolven</band>
+      <conductor id="304228">J. R. Jones</conductor>
+    </result>
+    
+    <result id="177024">
+      <result code="2">2</result>
+      <band id="10616">Penclawdd Silver</band>
+      <conductor id="309956">H. Sutcliffe</conductor>
+    </result>
+    
+    <result id="177028">
+      <result code="3">3</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">Thomas Charles White</conductor>
+    </result>
+    
+    <result id="177025">
+      <result code="4">4</result>
+      <band id="9781">Cwmllynfell &amp; District Public Silver</band>
+      <conductor id="311623">Haydn Williams</conductor>
+    </result>
+    
+    <result id="177026">
+      <result code="W">Withdrawn</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177027">
+      <result code="W">Withdrawn</result>
+      <band id="9837">Port Talbot and Taibach</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

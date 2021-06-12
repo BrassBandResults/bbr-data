@@ -1,0 +1,92 @@
+<contest-event id="11305">
+  <event-date date="1907-5-20">May 20, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest</name>
+  <contest id="1862">
+    <name>West Stanley Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="227">West Stanley Contest</group>
+    <slug>west-stanley-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2788">Il Trovatore - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4548">Stores Field, West Stanley, County Durham</venue>
+  <notes>  1st prize £20.
+  2nd prize £10.
+  3rd prize £5.
+  4th prize £2.
+  5th prize £1. 
+
+  March contest  1st (£2.10s) Birtley League,  2nd (£1.10s.) Heworth Colliery,  3rd (£1) Palmer&#39;s Works.
+
+  9 bands competed.</notes>
+
+  <created>March 20, 2012, 4:29 p.m.</created>
+  <last-modified>Sept. 17, 2018, 9:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="93289">
+      <result code="1">1</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="311013">Charles Ward</conductor>
+    </result>
+    
+    <result id="93290">
+      <result code="2">2</result>
+      <band id="2138">Palmer&#39;s Works</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="93291">
+      <result code="3">3</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="93292">
+      <result code="4">4</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="93293">
+      <result code="5">5</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+    </result>
+    
+    <result id="93294">
+      <result code="">Unknown Result</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93295">
+      <result code="">Unknown Result</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="93297">
+      <result code="">Unknown Result</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="307749">T. Pritchard</conductor>
+    </result>
+    
+    <result id="93296">
+      <result code="">Unknown Result</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

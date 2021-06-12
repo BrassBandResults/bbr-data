@@ -1,0 +1,67 @@
+<contest-event id="11878">
+  <event-date date="1892-8-10">Aug. 10, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Longton Contest</name>
+  <contest id="1249">
+    <name>Longton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>longton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1096">Covered Market, Longton</venue>
+  <notes>No band to play a selection by which it had previously won a prize.
+1st prize £75, 2nd £50, 3rd £35, 4th £20, 5th £15.
+March contest 1st (£3) Kingston Mills5 bands competed</notes>
+
+  <created>April 8, 2012, 10:19 a.m.</created>
+  <last-modified>June 3, 2019, 8:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95936">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="137376">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="137377">
+      <result code="3">3</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2246">Le Prophete [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="309148">
+      <result code="4">4</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310639">George Turner</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="309149">
+      <result code="5">5</result>
+      <band id="4520">Hanley Excelsior</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="3740">Rossini&#39;s Works</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

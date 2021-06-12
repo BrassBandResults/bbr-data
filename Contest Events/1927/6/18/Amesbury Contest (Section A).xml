@@ -1,0 +1,68 @@
+<contest-event id="36688">
+  <event-date date="1927-6-18">June 18, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Amesbury Contest (Section A)</name>
+  <contest id="4901">
+    <name>Amesbury Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="496">Amesbury Contest</group>
+    <slug>amesbury-contest-section-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4175">Amesbury, Wiltshire, England, UK</venue>
+  <notes>Prizes - 1st £15, 2nd £7, 3rd £4, 4th £2.
+March contest - 1st Aldbourne, 2nd Swindon G.W.R.,
+6 bands competed.</notes>
+
+  <created>Dec. 15, 2016, 11:07 a.m.</created>
+  <last-modified>Nov. 19, 2018, 10:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="265712">
+      <result code="1">1</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="303492">C. Howley</conductor>
+    </result>
+    
+    <result id="265713">
+      <result code="2">2</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="265714">
+      <result code="3">3</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="312126">Cliff Young</conductor>
+    </result>
+    
+    <result id="265715">
+      <result code="4">4</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="300231">R. W. Davison</conductor>
+    </result>
+    
+    <result id="265717">
+      <result code="">Unknown Result</result>
+      <band id="6715">Lymington Town</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="265716">
+      <result code="">Unknown Result</result>
+      <band id="527">Swindon Pegasus Brass</band>
+      <conductor id="296961">B. Amor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

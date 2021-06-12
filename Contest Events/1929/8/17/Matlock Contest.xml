@@ -1,0 +1,70 @@
+<contest-event id="24508">
+  <event-date date="1929-8-17">Aug. 17, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Matlock Contest</name>
+  <contest id="1205">
+    <name>Matlock Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>matlock-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4130">Lover&#39;s Walk, Matlock Bath, Derbyshire</venue>
+  <notes>
+  Prizes - 1st £12 and cup, 2nd £7, 3rd £4, 4th £2.
+  March contest 1st(£1.10s.) Hardwick Colliery, 2nd(£1) Kirkby Old.
+  Promoted by Matlock Bath Tradesmen.
+  6 bands competed.</notes>
+
+  <created>Oct. 14, 2013, 8:48 a.m.</created>
+  <last-modified>Dec. 2, 2018, 4:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="178998">
+      <result code="1">1</result>
+      <band id="8287">Hardwick Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="178999">
+      <result code="2">2</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179000">
+      <result code="3">3</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179001">
+      <result code="4">4</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179003">
+      <result code="">Unknown Result</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179002">
+      <result code="">Unknown Result</result>
+      <band id="3323">Poolsbrook</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

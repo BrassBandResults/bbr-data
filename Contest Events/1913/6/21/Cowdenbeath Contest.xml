@@ -1,0 +1,71 @@
+<contest-event id="25352">
+  <event-date date="1913-6-21">June 21, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cowdenbeath Contest</name>
+  <contest id="1873">
+    <name>Cowdenbeath Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="215">Cowdenbeath Contest</group>
+    <slug>cowdenbeath-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1084">Memories of Britain</test-piece>
+  </test-piece>
+
+  <venue id="4271">Public Park, Cowdenbeath, Fife, Scotland, UK</venue>
+  <notes>Scottish Amateur Band Associatio summer contest
+
+March: 1. Lassodie, 2. Bowhill
+
+
+</notes>
+
+  <created>Nov. 29, 2013, 9:02 p.m.</created>
+  <last-modified>Nov. 18, 2020, 2:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184454">
+      <result code="1">1</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="184455">
+      <result code="2">2</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="184456">
+      <result code="3">3</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184457">
+      <result code="4">4</result>
+      <band id="5480">Balgonie Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322856">
+      <result code="">Unknown Result</result>
+      <band id="5499">Bannockburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322857">
+      <result code="">Unknown Result</result>
+      <band id="1994">Kilsyth Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

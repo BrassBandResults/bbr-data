@@ -1,0 +1,79 @@
+<contest-event id="24171">
+  <event-date date="1928-8-4">Aug. 4, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Roker Park Contest</name>
+  <contest id="4694">
+    <name>Roker Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>roker-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3885">Roker Park, Sunderland</venue>
+  <notes>
+  8 bands competed.</notes>
+
+  <created>Oct. 1, 2013, 8:09 a.m.</created>
+  <last-modified>July 12, 2016, 8:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176300">
+      <result code="1">1</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176301">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176302">
+      <result code="3">3</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="176303">
+      <result code="4">4</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176304">
+      <result code="">Unknown Result</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176307">
+      <result code="">Unknown Result</result>
+      <band id="11412">Marsden St Andrews</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176305">
+      <result code="">Unknown Result</result>
+      <band id="924">Pride Valley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176306">
+      <result code="">Unknown Result</result>
+      <band id="2628">Sunderland Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

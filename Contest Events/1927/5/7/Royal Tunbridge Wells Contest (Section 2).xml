@@ -1,0 +1,54 @@
+<contest-event id="24020">
+  <event-date date="1927-5-7">May 7, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 2)</name>
+  <contest id="2881">
+    <name>Royal Tunbridge Wells Contest (Section 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="2215">Calverley Grounds, Tunbridge Wells, Kent</venue>
+  <notes>  4 bands competed.</notes>
+
+  <created>Sept. 23, 2013, 10:23 p.m.</created>
+  <last-modified>Dec. 14, 2016, 10:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175528">
+      <result code="1">1</result>
+      <band id="5438">City of Canterbury</band>
+      <conductor id="298758">W. C. Burgess</conductor>
+    </result>
+    
+    <result id="175529">
+      <result code="2">2</result>
+      <band id="8706">Forest Row &amp; District</band>
+      <conductor id="310176">O. H. Taylor</conductor>
+    </result>
+    
+    <result id="175530">
+      <result code="">Unknown Result</result>
+      <band id="3941">East Peckham Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175531">
+      <result code="">Unknown Result</result>
+      <band id="8146">Turners Hill and Worth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

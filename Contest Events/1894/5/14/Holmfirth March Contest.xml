@@ -1,0 +1,56 @@
+<contest-event id="12002">
+  <event-date date="1894-5-14">May 14, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holmfirth March Contest</name>
+  <contest id="1857">
+    <name>Holmfirth March Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>holmfirth-march-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1850">Leno</test-piece>
+  </test-piece>
+
+  <venue id="1306">Holmfirth, West Yorkshire, England, UK</venue>
+  <notes>3 bands competed
+
+Prizes: £3, £1 10s, 15s</notes>
+
+  <created>April 8, 2012, 7:33 p.m.</created>
+  <last-modified>April 9, 2012, 4:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96503">
+      <result code="1">1</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="96504">
+      <result code="2">2</result>
+      <band id="7629">Meltham Mills Junior</band>
+      <conductor id="307684">James Preston</conductor>
+    </result>
+    
+    <result id="96505">
+      <result code="3">3</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="297725">John Belcher</conductor>
+    </result>
+    
+    <result id="97548">
+      <result code="W">Withdrawn</result>
+      <band id="6286">Wooldale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,78 @@
+<contest-event id="9002">
+  <event-date date="1882-8-7">Aug. 7, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest</name>
+  <contest id="1372">
+    <name>Barrow Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1554">Rienzi [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="885">Barrow-in-Furness, Cumbria, England, UK</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Dec. 19, 2011, 1:11 p.m.</created>
+  <last-modified>Nov. 21, 2017, 11:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="282164">
+      <result code="1">1</result>
+      <band id="6135">Rochdale Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282165">
+      <result code="2">2</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282166">
+      <result code="3">3</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282171">
+      <result code="W">Withdrawn</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282168">
+      <result code="W">Withdrawn</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282170">
+      <result code="W">Withdrawn</result>
+      <band id="894">Earby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282167">
+      <result code="W">Withdrawn</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="282169">
+      <result code="W">Withdrawn</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

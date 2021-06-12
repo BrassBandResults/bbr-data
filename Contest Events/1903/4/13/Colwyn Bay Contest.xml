@@ -1,0 +1,49 @@
+<contest-event id="40122">
+  <event-date date="1903-4-13">April 13, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest</name>
+  <contest id="1076">
+    <name>Colwyn Bay Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="1251">Colwyn Bay, Conwy, Wales, UK</venue>
+  <notes>March contest - 1st Llandulas
+3 bands competed</notes>
+
+  <created>July 22, 2018, 8:32 p.m.</created>
+  <last-modified>May 8, 2020, 9:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291690">
+      <result code="1">1</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291692">
+      <result code="">Unknown Result</result>
+      <band id="671">Holywell Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="291691">
+      <result code="">Unknown Result</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="5334">
+  <event-date date="1859-9-5">Sept. 5, 1859<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belle Vue Brass Band Contest</name>
+  <contest id="6">
+    <name>British Open</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>british-open</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="140">Belle Vue, Manchester, Greater Manchester, England, UK</venue>
+  <no-contest>The contest was cancelled as only three bands entered: Black Dyke, Dewsbury, and Holmfirth.</no-contest>
+
+  <created>April 12, 2011, 9:31 p.m.</created>
+  <last-modified>Oct. 26, 2014, 10:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="45969">
+      <result code="W">Cancelled</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="45970">
+      <result code="W">Cancelled</result>
+      <band id="2511">Dewsbury Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="45971">
+      <result code="W">Cancelled</result>
+      <band id="2970">Holmfirth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

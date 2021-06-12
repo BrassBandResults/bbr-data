@@ -1,0 +1,57 @@
+<contest-event id="15879">
+  <event-date date="1909-8-4">Aug. 4, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tisbury Contest</name>
+  <contest id="1959">
+    <name>Tisbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tisbury-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1900">Old Favourites</test-piece>
+  </test-piece>
+
+  <venue id="1392">Tisbury, Wiltshire</venue>
+  <notes>Prizes - 1st £10, 2nd £5, 3rd £3, 4th £2.March contest 1st Berwick St John.
+Best euphonium - Broadchalke.
+Best trombone - Berwick St. John.
+4 bands competed</notes>
+
+  <created>Nov. 6, 2012, 12:17 p.m.</created>
+  <last-modified>Oct. 19, 2020, 9:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122417">
+      <result code="1">1</result>
+      <band id="6802">Broad Chalke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122418">
+      <result code="2">2</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122419">
+      <result code="3">3</result>
+      <band id="6807">Odstock</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122420">
+      <result code="4">4</result>
+      <band id="6808">Fovant</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

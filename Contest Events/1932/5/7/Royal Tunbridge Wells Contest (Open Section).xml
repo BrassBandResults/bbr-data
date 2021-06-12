@@ -1,0 +1,79 @@
+<contest-event id="24800">
+  <event-date date="1932-5-7">May 7, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Open Section)</name>
+  <contest id="1042">
+    <name>Royal Tunbridge Wells Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="966">Undine</test-piece>
+  </test-piece>
+
+  <venue id="2759">Tunbridge Wells, Kent</venue>
+  <notes>Prizes - 1st £5 and trophy, 2nd £3, 3rd £2.
+ 8 bands competed.</notes>
+
+  <created>Nov. 1, 2013, 10:38 p.m.</created>
+  <last-modified>Dec. 20, 2018, 4:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181365">
+      <result code="1">1</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="311095">C. A. Waters</conductor>
+    </result>
+    
+    <result id="181366">
+      <result code="2">2</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="309469">W. A.  Smith</conductor>
+    </result>
+    
+    <result id="181373">
+      <result code="3">3</result>
+      <band id="5438">City of Canterbury</band>
+      <conductor id="309470">W. H. Smith</conductor>
+    </result>
+    
+    <result id="181368">
+      <result code="">Unknown Result</result>
+      <band id="4802">Caterham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181369">
+      <result code="">Unknown Result</result>
+      <band id="751">Cranbrook Town Band</band>
+      <conductor id="303152">H. Hinkley</conductor>
+    </result>
+    
+    <result id="181370">
+      <result code="">Unknown Result</result>
+      <band id="8980">Etchingham-Robertsbridge</band>
+      <conductor id="305659">John Martin</conductor>
+    </result>
+    
+    <result id="181371">
+      <result code="">Unknown Result</result>
+      <band id="4659">Haywards Heath Town</band>
+      <conductor id="298215">W. G. Bosley</conductor>
+    </result>
+    
+    <result id="181372">
+      <result code="">Unknown Result</result>
+      <band id="8146">Turners Hill and Worth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

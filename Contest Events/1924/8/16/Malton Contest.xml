@@ -1,0 +1,55 @@
+<contest-event id="26939">
+  <event-date date="1924-8-16">Aug. 16, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Malton Contest</name>
+  <contest id="1181">
+    <name>Malton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>malton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2805">Rigoletto [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1412">Malton, North Yorkshire, England, UK</venue>
+  <notes>
+March: 1. York N.U.R., 2. Scarborough, 3. York Excelsior</notes>
+
+  <created>April 5, 2014, 9:58 p.m.</created>
+  <last-modified>April 5, 2014, 10:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194649">
+      <result code="1">1</result>
+      <band id="6801">Scarborough Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194650">
+      <result code="2">2</result>
+      <band id="3449">Easingwold Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194655">
+      <result code="3">3</result>
+      <band id="573">York Railway Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194651">
+      <result code="4">4</result>
+      <band id="6676">York N.U.R.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

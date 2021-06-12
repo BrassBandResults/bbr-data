@@ -1,0 +1,63 @@
+<contest-event id="23936">
+  <event-date date="1933-7-29">July 29, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Conway Contest</name>
+  <contest id="2545">
+    <name>Conway Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>conway-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1091">Happy Memories</test-piece>
+  </test-piece>
+
+  <venue id="4004">Castle Grounds, Conway, Caernarvonshire</venue>
+  <notes>Prizes - 1st £10.10s., 2nd £5.5s., 3rd £2.2s.
+  March contest - 1st(£2.2s.) Penmaenmawr, 2nd Conway.
+  3rd annual contest promoted by Conway Tabernacle Methodist Church.
+  5 bands competed.</notes>
+
+  <created>Sept. 17, 2013, 1:56 p.m.</created>
+  <last-modified>Dec. 31, 2018, 1:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="174876">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="297781">Charles Bennett</conductor>
+    </result>
+    
+    <result id="174877">
+      <result code="2">2</result>
+      <band id="667">Conwy Town</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="174878">
+      <result code="3">3</result>
+      <band id="2700">Llanberis Silver</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="174880">
+      <result code="">Unknown Result</result>
+      <band id="4570">Llanrwst Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174879">
+      <result code="">Unknown Result</result>
+      <band id="2740">Penmaenmawr Silver</band>
+      <conductor id="300193">W. T. Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

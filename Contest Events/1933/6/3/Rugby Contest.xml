@@ -1,0 +1,48 @@
+<contest-event id="23894">
+  <event-date date="1933-6-3">June 3, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rugby Contest</name>
+  <contest id="1797">
+    <name>Rugby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rugby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1349">I Capuleti [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1503">Rugby, Warwickshire</venue>
+  <notes></notes>
+
+  <created>Sept. 16, 2013, 8:02 a.m.</created>
+  <last-modified>Sept. 16, 2013, 8:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="174577">
+      <result code="1">1</result>
+      <band id="10">The GUS Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="174578">
+      <result code="2">2</result>
+      <band id="5915">Coventry Silver</band>
+      <conductor id="300883">William Ellison</conductor>
+    </result>
+    
+    <result id="174579">
+      <result code="3">3</result>
+      <band id="2983">Bedford Trades</band>
+      <conductor id="306219">E. M. Mobbs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

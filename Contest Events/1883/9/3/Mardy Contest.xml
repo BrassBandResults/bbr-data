@@ -1,0 +1,51 @@
+<contest-event id="38389">
+  <event-date date="1883-9-3">Sept. 3, 1883<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mardy Contest</name>
+  <contest id="6205">
+    <name>Mardy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mardy-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2762">Hallelujah Chorus [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6689">Baptist Chapel, Maerdy, Glamorgan</venue>
+  <notes>Prizes: £7 and 2 guineas
+
+3 bands competed
+</notes>
+
+  <created>July 7, 2017, 10:32 a.m.</created>
+  <last-modified>Feb. 22, 2020, 4:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="277890">
+      <result code="1">1</result>
+      <band id="10212">Penrhiwfer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277891">
+      <result code="2">2</result>
+      <band id="8318">Risca Military</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="277892">
+      <result code="3">3</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

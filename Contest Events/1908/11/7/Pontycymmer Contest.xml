@@ -1,0 +1,54 @@
+<contest-event id="40387">
+  <event-date date="1908-11-7">Nov. 7, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontycymmer Contest</name>
+  <contest id="2377">
+    <name>Pontycymmer Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pontycymmer-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1830">Songs of Handel</test-piece>
+  </test-piece>
+
+  <venue id="1732">Pontycymmer, Glamorgan</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Sept. 24, 2018, 9:45 p.m.</created>
+  <last-modified>Sept. 24, 2018, 9:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293819">
+      <result code="1">1</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="293816">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310285">John Thomas</conductor>
+    </result>
+    
+    <result id="293818">
+      <result code="3">3</result>
+      <band id="8043">Maesteg Hibernian</band>
+      <conductor id="297347">W. Baines</conductor>
+    </result>
+    
+    <result id="293817">
+      <result code="4">4</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="303486">A. Howarth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

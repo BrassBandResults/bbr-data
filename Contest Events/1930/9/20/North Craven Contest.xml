@@ -1,0 +1,75 @@
+<contest-event id="41546">
+  <event-date date="1930-9-20">Sept. 20, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Craven Contest</name>
+  <contest id="4775">
+    <name>North Craven Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>north-craven-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="947">Recollections of Schubert [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4145">Settle, North Yorkshire</venue>
+  <notes>March contest - 1st Haworth, 2nd Bolton I.O.R.
+Hymn tune contest - 1st Skipton, 2nd Bolton I.O.R.
+Prizes - 1st £15 and cup, 2nd £8, 3rd £4, 4th £2.
+7 bands competed</notes>
+
+  <created>Dec. 12, 2018, 10:45 a.m.</created>
+  <last-modified>Dec. 12, 2018, 10:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="302187">
+      <result code="1">1</result>
+      <band id="8969">I.O.R. Bolton</band>
+      <conductor id="303068">F. J. Higham</conductor>
+    </result>
+    
+    <result id="302188">
+      <result code="2">2</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="309396">Joe Smith</conductor>
+    </result>
+    
+    <result id="302189">
+      <result code="3">3</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="302190">
+      <result code="4">4</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="306069">F. L. Metcalfe</conductor>
+    </result>
+    
+    <result id="302191">
+      <result code="">Unknown Result</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302192">
+      <result code="">Unknown Result</result>
+      <band id="894">Earby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302193">
+      <result code="">Unknown Result</result>
+      <band id="445">Yeadon Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

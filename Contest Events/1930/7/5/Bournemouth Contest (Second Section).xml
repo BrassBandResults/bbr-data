@@ -1,0 +1,49 @@
+<contest-event id="30788">
+  <event-date date="1930-7-5">July 5, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bournemouth Contest (Second Section)</name>
+  <contest id="2047">
+    <name>Bournemouth Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="131">Bournemouth Contest</group>
+    <slug>bournemouth-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="261">Winter Gardens, Bournemouth, Dorset, England, UK</venue>
+  <notes>4th annual contest.
+7 bands competed.</notes>
+
+  <created>Jan. 22, 2015, 4:25 p.m.</created>
+  <last-modified>Dec. 8, 2018, 1:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="301906">
+      <result code="1">1</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301907">
+      <result code="2">2</result>
+      <band id="545">Sidmouth Town Band</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="301908">
+      <result code="3">3</result>
+      <band id="17462">Southbourne</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

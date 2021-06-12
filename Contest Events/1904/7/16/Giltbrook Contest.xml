@@ -1,0 +1,48 @@
+<contest-event id="38066">
+  <event-date date="1904-7-16">July 16, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Giltbrook Contest</name>
+  <contest id="2285">
+    <name>Giltbrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>giltbrook-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1651">Giltbrook, Nottinghamshire</venue>
+  <notes>St John Ambulance Corps annual demonstration</notes>
+
+  <created>May 24, 2017, 9:29 a.m.</created>
+  <last-modified>May 24, 2017, 9:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274816">
+      <result code="">Unknown Result</result>
+      <band id="7450">Digby Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274815">
+      <result code="">Unknown Result</result>
+      <band id="6337">Eastwood Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="274817">
+      <result code="">Unknown Result</result>
+      <band id="15391">Watnall Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

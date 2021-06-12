@@ -1,0 +1,55 @@
+<contest-event id="15369">
+  <event-date date="1898-9-3">Sept. 3, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Higham Ferrers Contest</name>
+  <contest id="2517">
+    <name>Higham Ferrers Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>higham-ferrers-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1871">Higham Ferrers</venue>
+  <notes>Northants Brass Band League contest, section 2.
+4 bands competed.</notes>
+
+  <created>Oct. 15, 2012, 4:57 p.m.</created>
+  <last-modified>July 22, 2019, 7:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119010">
+      <result code="1">1</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="119011">
+      <result code="2">2</result>
+      <band id="2348">Thrapston Town</band>
+      <conductor id="309417">Nathaniel Smith</conductor>
+    </result>
+    
+    <result id="119012">
+      <result code="3">3</result>
+      <band id="7928">Higham Ferrers Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="119013">
+      <result code="4">4</result>
+      <band id="7862">Kettering United</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

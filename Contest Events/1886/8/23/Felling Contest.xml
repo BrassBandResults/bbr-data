@@ -1,0 +1,56 @@
+<contest-event id="17502">
+  <event-date date="1886-8-23">Aug. 23, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Felling Contest</name>
+  <contest id="1823">
+    <name>Felling Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="348">Felling Contest</group>
+    <slug>felling-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2901">Felling House, Felling, Durham</venue>
+  <notes>Felling Flower Show
+
+Prizes: £12, £5, £3
+
+4 bands competed
+</notes>
+
+  <created>Jan. 21, 2013, 2:03 p.m.</created>
+  <last-modified>Jan. 21, 2013, 2:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="133043">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="307879">George Raine</conductor>
+      <test-piece id="2257">Reminiscences of Meyerbeer [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="133044">
+      <result code="2">2</result>
+      <band id="3445">Middleton in Teesdale Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2192">Elijah [arr. Gladney]</test-piece>
+    </result>
+    
+    <result id="133045">
+      <result code="3">3</result>
+      <band id="6272">Coundon Star</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1554">Rienzi [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

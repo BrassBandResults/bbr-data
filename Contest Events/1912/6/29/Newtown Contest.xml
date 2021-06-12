@@ -1,0 +1,81 @@
+<contest-event id="14953">
+  <event-date date="1912-6-29">June 29, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newtown Contest</name>
+  <contest id="1889">
+    <name>Newtown Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newtown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2789">Lohengrin [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1336">Newtown, Powys, Wales, UK</venue>
+  <notes> Prizes - 1st £35, 2nd £20, 3rd £15, 4th £10. 
+Best trombone Shaw.
+8 bands competed.
+March contest  1st Foden&#39;s,  2nd Ferndale.</notes>
+
+  <created>Sept. 29, 2012, 4:32 p.m.</created>
+  <last-modified>Sept. 27, 2018, 1:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="116764">
+      <result code="1">1</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="116765">
+      <result code="2">2</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="116766">
+      <result code="3">3</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="116767">
+      <result code="4">4</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="116768">
+      <result code="5">5</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="116769">
+      <result code="6">6</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="116770">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="116771">
+      <result code="">Unknown Result</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+  </results>
+</contest-event>

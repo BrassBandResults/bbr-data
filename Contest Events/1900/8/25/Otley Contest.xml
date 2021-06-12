@@ -1,0 +1,44 @@
+<contest-event id="37386">
+  <event-date date="1900-8-25">Aug. 25, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Otley Contest</name>
+  <contest id="1407">
+    <name>Otley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>otley-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="917">Otley, West Yorkshire</venue>
+  <notes>Prizes - 1st £8, 2nd £3.
+March 1. Armley, 2. Bradford.
+2 bands competed</notes>
+
+  <created>Feb. 26, 2017, 4:40 p.m.</created>
+  <last-modified>June 13, 2018, 10:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="270607">
+      <result code="1">1</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="270608">
+      <result code="2">2</result>
+      <band id="6624">Bradford Postmen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

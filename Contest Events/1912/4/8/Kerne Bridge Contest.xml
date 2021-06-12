@@ -1,0 +1,44 @@
+<contest-event id="12895">
+  <event-date date="1912-4-8">April 8, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kerne Bridge Contest</name>
+  <contest id="2700">
+    <name>Kerne Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="482">Walford Contest</group>
+    <slug>kerne-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2118">Bouquet of Ballads</test-piece>
+  </test-piece>
+
+  <venue id="2056">Kerne Bridge, Herefordshire, England, UK</venue>
+  <notes>March contest 1st Bristol Victoria, 2nd Cinderford.
+  
+Only two bands competed.</notes>
+
+  <created>April 28, 2012, 7:08 a.m.</created>
+  <last-modified>Sept. 26, 2018, 4:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102512">
+      <result code="1">1</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="308224">R. Rimmer</conductor>
+    </result>
+    
+    <result id="102513">
+      <result code="2">2</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

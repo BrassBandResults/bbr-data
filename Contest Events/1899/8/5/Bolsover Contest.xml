@@ -1,0 +1,64 @@
+<contest-event id="12601">
+  <event-date date="1899-8-5">Aug. 5, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bolsover Contest</name>
+  <contest id="1985">
+    <name>Bolsover Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bolsover-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3755">Castle Grounds, Bolsover</venue>
+  <notes>  1st prize £6.
+  2nd prize £4.
+  3rd prize £2.
+
+  March contest 1st Tinsley Park, 2nd Chesterfield Borough.</notes>
+
+  <created>April 18, 2012, 12:33 p.m.</created>
+  <last-modified>Aug. 9, 2013, 8:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100528">
+      <result code="1">1</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="100529">
+      <result code="2">2</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="100530">
+      <result code="3">3</result>
+      <band id="7815">Tinsley Park</band>
+      <conductor id="300126">John Davison</conductor>
+    </result>
+    
+    <result id="167069">
+      <result code="W">Withdrawn</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167070">
+      <result code="W">Withdrawn</result>
+      <band id="7198">Spital Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

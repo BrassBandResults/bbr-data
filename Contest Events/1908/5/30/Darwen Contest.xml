@@ -1,0 +1,86 @@
+<contest-event id="23658">
+  <event-date date="1908-5-30">May 30, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darwen Contest</name>
+  <contest id="1766">
+    <name>Darwen Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darwen-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3740">Rossini&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="1510">Darwen, Lancashire</venue>
+  <notes>March: 1. Irwell Springs, 2. Goodshaw.
+8th annual contest.
+9 bands competed.</notes>
+
+  <created>Sept. 10, 2013, 9 p.m.</created>
+  <last-modified>July 15, 2020, 2:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="173280">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="173281">
+      <result code="2">2</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="173282">
+      <result code="3">3</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="173283">
+      <result code="4">4</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301862">George Gittins</conductor>
+    </result>
+    
+    <result id="293352">
+      <result code="">Unknown Result</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="293353">
+      <result code="">Unknown Result</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="293354">
+      <result code="">Unknown Result</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="293355">
+      <result code="">Unknown Result</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="173284">
+      <result code="">Unknown Result</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

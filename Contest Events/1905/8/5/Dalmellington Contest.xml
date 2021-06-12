@@ -1,0 +1,60 @@
+<contest-event id="10367">
+  <event-date date="1905-8-5">Aug. 5, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dalmellington Contest</name>
+  <contest id="1972">
+    <name>Dalmellington Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="310">Dalmellington Contest</group>
+    <slug>dalmellington-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1683">National Airs</test-piece>
+  </test-piece>
+
+  <venue id="1403">Dalmellington, Ayrshire</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>Feb. 17, 2012, 3:40 p.m.</created>
+  <last-modified>Oct. 18, 2012, 10:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87356">
+      <result code="1">1</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="87357">
+      <result code="2">2</result>
+      <band id="6554">Auchinleck</band>
+      <conductor id="310365">Robert Thomson</conductor>
+    </result>
+    
+    <result id="87358">
+      <result code="3">3</result>
+      <band id="6636">Beith</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="87359">
+      <result code="4">4</result>
+      <band id="5553">Maybole Burgh</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="87360">
+      <result code="5">5</result>
+      <band id="6826">Ballochmyle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

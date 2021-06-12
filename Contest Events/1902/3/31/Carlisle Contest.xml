@@ -1,0 +1,102 @@
+<contest-event id="26712">
+  <event-date date="1902-3-31">March 31, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carlisle Contest</name>
+  <contest id="1307">
+    <name>Carlisle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>carlisle</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3539">Castle Courtyard, Carlisle</venue>
+  <notes>Choice of test piece: &quot;Songs of Other Days&quot; or &quot;Echoes of the Ocean&quot;
+March: 1. Heworth, 2. Spencer&#39;s, 3. Barrow.
+10 bands competed.</notes>
+
+  <created>March 25, 2014, 9:01 p.m.</created>
+  <last-modified>July 2, 2018, 6:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="193556">
+      <result code="1">1</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="193557">
+      <result code="2">2</result>
+      <band id="1510">Workington</band>
+      <conductor id="305310">George Lowden</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="193558">
+      <result code="3">3</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310548">Francis Lucio Traversi</conductor>
+      <test-piece id="1787">Echoes of the Ocean</test-piece>
+    </result>
+    
+    <result id="193559">
+      <result code="4">4</result>
+      <band id="4850">Liddesdale Temperance</band>
+      <conductor id="299958">James Crozier</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="193560">
+      <result code="5">5</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="259312">
+      <result code="">Unknown Result</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="302802">George Hawkins</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="259313">
+      <result code="">Unknown Result</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="297937">Richard Binnie</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="259315">
+      <result code="">Unknown Result</result>
+      <band id="6302">Carlisle Artillery</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="259316">
+      <result code="">Unknown Result</result>
+      <band id="658">Dumfries Town</band>
+      <conductor id="310849">Frank Waddington</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="259314">
+      <result code="">Unknown Result</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

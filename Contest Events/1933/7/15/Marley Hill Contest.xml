@@ -1,0 +1,80 @@
+<contest-event id="23913">
+  <event-date date="1933-7-15">July 15, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marley Hill Contest</name>
+  <contest id="2447">
+    <name>Marley Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marley-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3929">Marley Hill, County Durham</venue>
+  <notes>  Prizes - 1st £5 and cup, 2nd £2, 3rd £1.
+  March contest - 1st Leasingthorne, 2nd Ouston E Pit.
+  8 bands competed.</notes>
+
+  <created>Sept. 16, 2013, 11:28 a.m.</created>
+  <last-modified>April 13, 2018, 3:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="174699">
+      <result code="1">1</result>
+      <band id="3369">Burnhope Colliery Welfare</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174700">
+      <result code="2">2</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174701">
+      <result code="3">3</result>
+      <band id="6693">Marley Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174703">
+      <result code="">Unknown Result</result>
+      <band id="8973">Birtley Ouston &#39;E&#39; Pit</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174705">
+      <result code="">Unknown Result</result>
+      <band id="7828">Gateshead Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174706">
+      <result code="">Unknown Result</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174704">
+      <result code="">Unknown Result</result>
+      <band id="11393">Newcastle LNER.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174702">
+      <result code="">Unknown Result</result>
+      <band id="8407">Westwood Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

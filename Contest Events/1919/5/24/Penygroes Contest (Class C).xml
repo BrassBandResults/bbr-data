@@ -1,0 +1,48 @@
+<contest-event id="44328">
+  <event-date date="1919-5-24">May 24, 1919<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Penygroes Contest (Class C)</name>
+  <contest id="3362">
+    <name>Penygroes Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="530">Penygroes Contest</group>
+    <slug>penygroes-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2252">The Bohemians</test-piece>
+  </test-piece>
+
+  <venue id="2587">Penygroes, Llanelli, Carmarthenshire</venue>
+  <notes>Prizes - 1st £7 and cup, 2nd £3, 3rd £1.</notes>
+
+  <created>Jan. 15, 2021, 4:45 p.m.</created>
+  <last-modified>Jan. 15, 2021, 4:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="324310">
+      <result code="1">1</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="324311">
+      <result code="2">2</result>
+      <band id="8405">Cwmavon</band>
+      <conductor id="299653">J. Coombes</conductor>
+    </result>
+    
+    <result id="324312">
+      <result code="3">3</result>
+      <band id="454">Briton Ferry Band</band>
+      <conductor id="304289">Tom Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,56 @@
+<contest-event id="25727">
+  <event-date date="1930-7-12">July 12, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (Second Section)</name>
+  <contest id="3757">
+    <name>Stenalees Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="947">Recollections of Schubert [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes>1st prize: £13
+Hymn Tune contest - 1st Penzance, 2nd Greensplat, 3rd Truro, 4th Delabole.
+4 bands competed.</notes>
+
+  <created>Dec. 25, 2013, 7:26 p.m.</created>
+  <last-modified>Dec. 7, 2018, 1:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186200">
+      <result code="1">1</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="186201">
+      <result code="2">2</result>
+      <band id="6465">Greensplat Silver Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="186202">
+      <result code="3">3</result>
+      <band id="4496">Truro City</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="186203">
+      <result code="4">4</result>
+      <band id="7754">Delabole Ex-servicemen&#39;s Silver Band</band>
+      <conductor id="311683">W. Bufton Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

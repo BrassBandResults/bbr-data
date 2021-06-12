@@ -1,0 +1,71 @@
+<contest-event id="11967">
+  <event-date date="1894-3-26">March 26, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carlisle Contest</name>
+  <contest id="1307">
+    <name>Carlisle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>carlisle</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1826">Castle Yard, Carlisle</venue>
+  <notes>Prizes: £30, £20, £10, £5.
+5 bands competed.</notes>
+
+  <created>April 8, 2012, 4:34 p.m.</created>
+  <last-modified>June 11, 2019, 12:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96266">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="96267">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="96268">
+      <result code="3">3</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2794">L&#39;Etoile du Nord [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="96269">
+      <result code="4">4</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="311558">Joseph Wilkinson</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="97482">
+      <result code="">Unknown Result</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="97481">
+      <result code="W">Withdrawn</result>
+      <band id="3677">Derwent Iron and Steel Works</band>
+      <conductor id="300713">George Eastwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

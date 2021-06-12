@@ -1,0 +1,62 @@
+<contest-event id="24838">
+  <event-date date="1932-5-16">May 16, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class C)</name>
+  <contest id="3100">
+    <name>Llandovery Contest (Class C)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>
+  Prizes - 1st £8, 2nd £4, 3rd £2.
+  5 bands competed.</notes>
+
+  <created>Nov. 2, 2013, 12:46 p.m.</created>
+  <last-modified>Dec. 6, 2016, 1:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181495">
+      <result code="1">1</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310267">D. H. Thomas</conductor>
+    </result>
+    
+    <result id="181496">
+      <result code="2">2</result>
+      <band id="9781">Cwmllynfell &amp; District Public Silver</band>
+      <conductor id="311623">Haydn Williams</conductor>
+    </result>
+    
+    <result id="181497">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="181498">
+      <result code="">Unknown Result</result>
+      <band id="464">Crwbin Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181499">
+      <result code="">Unknown Result</result>
+      <band id="6257">Swansea Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

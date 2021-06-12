@@ -1,0 +1,50 @@
+<contest-event id="37973">
+  <event-date date="1904-5-23">May 23, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dunstable Contest</name>
+  <contest id="1966">
+    <name>Dunstable Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>dunstable-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="4868">Poliuto (arr. Edwin Swift)</test-piece>
+  </test-piece>
+
+  <venue id="1398">Dunstable, Bedfordshire, England, UK</venue>
+  <notes>3 bands competed
+
+Prizes: £7, £4, £3</notes>
+
+  <created>May 18, 2017, 8:56 a.m.</created>
+  <last-modified>May 18, 2017, 9 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274364">
+      <result code="1">1</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="274365">
+      <result code="2">2</result>
+      <band id="435">Bedford Town Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="274366">
+      <result code="3">3</result>
+      <band id="4526">Gravesend Borough Band</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

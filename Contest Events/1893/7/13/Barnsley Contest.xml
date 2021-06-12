@@ -1,0 +1,55 @@
+<contest-event id="11838">
+  <event-date date="1893-7-13">July 13, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnsley Contest</name>
+  <contest id="1178">
+    <name>Barnsley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="267">Barnsley Contest [1800s]</group>
+    <slug>barnsley-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1279">Verdi [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1736">Barnsley, Yorkshire</venue>
+  <notes>Best cornet: Barnsley, Best euphonium: Barnsley, Best trombone: Rothwell
+Prizes - 1st £10 and euphonium, 2nd £6 and cornet, 3rd £4, 4th £2.</notes>
+
+  <created>April 7, 2012, 7:16 p.m.</created>
+  <last-modified>June 5, 2019, 10:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95746">
+      <result code="1">1</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="95747">
+      <result code="2">2</result>
+      <band id="43">Old Silkstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95748">
+      <result code="3">3</result>
+      <band id="6397">Barnsley Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95749">
+      <result code="3">3</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

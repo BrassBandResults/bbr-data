@@ -1,0 +1,72 @@
+<contest-event id="17732">
+  <event-date date="1889-6-22">June 22, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hoyland Contest</name>
+  <contest id="2603">
+    <name>Hoyland Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hoyland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1506">Joan of Arc [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2923">Hoyland Common</venue>
+  <notes>8 bands competed
+
+Prizes: £17, £9, £5, £3, £1
+
+Promoted by Wharncliffe Silkstone Band
+
+Quickstep: 1. Glossop, 2. Stocksbridge, 3. Rotherham</notes>
+
+  <created>Jan. 29, 2013, 4:41 p.m.</created>
+  <last-modified>May 21, 2019, 12:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134470">
+      <result code="1">1</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134471">
+      <result code="2">2</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134472">
+      <result code="3">3</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134473">
+      <result code="4">4</result>
+      <band id="3527">Gainsborough Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134474">
+      <result code="5">5</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134475">
+      <result code="">Unknown Result</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

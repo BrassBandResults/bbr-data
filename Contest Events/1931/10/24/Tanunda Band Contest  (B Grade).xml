@@ -1,0 +1,56 @@
+<contest-event id="44125">
+  <event-date date="1931-10-24">Oct. 24, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tanunda Band Contest  (B Grade)</name>
+  <contest id="6608">
+    <name>Tanunda Band Contest  (B Grade)</name>
+    <order>1</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id="617">Tanunda Band Contest</group>
+    <slug>tanunda-band-contest-b-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="6408">No.1   Magic Flute   No.2 The Masters Singers</test-piece>
+  </test-piece>
+
+  <venue id="7288">Tanunda Recreation Grounds, Tanunda,  South Australia,  Australia</venue>
+  <notes>Brighton Colonel Gardens previously known as Brighton Colonel Municipal
+
+No.2 Test points listed under Own Choice</notes>
+
+  <created>Nov. 23, 2020, 2:09 a.m.</created>
+  <last-modified>Nov. 23, 2020, 2:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="323139">
+      <result code="1">1</result>
+      <band id="13087">Melbourne Fire Brigade</band>
+      <conductor id="304131">Frank Johnston</conductor>
+    </result>
+    
+    <result id="323140">
+      <result code="2">2</result>
+      <band id="19336">Brighton &amp; Colonel Light Municipal</band>
+      <conductor id="320423">J. Findlay</conductor>
+    </result>
+    
+    <result id="323141">
+      <result code="3">3</result>
+      <band id="19316">Magill Brass</band>
+      <conductor id="320086">Otto Lovell</conductor>
+    </result>
+    
+    <result id="323142">
+      <result code="4">4</result>
+      <band id="19317">Gawler District</band>
+      <conductor id="320424">Jack Riggs</conductor>
+    </result>
+    
+  </results>
+</contest-event>

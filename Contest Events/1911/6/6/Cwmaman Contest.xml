@@ -1,0 +1,49 @@
+<contest-event id="39720">
+  <event-date date="1911-6-6">June 6, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cwmaman Contest</name>
+  <contest id="2238">
+    <name>Cwmaman Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cwmaman-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3458">Land of the Shamrock</test-piece>
+  </test-piece>
+
+  <venue id="1617">Cwmaman, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>March contest - 1st Cory, 2nd Maesteg, 3rd Cwmaman.
+3 bands competed.</notes>
+
+  <created>May 25, 2018, 2:02 p.m.</created>
+  <last-modified>May 25, 2018, 2:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287883">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="287882">
+      <result code="2">2</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="287881">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

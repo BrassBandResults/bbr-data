@@ -1,0 +1,51 @@
+<contest-event id="23931">
+  <event-date date="1933-8-19">Aug. 19, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastleton Contest</name>
+  <contest id="2653">
+    <name>Newcastleton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newcastleton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2000">Newcastleton, Roxburgh</venue>
+  <notes> March contest - 1st Galashiels, 2nd Hawick.</notes>
+
+  <created>Sept. 17, 2013, 9:38 a.m.</created>
+  <last-modified>Sept. 17, 2013, 9:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="174824">
+      <result code="1">1</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="174825">
+      <result code="2">2</result>
+      <band id="1028">Galashiels Town</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1304">Gounod [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="174826">
+      <result code="3">3</result>
+      <band id="368">Annan Town (Magnox North)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1738">Songs of the Sea</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

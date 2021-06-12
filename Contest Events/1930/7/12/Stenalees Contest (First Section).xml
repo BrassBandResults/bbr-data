@@ -1,0 +1,42 @@
+<contest-event id="25726">
+  <event-date date="1930-7-12">July 12, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stenalees Contest (First Section)</name>
+  <contest id="3991">
+    <name>Stenalees Contest (First Section)</name>
+    <order>15</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="373">Stenalees Contest</group>
+    <slug>stenalees-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2840">Valorous</test-piece>
+  </test-piece>
+
+  <venue id="1223">Stenalees, Cornwall</venue>
+  <notes></notes>
+
+  <created>Dec. 25, 2013, 7:24 p.m.</created>
+  <last-modified>Dec. 3, 2018, 8:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186198">
+      <result code="1">1</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="186199">
+      <result code="2">2</result>
+      <band id="1293">Penzance Silver</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+  </results>
+</contest-event>

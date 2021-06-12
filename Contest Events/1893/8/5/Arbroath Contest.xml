@@ -1,0 +1,75 @@
+<contest-event id="10858">
+  <event-date date="1893-8-5">Aug. 5, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Arbroath Contest</name>
+  <contest id="2124">
+    <name>Arbroath Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>arbroath-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1836">Pride of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="835">Arbroath, Angus, Scotland, UK</venue>
+  <notes>Best horn: Kirkcaldy
+Cornet solo contest: 1. A. McLean, Kirkcaldy. 2. F. Mellor, Bonnybridge
+Prizes - 1st £20, 2nd £15, 3rd £10, 4th £5.
+4 bands competed
+
+
+
+Source:
+The Dundee Courier &amp; Argus (Dundee, Scotland), Wednesday, March 22, 1893; Issue 12392.
+</notes>
+
+  <created>March 8, 2012, 5:09 p.m.</created>
+  <last-modified>June 8, 2019, 9:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95947">
+      <result code="1">1</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="95948">
+      <result code="2">2</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="95949">
+      <result code="3">3</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95950">
+      <result code="4">4</result>
+      <band id="1985">Bonnybridge &amp; District</band>
+      <conductor id="311924">Charles Woodcock</conductor>
+    </result>
+    
+    <result id="263093">
+      <result code="W">Withdrawn</result>
+      <band id="650">Dunfermline Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="263094">
+      <result code="W">Withdrawn</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

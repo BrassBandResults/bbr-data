@@ -1,0 +1,55 @@
+<contest-event id="41214">
+  <event-date date="1926-5-24">May 24, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class B)</name>
+  <contest id="2097">
+    <name>Llandovery Contest (Class B)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1042">The Talisman [Balfe, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £10 and shield, 2nd £6, 3rd £3.
+4 bands competed.</notes>
+
+  <created>Nov. 9, 2018, 11:09 a.m.</created>
+  <last-modified>March 4, 2021, 11:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299445">
+      <result code="1">1</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="302061">J. Gravell</conductor>
+    </result>
+    
+    <result id="299446">
+      <result code="2">2</result>
+      <band id="6737">Brynamman Town</band>
+      <conductor id="308018">Herbert Rees</conductor>
+    </result>
+    
+    <result id="299447">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="299448">
+      <result code="4">4</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

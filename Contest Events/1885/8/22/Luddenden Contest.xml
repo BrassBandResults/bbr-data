@@ -1,0 +1,81 @@
+<contest-event id="17467">
+  <event-date date="1885-8-22">Aug. 22, 1885<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1815">Hail Apollo</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>11 bands entered, 8 competed
+Prizes: £16 9s, £6, £3, £1.
+March contest - 1st Hebden Bridge, 2ndOatsroyd, 
+5th annual contest</notes>
+
+  <created>Jan. 17, 2013, 4:28 p.m.</created>
+  <last-modified>Oct. 21, 2019, 10:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="132686">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="132687">
+      <result code="2">2</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="132688">
+      <result code="3">3</result>
+      <band id="9675">St. James&#39;s Tyldesley</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="132689">
+      <result code="4">4</result>
+      <band id="6149">Halifax Corporation</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188033">
+      <result code="">Unknown Result</result>
+      <band id="7268">Unsworth Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188034">
+      <result code="">Unknown Result</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188035">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188036">
+      <result code="">Unknown Result</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="317405">Eli Marsland</conductor>
+    </result>
+    
+  </results>
+</contest-event>

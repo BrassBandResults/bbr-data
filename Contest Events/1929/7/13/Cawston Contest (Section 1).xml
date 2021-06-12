@@ -1,0 +1,51 @@
+<contest-event id="24415">
+  <event-date date="1929-7-13">July 13, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cawston Contest (Section 1)</name>
+  <contest id="3246">
+    <name>Cawston Contest (Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cawston-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="2491">Cawston, Norfolk</venue>
+  <notes>  Prizes - 1st £8  and cup, 2nd £5, 3rd £3.
+  3rd annual contest promoted by Cawston and District Band.
+  March contest - 1st(£2.2s.) Sheringham, , 2nd (£1.1s.)Fakenham.
+  3 bands competed.</notes>
+
+  <created>Oct. 8, 2013, 12:32 p.m.</created>
+  <last-modified>Oct. 8, 2013, 12:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="178197">
+      <result code="1">1</result>
+      <band id="8398">Sheringham Temperance</band>
+      <conductor id="310950">F. Wallwork</conductor>
+    </result>
+    
+    <result id="178198">
+      <result code="2">2</result>
+      <band id="335">Cawston Band</band>
+      <conductor id="309755">D. J. Stevens</conductor>
+    </result>
+    
+    <result id="178199">
+      <result code="3">3</result>
+      <band id="831">Fakenham Town Band</band>
+      <conductor id="311420">S. White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

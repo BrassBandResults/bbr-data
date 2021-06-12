@@ -1,0 +1,43 @@
+<contest-event id="41202">
+  <event-date date="1926-4-5">April 5, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barmouth Contest</name>
+  <contest id="2768">
+    <name>Barmouth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barmouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="2120">Barmouth, Gwynedd, Wales, UK</venue>
+  <notes>Prizes - 1st £14, 2nd £4.
+March contest - 1st Harlech, 2nd Machynlleth.</notes>
+
+  <created>Nov. 8, 2018, 9:41 p.m.</created>
+  <last-modified>Nov. 8, 2018, 9:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299345">
+      <result code="1">1</result>
+      <band id="9959">Harlech Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299346">
+      <result code="2">2</result>
+      <band id="9660">Machynlleth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

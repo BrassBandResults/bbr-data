@@ -1,0 +1,55 @@
+<contest-event id="12637">
+  <event-date date="1895-8-17">Aug. 17, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest</name>
+  <contest id="2491">
+    <name>Lydney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lydney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1861">Pride of England</test-piece>
+  </test-piece>
+
+  <venue id="3376">Old Furnace, Lydney</venue>
+  <notes>March contest: 1. Drybrook, 2. Lydney - test march: &quot;Altofts&quot; by Haigh
+4 bands competed</notes>
+
+  <created>April 18, 2012, 4:49 p.m.</created>
+  <last-modified>June 22, 2019, 7:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100739">
+      <result code="1">1</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="304204">Frank Jones</conductor>
+    </result>
+    
+    <result id="100740">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303929">Thomas James</conductor>
+    </result>
+    
+    <result id="100741">
+      <result code="3">3</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="100742">
+      <result code="4">4</result>
+      <band id="8134">Yorkley Excelsior</band>
+      <conductor id="307470">Philip Phipps</conductor>
+    </result>
+    
+  </results>
+</contest-event>

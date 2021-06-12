@@ -1,0 +1,68 @@
+<contest-event id="25977">
+  <event-date date="1923-8-11">Aug. 11, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1424">Nelson, Lancashire, England, UK</venue>
+  <notes>Prizes - 1st £20 and cup, 2nd £12, 3rd £7, 4th £5, 5th £3.
+March contest - 1st Goodshaw, 2nd Lowerhouse Mills.
+6 bands competed</notes>
+
+  <created>Jan. 20, 2014, 12:40 p.m.</created>
+  <last-modified>Oct. 22, 2018, 9:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188136">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="188137">
+      <result code="2">2</result>
+      <band id="1714">Lowerhouse Mills Burnley</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="240116">
+      <result code="3">3</result>
+      <band id="3616">Read and Simonstone</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="240117">
+      <result code="4">4</result>
+      <band id="6574">Clitheroe Borough</band>
+      <conductor id="299928">Bert Cross</conductor>
+    </result>
+    
+    <result id="188138">
+      <result code="5">5</result>
+      <band id="4274">Brierfield Public</band>
+      <conductor id="297702">G F. Bedforth</conductor>
+    </result>
+    
+    <result id="297065">
+      <result code="6">6</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

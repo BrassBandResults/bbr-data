@@ -1,0 +1,92 @@
+<contest-event id="21986">
+  <event-date date="1903-8-29">Aug. 29, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Woodkirk Contest</name>
+  <contest id="1996">
+    <name>Woodkirk Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>woodkirk-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1428">Woodkirk, West Yorkshire</venue>
+  <notes>
+  March contest - 1st Ossett Borough, 2nd Gawthorpe Victoria.
+  10 bands competed.</notes>
+
+  <created>June 21, 2013, 7:13 a.m.</created>
+  <last-modified>Aug. 9, 2016, 9:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163113">
+      <result code="1">1</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="163114">
+      <result code="2">2</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="163107">
+      <result code="3">3</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="305523">H. Mallinson</conductor>
+    </result>
+    
+    <result id="163111">
+      <result code="4">4</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+    <result id="163109">
+      <result code="5">5</result>
+      <band id="123">Knottingley Silver Band</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+    <result id="163116">
+      <result code="5">5</result>
+      <band id="3821">West Ardsley</band>
+      <conductor id="301637">T. Garbett</conductor>
+    </result>
+    
+    <result id="163106">
+      <result code="">Unknown Result</result>
+      <band id="3495">Kirkstall</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163108">
+      <result code="">Unknown Result</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="309640">Tom Standing</conductor>
+    </result>
+    
+    <result id="163110">
+      <result code="">Unknown Result</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+    <result id="163115">
+      <result code="">Unknown Result</result>
+      <band id="7968">Featherstone Model</band>
+      <conductor id="303569">M. Hufton</conductor>
+    </result>
+    
+  </results>
+</contest-event>

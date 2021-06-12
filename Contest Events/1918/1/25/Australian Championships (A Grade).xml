@@ -1,0 +1,67 @@
+<contest-event id="34180">
+  <event-date date="1918-1-25">Jan. 25, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>Two own choice elements, no set test.
+
+Australian Championships  Suspended 1916 - 17  because of W W !</notes>
+
+  <created>Feb. 28, 2016, 11:37 p.m.</created>
+  <last-modified>Dec. 15, 2017, 6:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="246941">
+      <result code="1">1</result>
+      <band id="9373">St. John Ambulance Brigade Band (District of NSW)</band>
+      <conductor id="308634">William Ryder</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="246942">
+      <result code="2">2</result>
+      <band id="2411">Newtown Band [Australia]</band>
+      <conductor id="304480">Ernest Kerry</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="246943">
+      <result code="3">3</result>
+      <band id="13138">Goulburn</band>
+      <conductor id="311757">Frank Wilson</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="246944">
+      <result code="4">4</result>
+      <band id="13045">Leichhardt Municipal</band>
+      <conductor id="301951">Tom Goodall</conductor>
+      <test-piece id="1347">Liszt&#39;s Works</test-piece>
+    </result>
+    
+    <result id="246945">
+      <result code="5">5</result>
+      <band id="13692">Rockdale  District</band>
+      <conductor id="310898">Charles Walker</conductor>
+      <test-piece id="1555">Rossini&#39;s Works / Rossini Fantasia / Reminiscences of Rossini [arr. Owen]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

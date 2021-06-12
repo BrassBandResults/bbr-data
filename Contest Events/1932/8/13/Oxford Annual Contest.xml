@@ -1,0 +1,88 @@
+<contest-event id="9606">
+  <event-date date="1932-8-13">Aug. 13, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Oxford Annual Contest</name>
+  <contest id="2937">
+    <name>Oxford Annual Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="146">Oxford Annual Contest</group>
+    <slug>oxford-annual-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1304">Gounod [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="3062">Tuckwell&#39;s Meadows, Whitehouse Road, Oxford</venue>
+  <notes>Best cornet: Birmingham Metropolitan
+Best horn: Birmingham Metropolitan
+Best euphonium: Birmingham Metropolitan
+Best trombone: Callender&#39;s Cable Works
+9 bands competed</notes>
+
+  <created>Jan. 27, 2012, 11:28 a.m.</created>
+  <last-modified>Dec. 21, 2018, 2:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="82582">
+      <result code="1">1</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="82585">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="82587">
+      <result code="3">3</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="309126">Nathan Sidebottom</conductor>
+    </result>
+    
+    <result id="82583">
+      <result code="4">4</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="311095">C. A. Waters</conductor>
+    </result>
+    
+    <result id="82586">
+      <result code="5">5</result>
+      <band id="1215">Morris Motors Band</band>
+      <conductor id="311912">Sydney Wood</conductor>
+    </result>
+    
+    <result id="82588">
+      <result code="">Unknown Result</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="311085">H. J. Warwick</conductor>
+    </result>
+    
+    <result id="82584">
+      <result code="">Unknown Result</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="82589">
+      <result code="">Unknown Result</result>
+      <band id="622">Watford</band>
+      <conductor id="303726">Reginald Hutchinson</conductor>
+    </result>
+    
+    <result id="82581">
+      <result code="">Unknown Result</result>
+      <band id="1729">Hazell&#39;s Printing Works</band>
+      <conductor id="309479">William Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

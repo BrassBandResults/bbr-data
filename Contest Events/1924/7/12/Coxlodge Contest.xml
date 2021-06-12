@@ -1,0 +1,51 @@
+<contest-event id="35955">
+  <event-date date="1924-7-12">July 12, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coxlodge Contest</name>
+  <contest id="3054">
+    <name>Coxlodge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cox-lodge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6266">Coxlodge, Gosforth, Northumberland</venue>
+  <notes>Best cornet - Heworth Colliery.</notes>
+
+  <created>Aug. 20, 2016, 9:56 a.m.</created>
+  <last-modified>Feb. 18, 2021, 8:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="260854">
+      <result code="1">1</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="2271">Iolanthe (selection)</test-piece>
+    </result>
+    
+    <result id="260855">
+      <result code="2">2</result>
+      <band id="2628">Sunderland Borough Band</band>
+      <conductor id="310159">J. W. Taylor</conductor>
+      <test-piece id="2786">Rigoletto [arr. Round]</test-piece>
+    </result>
+    
+    <result id="260856">
+      <result code="3">3</result>
+      <band id="577">Dunston Silver</band>
+      <conductor id="311011">Albert Ward</conductor>
+      <test-piece id="2786">Rigoletto [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

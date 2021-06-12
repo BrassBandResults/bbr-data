@@ -1,0 +1,68 @@
+<contest-event id="11849">
+  <event-date date="1893-7-22">July 22, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burton-on-Trent Contest</name>
+  <contest id="1892">
+    <name>Burton-on-Trent Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>burton-on-trent-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1986">El Dorado</test-piece>
+  </test-piece>
+
+  <venue id="1338">Burton-on-Trent, Staffordshire</venue>
+  <notes>March contest: 1. Belper United
+Prizes - 1st £7, 2nd £5, 3rd £2, 4th £1.
+6 bands competed</notes>
+
+  <created>April 7, 2012, 8:30 p.m.</created>
+  <last-modified>June 7, 2019, 2:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95808">
+      <result code="1">1</result>
+      <band id="4775">Belper Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="95809">
+      <result code="2">2</result>
+      <band id="7507">Hugglescote Town</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="95810">
+      <result code="3">3</result>
+      <band id="4776">Derby Sax and Tuba</band>
+      <conductor id="302395">W. G. Hales</conductor>
+    </result>
+    
+    <result id="95811">
+      <result code="4">4</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="141522">
+      <result code="5">5</result>
+      <band id="7419">Tutbury Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="141523">
+      <result code="6">6</result>
+      <band id="10612">Tutbury Saxtuba</band>
+      <conductor id="301210">R. Few</conductor>
+    </result>
+    
+  </results>
+</contest-event>

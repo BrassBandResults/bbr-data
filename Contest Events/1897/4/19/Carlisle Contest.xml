@@ -1,0 +1,84 @@
+<contest-event id="7783">
+  <event-date date="1897-4-19">April 19, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Carlisle Contest</name>
+  <contest id="1307">
+    <name>Carlisle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>carlisle</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1691">Tam O&#39;Shanter [Round]</test-piece>
+  </test-piece>
+
+  <venue id="829">Carlisle, Cumbria, England, UK</venue>
+  <notes>Prizes: £15, £7, £4, £2, £1</notes>
+
+  <created>Oct. 19, 2011, 8:26 p.m.</created>
+  <last-modified>April 13, 2014, 2:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104648">
+      <result code="1">1</result>
+      <band id="5674">Frizington St. Joseph</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="69086">
+      <result code="2">2</result>
+      <band id="5588">Frizington Town</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="104649">
+      <result code="3">3</result>
+      <band id="6302">Carlisle Artillery</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="104650">
+      <result code="4">4</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="104651">
+      <result code="5">5</result>
+      <band id="3677">Derwent Iron and Steel Works</band>
+      <conductor id="300713">George Eastwood</conductor>
+    </result>
+    
+    <result id="150571">
+      <result code="">Unknown Result</result>
+      <band id="7618">Carlisle Rifle Volunteers</band>
+      <conductor id="298784">Felix Burns</conductor>
+    </result>
+    
+    <result id="150572">
+      <result code="">Unknown Result</result>
+      <band id="7622">Frizington St Paul&#39;s</band>
+      <conductor id="305310">George Lowden</conductor>
+    </result>
+    
+    <result id="150570">
+      <result code="">Unknown Result</result>
+      <band id="7526">Haltwhistle Volunteer</band>
+      <conductor id="297323">F. Bailey</conductor>
+    </result>
+    
+    <result id="150573">
+      <result code="">Unknown Result</result>
+      <band id="1510">Workington</band>
+      <conductor id="305310">George Lowden</conductor>
+    </result>
+    
+  </results>
+</contest-event>

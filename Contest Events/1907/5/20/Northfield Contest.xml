@@ -1,0 +1,61 @@
+<contest-event id="11335">
+  <event-date date="1907-5-20">May 20, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northfield Contest</name>
+  <contest id="1828">
+    <name>Northfield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1783">Saffo</test-piece>
+  </test-piece>
+
+  <venue id="1286">Northfield, Birmingham</venue>
+  <notes>
+  1st prize £8 and cup.
+  2nd prize £5.
+  3rd prize £2.10s.
+
+  Waltz contest  1st Northfield,  2nd Parkgate, 3rd Aston Old.
+
+  4 bands competed.</notes>
+
+  <created>March 21, 2012, 4:18 p.m.</created>
+  <last-modified>March 21, 2012, 4:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93417">
+      <result code="1">1</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="93418">
+      <result code="2">2</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="300684">John Ellis Dyson</conductor>
+    </result>
+    
+    <result id="93419">
+      <result code="3">3</result>
+      <band id="7251">Tipton St.Martin&#39;s</band>
+      <conductor id="304072">A. J. Johnson</conductor>
+    </result>
+    
+    <result id="93420">
+      <result code="4">4</result>
+      <band id="6998">Aston Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

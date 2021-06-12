@@ -1,0 +1,85 @@
+<contest-event id="28355">
+  <event-date date="1918-2-9">Feb. 9, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Edinburgh Contest</name>
+  <contest id="5355">
+    <name>Edinburgh Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>edinburgh-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5676">The United Kingdom</test-piece>
+  </test-piece>
+
+  <venue id="583">Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes>Prizes - 1st £14, 2nd £10, 3rd £5, 4th £3, 5th £2, 6th £1.
+9 bands competed</notes>
+
+  <created>June 7, 2014, 7:29 p.m.</created>
+  <last-modified>Oct. 9, 2018, 6:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="202230">
+      <result code="1">1</result>
+      <band id="5231">Glasgow Loco Works</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="202231">
+      <result code="2">2</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="202232">
+      <result code="3">3</result>
+      <band id="1257">Kelty &amp; Blairadam Band</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="202233">
+      <result code="4">4</result>
+      <band id="1274">Longannet Colliery (Cowdenbeath)</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="295497">
+      <result code="5">5</result>
+      <band id="5220">Falkirk Trades</band>
+      <conductor id="306027">Frank Mellor</conductor>
+    </result>
+    
+    <result id="202234">
+      <result code="6">6</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="302055">W. W. Grant</conductor>
+    </result>
+    
+    <result id="295498">
+      <result code="">Unknown Result</result>
+      <band id="1226">Broxburn Silver</band>
+      <conductor id="305637">James Marshall</conductor>
+    </result>
+    
+    <result id="295496">
+      <result code="">Unknown Result</result>
+      <band id="5482">Stonehouse [Lanarkshire]</band>
+      <conductor id="297008">R. Anderson</conductor>
+    </result>
+    
+    <result id="295495">
+      <result code="">Unknown Result</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="310226">Charles Terris</conductor>
+    </result>
+    
+  </results>
+</contest-event>

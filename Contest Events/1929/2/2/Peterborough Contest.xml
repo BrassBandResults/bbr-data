@@ -1,0 +1,70 @@
+<contest-event id="25697">
+  <event-date date="1929-2-2">Feb. 2, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Peterborough Contest</name>
+  <contest id="1175">
+    <name>Peterborough Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>peterborough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4361">Drill Hall, Peterborough</venue>
+  <notes>Prizes - £10 and cup, 2nd £7.10s., 3rd £5.
+Promoted by the D company of the 5th (Hunts) Battalion, Northants Regiment. 
+Choice of Der Freishutz or Souvenir of the Opera.
+March: 1( £2.2s. and cup). Rushden, 2.(£1.1s.,) B Winnings, 3. Northampton, 4. Finedon, 5. Wisbech, 6. Stamford
+6 bands competed</notes>
+
+  <created>Dec. 21, 2013, 6:17 p.m.</created>
+  <last-modified>March 29, 2021, 8:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186090">
+      <result code="1">1</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="308297">M. J. Roberts</conductor>
+    </result>
+    
+    <result id="186091">
+      <result code="2">2</result>
+      <band id="8933">Northampton Borough Band</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="186092">
+      <result code="3">3</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="186093">
+      <result code="4">4</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308051">A. G. Remington</conductor>
+    </result>
+    
+    <result id="186094">
+      <result code="5">5</result>
+      <band id="6349">Wisbech Town</band>
+      <conductor id="302430">William Hall</conductor>
+    </result>
+    
+    <result id="186095">
+      <result code="6">6</result>
+      <band id="491">Stamford Band</band>
+      <conductor id="308329">T. Robins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

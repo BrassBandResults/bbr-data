@@ -1,0 +1,60 @@
+<contest-event id="24970">
+  <event-date date="1925-7-11">July 11, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newhall Contest</name>
+  <contest id="1916">
+    <name>Newhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1299">Lurline [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1355">Newhall, Derbyshire</venue>
+  <notes></notes>
+
+  <created>Nov. 6, 2013, 2:57 p.m.</created>
+  <last-modified>Nov. 6, 2013, 2:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181975">
+      <result code="1">1</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="303113">Alexander Hilton</conductor>
+    </result>
+    
+    <result id="181976">
+      <result code="2">2</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="309117">James J. Sibson</conductor>
+    </result>
+    
+    <result id="181977">
+      <result code="3">3</result>
+      <band id="5913">Burton Excelsior</band>
+      <conductor id="298175">Enoch Booth</conductor>
+    </result>
+    
+    <result id="181978">
+      <result code="4">4</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181979">
+      <result code="4">4</result>
+      <band id="6656">Moira Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

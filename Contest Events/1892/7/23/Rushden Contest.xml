@@ -1,0 +1,80 @@
+<contest-event id="13809">
+  <event-date date="1892-7-23">July 23, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rushden Contest</name>
+  <contest id="2361">
+    <name>Rushden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rushden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1339">Il Giuramento [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2248">Rushden Hall Park, Rushden, Northamptonshire, England, UK</venue>
+  <notes>3rd Annual Contest organised by Rushden National Silver Band 
+Reported in Northampton Herald, 29th July 1892.
+8 bands competed.</notes>
+
+  <created>June 17, 2012, 12:40 p.m.</created>
+  <last-modified>May 30, 2019, 9:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="110236">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="110237">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="110238">
+      <result code="3">3</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="110239">
+      <result code="4">4</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="298432">W. Bridgeford</conductor>
+    </result>
+    
+    <result id="110240">
+      <result code="5">5</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="110242">
+      <result code="6">6</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="110241">
+      <result code="7">7</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="308090">Walter Reynolds</conductor>
+    </result>
+    
+    <result id="110243">
+      <result code="8">8</result>
+      <band id="8637">Bozeat Brass</band>
+      <conductor id="297669">B. Beaver</conductor>
+    </result>
+    
+  </results>
+</contest-event>

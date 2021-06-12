@@ -1,0 +1,109 @@
+<contest-event id="6910">
+  <event-date date="1859-5-31">May 31, 1859<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darlington Horticultural Show and Grand Brass Band Contest</name>
+  <contest id="1455">
+    <name>Darlington Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>darlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1459">The Festival Waltz</test-piece>
+  </test-piece>
+
+  <venue id="667">Polam Grounds, Darlington</venue>
+  <notes>Prizes: £15, £12, £6, £4, £2
+</notes>
+
+  <created>July 20, 2011, 4:20 p.m.</created>
+  <last-modified>March 24, 2020, 12:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="76350">
+      <result code="1">1</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="303250">H. Hoggett</conductor>
+    </result>
+    
+    <result id="61402">
+      <result code="2">2</result>
+      <band id="2649">Bramley Temperance</band>
+      <conductor id="303863">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="76204">
+      <result code="3">3</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="303843">Alfred Jackson</conductor>
+    </result>
+    
+    <result id="76202">
+      <result code="4">4</result>
+      <band id="3601">New Shildon</band>
+      <conductor id="300404">F. Dinsdale</conductor>
+    </result>
+    
+    <result id="76205">
+      <result code="5">5</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="297229">John Atkinson</conductor>
+    </result>
+    
+    <result id="76201">
+      <result code="">Unknown Result</result>
+      <band id="5068">Messrs. Bolckow and Vaughan&#39;s Band (Middlesbrough)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="76200">
+      <result code="">Unknown Result</result>
+      <band id="5060">Tees Ironworks</band>
+      <conductor id="301217">G. H. Fidler</conductor>
+    </result>
+    
+    <result id="210727">
+      <result code="W">Withdrawn</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210725">
+      <result code="W">Withdrawn</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210726">
+      <result code="W">Withdrawn</result>
+      <band id="11850">Heckmondwike English Concertina Premier Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210728">
+      <result code="W">Withdrawn</result>
+      <band id="585">Leyburn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210724">
+      <result code="W">Withdrawn</result>
+      <band id="2971">Low Moor</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="210723">
+      <result code="W">Withdrawn</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

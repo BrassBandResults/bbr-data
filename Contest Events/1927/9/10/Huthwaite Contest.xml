@@ -1,0 +1,62 @@
+<contest-event id="41353">
+  <event-date date="1927-9-10">Sept. 10, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Huthwaite Contest</name>
+  <contest id="6431">
+    <name>Huthwaite Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>huthwaite-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5821">Il Flauto Magico [unknown arranger] or A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="7006">Huthwaite, Nottinghamshire</venue>
+  <notes>Promoted by Huthwaite Flower Show.
+Prizes - 1st £12, 2nd £8, 3rd £4, 4th £2.
+5 bands competed.</notes>
+
+  <created>Nov. 23, 2018, 11:07 a.m.</created>
+  <last-modified>Nov. 23, 2018, 11:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="300627">
+      <result code="1">1</result>
+      <band id="2694">Kirkby Old</band>
+      <conductor id="309450">Samuel Smith</conductor>
+    </result>
+    
+    <result id="300629">
+      <result code="2">2</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="300628">
+      <result code="2">2</result>
+      <band id="512">Pleasley Colliery Welfare Band</band>
+      <conductor id="304761">Bert Lambeth</conductor>
+    </result>
+    
+    <result id="300630">
+      <result code="4">4</result>
+      <band id="8543">Shipley Collieries</band>
+      <conductor id="309444">S. Smith</conductor>
+    </result>
+    
+    <result id="300631">
+      <result code="5">5</result>
+      <band id="6107">Brampton &amp; District Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

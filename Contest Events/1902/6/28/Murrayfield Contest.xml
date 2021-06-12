@@ -1,0 +1,60 @@
+<contest-event id="23153">
+  <event-date date="1902-6-28">June 28, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Murrayfield Contest</name>
+  <contest id="4499">
+    <name>Murrayfield Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>murrayfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1801">Songs of Other Days</test-piece>
+  </test-piece>
+
+  <venue id="3860">Artillery Park, Murrayfield, Midlothian</venue>
+  <notes>Grand Coronation Fete
+
+1st prize £10
+
+Open to second class bands which had not won over a £10 prize.
+
+March contest: 1. Newtongrange, 2. Kilsyth, 3. Whitburn</notes>
+
+  <created>Aug. 19, 2013, 9:01 p.m.</created>
+  <last-modified>March 17, 2017, 10:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170347">
+      <result code="1">1</result>
+      <band id="5484">Larkhall Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170348">
+      <result code="2">2</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="170345">
+      <result code="3">3</result>
+      <band id="5551">Kilsyth Miners&#39; Welfare</band>
+      <conductor id="312023">John Wotherspoon</conductor>
+    </result>
+    
+    <result id="170346">
+      <result code="4">4</result>
+      <band id="232">Newtongrange Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

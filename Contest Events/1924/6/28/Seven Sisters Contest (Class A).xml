@@ -1,0 +1,84 @@
+<contest-event id="41238">
+  <event-date date="1924-6-28">June 28, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Seven Sisters Contest (Class A)</name>
+  <contest id="2832">
+    <name>Seven Sisters Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="446">Seven Sisters Contest</group>
+    <slug>seven-sisters-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="781">Gems of Italian Opera</test-piece>
+  </test-piece>
+
+  <venue id="7009">Bryndulais Field, Seven Sisters, Neath, Glamorgan</venue>
+  <notes></notes>
+
+  <created>Nov. 11, 2018, 4:22 p.m.</created>
+  <last-modified>May 6, 2019, 12:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="308225">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="308226">
+      <result code="2">2</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="308227">
+      <result code="3">3</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="299098">A. Casey</conductor>
+    </result>
+    
+    <result id="308224">
+      <result code="">Unknown Result</result>
+      <band id="9837">Port Talbot and Taibach</band>
+      <conductor id="304177">Christopher Jones</conductor>
+    </result>
+    
+    <result id="308222">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="303413">John Hopkins</conductor>
+    </result>
+    
+    <result id="308223">
+      <result code="">Unknown Result</result>
+      <band id="8357">Avan Valley</band>
+      <conductor id="303856">J. Jackson</conductor>
+    </result>
+    
+    <result id="308228">
+      <result code="W">Withdrawn</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="311623">Haydn Williams</conductor>
+    </result>
+    
+    <result id="308229">
+      <result code="W">Withdrawn</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="308230">
+      <result code="W">Withdrawn</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="319139">R. C. Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

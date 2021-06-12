@@ -1,0 +1,84 @@
+<contest-event id="12615">
+  <event-date date="1899-8-12">Aug. 12, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dundee Contest</name>
+  <contest id="1597">
+    <name>Dundee Contest</name>
+    <order>5</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="355">Dundee Contest</group>
+    <slug>dundee-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1546">Baxter Park, Dundee, Dundee City, Scotland, UK</venue>
+  <notes>1st prize £40, 2nd prize £25, 3rd prize £15, 4th prize £10.
+ March contest (local bands only)  1st (£5) Arbroath, 2nd (£3 Brechin, 3rd (£2) St. Margaret&#39;s.
+4 bands competed</notes>
+
+  <created>April 18, 2012, 1:56 p.m.</created>
+  <last-modified>July 28, 2019, 2:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100589">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310852">Albert Wade</conductor>
+      <test-piece id="1440">Bayreuth</test-piece>
+    </result>
+    
+    <result id="100590">
+      <result code="2">2</result>
+      <band id="1057">Brechin City</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="100591">
+      <result code="3">3</result>
+      <band id="4531">Carron Iron Works</band>
+      <conductor id="305419">Frank MacDonald</conductor>
+      <test-piece id="1948">Meyerbeer [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="181939">
+      <result code="4">4</result>
+      <band id="13784">St. Margaret&#39;s Old (Dundee)</band>
+      <conductor id="314025">James Robinson</conductor>
+      <test-piece id="1844">Herold [arr. Round]</test-piece>
+    </result>
+    
+    <result id="167073">
+      <result code="W">Withdrawn</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167071">
+      <result code="W">Withdrawn</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167074">
+      <result code="W">Withdrawn</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167072">
+      <result code="W">Withdrawn</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

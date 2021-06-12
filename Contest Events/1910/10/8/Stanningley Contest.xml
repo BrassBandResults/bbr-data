@@ -1,0 +1,54 @@
+<contest-event id="39874">
+  <event-date date="1910-10-8">Oct. 8, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stanningley Contest</name>
+  <contest id="1402">
+    <name>Stanningley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stanningley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="6553">Football Ground, Stanningley, West Yorkshire</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>June 6, 2018, 1:51 p.m.</created>
+  <last-modified>June 6, 2018, 1:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="289296">
+      <result code="1">1</result>
+      <band id="11517">Bramley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289297">
+      <result code="2">2</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289298">
+      <result code="3">3</result>
+      <band id="6614">Pudsey Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="289295">
+      <result code="4">4</result>
+      <band id="3756">Stanningley and District Sub</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

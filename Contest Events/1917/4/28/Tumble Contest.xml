@@ -1,0 +1,48 @@
+<contest-event id="40578">
+  <event-date date="1917-4-28">April 28, 1917<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tumble Contest</name>
+  <contest id="2437">
+    <name>Tumble Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tumble-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2450">The Carnival of Flowers</test-piece>
+  </test-piece>
+
+  <venue id="1792">Tumble, Carmarthen</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>Oct. 6, 2018, 8:08 p.m.</created>
+  <last-modified>March 24, 2019, 9:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295275">
+      <result code="1">1</result>
+      <band id="17397">Gorseinon Temperance</band>
+      <conductor id="309956">H. Sutcliffe</conductor>
+    </result>
+    
+    <result id="295277">
+      <result code="2">2</result>
+      <band id="447">Pontardulais Town Band</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+    <result id="295276">
+      <result code="3">3</result>
+      <band id="6969">Waunarlwydd</band>
+      <conductor id="308020">T. J. Rees</conductor>
+    </result>
+    
+  </results>
+</contest-event>

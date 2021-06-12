@@ -1,0 +1,61 @@
+<contest-event id="24369">
+  <event-date date="1928-7-10">July 10, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Plymouth Contest (Class B)</name>
+  <contest id="4741">
+    <name>Plymouth Contest (Class B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>plymouth-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1798">The Guildhall, Plymouth</venue>
+  <notes>Prizes - 1st £25 and trophy, 2nd £20, 3rd £10, 4th £5.
+  5 bands competed.</notes>
+
+  <created>Oct. 7, 2013, 7:58 a.m.</created>
+  <last-modified>March 19, 2021, 4:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="177845">
+      <result code="1">1</result>
+      <band id="6465">Greensplat Silver Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="177846">
+      <result code="2">2</result>
+      <band id="10240">Penwithick Silver Band</band>
+      <conductor id="296790">W. Adamson</conductor>
+    </result>
+    
+    <result id="177847">
+      <result code="3">3</result>
+      <band id="1775">Liskeard Silver</band>
+      <conductor id="311939">E. F. Woodhead</conductor>
+    </result>
+    
+    <result id="177848">
+      <result code="4">4</result>
+      <band id="6466">St Minver Silver Band</band>
+      <conductor id="311939">E. F. Woodhead</conductor>
+    </result>
+    
+    <result id="177849">
+      <result code="5">5</result>
+      <band id="10624">Torpoint Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

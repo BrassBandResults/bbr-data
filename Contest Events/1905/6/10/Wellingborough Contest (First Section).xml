@@ -1,0 +1,88 @@
+<contest-event id="10044">
+  <event-date date="1905-6-10">June 10, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellingborough Contest (First Section)</name>
+  <contest id="1848">
+    <name>Wellingborough Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellingborough-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3950">Dog and Duck ground, 	Wellingborough, Northants</venue>
+  <notes>  1st prize £20, 2nd prize £10, 3rd prize £5, 4th prize £2 10s, 5th prize £1 10s.
+Bands had a choice of Donizetti, Poliuto or Cenerentola
+8 bands competed</notes>
+
+  <created>Feb. 8, 2012, 5:12 p.m.</created>
+  <last-modified>Sept. 6, 2018, 9:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85149">
+      <result code="1">1</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85150">
+      <result code="2">2</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307686">Thomas Preston</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="85151">
+      <result code="3">3</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="307359">Owen Pentelow</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="85152">
+      <result code="4">4</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+      <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85153">
+      <result code="5">5</result>
+      <band id="622">Watford</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+      <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85154">
+      <result code="">Unknown Result</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="307686">Thomas Preston</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="85156">
+      <result code="">Unknown Result</result>
+      <band id="6591">Wellingborough Town</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="85155">
+      <result code="">Unknown Result</result>
+      <band id="7944">Finedon New</band>
+      <conductor id="310451">Fred Tingle</conductor>
+      <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

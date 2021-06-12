@@ -1,0 +1,74 @@
+<contest-event id="25503">
+  <event-date date="1923-9-8">Sept. 8, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastleton Contest</name>
+  <contest id="2653">
+    <name>Newcastleton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newcastleton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2610">In Sunny Lands</test-piece>
+  </test-piece>
+
+  <venue id="2000">Newcastleton, Roxburgh</venue>
+  <notes>Prizes - 1st £20, 2nd £5, 3rd £3, 4th £2.
+March: 1. Workington
+7 bands competed.</notes>
+
+  <created>Dec. 9, 2013, 10:09 p.m.</created>
+  <last-modified>Oct. 23, 2018, 12:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185140">
+      <result code="1">1</result>
+      <band id="1510">Workington</band>
+      <conductor id="318582">Reg Hutchinson</conductor>
+    </result>
+    
+    <result id="185143">
+      <result code="2">2</result>
+      <band id="660">Carlisle St. Stephens Band</band>
+      <conductor id="305330">William Lowes</conductor>
+    </result>
+    
+    <result id="185146">
+      <result code="3">3</result>
+      <band id="10509">Moresby Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185145">
+      <result code="">Unknown Result</result>
+      <band id="10631">Carlisle Buffalo</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185142">
+      <result code="">Unknown Result</result>
+      <band id="658">Dumfries Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185141">
+      <result code="">Unknown Result</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185144">
+      <result code="">Unknown Result</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="40982">
+  <event-date date="1924-6-9">June 9, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hirwain Contest (Class C)</name>
+  <contest id="6416">
+    <name>Hirwain Contest (Class C)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hirwain-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4233">Hirwaun, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>Prizes - 1st £7, 2nd £3.10s., 3rd £1.10s.
+March contest - 1st Llwydcoed.
+5 bands competed.</notes>
+
+  <created>Oct. 27, 2018, 9:26 a.m.</created>
+  <last-modified>Oct. 27, 2018, 9:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297599">
+      <result code="1">1</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="303517">Robert Samuel Howells</conductor>
+    </result>
+    
+    <result id="297600">
+      <result code="2">2</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="306920">J. R. Oliver</conductor>
+    </result>
+    
+    <result id="297601">
+      <result code="3">3</result>
+      <band id="4618">Troedyrhiw Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297602">
+      <result code="">Unknown Result</result>
+      <band id="9782">Hirwaun Welfare Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297603">
+      <result code="">Unknown Result</result>
+      <band id="4790">Pontycymer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

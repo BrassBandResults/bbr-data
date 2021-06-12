@@ -1,0 +1,74 @@
+<contest-event id="15921">
+  <event-date date="1909-9-4">Sept. 4, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crawshawbooth Contest</name>
+  <contest id="2013">
+    <name>Crawshawbooth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crawshawbooth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1899">Andromeda</test-piece>
+  </test-piece>
+
+  <venue id="4262">Hawthorn Meadow, Crawshawbooth</venue>
+  <notes>Prizes  1st £10 and cup, 2nd £5, 3rd £3, 4th £2, 5th £1.
+March contest 1st (£1) Horwich Old, 2nd (10s.) Whitewell Vale.
+7 bands competed.</notes>
+
+  <created>Nov. 7, 2012, 3:21 p.m.</created>
+  <last-modified>Oct. 20, 2020, 7:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122650">
+      <result code="1">1</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="302857">J. R. Heap</conductor>
+    </result>
+    
+    <result id="122651">
+      <result code="2">2</result>
+      <band id="3644">Summerseat</band>
+      <conductor id="307568">William Pollard</conductor>
+    </result>
+    
+    <result id="122652">
+      <result code="3">3</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="307568">William Pollard</conductor>
+    </result>
+    
+    <result id="122653">
+      <result code="4">4</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="307568">William Pollard</conductor>
+    </result>
+    
+    <result id="122654">
+      <result code="5">5</result>
+      <band id="2538">Water Band Rossendale</band>
+      <conductor id="307568">William Pollard</conductor>
+    </result>
+    
+    <result id="122656">
+      <result code="">Unknown Result</result>
+      <band id="2790">Bradshaw Band</band>
+      <conductor id="301337">R. K. Fletcher</conductor>
+    </result>
+    
+    <result id="122655">
+      <result code="">Unknown Result</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="315076">John Rutter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,49 @@
+<contest-event id="11758">
+  <event-date date="1893-5-22">May 22, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wisbech Contest</name>
+  <contest id="2145">
+    <name>Wisbech Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wisbech-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1559">Wisbech, Cambridgeshire, England, UK</venue>
+  <notes>3 bands competed
+Prizes: £20, £7, £3</notes>
+
+  <created>April 6, 2012, 8:02 p.m.</created>
+  <last-modified>Nov. 19, 2019, 11:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95225">
+      <result code="1">1</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="95226">
+      <result code="2">2</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="99666">
+      <result code="3">3</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

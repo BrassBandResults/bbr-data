@@ -1,0 +1,74 @@
+<contest-event id="21843">
+  <event-date date="1903-6-13">June 13, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Etherley Contest</name>
+  <contest id="4317">
+    <name>Etherley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>etherley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3561">Etherley, County Durham</venue>
+  <notes>  March contest - 1st Etherley, 2nd Auckland Park.
+  2nd contest promoted by the Wear Valley League., (1st one at Frosterley on 2/5/1903).
+  7 bands competed.</notes>
+
+  <created>June 14, 2013, 8:52 a.m.</created>
+  <last-modified>July 24, 2016, 1:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162315">
+      <result code="1">1</result>
+      <band id="6690">Auckland Park</band>
+      <conductor id="308895">T. Sellars</conductor>
+    </result>
+    
+    <result id="162316">
+      <result code="2">2</result>
+      <band id="6876">Etherley</band>
+      <conductor id="310203">Joseph Teasdale</conductor>
+    </result>
+    
+    <result id="162317">
+      <result code="3">3</result>
+      <band id="6689">Peases West</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+    <result id="162318">
+      <result code="4">4</result>
+      <band id="7752">Wolsingham</band>
+      <conductor id="303565">W. H. Hudson</conductor>
+    </result>
+    
+    <result id="162319">
+      <result code="5">5</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="310998">W. Walton</conductor>
+    </result>
+    
+    <result id="162320">
+      <result code="6">6</result>
+      <band id="8171">Witton Park</band>
+      <conductor id="306491">John Mudd</conductor>
+    </result>
+    
+    <result id="162321">
+      <result code="7">7</result>
+      <band id="6688">Frosterley</band>
+      <conductor id="308192">R. Ridley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

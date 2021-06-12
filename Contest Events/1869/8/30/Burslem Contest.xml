@@ -1,0 +1,60 @@
+<contest-event id="29589">
+  <event-date date="1869-8-30">Aug. 30, 1869<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burslem Contest</name>
+  <contest id="1514">
+    <name>Burslem Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>burslem-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1693">Hallelujah Chorus [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="983">Porthill Park, Burslem</venue>
+  <notes>4 bands competed
+
+Prizes: £10, £5, £2 10s</notes>
+
+  <created>Oct. 13, 2014, 5:43 p.m.</created>
+  <last-modified>Oct. 13, 2014, 5:50 p.m.</last-modified>
+
+  <results>
+    
+    <result id="210750">
+      <result code="1">1</result>
+      <band id="10132">Hanley Rifle</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1318">Norma</test-piece>
+    </result>
+    
+    <result id="210751">
+      <result code="2">2</result>
+      <band id="5284">Longton</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="3681">A Midsummer Night&#39;s Dream [unknown]</test-piece>
+    </result>
+    
+    <result id="210748">
+      <result code="3">3</result>
+      <band id="1798">Kidsgrove Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2349">Ruy Blas</test-piece>
+    </result>
+    
+    <result id="210749">
+      <result code="4">4</result>
+      <band id="9700">Tunstall</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2349">Ruy Blas</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

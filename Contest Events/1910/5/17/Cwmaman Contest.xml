@@ -1,0 +1,61 @@
+<contest-event id="39778">
+  <event-date date="1910-5-17">May 17, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cwmaman Contest</name>
+  <contest id="2238">
+    <name>Cwmaman Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cwmaman-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1122">Robin Hood [MacFarren arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1617">Cwmaman, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>March contest - 1st Mountain Ash, 2nd Cwmaman
+5 bands competed.</notes>
+
+  <created>May 30, 2018, 9:10 p.m.</created>
+  <last-modified>May 30, 2018, 9:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288622">
+      <result code="1">1</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="317968">W. Greenwood</conductor>
+    </result>
+    
+    <result id="288625">
+      <result code="2">2</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="309431">R. C. Smith</conductor>
+    </result>
+    
+    <result id="288623">
+      <result code="3">3</result>
+      <band id="7405">Maesteg League of the Cross</band>
+      <conductor id="302069">A. Gray</conductor>
+    </result>
+    
+    <result id="288624">
+      <result code="">Unknown Result</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="288626">
+      <result code="">Unknown Result</result>
+      <band id="5166">Blaengarw</band>
+      <conductor id="304904">William Layman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

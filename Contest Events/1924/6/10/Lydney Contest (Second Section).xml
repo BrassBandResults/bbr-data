@@ -1,0 +1,73 @@
+<contest-event id="25509">
+  <event-date date="1924-6-10">June 10, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest (Second Section)</name>
+  <contest id="2769">
+    <name>Lydney Contest (Second Section)</name>
+    <order>2</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="480">Lydney Contest</group>
+    <slug>lydney-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="781">Gems of Italian Opera</test-piece>
+  </test-piece>
+
+  <venue id="3845">Lydney Park, Lydney, Gloucestershire</venue>
+  <notes>Prizes - 1st £10, 2nd £5.
+7 bands competed.</notes>
+
+  <created>Dec. 9, 2013, 11:19 p.m.</created>
+  <last-modified>Oct. 27, 2018, 10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="297631">
+      <result code="1">1</result>
+      <band id="787">Oakdale Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297632">
+      <result code="2">2</result>
+      <band id="2207">John Thompson Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297635">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310854">Fred Wade</conductor>
+    </result>
+    
+    <result id="297637">
+      <result code="">Unknown Result</result>
+      <band id="8416">Penallta Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297633">
+      <result code="">Unknown Result</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="318503">William Weedall</conductor>
+    </result>
+    
+    <result id="297636">
+      <result code="">Unknown Result</result>
+      <band id="8196">Pontypool Town and District</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="297634">
+      <result code="">Unknown Result</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="314395">Tom Valentine</conductor>
+    </result>
+    
+  </results>
+</contest-event>

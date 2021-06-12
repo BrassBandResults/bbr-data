@@ -1,0 +1,72 @@
+<contest-event id="12224">
+  <event-date date="1894-7-18">July 18, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dorking Contest</name>
+  <contest id="2494">
+    <name>Dorking Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dorking-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1857">Gems from Sir H. Bishop</test-piece>
+  </test-piece>
+
+  <venue id="3245">Lord Ashcombe&#39;s Grounds, Dorking</venue>
+  <notes>10 bands entered, 6 bands competed.
+
+Prizes: £12 and cornet, £6 and Drum, £4 13s and Trombone, £2 and Band Journal, Metronome, Band Journal
+
+Clarionet prize: Dorking
+Euphonium and Horn prizes: Redhill
+</notes>
+
+  <created>April 10, 2012, 5:58 p.m.</created>
+  <last-modified>March 15, 2013, 6:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98062">
+      <result code="1">1</result>
+      <band id="6701">Dorking Town</band>
+      <conductor id="298024">Mr. Blackledge</conductor>
+    </result>
+    
+    <result id="98063">
+      <result code="2">2</result>
+      <band id="7316">Redhill Town</band>
+      <conductor id="297607">Mr. Bathford</conductor>
+    </result>
+    
+    <result id="98064">
+      <result code="3">3</result>
+      <band id="6702">Reading Temperance</band>
+      <conductor id="301107">W. Farr</conductor>
+    </result>
+    
+    <result id="98065">
+      <result code="4">4</result>
+      <band id="7589">Steyning</band>
+      <conductor id="302133">J. Green</conductor>
+    </result>
+    
+    <result id="98066">
+      <result code="5">5</result>
+      <band id="6703">East Grinstead Town</band>
+      <conductor id="302040">Mr. Granger</conductor>
+    </result>
+    
+    <result id="98067">
+      <result code="6">6</result>
+      <band id="6710">Haslemere Institute</band>
+      <conductor id="311901">Mr Wood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

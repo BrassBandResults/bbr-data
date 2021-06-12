@@ -1,0 +1,68 @@
+<contest-event id="23346">
+  <event-date date="1932-6-25">June 25, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pleasley Contest</name>
+  <contest id="2030">
+    <name>Pleasley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pleasley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="1460">Pleasley, Derbyshire</venue>
+  <notes>
+  March contest - 1st Grimethorpe Colliery, 2nd Worksop Borough.
+  6 bands competed.</notes>
+
+  <created>Aug. 31, 2013, 7:13 p.m.</created>
+  <last-modified>Dec. 9, 2016, 10:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="171546">
+      <result code="1">1</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="301438">William Foster</conductor>
+    </result>
+    
+    <result id="171547">
+      <result code="2">2</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="307933">H. Raulston</conductor>
+    </result>
+    
+    <result id="171548">
+      <result code="3">3</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+    <result id="171549">
+      <result code="4">4</result>
+      <band id="2494">Worksop Miners Welfare Band</band>
+      <conductor id="307673">Clyde Pressley</conductor>
+    </result>
+    
+    <result id="171551">
+      <result code="">Unknown Result</result>
+      <band id="3211">Glapwell Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171550">
+      <result code="">Unknown Result</result>
+      <band id="1906">Killamarsh Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

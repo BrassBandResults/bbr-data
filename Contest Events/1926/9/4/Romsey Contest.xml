@@ -1,0 +1,66 @@
+<contest-event id="41273">
+  <event-date date="1926-9-4">Sept. 4, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Romsey Contest</name>
+  <contest id="6440">
+    <name>Romsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>romsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="7013">Romsey, Hampshire</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Nov. 14, 2018, 10:08 a.m.</created>
+  <last-modified>Nov. 14, 2018, 10:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="299904">
+      <result code="1">1</result>
+      <band id="3973">Lockerley Silver Band</band>
+      <conductor id="306253">D. Moody</conductor>
+    </result>
+    
+    <result id="299905">
+      <result code="2">2</result>
+      <band id="310">Hyde Band</band>
+      <conductor id="309104">Herbert Shutler</conductor>
+    </result>
+    
+    <result id="299906">
+      <result code="3">3</result>
+      <band id="8402">Ringwood Town</band>
+      <conductor id="299962">S. E. Crutcher</conductor>
+    </result>
+    
+    <result id="299907">
+      <result code="">Unknown Result</result>
+      <band id="17515">Hollybrook</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299909">
+      <result code="">Unknown Result</result>
+      <band id="524">Michelmersh Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299908">
+      <result code="">Unknown Result</result>
+      <band id="10684">Southampton Albion Junior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

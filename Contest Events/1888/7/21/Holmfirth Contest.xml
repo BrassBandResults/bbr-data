@@ -1,0 +1,69 @@
+<contest-event id="9309">
+  <event-date date="1888-7-21">July 21, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holmfirth Contest</name>
+  <contest id="1034">
+    <name>Holmfirth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="406">Holmfirth Contest</group>
+    <slug>holmfirth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1571">Le Message Royal</test-piece>
+  </test-piece>
+
+  <venue id="1171">Holt, Holmfirth</venue>
+  <notes>Eight bands entered, 6 competed
+
+Prizes: £6, £4, £2, £1
+</notes>
+
+  <created>Jan. 1, 2012, 12:41 p.m.</created>
+  <last-modified>May 18, 2019, 12:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80418">
+      <result code="1">1</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="308798">William Schofield</conductor>
+    </result>
+    
+    <result id="80420">
+      <result code="2">2</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="80416">
+      <result code="3">3</result>
+      <band id="6286">Wooldale</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="80417">
+      <result code="4">4</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="80415">
+      <result code="">Unknown Result</result>
+      <band id="4577">Huddersfield Temperance</band>
+      <conductor id="311872">Abraham Wood</conductor>
+    </result>
+    
+    <result id="80419">
+      <result code="">Unknown Result</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="303123">George Hinchliffe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="40951">
+  <event-date date="1924-3-1">March 1, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgelly/Dolgellau Contest</name>
+  <contest id="1779">
+    <name>Dolgelly/Dolgellau Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2427">Scenes of Beauty</test-piece>
+  </test-piece>
+
+  <venue id="1253">Dolgellau, Gwynedd, Wales, UK</venue>
+  <notes>4 bands competed.</notes>
+
+  <created>Oct. 25, 2018, 6:47 p.m.</created>
+  <last-modified>Oct. 25, 2018, 6:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297319">
+      <result code="1">1</result>
+      <band id="9772">Rhosddu and Acton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297320">
+      <result code="2">2</result>
+      <band id="7279">Dolgelly</band>
+      <conductor id="311634">John Williams</conductor>
+    </result>
+    
+    <result id="297321">
+      <result code="">Unknown Result</result>
+      <band id="17241">Brymbo C.T.E.S.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297322">
+      <result code="">Unknown Result</result>
+      <band id="9660">Machynlleth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

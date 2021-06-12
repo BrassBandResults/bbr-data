@@ -1,0 +1,62 @@
+<contest-event id="25819">
+  <event-date date="1931-5-23">May 23, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Penzance Contest (Second Section)</name>
+  <contest id="4548">
+    <name>Penzance Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="435">Penzance Contest</group>
+    <slug>penzance-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3942">St. Clare, Penzance, Cornwall</venue>
+  <notes>Prizes: £12, £9, £6
+
+Hymn: 1. Newlyn, 2. Truro, 3. Falmouth</notes>
+
+  <created>Jan. 12, 2014, 4:35 p.m.</created>
+  <last-modified>Jan. 12, 2014, 4:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187203">
+      <result code="1">1</result>
+      <band id="1774">St Newlyn East</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187204">
+      <result code="2">2</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187205">
+      <result code="3">3</result>
+      <band id="4496">Truro City</band>
+      <conductor id="299139">George Cave</conductor>
+    </result>
+    
+    <result id="187206">
+      <result code="4">4</result>
+      <band id="1292">Carharrack &amp; St. Day Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="187207">
+      <result code="5">5</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

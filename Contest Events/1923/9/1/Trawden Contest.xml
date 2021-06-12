@@ -1,0 +1,79 @@
+<contest-event id="25980">
+  <event-date date="1923-9-1">Sept. 1, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trawden Contest</name>
+  <contest id="1637">
+    <name>Trawden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trawden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="880">Mirella [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1596">Trawden, Colne, Lancashire</venue>
+  <notes>March: 1. Sowerby, 2. Lindley
+Prizes - 1st £20, 2nd £12, 3rd £8, 4th £5, 5th £2.
+Best soprano - Haworth.
+Best trombone - Goodshaw.
+Best horn - Lowerhouse Mills.
+Best euphonium - Sowerby Bridge.
+Best cornet - Keighley.
+7 bands competed</notes>
+
+  <created>Jan. 20, 2014, 2:23 p.m.</created>
+  <last-modified>Oct. 24, 2018, 11:38 a.m.</last-modified>
+
+  <results>
+    
+    <result id="188146">
+      <result code="1">1</result>
+      <band id="158">Haworth Band</band>
+      <conductor id="311913">W. Wood</conductor>
+    </result>
+    
+    <result id="188147">
+      <result code="2">2</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="307568">William Pollard</conductor>
+    </result>
+    
+    <result id="188148">
+      <result code="3">3</result>
+      <band id="1714">Lowerhouse Mills Burnley</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="188149">
+      <result code="4">4</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="188150">
+      <result code="5">5</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="297176">
+      <result code="">Unknown Result</result>
+      <band id="4274">Brierfield Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="297175">
+      <result code="">Unknown Result</result>
+      <band id="2455">Keighley Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

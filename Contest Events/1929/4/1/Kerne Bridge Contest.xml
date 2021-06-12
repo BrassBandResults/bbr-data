@@ -1,0 +1,79 @@
+<contest-event id="24254">
+  <event-date date="1929-4-1">April 1, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kerne Bridge Contest</name>
+  <contest id="2700">
+    <name>Kerne Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="482">Walford Contest</group>
+    <slug>kerne-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="2056">Kerne Bridge, Herefordshire, England, UK</venue>
+  <notes>Prizes - 1st £15 and cup, 2nd £10, 3rd £4, 4th £2.
+  8 bands competed.</notes>
+
+  <created>Oct. 3, 2013, 8:20 a.m.</created>
+  <last-modified>Nov. 28, 2018, 7:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="177029">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="300428">John Dobbing</conductor>
+    </result>
+    
+    <result id="177030">
+      <result code="2">2</result>
+      <band id="793">Cwm Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177031">
+      <result code="3">3</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177032">
+      <result code="4">4</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177036">
+      <result code="">Unknown Result</result>
+      <band id="359">Bream Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177033">
+      <result code="">Unknown Result</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177034">
+      <result code="">Unknown Result</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177035">
+      <result code="">Unknown Result</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

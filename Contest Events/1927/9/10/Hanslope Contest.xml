@@ -1,0 +1,61 @@
+<contest-event id="41354">
+  <event-date date="1927-9-10">Sept. 10, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hanslope Contest</name>
+  <contest id="6444">
+    <name>Hanslope Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hanslope-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="800">Poetic Fancies</test-piece>
+  </test-piece>
+
+  <venue id="4089">Hanslope, Buckinghamshire, England, UK</venue>
+  <notes>March contest - 1st Wollaston, 2nd Long Buckby, 3rdf Newport Pagnell.
+5 bands competed</notes>
+
+  <created>Nov. 23, 2018, 11:15 a.m.</created>
+  <last-modified>Nov. 23, 2018, 11:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="300632">
+      <result code="1">1</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300633">
+      <result code="2">2</result>
+      <band id="8933">Northampton Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300634">
+      <result code="3">3</result>
+      <band id="6377">Long Buckby Town Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300635">
+      <result code="4">4</result>
+      <band id="2974">Newport Pagnell Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300636">
+      <result code="5">5</result>
+      <band id="2773">Bletchley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

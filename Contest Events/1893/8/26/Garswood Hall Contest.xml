@@ -1,0 +1,54 @@
+<contest-event id="11897">
+  <event-date date="1893-8-26">Aug. 26, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Garswood Hall Contest</name>
+  <contest id="2410">
+    <name>Garswood Hall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>garswood-hall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1767">Garswood Hall, Wigan</venue>
+  <notes>Best euphonium: Pemberton</notes>
+
+  <created>April 8, 2012, 11:21 a.m.</created>
+  <last-modified>June 27, 2017, 8:35 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96003">
+      <result code="1">1</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="303371">William Enoch Holt</conductor>
+    </result>
+    
+    <result id="96004">
+      <result code="2">2</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="96005">
+      <result code="3">3</result>
+      <band id="4133">Westhoughton Old</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="96006">
+      <result code="4">4</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301861">Edward Gittins</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="10040">
+  <event-date date="1905-6-10">June 10, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ossett Contest</name>
+  <contest id="1845">
+    <name>Ossett Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ossett-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1297">Ossett, West Yorkshire, England, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £6, 3rd £4, 4th £3, 5th £2.
+5 bands competed.
+
+ </notes>
+
+  <created>Feb. 8, 2012, 3:40 p.m.</created>
+  <last-modified>Sept. 6, 2018, 11:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85133">
+      <result code="1">1</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="85134">
+      <result code="2">2</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="85135">
+      <result code="3">3</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="85136">
+      <result code="4">4</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="85137">
+      <result code="5">5</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+  </results>
+</contest-event>

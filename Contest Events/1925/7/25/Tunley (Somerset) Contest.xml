@@ -1,0 +1,62 @@
+<contest-event id="24971">
+  <event-date date="1925-7-25">July 25, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tunley (Somerset) Contest</name>
+  <contest id="4867">
+    <name>Tunley (Somerset) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tunley-somerset-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4214">Tunley, Somerset, England, UK</venue>
+  <notes>Prizes - 1st £5 and shield, 2nd £3, 
+  March contest - 1st Midsomer Norton, 2nd Clutton.
+  5 bands competed.</notes>
+
+  <created>Nov. 6, 2013, 3:01 p.m.</created>
+  <last-modified>Nov. 5, 2018, 11:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181980">
+      <result code="1">1</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="312124">C. E. Young</conductor>
+    </result>
+    
+    <result id="181981">
+      <result code="2">2</result>
+      <band id="10619">Midsomer Norton Silver</band>
+      <conductor id="305744">W. C. Matthews</conductor>
+    </result>
+    
+    <result id="181982">
+      <result code="">Unknown Result</result>
+      <band id="11621">Clutton Brass</band>
+      <conductor id="297326">H. A. Bailey</conductor>
+    </result>
+    
+    <result id="181983">
+      <result code="">Unknown Result</result>
+      <band id="5778">Paulton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181984">
+      <result code="">Unknown Result</result>
+      <band id="10716">Single Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

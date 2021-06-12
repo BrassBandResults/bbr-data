@@ -1,0 +1,60 @@
+<contest-event id="40862">
+  <event-date date="1923-3-30">March 30, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (A Grade)</name>
+  <contest id="84">
+    <name>Australian Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2037">Cavalleria Rusticana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="330">Brisbane, Queensland, Australia</venue>
+  <notes>Test Selection arranged by local musician  Charles Trussell
+
+Besson Shield   
+Ipswich Vice Regal       335 pts
+Newcastle  City           331 pts
+Townsville Railway      315 pts
+Ballarat City                 312 pts</notes>
+
+  <created>Oct. 22, 2018, 4:02 a.m.</created>
+  <last-modified>April 13, 2020, 2:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="296882">
+      <result code="1">1</result>
+      <band id="5768">Ipswich City Vice Regal Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="296883">
+      <result code="2">2</result>
+      <band id="13093">Newcastle City</band>
+      <conductor id="304482">Henry Kerry</conductor>
+    </result>
+    
+    <result id="296884">
+      <result code="3">3</result>
+      <band id="17432">Townsville Railway  (Qld)</band>
+      <conductor id="302087">Lou Gray</conductor>
+    </result>
+    
+    <result id="296885">
+      <result code="4">4</result>
+      <band id="2173">City of Ballarat Municipal Brass Band</band>
+      <conductor id="312041">Frank Wright</conductor>
+    </result>
+    
+  </results>
+</contest-event>

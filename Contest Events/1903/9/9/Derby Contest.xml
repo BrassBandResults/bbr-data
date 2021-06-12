@@ -1,0 +1,45 @@
+<contest-event id="22016">
+  <event-date date="1903-9-9">Sept. 9, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Derby Contest</name>
+  <contest id="1192">
+    <name>Derby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>derby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="485">Derby, Derbyshire, England, UK</venue>
+  <notes>  Prizes  -  1st £15, 2nd £7.
+  2 bands competed.</notes>
+
+  <created>June 22, 2013, 12:32 p.m.</created>
+  <last-modified>Aug. 10, 2016, 9:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163268">
+      <result code="1">1</result>
+      <band id="4092">Rist&#39;s Cable Works</band>
+      <conductor id="298175">Enoch Booth</conductor>
+      <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="163269">
+      <result code="2">2</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="305204">J. Locker</conductor>
+      <test-piece id="1771">Gems of Welsh Melody</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,56 @@
+<contest-event id="23115">
+  <event-date date="1902-5-20">May 20, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest</name>
+  <contest id="1399">
+    <name>Chepstow Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="451">Gems from Sullivan&#39;s Operas No. 1</test-piece>
+  </test-piece>
+
+  <venue id="3784">Castle Grounds, Chepstow, Monmouthshire</venue>
+  <notes>Prizes: £15, £10, £5
+
+March: 1. Pillowell, Bristol City</notes>
+
+  <created>Aug. 18, 2013, 5:25 p.m.</created>
+  <last-modified>March 13, 2017, 9:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="170187">
+      <result code="1">1</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="170188">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="170189">
+      <result code="3">3</result>
+      <band id="4429">Coseley</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="271252">
+      <result code="4">4</result>
+      <band id="416">Langley Band</band>
+      <conductor id="304052">W. Jewkes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="10344">
+  <event-date date="1905-7-29">July 29, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royston Contest</name>
+  <contest id="1952">
+    <name>Royston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>royston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1385">Royston, South Yorkshire</venue>
+  <notes>March contest 1st Brighouse, 2nd Ossett.
+6 bands competed</notes>
+
+  <created>Feb. 16, 2012, 3:55 p.m.</created>
+  <last-modified>Sept. 11, 2018, 6:08 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87220">
+      <result code="1">1</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="305618">J. T. Marsden</conductor>
+    </result>
+    
+    <result id="87221">
+      <result code="2">2</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+    <result id="226324">
+      <result code="3">3</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="307286">Arthur Oakes Pearce</conductor>
+    </result>
+    
+    <result id="87223">
+      <result code="4">4</result>
+      <band id="3559">Wombwell Temperance</band>
+      <conductor id="297596">Amos Bastow</conductor>
+    </result>
+    
+    <result id="87224">
+      <result code="">Unknown Result</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87225">
+      <result code="">Unknown Result</result>
+      <band id="3173">Ravensthorpe Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

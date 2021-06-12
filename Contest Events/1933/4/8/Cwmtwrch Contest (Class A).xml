@@ -1,0 +1,67 @@
+<contest-event id="23836">
+  <event-date date="1933-4-8">April 8, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cwmtwrch Contest (Class A)</name>
+  <contest id="4613">
+    <name>Cwmtwrch Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cwmtwrch-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1350">Berlioz</test-piece>
+  </test-piece>
+
+  <venue id="3203">Cwmtwrch, Glamorgan</venue>
+  <notes>
+  6 bands competed.</notes>
+
+  <created>Sept. 14, 2013, 6:07 a.m.</created>
+  <last-modified>Oct. 26, 2017, 12:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="174046">
+      <result code="1">1</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="174047">
+      <result code="2">2</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="174048">
+      <result code="3">3</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="304287">T. E. Jones</conductor>
+    </result>
+    
+    <result id="174050">
+      <result code="">Unknown Result</result>
+      <band id="8405">Cwmavon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174049">
+      <result code="">Unknown Result</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174051">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

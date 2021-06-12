@@ -1,0 +1,78 @@
+<contest-event id="7402">
+  <event-date date="1913-9-6">Sept. 6, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1313">National Songs of Great Britain and Ireland</test-piece>
+  </test-piece>
+
+  <venue id="800">Marine Gardens, Portobello, Midlothian, Scotland, UK</venue>
+  <notes>Penicuik held the trophy for the first 6 months and Buckhaven for the last six months.</notes>
+
+  <created>Oct. 3, 2011, 1:56 p.m.</created>
+  <last-modified>Nov. 21, 2020, 9:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="66633">
+      <result code="1">1</result>
+      <band id="4773">Buckhaven and District Miners&#39;</band>
+      <conductor id="310226">Charles Terris</conductor>
+    </result>
+    
+    <result id="66634">
+      <result code="1">1</result>
+      <band id="657">Penicuik Silver</band>
+      <conductor id="296924">William Allison</conductor>
+    </result>
+    
+    <result id="66635">
+      <result code="3">3</result>
+      <band id="655">Peebles Burgh Silver</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="66636">
+      <result code="4">4</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+    </result>
+    
+    <result id="66637">
+      <result code="">Unknown Result</result>
+      <band id="5480">Balgonie Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="66638">
+      <result code="">Unknown Result</result>
+      <band id="5500">Duddingston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="66639">
+      <result code="">Unknown Result</result>
+      <band id="1993">Lassodie Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="66640">
+      <result code="">Unknown Result</result>
+      <band id="1240">West Calder Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

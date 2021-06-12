@@ -1,0 +1,43 @@
+<contest-event id="37402">
+  <event-date date="1900-12-26">Dec. 26, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morriston Contest</name>
+  <contest id="6086">
+    <name>Morriston Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>morriston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2192">Elijah [arr. Gladney]</test-piece>
+  </test-piece>
+
+  <venue id="4468">Morriston, Glamorgan</venue>
+  <notes>March contest: 1. Gwauncaegurwen, 2. Trebanos
+2 bands competed</notes>
+
+  <created>Feb. 28, 2017, 1:16 p.m.</created>
+  <last-modified>April 8, 2020, 3:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="317247">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="301041">Walter Exley</conductor>
+    </result>
+    
+    <result id="317248">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+  </results>
+</contest-event>

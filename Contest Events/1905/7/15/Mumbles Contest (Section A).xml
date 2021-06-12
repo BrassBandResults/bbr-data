@@ -1,0 +1,55 @@
+<contest-event id="10270">
+  <event-date date="1905-7-15">July 15, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mumbles Contest (Section A)</name>
+  <contest id="1917">
+    <name>Mumbles Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="224">Mumbles Contest</group>
+    <slug>mumbles-contest-section-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="888">Satanella [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1356">Mumbles, Glamorgan</venue>
+  <notes>  Result obtained from &#39;The Cornet&#39; Brass Band Annual 1906 - British Bandsman 22/07/1905 shows result as Tycroes (D.Williams) 2nd, Trebanos (H.H.Morgan) 4th.
+  4 bands competed.</notes>
+
+  <created>Feb. 13, 2012, 2:45 p.m.</created>
+  <last-modified>Sept. 7, 2018, 9:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="86760">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="86761">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="86762">
+      <result code="3">3</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311620">Henry Williams</conductor>
+    </result>
+    
+    <result id="86763">
+      <result code="4">4</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David D. Williams</conductor>
+    </result>
+    
+  </results>
+</contest-event>

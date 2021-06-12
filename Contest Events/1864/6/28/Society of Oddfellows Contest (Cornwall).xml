@@ -1,0 +1,71 @@
+<contest-event id="9685">
+  <event-date date="1864-6-28">June 28, 1864<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Society of Oddfellows Contest (Cornwall)</name>
+  <contest id="1129">
+    <name>Society of Oddfellows Contest (Cornwall)</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id=""></group>
+    <slug>society-of-oddfellows-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1230">Pendarves, Camborne</venue>
+  <notes>7 bands entered, 5 competed
+
+Each band played an own choice:-
+St Day - Tancredi overture.
+Camborne - Italian Girl in Algiers overture.
+St Just - Il Trovatore selection.
+Townsend - La Muette selection.
+Hayle - unknown</notes>
+
+  <created>Jan. 29, 2012, 12:06 p.m.</created>
+  <last-modified>Nov. 9, 2015, 2:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="83334">
+      <result code="1">1</result>
+      <band id="6484">St Day Amateur Band</band>
+      <conductor id="298999">T. Cara</conductor>
+      <test-piece id="1616">Tancredi - overture (unknown arranger)</test-piece>
+    </result>
+    
+    <result id="83335">
+      <result code="2">2</result>
+      <band id="6508">Duke of Cornwall&#39;s Rifles (Camborne) Band</band>
+      <conductor id="300624">E. Dunn</conductor>
+      <test-piece id="1263">L&#39;italiana in Algeri - overture [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="83336">
+      <result code="3">3</result>
+      <band id="6483">20th Duke of Cornwall&#39;s Rifles (St Just)</band>
+      <conductor id="309374">H. C. Smith</conductor>
+      <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="83337">
+      <result code="4">4</result>
+      <band id="6510">Townsend Band</band>
+      <conductor id="297878">J. Bettens</conductor>
+      <test-piece id="917">La Muette de Portici (Masaniello) [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="83338">
+      <result code="5">5</result>
+      <band id="6511">Duke of Cornwall&#39;s Artillery (Hayle) Band</band>
+      <conductor id="309768">S. Stevens</conductor>
+    </result>
+    
+  </results>
+</contest-event>

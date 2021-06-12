@@ -1,0 +1,127 @@
+<contest-event id="33190">
+  <event-date date="1904-5-21">May 21, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Edgworth Contest</name>
+  <contest id="1852">
+    <name>Edgworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>edgworth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="6019">Edgworth, Darwen, Lancashire</venue>
+  <notes>16 bands competed.
+March contest: 1. New Mills, 2. Horwich</notes>
+
+  <created>Oct. 28, 2015, 7:14 p.m.</created>
+  <last-modified>Aug. 26, 2018, 9:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="239401">
+      <result code="1">1</result>
+      <band id="1863">New Mills Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="239402">
+      <result code="2">2</result>
+      <band id="3533">Platt Bridge</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="239403">
+      <result code="3">3</result>
+      <band id="204">Eagley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="239404">
+      <result code="4">4</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="292149">
+      <result code="">Unknown Result</result>
+      <band id="17363">Irlam Village</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="292150">
+      <result code="">Unknown Result</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="292151">
+      <result code="">Unknown Result</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="304048">Joe Jessop</conductor>
+    </result>
+    
+    <result id="292152">
+      <result code="">Unknown Result</result>
+      <band id="8281">Bradford Prize</band>
+      <conductor id="311773">Louis Wilson</conductor>
+    </result>
+    
+    <result id="292153">
+      <result code="">Unknown Result</result>
+      <band id="1663">Irlam Silver Band</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+    <result id="292154">
+      <result code="">Unknown Result</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="292155">
+      <result code="">Unknown Result</result>
+      <band id="5197">Leyland Subscription</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="292156">
+      <result code="">Unknown Result</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="274320">
+      <result code="">Unknown Result</result>
+      <band id="1695">Horwich Old</band>
+      <conductor id="306405">Samuel Morris</conductor>
+    </result>
+    
+    <result id="292159">
+      <result code="">Unknown Result</result>
+      <band id="2497">Bury Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="292158">
+      <result code="">Unknown Result</result>
+      <band id="2790">Bradshaw Band</band>
+      <conductor id="312897">R. Fletcher</conductor>
+    </result>
+    
+    <result id="292157">
+      <result code="">Unknown Result</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+  </results>
+</contest-event>

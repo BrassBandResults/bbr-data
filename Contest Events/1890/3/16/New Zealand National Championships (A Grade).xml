@@ -1,0 +1,93 @@
+<contest-event id="28489">
+  <event-date date="1890-3-16">March 16, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Zealand National Championships (A Grade)</name>
+  <contest id="216">
+    <name>New Zealand National Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="43">New Zealand National Championships</group>
+    <slug>new-zealand-national-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="18">New Zealand</region>
+    <section id="12">A Grade</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2182">Le Comte Ory</test-piece>
+  </test-piece>
+
+  <venue id="246">Dunedin, Otago, New Zealand</venue>
+  <notes>Prizes - 1st £100, 2nd £45, 3rd £30, 4th £20.
+March contest - 1st Wellington, 2nd Dunedin Ordnance, 3rd Invercargill.
+15 bands competed.
+</notes>
+
+  <created>June 10, 2014, 4:05 p.m.</created>
+  <last-modified>March 20, 2020, 11:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="202742">
+      <result code="1">1</result>
+      <band id="12213">Oamaru Naval Artillery</band>
+      <conductor id="301544">A. Frew</conductor>
+    </result>
+    
+    <result id="281949">
+      <result code="2">2</result>
+      <band id="1157">Ascot Park Hotel Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281950">
+      <result code="3">3</result>
+      <band id="1794">Oamaru Garrison Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281951">
+      <result code="4">4</result>
+      <band id="14242">Dunedin Garrison</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311955">
+      <result code="">Unknown Result</result>
+      <band id="1168">Addington Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311956">
+      <result code="">Unknown Result</result>
+      <band id="15717">Ansett Kaikorai Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311958">
+      <result code="">Unknown Result</result>
+      <band id="9182">Christchurch Garrison</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311954">
+      <result code="">Unknown Result</result>
+      <band id="18061">Dunedin Engineers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311963">
+      <result code="">Unknown Result</result>
+      <band id="18064">Queenstown Garrison</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311959">
+      <result code="">Unknown Result</result>
+      <band id="2412">Wellington Garrison Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

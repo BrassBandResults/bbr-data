@@ -1,0 +1,49 @@
+<contest-event id="40435">
+  <event-date date="1913-5-12">May 12, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandovery Contest (Class B)</name>
+  <contest id="2097">
+    <name>Llandovery Contest (Class B)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="242">Llandovery Contest</group>
+    <slug>llandovery-contest-class-b</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2802">Songs of Sentiment</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £5, 3rd £2.
+3 bands competed.</notes>
+
+  <created>Sept. 30, 2018, 8:31 a.m.</created>
+  <last-modified>Sept. 30, 2018, 8:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294219">
+      <result code="1">1</result>
+      <band id="8167">Burry Port Junior Band</band>
+      <conductor id="304063">David John</conductor>
+    </result>
+    
+    <result id="294220">
+      <result code="1">1</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="294218">
+      <result code="3">3</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="310293">Llewellyn Thomas</conductor>
+    </result>
+    
+  </results>
+</contest-event>

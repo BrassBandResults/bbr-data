@@ -1,0 +1,72 @@
+<contest-event id="12902">
+  <event-date date="1912-3-18">March 18, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bristol Contest</name>
+  <contest id="1233">
+    <name>Bristol Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bristol-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3164">The Folk Songs of Old England</test-piece>
+  </test-piece>
+
+  <venue id="5402">Rupert Street Skating Rink, Bristol</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>April 28, 2012, 10:01 a.m.</created>
+  <last-modified>Sept. 27, 2018, 9:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="211552">
+      <result code="1">1</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="211551">
+      <result code="2">2</result>
+      <band id="6570">Bristol Imperial</band>
+      <conductor id="299842">J. Cozens</conductor>
+    </result>
+    
+    <result id="211546">
+      <result code="3">3</result>
+      <band id="7402">Tytherington</band>
+      <conductor id="305653">E. Martin</conductor>
+    </result>
+    
+    <result id="211547">
+      <result code="4">4</result>
+      <band id="7190">Chippenham Town Silver Band</band>
+      <conductor id="298708">W. Buckley</conductor>
+    </result>
+    
+    <result id="211548">
+      <result code="">Unknown Result</result>
+      <band id="12371">Avonmouth Labour</band>
+      <conductor id="307586">J. Poole</conductor>
+    </result>
+    
+    <result id="211549">
+      <result code="">Unknown Result</result>
+      <band id="1203">Bristol East Band</band>
+      <conductor id="319021">George White</conductor>
+    </result>
+    
+    <result id="211550">
+      <result code="">Unknown Result</result>
+      <band id="7938">Bristol St. George&#39;s</band>
+      <conductor id="302851">E. Headford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

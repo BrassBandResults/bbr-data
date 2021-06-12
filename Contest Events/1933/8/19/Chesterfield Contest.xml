@@ -1,0 +1,67 @@
+<contest-event id="23932">
+  <event-date date="1933-8-19">Aug. 19, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chesterfield Contest</name>
+  <contest id="1171">
+    <name>Chesterfield Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>chesterfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4003">Queens Park, Chesterfield, Derbyshire</venue>
+  <notes>Prizes - £8 and cup, 2nd £6, 3rd £4. 
+ 6 bands competed.</notes>
+
+  <created>Sept. 17, 2013, 9:48 a.m.</created>
+  <last-modified>April 16, 2018, 9:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="174827">
+      <result code="1">1</result>
+      <band id="1690">Firbeck Colliery</band>
+      <conductor id="303113">Alexander Hilton</conductor>
+    </result>
+    
+    <result id="174828">
+      <result code="2">2</result>
+      <band id="876">Harworth Brass</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="174829">
+      <result code="3">3</result>
+      <band id="857">Blidworth Welfare Band</band>
+      <conductor id="304761">Bert Lambeth</conductor>
+    </result>
+    
+    <result id="174831">
+      <result code="">Unknown Result</result>
+      <band id="10147">Barrow Hill and Staveley Works Junior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174830">
+      <result code="">Unknown Result</result>
+      <band id="8287">Hardwick Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174832">
+      <result code="">Unknown Result</result>
+      <band id="2494">Worksop Miners Welfare Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

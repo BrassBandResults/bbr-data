@@ -1,0 +1,72 @@
+<contest-event id="22694">
+  <event-date date="1900-6-16">June 16, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pleasley Contest</name>
+  <contest id="2030">
+    <name>Pleasley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pleasley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1460">Pleasley, Derbyshire</venue>
+  <notes></notes>
+
+  <created>Aug. 11, 2013, 11:06 p.m.</created>
+  <last-modified>June 14, 2018, 10:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="167757">
+      <result code="1">1</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="167758">
+      <result code="2">2</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="167759">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="270432">
+      <result code="4">4</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="270430">
+      <result code="">Unknown Result</result>
+      <band id="4396">Chesterfield &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167760">
+      <result code="">Unknown Result</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="270431">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

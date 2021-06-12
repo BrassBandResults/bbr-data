@@ -1,0 +1,66 @@
+<contest-event id="18114">
+  <event-date date="1892-7-2">July 2, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Hartlepool Contest</name>
+  <contest id="1131">
+    <name>West Hartlepool Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>west-hartlepool-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3053">New Recreation Ground, West Hartlepool</venue>
+  <notes>Promoted by the N.E.R. Brass Band
+Prizes: £20, £15, £10, £5
+Quickstep: 1. Old Operatic, 2. Milburn and WH Borough divided.
+5 bands competed.</notes>
+
+  <created>Feb. 11, 2013, 7:54 p.m.</created>
+  <last-modified>May 30, 2019, 9:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="136582">
+      <result code="1">1</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="136583">
+      <result code="2">2</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="303865">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="136579">
+      <result code="3">3</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="309508">Thomas Snowdon</conductor>
+      <test-piece id="2873">L&#39;Etoile du Nord [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="136580">
+      <result code="4">4</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+      <test-piece id="2782">William Tell [arr. Round]</test-piece>
+    </result>
+    
+    <result id="136581">
+      <result code="5">5</result>
+      <band id="6099">Blair and Co. (Stockton)</band>
+      <conductor id="299473">J. Coatsworth</conductor>
+    </result>
+    
+  </results>
+</contest-event>

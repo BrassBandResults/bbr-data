@@ -1,0 +1,56 @@
+<contest-event id="15322">
+  <event-date date="1898-8-13">Aug. 13, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mickley Contest</name>
+  <contest id="2015">
+    <name>Mickley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mickley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1847">Gems of Modern Melody</test-piece>
+  </test-piece>
+
+  <venue id="1448">Mickley, Northumberland, England, UK</venue>
+  <notes>4 bands competed
+Prizes: £5 and cornet, £3 and baritone, £4, £2
+March contest: 1. Mickley Temperance, 2. South Derwent</notes>
+
+  <created>Oct. 15, 2012, 12:47 p.m.</created>
+  <last-modified>July 19, 2019, 9:33 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118733">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="118734">
+      <result code="2">2</result>
+      <band id="9614">South Derwent Junior</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="118735">
+      <result code="3">3</result>
+      <band id="7759">Mickley Temperance</band>
+      <conductor id="308190">M. Ridley</conductor>
+    </result>
+    
+    <result id="118736">
+      <result code="4">4</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="297323">F. Bailey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

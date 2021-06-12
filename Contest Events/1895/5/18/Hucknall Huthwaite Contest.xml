@@ -1,0 +1,76 @@
+<contest-event id="12455">
+  <event-date date="1895-5-18">May 18, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hucknall Huthwaite Contest</name>
+  <contest id="2439">
+    <name>Hucknall Huthwaite Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hucknall-huthwaite-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1793">Hucknall Huthwaite</venue>
+  <notes>Promoted by Hucknall Huthwaite Prize Brass Band
+Prizes: £9, £5, £3, £2
+March contest: 1. Lea Mills, 2. Rotherham.
+5 bands competed</notes>
+
+  <created>April 14, 2012, 8:15 p.m.</created>
+  <last-modified>June 17, 2019, 7:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99546">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="99547">
+      <result code="2">2</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="99548">
+      <result code="3">3</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davison</conductor>
+    </result>
+    
+    <result id="99549">
+      <result code="4">4</result>
+      <band id="11888">Bestwood Colliery</band>
+      <conductor id="313565">W. Hamilton</conductor>
+    </result>
+    
+    <result id="99550">
+      <result code="4">4</result>
+      <band id="7169">Heanor Old</band>
+      <conductor id="307990">A. S. Redgate</conductor>
+    </result>
+    
+    <result id="310148">
+      <result code="W">Withdrawn</result>
+      <band id="3524">Derby United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="310149">
+      <result code="W">Withdrawn</result>
+      <band id="18426">Robin Hood Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

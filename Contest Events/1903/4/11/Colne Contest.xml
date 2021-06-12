@@ -1,0 +1,84 @@
+<contest-event id="15571">
+  <event-date date="1903-4-11">April 11, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colne Contest</name>
+  <contest id="1303">
+    <name>Colne Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="329">Colne Contest</group>
+    <slug>colne</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="946">Don Sebastiano [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="3546">Municipal Hall, Colne, Lancashire</venue>
+  <notes>Best soloist: C. Birtwistle, Trawden
+Best baritone - Trawden,
+Best trombone - Burnley Temperance.
+
+Prizes: £5, £4, £3, £2, £1.
+
+8 bands competed.</notes>
+
+  <created>Oct. 25, 2012, 3:37 p.m.</created>
+  <last-modified>June 10, 2013, 9:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="161663">
+      <result code="1">1</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="311520">A. Wilcock</conductor>
+    </result>
+    
+    <result id="120466">
+      <result code="2">2</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="298490">A. Broadhead</conductor>
+    </result>
+    
+    <result id="161664">
+      <result code="3">3</result>
+      <band id="8643">Barnoldswick Prize Band</band>
+      <conductor id="309161">A. Simpson</conductor>
+    </result>
+    
+    <result id="161665">
+      <result code="4">4</result>
+      <band id="3671">Briercliffe Prize Brass Band</band>
+      <conductor id="302175">Tom Greenwood</conductor>
+    </result>
+    
+    <result id="161666">
+      <result code="5">5</result>
+      <band id="894">Earby Band</band>
+      <conductor id="308592">William Rushton</conductor>
+    </result>
+    
+    <result id="161668">
+      <result code="6">6</result>
+      <band id="9909">Cowling Temperance Prize Band</band>
+      <conductor id="305660">Joseph Martin</conductor>
+    </result>
+    
+    <result id="161667">
+      <result code="7">7</result>
+      <band id="7582">Colne Mount Zion</band>
+      <conductor id="303284">C. Holgate</conductor>
+    </result>
+    
+    <result id="161669">
+      <result code="8">8</result>
+      <band id="7779">Burnley Catholic</band>
+      <conductor id="301298">T. Fitzpatrick</conductor>
+    </result>
+    
+  </results>
+</contest-event>

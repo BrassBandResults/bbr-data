@@ -1,0 +1,78 @@
+<contest-event id="10012">
+  <event-date date="1905-5-13">May 13, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Felling Contest</name>
+  <contest id="1823">
+    <name>Felling Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="348">Felling Contest</group>
+    <slug>felling-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="940">Le Pre-aux-Clercs [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1281">Felling, Gateshead, Tyne and Wear, England, UK</venue>
+  <notes></notes>
+
+  <created>Feb. 5, 2012, 9:05 p.m.</created>
+  <last-modified>Nov. 1, 2012, 4:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="84864">
+      <result code="1">1</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="84865">
+      <result code="2">2</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="306471">J. Moulding</conductor>
+    </result>
+    
+    <result id="84866">
+      <result code="3">3</result>
+      <band id="6588">Hebburn Temperance</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="84867">
+      <result code="4">4</result>
+      <band id="577">Dunston Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="84871">
+      <result code="">Unknown Result</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84870">
+      <result code="">Unknown Result</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84869">
+      <result code="">Unknown Result</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="84868">
+      <result code="">Unknown Result</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
