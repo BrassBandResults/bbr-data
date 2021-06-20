@@ -19,10 +19,12 @@
   </test-piece>
 
   <venue id="7069">Maryborough Show Ground, Maryborough, Queensland, Australia</venue>
-  <notes>Queensland State Championship  Results entered under that title</notes>
+  <notes>Queensland State Championship  
+2 Test Selections
+No.2. points listed under Own Choice</notes>
 
   <created>June 17, 2021, 1:36 a.m.</created>
-  <last-modified>June 18, 2021, 4:36 a.m.</last-modified>
+  <last-modified>June 19, 2021, 3:53 a.m.</last-modified>
 
   <results>
     
@@ -30,6 +32,18 @@
       <result code="1">1</result>
       <band id="50">Brisbane Excelsior Band</band>
       <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="326241">
+      <result code="2">2</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="309477">William Smith</conductor>
+    </result>
+    
+    <result id="326242">
+      <result code="3">3</result>
+      <band id="6431">Maryborough Federal [Queensland]</band>
+      <conductor id="318202">Sam Whittaker</conductor>
     </result>
     
   </results>
