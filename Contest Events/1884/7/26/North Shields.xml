@@ -1,0 +1,68 @@
+<contest-event id="9118">
+  <event-date date="1884-7-26">July 26, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Shields</name>
+  <contest id="1571">
+    <name>North Shields Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>north-shields</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5056">Reminiscences of Erin</test-piece>
+  </test-piece>
+
+  <venue id="1117">Spring Gardens, North Shields</venue>
+  <notes>Promoted by Mr John Gair of the Earl Grey Inn, Linskill Street. Eight bands entered and six competed.
+
+Prizes: £12, £6 10s, £4</notes>
+
+  <created>Dec. 21, 2011, 6:38 p.m.</created>
+  <last-modified>June 8, 2017, 10:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="79210">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="79211">
+      <result code="2">2</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="311966">Thomas Woods</conductor>
+    </result>
+    
+    <result id="79212">
+      <result code="3">3</result>
+      <band id="6209">New Field</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="275399">
+      <result code="">Unknown Result</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="275397">
+      <result code="">Unknown Result</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="275398">
+      <result code="">Unknown Result</result>
+      <band id="15560">Tynemouth Artillery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

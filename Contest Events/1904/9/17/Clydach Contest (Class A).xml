@@ -1,0 +1,50 @@
+<contest-event id="40237">
+  <event-date date="1904-9-17">Sept. 17, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Clydach Contest (Class A)</name>
+  <contest id="3410">
+    <name>Clydach Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>clydach-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1645">Songs of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="2612">Clydach, Swansea, Glamorgan</venue>
+  <notes>Best euphonium - Ystalyfera.
+Best cornet - Cwmtawe.
+3 bands competed.</notes>
+
+  <created>Sept. 1, 2018, 9:59 a.m.</created>
+  <last-modified>Sept. 1, 2018, 10:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="292609">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+    <result id="292610">
+      <result code="2">2</result>
+      <band id="7482">Cwmtawe District Training Band</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="292611">
+      <result code="3">3</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

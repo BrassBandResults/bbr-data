@@ -1,0 +1,61 @@
+<contest-event id="13301">
+  <event-date date="1897-7-5">July 5, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Wales Association Contest (Second Section)</name>
+  <contest id="2795">
+    <name>North Wales Association Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>north-wales-association-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2420">Gems of Victorian Melody</test-piece>
+  </test-piece>
+
+  <venue id="2520">Llanerchrugog Park, Rhosllanerchrugog, Wrexham, Wales, UK</venue>
+  <notes>Prizes: £10, £6
+2 bands competed</notes>
+
+  <created>May 9, 2012, 10:23 p.m.</created>
+  <last-modified>July 8, 2019, 10:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105584">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="105585">
+      <result code="2">2</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="307007">David Owen</conductor>
+    </result>
+    
+    <result id="311093">
+      <result code="W">Withdrawn</result>
+      <band id="6533">Carnarvon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311094">
+      <result code="W">Withdrawn</result>
+      <band id="671">Holywell Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311095">
+      <result code="W">Withdrawn</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

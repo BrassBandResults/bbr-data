@@ -1,0 +1,86 @@
+<contest-event id="33119">
+  <event-date date="1890-7-27">July 27, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hollinwood Contest</name>
+  <contest id="5791">
+    <name>Hollinwood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hollinwood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1074">The Forest Queen</test-piece>
+  </test-piece>
+
+  <venue id="6011">Hollinwood, Oldham, Lancashire</venue>
+  <notes>Prizes - 1st £15, 2nd £10, 3rd £5, 4th £3, 5th £2.
+3rd annual contest promoted by Hollinwood band.
+9 bands competed.</notes>
+
+  <created>Oct. 15, 2015, 8:27 p.m.</created>
+  <last-modified>May 23, 2019, 1:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="238617">
+      <result code="1">1</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="238618">
+      <result code="2">2</result>
+      <band id="201">Whitworth Vale and Healey Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="238619">
+      <result code="3">3</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="238620">
+      <result code="4">4</result>
+      <band id="6251">Bacup Borough</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="238621">
+      <result code="6">6</result>
+      <band id="2636">Prestwich Borough</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="281955">
+      <result code="">Unknown Result</result>
+      <band id="6183">Audenshaw and Droylsden</band>
+      <conductor id="301556">Joseph Frith</conductor>
+    </result>
+    
+    <result id="281956">
+      <result code="">Unknown Result</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="281957">
+      <result code="">Unknown Result</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="281958">
+      <result code="">Unknown Result</result>
+      <band id="8281">Bradford Prize</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

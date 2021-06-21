@@ -1,0 +1,50 @@
+<contest-event id="40272">
+  <event-date date="1906-7-9">July 9, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bargoed Contest</name>
+  <contest id="2002">
+    <name>Bargoed Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bargoed-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1739">Songs of Balfe</test-piece>
+  </test-piece>
+
+  <venue id="1434">Bargoed, Caerphilly, Wales, UK</venue>
+  <notes>Prizes - 1st £9.9s., 2nd £4.4s., 3rd £2
+March contest (The Storm King) - 1st Aberdare Town.
+3 bands competed.</notes>
+
+  <created>Sept. 14, 2018, 12:17 p.m.</created>
+  <last-modified>Sept. 14, 2018, 12:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="292940">
+      <result code="1">1</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="292939">
+      <result code="2">2</result>
+      <band id="6353">Albion Colliery</band>
+      <conductor id="316075">Gus Foxall</conductor>
+    </result>
+    
+    <result id="292941">
+      <result code="3">3</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="298231">J. Bottomley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

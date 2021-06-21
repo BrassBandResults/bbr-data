@@ -1,0 +1,73 @@
+<contest-event id="10965">
+  <event-date date="1906-8-6">Aug. 6, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnet Contest</name>
+  <contest id="2142">
+    <name>Barnet Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barnet-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1724">Latona</test-piece>
+  </test-piece>
+
+  <venue id="1558">Barnet, Borough of Barnet, Greater London, England, UK</venue>
+  <notes>
+  1st prize £9 and cup.
+  2nd prize £6.
+  3rd prize £3.
+
+  March contest 1st (£2) Dartford Volunteers, 2nd (£1) Callender&#39;s Cable Works.
+
+  6 bands competed.</notes>
+
+  <created>March 10, 2012, 9:01 a.m.</created>
+  <last-modified>March 10, 2012, 9:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90904">
+      <result code="1">1</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="92228">
+      <result code="2">2</result>
+      <band id="7231">Dartford Town</band>
+      <conductor id="296887">Edward Allder</conductor>
+    </result>
+    
+    <result id="90906">
+      <result code="3">3</result>
+      <band id="6341">Dartford Volunteers</band>
+      <conductor id="303864">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="90907">
+      <result code="4">4</result>
+      <band id="7164">Enfield Temperance Mission</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="90908">
+      <result code="">Unknown Result</result>
+      <band id="6356">Biggleswade Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90909">
+      <result code="">Unknown Result</result>
+      <band id="6003">St. Pancras</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

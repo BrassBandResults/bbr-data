@@ -1,0 +1,72 @@
+<contest-event id="40091">
+  <event-date date="1902-8-16">Aug. 16, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brierley Hill Contest</name>
+  <contest id="4485">
+    <name>Brierley Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brierley-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3828">Brierley Hill, Dudley</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>July 10, 2018, 10:39 a.m.</created>
+  <last-modified>July 10, 2018, 10:45 a.m.</last-modified>
+
+  <results>
+    
+    <result id="291446">
+      <result code="1">1</result>
+      <band id="11009">Dudley Port Excelsior</band>
+      <conductor id="308289">James Roberts</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="291448">
+      <result code="2">2</result>
+      <band id="17243">Shutt End</band>
+      <conductor id="318172">D. Round</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="291444">
+      <result code="3">3</result>
+      <band id="6640">Halesowen Temperance</band>
+      <conductor id="307196">J. Partridge</conductor>
+      <test-piece id="1801">Songs of Other Days</test-piece>
+    </result>
+    
+    <result id="291443">
+      <result code="4">4</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="2428">Gems of Evergreen Melody</test-piece>
+    </result>
+    
+    <result id="291445">
+      <result code="">Unknown Result</result>
+      <band id="6611">Blackheath</band>
+      <conductor id="301750">Thomas German</conductor>
+      <test-piece id="1780">Gems of Scotia</test-piece>
+    </result>
+    
+    <result id="291447">
+      <result code="">Unknown Result</result>
+      <band id="8598">Brierley Hill Rifle Corps</band>
+      <conductor id="302255">Thomas Griffiths</conductor>
+      <test-piece id="2326">Victory [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

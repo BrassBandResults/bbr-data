@@ -1,0 +1,66 @@
+<contest-event id="11951">
+  <event-date date="1893-10-14">Oct. 14, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Contest</name>
+  <contest id="1214">
+    <name>Sheffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1789">Albert Hall, Sheffield, Yorkshire, England, UK</venue>
+  <notes>5 bands competed
+Prizes: £8, £3, £1</notes>
+
+  <created>April 8, 2012, 3:23 p.m.</created>
+  <last-modified>June 10, 2019, 2:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96200">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="2361">Geralda</test-piece>
+    </result>
+    
+    <result id="96201">
+      <result code="2">2</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+      <test-piece id="1841">Bellini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="96202">
+      <result code="3">3</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1986">El Dorado</test-piece>
+    </result>
+    
+    <result id="143318">
+      <result code="4">4</result>
+      <band id="3539">Sheffield Temperance</band>
+      <conductor id="300126">John Davison</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="143317">
+      <result code="5">5</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="318308">Joseph Jubb</conductor>
+      <test-piece id="1463">Fete Musicale</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

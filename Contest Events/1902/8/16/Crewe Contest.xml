@@ -1,0 +1,54 @@
+<contest-event id="40096">
+  <event-date date="1902-8-16">Aug. 16, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Crewe Contest</name>
+  <contest id="2497">
+    <name>Crewe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>crewe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3191">Cross Keys Inn, Crewe</venue>
+  <notes>10 bands competed</notes>
+
+  <created>July 10, 2018, 3:04 p.m.</created>
+  <last-modified>May 4, 2020, 12:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="291485">
+      <result code="1">1</result>
+      <band id="4519">Crewe Carriage Works</band>
+      <conductor id="300307">James Delves</conductor>
+    </result>
+    
+    <result id="291486">
+      <result code="2">2</result>
+      <band id="2793">Crewe Temperance</band>
+      <conductor id="309898">Joseph Stubbs</conductor>
+    </result>
+    
+    <result id="291487">
+      <result code="3">3</result>
+      <band id="17206">Moulton Verdin Institute</band>
+      <conductor id="318141">Thomas Hodkinson</conductor>
+    </result>
+    
+    <result id="291488">
+      <result code="4">4</result>
+      <band id="9416">Macclesfield</band>
+      <conductor id="318174">A. Whyatt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,80 @@
+<contest-event id="13202">
+  <event-date date="1897-5-22">May 22, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Birmingham Contest</name>
+  <contest id="1401">
+    <name>Birmingham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="277">Birmingham Contest</group>
+    <slug>birmingham-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2420">Gems of Victorian Melody</test-piece>
+  </test-piece>
+
+  <venue id="3443">Bingley Hall, Birmingham</venue>
+  <notes>Prizes: £20, £10, £5, £3
+8 bands competed
+</notes>
+
+  <created>May 4, 2012, 10:49 p.m.</created>
+  <last-modified>Feb. 7, 2020, 7:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104885">
+      <result code="1">1</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="310289">J. W. Thomas</conductor>
+    </result>
+    
+    <result id="104886">
+      <result code="2">2</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="104887">
+      <result code="3">3</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="104888">
+      <result code="4">4</result>
+      <band id="4429">Coseley</band>
+      <conductor id="310191">Thomas Taylor</conductor>
+    </result>
+    
+    <result id="104890">
+      <result code="">Unknown Result</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104892">
+      <result code="">Unknown Result</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104889">
+      <result code="">Unknown Result</result>
+      <band id="1588">Northfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104891">
+      <result code="">Unknown Result</result>
+      <band id="4417">Wednesbury Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

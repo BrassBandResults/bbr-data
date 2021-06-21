@@ -1,0 +1,67 @@
+<contest-event id="15330">
+  <event-date date="1898-8-13">Aug. 13, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hemsworth Contest</name>
+  <contest id="2074">
+    <name>Hemsworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hemsworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1511">Hemsworth, West Yorkshire</venue>
+  <notes>Prizes: £5, £2, £1, 10s
+March contest: 1.  Wakefield Belle Vue, 2. Mexborough Great Central</notes>
+
+  <created>Oct. 15, 2012, 1:02 p.m.</created>
+  <last-modified>Oct. 15, 2012, 1:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118782">
+      <result code="1">1</result>
+      <band id="7802">Wakefield Belle Vue</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="118783">
+      <result code="2">2</result>
+      <band id="7876">Ackworth Parish</band>
+      <conductor id="311558">Joseph Wilkinson</conductor>
+    </result>
+    
+    <result id="118784">
+      <result code="3">3</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="309634">J. W. Stamp</conductor>
+    </result>
+    
+    <result id="118785">
+      <result code="4">4</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="300245">John Dawson</conductor>
+    </result>
+    
+    <result id="118787">
+      <result code="">Unknown Result</result>
+      <band id="9616">New Hemsworth Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118786">
+      <result code="">Unknown Result</result>
+      <band id="8345">Wragby</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,74 @@
+<contest-event id="10502">
+  <event-date date="1905-10-21">Oct. 21, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Paisley Contest (First Section)</name>
+  <contest id="2044">
+    <name>Paisley Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="239">Paisley Contest</group>
+    <slug>paisley-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1009">La Reine de Saba [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1470">Paisley Town Hall, Paisley, Renfrewshire, Scotland, UK</venue>
+  <notes>
+
+  7 bands competed.</notes>
+
+  <created>Feb. 20, 2012, 5:45 p.m.</created>
+  <last-modified>Feb. 20, 2012, 5:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="88273">
+      <result code="1">1</result>
+      <band id="4530">Jamestown Temperance</band>
+      <conductor id="308992">William Shaw</conductor>
+    </result>
+    
+    <result id="88274">
+      <result code="2">2</result>
+      <band id="4648">Milnwood 2nd L.R.E</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="88275">
+      <result code="3">3</result>
+      <band id="1371">Newmilns Burgh Silver</band>
+      <conductor id="309464">William Smith</conductor>
+    </result>
+    
+    <result id="88276">
+      <result code="4">4</result>
+      <band id="322">Johnstone Band</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="88279">
+      <result code="">Unknown Result</result>
+      <band id="1984">Coatbridge Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="88278">
+      <result code="">Unknown Result</result>
+      <band id="5222">Dumbarton Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="88277">
+      <result code="">Unknown Result</result>
+      <band id="5234">Dykehead</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

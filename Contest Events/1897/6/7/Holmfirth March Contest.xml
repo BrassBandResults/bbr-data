@@ -1,0 +1,49 @@
+<contest-event id="13219">
+  <event-date date="1897-6-7">June 7, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holmfirth March Contest</name>
+  <contest id="1857">
+    <name>Holmfirth March Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>holmfirth-march-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1940">True Briton</test-piece>
+  </test-piece>
+
+  <venue id="1306">Holmfirth, West Yorkshire, England, UK</venue>
+  <notes>Prizes: £1 10s and 25 medals, £1 and 25 medals, 10s and 25 medals.
+3 bands competed.</notes>
+
+  <created>May 5, 2012, 8:55 a.m.</created>
+  <last-modified>July 8, 2019, 6:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105049">
+      <result code="1">1</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="105050">
+      <result code="2">2</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="297725">John Belcher</conductor>
+    </result>
+    
+    <result id="105051">
+      <result code="3">3</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,69 @@
+<contest-event id="17786">
+  <event-date date="1889-8-31">Aug. 31, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Romiley Contest</name>
+  <contest id="3792">
+    <name>Romiley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>romiley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1573">Excelsior [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2961">Romiley</venue>
+  <notes>Promoted by Bredbury &amp; Romiley Brass Band.
+Prizes: £10, £6, £4, £2 10s, £1 10s.
+16 bands entered, only 6 competed.
+</notes>
+
+  <created>Jan. 31, 2013, 11:15 a.m.</created>
+  <last-modified>Sept. 1, 2016, 6:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="134678">
+      <result code="1">1</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134679">
+      <result code="2">2</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134680">
+      <result code="3">3</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134681">
+      <result code="4">4</result>
+      <band id="5889">Bradford (Manchester) Free Church</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134682">
+      <result code="5">5</result>
+      <band id="6183">Audenshaw and Droylsden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="261376">
+      <result code="6">6</result>
+      <band id="4416">Stockport (late Yeomanry)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

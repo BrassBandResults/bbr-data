@@ -1,0 +1,111 @@
+<contest-event id="18191">
+  <event-date date="1892-7-9">July 9, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bury Contest</name>
+  <contest id="1599">
+    <name>Bury Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1832">Medusa</test-piece>
+  </test-piece>
+
+  <venue id="3065">Gigg Lane, Bury</venue>
+  <notes>Promoted by Bury Borough Band
+Quickstep: 1. Skelmersdale, 2. Swinton
+Prizes - 1st £14 and cornet, 2nd £8 and trombone, 3rd £6, 4th £4.
+14 bands competed</notes>
+
+  <created>Feb. 13, 2013, 5:25 p.m.</created>
+  <last-modified>May 29, 2019, 6:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="137190">
+      <result code="1">1</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="137191">
+      <result code="2">2</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="137192">
+      <result code="3">3</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="137193">
+      <result code="4">4</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="137194">
+      <result code="5">5</result>
+      <band id="1589">Pendleton Old</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="239520">
+      <result code="5">5</result>
+      <band id="7769">Pendlebury and Clifton</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="137195">
+      <result code="6">6</result>
+      <band id="6251">Bacup Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="239521">
+      <result code="7">7</result>
+      <band id="5368">Newton Heath Loco Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137196">
+      <result code="8">8</result>
+      <band id="12909">Swinton Town [Lancs.]</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="239524">
+      <result code="9">9</result>
+      <band id="3529">Bury Public Silver Band</band>
+      <conductor id="307313">William Peatfield</conductor>
+    </result>
+    
+    <result id="239523">
+      <result code="10">10</result>
+      <band id="6324">Atherton Rifles</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="239522">
+      <result code="11">11</result>
+      <band id="7166">Newton Heath All Saints</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="239068">
+      <result code="13">13</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

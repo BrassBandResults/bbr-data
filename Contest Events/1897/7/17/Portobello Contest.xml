@@ -1,0 +1,73 @@
+<contest-event id="13313">
+  <event-date date="1897-7-17">July 17, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Portobello Contest</name>
+  <contest id="1513">
+    <name>Portobello Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>portobello-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3711">Brighton Park, Portobello</venue>
+  <notes>Prizes: £12, £7, £4, £2
+6 bands competed</notes>
+
+  <created>May 9, 2012, 11:07 p.m.</created>
+  <last-modified>July 9, 2019, 8:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="105643">
+      <result code="1">1</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="105644">
+      <result code="2">2</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="105645">
+      <result code="3">3</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="105646">
+      <result code="4">4</result>
+      <band id="1992">Laurieston</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="151456">
+      <result code="">Unknown Result</result>
+      <band id="1226">Broxburn Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151458">
+      <result code="">Unknown Result</result>
+      <band id="1998">Longriggend Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151457">
+      <result code="W">Withdrawn</result>
+      <band id="4976">Galashiels Rifle Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

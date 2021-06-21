@@ -1,0 +1,43 @@
+<contest-event id="13063">
+  <event-date date="1896-8-18">Aug. 18, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hutton Rudby Contest</name>
+  <contest id="2495">
+    <name>Hutton Rudby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hutton-rudby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1800">England</test-piece>
+  </test-piece>
+
+  <venue id="1848">Hutton Rudby</venue>
+  <notes>
+2 bands competed</notes>
+
+  <created>May 1, 2012, 4:40 p.m.</created>
+  <last-modified>April 1, 2013, 5:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103926">
+      <result code="1">1</result>
+      <band id="4655">Eston Miners</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="103927">
+      <result code="2">2</result>
+      <band id="7615">Harrogate Temperance</band>
+      <conductor id="300006">Hodgson Curry</conductor>
+    </result>
+    
+  </results>
+</contest-event>

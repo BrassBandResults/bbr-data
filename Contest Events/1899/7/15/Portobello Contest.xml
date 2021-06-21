@@ -1,0 +1,86 @@
+<contest-event id="12445">
+  <event-date date="1899-7-15">July 15, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Portobello Contest</name>
+  <contest id="1513">
+    <name>Portobello Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>portobello-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="982">Livingston Park, Portobello</venue>
+  <notes>3rd and 4th divided between Polton Mills and Wright Memorial.
+</notes>
+
+  <created>April 14, 2012, 4:42 p.m.</created>
+  <last-modified>May 22, 2020, 1:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99469">
+      <result code="1">1</result>
+      <band id="4531">Carron Iron Works</band>
+      <conductor id="305419">Frank MacDonald</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="99470">
+      <result code="2">2</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="306298">Thomas Moore</conductor>
+      <test-piece id="2246">Le Prophete [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="99471">
+      <result code="3">3</result>
+      <band id="4533">Polton Mills</band>
+      <conductor id="298610">John Brown</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="99472">
+      <result code="3">3</result>
+      <band id="1996">Wright Memorial</band>
+      <conductor id="314025">James Robinson</conductor>
+      <test-piece id="950">Lucia di Lammermoor [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="318808">
+      <result code="5">5</result>
+      <band id="5496">Methil Town</band>
+      <conductor id="299019">James Carmichael</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="318807">
+      <result code="">Unknown Result</result>
+      <band id="9855">Bellshill and Mossend R.C</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+      <test-piece id="1865">Grand Duchess</test-piece>
+    </result>
+    
+    <result id="318809">
+      <result code="">Unknown Result</result>
+      <band id="2103">Armadale Burgh</band>
+      <conductor id="306502">William Muirhead</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+    <result id="318810">
+      <result code="W">Withdrawn</result>
+      <band id="1990">Musselburgh Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

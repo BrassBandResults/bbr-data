@@ -1,0 +1,61 @@
+<contest-event id="38920">
+  <event-date date="1889-8-3">Aug. 3, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Greetland Contest</name>
+  <contest id="1376">
+    <name>Greetland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>greetland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1506">Joan of Arc [Round]</test-piece>
+  </test-piece>
+
+  <venue id="888">Greetland, Yorkshire</venue>
+  <notes>Prizes - 1st £12, 2nd £7, 3rd £4, 4th £2, 5th £1.
+March contest - 1st(£2) Brighouse, 2nd(£1) Lindley.</notes>
+
+  <created>Dec. 1, 2017, 11:21 a.m.</created>
+  <last-modified>May 21, 2019, 12:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283138">
+      <result code="1">1</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283139">
+      <result code="2">2</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283140">
+      <result code="3">3</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283141">
+      <result code="4">4</result>
+      <band id="192">Dobcross Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283142">
+      <result code="5">5</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

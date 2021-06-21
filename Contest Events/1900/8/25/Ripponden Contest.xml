@@ -1,0 +1,81 @@
+<contest-event id="22810">
+  <event-date date="1900-8-25">Aug. 25, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ripponden Contest</name>
+  <contest id="1405">
+    <name>Ripponden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ripponden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="916">Ripponden, West Yorkshire</venue>
+  <notes>Best euphonium - Mossley.Ripponden Show
+Prizes: £10 and cup, £6, £3, £1.
+8 bands competed
+</notes>
+
+  <created>Aug. 14, 2013, 10:40 a.m.</created>
+  <last-modified>April 7, 2020, 9:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="168408">
+      <result code="1">1</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="317223">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="317224">
+      <result code="3">3</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="168411">
+      <result code="4">4</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="317225">
+      <result code="7">7</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="289793">
+      <result code="">Unknown Result</result>
+      <band id="7907">Halifax Victoria</band>
+      <conductor id="308204">F. Riley</conductor>
+    </result>
+    
+    <result id="289794">
+      <result code="">Unknown Result</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="310193">William Taylor</conductor>
+    </result>
+    
+    <result id="289795">
+      <result code="">Unknown Result</result>
+      <band id="6218">Ovenden</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

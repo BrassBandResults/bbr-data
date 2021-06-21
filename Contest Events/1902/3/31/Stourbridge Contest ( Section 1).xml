@@ -1,0 +1,57 @@
+<contest-event id="21750">
+  <event-date date="1902-3-31">March 31, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stourbridge Contest ( Section 1)</name>
+  <contest id="4299">
+    <name>Stourbridge Contest ( Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stourbridge-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3541">Stourbridge, West Midlands, England, UK</venue>
+  <notes>Promoted by the Titan Works Brass Band
+Prizes - 1st £12 and shield, 2nd £7, 3rd £5.
+March contest - 1st(£1) Princes End, 2nd (10s.) Wednesbury Crown Tube Wks.
+4 bands competed.</notes>
+
+  <created>June 7, 2013, 7:56 a.m.</created>
+  <last-modified>July 21, 2016, 9:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="161538">
+      <result code="1">1</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="259334">
+      <result code="2">2</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="315242">W.R. Roberts</conductor>
+    </result>
+    
+    <result id="259335">
+      <result code="3">3</result>
+      <band id="313">Gresley Colliery Band</band>
+      <conductor id="309327">C. Smith</conductor>
+    </result>
+    
+    <result id="259336">
+      <result code="4">4</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

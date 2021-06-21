@@ -1,0 +1,73 @@
+<contest-event id="40344">
+  <event-date date="1908-8-3">Aug. 3, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hexham Waltz Contest</name>
+  <contest id="4364">
+    <name>Hexham Waltz Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hexham-waltz-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3136">Abbey Grounds, Hexham, Northumberland, England, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £7, 3rd £4, 4th £2.
+6 bands competed.</notes>
+
+  <created>Sept. 23, 2018, 2:51 p.m.</created>
+  <last-modified>July 19, 2020, 10:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293547">
+      <result code="1">1</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+      <test-piece id="5599">Waltz: La Chatelaine</test-piece>
+    </result>
+    
+    <result id="293546">
+      <result code="2">2</result>
+      <band id="4504">Birtley Town</band>
+      <conductor id="303593">John Hughes</conductor>
+      <test-piece id="5599">Waltz: La Chatelaine</test-piece>
+    </result>
+    
+    <result id="293545">
+      <result code="3">3</result>
+      <band id="6694">South Shields Harmonic</band>
+      <conductor id="311383">E. White</conductor>
+      <test-piece id="5599">Waltz: La Chatelaine</test-piece>
+    </result>
+    
+    <result id="293548">
+      <result code="4">4</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310628">Wilfred Turnbull</conductor>
+      <test-piece id="5599">Waltz: La Chatelaine</test-piece>
+    </result>
+    
+    <result id="293550">
+      <result code="4">4</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="302878">Frank Hedley</conductor>
+      <test-piece id="5599">Waltz: La Chatelaine</test-piece>
+    </result>
+    
+    <result id="293549">
+      <result code="6">6</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312032">Ben Wright</conductor>
+      <test-piece id="1826">Fair Rosamond</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

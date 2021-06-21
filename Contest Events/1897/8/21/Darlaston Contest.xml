@@ -1,0 +1,49 @@
+<contest-event id="13369">
+  <event-date date="1897-8-21">Aug. 21, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Darlaston Contest</name>
+  <contest id="2818">
+    <name>Darlaston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>darlaston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2160">Darlaston, West Midlands, England, UK</venue>
+  <notes>March contest: 1. Wednesbury Crown Tube Works, 2. Willenhall Temperance
+3 bands competed</notes>
+
+  <created>May 10, 2012, 10:58 p.m.</created>
+  <last-modified>July 10, 2019, 6:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106008">
+      <result code="1">1</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="106009">
+      <result code="2">2</result>
+      <band id="6600">Wednesbury Crown Tube</band>
+      <conductor id="301750">Thomas German</conductor>
+    </result>
+    
+    <result id="106010">
+      <result code="3">3</result>
+      <band id="7202">St. George&#39;s Old</band>
+      <conductor id="297697">James Bedford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="38938">
+  <event-date date="1890-9-6">Sept. 6, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Willington Contest</name>
+  <contest id="2531">
+    <name>Willington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>willington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1885">Willington, County Durham</venue>
+  <notes>March contest - 1st Spennymoor.
+4 bands competed.</notes>
+
+  <created>Dec. 2, 2017, 2:25 p.m.</created>
+  <last-modified>Dec. 31, 2017, 7:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="283270">
+      <result code="1">1</result>
+      <band id="3541">Castle Eden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283271">
+      <result code="2">2</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283272">
+      <result code="3">3</result>
+      <band id="7522">1st V.B.N.F. (late Acomb)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283273">
+      <result code="4">4</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

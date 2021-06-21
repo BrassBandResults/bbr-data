@@ -1,0 +1,61 @@
+<contest-event id="12665">
+  <event-date date="1899-8-28">Aug. 28, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhos Contest</name>
+  <contest id="1007">
+    <name>Rhos Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhos-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="2520">Llanerchrugog Park, Rhosllanerchrugog, Wrexham, Wales, UK</venue>
+  <notes>March contest 1st Coedpoeth,  2nd divided between Oak Alyn and Rhos Robin. The test march was &quot;Mount Washington&#39;
+4 bands competed</notes>
+
+  <created>April 19, 2012, 2:53 p.m.</created>
+  <last-modified>July 28, 2019, 3:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100917">
+      <result code="1">1</result>
+      <band id="2675">Coedpoeth Public</band>
+      <conductor id="308277">Edward Roberts</conductor>
+    </result>
+    
+    <result id="100918">
+      <result code="2">2</result>
+      <band id="7806">Rhosrobin</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100919">
+      <result code="3">3</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100920">
+      <result code="">Unknown Result</result>
+      <band id="4778">Brymbo Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167080">
+      <result code="W">Withdrawn</result>
+      <band id="4495">Rhostyllen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

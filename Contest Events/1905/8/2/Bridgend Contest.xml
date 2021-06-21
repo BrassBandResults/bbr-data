@@ -1,0 +1,55 @@
+<contest-event id="10356">
+  <event-date date="1905-8-2">Aug. 2, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridgend Contest</name>
+  <contest id="1665">
+    <name>Bridgend Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bridgend-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1168">Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="1395">Bridgend, Bridgend County, Wales, UK</venue>
+  <notes>1st prize £7. 2nd prize £3. 3rd prize £2.
+4 bands competed.</notes>
+
+  <created>Feb. 17, 2012, 1:46 p.m.</created>
+  <last-modified>Sept. 11, 2018, 6:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87294">
+      <result code="1">1</result>
+      <band id="458">Ogmore Valley Silver Band</band>
+      <conductor id="309476">William Smith</conductor>
+    </result>
+    
+    <result id="87295">
+      <result code="2">2</result>
+      <band id="12696">Tylorstown</band>
+      <conductor id="305213">J. A. Locksley</conductor>
+    </result>
+    
+    <result id="87296">
+      <result code="3">3</result>
+      <band id="6823">Maesteg Volunteer</band>
+      <conductor id="304322">W. Jury</conductor>
+    </result>
+    
+    <result id="87297">
+      <result code="4">4</result>
+      <band id="6725">Aber-Blaengwynfi Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

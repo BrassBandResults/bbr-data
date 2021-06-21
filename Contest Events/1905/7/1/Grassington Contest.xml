@@ -1,0 +1,62 @@
+<contest-event id="10237">
+  <event-date date="1905-7-1">July 1, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grassington Contest</name>
+  <contest id="1896">
+    <name>Grassington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>grassington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1341">Grassington, North Yorkshire</venue>
+  <notes>
+
+  1st prize £12.
+  2nd prize £7.
+  3rd prize £3.10s.
+
+  March contest 1st Armley and Wortley, 2nd King Cross.
+
+  4 bands competed</notes>
+
+  <created>Feb. 12, 2012, 8:18 p.m.</created>
+  <last-modified>Feb. 12, 2012, 8:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="86544">
+      <result code="1">1</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="313108">Walter Halstead</conductor>
+    </result>
+    
+    <result id="86545">
+      <result code="2">2</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="86546">
+      <result code="3">3</result>
+      <band id="5095">Kildwick and District Prize</band>
+      <conductor id="303971">Charles Jeffrey</conductor>
+    </result>
+    
+    <result id="86547">
+      <result code="4">4</result>
+      <band id="6743">Skipton Mission</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

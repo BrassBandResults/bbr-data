@@ -1,0 +1,64 @@
+<contest-event id="12837">
+  <event-date date="1889-6-10">June 10, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Caerphilly Contest</name>
+  <contest id="1858">
+    <name>Caerphilly Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>caerphilly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1481">War March of the Priests (Athalie) [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3173">Castle Grounds, Caerphilly, Caerphilly County, Wales, UK</venue>
+  <notes>  
+
+  1st prize divided between Cymmer Colliery and Ferndale Select.
+
+  5 bands competed.</notes>
+
+  <created>April 25, 2012, 6:15 p.m.</created>
+  <last-modified>July 7, 2016, 9:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101995">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="303504">W. R. Howe</conductor>
+    </result>
+    
+    <result id="101994">
+      <result code="1">1</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="305677">Richard Martyn</conductor>
+    </result>
+    
+    <result id="101996">
+      <result code="">Unknown Result</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101997">
+      <result code="">Unknown Result</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101998">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

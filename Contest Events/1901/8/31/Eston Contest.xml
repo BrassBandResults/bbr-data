@@ -1,0 +1,49 @@
+<contest-event id="40035">
+  <event-date date="1901-8-31">Aug. 31, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eston Contest</name>
+  <contest id="2501">
+    <name>Eston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>eston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1941">Eston, North Yorkshire</venue>
+  <notes>March contest - 1st Milburn&#39;s, 2nd Rise Carr.
+4 bands competed.</notes>
+
+  <created>June 28, 2018, 11:28 a.m.</created>
+  <last-modified>June 28, 2018, 11:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="290998">
+      <result code="1">1</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="299956">W. H. Crowther</conductor>
+    </result>
+    
+    <result id="290999">
+      <result code="2">2</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="291000">
+      <result code="3">3</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="311154">William Watson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

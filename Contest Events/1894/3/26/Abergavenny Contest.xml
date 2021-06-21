@@ -1,0 +1,103 @@
+<contest-event id="12141">
+  <event-date date="1894-3-26">March 26, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abergavenny Contest</name>
+  <contest id="1801">
+    <name>Abergavenny Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="323">Abergavenny Contest</group>
+    <slug>abergavenny-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1825">Abergavenny Castle, Abergavenny, Monmouthshire, Wales, UK</venue>
+  <notes>Prizes: £20, £8, £5
+12 bands competed</notes>
+
+  <created>April 9, 2012, 3:06 p.m.</created>
+  <last-modified>May 5, 2020, 10:09 p.m.</last-modified>
+
+  <results>
+    
+    <result id="263355">
+      <result code="1">1</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="263356">
+      <result code="2">2</result>
+      <band id="4704">Abertillery Silver</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="263357">
+      <result code="3">3</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="319888">John J. Griffiths</conductor>
+    </result>
+    
+    <result id="309677">
+      <result code="">Unknown Result</result>
+      <band id="7498">Dowlais Town</band>
+      <conductor id="312422">Manuel Bilton</conductor>
+    </result>
+    
+    <result id="309678">
+      <result code="">Unknown Result</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="309679">
+      <result code="">Unknown Result</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="307688">James Prestwood</conductor>
+    </result>
+    
+    <result id="309680">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="309681">
+      <result code="">Unknown Result</result>
+      <band id="2136">Tonyrefail Silver Prize Band</band>
+      <conductor id="305076">Thomas Lewis</conductor>
+    </result>
+    
+    <result id="309682">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="308620">James Ryan</conductor>
+    </result>
+    
+    <result id="309683">
+      <result code="">Unknown Result</result>
+      <band id="7499">Pontardawe</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="309684">
+      <result code="">Unknown Result</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+    <result id="309685">
+      <result code="">Unknown Result</result>
+      <band id="17970">Llanelly Town</band>
+      <conductor id="308684">James Samuel</conductor>
+    </result>
+    
+  </results>
+</contest-event>

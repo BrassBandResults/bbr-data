@@ -1,0 +1,55 @@
+<contest-event id="20407">
+  <event-date date="1897-7-9">July 9, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Earl&#39;s Court Exhibition Contest</name>
+  <contest id="1081">
+    <name>Earl&#39;s Court Exhibition Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>earl-s-court-exhibition-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1609">Earl&#39;s Court, Kensington and Chelsea, Greater London, England, UK</venue>
+  <notes>Earl&#39;s Court Victorian Exhibition.  Run in conjunction with contests on 28th May, 11th June, 25th June.  Confines to bands from Northumberland, Durham, Cumberland and Westmorland.
+9 bands entered, 4 competed</notes>
+
+  <created>April 9, 2013, 9:07 p.m.</created>
+  <last-modified>July 8, 2019, 9:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="151454">
+      <result code="1">1</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="151453">
+      <result code="2">2</result>
+      <band id="7873">Brampton Rifles</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="151455">
+      <result code="3">3</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="311126">
+      <result code="4">4</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="312600">H. Cassel</conductor>
+    </result>
+    
+  </results>
+</contest-event>

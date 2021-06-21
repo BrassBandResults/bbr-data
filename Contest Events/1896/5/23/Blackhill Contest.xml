@@ -1,0 +1,78 @@
+<contest-event id="12932">
+  <event-date date="1896-5-23">May 23, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackhill Contest</name>
+  <contest id="2431">
+    <name>Blackhill Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blackhill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1785">Blackhill, County Durham, England, UK</venue>
+  <notes>Prizes: £22, £12, £6
+
+9 bands entered
+
+March contest: 1. Wyke, 2. West Hartlepool, 3. Hartlepool Temperance
+</notes>
+
+  <created>April 29, 2012, 10:46 a.m.</created>
+  <last-modified>March 31, 2013, 11:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="102816">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="102817">
+      <result code="2">2</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="102818">
+      <result code="3">3</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="149789">
+      <result code="4">4</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="149790">
+      <result code="5">5</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149791">
+      <result code="6">6</result>
+      <band id="10198">West Pelton and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149792">
+      <result code="7">7</result>
+      <band id="6688">Frosterley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

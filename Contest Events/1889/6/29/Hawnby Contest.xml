@@ -1,0 +1,60 @@
+<contest-event id="9357">
+  <event-date date="1889-6-29">June 29, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hawnby Contest</name>
+  <contest id="1677">
+    <name>Hawnby Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hawnby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1582">Notre Dame</test-piece>
+  </test-piece>
+
+  <venue id="1182">Hawnby, North Yorkshire, England, UK</venue>
+  <notes></notes>
+
+  <created>Jan. 3, 2012, 1:47 p.m.</created>
+  <last-modified>Jan. 3, 2012, 1:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80628">
+      <result code="1">1</result>
+      <band id="6266">Helmsley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80629">
+      <result code="2">2</result>
+      <band id="6304">Hawnby</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80630">
+      <result code="3">3</result>
+      <band id="6305">Silton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80631">
+      <result code="">Unknown Result</result>
+      <band id="941">Bilsdale Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="80632">
+      <result code="">Unknown Result</result>
+      <band id="6306">Boltby</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

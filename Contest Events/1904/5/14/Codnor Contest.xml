@@ -1,0 +1,86 @@
+<contest-event id="37960">
+  <event-date date="1904-5-14">May 14, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Codnor Contest</name>
+  <contest id="1540">
+    <name>Codnor Contest</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id=""></group>
+    <slug>codnor</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2893">Anna Bolena [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3398">Monument Grounds, Codnor Park</venue>
+  <notes>Promoted by Riddings United Prize Band
+Prizes: £10, £6, £4, £2.
+8 bands competed.</notes>
+
+  <created>May 17, 2017, 1:16 p.m.</created>
+  <last-modified>Aug. 26, 2018, 11:09 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274289">
+      <result code="1">1</result>
+      <band id="2137">Lea Mills</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="274293">
+      <result code="2">2</result>
+      <band id="6579">Newstead Colliery</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="274295">
+      <result code="3">3</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="274291">
+      <result code="4">4</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="274290">
+      <result code="">Unknown Result</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="292145">
+      <result code="">Unknown Result</result>
+      <band id="124">Chapeltown Silver Prize Band</band>
+      <conductor id="306714">George Nicholls</conductor>
+    </result>
+    
+    <result id="274288">
+      <result code="">Unknown Result</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="311535">L. Wildgoose</conductor>
+    </result>
+    
+    <result id="274294">
+      <result code="">Unknown Result</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="274292">
+      <result code="W">Withdrawn</result>
+      <band id="4909">Sutton in Ashfield</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

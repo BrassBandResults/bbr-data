@@ -1,0 +1,74 @@
+<contest-event id="10450">
+  <event-date date="1905-9-2">Sept. 2, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hinchliffe Contest</name>
+  <contest id="2009">
+    <name>Hinchliffe Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hinchliffe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1442">Hinchliffe, West Yorkshire</venue>
+  <notes>Promoted by Hinchliffe Mill Brass Band
+
+  March contest 1st Linthwaite, 2nd Holme.</notes>
+
+  <created>Feb. 19, 2012, 2:12 p.m.</created>
+  <last-modified>June 22, 2020, 9:47 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87877">
+      <result code="1">1</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="87878">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="297663">Ernest Beaumont</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87879">
+      <result code="3">3</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+    <result id="87880">
+      <result code="4">4</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="299457">A. Clough</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="87881">
+      <result code="5">5</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="302373">Delbert Haigh</conductor>
+      <test-piece id="1653">Gemma di Vergy [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="87882">
+      <result code="6">6</result>
+      <band id="1724">Shaw Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+      <test-piece id="1079">Rob Roy</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

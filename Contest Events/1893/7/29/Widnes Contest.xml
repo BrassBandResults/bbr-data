@@ -1,0 +1,69 @@
+<contest-event id="11858">
+  <event-date date="1893-7-29">July 29, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Widnes Contest</name>
+  <contest id="2391">
+    <name>Widnes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>widnes-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1275">Theodora</test-piece>
+  </test-piece>
+
+  <venue id="3190">St. Mary&#39;s Football Field, Widnes, Cheshire, England, UK</venue>
+  <notes>2nd annual contest promoted by Widnes Subscription Brass Band
+10 bands competed
+March contest: 1. Skelmersdale, 2. Radcliffe
+</notes>
+
+  <created>April 7, 2012, 9:50 p.m.</created>
+  <last-modified>Nov. 20, 2019, 9:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95847">
+      <result code="1">1</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="95848">
+      <result code="2">2</result>
+      <band id="197">Skelmersdale Prize Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="95849">
+      <result code="3">3</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="95850">
+      <result code="4">4</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="95851">
+      <result code="5">5</result>
+      <band id="6270">Radcliffe Public</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="313875">
+      <result code="">Unknown Result</result>
+      <band id="1652">Nutgrove</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

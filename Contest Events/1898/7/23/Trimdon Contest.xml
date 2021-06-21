@@ -1,0 +1,55 @@
+<contest-event id="13592">
+  <event-date date="1898-7-23">July 23, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trimdon Contest</name>
+  <contest id="2865">
+    <name>Trimdon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trimdon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1360">Trimdon, County Durham</venue>
+  <notes>Prizes: £6, £2
+March contest: 1. Hartlepool Borough</notes>
+
+  <created>May 28, 2012, 8:50 p.m.</created>
+  <last-modified>May 28, 2012, 8:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107696">
+      <result code="1">1</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="303798">T. Inglesant</conductor>
+    </result>
+    
+    <result id="107697">
+      <result code="2">2</result>
+      <band id="7836">Birtley Temperance</band>
+      <conductor id="307392">George Perry</conductor>
+    </result>
+    
+    <result id="107698">
+      <result code="">Unknown Result</result>
+      <band id="6634">Birtley League of the Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107699">
+      <result code="">Unknown Result</result>
+      <band id="583">Trimdon Concert Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

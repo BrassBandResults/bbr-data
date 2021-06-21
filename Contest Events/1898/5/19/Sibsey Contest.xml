@@ -1,0 +1,55 @@
+<contest-event id="13441">
+  <event-date date="1898-5-19">May 19, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sibsey Contest</name>
+  <contest id="2773">
+    <name>Sibsey Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sibsey-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2127">Sibsey, Lincolnshire, England, UK</venue>
+  <notes>Prizes: £8 11s and cornet, £7, £4, £2
+March contest: 1. Hucknall, 2. Lincoln</notes>
+
+  <created>May 12, 2012, 9:51 p.m.</created>
+  <last-modified>May 12, 2012, 9:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106662">
+      <result code="1">1</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="106663">
+      <result code="2">2</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="106664">
+      <result code="3">3</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="106665">
+      <result code="4">4</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+  </results>
+</contest-event>

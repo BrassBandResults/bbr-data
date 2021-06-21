@@ -1,0 +1,43 @@
+<contest-event id="10958">
+  <event-date date="1906-8-4">Aug. 4, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Loftus Contest</name>
+  <contest id="1256">
+    <name>Lofthouse in Cleveland Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="230">Lofthouse in Cleveland Contest</group>
+    <slug>lofthouse-in-cleveland-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="765">Loftus-in-Cleveland</venue>
+  <notes>March contest - 1st Skinningrove, 2nd Lingdale.
+2 bands competed.</notes>
+
+  <created>March 10, 2012, 7:32 a.m.</created>
+  <last-modified>Sept. 15, 2018, 7:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="90870">
+      <result code="1">1</result>
+      <band id="1637">Skinningrove Miners Prize Silver Band</band>
+      <conductor id="304904">William Layman</conductor>
+    </result>
+    
+    <result id="90871">
+      <result code="2">2</result>
+      <band id="937">Lingdale Silver Band</band>
+      <conductor id="303862">J. W. Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,86 @@
+<contest-event id="23639">
+  <event-date date="1906-12-22">Dec. 22, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Perth Contest</name>
+  <contest id="3760">
+    <name>Perth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>perth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1836">Pride of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="3973">Perth City Hall, Perth, Perth &amp; Kinross, Scotland, UK</venue>
+  <notes>Northern Counties Amateur Brass Band Association contest.
+9 bands competed
+</notes>
+
+  <created>Sept. 10, 2013, 1:11 p.m.</created>
+  <last-modified>Sept. 17, 2018, 9:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="173199">
+      <result code="1">1</result>
+      <band id="1057">Brechin City</band>
+      <conductor id="304746">David Lamb</conductor>
+    </result>
+    
+    <result id="173201">
+      <result code="2">2</result>
+      <band id="1050">Forfar Instrumental</band>
+      <conductor id="304750">John Lamb</conductor>
+    </result>
+    
+    <result id="173205">
+      <result code="3">3</result>
+      <band id="13784">St. Margaret&#39;s Old (Dundee)</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="173204">
+      <result code="4">4</result>
+      <band id="1056">Perth Silver Band</band>
+      <conductor id="301256">John Finney</conductor>
+    </result>
+    
+    <result id="173198">
+      <result code="5">5</result>
+      <band id="7281">Arbroath Rifles</band>
+      <conductor id="301110">Friend Farrand</conductor>
+    </result>
+    
+    <result id="173197">
+      <result code="6">6</result>
+      <band id="640">Arbroath Instrumental</band>
+      <conductor id="300950">Joseph Esplin</conductor>
+    </result>
+    
+    <result id="173200">
+      <result code="7">7</result>
+      <band id="8084">Carnoustie</band>
+      <conductor id="300950">Joseph Esplin</conductor>
+    </result>
+    
+    <result id="173202">
+      <result code="8">8</result>
+      <band id="7101">Kirriemuir Town Band</band>
+      <conductor id="318322">James Lamb</conductor>
+    </result>
+    
+    <result id="173203">
+      <result code="9">9</result>
+      <band id="1054">Montrose Town</band>
+      <conductor id="301246">F. Findlay</conductor>
+    </result>
+    
+  </results>
+</contest-event>

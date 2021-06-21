@@ -1,0 +1,75 @@
+<contest-event id="8521">
+  <event-date date="1876-7-17">July 17, 1876<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stockton-on-Tees Contest</name>
+  <contest id="1515">
+    <name>Stockton-on-Tees Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stockton-on-tees-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2683">Gala Field, Oxbridge Lane, Stockton</venue>
+  <notes>See
+http://www.ibew.org.uk/misc4287.htm
+Promoted by the Excelsior Gala Company
+
+Prizes: £30, £18, £12, £6</notes>
+
+  <created>Dec. 8, 2011, 10:28 a.m.</created>
+  <last-modified>Nov. 12, 2012, 10:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="123776">
+      <result code="1">1</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2824">William Tell [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="123775">
+      <result code="2">2</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="306236">A. Monk</conductor>
+      <test-piece id="1985">Don Giovanni [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123774">
+      <result code="3">3</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+      <test-piece id="990">Le Prophete [arr. Winterbottom]</test-piece>
+    </result>
+    
+    <result id="123777">
+      <result code="4">4</result>
+      <band id="4899">Saltaire Band</band>
+      <conductor id="313844">Joseph Paley</conductor>
+      <test-piece id="1236">Robert le Diable [arr. Waterson]</test-piece>
+    </result>
+    
+    <result id="123773">
+      <result code="5">5</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="311966">Thomas Woods</conductor>
+      <test-piece id="1557">Reminiscences of Verdi</test-piece>
+    </result>
+    
+    <result id="123772">
+      <result code="W">Withdrawn</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,49 @@
+<contest-event id="40346">
+  <event-date date="1908-8-1">Aug. 1, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanfair Contest</name>
+  <contest id="2309">
+    <name>Llanfair Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llanfair-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3740">Rossini&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="6906">Llanfair Caereinion, Montgomeryshire</venue>
+  <notes>March contest - 1st Ferndale, 2nd Perfection, 3rd Gossages.
+3 bands competed.</notes>
+
+  <created>Sept. 23, 2018, 3:55 p.m.</created>
+  <last-modified>Sept. 23, 2018, 3:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="293562">
+      <result code="1">1</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="293563">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="293561">
+      <result code="3">3</result>
+      <band id="2135">Gossage Soap Works</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

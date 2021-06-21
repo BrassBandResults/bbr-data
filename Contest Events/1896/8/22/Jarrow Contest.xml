@@ -1,0 +1,55 @@
+<contest-event id="13071">
+  <event-date date="1896-8-22">Aug. 22, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Jarrow Contest</name>
+  <contest id="1860">
+    <name>Jarrow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="221">Jarrow Contest</group>
+    <slug>jarrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1309">Jarrow, Tyne and Wear, England, UK</venue>
+  <notes>March contest: 1. North Shields, 2. South Shields Harmonic
+5 bands competed</notes>
+
+  <created>May 1, 2012, 4:57 p.m.</created>
+  <last-modified>July 1, 2019, 10:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103973">
+      <result code="1">1</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103974">
+      <result code="2">2</result>
+      <band id="6694">South Shields Harmonic</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103975">
+      <result code="3">3</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="103976">
+      <result code="">Unknown Result</result>
+      <band id="9542">North Shields and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

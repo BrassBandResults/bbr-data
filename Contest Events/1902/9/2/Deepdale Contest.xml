@@ -1,0 +1,97 @@
+<contest-event id="23210">
+  <event-date date="1902-9-2">Sept. 2, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deepdale Contest</name>
+  <contest id="4507">
+    <name>Deepdale Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>deepdale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3877">Deepdale Stadium, Preston, Lancashire</venue>
+  <notes>Prizes - 1st £40, 2nd £25, 3rd £15, 4th £12, 5th £8.
+Choice of pieces: &quot;Rose of Castile&quot;, &quot;Tannhauser&quot;, &quot;Cinq Mars&quot; or Maritana. The latter being chosen by 7 of the 9 bands, and Tannhauser by the other 2.
+Preston Guild Contest.
+9 bands competed.
+</notes>
+
+  <created>Aug. 20, 2013, 8:14 p.m.</created>
+  <last-modified>July 11, 2018, 1:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="170675">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="170676">
+      <result code="2">2</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="170677">
+      <result code="3">3</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="170678">
+      <result code="4">4</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="302070">A. Gray</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="170679">
+      <result code="5">5</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="291528">
+      <result code="6">6</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="291529">
+      <result code="7">7</result>
+      <band id="3375">Coppull Subscription Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="291527">
+      <result code="8">8</result>
+      <band id="2488">Atherton Public Prize Band</band>
+      <conductor id="309337">Christopher Smith</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="291530">
+      <result code="9">9</result>
+      <band id="3307">Standish Subscription</band>
+      <conductor id="315076">John Rutter</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

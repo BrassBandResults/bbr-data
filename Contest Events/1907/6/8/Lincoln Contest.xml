@@ -1,0 +1,91 @@
+<contest-event id="11353">
+  <event-date date="1907-6-8">June 8, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lincoln Contest</name>
+  <contest id="1644">
+    <name>Lincoln Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lincoln-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1674">Daughter of the Regiment [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2047">Lincoln Arboretum, Lincoln, Lincolnshire, England, UK</venue>
+  <notes>1st prize £15, 2nd prize £10, 3rd prize £6, 4th prize £3, 5th prize £1.10s.
+10 bands competed.</notes>
+
+  <created>March 21, 2012, 9:54 p.m.</created>
+  <last-modified>Sept. 18, 2018, 1:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93534">
+      <result code="1">1</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="93535">
+      <result code="2">2</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="93536">
+      <result code="3">3</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="93537">
+      <result code="4">4</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="93538">
+      <result code="5">5</result>
+      <band id="3527">Gainsborough Rifles</band>
+      <conductor id="308207">J. A. Riley</conductor>
+    </result>
+    
+    <result id="93541">
+      <result code="">Unknown Result</result>
+      <band id="7205">Lincoln City Band</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="93540">
+      <result code="">Unknown Result</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="93543">
+      <result code="">Unknown Result</result>
+      <band id="8158">Lincoln Ruston&#39;s Silver</band>
+      <conductor id="297727">William Belcher</conductor>
+    </result>
+    
+    <result id="93542">
+      <result code="">Unknown Result</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="308796">Samuel Schofield</conductor>
+    </result>
+    
+    <result id="93539">
+      <result code="">Unknown Result</result>
+      <band id="6794">Beeston Humber</band>
+      <conductor id="303819">J. E. Irons</conductor>
+    </result>
+    
+  </results>
+</contest-event>

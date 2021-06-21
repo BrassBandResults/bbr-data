@@ -1,0 +1,56 @@
+<contest-event id="12185">
+  <event-date date="1894-7-5">July 5, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridgnorth Contest</name>
+  <contest id="2370">
+    <name>Bridgnorth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bridgnorth-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="1641">Bridgnorth, Shropshire</venue>
+  <notes>March contest: 1. Willenhall, 2. St George&#39;s
+Prizes - 1st £15, 2nd £8, 3rd £5, 4th £2.
+4 bands competed</notes>
+
+  <created>April 10, 2012, 9:28 a.m.</created>
+  <last-modified>June 13, 2019, 12:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="97785">
+      <result code="1">1</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="97786">
+      <result code="2">2</result>
+      <band id="1588">Northfield</band>
+      <conductor id="301212">Braithet Llewelyn Fewster</conductor>
+    </result>
+    
+    <result id="97787">
+      <result code="3">3</result>
+      <band id="7204">Shifnal Coronation</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="97788">
+      <result code="4">4</result>
+      <band id="7202">St. George&#39;s Old</band>
+      <conductor id="297697">James Bedford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

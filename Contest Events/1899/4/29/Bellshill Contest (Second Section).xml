@@ -1,0 +1,109 @@
+<contest-event id="12263">
+  <event-date date="1899-4-29">April 29, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bellshill Contest (Second Section)</name>
+  <contest id="2070">
+    <name>Bellshill Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="233">Bellshill Contest</group>
+    <slug>bellshill-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1866">Caledonia</test-piece>
+  </test-piece>
+
+  <venue id="3729">Jubilee Park, Bellshill, Lanarkshire</venue>
+  <notes>1st prize £6.
+  2nd prize £3.
+  3rd prize £2.
+  4th prize £1.
+
+  12 bands competed.
+
+Confined to bands that had not won over £3 at any one contest in the past 5 years</notes>
+
+  <created>April 11, 2012, 1:47 p.m.</created>
+  <last-modified>Jan. 30, 2020, 10:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98299">
+      <result code="1">1</result>
+      <band id="6764">Quarter Colliery</band>
+      <conductor id="297732">Alexander Bell</conductor>
+    </result>
+    
+    <result id="98300">
+      <result code="2">2</result>
+      <band id="6842">Blantyre Public</band>
+      <conductor id="309530">John Somerville</conductor>
+    </result>
+    
+    <result id="98301">
+      <result code="3">3</result>
+      <band id="5516">Skinflats</band>
+      <conductor id="297732">Alexander Bell</conductor>
+    </result>
+    
+    <result id="98302">
+      <result code="4">4</result>
+      <band id="4981">Crofthead Brass Band</band>
+      <conductor id="307270">George Peacock</conductor>
+    </result>
+    
+    <result id="98310">
+      <result code="">Unknown Result</result>
+      <band id="2103">Armadale Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98308">
+      <result code="">Unknown Result</result>
+      <band id="5672">Bellshill Town</band>
+      <conductor id="300947">J. W. A. Eskdale</conductor>
+    </result>
+    
+    <result id="98305">
+      <result code="">Unknown Result</result>
+      <band id="6787">Burnbank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98304">
+      <result code="">Unknown Result</result>
+      <band id="7803">Clarkston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98303">
+      <result code="">Unknown Result</result>
+      <band id="5234">Dykehead</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98307">
+      <result code="">Unknown Result</result>
+      <band id="13">Kirkintilloch Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98306">
+      <result code="">Unknown Result</result>
+      <band id="5527">Muirkirk Parish</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98309">
+      <result code="">Unknown Result</result>
+      <band id="1240">West Calder Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

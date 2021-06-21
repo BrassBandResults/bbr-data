@@ -1,0 +1,60 @@
+<contest-event id="13599">
+  <event-date date="1898-7-30">July 30, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southport Contest</name>
+  <contest id="1547">
+    <name>Southport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1010">Winter Gardens, Southport</venue>
+  <notes>5 bands competed</notes>
+
+  <created>May 28, 2012, 9:08 p.m.</created>
+  <last-modified>July 19, 2019, 10:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107760">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="107761">
+      <result code="2">2</result>
+      <band id="3537">Rochdale Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="107762">
+      <result code="3">3</result>
+      <band id="3666">Birch Mills</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="107763">
+      <result code="3">3</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="311407">
+      <result code="5">5</result>
+      <band id="2770">Heywood Old Prize</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,76 @@
+<contest-event id="24611">
+  <event-date date="1901-5-4">May 4, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rawtenstall Contest</name>
+  <contest id="1310">
+    <name>Rawtenstall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rawtenstall</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2714">Cordelia</test-piece>
+  </test-piece>
+
+  <venue id="1590">Rawtenstall, Lancashire</venue>
+  <notes>  Promoted by Rawtenstall Agricultural Show.
+Prizes - 1st £5, 2nd £3, 3rd £2, 4th £1.
+  7 bands competed.
+
+</notes>
+
+  <created>Oct. 21, 2013, 12:14 p.m.</created>
+  <last-modified>Nov. 13, 2020, 11:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="180004">
+      <result code="1">1</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="302599">J. J. Hargreaves</conductor>
+    </result>
+    
+    <result id="180005">
+      <result code="1">1</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180006">
+      <result code="3">3</result>
+      <band id="4886">Bacup Change</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180007">
+      <result code="4">4</result>
+      <band id="9737">Rawtenstall Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180008">
+      <result code="4">4</result>
+      <band id="1527">Stacksteads Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180009">
+      <result code="">Unknown Result</result>
+      <band id="3675">Boothfold</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="180010">
+      <result code="">Unknown Result</result>
+      <band id="5271">Helmshore Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

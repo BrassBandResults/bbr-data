@@ -1,0 +1,78 @@
+<contest-event id="40322">
+  <event-date date="1908-6-27">June 27, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tytherington Contest</name>
+  <contest id="6304">
+    <name>Tytherington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tytherington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5643">Melodies of Old Ireland</test-piece>
+  </test-piece>
+
+  <venue id="6869">Tytherington, Gloucestershire</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Sept. 22, 2018, 11:19 a.m.</created>
+  <last-modified>Sept. 22, 2018, 11:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="293405">
+      <result code="1">1</result>
+      <band id="7402">Tytherington</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="293402">
+      <result code="2">2</result>
+      <band id="7544">Stroud Town</band>
+      <conductor id="301041">Walter Exley</conductor>
+    </result>
+    
+    <result id="293408">
+      <result code="3">3</result>
+      <band id="7399">Dursley Volunteers</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+    </result>
+    
+    <result id="293406">
+      <result code="4">4</result>
+      <band id="9844">Sharpness Temperance</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="293404">
+      <result code="5">5</result>
+      <band id="7401">Halmore</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="293401">
+      <result code="">Unknown Result</result>
+      <band id="7543">Uley Town</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="293403">
+      <result code="">Unknown Result</result>
+      <band id="8329">Amberley</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="293407">
+      <result code="">Unknown Result</result>
+      <band id="7400">Uley P.S.A</band>
+      <conductor id="301599">H. Fussell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

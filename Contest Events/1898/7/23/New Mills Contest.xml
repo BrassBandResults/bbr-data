@@ -1,0 +1,75 @@
+<contest-event id="13557">
+  <event-date date="1898-7-23">July 23, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>New Mills Contest</name>
+  <contest id="2311">
+    <name>New Mills Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>new-mills-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1670">New Mills, Derbyshire</venue>
+  <notes>3rd annual contest promoted by New Mills Old band.
+Prizes: £12, £8, £5, £2, £1
+March contest: 1. Heywood Old, 2. Oldham Rifles, 3. Sutton Road
+7 bands competed</notes>
+
+  <created>May 22, 2012, 10:11 p.m.</created>
+  <last-modified>July 18, 2019, 11:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107486">
+      <result code="1">1</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="308990">Stephen Shaw</conductor>
+    </result>
+    
+    <result id="107487">
+      <result code="2">2</result>
+      <band id="2770">Heywood Old Prize</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="107488">
+      <result code="3">3</result>
+      <band id="8302">Reddish Band</band>
+      <conductor id="297391">A. Ball</conductor>
+    </result>
+    
+    <result id="107489">
+      <result code="4">4</result>
+      <band id="3611">Sutton Road</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="107490">
+      <result code="5">5</result>
+      <band id="1718">Altrincham Borough</band>
+      <conductor id="300340">H. Derbyshire</conductor>
+    </result>
+    
+    <result id="107491">
+      <result code="">Unknown Result</result>
+      <band id="1357">Thornsett</band>
+      <conductor id="309463">Whitham Smith</conductor>
+    </result>
+    
+    <result id="107492">
+      <result code="">Unknown Result</result>
+      <band id="3215">Levenshulme</band>
+      <conductor id="303634">Alfred Hulme</conductor>
+    </result>
+    
+  </results>
+</contest-event>

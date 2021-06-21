@@ -1,0 +1,50 @@
+<contest-event id="37306">
+  <event-date date="1900-5-20">May 20, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Belfast Contest</name>
+  <contest id="2186">
+    <name>Belfast Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>belfast-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2242">Poet &amp; Peasant</test-piece>
+  </test-piece>
+
+  <venue id="654">Belfast, County Antrim, Northern Ireland, UK</venue>
+  <notes>3 bands competed
+
+Also played a Selection of Irish Airs</notes>
+
+  <created>Feb. 20, 2017, 7:12 p.m.</created>
+  <last-modified>Feb. 20, 2017, 7:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="270284">
+      <result code="1">1</result>
+      <band id="5832">Sirocco</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="270285">
+      <result code="2">2</result>
+      <band id="14691">Belfast Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="270286">
+      <result code="3">3</result>
+      <band id="14599">Dublin Brick and Stonelayers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

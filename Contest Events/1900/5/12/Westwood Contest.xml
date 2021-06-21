@@ -1,0 +1,74 @@
+<contest-event id="22680">
+  <event-date date="1900-5-12">May 12, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Westwood Contest</name>
+  <contest id="2536">
+    <name>Westwood Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>westwood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2563">Beautiful Switzerland</test-piece>
+  </test-piece>
+
+  <venue id="1892">Westwood, Northumberland, England, UK</venue>
+  <notes>Prizes - 1st £10, 2nd £8, 3rd £4, 4th £2, 5th £1.
+March contest: 1(£1). Consett, 2(10s.). Hamsterley
+7 bands competed</notes>
+
+  <created>Aug. 11, 2013, 7:32 p.m.</created>
+  <last-modified>June 13, 2018, 9 a.m.</last-modified>
+
+  <results>
+    
+    <result id="167637">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="167638">
+      <result code="2">2</result>
+      <band id="7832">Hamsterley Colliery</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="167639">
+      <result code="3">3</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="311027">James Ward</conductor>
+    </result>
+    
+    <result id="289609">
+      <result code="5">5</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">John A. Mutton</conductor>
+    </result>
+    
+    <result id="289607">
+      <result code="">Unknown Result</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="289608">
+      <result code="">Unknown Result</result>
+      <band id="6856">Hamsteels Colliery</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="289610">
+      <result code="">Unknown Result</result>
+      <band id="11292">Hebburn Colliery Temperance</band>
+      <conductor id="318093">F. Huskisson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

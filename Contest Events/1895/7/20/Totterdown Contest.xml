@@ -1,0 +1,65 @@
+<contest-event id="12551">
+  <event-date date="1895-7-20">July 20, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Totterdown Contest</name>
+  <contest id="2601">
+    <name>Totterdown Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>totterdown-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1950">Totterdown, Bristol</venue>
+  <notes>5 bands competed</notes>
+
+  <created>April 16, 2012, 4:04 p.m.</created>
+  <last-modified>June 20, 2019, 6:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100229">
+      <result code="1">1</result>
+      <band id="4882">Bristol Britannia</band>
+      <conductor id="310639">George Turner</conductor>
+      <test-piece id="1278">Elixir of Love</test-piece>
+    </result>
+    
+    <result id="100230">
+      <result code="2">2</result>
+      <band id="7937">Bristol South</band>
+      <conductor id="311198">George A. Webb</conductor>
+      <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100231">
+      <result code="3">3</result>
+      <band id="7938">Bristol St. George&#39;s</band>
+      <conductor id="297110">Joe Armstrong</conductor>
+      <test-piece id="1880">Beauties of England</test-piece>
+    </result>
+    
+    <result id="100232">
+      <result code="4">4</result>
+      <band id="7939">Bristol Y.M.C.A</band>
+      <conductor id="307587">Mr. Poole</conductor>
+      <test-piece id="1880">Beauties of England</test-piece>
+    </result>
+    
+    <result id="310616">
+      <result code="5">5</result>
+      <band id="17328">Kingswood Reformatory</band>
+      <conductor id="319645">Jonathan Bates</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

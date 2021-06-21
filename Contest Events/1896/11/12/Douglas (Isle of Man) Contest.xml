@@ -1,0 +1,56 @@
+<contest-event id="13124">
+  <event-date date="1896-11-12">Nov. 12, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Douglas (Isle of Man) Contest</name>
+  <contest id="1447">
+    <name>Douglas (Isle of Man) Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>douglas-isle-of-man-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1250">Il Trovatore [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="941">Douglas, Isle of Man</venue>
+  <notes>Prizes: £21, £14 9s, £3 3s
+March contest: 1. Foxdale, 2. Castletown, 3. Douglas Volunteer
+4 bands competed</notes>
+
+  <created>May 1, 2012, 9:18 p.m.</created>
+  <last-modified>July 3, 2019, 6:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104342">
+      <result code="1">1</result>
+      <band id="7824">Foxdale Village</band>
+      <conductor id="304354">Ralph Kay</conductor>
+    </result>
+    
+    <result id="104343">
+      <result code="2">2</result>
+      <band id="7826">Castletown</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="104344">
+      <result code="3">3</result>
+      <band id="8032">Douglas Volunteers</band>
+      <conductor id="307621">F. C. Poulter</conductor>
+    </result>
+    
+    <result id="104345">
+      <result code="">Unknown Result</result>
+      <band id="193">Douglas Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

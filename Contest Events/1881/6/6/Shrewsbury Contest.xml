@@ -1,0 +1,53 @@
+<contest-event id="17157">
+  <event-date date="1881-6-6">June 6, 1881<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shrewsbury Contest</name>
+  <contest id="1187">
+    <name>Shrewsbury Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="343">Shrewsbury Contest</group>
+    <slug>shrewsbury-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6775">The Quarry, Shrewsbury, Shropshire</venue>
+  <notes>Prizes: £20, £10, £5
+
+3 bands competed</notes>
+
+  <created>Dec. 18, 2012, 9:45 p.m.</created>
+  <last-modified>Nov. 22, 2017, 9:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="282219">
+      <result code="1">1</result>
+      <band id="10106">Stoke Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1497">Honoria</test-piece>
+    </result>
+    
+    <result id="130301">
+      <result code="2">2</result>
+      <band id="6261">Tredegar Volunteer</band>
+      <conductor id="302593">Tom Hardy</conductor>
+      <test-piece id="1992">Semiramide [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="282220">
+      <result code="3">3</result>
+      <band id="7202">St. George&#39;s Old</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2792">Il Flauto Magico [arr. Gladney]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

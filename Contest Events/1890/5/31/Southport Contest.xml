@@ -1,0 +1,62 @@
+<contest-event id="17877">
+  <event-date date="1890-5-31">May 31, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southport Contest</name>
+  <contest id="1547">
+    <name>Southport Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>southport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2315">Nil Desperandum</test-piece>
+  </test-piece>
+
+  <venue id="1010">Winter Gardens, Southport</venue>
+  <notes>15 bands competed
+
+Prizes: £16, £10, £5, £3, £1</notes>
+
+  <created>Feb. 4, 2013, 10:38 a.m.</created>
+  <last-modified>Feb. 4, 2013, 10:40 a.m.</last-modified>
+
+  <results>
+    
+    <result id="135147">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="135148">
+      <result code="2">2</result>
+      <band id="3828">Rishton Public</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135149">
+      <result code="3">3</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135150">
+      <result code="4">4</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="135151">
+      <result code="5">5</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+  </results>
+</contest-event>

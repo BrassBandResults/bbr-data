@@ -1,0 +1,44 @@
+<contest-event id="39934">
+  <event-date date="1900-9-8">Sept. 8, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trebanos Contest</name>
+  <contest id="6309">
+    <name>Trebanos Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trebanos-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="6877">Trebanos, Glamorganshire</venue>
+  <notes>Prizes - 1st £9, 2nd £5.
+March contest - 1st(£1.1s.) Gwaun-cae-Gurwen.
+2 bands competed.</notes>
+
+  <created>June 17, 2018, 2:17 p.m.</created>
+  <last-modified>June 17, 2018, 2:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="289867">
+      <result code="1">1</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="301041">Walter Exley</conductor>
+    </result>
+    
+    <result id="289866">
+      <result code="2">2</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="306329">Charles Anthony Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

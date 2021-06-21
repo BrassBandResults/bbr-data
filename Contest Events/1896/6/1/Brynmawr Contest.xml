@@ -1,0 +1,55 @@
+<contest-event id="38577">
+  <event-date date="1896-6-1">June 1, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brynmawr Contest</name>
+  <contest id="2666">
+    <name>Brynmawr Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brynmawr-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1780">Gems of Scotia</test-piece>
+  </test-piece>
+
+  <venue id="6736">Football Ground, Brynmawr</venue>
+  <notes>Prizes - 1st £30, 2nd £8, 3rd £4.
+15 bands entered, 4 competed</notes>
+
+  <created>Sept. 13, 2017, 9:32 a.m.</created>
+  <last-modified>June 25, 2019, 9:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="279380">
+      <result code="1">1</result>
+      <band id="10759">Abertillery Town</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="279382">
+      <result code="2">2</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="279381">
+      <result code="3">3</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="279383">
+      <result code="4">4</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302243">John Griffiths</conductor>
+    </result>
+    
+  </results>
+</contest-event>

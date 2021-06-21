@@ -1,0 +1,73 @@
+<contest-event id="37239">
+  <event-date date="1899-12-26">Dec. 26, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morriston Contest</name>
+  <contest id="6086">
+    <name>Morriston Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>morriston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2309">Luisa Miller [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4468">Morriston, Glamorgan</venue>
+  <notes>March: 1. Elliott&#39;s, 2. Gwauncaegurwen
+7 bands competed</notes>
+
+  <created>Feb. 16, 2017, 4:38 p.m.</created>
+  <last-modified>July 29, 2019, 11:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="269991">
+      <result code="1">1</result>
+      <band id="8289">Pontyberem United</band>
+      <conductor id="302636">A. G. Harries</conductor>
+    </result>
+    
+    <result id="269990">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="269989">
+      <result code="3">3</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="311495">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="269992">
+      <result code="">Unknown Result</result>
+      <band id="14584">Elliott&#39;s Smelting Works</band>
+      <conductor id="301339">Rufus Fletcher</conductor>
+    </result>
+    
+    <result id="311497">
+      <result code="">Unknown Result</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="311498">
+      <result code="">Unknown Result</result>
+      <band id="7619">Cwmmawr</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

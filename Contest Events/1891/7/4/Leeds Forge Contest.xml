@@ -1,0 +1,87 @@
+<contest-event id="17968">
+  <event-date date="1891-7-4">July 4, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leeds Forge Contest</name>
+  <contest id="1650">
+    <name>Leeds Forge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>leeds-forge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1080">Rossini [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1170">Armley Cricket and Football Club</venue>
+  <notes>Promoted by Leeds Forge Band
+Prizes: £20, £15, £10, £6
+Best euphonium - J.F. Carter (Besses).
+4 bands competed</notes>
+
+  <created>Feb. 7, 2013, 9:30 a.m.</created>
+  <last-modified>Nov. 17, 2017, 10:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135805">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135806">
+      <result code="2">2</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135807">
+      <result code="3">3</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135808">
+      <result code="4">4</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193426">
+      <result code="W">Withdrawn</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193427">
+      <result code="W">Withdrawn</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193424">
+      <result code="W">Withdrawn</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193425">
+      <result code="W">Withdrawn</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193423">
+      <result code="W">Withdrawn</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

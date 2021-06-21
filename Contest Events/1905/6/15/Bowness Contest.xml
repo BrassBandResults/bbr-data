@@ -1,0 +1,67 @@
+<contest-event id="10105">
+  <event-date date="1905-6-15">June 15, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bowness Contest</name>
+  <contest id="1872">
+    <name>Bowness Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bowness-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1317">Bowness-on-Windermere, Cumbria, England, UK</venue>
+  <notes>1st prize £15, 2nd prize £8 and 3rd prize £4 divided between Barrow Steelworks and Barrow Shipyard, 4th prize £2.
+March contest 1st Barrow Shipyard, 2nd Dalton Town, 3rd Barrow Steelworks.
+5 bands competed.</notes>
+
+  <created>Feb. 11, 2012, 2:49 p.m.</created>
+  <last-modified>Sept. 6, 2018, 11:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="85629">
+      <result code="1">1</result>
+      <band id="934">Dalton Town Band</band>
+      <conductor id="299069">John Carter</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="85631">
+      <result code="2">2</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310548">Francis Lucio Traversi</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="85630">
+      <result code="2">2</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="305781">A. McAlister</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="85632">
+      <result code="4">4</result>
+      <band id="3401">Egremont Band</band>
+      <conductor id="306300">W. Moore</conductor>
+      <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+    </result>
+    
+    <result id="85633">
+      <result code="5">5</result>
+      <band id="6720">Barrow Wesleyan</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1640">Llewellyn</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

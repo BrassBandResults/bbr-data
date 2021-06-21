@@ -1,0 +1,99 @@
+<contest-event id="8047">
+  <event-date date="1899-11-4">Nov. 4, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Contest</name>
+  <contest id="1214">
+    <name>Sheffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2805">Norfolk Drill Hall, Edmund Road, Sheffield</venue>
+  <notes>Sheffield Trades and Industrial Exhibition
+
+  1st prize £8.
+  2nd prize £3.
+  3rd prize £1.
+  
+  9 bands competed</notes>
+
+  <created>Nov. 3, 2011, 7:03 p.m.</created>
+  <last-modified>Jan. 12, 2017, 2:08 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101230">
+      <result code="1">1</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="72648">
+      <result code="2">2</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301261">Squire Firth</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101231">
+      <result code="3">3</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101232">
+      <result code="">Unknown Result</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101233">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101234">
+      <result code="">Unknown Result</result>
+      <band id="3605">Hasland</band>
+      <conductor id="302480">George Hames</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101235">
+      <result code="">Unknown Result</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101236">
+      <result code="">Unknown Result</result>
+      <band id="7198">Spital Hill</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="101237">
+      <result code="">Unknown Result</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

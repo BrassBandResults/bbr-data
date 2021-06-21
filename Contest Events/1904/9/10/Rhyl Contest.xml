@@ -1,0 +1,73 @@
+<contest-event id="23446">
+  <event-date date="1904-9-10">Sept. 10, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest</name>
+  <contest id="1568">
+    <name>Rhyl Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2061">Le Domino Noir [arr. Swift]</test-piece>
+  </test-piece>
+
+  <venue id="3720">Pier Pavilion, Rhyl</venue>
+  <notes>March contest: 1. Royal Oakley, 2. Ferndale, 3. Cory
+</notes>
+
+  <created>Sept. 4, 2013, 9:43 a.m.</created>
+  <last-modified>April 1, 2014, 10:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="172217">
+      <result code="1">1</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="172216">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="172222">
+      <result code="3">3</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="172221">
+      <result code="">Unknown Result</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="302258">William Griffiths</conductor>
+    </result>
+    
+    <result id="172218">
+      <result code="">Unknown Result</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="311599">David Williams</conductor>
+    </result>
+    
+    <result id="172219">
+      <result code="">Unknown Result</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="172220">
+      <result code="">Unknown Result</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
