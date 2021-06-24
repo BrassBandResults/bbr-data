@@ -1,0 +1,86 @@
+<contest-event id="18069">
+  <event-date date="1891-9-12">Sept. 12, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Uddingston Contest</name>
+  <contest id="2430">
+    <name>Uddingston Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>uddingston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="3040">Bothwell Castle, Uddingston, South Lanarkshire, Scotland, UK</venue>
+  <notes>Promoted by Aitkenhead Band
+Prizes: £20, £15, £10, £5.
+9 bands competed</notes>
+
+  <created>Feb. 8, 2013, 3:50 p.m.</created>
+  <last-modified>May 27, 2019, 9:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="136327">
+      <result code="1">1</result>
+      <band id="4516">Kirkcaldy Trades</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="136328">
+      <result code="2">2</result>
+      <band id="1028">Galashiels Town</band>
+      <conductor id="306298">Thomas Moore</conductor>
+    </result>
+    
+    <result id="136329">
+      <result code="3">3</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="297235">Walter Atkinson</conductor>
+    </result>
+    
+    <result id="136330">
+      <result code="4">4</result>
+      <band id="279">Bo&#39;ness and Carriden Band</band>
+      <conductor id="305622">Richard Marsden</conductor>
+    </result>
+    
+    <result id="261430">
+      <result code="">Unknown Result</result>
+      <band id="5005">Baillieston</band>
+      <conductor id="303512">W. B. Howell</conductor>
+    </result>
+    
+    <result id="261431">
+      <result code="">Unknown Result</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="303994">James Jenkins</conductor>
+    </result>
+    
+    <result id="261432">
+      <result code="">Unknown Result</result>
+      <band id="14246">Cambuslang Temperance</band>
+      <conductor id="319234">Daniel M&#39;Ghie</conductor>
+    </result>
+    
+    <result id="261433">
+      <result code="">Unknown Result</result>
+      <band id="5513">Cambuslang Trades</band>
+      <conductor id="317341">David Porteous</conductor>
+    </result>
+    
+    <result id="282002">
+      <result code="">Unknown Result</result>
+      <band id="5010">Newmains and Cambusnethan</band>
+      <conductor id="299521">William H. Cole</conductor>
+    </result>
+    
+  </results>
+</contest-event>

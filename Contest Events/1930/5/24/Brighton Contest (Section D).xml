@@ -1,0 +1,49 @@
+<contest-event id="24622">
+  <event-date date="1930-5-24">May 24, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brighton Contest (Section D)</name>
+  <contest id="4729">
+    <name>Brighton Contest (Section D)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brighton-contest-section-d</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="449">Corn Exchange, Brighton</venue>
+  <notes>
+  3 bands competed.</notes>
+
+  <created>Oct. 22, 2013, 8:11 a.m.</created>
+  <last-modified>Dec. 6, 2018, 1:58 p.m.</last-modified>
+
+  <results>
+    
+    <result id="180066">
+      <result code="1">1</result>
+      <band id="3954">Hooe Silver Band</band>
+      <conductor id="309378">Harold Smith</conductor>
+    </result>
+    
+    <result id="180067">
+      <result code="2">2</result>
+      <band id="3962">West Chiltington Silver Band</band>
+      <conductor id="299249">C. M. Chatfield</conductor>
+    </result>
+    
+    <result id="180068">
+      <result code="3">3</result>
+      <band id="8604">Southwick Shoreham and District</band>
+      <conductor id="303334">F. Holman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

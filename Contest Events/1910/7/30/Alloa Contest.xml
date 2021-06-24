@@ -1,0 +1,84 @@
+<contest-event id="24224">
+  <event-date date="1910-7-30">July 30, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Alloa Contest</name>
+  <contest id="1653">
+    <name>Alloa Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="278">Alloa Contest</group>
+    <slug>alloa-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1958">Alloa Park, Alloa, Clackmannanshire, Scotland, UK</venue>
+  <notes>Promoted by Alloa Instrumental BandPrizes: £10, £6, £4, £2
+March: 1. Sauchie, 2. Wright.
+6 bands competed.</notes>
+
+  <created>Oct. 2, 2013, 6:12 p.m.</created>
+  <last-modified>June 4, 2018, 9:34 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176722">
+      <result code="1">1</result>
+      <band id="5221">Kilsyth Town</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="2608">Beethoven [arr. Round]</test-piece>
+    </result>
+    
+    <result id="176728">
+      <result code="2">2</result>
+      <band id="1996">Wright Memorial</band>
+      <conductor id="306493">Harry Muddiman</conductor>
+      <test-piece id="1948">Meyerbeer [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="176726">
+      <result code="3">3</result>
+      <band id="5516">Skinflats</band>
+      <conductor id="297732">Alexander Bell</conductor>
+      <test-piece id="1084">Memories of Britain</test-piece>
+    </result>
+    
+    <result id="176725">
+      <result code="4">4</result>
+      <band id="5223">Stirling Burgh</band>
+      <conductor id="309967">Edward Sutton</conductor>
+      <test-piece id="1082">Halevy [arr. Round]</test-piece>
+    </result>
+    
+    <result id="176723">
+      <result code="">Unknown Result</result>
+      <band id="11464">Musselburgh &amp; District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176727">
+      <result code="">Unknown Result</result>
+      <band id="5469">Sauchie &amp; District</band>
+      <conductor id="304387">A. C. Keeton</conductor>
+    </result>
+    
+    <result id="176721">
+      <result code="W">Withdrawn</result>
+      <band id="4985">Camelon Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176724">
+      <result code="W">Withdrawn</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

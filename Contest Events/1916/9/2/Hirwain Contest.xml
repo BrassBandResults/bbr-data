@@ -1,0 +1,49 @@
+<contest-event id="44308">
+  <event-date date="1916-9-2">Sept. 2, 1916<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hirwain Contest</name>
+  <contest id="6041">
+    <name>Hirwain Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hirwain-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1894">Gems of Albion</test-piece>
+  </test-piece>
+
+  <venue id="4233">Hirwaun, Rhondda Cynon Taf, Wales, UK</venue>
+  <notes>March contest - 1st Glynneath, 2nd Llwydcoed, 3rd Hirwain.
+3 bands competed.</notes>
+
+  <created>Jan. 6, 2021, 11:06 a.m.</created>
+  <last-modified>Jan. 6, 2021, 11:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="324211">
+      <result code="1">1</result>
+      <band id="344">Llwydcoed Band</band>
+      <conductor id="306920">J. R. Oliver</conductor>
+    </result>
+    
+    <result id="324212">
+      <result code="2">2</result>
+      <band id="9782">Hirwaun Welfare Town</band>
+      <conductor id="300768">D. J. Edwards</conductor>
+    </result>
+    
+    <result id="324213">
+      <result code="3">3</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="306343">J. Morgan</conductor>
+    </result>
+    
+  </results>
+</contest-event>

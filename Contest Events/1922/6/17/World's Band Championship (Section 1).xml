@@ -1,0 +1,73 @@
+<contest-event id="25450">
+  <event-date date="1922-6-17">June 17, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>World&#39;s Band Championship (Section 1)</name>
+  <contest id="4961">
+    <name>World&#39;s Band Championship (Section 1)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="471">World&#39;s Band Championship</group>
+    <slug>world-s-band-championship-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="747">The Valkyrie</test-piece>
+  </test-piece>
+
+  <venue id="3680">Kelvin Hall, Glasgow</venue>
+  <notes>I am currently reading David Kaye&#39;s book &quot;From Bible Class to World Class&quot; on the history of Wingates Band. In it he states that a contest was started in 1919 in Glasgow in which the Scottish Industrial Musical Society gave a stunning shield worth £1,680 for the World Championship. Won in 1919 by Fodens and 1920 by Wingates (We have this recorded as the Glasgow Band Festival 1919, 1920 and 1921.) He states the contest was only held for 4 years, and I believe that this is the fourth and final one. However he states that the trophy was purchased by Belle Vue in 1924 and is now the trophy presented to the British Open Winners, never having been a good enough player to even get near to winning the trophy, I&#39;ve never seen it close up.
+</notes>
+
+  <created>Dec. 6, 2013, 8:16 p.m.</created>
+  <last-modified>Feb. 18, 2021, 3:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184937">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="184938">
+      <result code="2">2</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="184939">
+      <result code="3">3</result>
+      <band id="4803">Darvel Burgh</band>
+      <conductor id="297790">Herbert Bennett</conductor>
+    </result>
+    
+    <result id="184940">
+      <result code="4">4</result>
+      <band id="5482">Stonehouse [Lanarkshire]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184941">
+      <result code="5">5</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="184942">
+      <result code="6">6</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="324776">
+      <result code="">Unknown Result</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

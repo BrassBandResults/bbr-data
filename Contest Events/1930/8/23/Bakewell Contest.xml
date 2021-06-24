@@ -1,0 +1,54 @@
+<contest-event id="41526">
+  <event-date date="1930-8-23">Aug. 23, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bakewell Contest</name>
+  <contest id="3310">
+    <name>Bakewell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bakewell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="2543">Bakewell, Derbyshire, England, UK</venue>
+  <notes></notes>
+
+  <created>Dec. 10, 2018, 1:32 p.m.</created>
+  <last-modified>Dec. 10, 2018, 1:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="302027">
+      <result code="1">1</result>
+      <band id="779">Tideswell Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302028">
+      <result code="2">2</result>
+      <band id="8435">Buxton Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302029">
+      <result code="3">3</result>
+      <band id="3854">Cressbrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="302030">
+      <result code="4">4</result>
+      <band id="488">Bakewell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

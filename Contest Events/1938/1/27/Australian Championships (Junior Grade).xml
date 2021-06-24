@@ -1,0 +1,54 @@
+<contest-event id="35124">
+  <event-date date="1938-1-27">Jan. 27, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Australian Championships (Junior Grade)</name>
+  <contest id="90">
+    <name>Australian Championships (Junior A Grade)</name>
+    <order>110</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="21">Australian Championships</group>
+    <slug>australian-championships-junior-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="6">Youth</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1096">Autumn Echoes</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>COMPUTING SYSTEM How the points add up ; The scale applicable being accorded to the position placed by each adjudicator relating to the points awarded . Band placed 1st 4 points descending to band placed 4 = 1 point</notes>
+
+  <created>April 16, 2016, 10:57 p.m.</created>
+  <last-modified>Jan. 29, 2018, 4:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="253218">
+      <result code="1">1</result>
+      <band id="13769">Bexley Municipal Boys</band>
+      <conductor id="311267">Dick Wells</conductor>
+    </result>
+    
+    <result id="253219">
+      <result code="2">2</result>
+      <band id="13713">Kincumber Orphanage</band>
+      <conductor id="304922">H. Leahy</conductor>
+    </result>
+    
+    <result id="253220">
+      <result code="3">3</result>
+      <band id="14253">Port Kembla Boys</band>
+      <conductor id="301529">W. Freeman</conductor>
+    </result>
+    
+    <result id="253221">
+      <result code="4">4</result>
+      <band id="14252">Hurstville Boys High School</band>
+      <conductor id="315450">Albert Swales</conductor>
+    </result>
+    
+  </results>
+</contest-event>

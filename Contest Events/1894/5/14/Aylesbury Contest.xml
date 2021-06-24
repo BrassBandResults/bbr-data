@@ -1,0 +1,83 @@
+<contest-event id="12001">
+  <event-date date="1894-5-14">May 14, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Aylesbury Contest</name>
+  <contest id="1978">
+    <name>Aylesbury Contest [before WW1]</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id="276">Aylesbury Contest [before WW1]</group>
+    <slug>aylesbury-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1410">Aylesbury, Buckinghamshire, England, UK</venue>
+  <notes>7 bands competed
+
+Limited to bands in the county of Bucks
+
+Prizes: £12, £8</notes>
+
+  <created>April 8, 2012, 7:30 p.m.</created>
+  <last-modified>Oct. 20, 2016, 1:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96501">
+      <result code="1">1</result>
+      <band id="1729">Hazell&#39;s Printing Works</band>
+      <conductor id="307263">Robert Payne</conductor>
+      <test-piece id="1278">Elixir of Love</test-piece>
+    </result>
+    
+    <result id="96502">
+      <result code="2">2</result>
+      <band id="6345">Olney Town</band>
+      <conductor id="302365">James Hager</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="97556">
+      <result code="">Unknown Result</result>
+      <band id="7292">Wolverton Volunteers</band>
+      <conductor id="308415">Joseph Rogers</conductor>
+      <test-piece id="1573">Excelsior [Round]</test-piece>
+    </result>
+    
+    <result id="97557">
+      <result code="">Unknown Result</result>
+      <band id="7684">Monks Risborough</band>
+      <conductor id="318218">J. A. Martin</conductor>
+      <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+    </result>
+    
+    <result id="97560">
+      <result code="">Unknown Result</result>
+      <band id="8306">Waddesdon Temperance</band>
+      <conductor id="299902">C. Cripps</conductor>
+      <test-piece id="1278">Elixir of Love</test-piece>
+    </result>
+    
+    <result id="97558">
+      <result code="">Unknown Result</result>
+      <band id="7685">Wendover</band>
+      <conductor id="311415">R. G. D. White</conductor>
+      <test-piece id="1780">Gems of Scotia</test-piece>
+    </result>
+    
+    <result id="97559">
+      <result code="">Unknown Result</result>
+      <band id="7957">Whitchurch [Buckinghamshire]</band>
+      <conductor id="303170">J.E. Impey</conductor>
+      <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

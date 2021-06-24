@@ -1,0 +1,66 @@
+<contest-event id="28426">
+  <event-date date="1935-9-5">Sept. 5, 1935<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Spalding Contest</name>
+  <contest id="2098">
+    <name>Spalding Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>spalding-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1088">A Village Pastoral</test-piece>
+  </test-piece>
+
+  <venue id="1529">Spalding, Lincolnshire, England, UK</venue>
+  <notes>March: 1. March Railway, 2. Waltham, 3. Skegness Town</notes>
+
+  <created>June 9, 2014, 9:16 p.m.</created>
+  <last-modified>June 9, 2014, 9:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202544">
+      <result code="1">1</result>
+      <band id="4214">March Brass 2000</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202545">
+      <result code="2">2</result>
+      <band id="2681">Waltham British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202546">
+      <result code="3">3</result>
+      <band id="885">Skegness Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202549">
+      <result code="">Unknown Result</result>
+      <band id="17628">Skegness Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202547">
+      <result code="">Unknown Result</result>
+      <band id="6811">Spalding Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202548">
+      <result code="">Unknown Result</result>
+      <band id="6608">Whittlesey Kings Dyke</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

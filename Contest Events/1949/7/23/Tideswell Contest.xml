@@ -1,0 +1,44 @@
+<contest-event id="26352">
+  <event-date date="1949-7-23">July 23, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tideswell Contest</name>
+  <contest id="2676">
+    <name>Tideswell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tideswell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="422">Pride of the Forest</test-piece>
+  </test-piece>
+
+  <venue id="4463">Alleys Field, Tideswell, Derbyshire, England, UK</venue>
+  <notes>March contest - 1st Fairfield.
+Prizes - 1st £15, 2nd £10.
+Only 2 bands competed.</notes>
+
+  <created>Feb. 13, 2014, 10:43 a.m.</created>
+  <last-modified>Feb. 28, 2019, 10:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="190786">
+      <result code="1">1</result>
+      <band id="502">Fairfield (Buxton) Band</band>
+      <conductor id="301330">J. F. Fletcher</conductor>
+    </result>
+    
+    <result id="190788">
+      <result code="2">2</result>
+      <band id="2558">Peak Dale Public</band>
+      <conductor id="302437">Reginald Hallam</conductor>
+    </result>
+    
+  </results>
+</contest-event>

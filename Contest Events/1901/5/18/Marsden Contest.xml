@@ -1,0 +1,97 @@
+<contest-event id="26694">
+  <event-date date="1901-5-18">May 18, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marsden Contest</name>
+  <contest id="2589">
+    <name>Marsden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marsden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4513">Bank Bottom, Marsden, West Yorkshire</venue>
+  <notes>4th annual contest promoted by Marsden Brass Band
+Choice of test pieces: &quot;Belisario&quot;, &quot;Crispino&quot; or &quot;Songs of Scotland&quot;
+Prizes: £7, £4, £3, £2, £1
+March: 1. Cleckheaton, 2. Linthwaite
+9 bands competed.</notes>
+
+  <created>March 25, 2014, 3:15 p.m.</created>
+  <last-modified>June 20, 2018, 8:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193479">
+      <result code="1">1</result>
+      <band id="1863">New Mills Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2571">Belisario [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193480">
+      <result code="2">2</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="193481">
+      <result code="3">3</result>
+      <band id="2571">Cleckheaton Victoria</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="1174">Crispino [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193482">
+      <result code="4">4</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="2571">Belisario [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193483">
+      <result code="5">5</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="1746">Songs of Scotland</test-piece>
+    </result>
+    
+    <result id="193487">
+      <result code="">Unknown Result</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="1174">Crispino [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193486">
+      <result code="">Unknown Result</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2571">Belisario [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193484">
+      <result code="">Unknown Result</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="2571">Belisario [arr. Round]</test-piece>
+    </result>
+    
+    <result id="193485">
+      <result code="">Unknown Result</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="2571">Belisario [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,63 @@
+<contest-event id="12897">
+  <event-date date="1912-4-8">April 8, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Redhill Contest (First Section)</name>
+  <contest id="2701">
+    <name>Redhill Contest (First Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>redhill-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5574">L&#39;Africaine</test-piece>
+  </test-piece>
+
+  <venue id="2058">Wiggie Lane Gardens, Redhill, Surrey</venue>
+  <notes>1st prize £7.10s. and cup, 2nd prize £5.10s., 3rd prize £4, 4th prize £3.
+March contest 1st (£1) Chichester City, 2nd (15s.) Reigate Town, 3rd (10s.) West Crawley Temperance.
+Best soloist award divided between Cornet and Euphonium of West Crawley Temperance.
+5 bands competed.</notes>
+
+  <created>April 28, 2012, 8:31 a.m.</created>
+  <last-modified>Sept. 27, 2018, 12:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102527">
+      <result code="1">1</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="311584">A. Williams</conductor>
+    </result>
+    
+    <result id="102528">
+      <result code="2">2</result>
+      <band id="604">Chichester City Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="102529">
+      <result code="3">3</result>
+      <band id="7313">Sutton Red Cross</band>
+      <conductor id="302573">H. H. Harding</conductor>
+    </result>
+    
+    <result id="102530">
+      <result code="4">4</result>
+      <band id="3959">Copthorne Silver Band</band>
+      <conductor id="299806">W. Coverley</conductor>
+    </result>
+    
+    <result id="102531">
+      <result code="5">5</result>
+      <band id="6706">Reigate Town</band>
+      <conductor id="298876">George Byford</conductor>
+    </result>
+    
+  </results>
+</contest-event>

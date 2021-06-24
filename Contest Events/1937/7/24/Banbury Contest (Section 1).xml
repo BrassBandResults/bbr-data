@@ -1,0 +1,67 @@
+<contest-event id="25145">
+  <event-date date="1937-7-24">July 24, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Banbury Contest (Section 1)</name>
+  <contest id="3255">
+    <name>Banbury Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="307">Banbury Contest</group>
+    <slug>banbury-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1520">Il Pirata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4005">Hospital Grounds, Banbury, Oxfordshire</venue>
+  <notes>Result as shown in Brass Band News August 1937.  Letter in same publication in September 1937 states correct result to be - 1st Finedon, 2nd Leicester Imperial, 3rd Raunds. (dutchy)
+6 bands competed.</notes>
+
+  <created>Nov. 16, 2013, 2:10 p.m.</created>
+  <last-modified>Jan. 19, 2019, 11:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="183076">
+      <result code="1">1</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="307360">R. Pentelow</conductor>
+    </result>
+    
+    <result id="183075">
+      <result code="2">2</result>
+      <band id="4448">Kirby Imperial</band>
+      <conductor id="303772">Simeon Iliffe</conductor>
+    </result>
+    
+    <result id="183074">
+      <result code="3">3</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="308051">A. G. Remington</conductor>
+    </result>
+    
+    <result id="187482">
+      <result code="4">4</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="308297">M. J. Roberts</conductor>
+    </result>
+    
+    <result id="187483">
+      <result code="">Unknown Result</result>
+      <band id="687">City of Oxford Silver Band</band>
+      <conductor id="304002">R. O. G. Jenkins</conductor>
+    </result>
+    
+    <result id="187484">
+      <result code="">Unknown Result</result>
+      <band id="5915">Coventry Silver</band>
+      <conductor id="300883">William Ellison</conductor>
+    </result>
+    
+  </results>
+</contest-event>

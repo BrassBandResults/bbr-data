@@ -1,0 +1,50 @@
+<contest-event id="41516">
+  <event-date date="1930-8-4">Aug. 4, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Riddings Contest</name>
+  <contest id="1827">
+    <name>Riddings Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>riddings-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="947">Recollections of Schubert [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4124">Riddings Park, Riddings, Derbyshire</venue>
+  <notes>March contest - 1st Stanton, 2nd Swanwick.
+Prizes - 1st £10 and cup, 2nd £7, 3rd £4.
+3 bands competed.</notes>
+
+  <created>Dec. 9, 2018, 10:59 a.m.</created>
+  <last-modified>Dec. 9, 2018, 11:04 a.m.</last-modified>
+
+  <results>
+    
+    <result id="301932">
+      <result code="1">1</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="310654">John Turner</conductor>
+    </result>
+    
+    <result id="301933">
+      <result code="2">2</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="309208">F. Skidmore</conductor>
+    </result>
+    
+    <result id="301934">
+      <result code="3">3</result>
+      <band id="12320">Loscoe Miners</band>
+      <conductor id="308955">John Sharpe</conductor>
+    </result>
+    
+  </results>
+</contest-event>

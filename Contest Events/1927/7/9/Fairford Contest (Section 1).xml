@@ -1,0 +1,74 @@
+<contest-event id="37621">
+  <event-date date="1927-7-9">July 9, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fairford Contest (Section 1)</name>
+  <contest id="3937">
+    <name>Fairford Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="398">Fairford Contest</group>
+    <slug>fairford-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2613">Il Flauto Magico [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1210">Fairford, Gloucestershire, England, UK</venue>
+  <notes>Prizes - 1st £25 and cup, 2nd £12, 3rd £6.
+6th annual contest.
+7 bands competed</notes>
+
+  <created>March 22, 2017, 1:29 p.m.</created>
+  <last-modified>Nov. 21, 2018, 4:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="272138">
+      <result code="1">1</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="272139">
+      <result code="2">2</result>
+      <band id="238">Aldbourne Band</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="272140">
+      <result code="3">3</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="300329">
+      <result code="4">4</result>
+      <band id="9072">Fishponds Argyle Band</band>
+      <conductor id="299660">Charles Cooper</conductor>
+    </result>
+    
+    <result id="300327">
+      <result code="">Unknown Result</result>
+      <band id="11719">Cardiff St Albans</band>
+      <conductor id="318560">T. Ryan</conductor>
+    </result>
+    
+    <result id="300328">
+      <result code="">Unknown Result</result>
+      <band id="9866">Silchester</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+    <result id="272141">
+      <result code="">Unknown Result</result>
+      <band id="1255">Stinchcombe Band</band>
+      <conductor id="301599">H. Fussell</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,74 @@
+<contest-event id="12623">
+  <event-date date="1899-8-12">Aug. 12, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sunderland Contest</name>
+  <contest id="2116">
+    <name>Sunderland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sunderland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1542">Sunderland</venue>
+  <notes>3rd and 4th prizes shared between Sunderland East End and Cornsay.
+  March contest 1st West Hartlepool Borough,  2nd Cornsay Colliery.
+6 bands competed</notes>
+
+  <created>April 18, 2012, 2:50 p.m.</created>
+  <last-modified>July 28, 2019, 12:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100632">
+      <result code="1">1</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="303797">S. Inglesant</conductor>
+      <test-piece id="1441">Heroic</test-piece>
+    </result>
+    
+    <result id="100633">
+      <result code="2">2</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310795">Edward Vest</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="100634">
+      <result code="3">3</result>
+      <band id="6348">Sunderland East End</band>
+      <conductor id="305455">John Mackintosh</conductor>
+      <test-piece id="1102">Tannhäuser [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="100635">
+      <result code="3">3</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="301971">Ben Gordon</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100637">
+      <result code="">Unknown Result</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310417">James Thurlow</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="100636">
+      <result code="">Unknown Result</result>
+      <band id="7839">Westwood</band>
+      <conductor id="303282">William Holdsworth</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

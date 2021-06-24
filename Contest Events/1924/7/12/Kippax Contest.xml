@@ -1,0 +1,67 @@
+<contest-event id="26932">
+  <event-date date="1924-7-12">July 12, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kippax Contest</name>
+  <contest id="1335">
+    <name>Kippax Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kippax-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2786">Rigoletto [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="209">Kippax, West Yorkshire</venue>
+  <notes>6 bands competed
+March: 1. Hinchliffe Mills, 2. Friendly</notes>
+
+  <created>April 4, 2014, 9:37 p.m.</created>
+  <last-modified>Feb. 18, 2021, 5:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="260842">
+      <result code="1">1</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="194620">
+      <result code="2">2</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="194621">
+      <result code="3">3</result>
+      <band id="2573">Norland</band>
+      <conductor id="307898">George Ramsden</conductor>
+    </result>
+    
+    <result id="194622">
+      <result code="4">4</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="299111">Tom Casson</conductor>
+    </result>
+    
+    <result id="194623">
+      <result code="">Unknown Result</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="309126">Nathan Sidebottom</conductor>
+    </result>
+    
+    <result id="194624">
+      <result code="">Unknown Result</result>
+      <band id="11944">Castleford Town</band>
+      <conductor id="310531">T. Townend</conductor>
+    </result>
+    
+  </results>
+</contest-event>

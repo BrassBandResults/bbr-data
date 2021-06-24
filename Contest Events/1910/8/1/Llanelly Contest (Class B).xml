@@ -1,0 +1,67 @@
+<contest-event id="39822">
+  <event-date date="1910-8-1">Aug. 1, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanelly Contest (Class B)</name>
+  <contest id="4467">
+    <name>Llanelly Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="430">Llanelly Contest</group>
+    <slug>llanelly-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1239">La Traviata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3786">St. Peter&#39;s Hall, Llanelly</venue>
+  <notes>Prizes - 1st £8, 2nd £4, 3rd £2.
+6 bands competed.</notes>
+
+  <created>June 2, 2018, 7:13 p.m.</created>
+  <last-modified>June 4, 2018, 8:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="288955">
+      <result code="1">1</result>
+      <band id="7073">Brynamman Volunteers</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="288954">
+      <result code="2">2</result>
+      <band id="2115">Llansaint Silver</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="288951">
+      <result code="3">3</result>
+      <band id="7361">Mond Silver</band>
+      <conductor id="302257">William Griffiths</conductor>
+    </result>
+    
+    <result id="288953">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="304168">Ben Jones</conductor>
+    </result>
+    
+    <result id="288950">
+      <result code="">Unknown Result</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="288952">
+      <result code="">Unknown Result</result>
+      <band id="9837">Port Talbot and Taibach</band>
+      <conductor id="318423">James Coombes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

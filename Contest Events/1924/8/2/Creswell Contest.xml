@@ -1,0 +1,80 @@
+<contest-event id="41039">
+  <event-date date="1924-8-2">Aug. 2, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Creswell Contest</name>
+  <contest id="4489">
+    <name>Creswell Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>creswell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="771">William Tell [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="6994">Creswell, Derbyshire</venue>
+  <notes>Prizes - 1st £12, 2nd £8, 3rd £5, 4th £2, 5th £1.
+March contest - 1st Bolsover, 2nd B Winning and Blackwell.
+8 bands competed.</notes>
+
+  <created>Oct. 30, 2018, 7:37 a.m.</created>
+  <last-modified>Oct. 30, 2018, 7:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="298009">
+      <result code="1">1</result>
+      <band id="1665">Bolsover Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="298010">
+      <result code="2">2</result>
+      <band id="7150">B Winning and Blackwell Colliery</band>
+      <conductor id="311037">T. F. Ward</conductor>
+    </result>
+    
+    <result id="298011">
+      <result code="3">3</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="314519">J. Wildgoose</conductor>
+    </result>
+    
+    <result id="298012">
+      <result code="4">4</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="299660">Charles Cooper</conductor>
+    </result>
+    
+    <result id="298013">
+      <result code="5">5</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+    </result>
+    
+    <result id="298014">
+      <result code="">Unknown Result</result>
+      <band id="1655">Dove Holes Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298015">
+      <result code="">Unknown Result</result>
+      <band id="489">Shirebrook Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298016">
+      <result code="">Unknown Result</result>
+      <band id="500">Whitwell Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

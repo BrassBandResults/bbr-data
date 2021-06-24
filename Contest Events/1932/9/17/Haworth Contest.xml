@@ -1,0 +1,80 @@
+<contest-event id="25997">
+  <event-date date="1932-9-17">Sept. 17, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haworth Contest</name>
+  <contest id="1689">
+    <name>Haworth Contest</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="1194">Central Park, Haworth, Yorkshire</venue>
+  <notes>Promoted by Haworth Public Band
+
+7 bands competed
+
+Prizes: £14, £8, £4
+
+March: 1. Bradford City, 2. Grimethorpe
+Hymn: 1. King Cross, 2. Yeadon
+</notes>
+
+  <created>Jan. 20, 2014, 6:20 p.m.</created>
+  <last-modified>Dec. 13, 2016, 4:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188236">
+      <result code="1">1</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302009">Harry Grace</conductor>
+    </result>
+    
+    <result id="188237">
+      <result code="2">2</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="301438">William Foster</conductor>
+    </result>
+    
+    <result id="188238">
+      <result code="3">3</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="302807">Herbert Bowdin Hawley</conductor>
+    </result>
+    
+    <result id="188239">
+      <result code="4">4</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="299111">Tom Casson</conductor>
+    </result>
+    
+    <result id="265579">
+      <result code="">Unknown Result</result>
+      <band id="4356">Denholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265580">
+      <result code="">Unknown Result</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="188240">
+      <result code="">Unknown Result</result>
+      <band id="445">Yeadon Old Band</band>
+      <conductor id="303883">Walter Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

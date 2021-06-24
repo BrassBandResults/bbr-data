@@ -1,0 +1,90 @@
+<contest-event id="3732">
+  <event-date date="1949-4-2">April 2, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North West Area (Championship Section)</name>
+  <contest id="21">
+    <name>North West Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="10">North West Area</group>
+    <slug>north-west-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="2">North West</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="606">Morning Rhapsody</test-piece>
+  </test-piece>
+
+  <venue id="4450">Victoria Hall, Bolton, Greater Manchester, England, UK</venue>
+  <notes>  10 bands competed</notes>
+
+  <created>Feb. 6, 2011, 2:56 a.m.</created>
+  <last-modified>May 16, 2014, 1:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="34490">
+      <result code="1">1</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="137108">
+      <result code="2">2</result>
+      <band id="1658">Edge Hill</band>
+      <conductor id="304256">Norman Jones</conductor>
+    </result>
+    
+    <result id="137109">
+      <result code="3">3</result>
+      <band id="1446">Horwich RMI</band>
+      <conductor id="302845">Arthur Hazelhurst</conductor>
+    </result>
+    
+    <result id="137111">
+      <result code="4">4</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="137110">
+      <result code="4">4</result>
+      <band id="6">Fairey Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137112">
+      <result code="">Unknown Result</result>
+      <band id="388">Bolton (Hoover) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137114">
+      <result code="">Unknown Result</result>
+      <band id="1347">City of Manchester</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137113">
+      <result code="">Unknown Result</result>
+      <band id="2564">Clayton Aniline</band>
+      <conductor id="298865">Edward Buttress</conductor>
+    </result>
+    
+    <result id="137115">
+      <result code="">Unknown Result</result>
+      <band id="2502">Prescot Cables</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137116">
+      <result code="">Unknown Result</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

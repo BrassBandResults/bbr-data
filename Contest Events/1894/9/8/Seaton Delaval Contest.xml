@@ -1,0 +1,83 @@
+<contest-event id="12317">
+  <event-date date="1894-9-8">Sept. 8, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Seaton Delaval Contest</name>
+  <contest id="2533">
+    <name>Seaton Delaval Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>seaton-delaval-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1886">Seaton Delaval, Northumberland</venue>
+  <notes>Seaton Delaval and New Hartley Flower Show
+Open to bands in Northumberland
+Prizes: £10, £6, £2 10s, £1 10s
+March contest: 1. Ashington Model
+7 bands competed</notes>
+
+  <created>April 12, 2012, 11:35 a.m.</created>
+  <last-modified>June 15, 2019, 12:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98580">
+      <result code="1">1</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="311966">Thomas Woods</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="98581">
+      <result code="2">2</result>
+      <band id="7595">2nd Percy Artillery</band>
+      <conductor id="301792">T. Gibson</conductor>
+      <test-piece id="2195">Reminiscences of Donizetti [arr. Smith]</test-piece>
+    </result>
+    
+    <result id="98582">
+      <result code="3">3</result>
+      <band id="4510">Ashington Model</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="146559">
+      <result code="">Unknown Result</result>
+      <band id="10480">Scotswood and District</band>
+      <conductor id="298304">Neil M. Boyd</conductor>
+      <test-piece id="1814">Marino Faliero [arr. Round]</test-piece>
+    </result>
+    
+    <result id="146560">
+      <result code="">Unknown Result</result>
+      <band id="7925">Seaton Delaval</band>
+      <conductor id="305697">J. R. Mason</conductor>
+      <test-piece id="1279">Verdi [arr. Round]</test-piece>
+    </result>
+    
+    <result id="146561">
+      <result code="">Unknown Result</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="311966">Thomas Woods</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="146562">
+      <result code="">Unknown Result</result>
+      <band id="9508">Seghill</band>
+      <conductor id="307418">T. Petrie</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

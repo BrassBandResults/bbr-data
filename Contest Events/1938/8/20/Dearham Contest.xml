@@ -1,0 +1,80 @@
+<contest-event id="26130">
+  <event-date date="1938-8-20">Aug. 20, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dearham Contest</name>
+  <contest id="2332">
+    <name>Dearham Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dearham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2726">La Regina di Golconda</test-piece>
+  </test-piece>
+
+  <venue id="1688">Dearham, Cumbria, England, UK</venue>
+  <notes>Prizes - 1st £40 and cup, 2nd £25, 3rd £13, 4th £8, 5th £5.
+  March contest - 1st(£2.10s) Workington Town, 2nd(£1.10s.) Barrow Shipyard.
+  8 bands competed.</notes>
+
+  <created>Jan. 24, 2014, 12:17 p.m.</created>
+  <last-modified>Jan. 23, 2019, 11:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="189117">
+      <result code="1">1</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="189118">
+      <result code="2">2</result>
+      <band id="660">Carlisle St. Stephens Band</band>
+      <conductor id="305330">William Lowes</conductor>
+    </result>
+    
+    <result id="189119">
+      <result code="3">3</result>
+      <band id="1447">Blackburn&#39;s Steel Works Band</band>
+      <conductor id="303596">J. A. Hughes</conductor>
+    </result>
+    
+    <result id="189120">
+      <result code="4">4</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="189121">
+      <result code="5">5</result>
+      <band id="1510">Workington</band>
+      <conductor id="304179">Clifton Jones</conductor>
+    </result>
+    
+    <result id="189124">
+      <result code="">Unknown Result</result>
+      <band id="2791">Calder Vale Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189123">
+      <result code="">Unknown Result</result>
+      <band id="7622">Frizington St Paul&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189122">
+      <result code="">Unknown Result</result>
+      <band id="4355">Solway</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

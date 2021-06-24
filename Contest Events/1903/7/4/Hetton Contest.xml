@@ -1,0 +1,62 @@
+<contest-event id="21864">
+  <event-date date="1903-7-4">July 4, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hetton Contest</name>
+  <contest id="1838">
+    <name>Hetton Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="342">Hetton Contest</group>
+    <slug>hetton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2597">Scottish Memories</test-piece>
+  </test-piece>
+
+  <venue id="1291">Hetton, County Durham</venue>
+  <notes>  Prizes - 1st £7, 2nd £4, 3rd £2, 4th £1.
+March contest  -  1st(£1)  Felling, 2nd Willington.
+  5 bands competed.</notes>
+
+  <created>June 15, 2013, 11:13 a.m.</created>
+  <last-modified>July 25, 2016, 7 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162483">
+      <result code="1">1</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="162485">
+      <result code="2">2</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="162484">
+      <result code="2">2</result>
+      <band id="4503">New Brancepeth</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="162486">
+      <result code="4">4</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="162487">
+      <result code="5">5</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

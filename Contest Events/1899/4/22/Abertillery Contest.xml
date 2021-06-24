@@ -1,0 +1,74 @@
+<contest-event id="12259">
+  <event-date date="1899-4-22">April 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abertillery Contest</name>
+  <contest id="770">
+    <name>Abertillery Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abertillery</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1859">Abertillery, Blaenau Gwent, Wales, UK</venue>
+  <notes>1st prize £14.
+  2nd prize £9.
+  3rd prize £6.
+  4th prize £3.
+  5th prize £1.
+
+  March contest 1st (£1) Dowlais Volunteer,  2nd (10s.) Aberdare Town.
+
+  6 bands competed.</notes>
+
+  <created>April 11, 2012, 12:42 p.m.</created>
+  <last-modified>July 26, 2019, 9:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98247">
+      <result code="1">1</result>
+      <band id="1592">Aberdare Town</band>
+      <conductor id="305536">Jesse Manley</conductor>
+    </result>
+    
+    <result id="98248">
+      <result code="2">2</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="297329">John Bailey</conductor>
+    </result>
+    
+    <result id="98249">
+      <result code="3">3</result>
+      <band id="1591">Tillery Collieries Band</band>
+      <conductor id="302243">John Griffiths</conductor>
+    </result>
+    
+    <result id="289632">
+      <result code="4">4</result>
+      <band id="10759">Abertillery Town</band>
+      <conductor id="319659">Brian Wright</conductor>
+    </result>
+    
+    <result id="98251">
+      <result code="5">5</result>
+      <band id="7623">Nelson Temperance</band>
+      <conductor id="310128">Carl Taylor</conductor>
+    </result>
+    
+    <result id="98252">
+      <result code="">Unknown Result</result>
+      <band id="7498">Dowlais Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

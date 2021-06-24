@@ -1,0 +1,61 @@
+<contest-event id="41027">
+  <event-date date="1924-8-2">Aug. 2, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Honley Contest</name>
+  <contest id="1358">
+    <name>Honley Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="337">Honley Contest</group>
+    <slug>honley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="771">William Tell [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="877">Honley, West Yorkshire</venue>
+  <notes>March contest (Sons of the Wild) - 1st Hepworth, 2nd Lindley.
+5 bands competed.</notes>
+
+  <created>Oct. 29, 2018, 11:08 p.m.</created>
+  <last-modified>Oct. 29, 2018, 11:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297952">
+      <result code="1">1</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="299460">F. Clough</conductor>
+    </result>
+    
+    <result id="297953">
+      <result code="2">2</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="297954">
+      <result code="3">3</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="306841">Walter Nuttall</conductor>
+    </result>
+    
+    <result id="297955">
+      <result code="4">4</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="304023">J. Jennings</conductor>
+    </result>
+    
+    <result id="297956">
+      <result code="5">5</result>
+      <band id="7">Grimethorpe Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,69 @@
+<contest-event id="13728">
+  <event-date date="1886-7-19">July 19, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Northampton Contest</name>
+  <contest id="1551">
+    <name>Northampton Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>northampton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2770">The Bohemian Girl [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1017">Melbourne Gardens, Northampton</venue>
+  <notes>2nd Annual Contest organised by Northampton Temperance Silver Band
+Reported in Northampton Herald 24th July 1886
+Prizes: £22, £16, £7, £5, £3.
+6 bands competed.</notes>
+
+  <created>June 10, 2012, 11:21 a.m.</created>
+  <last-modified>Nov. 5, 2017, 1:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="109408">
+      <result code="1">1</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="109409">
+      <result code="2">2</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="109410">
+      <result code="3">3</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="109411">
+      <result code="4">4</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="109412">
+      <result code="5">5</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="109413">
+      <result code="6">6</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

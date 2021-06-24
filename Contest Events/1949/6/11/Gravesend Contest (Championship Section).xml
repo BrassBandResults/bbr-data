@@ -1,0 +1,48 @@
+<contest-event id="24922">
+  <event-date date="1949-6-11">June 11, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Gravesend Contest (Championship Section)</name>
+  <contest id="2082">
+    <name>Gravesend Contest (Championship Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="243">Gravesend Contest</group>
+    <slug>gravesend-contest-championship-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1038">Schubert&#39;s Symphony in C [arr. J. A. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="1443">Gravesend, Kent</venue>
+  <notes></notes>
+
+  <created>Nov. 5, 2013, 4:56 p.m.</created>
+  <last-modified>Nov. 5, 2013, 4:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181843">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="298379">Eric Bravington</conductor>
+    </result>
+    
+    <result id="190655">
+      <result code="2">2</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="313878">Frederick J. Pedler</conductor>
+    </result>
+    
+    <result id="190656">
+      <result code="3">3</result>
+      <band id="845">Grays Town Band</band>
+      <conductor id="306050">E. C. Merrick</conductor>
+    </result>
+    
+  </results>
+</contest-event>

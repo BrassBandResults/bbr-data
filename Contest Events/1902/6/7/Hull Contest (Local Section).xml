@@ -1,0 +1,48 @@
+<contest-event id="37541">
+  <event-date date="1902-6-7">June 7, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hull Contest (Local Section)</name>
+  <contest id="2493">
+    <name>Hull Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hull-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1172">The Slave</test-piece>
+  </test-piece>
+
+  <venue id="6458">Hull Kingston Rovers Football Club, Hull</venue>
+  <notes>3 bands competed.</notes>
+
+  <created>March 14, 2017, 10:54 p.m.</created>
+  <last-modified>July 5, 2018, 9:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="271393">
+      <result code="1">1</result>
+      <band id="5250">Beverley Borough</band>
+      <conductor id="308222">J. H. Rimmer</conductor>
+    </result>
+    
+    <result id="271395">
+      <result code="2">2</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="271394">
+      <result code="3">3</result>
+      <band id="8006">Beverley United</band>
+      <conductor id="311386">George White</conductor>
+    </result>
+    
+  </results>
+</contest-event>

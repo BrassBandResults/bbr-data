@@ -1,0 +1,91 @@
+<contest-event id="7334">
+  <event-date date="1945-6-23">June 23, 1945<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North Eastern Area (Second Section)</name>
+  <contest id="18">
+    <name>Yorkshire Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="1">Yorkshire Area</group>
+    <slug>yorkshire-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="1">Yorkshire</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="962">L&#39;Ebreo [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="793">Lister Park, Bradford</venue>
+  <notes>Prizes - 1st £30 and cup, 2nd £20, 3rd £15, 4th £10&#39;
+10 bands competed.</notes>
+
+  <created>Sept. 30, 2011, 1:41 p.m.</created>
+  <last-modified>Feb. 5, 2019, 1:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="74848">
+      <result code="1">1</result>
+      <band id="1694">Halifax Home Guard</band>
+      <conductor id="299111">Tom Casson</conductor>
+    </result>
+    
+    <result id="74849">
+      <result code="2">2</result>
+      <band id="3272">British Ropes Silver</band>
+      <conductor id="307288">Ed Pearce</conductor>
+    </result>
+    
+    <result id="74850">
+      <result code="3">3</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="74851">
+      <result code="4">4</result>
+      <band id="3384">Lockwood Band (Huddersfield)</band>
+      <conductor id="298352">Frank Braithwaite</conductor>
+    </result>
+    
+    <result id="140760">
+      <result code="">Unknown Result</result>
+      <band id="3271">Bradford Victoria</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="140759">
+      <result code="">Unknown Result</result>
+      <band id="689">Brodsworth Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="140761">
+      <result code="">Unknown Result</result>
+      <band id="3274">Darnall W.M.C</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="140762">
+      <result code="">Unknown Result</result>
+      <band id="3146">Elsecar Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="140763">
+      <result code="">Unknown Result</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="140764">
+      <result code="">Unknown Result</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

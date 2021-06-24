@@ -1,0 +1,60 @@
+<contest-event id="12853">
+  <event-date date="1896-3-24">March 24, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Contest</name>
+  <contest id="1046">
+    <name>Newcastle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="160">Newcastle upon Tyne Contest</group>
+    <slug>newcastle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1800">England</test-piece>
+  </test-piece>
+
+  <venue id="2497">Newcastle-upon-Tyne</venue>
+  <notes></notes>
+
+  <created>April 27, 2012, 5:25 p.m.</created>
+  <last-modified>Sept. 7, 2016, 4:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102117">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="297972">George F. Birkinshaw</conductor>
+    </result>
+    
+    <result id="102118">
+      <result code="2">2</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="304493">E. Keskeys</conductor>
+    </result>
+    
+    <result id="102119">
+      <result code="3">3</result>
+      <band id="8021">Blyth &amp; Cowpen</band>
+      <conductor id="306950">James Ord Hume</conductor>
+    </result>
+    
+    <result id="102120">
+      <result code="">Unknown Result</result>
+      <band id="7832">Hamsterley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="102121">
+      <result code="">Unknown Result</result>
+      <band id="7827">Southwick Parish</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,75 @@
+<contest-event id="12418">
+  <event-date date="1899-6-24">June 24, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Parr (St Helens) Contest</name>
+  <contest id="2560">
+    <name>Parr (St Helens) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>parr-st-helens-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1855">Sunny Spain</test-piece>
+  </test-piece>
+
+  <venue id="1916">Parr, St. Helens, Lancashire</venue>
+  <notes>2nd annual contest promoted by Parr Public band.
+1st prize £8, 2nd prize £5, 3rd prize £3 and 4th prize £2 divided between Parr Temperance and Ferranti&#39;s Works, 5th prize £1.
+March contest 1st (£1) Sutton Road, 2nd (10s.) Parr Temperance.
+7 bands competed.</notes>
+
+  <created>April 14, 2012, 11:02 a.m.</created>
+  <last-modified>July 28, 2019, 8:30 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99310">
+      <result code="1">1</result>
+      <band id="3313">Earlestown Viaduct</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="99311">
+      <result code="2">2</result>
+      <band id="3611">Sutton Road</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="99312">
+      <result code="3">3</result>
+      <band id="3555">Parr Temperance</band>
+      <conductor id="297081">William Appleton</conductor>
+    </result>
+    
+    <result id="99313">
+      <result code="3">3</result>
+      <band id="3663">Ferranti&#39;s Works</band>
+      <conductor id="302431">Walter Hall</conductor>
+    </result>
+    
+    <result id="99314">
+      <result code="5">5</result>
+      <band id="17325">Tyldesley Wesleyan Temperance</band>
+      <conductor id="301861">Edward Gittins</conductor>
+    </result>
+    
+    <result id="99316">
+      <result code="">Unknown Result</result>
+      <band id="7877">Heaton Park</band>
+      <conductor id="318173">J. C. Hopkinson</conductor>
+    </result>
+    
+    <result id="99315">
+      <result code="">Unknown Result</result>
+      <band id="6996">Widnes St. Mary&#39;s</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+  </results>
+</contest-event>

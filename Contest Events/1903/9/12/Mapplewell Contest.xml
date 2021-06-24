@@ -1,0 +1,111 @@
+<contest-event id="22009">
+  <event-date date="1903-9-12">Sept. 12, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mapplewell Contest</name>
+  <contest id="2028">
+    <name>Mapplewell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mapplewell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1771">Gems of Welsh Melody</test-piece>
+  </test-piece>
+
+  <venue id="1458">Mapplewell, South Yorkshire</venue>
+  <notes>
+  Best trombone - Thornhill.
+  Best soprano - Canklow.
+  14 bands competed - name of band drawn number 13 was not know in British Bandsman p686 26th September 1903.</notes>
+
+  <created>June 22, 2013, 10:26 a.m.</created>
+  <last-modified>June 22, 2013, 10:39 a.m.</last-modified>
+
+  <results>
+    
+    <result id="163231">
+      <result code="1">1</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="163232">
+      <result code="2">2</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310017">William Swingler</conductor>
+    </result>
+    
+    <result id="163233">
+      <result code="3">3</result>
+      <band id="3559">Wombwell Temperance</band>
+      <conductor id="296878">James Allan</conductor>
+    </result>
+    
+    <result id="163234">
+      <result code="4">4</result>
+      <band id="5851">Thornhill Brass</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+    <result id="163235">
+      <result code="5">5</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="163236">
+      <result code="">Unknown Result</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="163237">
+      <result code="">Unknown Result</result>
+      <band id="7924">Wath Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163238">
+      <result code="">Unknown Result</result>
+      <band id="6582">Wombwell Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163239">
+      <result code="">Unknown Result</result>
+      <band id="8365">Brighouse Borough</band>
+      <conductor id="311472">Sidney Whittaker</conductor>
+    </result>
+    
+    <result id="163240">
+      <result code="">Unknown Result</result>
+      <band id="4597">Carlton Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="163241">
+      <result code="">Unknown Result</result>
+      <band id="3172">Ossett Borough</band>
+      <conductor id="298531">James Brooke</conductor>
+    </result>
+    
+    <result id="163242">
+      <result code="">Unknown Result</result>
+      <band id="6581">Canklow</band>
+      <conductor id="305005">William Lerigo</conductor>
+    </result>
+    
+    <result id="163243">
+      <result code="">Unknown Result</result>
+      <band id="43">Old Silkstone</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

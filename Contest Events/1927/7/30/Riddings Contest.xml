@@ -1,0 +1,70 @@
+<contest-event id="23981">
+  <event-date date="1927-7-30">July 30, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Riddings Contest</name>
+  <contest id="1827">
+    <name>Riddings Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>riddings-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="639">A Garland of Classics</test-piece>
+  </test-piece>
+
+  <venue id="1285">Riddings, Derbyshire</venue>
+  <notes>Promoted by Riddings United Silver Prize Band
+
+  Prizes - 1st £10 and cup, 2nd £7, 3rd £4, 4th £2.
+  March contest - 1st(£1) Hucknall, 2nd(10s.) Huthwaite.
+  6 bands competed.</notes>
+
+  <created>Sept. 21, 2013, 7:04 p.m.</created>
+  <last-modified>Aug. 14, 2016, 2:20 p.m.</last-modified>
+
+  <results>
+    
+    <result id="175299">
+      <result code="1">1</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="175300">
+      <result code="2">2</result>
+      <band id="486">Long Eaton Silver Prize Band</band>
+      <conductor id="301028">Henry Evetts</conductor>
+    </result>
+    
+    <result id="175301">
+      <result code="3">3</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="299660">Charles Cooper</conductor>
+    </result>
+    
+    <result id="175302">
+      <result code="4">4</result>
+      <band id="4895">Stapleford Silver Band</band>
+      <conductor id="311918">Willie Wood</conductor>
+    </result>
+    
+    <result id="175304">
+      <result code="">Unknown Result</result>
+      <band id="3493">Clay Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175303">
+      <result code="">Unknown Result</result>
+      <band id="3859">Holymoorside Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

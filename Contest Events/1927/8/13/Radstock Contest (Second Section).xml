@@ -1,0 +1,62 @@
+<contest-event id="24006">
+  <event-date date="1927-8-13">Aug. 13, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radstock Contest (Second Section)</name>
+  <contest id="4663">
+    <name>Radstock Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="447">Radstock Contest</group>
+    <slug>radstock-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1306">Fra Diavolo [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="4018">Radstock, Somerset, England, UK</venue>
+  <notes>
+  Prizes - 1st £7, 2nd £5, 3rd £3.
+  5 bands competed.</notes>
+
+  <created>Sept. 23, 2013, 5:16 p.m.</created>
+  <last-modified>Oct. 26, 2017, 9:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175441">
+      <result code="1">1</result>
+      <band id="1256">Glastonbury (Combined Edge Tools)</band>
+      <conductor id="300231">R. W. Davison</conductor>
+    </result>
+    
+    <result id="175442">
+      <result code="2">2</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="312126">Cliff Young</conductor>
+    </result>
+    
+    <result id="175443">
+      <result code="3">3</result>
+      <band id="10619">Midsomer Norton Silver</band>
+      <conductor id="305735">A. F. Matthews</conductor>
+    </result>
+    
+    <result id="175444">
+      <result code="">Unknown Result</result>
+      <band id="3988">Keynsham Brass Band</band>
+      <conductor id="300057">E. Dally</conductor>
+    </result>
+    
+    <result id="175445">
+      <result code="">Unknown Result</result>
+      <band id="11416">Midsomer Norton Town</band>
+      <conductor id="299613">E. T. Cook</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,56 @@
+<contest-event id="25382">
+  <event-date date="1914-5-30">May 30, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Jarrow Contest</name>
+  <contest id="1860">
+    <name>Jarrow Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="221">Jarrow Contest</group>
+    <slug>jarrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2375">Edelweiss</test-piece>
+  </test-piece>
+
+  <venue id="4285">Football Ground, Curlew Road, Jarrow, County Durham, England, UK</venue>
+  <notes>March: 1. Harton, 2. Marsden
+
+4 bands competed</notes>
+
+  <created>Nov. 30, 2013, 7:49 p.m.</created>
+  <last-modified>Nov. 30, 2013, 7:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184574">
+      <result code="1">1</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184575">
+      <result code="2">2</result>
+      <band id="1704">Birtley St. Joseph</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184576">
+      <result code="3">3</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184577">
+      <result code="4">4</result>
+      <band id="1716">Marsden Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

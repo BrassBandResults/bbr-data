@@ -1,0 +1,64 @@
+<contest-event id="26020">
+  <event-date date="1934-4-2">April 2, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stamford Contest</name>
+  <contest id="2351">
+    <name>Stamford Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stamford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1089">Country Life</test-piece>
+  </test-piece>
+
+  <venue id="3995">Drill Hall, Stamford, Lincolnshire, England, UK</venue>
+  <notes>Promoted by Stamford Silver Band
+
+8 bands competed
+
+March: 1. Gretton, 2. Corby, 3. Spalding, 4. Brigstock</notes>
+
+  <created>Jan. 21, 2014, 10:28 p.m.</created>
+  <last-modified>June 9, 2014, 5:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="188421">
+      <result code="1">1</result>
+      <band id="2000">Gretton Silver Band</band>
+      <conductor id="309580">T. Spendlove</conductor>
+    </result>
+    
+    <result id="188422">
+      <result code="2">2</result>
+      <band id="6607">Nassington Britannia</band>
+      <conductor id="297503">Mr. Barnes</conductor>
+    </result>
+    
+    <result id="188423">
+      <result code="3">3</result>
+      <band id="515">Corby Silver Band</band>
+      <conductor id="308051">A. G. Remington</conductor>
+    </result>
+    
+    <result id="188424">
+      <result code="4">4</result>
+      <band id="8636">Brigstock</band>
+      <conductor id="311996">M. Woolley</conductor>
+    </result>
+    
+    <result id="188425">
+      <result code="">Unknown Result</result>
+      <band id="6811">Spalding Town</band>
+      <conductor id="311703">H. Williamson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

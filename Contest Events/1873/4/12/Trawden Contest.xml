@@ -1,0 +1,95 @@
+<contest-event id="15491">
+  <event-date date="1873-4-12">April 12, 1873<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trawden Contest</name>
+  <contest id="1637">
+    <name>Trawden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trawden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="961">I Puritani</test-piece>
+  </test-piece>
+
+  <venue id="1596">Trawden, Colne, Lancashire</venue>
+  <notes>Bacup withdrew having lost their soprano. Cloughfold had a player who had not been with them the required length of time.
+
+Prizes: £25 15s, £14 9s, £10 8s, £2, £1
+
+Solo cornet prize: A. Owen (Stalybridge)
+</notes>
+
+  <created>Oct. 21, 2012, 1:50 p.m.</created>
+  <last-modified>Sept. 15, 2017, 1:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="119936">
+      <result code="1">1</result>
+      <band id="3726">Newchurch</band>
+      <conductor id="298442">James Briggs</conductor>
+    </result>
+    
+    <result id="119930">
+      <result code="2">2</result>
+      <band id="3671">Briercliffe Prize Brass Band</band>
+      <conductor id="297439">R. Bannister</conductor>
+    </result>
+    
+    <result id="119931">
+      <result code="3">3</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="309166">James Simpson</conductor>
+    </result>
+    
+    <result id="119934">
+      <result code="4">4</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="317172">J.H. Hargreaves</conductor>
+    </result>
+    
+    <result id="119938">
+      <result code="5">5</result>
+      <band id="2525">Rawtenstall Borough</band>
+      <conductor id="310110">H. Tattersall</conductor>
+    </result>
+    
+    <result id="119932">
+      <result code="">Unknown Result</result>
+      <band id="3745">3rd L.A.V. (Chorley)</band>
+      <conductor id="307672">George Pressler</conductor>
+    </result>
+    
+    <result id="285552">
+      <result code="">Unknown Result</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="119933">
+      <result code="D">Disqualified</result>
+      <band id="3720">Cloughfold</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119929">
+      <result code="W">Withdrawn</result>
+      <band id="7275">Bacup Wellington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="119935">
+      <result code="W">Withdrawn</result>
+      <band id="5095">Kildwick and District Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

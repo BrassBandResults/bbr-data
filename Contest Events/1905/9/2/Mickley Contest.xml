@@ -1,0 +1,67 @@
+<contest-event id="10458">
+  <event-date date="1905-9-2">Sept. 2, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Mickley Contest</name>
+  <contest id="2015">
+    <name>Mickley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>mickley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1079">Rob Roy</test-piece>
+  </test-piece>
+
+  <venue id="1448">Mickley, Northumberland, England, UK</venue>
+  <notes>March contest  1st Consett Ironworks,  2nd Jarrow Borough.
+5 bands competed</notes>
+
+  <created>Feb. 19, 2012, 4:54 p.m.</created>
+  <last-modified>Sept. 11, 2018, 10:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87927">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87928">
+      <result code="2">2</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="87929">
+      <result code="3">3</result>
+      <band id="6633">Jarrow Borough</band>
+      <conductor id="297937">Richard Binnie</conductor>
+    </result>
+    
+    <result id="87930">
+      <result code="4">4</result>
+      <band id="6693">Marley Hill</band>
+      <conductor id="302610">Luke Harker</conductor>
+    </result>
+    
+    <result id="87931">
+      <result code="5">5</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="87932">
+      <result code="W">Withdrawn</result>
+      <band id="7232">South Tyne</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

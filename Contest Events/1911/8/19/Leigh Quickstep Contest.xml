@@ -1,0 +1,48 @@
+<contest-event id="39616">
+  <event-date date="1911-8-19">Aug. 19, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Leigh Quickstep Contest</name>
+  <contest id="3120">
+    <name>Leigh Quickstep Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>leigh-quickstep-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5573">March: The King&#39;s Messenger</test-piece>
+  </test-piece>
+
+  <venue id="1786">Leigh, Lancashire</venue>
+  <notes>3 bands competed owing to rail strike.</notes>
+
+  <created>May 17, 2018, 10:01 p.m.</created>
+  <last-modified>Nov. 9, 2020, 9:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287217">
+      <result code="1">1</result>
+      <band id="1448">Glazebury</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="287218">
+      <result code="2">2</result>
+      <band id="1499">Bedford (Leigh) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="287219">
+      <result code="2">2</result>
+      <band id="6221">Firs Lane</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,56 @@
+<contest-event id="18049">
+  <event-date date="1947-7-5">July 5, 1947<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newhall Contest</name>
+  <contest id="1916">
+    <name>Newhall Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newhall-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2500">Recollections of Bellini [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4605">Newhall Park, Newhall, Derbyshire</venue>
+  <notes>March contest  1st Stanton, 2nd Swadlincote, 3rd Wood End, 
+Best euphonium - Colin  Hall (Stanton)
+4 bands competed.</notes>
+
+  <created>Feb. 8, 2013, 11:58 a.m.</created>
+  <last-modified>Feb. 15, 2019, 10:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="136241">
+      <result code="1">1</result>
+      <band id="510">Ilkeston Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="136242">
+      <result code="2">2</result>
+      <band id="2704">Wood End W.M.C.</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="136243">
+      <result code="3">3</result>
+      <band id="4898">Swadlincote Town Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="136244">
+      <result code="4">4</result>
+      <band id="8554">Langwith Colliery Junior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

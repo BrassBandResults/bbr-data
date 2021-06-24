@@ -1,0 +1,81 @@
+<contest-event id="24343">
+  <event-date date="1928-7-7">July 7, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Doncaster Contest</name>
+  <contest id="1411">
+    <name>Doncaster Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>doncaster-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="5826">Recollections of Verdi or L&#39;Ebreo</test-piece>
+  </test-piece>
+
+  <venue id="4102">Glasgow Paddocks, Doncaster, Yorkshire</venue>
+  <notes>  Prizes - 1st 10 and cup, 2nd £8, 3rd £6, 4th £4.
+  March contest (own choice) - 1st(£1.10s) Yorkshire Main, 2nd(£1) Manvers Main.
+  Promoted by Royal Infirmary Committee.
+  8 bands competed.</notes>
+
+  <created>Oct. 5, 2013, 10:52 a.m.</created>
+  <last-modified>Nov. 27, 2018, 10:14 a.m.</last-modified>
+
+  <results>
+    
+    <result id="177670">
+      <result code="1">1</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="296769">Herbert Ackroyd</conductor>
+    </result>
+    
+    <result id="177671">
+      <result code="2">2</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="307097">William Park</conductor>
+    </result>
+    
+    <result id="177672">
+      <result code="3">3</result>
+      <band id="1684">Manvers &amp; Barnburgh</band>
+      <conductor id="305218">Henry Lodge</conductor>
+    </result>
+    
+    <result id="177673">
+      <result code="4">4</result>
+      <band id="437">Goldthorpe Band</band>
+      <conductor id="296931">Thomas Allsop</conductor>
+    </result>
+    
+    <result id="177675">
+      <result code="">Unknown Result</result>
+      <band id="1544">Askern Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177674">
+      <result code="">Unknown Result</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177676">
+      <result code="">Unknown Result</result>
+      <band id="6615">East Hull</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177677">
+      <result code="">Unknown Result</result>
+      <band id="2692">Thorne Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

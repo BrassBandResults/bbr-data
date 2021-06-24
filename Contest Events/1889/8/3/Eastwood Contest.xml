@@ -1,0 +1,68 @@
+<contest-event id="17775">
+  <event-date date="1889-8-3">Aug. 3, 1889<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Eastwood Contest</name>
+  <contest id="1638">
+    <name>Eastwood Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>eastwood-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="998">Romeo et Juliette [Gounod arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2910">Eastwood Hall Park, Eastwood</venue>
+  <notes>Eastwood Band of Hope Union Gala
+Prizes: 20 guineas, 15 guineas, 4 guineas, 2 guineas.
+6 bands competed</notes>
+
+  <created>Jan. 31, 2013, 10:11 a.m.</created>
+  <last-modified>May 22, 2019, 1:07 p.m.</last-modified>
+
+  <results>
+    
+    <result id="134626">
+      <result code="1">1</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="134625">
+      <result code="2">2</result>
+      <band id="3527">Gainsborough Rifles</band>
+      <conductor id="297727">William Belcher</conductor>
+    </result>
+    
+    <result id="134628">
+      <result code="3">3</result>
+      <band id="3524">Derby United</band>
+      <conductor id="308870">Alfred R. Seddon</conductor>
+    </result>
+    
+    <result id="259582">
+      <result code="4">4</result>
+      <band id="10336">Hucknall Gospel Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134627">
+      <result code="">Unknown Result</result>
+      <band id="7432">Radford Free Church</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="134623">
+      <result code="">Unknown Result</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="313344">Gustave Jaeger</conductor>
+    </result>
+    
+  </results>
+</contest-event>

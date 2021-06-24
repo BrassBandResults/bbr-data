@@ -1,0 +1,54 @@
+<contest-event id="25296">
+  <event-date date="1939-11-25">Nov. 25, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Fourth Section)</name>
+  <contest id="65">
+    <name>Scottish Championship (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2332">May Day</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Nov. 26, 2013, 10:19 a.m.</created>
+  <last-modified>Jan. 25, 2019, 4:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184233">
+      <result code="1">1</result>
+      <band id="2103">Armadale Burgh</band>
+      <conductor id="301588">J. B. Fullerton</conductor>
+    </result>
+    
+    <result id="184234">
+      <result code="2">2</result>
+      <band id="5543">Glasgow Transport</band>
+      <conductor id="309967">Edward Sutton</conductor>
+    </result>
+    
+    <result id="184235">
+      <result code="3">3</result>
+      <band id="4995">Carluke Old Band</band>
+      <conductor id="309935">P. J. Sullivan</conductor>
+    </result>
+    
+    <result id="184236">
+      <result code="4">4</result>
+      <band id="5232">Blackbraes</band>
+      <conductor id="299863">W. Crane</conductor>
+    </result>
+    
+  </results>
+</contest-event>

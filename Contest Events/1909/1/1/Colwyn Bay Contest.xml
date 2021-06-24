@@ -1,0 +1,50 @@
+<contest-event id="12727">
+  <event-date date="1909-1-1">Jan. 1, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest</name>
+  <contest id="1076">
+    <name>Colwyn Bay Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1828">Old Memories</test-piece>
+  </test-piece>
+
+  <venue id="1251">Colwyn Bay, Conwy, Wales, UK</venue>
+  <notes>1st prize £12.
+March contest  1st Irwell Street.
+3 bands competed.</notes>
+
+  <created>April 19, 2012, 9:56 p.m.</created>
+  <last-modified>July 13, 2015, 2:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="101308">
+      <result code="1">1</result>
+      <band id="6547">Old Colwyn</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="101310">
+      <result code="">Unknown Result</result>
+      <band id="6949">Irwell Street Mission (Salford)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="101309">
+      <result code="">Unknown Result</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

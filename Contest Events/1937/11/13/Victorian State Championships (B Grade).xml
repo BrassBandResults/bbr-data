@@ -1,0 +1,66 @@
+<contest-event id="44376">
+  <event-date date="1937-11-13">Nov. 13, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Victorian State Championships (B Grade)</name>
+  <contest id="3060">
+    <name>Victorian State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="151">Victorian State Championships</group>
+    <slug>victorian-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6496">Carmen Suite / La Patrie Overture / L&#39;Arlesienne Suite</test-piece>
+  </test-piece>
+
+  <venue id="6543">Melbourne Town Hall, Melbourne, Victoria, Australia</venue>
+  <notes></notes>
+
+  <created>Feb. 8, 2021, 2:07 a.m.</created>
+  <last-modified>Feb. 8, 2021, 3:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="324557">
+      <result code="1">1</result>
+      <band id="13130">Prahran City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324558">
+      <result code="2">2</result>
+      <band id="13748">Newport Workshops (Vic)</band>
+      <conductor id="306767">Hugh Niven</conductor>
+    </result>
+    
+    <result id="324559">
+      <result code="3">3</result>
+      <band id="2144">Darebin City Brass - Preston</band>
+      <conductor id="305772">William May</conductor>
+    </result>
+    
+    <result id="324560">
+      <result code="">Unknown Result</result>
+      <band id="8988">Ballarat Soldiers&#39; Memorial Band</band>
+      <conductor id="311139">James Watson</conductor>
+    </result>
+    
+    <result id="324562">
+      <result code="">Unknown Result</result>
+      <band id="2190">Coburg City Band</band>
+      <conductor id="320531">Tom Davidson</conductor>
+    </result>
+    
+    <result id="324561">
+      <result code="">Unknown Result</result>
+      <band id="16696">Yallourn &amp; District  (Vic)</band>
+      <conductor id="310635">Charles Turner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

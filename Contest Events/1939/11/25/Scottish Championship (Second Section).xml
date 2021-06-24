@@ -1,0 +1,61 @@
+<contest-event id="25294">
+  <event-date date="1939-11-25">Nov. 25, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Second Section)</name>
+  <contest id="63">
+    <name>Scottish Championship (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1938">Emilia</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes>
+  5 bands competed.</notes>
+
+  <created>Nov. 26, 2013, 9:54 a.m.</created>
+  <last-modified>Nov. 26, 2013, 10:15 a.m.</last-modified>
+
+  <results>
+    
+    <result id="184221">
+      <result code="1">1</result>
+      <band id="2057">Alva Town</band>
+      <conductor id="308409">Fred Rogan</conductor>
+    </result>
+    
+    <result id="184222">
+      <result code="2">2</result>
+      <band id="994">Hawick Saxhorn Band</band>
+      <conductor id="302329">George Guy</conductor>
+    </result>
+    
+    <result id="184223">
+      <result code="3">3</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="304366">J. Kean</conductor>
+    </result>
+    
+    <result id="184224">
+      <result code="">Unknown Result</result>
+      <band id="5556">Fleets Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184225">
+      <result code="">Unknown Result</result>
+      <band id="375">Renfrew Burgh Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

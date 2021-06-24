@@ -1,0 +1,62 @@
+<contest-event id="24991">
+  <event-date date="1934-7-7">July 7, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blaenavon Contest</name>
+  <contest id="2668">
+    <name>Blaenavon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blaenavon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="2012">Blaenavon, Monmouthsire</venue>
+  <notes>Prizes - 1st £7 and cup, 2nd £4, 3rd £2.
+  March contest - 1st(£1) Abercynon, 2nd Blaina.
+  5 bands competed.</notes>
+
+  <created>Nov. 7, 2013, 2:32 p.m.</created>
+  <last-modified>Jan. 7, 2017, 2:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="266917">
+      <result code="1">1</result>
+      <band id="793">Cwm Town Band</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="182115">
+      <result code="2">2</result>
+      <band id="8417">Abercynon</band>
+      <conductor id="310277">George Thomas</conductor>
+    </result>
+    
+    <result id="182116">
+      <result code="3">3</result>
+      <band id="2098">Blaina &amp; District</band>
+      <conductor id="307754">J. Probert</conductor>
+    </result>
+    
+    <result id="182117">
+      <result code="">Unknown Result</result>
+      <band id="373">Blaenavon Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182118">
+      <result code="">Unknown Result</result>
+      <band id="4605">Varteg District Memorial Hall</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

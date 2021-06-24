@@ -1,0 +1,44 @@
+<contest-event id="25547">
+  <event-date date="1925-8-3">Aug. 3, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall County Contest</name>
+  <contest id="2012">
+    <name>Cornwall County Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cornwall-county-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1100">Orpheus [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3923">St. Ives, Cornwall</venue>
+  <notes>Prizes: £18, £15
+Hymn: 1. Stenalees, 2. Bugle.
+2 bands competed.</notes>
+
+  <created>Dec. 10, 2013, 5:32 p.m.</created>
+  <last-modified>Nov. 6, 2018, 12:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185283">
+      <result code="1">1</result>
+      <band id="6463">Stenalees Silver Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="185284">
+      <result code="2">2</result>
+      <band id="539">Bugle Silver Band</band>
+      <conductor id="296790">W. Adamson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

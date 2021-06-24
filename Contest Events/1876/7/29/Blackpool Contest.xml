@@ -1,0 +1,69 @@
+<contest-event id="8259">
+  <event-date date="1876-7-29">July 29, 1876<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1043">Raikes Hall Gardens, Blackpool</venue>
+  <notes>Prizes: £40 and £20 (divided), £15, £10, £5 10s, £4 10s
+
+
+6 bands competed.</notes>
+
+  <created>Nov. 11, 2011, 1:43 p.m.</created>
+  <last-modified>Nov. 12, 2012, 5:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="108843">
+      <result code="1">1</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="108844">
+      <result code="1">1</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="108845">
+      <result code="3">3</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="108846">
+      <result code="4">4</result>
+      <band id="7276">Haslingden Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="108847">
+      <result code="5">5</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="124051">
+      <result code="6">6</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,50 @@
+<contest-event id="41207">
+  <event-date date="1926-2-27">Feb. 27, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llandudno Contest</name>
+  <contest id="2723">
+    <name>Llandudno Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llandudno-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1042">The Talisman [Balfe, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="160">Llandudno, Conwy, Wales, UK</venue>
+  <notes>Prizes - 1st £25, 2nd £7.
+March contest - 1st Connahs Quay, 2nd Llandudno, 3rd Rhyl.
+3 bands competed.</notes>
+
+  <created>Nov. 8, 2018, 11:10 p.m.</created>
+  <last-modified>Nov. 8, 2018, 11:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299391">
+      <result code="1">1</result>
+      <band id="1820">Llandudno Band</band>
+      <conductor id="310548">Francis Lucio Traversi</conductor>
+    </result>
+    
+    <result id="299392">
+      <result code="2">2</result>
+      <band id="805">Rhyl Silver Band</band>
+      <conductor id="302456">Wilfred W. Halsey</conductor>
+    </result>
+    
+    <result id="299393">
+      <result code="3">3</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

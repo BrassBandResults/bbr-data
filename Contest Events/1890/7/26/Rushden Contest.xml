@@ -1,0 +1,75 @@
+<contest-event id="13790">
+  <event-date date="1890-7-26">July 26, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rushden Contest</name>
+  <contest id="2361">
+    <name>Rushden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rushden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1893">Lyric Garland</test-piece>
+  </test-piece>
+
+  <venue id="2248">Rushden Hall Park, Rushden, Northamptonshire, England, UK</venue>
+  <notes>Organised by Rushden National Brass Band
+Prizes - 1st £11.11s. and cornet, 2nd £5.5s. and trombone, 3rd £5.5s., 4th £3.3s.
+5 bands competed
+Reported in Northampton Herald, 2nd August 1890</notes>
+
+  <created>June 16, 2012, 12:07 p.m.</created>
+  <last-modified>May 24, 2019, 8:35 a.m.</last-modified>
+
+  <results>
+    
+    <result id="110121">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110122">
+      <result code="2">2</result>
+      <band id="6327">Northampton Temperance</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110123">
+      <result code="3">3</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110124">
+      <result code="4">4</result>
+      <band id="7535">Rothwell Town [Northamptonshire]</band>
+      <conductor id="303099">Thomas Hill</conductor>
+    </result>
+    
+    <result id="110125">
+      <result code="5">5</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="308177">J. Rider</conductor>
+    </result>
+    
+    <result id="135294">
+      <result code="W">Withdrawn</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110126">
+      <result code="W">Withdrawn</result>
+      <band id="8629">Walgrave Amateur</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

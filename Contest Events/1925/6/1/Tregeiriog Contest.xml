@@ -1,0 +1,44 @@
+<contest-event id="41142">
+  <event-date date="1925-6-1">June 1, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tregeiriog Contest</name>
+  <contest id="6427">
+    <name>Tregeiriog Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tregeiriog-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="453">Hiawatha [Coleridge-Taylor arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="7000">Tregeiriog, Denbighshire</venue>
+  <notes>March contest - 1st Shotton.
+Prizes - 1st £20, 2nd £5.
+2 bands competed</notes>
+
+  <created>Nov. 5, 2018, 5:22 p.m.</created>
+  <last-modified>Feb. 26, 2021, 10:12 a.m.</last-modified>
+
+  <results>
+    
+    <result id="298825">
+      <result code="1">1</result>
+      <band id="2739">Connah&#39;s Quay Silver</band>
+      <conductor id="303596">J. A. Hughes</conductor>
+    </result>
+    
+    <result id="298826">
+      <result code="2">2</result>
+      <band id="4160">Shotton Colliery Band</band>
+      <conductor id="307155">H. Parry</conductor>
+    </result>
+    
+  </results>
+</contest-event>

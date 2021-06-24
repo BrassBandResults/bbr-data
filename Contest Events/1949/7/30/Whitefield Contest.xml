@@ -1,0 +1,69 @@
+<contest-event id="16738">
+  <event-date date="1949-7-30">July 30, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitefield Contest</name>
+  <contest id="3635">
+    <name>Whitefield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitefield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1375">Recollections of Beethoven [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="2742">Whitefield, Lancashire</venue>
+  <notes>March contest - 1st Derby Police, 2nd Moderna, 3rd Birdwell.
+Prizes - 1st £20 and cup, 2nd £10 and cup, 3rd £7 and cup, 4th £5 and cup, 5th £3, 6th £1,
+10 bands competed.
+</notes>
+
+  <created>Dec. 4, 2012, 10:51 a.m.</created>
+  <last-modified>March 1, 2019, 11:56 a.m.</last-modified>
+
+  <results>
+    
+    <result id="128247">
+      <result code="1">1</result>
+      <band id="2556">Cheetham Hill Band</band>
+      <conductor id="318866">R. Cooper</conductor>
+    </result>
+    
+    <result id="128248">
+      <result code="2">2</result>
+      <band id="162">Pemberton Old Wigan DW Band</band>
+      <conductor id="301075">James Fairhurst</conductor>
+    </result>
+    
+    <result id="128249">
+      <result code="3">3</result>
+      <band id="2982">Derby Borough Police</band>
+      <conductor id="309843">Gerald Storer</conductor>
+    </result>
+    
+    <result id="128250">
+      <result code="4">4</result>
+      <band id="1669">Moderna Blanket Works</band>
+      <conductor id="299111">Tom Casson</conductor>
+    </result>
+    
+    <result id="128251">
+      <result code="5">5</result>
+      <band id="7480">Birdwell Brass</band>
+      <conductor id="309310">Albert Smith</conductor>
+    </result>
+    
+    <result id="305024">
+      <result code="6">6</result>
+      <band id="3271">Bradford Victoria</band>
+      <conductor id="297233">Tom Atkinson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

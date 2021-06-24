@@ -1,0 +1,68 @@
+<contest-event id="36656">
+  <event-date date="1932-7-30">July 30, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newport Contest</name>
+  <contest id="1613">
+    <name>Newport Contest</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id=""></group>
+    <slug>newport-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="318">Newport, Newport County, Wales, UK</venue>
+  <notes>March contest - 1st Taff Merthyr, 2nd Cross Keys.
+Deportment - Varteg.
+6 bands competed.</notes>
+
+  <created>Dec. 12, 2016, 10:44 a.m.</created>
+  <last-modified>Dec. 12, 2016, 10:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="265376">
+      <result code="1">1</result>
+      <band id="8976">Taff Merthyr Colliery</band>
+      <conductor id="311645">Joseph Williams</conductor>
+    </result>
+    
+    <result id="265377">
+      <result code="2">2</result>
+      <band id="4605">Varteg District Memorial Hall</band>
+      <conductor id="310456">J. H. Tipton</conductor>
+    </result>
+    
+    <result id="265378">
+      <result code="3">3</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="311550">George A. Wilkins</conductor>
+    </result>
+    
+    <result id="265379">
+      <result code="4">4</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="304040">M. Jeremiah</conductor>
+    </result>
+    
+    <result id="265380">
+      <result code="">Unknown Result</result>
+      <band id="358">Cross Keys Silver Band</band>
+      <conductor id="308032">William Reeves</conductor>
+    </result>
+    
+    <result id="265381">
+      <result code="">Unknown Result</result>
+      <band id="8639">Nine Mile Point Colliery Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

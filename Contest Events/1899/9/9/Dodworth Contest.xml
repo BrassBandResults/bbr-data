@@ -1,0 +1,75 @@
+<contest-event id="12670">
+  <event-date date="1899-9-9">Sept. 9, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dodworth Contest</name>
+  <contest id="1383">
+    <name>Dodworth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dodworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1225">Lucia di Lammermoor [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2845">Grove House, Dodworth, South Yorkshire</venue>
+  <notes>Prompted by Dodworth Brass Band
+4th and 5th divided between Thurlstone and Mexborough Great Central.
+March contest 1st Holme, 2nd Shipley.
+7 bands competed.</notes>
+
+  <created>April 19, 2012, 4:02 p.m.</created>
+  <last-modified>July 28, 2019, 4:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100943">
+      <result code="1">1</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="100944">
+      <result code="2">2</result>
+      <band id="6231">Shipley Brass Band</band>
+      <conductor id="307057">John Paley</conductor>
+    </result>
+    
+    <result id="100945">
+      <result code="3">3</result>
+      <band id="3154">Stocksbridge Works</band>
+      <conductor id="308708">P. Sanderson</conductor>
+    </result>
+    
+    <result id="100946">
+      <result code="4">4</result>
+      <band id="1930">Thurlstone Brass Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="100947">
+      <result code="4">4</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="300245">John Dawson</conductor>
+    </result>
+    
+    <result id="100948">
+      <result code="">Unknown Result</result>
+      <band id="7876">Ackworth Parish</band>
+      <conductor id="311563">John Wilkinson</conductor>
+    </result>
+    
+    <result id="100949">
+      <result code="">Unknown Result</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

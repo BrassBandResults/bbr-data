@@ -1,0 +1,43 @@
+<contest-event id="24843">
+  <event-date date="1944-4-15">April 15, 1944<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Riding Contest (2nd Section)</name>
+  <contest id="1445">
+    <name>West Riding Contest (2nd Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="182">West Riding Contest</group>
+    <slug>west-riding-contest-2nd-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1938">Emilia</test-piece>
+  </test-piece>
+
+  <venue id="639">Eastbrook Hall, Bradford</venue>
+  <notes>  Hymn tune contest - 1st Markham Main, 2nd Batley Old.
+  2 bands only competed.</notes>
+
+  <created>Nov. 3, 2013, 8:19 a.m.</created>
+  <last-modified>Nov. 3, 2013, 8:22 a.m.</last-modified>
+
+  <results>
+    
+    <result id="181526">
+      <result code="1">1</result>
+      <band id="161">Markham Main Colliery Band</band>
+      <conductor id="302234">Edwin Griffiths</conductor>
+    </result>
+    
+    <result id="181527">
+      <result code="2">2</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="309331">C. A. Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

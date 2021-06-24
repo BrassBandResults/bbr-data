@@ -1,0 +1,74 @@
+<contest-event id="26839">
+  <event-date date="1913-7-12">July 12, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hetton Contest</name>
+  <contest id="1838">
+    <name>Hetton Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="342">Hetton Contest</group>
+    <slug>hetton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1291">Hetton, County Durham</venue>
+  <notes>For bands that had not won a prize of £7 during 1912 or 1913
+March: 1. Wingate, 2 equal. Brandon and Birtley.
+7 bands competed</notes>
+
+  <created>April 2, 2014, 2:12 p.m.</created>
+  <last-modified>Oct. 1, 2018, 7:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="194138">
+      <result code="1">1</result>
+      <band id="1704">Birtley St. Joseph</band>
+      <conductor id="296939">Israel Almond</conductor>
+    </result>
+    
+    <result id="194139">
+      <result code="2">2</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="303597">J. G. Hughes</conductor>
+    </result>
+    
+    <result id="194141">
+      <result code="3">3</result>
+      <band id="3237">Brandon Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194140">
+      <result code="3">3</result>
+      <band id="8129">Shiney Row and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194142">
+      <result code="">Unknown Result</result>
+      <band id="581">Bearpark and Esh Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194143">
+      <result code="">Unknown Result</result>
+      <band id="6698">Houghton-le-Spring</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194144">
+      <result code="">Unknown Result</result>
+      <band id="924">Pride Valley Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="28374">
+  <event-date date="1925-5-16">May 16, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brighton Contest</name>
+  <contest id="5359">
+    <name>Brighton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brighton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="1257">Brighton, Sussex</venue>
+  <notes></notes>
+
+  <created>June 9, 2014, 9:32 a.m.</created>
+  <last-modified>June 9, 2014, 9:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="202317">
+      <result code="1">1</result>
+      <band id="8142">Crowborough Silver</band>
+      <conductor id="298446">Thomas Briggs</conductor>
+    </result>
+    
+    <result id="202320">
+      <result code="">Unknown Result</result>
+      <band id="328">Epsom &amp; Ewell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202318">
+      <result code="">Unknown Result</result>
+      <band id="10427">Lewes Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202319">
+      <result code="">Unknown Result</result>
+      <band id="8146">Turners Hill and Worth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

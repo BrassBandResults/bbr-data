@@ -1,0 +1,78 @@
+<contest-event id="40678">
+  <event-date date="1920-5-1">May 1, 1920<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotton Contest</name>
+  <contest id="1549">
+    <name>Brotton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2815">Euryanthe [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1015">Brotton, Cleveland</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Oct. 12, 2018, 8 p.m.</created>
+  <last-modified>Jan. 15, 2021, 9:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="295875">
+      <result code="1">1</result>
+      <band id="6664">Redcar Ironworks</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="295876">
+      <result code="2">2</result>
+      <band id="6627">Guisborough Priory</band>
+      <conductor id="303686">Thomas Hunter</conductor>
+    </result>
+    
+    <result id="295874">
+      <result code="3">3</result>
+      <band id="937">Lingdale Silver Band</band>
+      <conductor id="303686">Thomas Hunter</conductor>
+    </result>
+    
+    <result id="295877">
+      <result code="4">4</result>
+      <band id="6663">Skelton Old</band>
+      <conductor id="309349">E. Smith</conductor>
+    </result>
+    
+    <result id="295879">
+      <result code="5">5</result>
+      <band id="6008">Brotton Old</band>
+      <conductor id="297353">A. Baker</conductor>
+    </result>
+    
+    <result id="295881">
+      <result code="">Unknown Result</result>
+      <band id="11934">Middlesbrough Comrades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="295878">
+      <result code="">Unknown Result</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="303856">J. Jackson</conductor>
+    </result>
+    
+    <result id="295880">
+      <result code="">Unknown Result</result>
+      <band id="4656">Thornaby</band>
+      <conductor id="311770">James Wilson Jnr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

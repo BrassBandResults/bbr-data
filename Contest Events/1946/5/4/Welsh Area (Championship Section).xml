@@ -1,0 +1,78 @@
+<contest-event id="17230">
+  <event-date date="1946-5-4">May 4, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Welsh Area (Championship Section)</name>
+  <contest id="39">
+    <name>Welsh Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="3">Welsh Area</group>
+    <slug>welsh-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="3">Wales</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="295">The Severn Suite</test-piece>
+  </test-piece>
+
+  <venue id="11">Brangwyn Hall, Swansea, Swansea County, Wales, UK</venue>
+  <notes>8 bands competed.</notes>
+
+  <created>Dec. 22, 2012, 11:25 a.m.</created>
+  <last-modified>Feb. 8, 2019, 12:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130846">
+      <result code="1">1</result>
+      <band id="47">Parc and Dare Band</band>
+      <conductor id="312378">W. Haydn Bebb</conductor>
+    </result>
+    
+    <result id="130847">
+      <result code="2">2</result>
+      <band id="4">Cory Band</band>
+      <conductor id="305152">Reg Little</conductor>
+    </result>
+    
+    <result id="130848">
+      <result code="3">3</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="130849">
+      <result code="4">4</result>
+      <band id="789">Llanelli Band</band>
+      <conductor id="311014">Cliff Ward</conductor>
+    </result>
+    
+    <result id="304167">
+      <result code="">Unknown Result</result>
+      <band id="3595">Cardiff Corporation Transport</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304169">
+      <result code="">Unknown Result</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304168">
+      <result code="">Unknown Result</result>
+      <band id="10777">Gwaun-cae-Gurwen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304170">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

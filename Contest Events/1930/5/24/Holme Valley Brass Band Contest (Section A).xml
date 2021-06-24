@@ -1,0 +1,100 @@
+<contest-event id="11628">
+  <event-date date="1930-5-24">May 24, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Holme Valley Brass Band Contest (Section A)</name>
+  <contest id="83">
+    <name>Holme Valley Brass Band Contest (Section A)</name>
+    <order>10</order>
+    <contest-type id="3">Hymn &amp; Own Choice Test Piece Contest</contest-type>
+    <group id="119">Holme Valley Brass Band Contest</group>
+    <slug>holme-valley-brass-band-contest-a</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="527">The Merry Wives of Windsor [Keighley]</test-piece>
+  </test-piece>
+
+  <venue id="586">Victoria Park, Holmfirth</venue>
+  <notes>  Prizes - 1st £15 and cup, 2nd £12 and shield, 3rd £9, 4th £6, 5th £3.
+  March contest (Friendship) - 1st(£3) Spenborough Victoria, 2nd(£2) Hinchliffe Mill.
+  10th annual contest.
+  11 bands competed.
+  Source - BBN June 1930</notes>
+
+  <created>April 4, 2012, 9:09 p.m.</created>
+  <last-modified>April 7, 2014, 9:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="94682">
+      <result code="1">1</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="123727">
+      <result code="2">2</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="123728">
+      <result code="3">3</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="304362">Willie Kaye</conductor>
+    </result>
+    
+    <result id="123729">
+      <result code="4">4</result>
+      <band id="1617">Bentley Colliery</band>
+      <conductor id="312007">W. Wormald</conductor>
+    </result>
+    
+    <result id="123730">
+      <result code="5">5</result>
+      <band id="3176">Spenborough Victoria</band>
+      <conductor id="300687">Luther Dyson</conductor>
+    </result>
+    
+    <result id="179744">
+      <result code="">Unknown Result</result>
+      <band id="1650">Cadishead Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179745">
+      <result code="">Unknown Result</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179746">
+      <result code="">Unknown Result</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179747">
+      <result code="">Unknown Result</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179748">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179749">
+      <result code="">Unknown Result</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

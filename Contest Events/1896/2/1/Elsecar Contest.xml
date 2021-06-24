@@ -1,0 +1,93 @@
+<contest-event id="12839">
+  <event-date date="1896-2-1">Feb. 1, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Elsecar Contest</name>
+  <contest id="1796">
+    <name>Elsecar Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>elsecar-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1268">Elsecar, South Yorkshire</venue>
+  <notes>Prizes:  £5 and trombone, £3, £2, £1
+9 bands competed</notes>
+
+  <created>April 26, 2012, 9:33 p.m.</created>
+  <last-modified>June 26, 2019, 9:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="102013">
+      <result code="1">1</result>
+      <band id="18278">Rotherham Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="102014">
+      <result code="2">2</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="102015">
+      <result code="3">3</result>
+      <band id="6797">Mexborough Great Central</band>
+      <conductor id="300245">John Dawson</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="102016">
+      <result code="4">4</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+      <test-piece id="934">Faust [Berlioz, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="102020">
+      <result code="">Unknown Result</result>
+      <band id="5210">Barnsley Model</band>
+      <conductor id="310193">William Taylor</conductor>
+      <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="102019">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="298525">John Brook</conductor>
+    </result>
+    
+    <result id="102018">
+      <result code="">Unknown Result</result>
+      <band id="7078">Jump</band>
+      <conductor id="311104">R. Watkin</conductor>
+      <test-piece id="2589">Alpha</test-piece>
+    </result>
+    
+    <result id="311013">
+      <result code="">Unknown Result</result>
+      <band id="8173">Rothervale</band>
+      <conductor id="308164">Robert Richford</conductor>
+      <test-piece id="1912">Les Huguenots [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="102017">
+      <result code="">Unknown Result</result>
+      <band id="3142">Rawmarsh Prize Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

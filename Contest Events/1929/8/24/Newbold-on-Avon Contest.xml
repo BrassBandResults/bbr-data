@@ -1,0 +1,73 @@
+<contest-event id="24518">
+  <event-date date="1929-8-24">Aug. 24, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newbold-on-Avon Contest</name>
+  <contest id="4696">
+    <name>Newbold-on-Avon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>newbold-on-avon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1021">A Souvenir of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4068">Newbold-on-Avon, Warwickshire</venue>
+  <notes>  Prizes - £8 and cup, 2nd £4, 3rd £2, 4th £1.
+  7 bands competed.</notes>
+
+  <created>Oct. 14, 2013, 11:29 a.m.</created>
+  <last-modified>Aug. 17, 2016, 9:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="179099">
+      <result code="1">1</result>
+      <band id="2604">Griff Colliery</band>
+      <conductor id="303772">Simeon Iliffe</conductor>
+    </result>
+    
+    <result id="179100">
+      <result code="2">2</result>
+      <band id="5915">Coventry Silver</band>
+      <conductor id="309023">Charles Shepherd</conductor>
+    </result>
+    
+    <result id="179101">
+      <result code="3">3</result>
+      <band id="6371">Long Lawford</band>
+      <conductor id="310977">R. Walters</conductor>
+    </result>
+    
+    <result id="179102">
+      <result code="4">4</result>
+      <band id="8933">Northampton Borough Band</band>
+      <conductor id="296988">Charles Albert Anderson</conductor>
+    </result>
+    
+    <result id="179104">
+      <result code="">Unknown Result</result>
+      <band id="4288">Nuneaton Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179103">
+      <result code="">Unknown Result</result>
+      <band id="5911">Rugby Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="179105">
+      <result code="">Unknown Result</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

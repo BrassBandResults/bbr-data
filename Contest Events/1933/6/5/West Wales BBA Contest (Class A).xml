@@ -1,0 +1,66 @@
+<contest-event id="23891">
+  <event-date date="1933-6-5">June 5, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1364">Recollections of Auber</test-piece>
+  </test-piece>
+
+  <venue id="1528">Llandovery, Carmarthenshire, Wales, UK</venue>
+  <notes>  6 bands competed</notes>
+
+  <created>Sept. 16, 2013, 7:21 a.m.</created>
+  <last-modified>April 21, 2018, 6:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="174563">
+      <result code="1">1</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="304287">T. E. Jones</conductor>
+    </result>
+    
+    <result id="174564">
+      <result code="2">2</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="174565">
+      <result code="3">3</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="174567">
+      <result code="">Unknown Result</result>
+      <band id="786">Glynneath Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174566">
+      <result code="">Unknown Result</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="174568">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

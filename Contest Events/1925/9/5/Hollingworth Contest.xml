@@ -1,0 +1,63 @@
+<contest-event id="41176">
+  <event-date date="1925-9-5">Sept. 5, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hollingworth Contest</name>
+  <contest id="1675">
+    <name>Hollingworth Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>hollingworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="6962">Hollingworth, Cheshire</venue>
+  <notes>4th contest promoted by Hollingworth band.
+Prizes - 1st £18 and cup, 2nd £10, 3rd £6, 4th £3.
+March contest - 1st Hade Edge, 2nd Glossop.
+5 bands competed.</notes>
+
+  <created>Nov. 7, 2018, 11:22 a.m.</created>
+  <last-modified>Nov. 7, 2018, 11:26 a.m.</last-modified>
+
+  <results>
+    
+    <result id="299105">
+      <result code="1">1</result>
+      <band id="2517">Farnworth Old</band>
+      <conductor id="318454">James Wright</conductor>
+    </result>
+    
+    <result id="299106">
+      <result code="2">2</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="318654">John Harrison</conductor>
+    </result>
+    
+    <result id="299107">
+      <result code="3">3</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="307569">William Pollard</conductor>
+    </result>
+    
+    <result id="299109">
+      <result code="">Unknown Result</result>
+      <band id="3659">Hugh Stevenson and Sons (Manchester)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299108">
+      <result code="">Unknown Result</result>
+      <band id="207">Stalybridge Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

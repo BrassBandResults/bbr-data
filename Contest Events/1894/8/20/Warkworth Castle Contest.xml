@@ -1,0 +1,51 @@
+<contest-event id="12294">
+  <event-date date="1894-8-20">Aug. 20, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Warkworth Castle Contest</name>
+  <contest id="2420">
+    <name>Warkworth Castle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>warkworth-castle-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1775">Warkworth Castle, Northumberland</venue>
+  <notes>3 bands competed</notes>
+
+  <created>April 11, 2012, 10:06 p.m.</created>
+  <last-modified>June 15, 2019, 9:53 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98491">
+      <result code="1">1</result>
+      <band id="4510">Ashington Model</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="98492">
+      <result code="2">2</result>
+      <band id="4511">Ashington Duke</band>
+      <conductor id="311966">Thomas Woods</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="98493">
+      <result code="3">3</result>
+      <band id="4513">Broomhill</band>
+      <conductor id="301792">T. Gibson</conductor>
+      <test-piece id="2195">Reminiscences of Donizetti [arr. Smith]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

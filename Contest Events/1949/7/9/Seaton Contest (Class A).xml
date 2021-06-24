@@ -1,0 +1,55 @@
+<contest-event id="26343">
+  <event-date date="1949-7-9">July 9, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Seaton Contest (Class A)</name>
+  <contest id="5104">
+    <name>Seaton Contest (Class A)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>seaton-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="3023">Seaton, Cumbria, England, UK</venue>
+  <notes>March contest - 1st Craghead Colliery, 2nd Workington Town.
+4 bands competed.</notes>
+
+  <created>Feb. 12, 2014, 3:36 p.m.</created>
+  <last-modified>Feb. 26, 2019, 10:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190736">
+      <result code="1">1</result>
+      <band id="2619">Barrow-in-Furness Youth Club</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="190737">
+      <result code="2">2</result>
+      <band id="11">Reg Vardy Band</band>
+      <conductor id="309391">Jack Smith</conductor>
+    </result>
+    
+    <result id="190738">
+      <result code="3">3</result>
+      <band id="660">Carlisle St. Stephens Band</band>
+      <conductor id="305330">William Lowes</conductor>
+    </result>
+    
+    <result id="190739">
+      <result code="4">4</result>
+      <band id="1510">Workington</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

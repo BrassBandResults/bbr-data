@@ -1,0 +1,74 @@
+<contest-event id="22814">
+  <event-date date="1900-8-25">Aug. 25, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bulwell Contest</name>
+  <contest id="2286">
+    <name>Bulwell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bulwell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1652">Bulwell, Nottinghamshire</venue>
+  <notes>Prizes - 1st £5, 2nd £3, 3rd £2, 4th £1.
+March contest - 1st Bestwood Colliery, 2nd South Notts Temperance.
+7 bands competed.</notes>
+
+  <created>Aug. 14, 2013, 11:40 a.m.</created>
+  <last-modified>June 16, 2018, 4:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="289800">
+      <result code="1">1</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="289801">
+      <result code="2">2</result>
+      <band id="11888">Bestwood Colliery</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="168434">
+      <result code="3">3</result>
+      <band id="5193">Shepshed Town</band>
+      <conductor id="313099">Edward Hales</conductor>
+    </result>
+    
+    <result id="289797">
+      <result code="4">4</result>
+      <band id="11273">Bagthorpe</band>
+      <conductor id="310870">W. Wagstaff</conductor>
+    </result>
+    
+    <result id="289798">
+      <result code="">Unknown Result</result>
+      <band id="3861">Melbourne Town</band>
+      <conductor id="301235">H. Fieldsend</conductor>
+    </result>
+    
+    <result id="289799">
+      <result code="">Unknown Result</result>
+      <band id="10746">Arnold Albion</band>
+      <conductor id="301043">W. Extall</conductor>
+    </result>
+    
+    <result id="289802">
+      <result code="">Unknown Result</result>
+      <band id="8221">Arnold United</band>
+      <conductor id="310670">William Turner</conductor>
+    </result>
+    
+  </results>
+</contest-event>

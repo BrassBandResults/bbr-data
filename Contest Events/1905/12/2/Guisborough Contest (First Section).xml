@@ -1,0 +1,50 @@
+<contest-event id="10511">
+  <event-date date="1905-12-2">Dec. 2, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Guisborough Contest (First Section)</name>
+  <contest id="2048">
+    <name>Guisborough Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="238">Guisborough Contest</group>
+    <slug>guisborough-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1098">Donizetti [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1474">Guisborough, North Yorkshire</venue>
+  <notes>1st prize shield.
+March contest 1st Guisborough,  2nd Charlton&#39;s Star of Hope.
+3 bands competed.</notes>
+
+  <created>Feb. 20, 2012, 7:19 p.m.</created>
+  <last-modified>Sept. 12, 2018, 12:38 p.m.</last-modified>
+
+  <results>
+    
+    <result id="88343">
+      <result code="1">1</result>
+      <band id="6627">Guisborough Priory</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="88344">
+      <result code="2">2</result>
+      <band id="6629">Brotton Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="88345">
+      <result code="3">3</result>
+      <band id="6628">Charltons Star of Hope</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+  </results>
+</contest-event>

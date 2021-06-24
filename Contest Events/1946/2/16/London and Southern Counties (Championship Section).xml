@@ -1,0 +1,84 @@
+<contest-event id="7523">
+  <event-date date="1946-2-16">Feb. 16, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>London and Southern Counties (Championship Section)</name>
+  <contest id="35">
+    <name>London and Southern Counties (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="15">London and Southern Counties Area</group>
+    <slug>london-and-southern-counties-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="4">London and Southern Counties</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="518">A Downland Suite</test-piece>
+  </test-piece>
+
+  <venue id="2758">Friends Meeting House, Euston Road, Bloomsbury, Camden, Greater London, England, UK</venue>
+  <notes>9 bands competed.</notes>
+
+  <created>Oct. 6, 2011, 12:35 p.m.</created>
+  <last-modified>Feb. 7, 2019, 11:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="67881">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="310647">George Turner</conductor>
+    </result>
+    
+    <result id="67883">
+      <result code="2">2</result>
+      <band id="1686">Enfield Band</band>
+      <conductor id="299061">Edward Sydney Carter</conductor>
+    </result>
+    
+    <result id="67882">
+      <result code="3">3</result>
+      <band id="819">Luton Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="128759">
+      <result code="4">4</result>
+      <band id="622">Watford</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+    <result id="140538">
+      <result code="5">5</result>
+      <band id="423">Northfleet Brass</band>
+      <conductor id="301697">Frederick Lonsdale Garth</conductor>
+    </result>
+    
+    <result id="304049">
+      <result code="">Unknown Result</result>
+      <band id="1539">Denham Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304048">
+      <result code="">Unknown Result</result>
+      <band id="2761">Hammersmith Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304050">
+      <result code="">Unknown Result</result>
+      <band id="598">Horsham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304051">
+      <result code="">Unknown Result</result>
+      <band id="4766">Wood Green Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

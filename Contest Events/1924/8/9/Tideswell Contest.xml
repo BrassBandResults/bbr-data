@@ -1,0 +1,68 @@
+<contest-event id="41044">
+  <event-date date="1924-8-9">Aug. 9, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tideswell Contest</name>
+  <contest id="2676">
+    <name>Tideswell Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tideswell-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="781">Gems of Italian Opera</test-piece>
+  </test-piece>
+
+  <venue id="4463">Alleys Field, Tideswell, Derbyshire, England, UK</venue>
+  <notes>March contest - 1st Biddulph, 2nd Peak Dale, 3rd Hasland.
+Prizes - 1st £15 and shield, 2nd £9, 3rde £4, 4th £2.
+6 bands competed.</notes>
+
+  <created>Oct. 30, 2018, 9:08 a.m.</created>
+  <last-modified>Oct. 30, 2018, 9:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="298040">
+      <result code="1">1</result>
+      <band id="3605">Hasland</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="298041">
+      <result code="2">2</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="318654">John Harrison</conductor>
+    </result>
+    
+    <result id="298042">
+      <result code="3">3</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="313297">J. W. Hughes</conductor>
+    </result>
+    
+    <result id="298043">
+      <result code="4">4</result>
+      <band id="4852">Peak Dale Colliery</band>
+      <conductor id="302436">Percy Hallam</conductor>
+    </result>
+    
+    <result id="298044">
+      <result code="">Unknown Result</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298045">
+      <result code="">Unknown Result</result>
+      <band id="2491">Huthwaite Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

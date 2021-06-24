@@ -1,0 +1,74 @@
+<contest-event id="24977">
+  <event-date date="1925-7-18">July 18, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bacup Contest</name>
+  <contest id="2203">
+    <name>Bacup Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bacup-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="1598">Bacup, Lancashire, England, UK</venue>
+  <notes>  March contest(British Legion) - 1st Goodshaw, 2nd Oldham Rifles.
+  Promoted by Irwell Springs Band.
+  7 bands competed.</notes>
+
+  <created>Nov. 6, 2013, 3:56 p.m.</created>
+  <last-modified>Nov. 6, 2018, 9:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="182015">
+      <result code="1">1</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182016">
+      <result code="2">2</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182017">
+      <result code="3">3</result>
+      <band id="2757">Milnrow Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182018">
+      <result code="4">4</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182019">
+      <result code="5">5</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182020">
+      <result code="">Unknown Result</result>
+      <band id="4600">Church and Oswaldtwistle</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182021">
+      <result code="">Unknown Result</result>
+      <band id="1436">Lee Mount</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

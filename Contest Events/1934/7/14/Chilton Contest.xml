@@ -1,0 +1,54 @@
+<contest-event id="25005">
+  <event-date date="1934-7-14">July 14, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chilton Contest</name>
+  <contest id="4873">
+    <name>Chilton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chilton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="892">Echoes of Spring</test-piece>
+  </test-piece>
+
+  <venue id="4219">Chilton, County Durham</venue>
+  <notes>Prizes - 1st £7, 2nd £5, 3rd £1,</notes>
+
+  <created>Nov. 8, 2013, 10:26 a.m.</created>
+  <last-modified>Jan. 31, 2014, 9:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="182170">
+      <result code="1">1</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="303853">Harry Jackson</conductor>
+    </result>
+    
+    <result id="182171">
+      <result code="2">2</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="182172">
+      <result code="3">3</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="303593">John Hughes</conductor>
+    </result>
+    
+    <result id="182173">
+      <result code="4">4</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="309106">C. Shutt</conductor>
+    </result>
+    
+  </results>
+</contest-event>

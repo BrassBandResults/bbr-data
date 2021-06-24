@@ -1,0 +1,57 @@
+<contest-event id="12991">
+  <event-date date="1896-7-9">July 9, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Boston Contest</name>
+  <contest id="1179">
+    <name>Boston Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="271">Boston Contest</group>
+    <slug>boston-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1302">Boston, Lincolnshire, England, UK</venue>
+  <notes>Prizes: £15, £6, £2
+Uniform prize: Kettering
+4 bands competed</notes>
+
+  <created>April 29, 2012, 3:57 p.m.</created>
+  <last-modified>July 1, 2019, 6:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="103498">
+      <result code="1">1</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="103499">
+      <result code="2">2</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="308877">Thomas Seddon</conductor>
+    </result>
+    
+    <result id="103500">
+      <result code="3">3</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="103501">
+      <result code="">Unknown Result</result>
+      <band id="8217">1st Lincs Artillery Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="4723">Lincolnshire Posy</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

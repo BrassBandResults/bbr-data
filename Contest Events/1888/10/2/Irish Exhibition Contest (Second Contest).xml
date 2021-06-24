@@ -1,0 +1,68 @@
+<contest-event id="9257">
+  <event-date date="1888-10-2">Oct. 2, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Irish Exhibition Contest (Second Contest)</name>
+  <contest id="1656">
+    <name>Irish Exhibition Contest (Second Contest)</name>
+    <order>20</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="246">Irish Exhibition Contest</group>
+    <slug>irish-exhibition-contest-second-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1506">Joan of Arc [Round]</test-piece>
+  </test-piece>
+
+  <venue id="1151">Olympia, West Kensington, Hammersmith and Fulham, Greater London, England, UK</venue>
+  <notes>See
+http://www.ibew.org.uk/misc17.htm
+http://www.studygroup.org.uk/Archives/25/1888%20IRISH%20EXHIBITION%20OLYMPIA.htm
+
+&quot;In 1888 a competition was held at the Irish Exhibition, at which the prizes were awarded thus - First day - first prize, Wyke Old Brass Band, conducted by Mr. J. Gladney; second prize, Leeds Forge Band, Mr. E. Swift; third prize, Wyke Temperance Band, Mr. E. Swift. Second day - first prize, Staleybridge Borough Band, Mr. A. Owen; Linthwaite Band; Mr. J. S. Jones; Rushden Temperance Silver Prize Band, Mr. G. F. Birkinshaw.&quot;
+15 bands entered this second contest. 
+The band to which the first prize has been awarded will perform in the Exhibition every day and evening until the end of the week.
+Prizes - 1st £55, 2nd £20.
+</notes>
+
+  <created>Dec. 29, 2011, 5:14 p.m.</created>
+  <last-modified>May 19, 2019, 10:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="80110">
+      <result code="1">1</result>
+      <band id="3583">Stalybridge Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="80112">
+      <result code="2">2</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="133801">
+      <result code="3">3</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+    </result>
+    
+    <result id="80111">
+      <result code="">Unknown Result</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="304229">J. Sidney Jones</conductor>
+    </result>
+    
+    <result id="308619">
+      <result code="">Unknown Result</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

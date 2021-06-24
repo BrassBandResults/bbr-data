@@ -1,0 +1,56 @@
+<contest-event id="35421">
+  <event-date date="1948-6-26">June 26, 1948<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ruardean Contest (Open Section)</name>
+  <contest id="4918">
+    <name>Ruardean Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ruardean-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1093">Cosi Fan Tutte [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1644">Ruardean, Gloucestershire</venue>
+  <notes>March contest - 1st Lydney, 2nd Snibston, 3rd Cory, 4th Drybrook.
+Prizes - 1st £50, 2nd £25, 3rd £10.
+7 bands competed.</notes>
+
+  <created>May 26, 2016, 11:45 a.m.</created>
+  <last-modified>Feb. 18, 2019, 4:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="255780">
+      <result code="1">1</result>
+      <band id="4">Cory Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255781">
+      <result code="2">2</result>
+      <band id="274">William Davis Construction Group Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255782">
+      <result code="3">3</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="255783">
+      <result code="4">4</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,98 @@
+<contest-event id="17852">
+  <event-date date="1890-5-10">May 10, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Elland Contest</name>
+  <contest id="1420">
+    <name>Elland Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>elland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2315">Nil Desperandum</test-piece>
+  </test-piece>
+
+  <venue id="4359">Elland Upper Edge</venue>
+  <notes>Prizes: £21, £10 10s, £6, £3, £1
+Quickstep: 1. Dewsbury Old, 2. Cornholme.
+11 bands entered, 10 competed.</notes>
+
+  <created>Feb. 2, 2013, 10:35 p.m.</created>
+  <last-modified>Nov. 15, 2017, 9:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135047">
+      <result code="1">1</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="135048">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="135049">
+      <result code="3">3</result>
+      <band id="5001">Oats Royd Mills</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="135050">
+      <result code="4">4</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="135051">
+      <result code="5">5</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="281945">
+      <result code="">Unknown Result</result>
+      <band id="3378">Batley Victoria Temperance</band>
+      <conductor id="303866">Joseph Jackson</conductor>
+    </result>
+    
+    <result id="135052">
+      <result code="">Unknown Result</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310200">H. Teale</conductor>
+    </result>
+    
+    <result id="135053">
+      <result code="">Unknown Result</result>
+      <band id="3543">Cornholme</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="281946">
+      <result code="">Unknown Result</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="281947">
+      <result code="">Unknown Result</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="281948">
+      <result code="W">Withdrawn</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

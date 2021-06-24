@@ -1,0 +1,48 @@
+<contest-event id="24223">
+  <event-date date="1910-7-23">July 23, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ouston Contest</name>
+  <contest id="4705">
+    <name>Ouston Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ouston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4081">Ouston, County Durham, England, UK</venue>
+  <notes>March: 1. Birtley St Joseph&#39;s, 2. Hetton</notes>
+
+  <created>Oct. 2, 2013, 5:59 p.m.</created>
+  <last-modified>Oct. 2, 2013, 6:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="176718">
+      <result code="1">1</result>
+      <band id="4504">Birtley Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176719">
+      <result code="2">2</result>
+      <band id="1704">Birtley St. Joseph</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="176720">
+      <result code="3">3</result>
+      <band id="662">Hetton Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

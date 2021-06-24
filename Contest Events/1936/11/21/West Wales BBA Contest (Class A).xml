@@ -1,0 +1,66 @@
+<contest-event id="41676">
+  <event-date date="1936-11-21">Nov. 21, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class A)</name>
+  <contest id="4006">
+    <name>West Wales BBA Contest (Class A)</name>
+    <order>210</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1520">Il Pirata [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2587">Penygroes, Llanelli, Carmarthenshire</venue>
+  <notes>6 bands competed</notes>
+
+  <created>Jan. 16, 2019, 10:57 a.m.</created>
+  <last-modified>Jan. 16, 2019, 11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="303454">
+      <result code="1">1</result>
+      <band id="8673">Emlyn Collieries</band>
+      <conductor id="311604">David Williams</conductor>
+    </result>
+    
+    <result id="303455">
+      <result code="2">2</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="311424">Thomas Charles White</conductor>
+    </result>
+    
+    <result id="303456">
+      <result code="3">3</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="303458">
+      <result code="">Unknown Result</result>
+      <band id="455">Ammanford Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303459">
+      <result code="">Unknown Result</result>
+      <band id="8405">Cwmavon</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303457">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

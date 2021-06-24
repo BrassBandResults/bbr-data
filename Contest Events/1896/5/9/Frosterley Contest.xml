@@ -1,0 +1,77 @@
+<contest-event id="12921">
+  <event-date date="1896-5-9">May 9, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Frosterley Contest</name>
+  <contest id="2067">
+    <name>Frosterley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>frosterley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3399">Rogerley Park, Frosterley</venue>
+  <notes>Cornet medal: J. Paley, Black Dyke
+Euphonium medal: S. Newton, Black Dyke
+Horn medal: T. Page, West Hartlepool
+
+7 bands competed</notes>
+
+  <created>April 29, 2012, 10:31 a.m.</created>
+  <last-modified>June 28, 2019, 6:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102724">
+      <result code="1">1</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="102725">
+      <result code="2">2</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="102726">
+      <result code="3">3</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="102727">
+      <result code="4">4</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="304493">E. Keskeys</conductor>
+    </result>
+    
+    <result id="102728">
+      <result code="5">5</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2778">Meyerbeer [arr. Round]</test-piece>
+    </result>
+    
+    <result id="261611">
+      <result code="">Unknown Result</result>
+      <band id="6688">Frosterley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="149781">
+      <result code="">Unknown Result</result>
+      <band id="6096">Thornaby Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

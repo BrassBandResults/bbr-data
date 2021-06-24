@@ -1,0 +1,55 @@
+<contest-event id="40191">
+  <event-date date="1946-4-22">April 22, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade)</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="337">Ipswich, Queensland, Australia</venue>
+  <notes>Two Test Selections:
+No.1 Berlioz
+No.2 Haydn
+
+No.2 Test  points listed under Own Choice
+
+1940 to 1945 contests suspended because of W W 2
+For this contest entries were low but considered   acceptable under the circumstances</notes>
+
+  <created>Aug. 27, 2018, 6:06 a.m.</created>
+  <last-modified>May 24, 2021, 1:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="292166">
+      <result code="1">1</result>
+      <band id="6434">Maryborough Brass [Queensland]</band>
+      <conductor id="304131">Frank Johnston</conductor>
+    </result>
+    
+    <result id="292167">
+      <result code="2">2</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="299574">Jim Compton</conductor>
+    </result>
+    
+    <result id="292168">
+      <result code="3">3</result>
+      <band id="1315">South Brisbane Federal Band</band>
+      <conductor id="302087">Lou Gray</conductor>
+    </result>
+    
+  </results>
+</contest-event>

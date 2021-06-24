@@ -1,0 +1,55 @@
+<contest-event id="36806">
+  <event-date date="1934-6-23">June 23, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Southern Counties Association Contest (3rd Section)</name>
+  <contest id="3167">
+    <name>Southern Counties Association Contest (3rd Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="463">Southern Counties Association Contest</group>
+    <slug>southern-counties-association-contest-3rd-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3113">Haywards Heath, West Sussex, England, UK</venue>
+  <notes>March contest - 1st Oxted, 2nd Islington.
+4 bands competed.</notes>
+
+  <created>Jan. 7, 2017, 11:03 a.m.</created>
+  <last-modified>Jan. 7, 2017, 11:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="266899">
+      <result code="1">1</result>
+      <band id="1044">Oxted</band>
+      <conductor id="309499">F. R. Snow</conductor>
+    </result>
+    
+    <result id="266901">
+      <result code="2">2</result>
+      <band id="11581">Islington Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266903">
+      <result code="">Unknown Result</result>
+      <band id="11397">Capel Village</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266902">
+      <result code="">Unknown Result</result>
+      <band id="11109">Kingswood and District [Surrey]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

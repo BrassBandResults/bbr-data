@@ -1,0 +1,63 @@
+<contest-event id="35801">
+  <event-date date="1933-1-27">Jan. 27, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (A Grade)</name>
+  <contest id="565">
+    <name>NSW State Championships (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>MUSIC  2 own choice selections
+No.1 Own Choice  points listed under Test
+DISQUALIFIED  ;   Hamilton Citizens  and the 55th Battalion  bands 
+  for failing to participate in the massed bands and marching display on the Sunday 29th at the conclusion of the contest
+Prior to the contest Hamilton Band had made  a formal application for exemption from the march on the grounds of financial hardship but was rejected .  
+A band representative said he they been warned that they would be  disqualified for not participating in the march they would have had no alternative but for the band to withdraw from the contest.</notes>
+
+  <created>July 31, 2016, 2:02 a.m.</created>
+  <last-modified>Jan. 1, 2021, 3:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259888">
+      <result code="1">1</result>
+      <band id="9373">St. John Ambulance Brigade Band (District of NSW)</band>
+      <conductor id="297320">Albert Baile</conductor>
+      <test-piece id="6475">94th Psalm   /  Tristan &amp; Isolde   (arr Owens)</test-piece>
+    </result>
+    
+    <result id="259889">
+      <result code="2">2</result>
+      <band id="13045">Leichhardt Municipal</band>
+      <conductor id="315269">S. R. Phillips</conductor>
+      <test-piece id="6476">Life Devine   /   Beethoven   (arr Owens)</test-piece>
+    </result>
+    
+    <result id="259890">
+      <result code="D">Disqualified</result>
+      <band id="13028">Hamilton Citizens</band>
+      <conductor id="304416">James Kelly</conductor>
+      <test-piece id="6473">The Ring (arr Kelly)  /   Slavische Phantasy</test-piece>
+    </result>
+    
+    <result id="259891">
+      <result code="D">Disqualified</result>
+      <band id="13038">55th Battalion</band>
+      <conductor id="299776">Charles Coughlan</conductor>
+      <test-piece id="6474">Scheherazade    /   Liszt</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="26190">
+  <event-date date="1939-6-24">June 24, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Amesbury Contest (Section B)</name>
+  <contest id="4902">
+    <name>Amesbury Contest (Section B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="496">Amesbury Contest</group>
+    <slug>amesbury-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1370">Beethoven&#39;s Works [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4175">Amesbury, Wiltshire, England, UK</venue>
+  <notes>
+  March contest - 1st Woodfalls Juniors.</notes>
+
+  <created>Jan. 29, 2014, 2:20 p.m.</created>
+  <last-modified>Jan. 30, 2014, 2:41 p.m.</last-modified>
+
+  <results>
+    
+    <result id="189655">
+      <result code="1">1</result>
+      <band id="2072">Kennet Vale Brass</band>
+      <conductor id="309608">Fred Sprules</conductor>
+    </result>
+    
+    <result id="189656">
+      <result code="2">2</result>
+      <band id="350">Hungerford Town Band</band>
+      <conductor id="304997">Jack Lennon</conductor>
+    </result>
+    
+    <result id="189657">
+      <result code="">Unknown Result</result>
+      <band id="362">Verwood Concert Brass</band>
+      <conductor id="309575">T. W. Spencer</conductor>
+    </result>
+    
+    <result id="189658">
+      <result code="">Unknown Result</result>
+      <band id="11792">Woodfalls Juniors</band>
+      <conductor id="306492">Arthur Muddiman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

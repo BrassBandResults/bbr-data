@@ -1,0 +1,43 @@
+<contest-event id="40947">
+  <event-date date="1924-1-1">Jan. 1, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest</name>
+  <contest id="1076">
+    <name>Colwyn Bay Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2823">Woodland Revels</test-piece>
+  </test-piece>
+
+  <venue id="1251">Colwyn Bay, Conwy, Wales, UK</venue>
+  <notes>March contest - 1st Brymbo, 2nd Aigburth.
+ 2 bands competed.</notes>
+
+  <created>Oct. 25, 2018, 3:44 p.m.</created>
+  <last-modified>Oct. 25, 2018, 3:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="297305">
+      <result code="1">1</result>
+      <band id="17241">Brymbo C.T.E.S.</band>
+      <conductor id="308409">Fred Rogan</conductor>
+    </result>
+    
+    <result id="297306">
+      <result code="2">2</result>
+      <band id="6762">Aigburth Subscription</band>
+      <conductor id="311056">Henry Wareing</conductor>
+    </result>
+    
+  </results>
+</contest-event>

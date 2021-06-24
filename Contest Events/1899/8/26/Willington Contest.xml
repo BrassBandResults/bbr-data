@@ -1,0 +1,86 @@
+<contest-event id="12642">
+  <event-date date="1899-8-26">Aug. 26, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Willington Contest</name>
+  <contest id="2531">
+    <name>Willington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>willington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1317">Ireland</test-piece>
+  </test-piece>
+
+  <venue id="3758">West End Grounds, Willington</venue>
+  <notes>  1st prize £10.
+  2nd prize £6.
+  3rd prize £3.
+  4th prize £1.
+
+  March contest  1st (£1) Murton Colliery,  2nd  (10s) Willington Silver
+
+  8 bands competed.
+  </notes>
+
+  <created>April 18, 2012, 5 p.m.</created>
+  <last-modified>Aug. 9, 2013, 9:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100781">
+      <result code="1">1</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="301972">Bryce Gordon</conductor>
+    </result>
+    
+    <result id="100774">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="100775">
+      <result code="3">3</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310795">Edward Vest</conductor>
+    </result>
+    
+    <result id="100776">
+      <result code="4">4</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="311154">William Watson</conductor>
+    </result>
+    
+    <result id="100778">
+      <result code="">Unknown Result</result>
+      <band id="5388">Chester-le-Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100777">
+      <result code="">Unknown Result</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100779">
+      <result code="">Unknown Result</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100780">
+      <result code="">Unknown Result</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

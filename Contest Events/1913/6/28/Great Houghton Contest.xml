@@ -1,0 +1,55 @@
+<contest-event id="26835">
+  <event-date date="1913-6-28">June 28, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Great Houghton Contest</name>
+  <contest id="5161">
+    <name>Great Houghton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>great-houghton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2530">Red Poppies</test-piece>
+  </test-piece>
+
+  <venue id="4560">Old Hall, Great Houghton, South Yorkshire</venue>
+  <notes>March: 1. Skelmanthorpe, 2. Royston
+</notes>
+
+  <created>April 2, 2014, 12:35 p.m.</created>
+  <last-modified>March 25, 2020, 3:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="194116">
+      <result code="1">1</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194117">
+      <result code="2">2</result>
+      <band id="3564">Wombwell Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194118">
+      <result code="3">3</result>
+      <band id="133">Horbury Victoria Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="194119">
+      <result code="4">4</result>
+      <band id="18364">Royston Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

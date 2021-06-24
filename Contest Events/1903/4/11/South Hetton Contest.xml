@@ -1,0 +1,71 @@
+<contest-event id="21768">
+  <event-date date="1903-4-11">April 11, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Hetton Contest</name>
+  <contest id="2552">
+    <name>South Hetton Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-hetton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3883">Hetton Hall, Hetton, County Durham</venue>
+  <notes>Promoted by Hetton-le-Hole Colliery Brass Band
+
+20 bands competed - open to those that had not won a prize of over £8 in 1902
+
+Choice of test pieces: &quot;Scottish Memories&quot; or &quot;Il Seraglio&quot;
+</notes>
+
+  <created>June 10, 2013, 7:24 a.m.</created>
+  <last-modified>Aug. 22, 2013, 9:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="161707">
+      <result code="1">1</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="301971">Ben Gordon</conductor>
+    </result>
+    
+    <result id="161708">
+      <result code="2">2</result>
+      <band id="7013">Heworth Colliery Band</band>
+      <conductor id="318025">W. Heap</conductor>
+    </result>
+    
+    <result id="161709">
+      <result code="3">3</result>
+      <band id="309">Felling Band</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="161710">
+      <result code="3">3</result>
+      <band id="6924">South Shields Garibaldi</band>
+      <conductor id="308917">W. Sewell</conductor>
+    </result>
+    
+    <result id="161711">
+      <result code="5">5</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="311154">William Watson</conductor>
+    </result>
+    
+    <result id="170812">
+      <result code="">Unknown Result</result>
+      <band id="4506">Wingate Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

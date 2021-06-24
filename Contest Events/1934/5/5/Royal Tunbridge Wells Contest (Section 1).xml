@@ -1,0 +1,66 @@
+<contest-event id="36761">
+  <event-date date="1934-5-5">May 5, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 1)</name>
+  <contest id="1043">
+    <name>Royal Tunbridge Wells Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2566">Rienzi [arr. Ord Hume]</test-piece>
+  </test-piece>
+
+  <venue id="2759">Tunbridge Wells, Kent</venue>
+  <notes>6 bands competed</notes>
+
+  <created>Jan. 1, 2017, 12:44 p.m.</created>
+  <last-modified>Jan. 2, 2017, 11:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="266581">
+      <result code="1">1</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="309491">F. Snelling</conductor>
+    </result>
+    
+    <result id="266582">
+      <result code="2">2</result>
+      <band id="4802">Caterham</band>
+      <conductor id="309499">F. R. Snow</conductor>
+    </result>
+    
+    <result id="266587">
+      <result code="3">3</result>
+      <band id="5438">City of Canterbury</band>
+      <conductor id="302474">J. R. Hamblin</conductor>
+    </result>
+    
+    <result id="266584">
+      <result code="">Unknown Result</result>
+      <band id="328">Epsom &amp; Ewell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266585">
+      <result code="">Unknown Result</result>
+      <band id="4659">Haywards Heath Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="266586">
+      <result code="">Unknown Result</result>
+      <band id="3954">Hooe Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

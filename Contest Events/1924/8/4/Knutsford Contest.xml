@@ -1,0 +1,50 @@
+<contest-event id="41041">
+  <event-date date="1924-8-4">Aug. 4, 1924<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Knutsford Contest</name>
+  <contest id="1252">
+    <name>Knutsford Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>knutsford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="781">Gems of Italian Opera</test-piece>
+  </test-piece>
+
+  <venue id="6972">Knutsford, Cheshire</venue>
+  <notes>March contest - 1st Penketh, 2nd Manchester United.
+Prizes - 1st £20 and cup, 2nd £10, 3rd £5.
+3 bands competed.</notes>
+
+  <created>Oct. 30, 2018, 7:56 a.m.</created>
+  <last-modified>Oct. 30, 2018, 7:59 a.m.</last-modified>
+
+  <results>
+    
+    <result id="298026">
+      <result code="1">1</result>
+      <band id="11422">Manchester United</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="298027">
+      <result code="2">2</result>
+      <band id="1659">Penketh Tannery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="298028">
+      <result code="3">3</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="313297">J. W. Hughes</conductor>
+    </result>
+    
+  </results>
+</contest-event>

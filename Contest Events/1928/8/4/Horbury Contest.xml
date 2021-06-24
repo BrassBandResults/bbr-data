@@ -1,0 +1,66 @@
+<contest-event id="24159">
+  <event-date date="1928-8-4">Aug. 4, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Horbury Contest</name>
+  <contest id="1339">
+    <name>Horbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>horbury-own-choice-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="4064">Horbury, Wakefield, Yorkshire</venue>
+  <notes>  March contest - 1st Hickleton Main, 2nd Lee Moor.
+  5 bands competed.</notes>
+
+  <created>Sept. 30, 2013, 11:40 a.m.</created>
+  <last-modified>Sept. 30, 2013, 11:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176227">
+      <result code="1">1</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">Thomas Hunter</conductor>
+      <test-piece id="2446">Tchaikovsky [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="176228">
+      <result code="2">2</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="300715">J. J. Eastwood</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="176229">
+      <result code="3">3</result>
+      <band id="4594">Lee Moor and Stanley</band>
+      <conductor id="303285">Percy Holgate</conductor>
+      <test-piece id="962">L&#39;Ebreo [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="176230">
+      <result code="4">4</result>
+      <band id="4889">Gawthorpe Victoria Band</band>
+      <conductor id="304432">George Kemp</conductor>
+      <test-piece id="1630">Il Trovatore - Fantasia [arr. Round]</test-piece>
+    </result>
+    
+    <result id="176231">
+      <result code="5">5</result>
+      <band id="263">Grange Moor Brass Band</band>
+      <conductor id="304095">J. H. Johnson</conductor>
+      <test-piece id="1659">Mirella - overture [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

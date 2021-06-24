@@ -1,0 +1,73 @@
+<contest-event id="41726">
+  <event-date date="1943-5-29">May 29, 1943<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glasgow Charities Contest</name>
+  <contest id="680">
+    <name>Glasgow Charities Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>glasgow-charities-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3108">Kelvingrove Park, Glasgow</venue>
+  <notes>5 bands competed.
+</notes>
+
+  <created>Jan. 31, 2019, 11:25 a.m.</created>
+  <last-modified>Dec. 18, 2020, noon</last-modified>
+
+  <results>
+    
+    <result id="303823">
+      <result code="1">1</result>
+      <band id="23">Cooperation Band</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="303824">
+      <result code="2">2</result>
+      <band id="1697">Parkhead Forge (Glasgow)</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="303825">
+      <result code="3">3</result>
+      <band id="665">Clydebank Burgh Band</band>
+      <conductor id="310210">Charles Telfer</conductor>
+    </result>
+    
+    <result id="303826">
+      <result code="4">4</result>
+      <band id="4129">Wellesley Colliery Band</band>
+      <conductor id="307331">William Pegg</conductor>
+    </result>
+    
+    <result id="303832">
+      <result code="5">5</result>
+      <band id="5491">Douglas Colliery</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="303830">
+      <result code="W">Withdrawn</result>
+      <band id="2720">Bowhill Colliery and District Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303831">
+      <result code="W">Withdrawn</result>
+      <band id="1270">Newmains</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

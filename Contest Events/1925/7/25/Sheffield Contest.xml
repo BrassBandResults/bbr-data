@@ -1,0 +1,96 @@
+<contest-event id="24982">
+  <event-date date="1925-7-25">July 25, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Contest</name>
+  <contest id="1214">
+    <name>Sheffield Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>sheffield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="7038">Weston Park, Sheffield, Yorkshire</venue>
+  <notes>  March contest - 1st Sheffield Health Dept., 2nd Dove Holes, 3rd Langwith.
+  10 bands competed.</notes>
+
+  <created>Nov. 6, 2013, 4:39 p.m.</created>
+  <last-modified>June 14, 2020, 11:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="182065">
+      <result code="1">1</result>
+      <band id="1655">Dove Holes Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+      <test-piece id="891">Echoes of the Opera</test-piece>
+    </result>
+    
+    <result id="182066">
+      <result code="2">2</result>
+      <band id="3267">Stocksbridge Old Prize</band>
+      <conductor id="297304">John Bacon</conductor>
+      <test-piece id="927">Giralda [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="182067">
+      <result code="3">3</result>
+      <band id="1906">Killamarsh Silver Band</band>
+      <conductor id="298779">George Burnham</conductor>
+      <test-piece id="891">Echoes of the Opera</test-piece>
+    </result>
+    
+    <result id="182068">
+      <result code="4">4</result>
+      <band id="4421">Sheffield Corporation Health Dept</band>
+      <conductor id="298229">Albert Bottom</conductor>
+      <test-piece id="1334">Robert il Diavolo [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="182069">
+      <result code="5">5</result>
+      <band id="8554">Langwith Colliery Junior</band>
+      <conductor id="302802">George Hawkins</conductor>
+      <test-piece id="891">Echoes of the Opera</test-piece>
+    </result>
+    
+    <result id="182070">
+      <result code="">Unknown Result</result>
+      <band id="11622">Craven&#39;s Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182072">
+      <result code="">Unknown Result</result>
+      <band id="11454">L.M. &amp; S.Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182071">
+      <result code="">Unknown Result</result>
+      <band id="3485">Loxley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182074">
+      <result code="">Unknown Result</result>
+      <band id="945">Thurcroft Training Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182073">
+      <result code="">Unknown Result</result>
+      <band id="37">Unite the Union (City of Sheffield)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

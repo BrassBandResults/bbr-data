@@ -1,0 +1,57 @@
+<contest-event id="25361">
+  <event-date date="1913-8-5">Aug. 5, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lydney Contest</name>
+  <contest id="2491">
+    <name>Lydney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lydney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2802">Songs of Sentiment</test-piece>
+  </test-piece>
+
+  <venue id="4274">Redhill Park, Lydney, Gloucestershire</venue>
+  <notes>Promoted by Lydney Town Band
+March: 1. Aber Valley
+Prizes: £15, £7, £4.
+4 bands competed</notes>
+
+  <created>Nov. 29, 2013, 9:55 p.m.</created>
+  <last-modified>Oct. 1, 2018, 2:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184478">
+      <result code="1">1</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="184480">
+      <result code="2">2</result>
+      <band id="4735">3rd Battalion Monmouth</band>
+      <conductor id="297821">Henry Bentley</conductor>
+    </result>
+    
+    <result id="184479">
+      <result code="">Unknown Result</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="184481">
+      <result code="">Unknown Result</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="304226">J. L. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

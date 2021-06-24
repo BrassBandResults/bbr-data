@@ -1,0 +1,55 @@
+<contest-event id="36567">
+  <event-date date="1891-8-18">Aug. 18, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Biddulph Contest</name>
+  <contest id="6058">
+    <name>Biddulph Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>biddulph-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2320">Nonpareil</test-piece>
+  </test-piece>
+
+  <venue id="6342">Biddulph, Staffordshire</venue>
+  <notes>Prizes - 1st £18, 2nd £10, 3rd £5.
+4 bands competed.</notes>
+
+  <created>Nov. 22, 2016, 1:59 p.m.</created>
+  <last-modified>Feb. 2, 2018, 11:27 a.m.</last-modified>
+
+  <results>
+    
+    <result id="264813">
+      <result code="1">1</result>
+      <band id="3526">Hanley Town</band>
+      <conductor id="310639">George Turner</conductor>
+    </result>
+    
+    <result id="264814">
+      <result code="2">2</result>
+      <band id="1798">Kidsgrove Excelsior</band>
+      <conductor id="299235">Jack Charlesworth</conductor>
+    </result>
+    
+    <result id="264815">
+      <result code="3">3</result>
+      <band id="7585">Hanley Amateurs</band>
+      <conductor id="310670">William Turner</conductor>
+    </result>
+    
+    <result id="264816">
+      <result code="4">4</result>
+      <band id="7594">Woodcock Wells</band>
+      <conductor id="309536">Richard Sourbutts</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="26341">
+  <event-date date="1949-7-16">July 16, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wellington Contest (Local Section)</name>
+  <contest id="5102">
+    <name>Wellington Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wellington-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="422">Pride of the Forest</test-piece>
+  </test-piece>
+
+  <venue id="4900">Orleton Park, Wellington, Shropshire</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £5, 3rd £3.
+4 bands compoeted</notes>
+
+  <created>Feb. 12, 2014, 3:24 p.m.</created>
+  <last-modified>Feb. 28, 2019, 11:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="190730">
+      <result code="1">1</result>
+      <band id="2984">Donnington Wood Silver</band>
+      <conductor id="311678">W. Williams</conductor>
+    </result>
+    
+    <result id="305005">
+      <result code="2">2</result>
+      <band id="4237">Telford Band</band>
+      <conductor id="305124">Tom Lineton</conductor>
+    </result>
+    
+    <result id="305006">
+      <result code="3">3</result>
+      <band id="3216">Oswestry Borough</band>
+      <conductor id="310299">R. J. G Thomas</conductor>
+    </result>
+    
+    <result id="305007">
+      <result code="4">4</result>
+      <band id="9881">Madeley Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

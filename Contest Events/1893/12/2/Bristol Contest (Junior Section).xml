@@ -1,0 +1,43 @@
+<contest-event id="11953">
+  <event-date date="1893-12-2">Dec. 2, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bristol Contest (Junior Section)</name>
+  <contest id="2434">
+    <name>Bristol Contest (Junior Section)</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>bristol-contest-junior-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1481">War March of the Priests (Athalie) [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="388">Bristol, Bristol County, England, UK</venue>
+  <notes>2 bands competed
+Prizes: £10, £5 5s</notes>
+
+  <created>April 8, 2012, 3:32 p.m.</created>
+  <last-modified>March 13, 2013, 1:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="96209">
+      <result code="1">1</result>
+      <band id="7612">Bristol Training Ship Formidable</band>
+      <conductor id="309614">L. R. Squire</conductor>
+    </result>
+    
+    <result id="96210">
+      <result code="2">2</result>
+      <band id="7235">Clifton Industrial School</band>
+      <conductor id="311514">J. B. Wightman</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,64 @@
+<contest-event id="22775">
+  <event-date date="1900-7-28">July 28, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Deighton Contest</name>
+  <contest id="4472">
+    <name>Deighton Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>deighton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3797">Deighton, Huddersfield</venue>
+  <notes>Deighton Infirmary Demonstration
+
+Prizes: £10, £6, £3, £1 10s
+
+</notes>
+
+  <created>Aug. 13, 2013, 5:41 p.m.</created>
+  <last-modified>April 6, 2020, 8:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="317145">
+      <result code="1">1</result>
+      <band id="709">Hinchliffe Mill Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="317146">
+      <result code="2">2</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="317147">
+      <result code="3">3</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="317163">
+      <result code="4">4</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="317164">
+      <result code="4">4</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,54 @@
+<contest-event id="26711">
+  <event-date date="1901-11-9">Nov. 9, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Guisborough Contest</name>
+  <contest id="1554">
+    <name>Guisborough Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="238">Guisborough Contest</group>
+    <slug>guisbrough-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2589">Alpha</test-piece>
+  </test-piece>
+
+  <venue id="1474">Guisborough, North Yorkshire</venue>
+  <notes>March: 1. Charlton, 2. Brotton</notes>
+
+  <created>March 25, 2014, 8:47 p.m.</created>
+  <last-modified>March 25, 2014, 8:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193552">
+      <result code="1">1</result>
+      <band id="6628">Charltons Star of Hope</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193553">
+      <result code="2">2</result>
+      <band id="6008">Brotton Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193555">
+      <result code="3">3</result>
+      <band id="6028">Loftus</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="193554">
+      <result code="3">3</result>
+      <band id="10707">Skinningrove Iron &amp; Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

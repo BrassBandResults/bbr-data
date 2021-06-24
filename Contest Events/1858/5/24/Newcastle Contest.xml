@@ -1,0 +1,131 @@
+<contest-event id="9398">
+  <event-date date="1858-5-24">May 24, 1858<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Contest</name>
+  <contest id="1046">
+    <name>Newcastle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="160">Newcastle upon Tyne Contest</group>
+    <slug>newcastle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1608">Venetian Waltz</test-piece>
+  </test-piece>
+
+  <venue id="997">Northumberland Cricket Ground, Newcastle</venue>
+  <notes>Source:
+The Newcastle Courant etc (Newcastle-upon-Tyne, England), Friday, May 28, 1858; Issue 9570.
+
+The prizes were for the best, £10; second, £6; third, £3; and fourth, £1. </notes>
+
+  <created>Jan. 5, 2012, 10:40 p.m.</created>
+  <last-modified>Feb. 9, 2012, 11:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="80788">
+      <result code="1">1</result>
+      <band id="4964">Royal Wear Yacht Club (Sunderland)</band>
+      <conductor id="312189">Robert de Lacy</conductor>
+      <test-piece id="598">Atilla [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="80786">
+      <result code="2">2</result>
+      <band id="3534">Morley Borough</band>
+      <conductor id="307325">John Peel</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="80783">
+      <result code="3">3</result>
+      <band id="4901">Darlington Saxhorn</band>
+      <conductor id="303250">H. Hoggett</conductor>
+      <test-piece id="1285">Twelfth Mass - selection [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="80775">
+      <result code="4">4</result>
+      <band id="5057">Staindrop</band>
+      <conductor id="311966">Thomas Woods</conductor>
+      <test-piece id="1657">&quot;My Own&quot; Quadrille</test-piece>
+    </result>
+    
+    <result id="80785">
+      <result code="5">5</result>
+      <band id="3601">New Shildon</band>
+      <conductor id="300404">F. Dinsdale</conductor>
+      <test-piece id="1656">The Fairy Polka</test-piece>
+    </result>
+    
+    <result id="80778">
+      <result code="">Unknown Result</result>
+      <band id="6266">Helmsley</band>
+      <conductor id="299672">J. Cooper</conductor>
+      <test-piece id="913">Stradella - overture [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="80776">
+      <result code="">Unknown Result</result>
+      <band id="4062">Mirfield Silver</band>
+      <conductor id="310909">J. Walker</conductor>
+      <test-piece id="1533">Le Caliph de Bagdad - overture [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="80780">
+      <result code="">Unknown Result</result>
+      <band id="5023">Allendale Town</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1255">La Sonnambula [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="80777">
+      <result code="W">Withdrawn</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="301114">John Farrar</conductor>
+    </result>
+    
+    <result id="80784">
+      <result code="W">Withdrawn</result>
+      <band id="7157">Castleford Old</band>
+      <conductor id="297809">F. Benson</conductor>
+    </result>
+    
+    <result id="80779">
+      <result code="W">Withdrawn</result>
+      <band id="5249">Nafferton</band>
+      <conductor id="297751">Thomas Bell</conductor>
+    </result>
+    
+    <result id="80787">
+      <result code="W">Withdrawn</result>
+      <band id="19365">Sheffield</band>
+      <conductor id="300108">A. Davenport</conductor>
+    </result>
+    
+    <result id="80781">
+      <result code="W">Withdrawn</result>
+      <band id="6318">Tibthorpe</band>
+      <conductor id="301601">T. Fussey</conductor>
+    </result>
+    
+    <result id="80782">
+      <result code="W">Withdrawn</result>
+      <band id="18268">Victoria (Batley)</band>
+      <conductor id="309643">James Stanhope</conductor>
+    </result>
+    
+    <result id="85215">
+      <result code="W">Withdrawn</result>
+      <band id="5066">York Operatic</band>
+      <conductor id="301391">T. Fordham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

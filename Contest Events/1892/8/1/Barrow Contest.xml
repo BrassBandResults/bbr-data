@@ -1,0 +1,74 @@
+<contest-event id="18218">
+  <event-date date="1892-8-1">Aug. 1, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest</name>
+  <contest id="1372">
+    <name>Barrow Contest</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2916">Cavendish Park, Barrow-in-Furness</venue>
+  <notes>Prizes - 1st £30, 2nd £20, 3rd £14, 4th £9, 5th £5.
+14th annual contest
+6 bands competed</notes>
+
+  <created>Feb. 14, 2013, 10:13 a.m.</created>
+  <last-modified>June 3, 2019, 12:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="137295">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2374">Faust [Berlioz arr. Owen]</test-piece>
+    </result>
+    
+    <result id="137296">
+      <result code="2">2</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="313336">Benjamin Denton Jackson</conductor>
+      <test-piece id="2570">Mendelssohn [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137297">
+      <result code="3">3</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="5435">Heroic Fantasia</test-piece>
+    </result>
+    
+    <result id="137298">
+      <result code="4">4</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+    <result id="137299">
+      <result code="5">5</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+      <test-piece id="3026">Beethoven [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="309166">
+      <result code="6">6</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="302859">William Heap</conductor>
+      <test-piece id="1574">Mozart [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

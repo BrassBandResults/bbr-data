@@ -1,0 +1,58 @@
+<contest-event id="17528">
+  <event-date date="1887-8-6">Aug. 6, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ripponden Contest</name>
+  <contest id="1405">
+    <name>Ripponden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ripponden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1861">Pride of England</test-piece>
+  </test-piece>
+
+  <venue id="916">Ripponden, West Yorkshire</venue>
+  <notes>Ripponden Flower Show
+
+11 bands competed
+
+Prizes: £12, £7, £4, £2</notes>
+
+  <created>Jan. 22, 2013, 1:59 p.m.</created>
+  <last-modified>Nov. 7, 2017, 9:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="133197">
+      <result code="1">1</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133198">
+      <result code="2">2</result>
+      <band id="5000">Huddersfield Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133199">
+      <result code="3">3</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133200">
+      <result code="4">4</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

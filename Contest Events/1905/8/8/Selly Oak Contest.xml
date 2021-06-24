@@ -1,0 +1,62 @@
+<contest-event id="10403">
+  <event-date date="1905-8-8">Aug. 8, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Selly Oak Contest</name>
+  <contest id="1982">
+    <name>Selly Oak Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>selly-oak-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1085">Irish Melodies</test-piece>
+  </test-piece>
+
+  <venue id="1414">Selly Oak, Birmingham</venue>
+  <notes>Prizes - 1st £7 and cup, 2nd £5, 3rd £2.10s.
+March contest  1st (£1.1s.) Woodville United, 2nd (10s.) Wellingborough Town.
+ 5 bands competed.</notes>
+
+  <created>Feb. 17, 2012, 10:58 p.m.</created>
+  <last-modified>Sept. 11, 2018, 8:06 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87509">
+      <result code="1">1</result>
+      <band id="5195">Woodville United</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="87510">
+      <result code="2">2</result>
+      <band id="6591">Wellingborough Town</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="87511">
+      <result code="3">3</result>
+      <band id="416">Langley Band</band>
+      <conductor id="298430">J. Bridge</conductor>
+    </result>
+    
+    <result id="87512">
+      <result code="">Unknown Result</result>
+      <band id="6640">Halesowen Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="87513">
+      <result code="">Unknown Result</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

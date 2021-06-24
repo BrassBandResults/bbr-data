@@ -1,0 +1,66 @@
+<contest-event id="24018">
+  <event-date date="1927-5-7">May 7, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 1)</name>
+  <contest id="1043">
+    <name>Royal Tunbridge Wells Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1044">Operatic Beauties</test-piece>
+  </test-piece>
+
+  <venue id="2215">Calverley Grounds, Tunbridge Wells, Kent</venue>
+  <notes>  6 bands competed.</notes>
+
+  <created>Sept. 23, 2013, 10:15 p.m.</created>
+  <last-modified>Dec. 14, 2016, 10:32 a.m.</last-modified>
+
+  <results>
+    
+    <result id="175517">
+      <result code="1">1</result>
+      <band id="4802">Caterham</band>
+      <conductor id="309499">F. R. Snow</conductor>
+    </result>
+    
+    <result id="175518">
+      <result code="2">2</result>
+      <band id="8142">Crowborough Silver</band>
+      <conductor id="298446">Thomas Briggs</conductor>
+    </result>
+    
+    <result id="175519">
+      <result code="3">3</result>
+      <band id="12657">Worthing Borough</band>
+      <conductor id="302513">J. J. Hampton</conductor>
+    </result>
+    
+    <result id="175520">
+      <result code="">Unknown Result</result>
+      <band id="8980">Etchingham-Robertsbridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175521">
+      <result code="">Unknown Result</result>
+      <band id="6678">Horley Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="175522">
+      <result code="">Unknown Result</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="12434">
+  <event-date date="1899-7-15">July 15, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class C)</name>
+  <contest id="2114">
+    <name>Pontypridd Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1881">Recollections of Carl Rosa</test-piece>
+  </test-piece>
+
+  <venue id="3743">Taff Vale Park, Pontypridd</venue>
+  <notes>9th annual South Wales and Monmouth Contest
+7 bands entered, 4 competed
+
+  1st prize £7.
+  2nd prize £4.
+  3rd prize £2.
+  4th prize £1.</notes>
+
+  <created>April 14, 2012, 2:08 p.m.</created>
+  <last-modified>Aug. 27, 2018, 7:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99401">
+      <result code="1">1</result>
+      <band id="7619">Cwmmawr</band>
+      <conductor id="297821">Henry Bentley</conductor>
+    </result>
+    
+    <result id="99402">
+      <result code="2">2</result>
+      <band id="6594">Pentre Volunteers</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="99403">
+      <result code="3">3</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="99404">
+      <result code="4">4</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="298800">E. P. Burrows</conductor>
+    </result>
+    
+  </results>
+</contest-event>

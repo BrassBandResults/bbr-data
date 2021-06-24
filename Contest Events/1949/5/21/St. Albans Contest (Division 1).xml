@@ -1,0 +1,48 @@
+<contest-event id="26299">
+  <event-date date="1949-5-21">May 21, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St. Albans Contest (Division 1)</name>
+  <contest id="5093">
+    <name>St. Albans Contest (Division 1)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>st-albans-contest-division-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1038">Schubert&#39;s Symphony in C [arr. J. A. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="3330">St. Albans, Hertfordshire</venue>
+  <notes>5 bands competed.,</notes>
+
+  <created>Feb. 11, 2014, 12:54 p.m.</created>
+  <last-modified>Feb. 27, 2019, 10:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190612">
+      <result code="1">1</result>
+      <band id="2761">Hammersmith Borough</band>
+      <conductor id="297145">A. E. Ashcroft</conductor>
+    </result>
+    
+    <result id="190613">
+      <result code="2">2</result>
+      <band id="3410">North Middlesex Silver Band</band>
+      <conductor id="309088">W. H. Short</conductor>
+    </result>
+    
+    <result id="190614">
+      <result code="3">3</result>
+      <band id="45">Staines Brass</band>
+      <conductor id="308701">W. J. Sanders</conductor>
+    </result>
+    
+  </results>
+</contest-event>

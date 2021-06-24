@@ -1,0 +1,66 @@
+<contest-event id="3860">
+  <event-date date="1938-9-10">Sept. 10, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Butlins Holiday Camp Contest (Championship Section)</name>
+  <contest id="678">
+    <name>Butlins Holiday Camp Contest (Championship Section)</name>
+    <order>5</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="157">Butlins Holiday Camp Contest</group>
+    <slug>butlins-holiday-camp-contest-championship</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1441">Heroic</test-piece>
+  </test-piece>
+
+  <venue id="13">Butlins, Skegness, Lincolnshire, England, UK</venue>
+  <notes>  6 bands competed.</notes>
+
+  <created>Feb. 7, 2011, 1:07 a.m.</created>
+  <last-modified>Jan. 24, 2014, 2:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="183568">
+      <result code="1">1</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="309339">Clarence Smith</conductor>
+    </result>
+    
+    <result id="183569">
+      <result code="2">2</result>
+      <band id="1664">Bickershaw Colliery</band>
+      <conductor id="306422">Fred Mortimer</conductor>
+    </result>
+    
+    <result id="183570">
+      <result code="3">3</result>
+      <band id="21">Brighouse and Rastrick Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="183571">
+      <result code="">Unknown Result</result>
+      <band id="1665">Bolsover Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183572">
+      <result code="">Unknown Result</result>
+      <band id="5915">Coventry Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="183573">
+      <result code="">Unknown Result</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

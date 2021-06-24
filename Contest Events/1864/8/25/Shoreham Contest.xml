@@ -1,0 +1,78 @@
+<contest-event id="38485">
+  <event-date date="1864-8-25">Aug. 25, 1864<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shoreham Contest</name>
+  <contest id="6216">
+    <name>Shoreham Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>shoreham-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="5267">Fauchette</test-piece>
+  </test-piece>
+
+  <venue id="6714">Swiss Gardens, Shoreham, Sussex</venue>
+  <notes>Prizes: 10 guineas, a cornet and £2, 9 guineas, and 6 guineas</notes>
+
+  <created>July 26, 2017, 9:18 a.m.</created>
+  <last-modified>July 26, 2017, 9:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="278467">
+      <result code="1">1</result>
+      <band id="16121">9th Sussex Rifle Volunteers (Arundel)</band>
+      <conductor id="317304">W. Blackburn</conductor>
+    </result>
+    
+    <result id="278471">
+      <result code="2">2</result>
+      <band id="5031">1st Sussex (Brighton)</band>
+      <conductor id="300355">William Devin</conductor>
+    </result>
+    
+    <result id="278466">
+      <result code="3">3</result>
+      <band id="16120">6th Sussex Rifle Volunteers (Petworth)</band>
+      <conductor id="317080">William Willmer</conductor>
+    </result>
+    
+    <result id="278470">
+      <result code="4">4</result>
+      <band id="18194">Brighton (Sussex)</band>
+      <conductor id="317084">Mr Aukett</conductor>
+    </result>
+    
+    <result id="278465">
+      <result code="">Unknown Result</result>
+      <band id="16120">6th Sussex Rifle Volunteers (Petworth)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="278468">
+      <result code="">Unknown Result</result>
+      <band id="16122">Eastbourne Saxhorn</band>
+      <conductor id="317082">Thomas Elliott</conductor>
+    </result>
+    
+    <result id="278469">
+      <result code="">Unknown Result</result>
+      <band id="16123">11th Sussex Rifle Volunteers (Worthing)</band>
+      <conductor id="317083">F. Ryder</conductor>
+    </result>
+    
+    <result id="278472">
+      <result code="">Unknown Result</result>
+      <band id="16124">4th Cinque Port Volunteer Artillery (Hastings)</band>
+      <conductor id="317085">G. Lambert</conductor>
+    </result>
+    
+  </results>
+</contest-event>

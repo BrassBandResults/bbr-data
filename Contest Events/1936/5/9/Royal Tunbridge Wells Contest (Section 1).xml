@@ -1,0 +1,85 @@
+<contest-event id="21267">
+  <event-date date="1936-5-9">May 9, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 1)</name>
+  <contest id="1043">
+    <name>Royal Tunbridge Wells Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-1</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2500">Recollections of Bellini [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="2759">Tunbridge Wells, Kent</venue>
+  <notes>15th annual contest.
+  9 bands competed</notes>
+
+  <created>May 10, 2013, 7:28 a.m.</created>
+  <last-modified>Jan. 9, 2019, 9:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="156847">
+      <result code="1">1</result>
+      <band id="8166">City of Rochester Brass</band>
+      <conductor id="311261">A. Weller</conductor>
+    </result>
+    
+    <result id="156848">
+      <result code="2">2</result>
+      <band id="10666">Rochester City</band>
+      <conductor id="303130">Harold Hind</conductor>
+    </result>
+    
+    <result id="156849">
+      <result code="3">3</result>
+      <band id="4659">Haywards Heath Town</band>
+      <conductor id="298215">W. G. Bosley</conductor>
+    </result>
+    
+    <result id="182508">
+      <result code="">Unknown Result</result>
+      <band id="10611">Callender&#39;s Cable Works (Junior)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182510">
+      <result code="">Unknown Result</result>
+      <band id="4802">Caterham</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182509">
+      <result code="">Unknown Result</result>
+      <band id="5438">City of Canterbury</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182511">
+      <result code="">Unknown Result</result>
+      <band id="3954">Hooe Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182512">
+      <result code="">Unknown Result</result>
+      <band id="4657">Hoo Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182513">
+      <result code="">Unknown Result</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

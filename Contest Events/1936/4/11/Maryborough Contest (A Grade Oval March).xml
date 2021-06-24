@@ -1,0 +1,49 @@
+<contest-event id="44593">
+  <event-date date="1936-4-11">April 11, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Maryborough Contest (A Grade Oval March)</name>
+  <contest id="6695">
+    <name>Maryborough Contest (A Grade Oval March)</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="173">Maryborough Contest</group>
+    <slug>maryborough-contest-a-grade-oval-march</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6621">March: Orion</test-piece>
+  </test-piece>
+
+  <venue id="7069">Maryborough Show Ground, Maryborough, Queensland, Australia</venue>
+  <notes>Judged on music only
+</notes>
+
+  <created>June 20, 2021, 1:18 a.m.</created>
+  <last-modified>June 20, 2021, 1:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="326294">
+      <result code="1">1</result>
+      <band id="5775">Rockhampton City Brass Band</band>
+      <conductor id="309477">William Smith</conductor>
+    </result>
+    
+    <result id="326295">
+      <result code="2">2</result>
+      <band id="50">Brisbane Excelsior Band</band>
+      <conductor id="310852">Albert Wade</conductor>
+    </result>
+    
+    <result id="326296">
+      <result code="3">3</result>
+      <band id="6431">Maryborough Federal [Queensland]</band>
+      <conductor id="318202">Sam Whittaker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

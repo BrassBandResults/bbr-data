@@ -1,0 +1,78 @@
+<contest-event id="35745">
+  <event-date date="1926-1-25">Jan. 25, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (B Grade)</name>
+  <contest id="617">
+    <name>NSW State Championships (B Grade)</name>
+    <order>20</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-b-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="13">B Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="3763">Airs from Der Wildschutz</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes>MUSIC   Test Selection only</notes>
+
+  <created>July 22, 2016, 6:48 a.m.</created>
+  <last-modified>Oct. 17, 2016, 3:29 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259485">
+      <result code="1">1</result>
+      <band id="13043">Canterbury District</band>
+      <conductor id="302980">Jock Herron</conductor>
+    </result>
+    
+    <result id="259486">
+      <result code="2">2</result>
+      <band id="13708">Botany Municipal</band>
+      <conductor id="307452">Richard Phillips</conductor>
+    </result>
+    
+    <result id="259487">
+      <result code="3">3</result>
+      <band id="13041">Ashfield District</band>
+      <conductor id="315224">E. Searle</conductor>
+    </result>
+    
+    <result id="259488">
+      <result code="4">4</result>
+      <band id="13704">Abermain Town</band>
+      <conductor id="306723">G. Nichols</conductor>
+    </result>
+    
+    <result id="259489">
+      <result code="5">5</result>
+      <band id="2269">Parramatta City Band</band>
+      <conductor id="310120">Albert Taylor</conductor>
+    </result>
+    
+    <result id="259490">
+      <result code="5">5</result>
+      <band id="14102">Westmead Boys Home</band>
+      <conductor id="315228">Gus Cerezo</conductor>
+    </result>
+    
+    <result id="259491">
+      <result code="7">7</result>
+      <band id="13033">NSW Tramways</band>
+      <conductor id="315235">Glen Braham</conductor>
+    </result>
+    
+    <result id="259492">
+      <result code="7">7</result>
+      <band id="12925">Hurstville Municipal Band</band>
+      <conductor id="315238">J. Rae</conductor>
+    </result>
+    
+  </results>
+</contest-event>

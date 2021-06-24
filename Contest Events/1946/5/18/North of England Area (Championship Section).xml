@@ -1,0 +1,70 @@
+<contest-event id="17233">
+  <event-date date="1946-5-18">May 18, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>North of England Area (Championship Section)</name>
+  <contest id="33">
+    <name>North of England Area (Championship Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="11">North Of England Area</group>
+    <slug>north-of-england-area-championship-section</slug>
+    <qualifies-for id="1">National Championship of Great Britain (Championship Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="6">North of England</region>
+    <section id="1">Championship</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="532">Pride of Race</test-piece>
+  </test-piece>
+
+  <venue id="387">City Hall, Newcastle-upon-Tyne</venue>
+  <notes>
+
+  10 bands competed.
+
+</notes>
+
+  <created>Dec. 22, 2012, 11:53 a.m.</created>
+  <last-modified>Feb. 7, 2019, 1:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130862">
+      <result code="1">1</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="298157">W. S. Bond</conductor>
+    </result>
+    
+    <result id="130863">
+      <result code="2">2</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="297205">Jack Atherton</conductor>
+    </result>
+    
+    <result id="130864">
+      <result code="3">3</result>
+      <band id="1497">Crookhall Colliery</band>
+      <conductor id="309805">J. J. Stobbs</conductor>
+    </result>
+    
+    <result id="130865">
+      <result code="4">4</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="305330">William Lowes</conductor>
+    </result>
+    
+    <result id="304080">
+      <result code="5">5</result>
+      <band id="3351">Easington Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304081">
+      <result code="">Unknown Result</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

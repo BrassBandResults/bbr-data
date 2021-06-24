@@ -1,0 +1,56 @@
+<contest-event id="25702">
+  <event-date date="1929-8-5">Aug. 5, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>St Ives Contest (Open Section)</name>
+  <contest id="4658">
+    <name>St Ives Contest (Open Section)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="485">St Ives Contest</group>
+    <slug>st-ives-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="196">Labour and Love</test-piece>
+  </test-piece>
+
+  <venue id="3923">St. Ives, Cornwall</venue>
+  <notes>Prizes: £18, £15
+
+March: 1. Camborne, 2. Falmouth, 3.Redruth</notes>
+
+  <created>Dec. 21, 2013, 6:53 p.m.</created>
+  <last-modified>Dec. 21, 2013, 7:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="186114">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="307099">A. W. Parker</conductor>
+    </result>
+    
+    <result id="186115">
+      <result code="2">2</result>
+      <band id="8612">Hayle Silver</band>
+      <conductor id="310090">John Tanner</conductor>
+    </result>
+    
+    <result id="186116">
+      <result code="3">3</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="301362">R. W. Floyd</conductor>
+    </result>
+    
+    <result id="186117">
+      <result code="">Unknown Result</result>
+      <band id="1722">Falmouth Town</band>
+      <conductor id="299172">G. J. Chainey</conductor>
+    </result>
+    
+  </results>
+</contest-event>

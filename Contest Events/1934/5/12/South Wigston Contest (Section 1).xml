@@ -1,0 +1,48 @@
+<contest-event id="28416">
+  <event-date date="1934-5-12">May 12, 1934<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>South Wigston Contest (Section 1)</name>
+  <contest id="5071">
+    <name>South Wigston Contest (Section 1)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>south-wigston-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1358">The Mock Doctor</test-piece>
+  </test-piece>
+
+  <venue id="4851">Clarence Theatre, South Wigston, Leicestershire, England, UK</venue>
+  <notes></notes>
+
+  <created>June 9, 2014, 5:20 p.m.</created>
+  <last-modified>Jan. 3, 2017, 12:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202503">
+      <result code="1">1</result>
+      <band id="274">William Davis Construction Group Band</band>
+      <conductor id="297770">J. W. Beniston</conductor>
+    </result>
+    
+    <result id="266766">
+      <result code="2">2</result>
+      <band id="2349">Fleckney Silver</band>
+      <conductor id="303772">Simeon Iliffe</conductor>
+    </result>
+    
+    <result id="266767">
+      <result code="3">3</result>
+      <band id="5921">Whetstone</band>
+      <conductor id="306270">Charles Moore</conductor>
+    </result>
+    
+  </results>
+</contest-event>

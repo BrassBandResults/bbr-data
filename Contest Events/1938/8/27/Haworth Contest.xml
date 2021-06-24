@@ -1,0 +1,93 @@
+<contest-event id="26131">
+  <event-date date="1938-8-27">Aug. 27, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haworth Contest</name>
+  <contest id="1689">
+    <name>Haworth Contest</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2726">La Regina di Golconda</test-piece>
+  </test-piece>
+
+  <venue id="1194">Central Park, Haworth, Yorkshire</venue>
+  <notes>  Prizes - 1st £12 and cup, 2nd £8, 3rd £4, 4th £2.
+  March contest - 1st Denby Dale, 2nd Holme.
+  Hymn tune Contest - 1st Hepworth, 2nd Bradford City.
+  10 bands competed.</notes>
+
+  <created>Jan. 24, 2014, 12:46 p.m.</created>
+  <last-modified>Jan. 24, 2014, 12:52 p.m.</last-modified>
+
+  <results>
+    
+    <result id="189139">
+      <result code="1">1</result>
+      <band id="262">Holme Silver (Disposables UK Group) Band</band>
+      <conductor id="299199">Fred Chantrey</conductor>
+    </result>
+    
+    <result id="189140">
+      <result code="2">2</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302009">Harry Grace</conductor>
+    </result>
+    
+    <result id="189141">
+      <result code="3">3</result>
+      <band id="3167">Denby Dale Brass</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="189142">
+      <result code="4">4</result>
+      <band id="22">Hepworth Band</band>
+      <conductor id="304362">Willie Kaye</conductor>
+    </result>
+    
+    <result id="189143">
+      <result code="">Unknown Result</result>
+      <band id="1583">Batley Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189144">
+      <result code="">Unknown Result</result>
+      <band id="4274">Brierfield Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189148">
+      <result code="">Unknown Result</result>
+      <band id="51">Hade Edge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189145">
+      <result code="">Unknown Result</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189147">
+      <result code="">Unknown Result</result>
+      <band id="3277">Salt&#39;s Saltaire</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="189146">
+      <result code="">Unknown Result</result>
+      <band id="922">Skipton Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

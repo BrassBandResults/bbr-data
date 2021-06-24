@@ -1,0 +1,60 @@
+<contest-event id="7333">
+  <event-date date="1945-9-29">Sept. 29, 1945<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Fourth Section)</name>
+  <contest id="65">
+    <name>Scottish Championship (Fourth Section)</name>
+    <order>40</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-fourth-section</slug>
+    <qualifies-for id="5">National Championship of Great Britain (Fourth Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="5">Fourth</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1042">The Talisman [Balfe, unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes>5 bands played.</notes>
+
+  <created>Sept. 30, 2011, 1:24 p.m.</created>
+  <last-modified>June 7, 2018, 10:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="66268">
+      <result code="1">1</result>
+      <band id="5453">Winchburgh Public</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="66269">
+      <result code="2">2</result>
+      <band id="4985">Camelon Brass Band</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="66270">
+      <result code="3">3</result>
+      <band id="12">Whitburn Band</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="66271">
+      <result code="4">4</result>
+      <band id="5454">Leith Silver</band>
+      <conductor id="310061">W. Tabener</conductor>
+    </result>
+    
+    <result id="289337">
+      <result code="5">5</result>
+      <band id="5547">Kirkcaldy BB</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,76 @@
+<contest-event id="12285">
+  <event-date date="1899-5-6">May 6, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Frosterley Contest</name>
+  <contest id="2067">
+    <name>Frosterley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>frosterley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3399">Rogerley Park, Frosterley</venue>
+  <notes>1st prize £12.
+  2nd prize £7.
+  3rd prize £4.
+  4th prize £2.
+  5th prize £1.</notes>
+
+  <created>April 11, 2012, 6:03 p.m.</created>
+  <last-modified>July 27, 2019, 6:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="98421">
+      <result code="1">1</result>
+      <band id="1581">West Hartlepool Old</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="98422">
+      <result code="2">2</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="98423">
+      <result code="3">3</result>
+      <band id="6924">South Shields Garibaldi</band>
+      <conductor id="297558">J. S. Barrow</conductor>
+    </result>
+    
+    <result id="98424">
+      <result code="4">4</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="98425">
+      <result code="5">5</result>
+      <band id="6589">Sunderland Temperance</band>
+      <conductor id="310417">James Thurlow</conductor>
+    </result>
+    
+    <result id="98426">
+      <result code="">Unknown Result</result>
+      <band id="1577">Rise Carr</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98427">
+      <result code="">Unknown Result</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

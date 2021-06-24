@@ -1,0 +1,76 @@
+<contest-event id="44019">
+  <event-date date="1910-8-10">Aug. 10, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Salisbury Contest (Class A)</name>
+  <contest id="4092">
+    <name>Salisbury Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="434">Salisbury Contest</group>
+    <slug>salisbury-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3161">Siege of Rochelle (arr. Sutton)</test-piece>
+  </test-piece>
+
+  <venue id="2840">Victoria Park, Salisbury, Wiltshire, England, UK</venue>
+  <notes>Prizes - 1st £6 and cup, 2nd £4, 3rd £3, 4th £2.
+March contest - 1st Odstock, 2nd Broadchalke, 3rd tied - Bourton and South of England Temp.
+Best trombone - Berwick St John.
+Best euphonium - Fovant.
+7 bands competed.</notes>
+
+  <created>Oct. 26, 2020, 11:08 a.m.</created>
+  <last-modified>Oct. 26, 2020, 11:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="322477">
+      <result code="1">1</result>
+      <band id="6802">Broad Chalke</band>
+      <conductor id="302322">F. Gurd</conductor>
+    </result>
+    
+    <result id="322474">
+      <result code="2">2</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="309879">W. Stretch</conductor>
+    </result>
+    
+    <result id="322478">
+      <result code="3">3</result>
+      <band id="6807">Odstock</band>
+      <conductor id="317975">E. Blake</conductor>
+    </result>
+    
+    <result id="322475">
+      <result code="4">4</result>
+      <band id="6808">Fovant</band>
+      <conductor id="312076">S. J. Wyatt</conductor>
+    </result>
+    
+    <result id="322479">
+      <result code="4">4</result>
+      <band id="16">Woodfalls Band</band>
+      <conductor id="302136">J. Green</conductor>
+    </result>
+    
+    <result id="322473">
+      <result code="">Unknown Result</result>
+      <band id="8403">Market Lavington</band>
+      <conductor id="306055">J. H. Merritt</conductor>
+    </result>
+    
+    <result id="322476">
+      <result code="">Unknown Result</result>
+      <band id="9861">Bourton [Dorset]</band>
+      <conductor id="318014">H. Suter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,55 @@
+<contest-event id="21269">
+  <event-date date="1936-5-9">May 9, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Royal Tunbridge Wells Contest (Section 3)</name>
+  <contest id="1044">
+    <name>Royal Tunbridge Wells Contest (Section 3)</name>
+    <order>30</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="166">Royal Tunbridge Wells Contest</group>
+    <slug>royal-tunbridge-wells-contest-section-3</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1096">Autumn Echoes</test-piece>
+  </test-piece>
+
+  <venue id="2759">Tunbridge Wells, Kent</venue>
+  <notes>15th annual contest.
+  4 bands competed.</notes>
+
+  <created>May 10, 2013, 7:36 a.m.</created>
+  <last-modified>March 18, 2020, 11:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="156853">
+      <result code="1">1</result>
+      <band id="3962">West Chiltington Silver Band</band>
+      <conductor id="299249">C. M. Chatfield</conductor>
+    </result>
+    
+    <result id="156854">
+      <result code="2">2</result>
+      <band id="751">Cranbrook Town Band</band>
+      <conductor id="303152">H. Hinkley</conductor>
+    </result>
+    
+    <result id="316182">
+      <result code="3">3</result>
+      <band id="3956">Wadhurst Brass Band</band>
+      <conductor id="315383">W. Skinner</conductor>
+    </result>
+    
+    <result id="182514">
+      <result code="4">4</result>
+      <band id="11582">Orpington Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,97 @@
+<contest-event id="13498">
+  <event-date date="1931-3-21">March 21, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Lewisham Contest (1st Section)</name>
+  <contest id="1807">
+    <name>Lewisham Contest (1st Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>lewisham-contest-1st-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1080">Rossini [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="5763">Lewisham Public Baths Hall, Dartmouth Road, Forest Hill, West Lewisham</venue>
+  <notes>Prizes: £8, £5, £3.
+11 bands competed</notes>
+
+  <created>May 19, 2012, 11:08 a.m.</created>
+  <last-modified>Dec. 12, 2018, 9:37 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107046">
+      <result code="1">1</result>
+      <band id="1640">Callenders Cableworks Band</band>
+      <conductor id="311095">C. A. Waters</conductor>
+    </result>
+    
+    <result id="107047">
+      <result code="2">2</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="107048">
+      <result code="3">3</result>
+      <band id="6003">St. Pancras</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="107049">
+      <result code="4">4</result>
+      <band id="6860">Edmonton</band>
+      <conductor id="310704">W. Tyrrell</conductor>
+    </result>
+    
+    <result id="107050">
+      <result code="5">5</result>
+      <band id="4527">Willesden</band>
+      <conductor id="305959">C. McManus</conductor>
+    </result>
+    
+    <result id="221277">
+      <result code="">Unknown Result</result>
+      <band id="617">Hitchin Band</band>
+      <conductor id="298987">T. Cannon</conductor>
+    </result>
+    
+    <result id="221273">
+      <result code="">Unknown Result</result>
+      <band id="4766">Wood Green Brass</band>
+      <conductor id="300469">Wilfred Dolling</conductor>
+    </result>
+    
+    <result id="221272">
+      <result code="">Unknown Result</result>
+      <band id="4801">Lewisham</band>
+      <conductor id="309771">W. J. Stevens</conductor>
+    </result>
+    
+    <result id="221275">
+      <result code="">Unknown Result</result>
+      <band id="2987">Barnet Town</band>
+      <conductor id="300396">Fred Dimmock</conductor>
+    </result>
+    
+    <result id="221274">
+      <result code="">Unknown Result</result>
+      <band id="6343">Great Central and Met Railway</band>
+      <conductor id="309469">W. A.  Smith</conductor>
+    </result>
+    
+    <result id="221276">
+      <result code="">Unknown Result</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

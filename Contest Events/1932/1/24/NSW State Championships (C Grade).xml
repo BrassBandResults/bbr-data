@@ -1,0 +1,102 @@
+<contest-event id="35792">
+  <event-date date="1932-1-24">Jan. 24, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>NSW State Championships (C Grade)</name>
+  <contest id="618">
+    <name>NSW State Championships (C Grade)</name>
+    <order>30</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="91">NSW State Championships</group>
+    <slug>nsw-state-championships-c-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="14">C Grade</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1309">Hamlet</test-piece>
+  </test-piece>
+
+  <venue id="6065">Sydney Sports Ground, Sydney, New South Wales, Australia</venue>
+  <notes></notes>
+
+  <created>July 28, 2016, 12:54 a.m.</created>
+  <last-modified>March 4, 2021, 1:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259791">
+      <result code="1">1</result>
+      <band id="13685">Burwood Band</band>
+      <conductor id="304921">Bill Leahy</conductor>
+    </result>
+    
+    <result id="259792">
+      <result code="2">2</result>
+      <band id="14102">Westmead Boys Home</band>
+      <conductor id="302980">Jock Herron</conductor>
+    </result>
+    
+    <result id="259793">
+      <result code="3">3</result>
+      <band id="14094">Crows Nest Citizens</band>
+      <conductor id="298345">Les Bragg</conductor>
+    </result>
+    
+    <result id="259794">
+      <result code="4">4</result>
+      <band id="13723">Auburn Citizens</band>
+      <conductor id="310120">Albert Taylor</conductor>
+    </result>
+    
+    <result id="259796">
+      <result code="4">4</result>
+      <band id="13033">NSW Tramways</band>
+      <conductor id="306728">Stan Nichols</conductor>
+    </result>
+    
+    <result id="259795">
+      <result code="4">4</result>
+      <band id="13718">Westmead Old Boys</band>
+      <conductor id="308350">Harry Robinson</conductor>
+    </result>
+    
+    <result id="259797">
+      <result code="7">7</result>
+      <band id="12002">Central Coast Brass</band>
+      <conductor id="311267">Dick Wells</conductor>
+    </result>
+    
+    <result id="259799">
+      <result code="8">8</result>
+      <band id="14104">Manning River District</band>
+      <conductor id="315261">M. Sneddon</conductor>
+    </result>
+    
+    <result id="259798">
+      <result code="8">8</result>
+      <band id="14090">Mittagong Town</band>
+      <conductor id="304480">Ernest Kerry</conductor>
+    </result>
+    
+    <result id="324970">
+      <result code="W">Withdrawn</result>
+      <band id="13753">Glebe District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324971">
+      <result code="W">Withdrawn</result>
+      <band id="12307">Kogarah Concert Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="324969">
+      <result code="W">Withdrawn</result>
+      <band id="14089">Liverpool Municipal</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

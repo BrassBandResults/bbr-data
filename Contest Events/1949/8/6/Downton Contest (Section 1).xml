@@ -1,0 +1,42 @@
+<contest-event id="26369">
+  <event-date date="1949-8-6">Aug. 6, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Downton Contest (Section 1)</name>
+  <contest id="3920">
+    <name>Downton Contest (Section 1)</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>downton-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1375">Recollections of Beethoven [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="3141">Downton, Salisbury, Wiltshire</venue>
+  <notes></notes>
+
+  <created>Feb. 13, 2014, 7:33 p.m.</created>
+  <last-modified>Feb. 28, 2019, 10:58 a.m.</last-modified>
+
+  <results>
+    
+    <result id="190878">
+      <result code="1">1</result>
+      <band id="362">Verwood Concert Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="190879">
+      <result code="2">2</result>
+      <band id="8690">Branksome &amp; Parkstone</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

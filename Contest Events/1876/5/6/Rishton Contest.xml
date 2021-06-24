@@ -1,0 +1,86 @@
+<contest-event id="16073">
+  <event-date date="1876-5-6">May 6, 1876<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rishton Contest</name>
+  <contest id="1506">
+    <name>Rishton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rishton</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="974">Rishton</venue>
+  <notes>Prizes: £16, £11, £7, £4, £2</notes>
+
+  <created>Nov. 11, 2012, 5:41 p.m.</created>
+  <last-modified>Nov. 11, 2012, 5:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="123612">
+      <result code="1">1</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="305617">Isaac Marsden</conductor>
+      <test-piece id="921">L&#39;Africaine [arr. Grosse]</test-piece>
+    </result>
+    
+    <result id="123615">
+      <result code="1">1</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123610">
+      <result code="3">3</result>
+      <band id="2538">Water Band Rossendale</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="921">L&#39;Africaine [arr. Grosse]</test-piece>
+    </result>
+    
+    <result id="123613">
+      <result code="4">4</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123609">
+      <result code="5">5</result>
+      <band id="4600">Church and Oswaldtwistle</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123611">
+      <result code="">Unknown Result</result>
+      <band id="9922">Enfield Old Original [Lancs.]</band>
+      <conductor id="305617">Isaac Marsden</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123614">
+      <result code="">Unknown Result</result>
+      <band id="1435">Denton Original</band>
+      <conductor id="305622">Richard Marsden</conductor>
+      <test-piece id="1337">Faust [Gounod, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123616">
+      <result code="">Unknown Result</result>
+      <band id="7276">Haslingden Volunteers</band>
+      <conductor id="305617">Isaac Marsden</conductor>
+      <test-piece id="1110">Oberon [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

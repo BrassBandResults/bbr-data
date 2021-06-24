@@ -1,0 +1,74 @@
+<contest-event id="11074">
+  <event-date date="1906-8-25">Aug. 25, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Hebden Bridge Contest</name>
+  <contest id="1605">
+    <name>Hebden Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>hebden-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="1271">Carmelite</test-piece>
+  </test-piece>
+
+  <venue id="4886">Calder Holmes Park, Hebden Bridge</venue>
+  <notes>  1st prize £15, 2nd prize £9, 3rd prize £5, 4th prize £3, 5th prize £2.
+Choice of test pieces: &quot;Carmelite&quot; or &quot;Souvenir de Meyerbeer&quot;
+9 bands entered, 7 bands competed.</notes>
+
+  <created>March 12, 2012, 5:53 p.m.</created>
+  <last-modified>Sept. 15, 2018, 8:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="91668">
+      <result code="1">1</result>
+      <band id="1440">Wyke</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="91669">
+      <result code="2">2</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="91670">
+      <result code="3">3</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="91671">
+      <result code="4">4</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="91672">
+      <result code="5">5</result>
+      <band id="1442">Halifax King Cross</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="91673">
+      <result code="">Unknown Result</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="91674">
+      <result code="">Unknown Result</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

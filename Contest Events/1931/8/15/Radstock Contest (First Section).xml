@@ -1,0 +1,51 @@
+<contest-event id="24763">
+  <event-date date="1931-8-15">Aug. 15, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radstock Contest (First Section)</name>
+  <contest id="4662">
+    <name>Radstock Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="447">Radstock Contest</group>
+    <slug>radstock-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1056">The Golden Age</test-piece>
+  </test-piece>
+
+  <venue id="4018">Radstock, Somerset, England, UK</venue>
+  <notes>Prizes - 1st £10 and shield, 2nd £6, 3rd £3, 4th £2.
+  March contest(The Toilers) - 1st Single Hill.
+3 bands competed.
+</notes>
+
+  <created>Oct. 28, 2013, 5:12 p.m.</created>
+  <last-modified>Dec. 16, 2018, 3:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181060">
+      <result code="1">1</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="181061">
+      <result code="2">2</result>
+      <band id="10716">Single Hill</band>
+      <conductor id="303430">W. Horler</conductor>
+    </result>
+    
+    <result id="181062">
+      <result code="3">3</result>
+      <band id="9072">Fishponds Argyle Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

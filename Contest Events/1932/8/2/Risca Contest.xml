@@ -1,0 +1,73 @@
+<contest-event id="36652">
+  <event-date date="1932-8-2">Aug. 2, 1932<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Risca Contest</name>
+  <contest id="4465">
+    <name>Risca Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>risca-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="795">Beautiful Britain</test-piece>
+  </test-piece>
+
+  <venue id="3785">Pontymister Cricket Ground, Risca</venue>
+  <notes>March contest - 1st Taff Merthyr, 2nd Windsor Colliery.
+7 bands competed.</notes>
+
+  <created>Dec. 12, 2016, 9:47 a.m.</created>
+  <last-modified>Dec. 12, 2016, 9:50 a.m.</last-modified>
+
+  <results>
+    
+    <result id="265348">
+      <result code="1">1</result>
+      <band id="11054">Windsor Colliery Workmen&#39;s Silver</band>
+      <conductor id="304040">M. Jeremiah</conductor>
+    </result>
+    
+    <result id="265349">
+      <result code="2">2</result>
+      <band id="8976">Taff Merthyr Colliery</band>
+      <conductor id="311645">Joseph Williams</conductor>
+    </result>
+    
+    <result id="265350">
+      <result code="3">3</result>
+      <band id="9663">Cefn Forest</band>
+      <conductor id="309754">D. I. Stevens</conductor>
+    </result>
+    
+    <result id="265351">
+      <result code="4">4</result>
+      <band id="8639">Nine Mile Point Colliery Prize Band</band>
+      <conductor id="307146">David Parr</conductor>
+    </result>
+    
+    <result id="265353">
+      <result code="">Unknown Result</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265354">
+      <result code="">Unknown Result</result>
+      <band id="13163">Cross Keys Junior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="265352">
+      <result code="">Unknown Result</result>
+      <band id="4605">Varteg District Memorial Hall</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

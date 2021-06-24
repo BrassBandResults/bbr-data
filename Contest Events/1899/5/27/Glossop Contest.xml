@@ -1,0 +1,86 @@
+<contest-event id="12382">
+  <event-date date="1899-5-27">May 27, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glossop Contest</name>
+  <contest id="1448">
+    <name>Glossop Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>glossop-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2772">Lucia di Lammermoor - Selection [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4880">Whitfield Cross, Glossop</venue>
+  <notes>Promoted by Glossop Old Prize Band
+
+  1st prize £10.
+  2nd prize £8.
+  3rd prize £6.
+  4th prize £4.
+  5th prize £2.
+
+  March contest 1st (£1) Glodwick,  2nd (10s.) Hollingworth.</notes>
+
+  <created>April 13, 2012, 5:43 p.m.</created>
+  <last-modified>June 23, 2014, 9:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="99005">
+      <result code="1">1</result>
+      <band id="1863">New Mills Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="99006">
+      <result code="2">2</result>
+      <band id="1578">Rochdale Public</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="99007">
+      <result code="3">3</result>
+      <band id="1772">Lees &amp; Glodwick</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="99008">
+      <result code="4">4</result>
+      <band id="1668">Hollingworth</band>
+      <conductor id="303325">James Holloway</conductor>
+    </result>
+    
+    <result id="99009">
+      <result code="5">5</result>
+      <band id="5589">Millgate</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="167030">
+      <result code="">Unknown Result</result>
+      <band id="7614">Chesterfield Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167031">
+      <result code="">Unknown Result</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="167032">
+      <result code="">Unknown Result</result>
+      <band id="4191">Hepworth Iron Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,56 @@
+<contest-event id="24184">
+  <event-date date="1928-8-25">Aug. 25, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whittlesea Contest</name>
+  <contest id="1949">
+    <name>Whittlesea Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whittlesea-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1020">Recollections of Verdi [arr. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1383">Whittlesea, Cambridgeshire</venue>
+  <notes>Prizes - 1st £8 and cup, 2nd £4, 3rd £2.
+  March contest - 1st Irthlingborough, 2nd t Ives Town, 3rd Chatteris.
+  4 bands competed.</notes>
+
+  <created>Oct. 1, 2013, 2:38 p.m.</created>
+  <last-modified>Nov. 27, 2018, 9:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="176408">
+      <result code="1">1</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="307359">Owen Pentelow</conductor>
+    </result>
+    
+    <result id="176409">
+      <result code="2">2</result>
+      <band id="2459">St Ives Town</band>
+      <conductor id="297156">Alfred Ashpole</conductor>
+    </result>
+    
+    <result id="176410">
+      <result code="3">3</result>
+      <band id="5916">March Imperial</band>
+      <conductor id="302121">C. A. Green</conductor>
+    </result>
+    
+    <result id="176411">
+      <result code="4">4</result>
+      <band id="1768">Chatteris Town Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

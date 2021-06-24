@@ -1,0 +1,55 @@
+<contest-event id="17236">
+  <event-date date="1946-5-25">May 25, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West of England Area (Second Section)</name>
+  <contest id="49">
+    <name>West of England Area (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="2">West Of England Area</group>
+    <slug>west-of-england-area-second-section</slug>
+    <qualifies-for id="3">National Championship of Great Britain (Second Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="8">West of England</region>
+    <section id="3">Second</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="748">Overture for an Epic Occasion</test-piece>
+  </test-piece>
+
+  <venue id="297">Civic Hall, Exeter</venue>
+  <notes>
+  only 4 bands competed.</notes>
+
+  <created>Dec. 22, 2012, 12:37 p.m.</created>
+  <last-modified>Feb. 5, 2014, 6:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="130874">
+      <result code="1">1</result>
+      <band id="271">St. Austell Town Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="130875">
+      <result code="2">2</result>
+      <band id="3340">Kingswood Evangel</band>
+      <conductor id="309474">W. Stanley Smith</conductor>
+    </result>
+    
+    <result id="130876">
+      <result code="3">3</result>
+      <band id="10192">Bristol Aeroplane Company</band>
+      <conductor id="307638">Thomas James Powell</conductor>
+    </result>
+    
+    <result id="130877">
+      <result code="4">4</result>
+      <band id="428">City of Bristol Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

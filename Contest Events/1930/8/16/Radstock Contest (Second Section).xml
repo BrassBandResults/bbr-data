@@ -1,0 +1,73 @@
+<contest-event id="25801">
+  <event-date date="1930-8-16">Aug. 16, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radstock Contest (Second Section)</name>
+  <contest id="4663">
+    <name>Radstock Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="447">Radstock Contest</group>
+    <slug>radstock-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="4018">Radstock, Somerset, England, UK</venue>
+  <notes>Prizes: £5, £3, £2.
+7 bands competed.</notes>
+
+  <created>Jan. 11, 2014, 10:59 p.m.</created>
+  <last-modified>April 21, 2019, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="187135">
+      <result code="1">1</result>
+      <band id="11416">Midsomer Norton Town</band>
+      <conductor id="312661">C. A. Cooper</conductor>
+    </result>
+    
+    <result id="187136">
+      <result code="2">2</result>
+      <band id="2069">Bridgwater Imperial</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="187137">
+      <result code="3">3</result>
+      <band id="2070">Hambrook Silver</band>
+      <conductor id="306119">J. Miles</conductor>
+    </result>
+    
+    <result id="187138">
+      <result code="4">4</result>
+      <band id="7755">Kingswood YMCA</band>
+      <conductor id="302271">A. Grivelle</conductor>
+    </result>
+    
+    <result id="301997">
+      <result code="">Unknown Result</result>
+      <band id="3988">Keynsham Brass Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301995">
+      <result code="">Unknown Result</result>
+      <band id="11535">Peasedown Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="301996">
+      <result code="">Unknown Result</result>
+      <band id="10716">Single Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

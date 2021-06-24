@@ -1,0 +1,68 @@
+<contest-event id="35720">
+  <event-date date="1902-2-15">Feb. 15, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Skinningrove Contest</name>
+  <contest id="4345">
+    <name>Skinningrove Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>skinningrove-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1172">The Slave</test-piece>
+  </test-piece>
+
+  <venue id="3587">Carlin How, Skinningrove, North Yorkshire</venue>
+  <notes>6 bands competed
+
+March contest - 1st - Charlton&#39;s Star of Hope, 2. Skinningrove, 3. Brotton Old, 4. Brotton Temperance, 5. Loftus.</notes>
+
+  <created>July 19, 2016, 8:12 a.m.</created>
+  <last-modified>March 10, 2017, 1:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259256">
+      <result code="1">1</result>
+      <band id="6629">Brotton Temperance</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="259257">
+      <result code="2">2</result>
+      <band id="6008">Brotton Old</band>
+      <conductor id="306114">Herbert Milburn</conductor>
+    </result>
+    
+    <result id="259258">
+      <result code="3">3</result>
+      <band id="6627">Guisborough Priory</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="259259">
+      <result code="4">4</result>
+      <band id="6628">Charltons Star of Hope</band>
+      <conductor id="304348">Charles Henry Kay</conductor>
+    </result>
+    
+    <result id="259260">
+      <result code="5">5</result>
+      <band id="1637">Skinningrove Miners Prize Silver Band</band>
+      <conductor id="305669">T. Martin</conductor>
+    </result>
+    
+    <result id="259261">
+      <result code="6">6</result>
+      <band id="6028">Loftus</band>
+      <conductor id="311825">R. Winter</conductor>
+    </result>
+    
+  </results>
+</contest-event>

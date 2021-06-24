@@ -1,0 +1,61 @@
+<contest-event id="23914">
+  <event-date date="1933-7-15">July 15, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wingate Contest</name>
+  <contest id="2527">
+    <name>Wingate Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wingate-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1091">Happy Memories</test-piece>
+  </test-piece>
+
+  <venue id="1881">Wingate, County Durham</venue>
+  <notes>  March contest - 1st Cargo Fleet, 2nd Brancepeth.
+  Hymn tune contest - 1st Hartlepool Operatic, 2nd Brancepeth.</notes>
+
+  <created>Sept. 16, 2013, 11:32 a.m.</created>
+  <last-modified>Sept. 16, 2013, 11:36 a.m.</last-modified>
+
+  <results>
+    
+    <result id="174707">
+      <result code="1">1</result>
+      <band id="3254">Cargo Fleet Steel</band>
+      <conductor id="303853">Harry Jackson</conductor>
+    </result>
+    
+    <result id="174708">
+      <result code="2">2</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="174709">
+      <result code="3">3</result>
+      <band id="3360">Wheatley Hill Colliery</band>
+      <conductor id="309866">William Straughan</conductor>
+    </result>
+    
+    <result id="174710">
+      <result code="4">4</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="304591">Edward Kitto</conductor>
+    </result>
+    
+    <result id="174711">
+      <result code="">Unknown Result</result>
+      <band id="3821">West Ardsley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

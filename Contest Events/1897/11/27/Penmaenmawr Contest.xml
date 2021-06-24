@@ -1,0 +1,50 @@
+<contest-event id="22454">
+  <event-date date="1897-11-27">Nov. 27, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Penmaenmawr Contest</name>
+  <contest id="4448">
+    <name>Penmaenmawr Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>penmaenmawr-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1933">Smiles and Tears</test-piece>
+  </test-piece>
+
+  <venue id="3701">Oxford Hall, Penmaenmawr</venue>
+  <notes>Prizes: £6, Case of cutlery
+March contest: 1. Bagillt, 2. Penmaenmawr
+3 bands competed</notes>
+
+  <created>Aug. 7, 2013, 1:36 p.m.</created>
+  <last-modified>July 13, 2019, 6:31 a.m.</last-modified>
+
+  <results>
+    
+    <result id="166924">
+      <result code="1">1</result>
+      <band id="6074">Llanfairfechan</band>
+      <conductor id="309933">J. Sullivan</conductor>
+    </result>
+    
+    <result id="166926">
+      <result code="2">2</result>
+      <band id="4508">Bagillt</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="166925">
+      <result code="3">3</result>
+      <band id="2740">Penmaenmawr Silver</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,62 @@
+<contest-event id="27425">
+  <event-date date="1900-8-4">Aug. 4, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wigton Contest</name>
+  <contest id="4341">
+    <name>Wigton Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wigton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1678">Songs of England [Round]</test-piece>
+  </test-piece>
+
+  <venue id="4691">Highmoor Park, Wigton, Cumbria, England, UK</venue>
+  <notes>March: 1. Spencer&#39;s, 2. Frizington, 3. Barrow Steel Works.
+5 bands competed.
+</notes>
+
+  <created>May 12, 2014, 4:58 p.m.</created>
+  <last-modified>April 6, 2020, 8:30 p.m.</last-modified>
+
+  <results>
+    
+    <result id="197556">
+      <result code="1">1</result>
+      <band id="4850">Liddesdale Temperance</band>
+      <conductor id="299958">James Crozier</conductor>
+    </result>
+    
+    <result id="317166">
+      <result code="2">2</result>
+      <band id="5674">Frizington St. Joseph</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="197558">
+      <result code="3">3</result>
+      <band id="1634">Spencer&#39;s Steelworks Prize Band</band>
+      <conductor id="314394">T. Valentine</conductor>
+    </result>
+    
+    <result id="197559">
+      <result code="4">4</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+    </result>
+    
+    <result id="289726">
+      <result code="5">5</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="300713">George Eastwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

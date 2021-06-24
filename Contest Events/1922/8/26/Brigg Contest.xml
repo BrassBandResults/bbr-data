@@ -1,0 +1,72 @@
+<contest-event id="25480">
+  <event-date date="1922-8-26">Aug. 26, 1922<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brigg Contest</name>
+  <contest id="4957">
+    <name>Brigg Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brigg-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2822">Recollections of Ireland</test-piece>
+  </test-piece>
+
+  <venue id="4310">Brigg, Lincolnshire, England, UK</venue>
+  <notes>March: 1. South Elmsall, 2. Bullcroft, 3. Barton</notes>
+
+  <created>Dec. 8, 2013, 9:16 p.m.</created>
+  <last-modified>Dec. 8, 2013, 9:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="185042">
+      <result code="1">1</result>
+      <band id="5">Carlton Main Frickley Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185038">
+      <result code="2">2</result>
+      <band id="3193">Bullcroft Miners Ambulance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185037">
+      <result code="3">3</result>
+      <band id="319">Barton Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185041">
+      <result code="4">4</result>
+      <band id="2626">Scunthorpe Borough British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185039">
+      <result code="5">5</result>
+      <band id="578">Kingsway Printers Cleethorpes</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185036">
+      <result code="">Unknown Result</result>
+      <band id="911">Barnetby Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185040">
+      <result code="">Unknown Result</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

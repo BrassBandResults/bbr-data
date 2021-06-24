@@ -1,0 +1,54 @@
+<contest-event id="24937">
+  <event-date date="1937-7-10">July 10, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Fairford Contest (Section 1)</name>
+  <contest id="3937">
+    <name>Fairford Contest (Section 1)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="398">Fairford Contest</group>
+    <slug>fairford-contest-section-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="529">The Crusaders</test-piece>
+  </test-piece>
+
+  <venue id="1210">Fairford, Gloucestershire, England, UK</venue>
+  <notes>  4 bands competed.</notes>
+
+  <created>Nov. 6, 2013, 9:44 a.m.</created>
+  <last-modified>Jan. 20, 2014, 4:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="181866">
+      <result code="1">1</result>
+      <band id="408">Hanwell Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="187326">
+      <result code="2">2</result>
+      <band id="3595">Cardiff Corporation Transport</band>
+      <conductor id="306836">Harry Nuttall</conductor>
+    </result>
+    
+    <result id="187327">
+      <result code="3">3</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="303028">Harry Heyes</conductor>
+    </result>
+    
+    <result id="187328">
+      <result code="4">4</result>
+      <band id="363">City of Cardiff (Melingriffith) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

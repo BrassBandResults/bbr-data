@@ -1,0 +1,55 @@
+<contest-event id="25261">
+  <event-date date="1939-6-17">June 17, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Redruth Contest (Section 2)</name>
+  <contest id="2894">
+    <name>Redruth Contest (Section 2)</name>
+    <order>1</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="466">Redruth Contest</group>
+    <slug>redruth-contest-section-2</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1228">Redruth, Cornwall</venue>
+  <notes>  Hymn tune contest - 1st St Keverne, 2nd St Stythians.
+  4 bands competed.</notes>
+
+  <created>Nov. 23, 2013, 10:37 a.m.</created>
+  <last-modified>Sept. 6, 2016, 8:51 a.m.</last-modified>
+
+  <results>
+    
+    <result id="184010">
+      <result code="1">1</result>
+      <band id="544">St. Stythians Band</band>
+      <conductor id="303541">Tom Hubbard</conductor>
+    </result>
+    
+    <result id="184011">
+      <result code="2">2</result>
+      <band id="7754">Delabole Ex-servicemen&#39;s Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184012">
+      <result code="2">2</result>
+      <band id="4011">Gweek Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184013">
+      <result code="4">4</result>
+      <band id="521">St. Keverne Band</band>
+      <conductor id="301483">E. France</conductor>
+    </result>
+    
+  </results>
+</contest-event>

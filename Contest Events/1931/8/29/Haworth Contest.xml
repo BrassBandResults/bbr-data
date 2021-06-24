@@ -1,0 +1,81 @@
+<contest-event id="24588">
+  <event-date date="1931-8-29">Aug. 29, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haworth Contest</name>
+  <contest id="1689">
+    <name>Haworth Contest</name>
+    <order>0</order>
+    <contest-type id="5">March, Hymn and Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1194">Central Park, Haworth, Yorkshire</venue>
+  <notes> March contest - 1st Bradford City, 2nd Slaithwaite, 3rd Lowerhouse Mills.
+Prizes - 1st £14, 2nd £8, 3rd £4, 
+  8 bands competed.
+  </notes>
+
+  <created>Oct. 20, 2013, 7:30 a.m.</created>
+  <last-modified>Dec. 17, 2018, 6:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="179838">
+      <result code="1">1</result>
+      <band id="894">Earby Band</band>
+      <conductor id="307245">F. Pawson</conductor>
+    </result>
+    
+    <result id="179839">
+      <result code="2">2</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302009">Harry Grace</conductor>
+    </result>
+    
+    <result id="179840">
+      <result code="3">3</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="310404">Noel Thorpe</conductor>
+    </result>
+    
+    <result id="179841">
+      <result code="4">4</result>
+      <band id="1714">Lowerhouse Mills Burnley</band>
+      <conductor id="309957">Herbert Sutcliffe</conductor>
+    </result>
+    
+    <result id="181173">
+      <result code="">Unknown Result</result>
+      <band id="145">Elland Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181174">
+      <result code="">Unknown Result</result>
+      <band id="2455">Keighley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181176">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="181175">
+      <result code="">Unknown Result</result>
+      <band id="707">Yorkshire Evening Post Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

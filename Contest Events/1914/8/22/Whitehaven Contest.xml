@@ -1,0 +1,78 @@
+<contest-event id="40534">
+  <event-date date="1914-8-22">Aug. 22, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitehaven Contest</name>
+  <contest id="4655">
+    <name>Whitehaven Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>whitehaven-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="2659">Whitehaven, Cumbria, England, UK</venue>
+  <notes>8 bands competed</notes>
+
+  <created>Oct. 4, 2018, 10:25 a.m.</created>
+  <last-modified>Dec. 10, 2020, 9:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294998">
+      <result code="1">1</result>
+      <band id="3403">Whitehaven Brass Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="294999">
+      <result code="2">2</result>
+      <band id="7505">Aspatria</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="294996">
+      <result code="3">3</result>
+      <band id="3400">Cockermouth Mechanics Band</band>
+      <conductor id="318438">Alfred Brady</conductor>
+    </result>
+    
+    <result id="294992">
+      <result code="4">4</result>
+      <band id="2597">Lowca Colliery</band>
+      <conductor id="305853">John McCubbrey</conductor>
+    </result>
+    
+    <result id="294993">
+      <result code="">Unknown Result</result>
+      <band id="9504">Dearham Subscription</band>
+      <conductor id="304560">W. Kirkbride</conductor>
+    </result>
+    
+    <result id="294997">
+      <result code="">Unknown Result</result>
+      <band id="142">Clifton and Lightcliffe Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="294994">
+      <result code="">Unknown Result</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="310156">J. C. Taylor</conductor>
+    </result>
+    
+    <result id="294995">
+      <result code="">Unknown Result</result>
+      <band id="12187">Cleator Moor St John&#39;s</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+  </results>
+</contest-event>

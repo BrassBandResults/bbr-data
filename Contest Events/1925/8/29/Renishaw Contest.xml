@@ -1,0 +1,61 @@
+<contest-event id="41175">
+  <event-date date="1925-8-29">Aug. 29, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Renishaw Contest</name>
+  <contest id="4650">
+    <name>Renishaw Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>renishaw-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5764">Echoes of the Opera or Der Wildschutz</test-piece>
+  </test-piece>
+
+  <venue id="2500">Renishaw Park, Eckington, Derbyshire, England, UK</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £6, 3rd £4.
+5 bands competed.</notes>
+
+  <created>Nov. 7, 2018, 11:16 a.m.</created>
+  <last-modified>Nov. 7, 2018, 11:20 a.m.</last-modified>
+
+  <results>
+    
+    <result id="299100">
+      <result code="1">1</result>
+      <band id="3281">Hickleton Main Welfare</band>
+      <conductor id="303686">Thomas Hunter</conductor>
+    </result>
+    
+    <result id="299101">
+      <result code="2">2</result>
+      <band id="10603">Chesterfield Old Comrades</band>
+      <conductor id="309039">L. Sheppard</conductor>
+    </result>
+    
+    <result id="299102">
+      <result code="3">3</result>
+      <band id="3323">Poolsbrook</band>
+      <conductor id="301438">William Foster</conductor>
+    </result>
+    
+    <result id="299104">
+      <result code="4">4</result>
+      <band id="1906">Killamarsh Silver Band</band>
+      <conductor id="298779">George Burnham</conductor>
+    </result>
+    
+    <result id="299103">
+      <result code="4">4</result>
+      <band id="4421">Sheffield Corporation Health Dept</band>
+      <conductor id="298229">Albert Bottom</conductor>
+    </result>
+    
+  </results>
+</contest-event>

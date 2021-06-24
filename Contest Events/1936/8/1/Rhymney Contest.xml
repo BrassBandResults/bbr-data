@@ -1,0 +1,65 @@
+<contest-event id="33637">
+  <event-date date="1936-8-1">Aug. 1, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhymney Contest</name>
+  <contest id="1870">
+    <name>Rhymney Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhymney-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1096">Autumn Echoes</test-piece>
+  </test-piece>
+
+  <venue id="1315">Rhymney, Caerphilly, Wales, UK</venue>
+  <notes>Ref: Merthyr Historian, vol 18, available at Merthyr Tydfil Central Library.
+March:
+1 Troedyrhiw
+Best Euphonium: Tom Williams, Troedyrhiw
+Best Cornet: Matt Williams, Troedyrhiw
+5 bands competed</notes>
+
+  <created>Dec. 23, 2015, 3:22 p.m.</created>
+  <last-modified>Jan. 12, 2019, 4:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="241490">
+      <result code="1">1</result>
+      <band id="4618">Troedyrhiw Silver</band>
+      <conductor id="311645">Joseph Williams</conductor>
+    </result>
+    
+    <result id="303372">
+      <result code="2">2</result>
+      <band id="13154">Six Bells</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303373">
+      <result code="3">3</result>
+      <band id="2428">Abertysswg Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303374">
+      <result code="4">4</result>
+      <band id="10540">Abertridwr</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="303375">
+      <result code="5">5</result>
+      <band id="6597">Caerphilly</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

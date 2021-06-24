@@ -1,0 +1,60 @@
+<contest-event id="16955">
+  <event-date date="1949-4-9">April 9, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>London and Southern Counties (Third Section)</name>
+  <contest id="59">
+    <name>London and Southern Counties (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="15">London and Southern Counties Area</group>
+    <slug>london-and-southern-counties-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes>None</notes>
+    <region id="4">London and Southern Counties</region>
+    <section id="4">Third</section>
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="248">Petite Suite de Ballet</test-piece>
+  </test-piece>
+
+  <venue id="503">Methodist Central Hall, Westminster, City of Westminster, Greater London, England, UK</venue>
+  <notes>  30 bands entered.</notes>
+
+  <created>Dec. 7, 2012, 4:20 p.m.</created>
+  <last-modified>Feb. 14, 2013, 8:28 a.m.</last-modified>
+
+  <results>
+    
+    <result id="129119">
+      <result code="1">1</result>
+      <band id="2149">Reading Spring Gardens Brass Band</band>
+      <conductor id="311112">George Watkins</conductor>
+    </result>
+    
+    <result id="137157">
+      <result code="2">2</result>
+      <band id="5924">Kent&#39;s Works (Luton)</band>
+      <conductor id="299936">George Crossland</conductor>
+    </result>
+    
+    <result id="137158">
+      <result code="3">3</result>
+      <band id="4906">Ealing Central</band>
+      <conductor id="298759">W. D. Burgess</conductor>
+    </result>
+    
+    <result id="137159">
+      <result code="4">4</result>
+      <band id="597">St. Albans City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="190561">
+      <result code="">Unknown Result</result>
+      <band id="3976">City of Southampton (Albion) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

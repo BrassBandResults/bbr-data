@@ -1,0 +1,52 @@
+<contest-event id="13467">
+  <event-date date="1930-8-23">Aug. 23, 1930<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Yate Contest</name>
+  <contest id="2831">
+    <name>Yate Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>yate-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1222">A Summer Day</test-piece>
+  </test-piece>
+
+  <venue id="2171">Yate, Gloucestershire, England, UK</venue>
+  <notes>Prizes - 1st £8 and shield, 2nd £5, 3rd £3.
+Cornet medal to East Compton.
+Euphonium medal to Lydney.
+Trombone and horn medals to Lister&#39;s Works.
+4 bands competed.</notes>
+
+  <created>May 17, 2012, 9:17 p.m.</created>
+  <last-modified>April 21, 2019, 11:33 a.m.</last-modified>
+
+  <results>
+    
+    <result id="106853">
+      <result code="1">1</result>
+      <band id="1255">Stinchcombe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106854">
+      <result code="2">2</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106855">
+      <result code="">Unknown Result</result>
+      <band id="8388">East Compton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

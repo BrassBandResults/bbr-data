@@ -1,0 +1,60 @@
+<contest-event id="13703">
+  <event-date date="1931-5-16">May 16, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brighton Contest (Section B)</name>
+  <contest id="2890">
+    <name>Brighton Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brighton-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1690">Runnymede</test-piece>
+  </test-piece>
+
+  <venue id="1257">Brighton, Sussex</venue>
+  <notes>
+
+  1st prize £8.8s. and cup.
+  2nd prize £3.3s.
+  3rd prize £2.2s.
+
+  Source - Musical Progress and Mail, June 1931.</notes>
+
+  <created>June 9, 2012, 12:24 p.m.</created>
+  <last-modified>June 9, 2012, 12:28 p.m.</last-modified>
+
+  <results>
+    
+    <result id="109175">
+      <result code="1">1</result>
+      <band id="4659">Haywards Heath Town</band>
+      <conductor id="298215">W. G. Bosley</conductor>
+    </result>
+    
+    <result id="109176">
+      <result code="2">2</result>
+      <band id="6460">Friary Brewery</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="109177">
+      <result code="3">3</result>
+      <band id="7312">West Crawley</band>
+      <conductor id="309491">F. Snelling</conductor>
+    </result>
+    
+    <result id="109178">
+      <result code="4">4</result>
+      <band id="5179">Thornton Heath</band>
+      <conductor id="303108">C. G. Hilliard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

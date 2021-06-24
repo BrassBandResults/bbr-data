@@ -1,0 +1,59 @@
+<contest-event id="12519">
+  <event-date date="1899-8-5">Aug. 5, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>East Hetton</name>
+  <contest id="2316">
+    <name>East Hetton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>east-hetton</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1855">Sunny Spain</test-piece>
+  </test-piece>
+
+  <venue id="3753">Kelloe Colliery, County Durham</venue>
+  <notes>
+  1st prize £7.
+  2nd prize £2.
+  3rd prize £1.
+
+  March contest 1st (£1) Thornley,  2nd (10s,) Hartlepool Recreation.</notes>
+
+  <created>April 15, 2012, 7:32 p.m.</created>
+  <last-modified>Aug. 9, 2013, 7:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100052">
+      <result code="1">1</result>
+      <band id="7608">Hartlepool Recreation</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100053">
+      <result code="2">2</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100054">
+      <result code="3">3</result>
+      <band id="7445">Oakenshaw [Durham]</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100055">
+      <result code="4">4</result>
+      <band id="7833">Quarrington Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

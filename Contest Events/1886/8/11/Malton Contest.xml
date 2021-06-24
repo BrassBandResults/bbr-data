@@ -1,0 +1,73 @@
+<contest-event id="17494">
+  <event-date date="1886-8-11">Aug. 11, 1886<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Malton Contest</name>
+  <contest id="1181">
+    <name>Malton Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>malton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1412">Malton, North Yorkshire, England, UK</venue>
+  <notes>Malton Gala
+Prizes: £25, £10, £5.
+5 bands competed</notes>
+
+  <created>Jan. 21, 2013, 1:29 p.m.</created>
+  <last-modified>Nov. 6, 2017, 11:10 a.m.</last-modified>
+
+  <results>
+    
+    <result id="132978">
+      <result code="1">1</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="132979">
+      <result code="2">2</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2794">L&#39;Etoile du Nord [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="132980">
+      <result code="3">3</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2452">Le Prophete [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="132981">
+      <result code="4">4</result>
+      <band id="6461">Malton Volunteer Rifle Band</band>
+      <conductor id="301784">J. J. Gibson</conductor>
+      <test-piece id="1784">The Heavens are Telling [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="132982">
+      <result code="5">5</result>
+      <band id="11789">Norton-on-Derwent</band>
+      <conductor id="310672">W. Turner</conductor>
+      <test-piece id="2856">Symphonies</test-piece>
+    </result>
+    
+    <result id="132983">
+      <result code="W">Withdrawn</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

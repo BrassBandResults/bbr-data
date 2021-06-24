@@ -1,0 +1,68 @@
+<contest-event id="40788">
+  <event-date date="1923-6-9">June 9, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brinsley Contest</name>
+  <contest id="4695">
+    <name>Brinsley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brinsley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2536">Sailor Songs [W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="4067">Brinsley, Nottinghamshire</venue>
+  <notes>March contest - 1st Brampton, 2nd Hucknall.
+Prizes - 1st £10 and cup, 2nd £4, 3rd £2.
+6 bands competed</notes>
+
+  <created>Oct. 18, 2018, 11:50 a.m.</created>
+  <last-modified>Oct. 18, 2018, 12:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296535">
+      <result code="1">1</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="300940">T. Entwistle</conductor>
+    </result>
+    
+    <result id="296536">
+      <result code="2">2</result>
+      <band id="2207">John Thompson Works Band</band>
+      <conductor id="311759">George Henry Wilson</conductor>
+    </result>
+    
+    <result id="296538">
+      <result code="3">3</result>
+      <band id="6107">Brampton &amp; District Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296537">
+      <result code="3">3</result>
+      <band id="4430">Hucknall BL</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296540">
+      <result code="">Unknown Result</result>
+      <band id="5208">Heanor Church Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296539">
+      <result code="">Unknown Result</result>
+      <band id="1712">Swanwick Colliery</band>
+      <conductor id="308659">J. Saint</conductor>
+    </result>
+    
+  </results>
+</contest-event>

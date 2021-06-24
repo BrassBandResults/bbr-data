@@ -1,0 +1,43 @@
+<contest-event id="12372">
+  <event-date date="1899-5-22">May 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Colwyn Bay Contest</name>
+  <contest id="1076">
+    <name>Colwyn Bay Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>colwyn-bay-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1251">Colwyn Bay, Conwy, Wales, UK</venue>
+  <notes>March contest 1st Llan Festiniog.
+2 bands competed</notes>
+
+  <created>April 13, 2012, 4:18 p.m.</created>
+  <last-modified>July 27, 2019, 12:44 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98939">
+      <result code="1">1</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="98940">
+      <result code="2">2</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

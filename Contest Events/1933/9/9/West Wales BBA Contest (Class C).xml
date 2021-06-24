@@ -1,0 +1,54 @@
+<contest-event id="25661">
+  <event-date date="1933-9-9">Sept. 9, 1933<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Wales BBA Contest (Class C)</name>
+  <contest id="4008">
+    <name>West Wales BBA Contest (Class C)</name>
+    <order>230</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="528">West Wales BBA Festival Contest</group>
+    <slug>west-wales-bba-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1852">Pride of Wales</test-piece>
+  </test-piece>
+
+  <venue id="2011">Brynamman, Glamorgan</venue>
+  <notes>  4 bands competed.</notes>
+
+  <created>Dec. 20, 2013, 11:49 a.m.</created>
+  <last-modified>April 21, 2018, 6:57 a.m.</last-modified>
+
+  <results>
+    
+    <result id="185827">
+      <result code="1">1</result>
+      <band id="9781">Cwmllynfell &amp; District Public Silver</band>
+      <conductor id="311623">Haydn Williams</conductor>
+    </result>
+    
+    <result id="185828">
+      <result code="2">2</result>
+      <band id="464">Crwbin Silver Band</band>
+      <conductor id="302059">D. T. Gravell</conductor>
+    </result>
+    
+    <result id="185829">
+      <result code="3">3</result>
+      <band id="6257">Swansea Town</band>
+      <conductor id="318301">Paul Jenkins</conductor>
+    </result>
+    
+    <result id="185830">
+      <result code="4">4</result>
+      <band id="8406">Gilbertson&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

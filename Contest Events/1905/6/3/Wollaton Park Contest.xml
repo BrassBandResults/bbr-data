@@ -1,0 +1,75 @@
+<contest-event id="23467">
+  <event-date date="1905-6-3">June 3, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Wollaton Park Contest</name>
+  <contest id="3447">
+    <name>Wollaton Park Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>wollaton-park-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2638">Wollaton Park, Nottingham</venue>
+  <notes>The Bath and West and Southern Counties Society Show  (yes - at Nottingham!)</notes>
+
+  <created>Sept. 5, 2013, 5:11 p.m.</created>
+  <last-modified>Sept. 5, 2013, 5:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="172345">
+      <result code="1">1</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1121">The Mastersingers (Die Meistersinger) [arr. Shipley]</test-piece>
+    </result>
+    
+    <result id="172346">
+      <result code="2">2</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2570">Mendelssohn [arr. Round]</test-piece>
+    </result>
+    
+    <result id="172347">
+      <result code="3">3</result>
+      <band id="6579">Newstead Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="3230">Poliuto [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="172348">
+      <result code="4">4</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="172349">
+      <result code="5">5</result>
+      <band id="1439">Kettering Town Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="172350">
+      <result code="6">6</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="172351">
+      <result code="7">7</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,47 @@
+<contest-event id="25846">
+  <event-date date="1937-7-10">July 10, 1937<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Trimdon Contest</name>
+  <contest id="2865">
+    <name>Trimdon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>trimdon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1360">Trimdon, County Durham</venue>
+  <notes>  March contest - 1st Hartlepool Mission (Knight Templar), 2nd Easington Colliery (Victor&#39;s Return).
+
+2 bands competed
+
+
+</notes>
+
+  <created>Jan. 13, 2014, 11:30 a.m.</created>
+  <last-modified>Nov. 9, 2019, 10:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="187324">
+      <result code="1">1</result>
+      <band id="11972">Easington Colliery Band</band>
+      <conductor id="310919">Richard Walker</conductor>
+    </result>
+    
+    <result id="187325">
+      <result code="2">2</result>
+      <band id="10010">West Hartlepool Mission Silver</band>
+      <conductor id="306104">Cliff Midgley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

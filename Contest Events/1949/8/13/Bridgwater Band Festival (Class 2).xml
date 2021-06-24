@@ -1,0 +1,55 @@
+<contest-event id="41871">
+  <event-date date="1949-8-13">Aug. 13, 1949<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bridgwater Band Festival (Class 2)</name>
+  <contest id="925">
+    <name>Bridgwater Band Festival (Class 2)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="273">Bridgwater Band Festival</group>
+    <slug>bridgwater-band-festival-class-2</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1376">The Mountain Chief</test-piece>
+  </test-piece>
+
+  <venue id="3086">Blake Gardens, Bridgwater, Somerset, England, UK</venue>
+  <notes>March contest - 1st Bridgwater Imperial, 2nd Bovey Tracey
+Prizes - 1st £15, 2nd £8, 3rd £5.</notes>
+
+  <created>March 1, 2019, 12:24 p.m.</created>
+  <last-modified>July 1, 2020, 7:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="305032">
+      <result code="1">1</result>
+      <band id="2069">Bridgwater Imperial</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="305033">
+      <result code="2">2</result>
+      <band id="1256">Glastonbury (Combined Edge Tools)</band>
+      <conductor id="296758">Lawrence Abram</conductor>
+    </result>
+    
+    <result id="305034">
+      <result code="3">3</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="311916">W. J. Wood</conductor>
+    </result>
+    
+    <result id="305035">
+      <result code="">Unknown Result</result>
+      <band id="10224">Bovey Tracey</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

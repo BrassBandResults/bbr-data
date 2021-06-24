@@ -1,0 +1,68 @@
+<contest-event id="11350">
+  <event-date date="1907-6-1">June 1, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Worsborough Dale Contest</name>
+  <contest id="2242">
+    <name>Worsborough Dale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>worsborough-dale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1674">Daughter of the Regiment [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1620">Worsborough, South Yorkshire</venue>
+  <notes>1st prize £7, 2nd prize £3.10s, 3rd prize £2, 4th prize £1.
+March contest 1st Houghton Main,  2nd  Grimesthorpe.
+6 bands competed.</notes>
+
+  <created>March 21, 2012, 7:29 p.m.</created>
+  <last-modified>Sept. 18, 2018, 1:56 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93520">
+      <result code="1">1</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="307898">George Ramsden</conductor>
+    </result>
+    
+    <result id="93521">
+      <result code="2">2</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="297596">Amos Bastow</conductor>
+    </result>
+    
+    <result id="93522">
+      <result code="3">3</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="298194">Joseph Boothroyd</conductor>
+    </result>
+    
+    <result id="93523">
+      <result code="4">4</result>
+      <band id="3694">Denaby Main Ambulance</band>
+      <conductor id="309513">M. Soar</conductor>
+    </result>
+    
+    <result id="93524">
+      <result code="">Unknown Result</result>
+      <band id="6338">Doncaster Temperance</band>
+      <conductor id="300870">J. W. Ellis</conductor>
+    </result>
+    
+    <result id="93525">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="313666">George H. Mercer</conductor>
+    </result>
+    
+  </results>
+</contest-event>

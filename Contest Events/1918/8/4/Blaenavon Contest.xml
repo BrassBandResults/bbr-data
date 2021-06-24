@@ -1,0 +1,49 @@
+<contest-event id="40663">
+  <event-date date="1918-8-4">Aug. 4, 1918<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blaenavon Contest</name>
+  <contest id="2668">
+    <name>Blaenavon Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blaenavon-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2296">I Puritani [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="2012">Blaenavon, Monmouthsire</venue>
+  <notes>March contest - 1st Garndiffaith, 2nd Bargoed.
+3 bands competed.</notes>
+
+  <created>Oct. 11, 2018, 9:14 p.m.</created>
+  <last-modified>June 25, 2020, 11:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="295777">
+      <result code="1">1</result>
+      <band id="7570">Bargoed</band>
+      <conductor id="318461">W. H. Bosanko</conductor>
+    </result>
+    
+    <result id="295778">
+      <result code="2">2</result>
+      <band id="17411">Garndiffaith</band>
+      <conductor id="318481">J. Griffen</conductor>
+    </result>
+    
+    <result id="295776">
+      <result code="3">3</result>
+      <band id="1865">Blaenavon Juniors</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

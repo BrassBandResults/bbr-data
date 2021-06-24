@@ -1,0 +1,73 @@
+<contest-event id="25295">
+  <event-date date="1939-11-25">Nov. 25, 1939<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scottish Championship (Third Section)</name>
+  <contest id="64">
+    <name>Scottish Championship (Third Section)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="7">Scottish Championship</group>
+    <slug>scottish-championship-third-section</slug>
+    <qualifies-for id="4">National Championship of Great Britain (Third Section Final)</qualifies-for>
+    <notes></notes>
+    <region id="7">Scotland</region>
+    <section id="4">Third</section>
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2532">Recollections of Meyerbeer [arr. Greenwood]</test-piece>
+  </test-piece>
+
+  <venue id="75">Usher Hall, Edinburgh, City of Edinburgh, Scotland, UK</venue>
+  <notes>
+  7 bands competed.</notes>
+
+  <created>Nov. 26, 2013, 10:16 a.m.</created>
+  <last-modified>Nov. 26, 2013, 10:19 a.m.</last-modified>
+
+  <results>
+    
+    <result id="184226">
+      <result code="1">1</result>
+      <band id="1240">West Calder Public Band</band>
+      <conductor id="297790">Herbert Bennett</conductor>
+    </result>
+    
+    <result id="184227">
+      <result code="2">2</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="308205">J. Riley</conductor>
+    </result>
+    
+    <result id="184228">
+      <result code="3">3</result>
+      <band id="664">Shotts St Patrick&#39;s Brass</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="184229">
+      <result code="">Unknown Result</result>
+      <band id="2058">Alloa Burgh</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184230">
+      <result code="">Unknown Result</result>
+      <band id="1697">Parkhead Forge (Glasgow)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184231">
+      <result code="">Unknown Result</result>
+      <band id="1997">Townhill Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="184232">
+      <result code="">Unknown Result</result>
+      <band id="5463">Victoria, Lochhead and Earlseat</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

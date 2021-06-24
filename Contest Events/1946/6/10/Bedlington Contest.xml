@@ -1,0 +1,55 @@
+<contest-event id="41776">
+  <event-date date="1946-6-10">June 10, 1946<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bedlington Contest</name>
+  <contest id="2802">
+    <name>Bedlington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bedlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="213">Bedlington, Northumberland</venue>
+  <notes>March contest - 1st Thornley, 2nd Bedlington, 3rd Sherburn Hill.
+5 bands competed.</notes>
+
+  <created>Feb. 9, 2019, 11:41 a.m.</created>
+  <last-modified>Feb. 9, 2019, 11:44 a.m.</last-modified>
+
+  <results>
+    
+    <result id="304229">
+      <result code="1">1</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304230">
+      <result code="2">2</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304231">
+      <result code="3">3</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="304232">
+      <result code="">Unknown Result</result>
+      <band id="6748">Sherburn Hill Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

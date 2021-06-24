@@ -1,0 +1,67 @@
+<contest-event id="24375">
+  <event-date date="1928-7-14">July 14, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Seven Sisters Contest (Class A)</name>
+  <contest id="2832">
+    <name>Seven Sisters Contest (Class A)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="446">Seven Sisters Contest</group>
+    <slug>seven-sisters-contest-class-a</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2507">Grand Selection: Spohr</test-piece>
+  </test-piece>
+
+  <venue id="4000">Memorial Hall, Seven Sisters, Neath, Glamorgan</venue>
+  <notes>
+  6 bands competed.</notes>
+
+  <created>Oct. 7, 2013, 10:52 a.m.</created>
+  <last-modified>Sept. 1, 2016, 12:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="177872">
+      <result code="1">1</result>
+      <band id="4694">Ystalyfera Town</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="177873">
+      <result code="2">2</result>
+      <band id="7200">Seven Sisters</band>
+      <conductor id="306332">D. W. Morgan</conductor>
+    </result>
+    
+    <result id="177874">
+      <result code="3">3</result>
+      <band id="10776">Gwaun-cae-Gurwen</band>
+      <conductor id="306407">Tal Morris</conductor>
+    </result>
+    
+    <result id="177877">
+      <result code="">Unknown Result</result>
+      <band id="6674">Brynamman Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177875">
+      <result code="">Unknown Result</result>
+      <band id="2566">Ystalyfera Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="177876">
+      <result code="">Unknown Result</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

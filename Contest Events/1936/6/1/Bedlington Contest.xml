@@ -1,0 +1,60 @@
+<contest-event id="28491">
+  <event-date date="1936-6-1">June 1, 1936<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bedlington Contest</name>
+  <contest id="2802">
+    <name>Bedlington Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bedlington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1683">National Airs</test-piece>
+  </test-piece>
+
+  <venue id="213">Bedlington, Northumberland</venue>
+  <notes>March: 1. Bedlington, 2. Brancepeth</notes>
+
+  <created>June 10, 2014, 8:17 p.m.</created>
+  <last-modified>June 10, 2014, 8:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202751">
+      <result code="1">1</result>
+      <band id="1676">Blyth LNER</band>
+      <conductor id="307898">George Ramsden</conductor>
+    </result>
+    
+    <result id="202753">
+      <result code="2">2</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="310159">J. W. Taylor</conductor>
+    </result>
+    
+    <result id="202752">
+      <result code="3">3</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="301140">John Faulds</conductor>
+    </result>
+    
+    <result id="202754">
+      <result code="4">4</result>
+      <band id="2753">Brancepeth Welfare Band</band>
+      <conductor id="312046">J. B. Wright</conductor>
+    </result>
+    
+    <result id="202750">
+      <result code="5">5</result>
+      <band id="7451">Bedlington Dr Pit Workmens Band</band>
+      <conductor id="306287">Michael Moore</conductor>
+    </result>
+    
+  </results>
+</contest-event>

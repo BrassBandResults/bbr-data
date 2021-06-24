@@ -1,0 +1,65 @@
+<contest-event id="17059">
+  <event-date date="1879-8-6">Aug. 6, 1879<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kidsgrove Contest</name>
+  <contest id="2327">
+    <name>Kidsgrove Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kidsgrove</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2785">Windmill Field, Kidsgrove</venue>
+  <notes>Quickstep contest: 1. Kidsgrove, 2. Cobridge</notes>
+
+  <created>Dec. 16, 2012, 6:01 p.m.</created>
+  <last-modified>Dec. 16, 2012, 6:06 p.m.</last-modified>
+
+  <results>
+    
+    <result id="129807">
+      <result code="1">1</result>
+      <band id="3542">East Lancashire Concert Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="129810">
+      <result code="2">2</result>
+      <band id="2596">Holme Mills</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="129811">
+      <result code="3">3</result>
+      <band id="1798">Kidsgrove Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="129808">
+      <result code="4">4</result>
+      <band id="1702">Biddulph</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1497">Honoria</test-piece>
+    </result>
+    
+    <result id="129809">
+      <result code="5">5</result>
+      <band id="10039">St Peter&#39;s Catholic (Cobridge)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1848">William Tell [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

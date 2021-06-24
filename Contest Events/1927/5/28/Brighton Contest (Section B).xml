@@ -1,0 +1,48 @@
+<contest-event id="28394">
+  <event-date date="1927-5-28">May 28, 1927<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brighton Contest (Section B)</name>
+  <contest id="2890">
+    <name>Brighton Contest (Section B)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brighton-contest-section-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1044">Operatic Beauties</test-piece>
+  </test-piece>
+
+  <venue id="1257">Brighton, Sussex</venue>
+  <notes></notes>
+
+  <created>June 9, 2014, 11:20 a.m.</created>
+  <last-modified>June 9, 2014, 11:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="202403">
+      <result code="1">1</result>
+      <band id="8980">Etchingham-Robertsbridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="300285">
+      <result code="2">2</result>
+      <band id="12657">Worthing Borough</band>
+      <conductor id="302513">J. J. Hampton</conductor>
+    </result>
+    
+    <result id="202404">
+      <result code="3">3</result>
+      <band id="8146">Turners Hill and Worth</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

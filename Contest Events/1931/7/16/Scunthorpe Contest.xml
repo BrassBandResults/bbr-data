@@ -1,0 +1,48 @@
+<contest-event id="28404">
+  <event-date date="1931-7-16">July 16, 1931<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Scunthorpe Contest</name>
+  <contest id="1395">
+    <name>Scunthorpe Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>scunthorpe-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1066">Gems of Old England</test-piece>
+  </test-piece>
+
+  <venue id="3735">Show Ground, Scunthorpe</venue>
+  <notes>March: 1. Scunthorpe, 2. Barnetby, 3. Ashby</notes>
+
+  <created>June 9, 2014, 1:59 p.m.</created>
+  <last-modified>June 9, 2014, 2:01 p.m.</last-modified>
+
+  <results>
+    
+    <result id="202471">
+      <result code="1">1</result>
+      <band id="2626">Scunthorpe Borough British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202472">
+      <result code="2">2</result>
+      <band id="11499">Ashby Men&#39;s Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="202473">
+      <result code="3">3</result>
+      <band id="911">Barnetby Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

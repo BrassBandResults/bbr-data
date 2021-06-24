@@ -1,0 +1,43 @@
+<contest-event id="24323">
+  <event-date date="1928-5-19">May 19, 1928<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bournemouth Contest (First Section)</name>
+  <contest id="2046">
+    <name>Bournemouth Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="131">Bournemouth Contest</group>
+    <slug>bournemouth-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1049">The Mastersingers (Die Meistersinger)</test-piece>
+  </test-piece>
+
+  <venue id="261">Winter Gardens, Bournemouth, Dorset, England, UK</venue>
+  <notes> Prizes - 1st £25 and shield, 2nd 15.
+ 2 bands competed.</notes>
+
+  <created>Oct. 4, 2013, 6:59 p.m.</created>
+  <last-modified>Oct. 23, 2017, 8:16 p.m.</last-modified>
+
+  <results>
+    
+    <result id="177549">
+      <result code="1">1</result>
+      <band id="294">Glastonbury Brass</band>
+      <conductor id="312119">J. B. Yorke</conductor>
+    </result>
+    
+    <result id="177550">
+      <result code="2">2</result>
+      <band id="8404">Boscombe Silver</band>
+      <conductor id="310433">Charlie Tiller</conductor>
+    </result>
+    
+  </results>
+</contest-event>

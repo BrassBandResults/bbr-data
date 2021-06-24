@@ -1,0 +1,84 @@
+<contest-event id="13381">
+  <event-date date="1897-9-4">Sept. 4, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Apsley Contest</name>
+  <contest id="2565">
+    <name>Apsley Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>apsley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1911">Sir Henry Bishop - selection [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="1922">Apsley, Hertfordshire</venue>
+  <notes>9 bands competed</notes>
+
+  <created>May 11, 2012, 5:15 p.m.</created>
+  <last-modified>July 11, 2019, 6:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106110">
+      <result code="1">1</result>
+      <band id="6784">Fenny Stratford Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="106111">
+      <result code="1">1</result>
+      <band id="2703">Wollaston Town</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="106112">
+      <result code="3">3</result>
+      <band id="622">Watford</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="106113">
+      <result code="4">4</result>
+      <band id="8271">Berkhamsted Volunteers</band>
+      <conductor id="298984">H. Cannon</conductor>
+    </result>
+    
+    <result id="106118">
+      <result code="">Unknown Result</result>
+      <band id="5575">Berkhamsted St. Peter&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106116">
+      <result code="">Unknown Result</result>
+      <band id="7805">Dunstable Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106115">
+      <result code="">Unknown Result</result>
+      <band id="11838">Leighton Buzzard Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106117">
+      <result code="">Unknown Result</result>
+      <band id="3788">Newport Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106114">
+      <result code="">Unknown Result</result>
+      <band id="1957">Woburn Sands</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

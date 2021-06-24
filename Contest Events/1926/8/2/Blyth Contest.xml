@@ -1,0 +1,74 @@
+<contest-event id="41249">
+  <event-date date="1926-8-2">Aug. 2, 1926<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blyth Contest</name>
+  <contest id="2402">
+    <name>Blyth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blyth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1217">Melodious Gems</test-piece>
+  </test-piece>
+
+  <venue id="4019">Croft Park, Blyth, Northumberland</venue>
+  <notes>Prizes - 1st £10 and cup, 2nd £5 and shield, 3rd £3, 4th £1.
+March contest - 1st North Seaton, 2nd Horden Colliery.
+7 band competed.</notes>
+
+  <created>Nov. 12, 2018, 2:19 p.m.</created>
+  <last-modified>Nov. 12, 2018, 2:34 p.m.</last-modified>
+
+  <results>
+    
+    <result id="299719">
+      <result code="1">1</result>
+      <band id="3650">Newcastle Corporation Tramways</band>
+      <conductor id="311013">Charles Ward</conductor>
+    </result>
+    
+    <result id="299720">
+      <result code="2">2</result>
+      <band id="291">BHK (UK) Horden Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="299721">
+      <result code="3">3</result>
+      <band id="1696">North Seaton</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="299722">
+      <result code="4">4</result>
+      <band id="580">Backworth Colliery Band</band>
+      <conductor id="300686">Joseph Crawford Dyson</conductor>
+    </result>
+    
+    <result id="299723">
+      <result code="">Unknown Result</result>
+      <band id="1676">Blyth LNER</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299725">
+      <result code="">Unknown Result</result>
+      <band id="8758">Cambois Workmen&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="299724">
+      <result code="">Unknown Result</result>
+      <band id="1624">Cowpen and Crofton Workmen&#39;s Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

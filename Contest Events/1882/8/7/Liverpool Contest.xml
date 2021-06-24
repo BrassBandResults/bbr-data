@@ -1,0 +1,97 @@
+<contest-event id="9003">
+  <event-date date="1882-8-7">Aug. 7, 1882<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Liverpool Contest</name>
+  <contest id="1190">
+    <name>Birkenhead Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>liverpool-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1554">Rienzi [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1046">Knowsley Park, Liverpool</venue>
+  <notes>6 bands competed
+</notes>
+
+  <created>Dec. 19, 2011, 1:14 p.m.</created>
+  <last-modified>Oct. 17, 2019, 9:37 a.m.</last-modified>
+
+  <results>
+    
+    <result id="78656">
+      <result code="1">1</result>
+      <band id="3562">Clayton le Moors</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="78657">
+      <result code="2">2</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="78658">
+      <result code="3">3</result>
+      <band id="205">Boarshurst Silver Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="78659">
+      <result code="4">4</result>
+      <band id="178">Mossley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="78660">
+      <result code="5">5</result>
+      <band id="2523">Radcliffe Temperance Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="238405">
+      <result code="6">6</result>
+      <band id="3726">Newchurch</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="312708">
+      <result code="W">Withdrawn</result>
+      <band id="18260">Glossop Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="312706">
+      <result code="W">Withdrawn</result>
+      <band id="179">Haydock Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="312704">
+      <result code="W">Withdrawn</result>
+      <band id="135">Meltham and Meltham Mills Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="312705">
+      <result code="W">Withdrawn</result>
+      <band id="6135">Rochdale Borough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="312707">
+      <result code="W">Withdrawn</result>
+      <band id="10455">Roughdale&#39;s (St. Helens)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

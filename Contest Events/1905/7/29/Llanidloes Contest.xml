@@ -1,0 +1,44 @@
+<contest-event id="10348">
+  <event-date date="1905-7-29">July 29, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Llanidloes Contest</name>
+  <contest id="1956">
+    <name>Llanidloes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>llanidloes-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1584">La Cenerentola</test-piece>
+  </test-piece>
+
+  <venue id="1388">Llanidloes, Powys, Wales, UK</venue>
+  <notes>1st prize £25. 2nd prize £15.
+March contest 1st Ferndale, 2nd Aberaman.
+Only 2 bands competed</notes>
+
+  <created>Feb. 16, 2012, 4:56 p.m.</created>
+  <last-modified>Sept. 11, 2018, 6:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="87254">
+      <result code="1">1</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="87255">
+      <result code="2">2</result>
+      <band id="1573">Aberaman</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+  </results>
+</contest-event>

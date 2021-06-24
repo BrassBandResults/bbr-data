@@ -1,0 +1,54 @@
+<contest-event id="44515">
+  <event-date date="1908-1-1">Jan. 1, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Queensland State Brass Band Championship (A Grade )</name>
+  <contest id="1469">
+    <name>Queensland State Brass Band Championship (A Grade)</name>
+    <order>10</order>
+    <contest-type id="18">Sacred, March, Set Test and Own Choice Contest</contest-type>
+    <group id="193">Queensland State Brass Band Championship</group>
+    <slug>queensland-state-brass-band-championship-a-grade</slug>
+    
+    <notes></notes>
+    <region id="16">Australia</region>
+    <section id="12">A Grade</section>
+  </contest>
+  <contest-type-override id="18">Sacred, March, Set Test and Own Choice Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="6542">II Trovatore</test-piece>
+  </test-piece>
+
+  <venue id="6991">Maryborough Exhibition Ground, Maryborough, Queensland, Australia</venue>
+  <notes>Quickstep March points included in championship  points listed under stage march</notes>
+
+  <created>May 6, 2021, 6:08 a.m.</created>
+  <last-modified>June 19, 2021, 1:16 a.m.</last-modified>
+
+  <results>
+    
+    <result id="325454">
+      <result code="1">1</result>
+      <band id="6433">Wide Bay Regiment Band</band>
+      <conductor id="302405">Alfred Hall</conductor>
+    </result>
+    
+    <result id="326225">
+      <result code="2">2</result>
+      <band id="5770">Gympie City Band</band>
+      <conductor id="320696">F. Jefferson</conductor>
+    </result>
+    
+    <result id="326226">
+      <result code="3">3</result>
+      <band id="19608">Toowoomba - Austral Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="326227">
+      <result code="4">4</result>
+      <band id="19677">Albert Street Church  -  Brisbane</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

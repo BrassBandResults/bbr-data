@@ -1,0 +1,52 @@
+<contest-event id="38735">
+  <event-date date="1887-8-1">Aug. 1, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest (Local Section)</name>
+  <contest id="2401">
+    <name>Barrow Contest (Local Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest-local-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2916">Cavendish Park, Barrow-in-Furness</venue>
+  <notes>Prizes - 1st £12, 2nd £7, 3rd £3.
+3 bands competed.</notes>
+
+  <created>Nov. 7, 2017, 10:06 a.m.</created>
+  <last-modified>Nov. 7, 2017, 10:13 a.m.</last-modified>
+
+  <results>
+    
+    <result id="281643">
+      <result code="1">1</result>
+      <band id="1510">Workington</band>
+      <conductor id="311682">W. Williams</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="281644">
+      <result code="2">2</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="313844">Joseph Paley</conductor>
+      <test-piece id="1576">Meyerbeer&#39;s Works [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="281645">
+      <result code="3">3</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+      <test-piece id="1506">Joan of Arc [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

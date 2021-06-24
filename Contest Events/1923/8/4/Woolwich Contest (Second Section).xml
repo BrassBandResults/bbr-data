@@ -1,0 +1,67 @@
+<contest-event id="40902">
+  <event-date date="1923-8-4">Aug. 4, 1923<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Woolwich Contest (Second Section)</name>
+  <contest id="6404">
+    <name>Woolwich Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>woolwich-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3858">Dawn of Spring</test-piece>
+  </test-piece>
+
+  <venue id="3594">Woolwich, Greenwich, Greater London, England, UK</venue>
+  <notes>March contest - 1st Letchworth, 2nd Blue Jackets, 3rd Tunbridge Wells.
+6 bands competed.</notes>
+
+  <created>Oct. 22, 2018, 12:06 p.m.</created>
+  <last-modified>Oct. 22, 2018, 12:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="296947">
+      <result code="1">1</result>
+      <band id="630">Letchworth Garden City</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296948">
+      <result code="2">2</result>
+      <band id="10698">Portsmouth Bluejackets</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296949">
+      <result code="3">3</result>
+      <band id="10499">Orpington British Legion</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296950">
+      <result code="">Unknown Result</result>
+      <band id="4908">Bromley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296951">
+      <result code="">Unknown Result</result>
+      <band id="11419">Tunbridge Wells Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="296952">
+      <result code="">Unknown Result</result>
+      <band id="10478">West Ham Boys</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

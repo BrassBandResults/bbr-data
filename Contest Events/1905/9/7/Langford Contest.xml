@@ -1,0 +1,60 @@
+<contest-event id="6098">
+  <event-date date="1905-9-7">Sept. 7, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Langford Contest</name>
+  <contest id="1030">
+    <name>Langford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>langford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    <test-piece id="1643">Gems of Irish Melody</test-piece>
+  </test-piece>
+
+  <venue id="5358">Manor Grounds, Langford, Bedfordshire</venue>
+  <notes>Choice of test piece: &quot;Gems of Irish Melody&quot; or &quot;The Mikado&quot; - however it appears that either Irish Melody was the selected choice of all bands, or the rules were changed to have only one test piece. 
+
+  1st prize £10 and cup  
+  2nd prize £5.
+  3rd prize £3.
+ 
+  4 bands competed.</notes>
+
+  <created>May 21, 2011, 7:18 p.m.</created>
+  <last-modified>Oct. 18, 2014, 9:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="53634">
+      <result code="1">1</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="53635">
+      <result code="2">2</result>
+      <band id="6591">Wellingborough Town</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="53636">
+      <result code="3">3</result>
+      <band id="6323">Peterborough Excelsior</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="53637">
+      <result code="4">4</result>
+      <band id="435">Bedford Town Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,73 @@
+<contest-event id="16055">
+  <event-date date="1875-7-3">July 3, 1875<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Whitchurch Contest</name>
+  <contest id="3304">
+    <name>Whitchurch Contest</name>
+    <order>0</order>
+    <contest-type id="11">Set Test and Own Choice</contest-type>
+    <group id=""></group>
+    <slug>whitchurch-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2534">White Lion Meadow, Whitchurch</venue>
+  <notes>Prizes: 15 guineas, 10 guineas, 6 guineas, 5 guineas, 4 guineas
+
+Cornet and case presented to Daniel Deane, St George&#39;s bandmaster, who played Eb cornet</notes>
+
+  <created>Nov. 11, 2012, 10:18 a.m.</created>
+  <last-modified>Nov. 11, 2012, 10:25 a.m.</last-modified>
+
+  <results>
+    
+    <result id="123484">
+      <result code="1">1</result>
+      <band id="9649">St George&#39;s (Wolverhampton)</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123485">
+      <result code="2">2</result>
+      <band id="1798">Kidsgrove Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="953">La Favorita [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="123488">
+      <result code="3">3</result>
+      <band id="3719">Bridgnorth Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123487">
+      <result code="4">4</result>
+      <band id="9752">Malinslee</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="967">Magic Flute [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123486">
+      <result code="5">5</result>
+      <band id="10107">Chesterton United</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2803">The Amber Witch [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="123489">
+      <result code="D">Disqualified</result>
+      <band id="3727">Shrewsbury Amateur Promenade</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

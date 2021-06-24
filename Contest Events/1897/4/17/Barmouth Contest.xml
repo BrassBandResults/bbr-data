@@ -1,0 +1,42 @@
+<contest-event id="13158">
+  <event-date date="1897-4-17">April 17, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barmouth Contest</name>
+  <contest id="2768">
+    <name>Barmouth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>barmouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1082">Halevy [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2120">Barmouth, Gwynedd, Wales, UK</venue>
+  <notes>Only two bands competed</notes>
+
+  <created>May 3, 2012, 9:47 p.m.</created>
+  <last-modified>Oct. 18, 2012, 1:25 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104488">
+      <result code="1">1</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="104489">
+      <result code="2">2</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

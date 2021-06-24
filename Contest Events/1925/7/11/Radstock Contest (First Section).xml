@@ -1,0 +1,63 @@
+<contest-event id="24974">
+  <event-date date="1925-7-11">July 11, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Radstock Contest (First Section)</name>
+  <contest id="4662">
+    <name>Radstock Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="447">Radstock Contest</group>
+    <slug>radstock-contest-first-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="4018">Radstock, Somerset, England, UK</venue>
+  <notes>Prizes - 1st £7.7s., 2nd £5.5s., 3rd £3.3s.
+  March contest - 1st Radstock, 2nd Midsomer Norton.
+Open to all bands
+5 bands competed</notes>
+
+  <created>Nov. 6, 2013, 3:29 p.m.</created>
+  <last-modified>Nov. 6, 2018, 9:21 a.m.</last-modified>
+
+  <results>
+    
+    <result id="181999">
+      <result code="1">1</result>
+      <band id="7302">Radstock Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182000">
+      <result code="2">2</result>
+      <band id="10619">Midsomer Norton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="182001">
+      <result code="3">3</result>
+      <band id="5778">Paulton Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185264">
+      <result code="">Unknown Result</result>
+      <band id="11621">Clutton Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="185265">
+      <result code="">Unknown Result</result>
+      <band id="10716">Single Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

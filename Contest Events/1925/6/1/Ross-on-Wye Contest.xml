@@ -1,0 +1,69 @@
+<contest-event id="33634">
+  <event-date date="1925-6-1">June 1, 1925<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ross-on-Wye Contest</name>
+  <contest id="4383">
+    <name>Ross-on-Wye Contest</name>
+    <order>0</order>
+    <contest-type id="8">Own Choice from a Specified List</contest-type>
+    <group id=""></group>
+    <slug>ross-on-wye-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="891">Echoes of the Opera</test-piece>
+  </test-piece>
+
+  <venue id="3620">Ross-on-Wye, Herefordshire, England, UK</venue>
+  <notes>Ref: Merthyr Historian, vol 18, available at Merthyr Tydfil Central Library.
+Prizes - 1st £20, 2nd £10, 3rd £5.
+March:  1st Thompsons Works, 2nd Troedyrhiw
+6 bands competed.</notes>
+
+  <created>Dec. 23, 2015, 3:06 p.m.</created>
+  <last-modified>Nov. 5, 2018, 5:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="298831">
+      <result code="1">1</result>
+      <band id="8582">Metropolitan Works (Birmingham)</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+    </result>
+    
+    <result id="241484">
+      <result code="2">2</result>
+      <band id="4618">Troedyrhiw Silver</band>
+      <conductor id="311645">Joseph Williams</conductor>
+    </result>
+    
+    <result id="298832">
+      <result code="3">3</result>
+      <band id="2207">John Thompson Works Band</band>
+      <conductor id="314540">G. H. Wilson</conductor>
+    </result>
+    
+    <result id="298834">
+      <result code="">Unknown Result</result>
+      <band id="8304">Aylesbury C.E.T.S</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298833">
+      <result code="">Unknown Result</result>
+      <band id="8031">Treharris</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="298835">
+      <result code="">Unknown Result</result>
+      <band id="6384">Woodgate Prize</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

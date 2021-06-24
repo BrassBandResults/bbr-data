@@ -1,0 +1,81 @@
+<contest-event id="10929">
+  <event-date date="1906-7-28">July 28, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cleethorpes Contest</name>
+  <contest id="2001">
+    <name>Cleethorpes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cleethorpes-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1415">Souvenir de Meyerbeer [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1433">Cleethorpes, Lincolnshire, England, UK</venue>
+  <notes>
+
+  1st prize £10.
+  2nd prize £4.
+  3rd prize £2.
+  4th prize £1.
+
+  March contest 1st Houghton Main, 2nd Kirkby Colliery.
+
+  7 bands competed.</notes>
+
+  <created>March 9, 2012, 6:35 p.m.</created>
+  <last-modified>March 9, 2012, 6:43 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90771">
+      <result code="1">1</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="90772">
+      <result code="2">2</result>
+      <band id="499">Kirkby Colliery Welfare Band</band>
+      <conductor id="300861">S. Elliott</conductor>
+    </result>
+    
+    <result id="90773">
+      <result code="3">3</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="90774">
+      <result code="4">4</result>
+      <band id="1590">Rotherham Borough</band>
+      <conductor id="300895">Charles John Elsom</conductor>
+    </result>
+    
+    <result id="90777">
+      <result code="">Unknown Result</result>
+      <band id="6625">Goole South Street</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90776">
+      <result code="">Unknown Result</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="90775">
+      <result code="">Unknown Result</result>
+      <band id="3626">Hull Wilson&#39;s</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
