@@ -1,0 +1,82 @@
+<contest-event id="13822">
+  <event-date date="1869-9-4">Sept. 4, 1869<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brierfield Contest</name>
+  <contest id="1446">
+    <name>Brierfield Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>brierfield-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="2260">Junction Hotel, Brierfield, Lancashire, England, UK</venue>
+  <notes>Prizes: £20, £12 10s, £7 10s, £5</notes>
+
+  <created>June 18, 2012, 10:17 p.m.</created>
+  <last-modified>June 18, 2012, 10:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="110361">
+      <result code="1">1</result>
+      <band id="7481">Burnley Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110360">
+      <result code="2">2</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1257">Lucrezia Borgia [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110363">
+      <result code="3">3</result>
+      <band id="3496">Trawden Brass</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1991">Herculaneum</test-piece>
+    </result>
+    
+    <result id="110362">
+      <result code="4">4</result>
+      <band id="8607">Barnoldswick Model</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1869">Torquato Tasso [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110367">
+      <result code="W">Withdrawn</result>
+      <band id="6389">Bacup Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110365">
+      <result code="W">Withdrawn</result>
+      <band id="18240">Darwen Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110366">
+      <result code="W">Withdrawn</result>
+      <band id="894">Earby Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110364">
+      <result code="W">Withdrawn</result>
+      <band id="3726">Newchurch</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

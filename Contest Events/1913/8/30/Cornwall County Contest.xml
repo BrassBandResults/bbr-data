@@ -1,0 +1,54 @@
+<contest-event id="25368">
+  <event-date date="1913-8-30">Aug. 30, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cornwall County Contest</name>
+  <contest id="2012">
+    <name>Cornwall County Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cornwall-county-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="1938">Emilia</test-piece>
+  </test-piece>
+
+  <venue id="4276">Trevethoe Park, Lelant</venue>
+  <notes>Best cornet - St Dennis.
+Best soprano and trombone - Camborne.
+Prizes: £15, £10, £5
+First Section contest</notes>
+
+  <created>Nov. 29, 2013, 11:06 p.m.</created>
+  <last-modified>Nov. 25, 2020, 3:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="184515">
+      <result code="1">1</result>
+      <band id="46">Camborne Town Band</band>
+      <conductor id="310737">William Uren</conductor>
+      <test-piece id="1411">Poliuto Suite [arr. Hawkins]</test-piece>
+    </result>
+    
+    <result id="184514">
+      <result code="2">2</result>
+      <band id="520">St. Dennis Band</band>
+      <conductor id="304319">William Juliff</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="184513">
+      <result code="3">3</result>
+      <band id="1776">Redruth Town</band>
+      <conductor id="311733">R. Wills</conductor>
+      <test-piece id="952">The Bohemian Girl [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

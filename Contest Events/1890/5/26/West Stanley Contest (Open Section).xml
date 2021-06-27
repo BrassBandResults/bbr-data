@@ -1,0 +1,68 @@
+<contest-event id="17876">
+  <event-date date="1890-5-26">May 26, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>West Stanley Contest (Open Section)</name>
+  <contest id="1862">
+    <name>West Stanley Contest (Open Section)</name>
+    <order>10</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="227">West Stanley Contest</group>
+    <slug>west-stanley-contest-open-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2315">Nil Desperandum</test-piece>
+  </test-piece>
+
+  <venue id="908">West Stanley, County Durham</venue>
+  <notes>Prizes: £15, £10, £7, £3
+March contest: 1. Annfield, 2. Cockerton.
+6 bands competed.</notes>
+
+  <created>Feb. 4, 2013, 10:31 a.m.</created>
+  <last-modified>May 23, 2019, 1:26 p.m.</last-modified>
+
+  <results>
+    
+    <result id="275393">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="316820">Anthony Snowdon</conductor>
+    </result>
+    
+    <result id="275391">
+      <result code="2">2</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="304493">E. Keskeys</conductor>
+    </result>
+    
+    <result id="275389">
+      <result code="3">3</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="311154">William Watson</conductor>
+    </result>
+    
+    <result id="275392">
+      <result code="4">4</result>
+      <band id="7933">Hebburn Artillery</band>
+      <conductor id="311932">J. Pearson</conductor>
+    </result>
+    
+    <result id="275390">
+      <result code="">Unknown Result</result>
+      <band id="4505">Spennymoor Temperance</band>
+      <conductor id="306561">John A. Mutton</conductor>
+    </result>
+    
+    <result id="275394">
+      <result code="">Unknown Result</result>
+      <band id="3667">Hartlepool Temperance</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+  </results>
+</contest-event>

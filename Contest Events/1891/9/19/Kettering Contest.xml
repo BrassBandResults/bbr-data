@@ -1,0 +1,91 @@
+<contest-event id="13800">
+  <event-date date="1891-9-19">Sept. 19, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Kettering Contest</name>
+  <contest id="2367">
+    <name>Kettering Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>kettering-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="963">Linda di Chamounix [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2251">North Park, Kettering</venue>
+  <notes>Organised by Kettering Town Band
+Quickstep results: -1st Prize Earls Barton Britannia, 2nd Prize Rainds Temperance, 3rd Prize Earls Barton Old
+Prizes: 11 guineas and 11 guinea baritone, £5 11s and 9 guinea cornet, 4 guineas and 6 guinea trombone, £3 10s, £2 2s.
+7 bands competed
+
+
+
+Reported in Northampton Herald, 11th September 1891</notes>
+
+  <created>June 16, 2012, 5:28 p.m.</created>
+  <last-modified>May 27, 2019, 9:42 p.m.</last-modified>
+
+  <results>
+    
+    <result id="110177">
+      <result code="1">1</result>
+      <band id="7949">Earls Barton Britannia</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="110178">
+      <result code="2">2</result>
+      <band id="417">Raunds Temperance Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="110179">
+      <result code="3">3</result>
+      <band id="7535">Rothwell Town [Northamptonshire]</band>
+      <conductor id="310006">Edwin Swift</conductor>
+    </result>
+    
+    <result id="110180">
+      <result code="4">4</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="110181">
+      <result code="5">5</result>
+      <band id="7947">Desborough Old</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="110183">
+      <result code="">Unknown Result</result>
+      <band id="3696">Burton Latimer Britannia</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="110182">
+      <result code="">Unknown Result</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="136345">
+      <result code="W">Withdrawn</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="136346">
+      <result code="W">Withdrawn</result>
+      <band id="8629">Walgrave Amateur</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,68 @@
+<contest-event id="9074">
+  <event-date date="1884-6-2">June 2, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Merthyr Contest</name>
+  <contest id="1607">
+    <name>Merthyr Contest</name>
+    <order>100</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="95">South Wales &amp; Monmouthshire Brass Band Association</group>
+    <slug>merthyr-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1505">Moses in Egypt [arr. Hecker]</test-piece>
+  </test-piece>
+
+  <venue id="1111">Penydarren Park, Merthyr</venue>
+  <notes>Prizes - 1st £30, 2nd £10, 3rd £5.
+2nd annual contest
+6 bands competed.</notes>
+
+  <created>Dec. 21, 2011, 2:33 p.m.</created>
+  <last-modified>Aug. 14, 2019, 4:10 p.m.</last-modified>
+
+  <results>
+    
+    <result id="79046">
+      <result code="1">1</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="303273">Harry L. Holding</conductor>
+    </result>
+    
+    <result id="79045">
+      <result code="2">2</result>
+      <band id="2930">Cyfarthfa Band</band>
+      <conductor id="305164">George Livesey</conductor>
+    </result>
+    
+    <result id="79050">
+      <result code="3">3</result>
+      <band id="4885">Glamorgan Artillery</band>
+      <conductor id="302535">George Hanney</conductor>
+    </result>
+    
+    <result id="79047">
+      <result code="">Unknown Result</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="302593">Tom Hardy</conductor>
+    </result>
+    
+    <result id="79048">
+      <result code="">Unknown Result</result>
+      <band id="4918">Merthyr Tydfil</band>
+      <conductor id="304272">Robert Jones</conductor>
+    </result>
+    
+    <result id="79049">
+      <result code="">Unknown Result</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="315305">William Stuart-Major</conductor>
+    </result>
+    
+  </results>
+</contest-event>

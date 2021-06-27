@@ -1,0 +1,79 @@
+<contest-event id="40421">
+  <event-date date="1913-2-22">Feb. 22, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pontypridd Contest (Class C)</name>
+  <contest id="2114">
+    <name>Pontypridd Contest (Class C)</name>
+    <order>30</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="240">Pontypridd Contest</group>
+    <slug>pontypridd-contest-class-c</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3085">Ynys-Angharad Park, Pontypridd, Glamorgan</venue>
+  <notes>7 bands competed.</notes>
+
+  <created>Sept. 29, 2018, 12:32 p.m.</created>
+  <last-modified>Sept. 29, 2018, 12:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294102">
+      <result code="1">1</result>
+      <band id="15">Tredegar Town Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2785">Un Ballo in Maschera [arr. Round]</test-piece>
+    </result>
+    
+    <result id="294100">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1671">Spohr&#39;s Works</test-piece>
+    </result>
+    
+    <result id="294099">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+    <result id="294103">
+      <result code="4">4</result>
+      <band id="9689">Caerau</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="3458">Land of the Shamrock</test-piece>
+    </result>
+    
+    <result id="294097">
+      <result code="">Unknown Result</result>
+      <band id="8031">Treharris</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2205">La Gitana</test-piece>
+    </result>
+    
+    <result id="294098">
+      <result code="">Unknown Result</result>
+      <band id="6260">Gilfachgoch</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1938">Emilia</test-piece>
+    </result>
+    
+    <result id="294101">
+      <result code="">Unknown Result</result>
+      <band id="9786">Treorchy Wesleyan</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2787">La Traviata [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

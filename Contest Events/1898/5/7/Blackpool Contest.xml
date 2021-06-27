@@ -1,0 +1,98 @@
+<contest-event id="13430">
+  <event-date date="1898-5-7">May 7, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blackpool Contest</name>
+  <contest id="1216">
+    <name>Blackpool Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="184">Blackpool Contest</group>
+    <slug>blackpool-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1956">Bed of Roses</test-piece>
+  </test-piece>
+
+  <venue id="1043">Raikes Hall Gardens, Blackpool</venue>
+  <notes>Prizes: £10, £6, £4, £2, £1
+March contest: 1. Burnley Temperance, 2. St. Anne&#39;s, 3. Pickup Bank
+11 bands competed.</notes>
+
+  <created>May 12, 2012, 8:43 p.m.</created>
+  <last-modified>July 15, 2019, 9:21 p.m.</last-modified>
+
+  <results>
+    
+    <result id="106554">
+      <result code="1">1</result>
+      <band id="6646">Pickup Bank</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="106555">
+      <result code="2">2</result>
+      <band id="5190">Withnell Fold</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="106556">
+      <result code="3">3</result>
+      <band id="7810">Farington Mills</band>
+      <conductor id="309484">Thomas Snape</conductor>
+    </result>
+    
+    <result id="106557">
+      <result code="4">4</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="308225">Robert Rimmer</conductor>
+    </result>
+    
+    <result id="106558">
+      <result code="4">4</result>
+      <band id="177">Freckleton Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="106559">
+      <result code="">Unknown Result</result>
+      <band id="12449">Blackburn Town</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="106560">
+      <result code="">Unknown Result</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="106564">
+      <result code="">Unknown Result</result>
+      <band id="4149">St. Anne&#39;s Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="106561">
+      <result code="">Unknown Result</result>
+      <band id="1651">Colne Borough</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="106562">
+      <result code="">Unknown Result</result>
+      <band id="7580">Blackpool Lifeboat</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="106563">
+      <result code="">Unknown Result</result>
+      <band id="2584">Lower Ince Temperance</band>
+      <conductor id="296931">Thomas Allsop</conductor>
+    </result>
+    
+  </results>
+</contest-event>

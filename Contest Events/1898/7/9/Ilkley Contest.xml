@@ -1,0 +1,61 @@
+<contest-event id="13545">
+  <event-date date="1898-7-9">July 9, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ilkley Contest</name>
+  <contest id="1573">
+    <name>Ilkley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ilkley</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1956">Bed of Roses</test-piece>
+  </test-piece>
+
+  <venue id="4522">Wray&#39;s Pleasure Gardens, Ilkley, Yorkshire</venue>
+  <notes>Prizes: £8, £6, £4, £3
+5 bands entered, 4 bands competed</notes>
+
+  <created>May 22, 2012, 9:38 p.m.</created>
+  <last-modified>July 18, 2019, 9:12 p.m.</last-modified>
+
+  <results>
+    
+    <result id="107409">
+      <result code="1">1</result>
+      <band id="6882">Copley and Skircoat</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="107410">
+      <result code="2">2</result>
+      <band id="276">Wallace Arnold (Rothwell) Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="107411">
+      <result code="3">3</result>
+      <band id="4576">Farsley</band>
+      <conductor id="319411">Charles Lee</conductor>
+    </result>
+    
+    <result id="107412">
+      <result code="4">4</result>
+      <band id="3144">Black Dyke Mills Junior</band>
+      <conductor id="298269">Phineas Bower</conductor>
+    </result>
+    
+    <result id="205377">
+      <result code="W">Withdrawn</result>
+      <band id="3229">Castleford New Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

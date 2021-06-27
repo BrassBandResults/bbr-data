@@ -1,0 +1,69 @@
+<contest-event id="11886">
+  <event-date date="1892-8-27">Aug. 27, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Blyth Contest</name>
+  <contest id="2402">
+    <name>Blyth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>blyth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1001">Cinq Mars [arr. Godfrey]</test-piece>
+  </test-piece>
+
+  <venue id="1758">Blyth, Northumberland</venue>
+  <notes>Best cornet, trombone and euphonium to Kingston Mills.
+Quickstep: 1. Kingston Mills, 2. South Derwent, 3. Tanfield.
+Prizes - 1st £30, 2nd £20, 3rd £12, 4th £6, 5th £4, 6th £3.
+6 bands competed.</notes>
+
+  <created>April 8, 2012, 10:54 a.m.</created>
+  <last-modified>June 3, 2019, 8:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95965">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="137595">
+      <result code="2">2</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="137596">
+      <result code="3">3</result>
+      <band id="11281">Hartlepool Borough Prize</band>
+      <conductor id="299740">J. Cornforth</conductor>
+    </result>
+    
+    <result id="137597">
+      <result code="4">4</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="137598">
+      <result code="5">5</result>
+      <band id="7933">Hebburn Artillery</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="137599">
+      <result code="6">6</result>
+      <band id="9789">Blyth Artillery Volunteers (Cowpen)</band>
+      <conductor id="305697">J. R. Mason</conductor>
+    </result>
+    
+  </results>
+</contest-event>

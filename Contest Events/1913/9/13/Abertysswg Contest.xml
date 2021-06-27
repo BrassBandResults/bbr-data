@@ -1,0 +1,55 @@
+<contest-event id="40486">
+  <event-date date="1913-9-13">Sept. 13, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abertysswg Contest</name>
+  <contest id="2147">
+    <name>Abertysswg Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>abertysswg-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2790">Gems of the Old Days</test-piece>
+  </test-piece>
+
+  <venue id="1560">Abertysswg, Caerphilly, Wales, UK</venue>
+  <notes>Promoted by McLaren&#39;s Workmens band.
+4 bands competed,</notes>
+
+  <created>Oct. 1, 2018, 4:12 p.m.</created>
+  <last-modified>Oct. 1, 2018, 4:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294542">
+      <result code="1">1</result>
+      <band id="9662">Llanhilleth</band>
+      <conductor id="311106">W. B. Watkin</conductor>
+    </result>
+    
+    <result id="294544">
+      <result code="2">2</result>
+      <band id="6596">Deri</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="294543">
+      <result code="3">3</result>
+      <band id="9697">Cwmsyfiog and Brithdir</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="294545">
+      <result code="4">4</result>
+      <band id="8031">Treharris</band>
+      <conductor id="301017">W. H. Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

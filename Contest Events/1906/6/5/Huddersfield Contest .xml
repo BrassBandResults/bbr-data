@@ -1,0 +1,73 @@
+<contest-event id="10804">
+  <event-date date="1906-6-5">June 5, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Huddersfield Contest </name>
+  <contest id="1869">
+    <name>Huddersfield Band of Hope Union Contest </name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="455">Huddersfield Band of Hope Union Contest</group>
+    <slug>huddersfield-contest-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="888">Satanella [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="5653">Greenhead Park, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes>Prizes - 1st £18, 2nd £10, 3rd £6, 4th £3, 5th £2, 6th £1.
+7 bands competed.</notes>
+
+  <created>March 4, 2012, 1:13 p.m.</created>
+  <last-modified>Sept. 13, 2018, 5:51 p.m.</last-modified>
+
+  <results>
+    
+    <result id="90102">
+      <result code="1">1</result>
+      <band id="29">Wingates Band</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="90103">
+      <result code="2">2</result>
+      <band id="54">Lindley Band</band>
+      <conductor id="305217">Benjamin Lodge</conductor>
+    </result>
+    
+    <result id="90104">
+      <result code="3">3</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+    <result id="90105">
+      <result code="4">4</result>
+      <band id="1618">Bradford City</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="90106">
+      <result code="5">5</result>
+      <band id="134">Slaithwaite Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="90107">
+      <result code="6">6</result>
+      <band id="5885">Huddersfield Fire Brigade</band>
+      <conductor id="306171">J. W. Milnes</conductor>
+    </result>
+    
+    <result id="90108">
+      <result code="7">7</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="302071">Alfred Gray</conductor>
+    </result>
+    
+  </results>
+</contest-event>

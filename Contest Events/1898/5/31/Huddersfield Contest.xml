@@ -1,0 +1,80 @@
+<contest-event id="7895">
+  <event-date date="1898-5-31">May 31, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Huddersfield Contest</name>
+  <contest id="1869">
+    <name>Huddersfield Band of Hope Union Contest </name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="455">Huddersfield Band of Hope Union Contest</group>
+    <slug>huddersfield-contest-1</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2771">La Favorita [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="5653">Greenhead Park, Huddersfield, West Yorkshire, England, UK</venue>
+  <notes>Huddersfield Band of Hope Union Band Contest
+Prizes: £10, £7, £3, £1 10s, £1
+8 bands competed</notes>
+
+  <created>Oct. 24, 2011, 5:44 p.m.</created>
+  <last-modified>July 16, 2019, 10:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="107158">
+      <result code="1">1</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="107159">
+      <result code="2">2</result>
+      <band id="33">Marsden Silver Prize Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="107160">
+      <result code="3">3</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+    </result>
+    
+    <result id="70108">
+      <result code="4">4</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="107161">
+      <result code="5">5</result>
+      <band id="144">Rockingham Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="107163">
+      <result code="">Unknown Result</result>
+      <band id="4960">Almondbury</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107164">
+      <result code="">Unknown Result</result>
+      <band id="6624">Bradford Postmen</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107162">
+      <result code="">Unknown Result</result>
+      <band id="2691">Scapegoat Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,60 @@
+<contest-event id="8031">
+  <event-date date="1898-6-25">June 25, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stanningley Contest</name>
+  <contest id="1402">
+    <name>Stanningley Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>stanningley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="4">March Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1917">Stanningley, West Yorkshire</venue>
+  <notes>Prizes: £4, £2</notes>
+
+  <created>Nov. 3, 2011, 3:09 p.m.</created>
+  <last-modified>May 22, 2012, 9:24 p.m.</last-modified>
+
+  <results>
+    
+    <result id="72491">
+      <result code="1">1</result>
+      <band id="3137">Leeds City</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="107359">
+      <result code="2">2</result>
+      <band id="1636">Armley and Wortley Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107362">
+      <result code="">Unknown Result</result>
+      <band id="3494">Farnley Ironworks</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107361">
+      <result code="">Unknown Result</result>
+      <band id="4576">Farsley</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="107360">
+      <result code="">Unknown Result</result>
+      <band id="3756">Stanningley and District Sub</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

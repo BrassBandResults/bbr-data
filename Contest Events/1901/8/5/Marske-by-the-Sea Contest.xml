@@ -1,0 +1,54 @@
+<contest-event id="40001">
+  <event-date date="1901-8-5">Aug. 5, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marske-by-the-Sea Contest</name>
+  <contest id="1451">
+    <name>Marske-by-the-Sea Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>marske-by-the-sea-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="944">Marske-by-the-Sea, North Yorkshire</venue>
+  <notes></notes>
+
+  <created>June 24, 2018, 9:03 p.m.</created>
+  <last-modified>April 28, 2020, 11:52 a.m.</last-modified>
+
+  <results>
+    
+    <result id="290781">
+      <result code="1">1</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="290782">
+      <result code="2">2</result>
+      <band id="1619">Middlesbrough (Milburn&#39;s)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290783">
+      <result code="3">3</result>
+      <band id="6628">Charltons Star of Hope</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="290784">
+      <result code="4">4</result>
+      <band id="10707">Skinningrove Iron &amp; Steel Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

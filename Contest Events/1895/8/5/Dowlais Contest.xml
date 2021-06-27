@@ -1,0 +1,44 @@
+<contest-event id="12581">
+  <event-date date="1895-8-5">Aug. 5, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dowlais Contest</name>
+  <contest id="2611">
+    <name>Dowlais Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dowlais-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1812">Lucrezia Borgia [arr. Gladney]</test-piece>
+  </test-piece>
+
+  <venue id="1963">Dowlais, Glamorgan</venue>
+  <notes>2 bands competed
+Prizes: £10, £5
+</notes>
+
+  <created>April 17, 2012, 9:46 p.m.</created>
+  <last-modified>Dec. 10, 2019, 1:48 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100422">
+      <result code="1">1</result>
+      <band id="7498">Dowlais Town</band>
+      <conductor id="306607">J. Nash</conductor>
+    </result>
+    
+    <result id="100423">
+      <result code="2">2</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="297559">W. Barrow</conductor>
+    </result>
+    
+  </results>
+</contest-event>

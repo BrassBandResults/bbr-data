@@ -1,0 +1,80 @@
+<contest-event id="39625">
+  <event-date date="1911-8-26">Aug. 26, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Nelson Contest</name>
+  <contest id="1279">
+    <name>Nelson Contest</name>
+    <order>10</order>
+    <contest-type id="13">Other</contest-type>
+    <group id="334">Nelson Contest</group>
+    <slug>nelson-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3458">Land of the Shamrock</test-piece>
+  </test-piece>
+
+  <venue id="1424">Nelson, Lancashire, England, UK</venue>
+  <notes>March contest - 1st Burnley Temperance, 2nd Longridge St Lawrence.
+8 bands competed.
+</notes>
+
+  <created>May 19, 2018, 8:21 a.m.</created>
+  <last-modified>Nov. 9, 2020, 1:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287280">
+      <result code="1">1</result>
+      <band id="3312">Burnley Temperance</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="287277">
+      <result code="2">2</result>
+      <band id="1631">Nelson Old</band>
+      <conductor id="312383">G. F. Bedford</conductor>
+    </result>
+    
+    <result id="287281">
+      <result code="3">3</result>
+      <band id="173">Longridge Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="287279">
+      <result code="4">4</result>
+      <band id="894">Earby Band</band>
+      <conductor id="317963">F. Lord</conductor>
+    </result>
+    
+    <result id="287278">
+      <result code="5">5</result>
+      <band id="4274">Brierfield Public</band>
+      <conductor id="311470">J. Whittaker</conductor>
+    </result>
+    
+    <result id="322610">
+      <result code="">Unknown Result</result>
+      <band id="18213">Accrington Old</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322609">
+      <result code="">Unknown Result</result>
+      <band id="6351">Pendle Forest</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="322608">
+      <result code="">Unknown Result</result>
+      <band id="9673">Sabden</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

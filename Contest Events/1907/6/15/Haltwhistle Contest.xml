@@ -1,0 +1,59 @@
+<contest-event id="11357">
+  <event-date date="1907-6-15">June 15, 1907<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Haltwhistle Contest</name>
+  <contest id="2087">
+    <name>Haltwhistle Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>haltwhistle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="991">Il Barbiere [arr. Winterbottom]</test-piece>
+  </test-piece>
+
+  <venue id="1522">Haltwhistle, Northumberland</venue>
+  <notes>  1st prize £10.
+  2nd prize £5.
+  3rd prize £2.10s.
+  4th prize £1.
+
+  March contest  1st South Moor,  2nd Haltwhistle Old.</notes>
+
+  <created>March 21, 2012, 10:25 p.m.</created>
+  <last-modified>April 13, 2012, 9:31 p.m.</last-modified>
+
+  <results>
+    
+    <result id="93559">
+      <result code="1">1</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="93560">
+      <result code="2">2</result>
+      <band id="3212">Hexham Excelsior Town</band>
+      <conductor id="302878">Frank Hedley</conductor>
+    </result>
+    
+    <result id="93561">
+      <result code="3">3</result>
+      <band id="5762">Haltwhistle Old</band>
+      <conductor id="308850">T. Scott</conductor>
+    </result>
+    
+    <result id="93562">
+      <result code="4">4</result>
+      <band id="7232">South Tyne</band>
+      <conductor id="302878">Frank Hedley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

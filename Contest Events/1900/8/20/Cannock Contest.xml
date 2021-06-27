@@ -1,0 +1,91 @@
+<contest-event id="8091">
+  <event-date date="1900-8-20">Aug. 20, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cannock Contest</name>
+  <contest id="1198">
+    <name>Cannock Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="213">Cannock Contest</group>
+    <slug>cannock-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="8">Own Choice from a Specified List</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1429">Cannock, Staffordshire</venue>
+  <notes>Prizes - 1st £16, 2nd £12, 3rd £9, 4th £5, 5th £3.
+Best horn - Coseley.
+Best soprano and euphonium - Prince&#39;s End.
+Best cornet - Burslem.
+Best trombone - Aston.
+8 bands competed.</notes>
+
+  <created>Nov. 7, 2011, 3:15 p.m.</created>
+  <last-modified>June 16, 2018, 9:11 a.m.</last-modified>
+
+  <results>
+    
+    <result id="73266">
+      <result code="1">1</result>
+      <band id="4429">Coseley</band>
+      <conductor id="301261">Squire Firth</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="289771">
+      <result code="2">2</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="289773">
+      <result code="3">3</result>
+      <band id="3580">Burslem Borough</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="289774">
+      <result code="4">4</result>
+      <band id="10966">Aston Water Works</band>
+      <conductor id="309213">John King Skinner</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="289769">
+      <result code="5">5</result>
+      <band id="5185">East Kirkby United</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+      <test-piece id="2564">Oberon [arr. Round]</test-piece>
+    </result>
+    
+    <result id="289770">
+      <result code="">Unknown Result</result>
+      <band id="5285">Cannock</band>
+      <conductor id="308025">C. Reeves</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="236154">
+      <result code="">Unknown Result</result>
+      <band id="12785">Stafford Temperance Band</band>
+      <conductor id="297430">George Banks</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+    <result id="289772">
+      <result code="">Unknown Result</result>
+      <band id="1625">West Bromwich Borough</band>
+      <conductor id="301261">Squire Firth</conductor>
+      <test-piece id="1678">Songs of England [Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

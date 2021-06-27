@@ -1,0 +1,74 @@
+<contest-event id="15641">
+  <event-date date="1912-9-14">Sept. 14, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cockermouth Contest</name>
+  <contest id="2369">
+    <name>Cockermouth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cockermouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2118">Bouquet of Ballads</test-piece>
+  </test-piece>
+
+  <venue id="2591">Cockermouth, Cumbria, England, UK</venue>
+  <notes>March contest 1st Moor Row, 2nd Barrow Steelworks.
+Best trombone - Clifton.
+7 bands competed.</notes>
+
+  <created>Oct. 27, 2012, 4:48 p.m.</created>
+  <last-modified>Sept. 28, 2018, 3:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="120827">
+      <result code="1">1</result>
+      <band id="7621">Cleator Moor St.Mary&#39;s</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="120828">
+      <result code="2">2</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="120829">
+      <result code="3">3</result>
+      <band id="248">Dearham Band</band>
+      <conductor id="296989">Charles Anderson</conductor>
+    </result>
+    
+    <result id="120830">
+      <result code="4">4</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="297353">A. Baker</conductor>
+    </result>
+    
+    <result id="120831">
+      <result code="">Unknown Result</result>
+      <band id="9504">Dearham Subscription</band>
+      <conductor id="304560">W. Kirkbride</conductor>
+    </result>
+    
+    <result id="120833">
+      <result code="">Unknown Result</result>
+      <band id="7926">Whitehaven Artillery</band>
+      <conductor id="311636">J. Williams</conductor>
+    </result>
+    
+    <result id="120832">
+      <result code="">Unknown Result</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="301811">James Gilchrist</conductor>
+    </result>
+    
+  </results>
+</contest-event>

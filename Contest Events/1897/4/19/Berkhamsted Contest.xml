@@ -1,0 +1,92 @@
+<contest-event id="13174">
+  <event-date date="1897-4-19">April 19, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Berkhamsted Contest</name>
+  <contest id="2770">
+    <name>Berkhamsted Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>berkhamsted-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1919">Love in a Mist</test-piece>
+  </test-piece>
+
+  <venue id="3441">Castle Grounds, Berkhamsted</venue>
+  <notes>Promoted by St Peter&#39;s Brass Band
+Prizes: £5, £3, £2, £1
+10 bands comp-eted</notes>
+
+  <created>May 3, 2012, 10:49 p.m.</created>
+  <last-modified>July 6, 2019, 9:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="104637">
+      <result code="1">1</result>
+      <band id="8271">Berkhamsted Volunteers</band>
+      <conductor id="298984">H. Cannon</conductor>
+    </result>
+    
+    <result id="104638">
+      <result code="2">2</result>
+      <band id="2974">Newport Pagnell Town Band</band>
+      <conductor id="302365">James Hager</conductor>
+    </result>
+    
+    <result id="104639">
+      <result code="3">3</result>
+      <band id="622">Watford</band>
+      <conductor id="308625">Randolph Ryan</conductor>
+    </result>
+    
+    <result id="104640">
+      <result code="4">4</result>
+      <band id="6784">Fenny Stratford Town</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="104641">
+      <result code="">Unknown Result</result>
+      <band id="7805">Dunstable Borough</band>
+      <conductor id="306905">John Thomas Ogden</conductor>
+    </result>
+    
+    <result id="104645">
+      <result code="">Unknown Result</result>
+      <band id="8273">Cricklewood Midland Loco&#39;</band>
+      <conductor id="306233">H. T. Money</conductor>
+    </result>
+    
+    <result id="104643">
+      <result code="">Unknown Result</result>
+      <band id="1957">Woburn Sands</band>
+      <conductor id="302365">James Hager</conductor>
+    </result>
+    
+    <result id="104642">
+      <result code="">Unknown Result</result>
+      <band id="4798">Dunstable Excelsior</band>
+      <conductor id="309213">John King Skinner</conductor>
+    </result>
+    
+    <result id="104644">
+      <result code="">Unknown Result</result>
+      <band id="8272">Boxmoor Oxford Club</band>
+      <conductor id="303850">E. J. Jackson</conductor>
+    </result>
+    
+    <result id="104646">
+      <result code="">Unknown Result</result>
+      <band id="1729">Hazell&#39;s Printing Works</band>
+      <conductor id="307263">Robert Payne</conductor>
+    </result>
+    
+  </results>
+</contest-event>

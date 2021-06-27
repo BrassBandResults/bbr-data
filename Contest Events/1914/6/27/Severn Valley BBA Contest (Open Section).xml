@@ -1,0 +1,72 @@
+<contest-event id="25399">
+  <event-date date="1914-6-27">June 27, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Severn Valley BBA Contest (Open Section)</name>
+  <contest id="4946">
+    <name>Severn Valley BBA Contest (Open Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="461">Severn Valley BBA Contest</group>
+    <slug>severn-valley-bba-contest-open-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="4292">Thornbury, Gloucestershire, England, UK</venue>
+  <notes>7 bands competed</notes>
+
+  <created>Dec. 2, 2013, 2:16 p.m.</created>
+  <last-modified>Oct. 4, 2018, 7:03 a.m.</last-modified>
+
+  <results>
+    
+    <result id="184657">
+      <result code="1">1</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="304226">J. L. Jones</conductor>
+    </result>
+    
+    <result id="184658">
+      <result code="2">2</result>
+      <band id="7402">Tytherington</band>
+      <conductor id="301219">J. E. Fidler</conductor>
+    </result>
+    
+    <result id="184659">
+      <result code="3">3</result>
+      <band id="7462">Bristol Temperance</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="294939">
+      <result code="4">4</result>
+      <band id="958">Lydney Band</band>
+      <conductor id="318434">J. Imm</conductor>
+    </result>
+    
+    <result id="294940">
+      <result code="">Unknown Result</result>
+      <band id="12371">Avonmouth Labour</band>
+      <conductor id="307584">H. Poole</conductor>
+    </result>
+    
+    <result id="294941">
+      <result code="">Unknown Result</result>
+      <band id="1255">Stinchcombe Band</band>
+      <conductor id="318435">Cyril Webb</conductor>
+    </result>
+    
+    <result id="294942">
+      <result code="">Unknown Result</result>
+      <band id="9844">Sharpness Temperance</band>
+      <conductor id="302176">Willie Greenwood</conductor>
+    </result>
+    
+  </results>
+</contest-event>

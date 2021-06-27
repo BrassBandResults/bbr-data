@@ -1,0 +1,67 @@
+<contest-event id="17912">
+  <event-date date="1890-8-2">Aug. 2, 1890<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barrow Contest (Local Section)</name>
+  <contest id="2401">
+    <name>Barrow Contest (Local Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="268">Barrow Contest</group>
+    <slug>barrow-contest-local-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="885">Barrow-in-Furness, Cumbria, England, UK</venue>
+  <notes>Prizes - 1st £12, 2nd £7, 3rd £3.
+12th annual contest.
+5 bands competed.</notes>
+
+  <created>Feb. 4, 2013, 11:09 p.m.</created>
+  <last-modified>Nov. 16, 2017, 6:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135346">
+      <result code="1">1</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="135347">
+      <result code="2">2</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+    <result id="135348">
+      <result code="3">3</result>
+      <band id="9882">Workington St Cuthbert&#39;s</band>
+      <conductor id="319646">John Hughes</conductor>
+      <test-piece id="1277">Selection from Weber [arr. Round]</test-piece>
+    </result>
+    
+    <result id="281968">
+      <result code="">Unknown Result</result>
+      <band id="10388">Barrow Borough</band>
+      <conductor id="317328">J. Dudley</conductor>
+      <test-piece id="2315">Nil Desperandum</test-piece>
+    </result>
+    
+    <result id="281969">
+      <result code="">Unknown Result</result>
+      <band id="1510">Workington</band>
+      <conductor id="317329">R. Davidson</conductor>
+      <test-piece id="1479">Stiffelio [unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

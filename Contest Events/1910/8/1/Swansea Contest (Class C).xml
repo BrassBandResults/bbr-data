@@ -1,0 +1,67 @@
+<contest-event id="39820">
+  <event-date date="1910-8-1">Aug. 1, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Swansea Contest (Class C)</name>
+  <contest id="6299">
+    <name>Swansea Contest (Class C)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>swansea-contest-class-c</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5597">Spanish Carnival</test-piece>
+  </test-piece>
+
+  <venue id="1249">Swansea, Swansea County, Wales, UK</venue>
+  <notes>Prizes - 1st £7 and cup, 2nd £4, 3rd £2.
+6 bands competed.</notes>
+
+  <created>June 2, 2018, 1:18 p.m.</created>
+  <last-modified>June 2, 2018, 1:32 p.m.</last-modified>
+
+  <results>
+    
+    <result id="288938">
+      <result code="1">1</result>
+      <band id="9506">Calfaria Clydach</band>
+      <conductor id="304234">John Jones</conductor>
+    </result>
+    
+    <result id="288940">
+      <result code="2">2</result>
+      <band id="7359">Pontyates</band>
+      <conductor id="310293">Llewellyn Thomas</conductor>
+    </result>
+    
+    <result id="288941">
+      <result code="3">3</result>
+      <band id="7329">Skewen</band>
+      <conductor id="302637">J. E. Harries</conductor>
+    </result>
+    
+    <result id="288939">
+      <result code="">Unknown Result</result>
+      <band id="5530">Mynydd-y-Garreg</band>
+      <conductor id="313389">Philip Jones</conductor>
+    </result>
+    
+    <result id="288942">
+      <result code="">Unknown Result</result>
+      <band id="2876">Kidwelly Town</band>
+      <conductor id="304063">David John</conductor>
+    </result>
+    
+    <result id="288943">
+      <result code="">Unknown Result</result>
+      <band id="8286">Clydach St. John&#39;s </band>
+      <conductor id="300183">Russell Davies</conductor>
+    </result>
+    
+  </results>
+</contest-event>

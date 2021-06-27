@@ -1,0 +1,48 @@
+<contest-event id="44192">
+  <event-date date="1913-10-30">Oct. 30, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Quakers Yard Contest</name>
+  <contest id="6646">
+    <name>Quakers Yard Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>quakers-yard-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2716">Sons of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="7345">Quakers Yard, Merthyr Tydfil, Glamorgan</venue>
+  <notes>3 bands competed</notes>
+
+  <created>Nov. 26, 2020, 12:23 p.m.</created>
+  <last-modified>Nov. 26, 2020, 12:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="323343">
+      <result code="1">1</result>
+      <band id="9800">St Cynons</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="323342">
+      <result code="">Unknown Result</result>
+      <band id="7250">Bedlinog</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="323344">
+      <result code="">Unknown Result</result>
+      <band id="7623">Nelson Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

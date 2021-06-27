@@ -1,0 +1,60 @@
+<contest-event id="17390">
+  <event-date date="1884-10-6">Oct. 6, 1884<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Plymouth Contest</name>
+  <contest id="3755">
+    <name>Plymouth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>plymouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2271">Iolanthe (selection)</test-piece>
+  </test-piece>
+
+  <venue id="1798">The Guildhall, Plymouth</venue>
+  <notes>Prizes: £15, £10, £7</notes>
+
+  <created>Dec. 28, 2012, 9:12 p.m.</created>
+  <last-modified>Nov. 6, 2014, 4:03 p.m.</last-modified>
+
+  <results>
+    
+    <result id="131946">
+      <result code="1">1</result>
+      <band id="4496">Truro City</band>
+      <conductor id="310545">Samuel Traise</conductor>
+    </result>
+    
+    <result id="131947">
+      <result code="2">2</result>
+      <band id="5134">1st Devon Rifle Volunteers (Exeter division)</band>
+      <conductor id="303916">G. James</conductor>
+    </result>
+    
+    <result id="131948">
+      <result code="3">3</result>
+      <band id="10308">Camborne</band>
+      <conductor id="300624">E. Dunn</conductor>
+    </result>
+    
+    <result id="131949">
+      <result code="W">Withdrawn</result>
+      <band id="10224">Bovey Tracey</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="131950">
+      <result code="W">Withdrawn</result>
+      <band id="10917">St. Agnes Red Coats</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

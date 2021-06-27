@@ -1,0 +1,51 @@
+<contest-event id="44018">
+  <event-date date="1910-8-10">Aug. 10, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Salisbury Contest (Class B)</name>
+  <contest id="2842">
+    <name>Salisbury Contest (Class B)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="434">Salisbury Contest</group>
+    <slug>salisbury-contest-class-b</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5597">Spanish Carnival</test-piece>
+  </test-piece>
+
+  <venue id="2840">Victoria Park, Salisbury, Wiltshire, England, UK</venue>
+  <notes>Prizes - 1st £3, 2nd £2.
+Best cornet - Bourton.
+Best euphonium - Dinton.
+3 bands competed.</notes>
+
+  <created>Oct. 26, 2020, 10:56 a.m.</created>
+  <last-modified>Oct. 26, 2020, 11:02 a.m.</last-modified>
+
+  <results>
+    
+    <result id="322470">
+      <result code="1">1</result>
+      <band id="9861">Bourton [Dorset]</band>
+      <conductor id="318014">H. Suter</conductor>
+    </result>
+    
+    <result id="322471">
+      <result code="2">2</result>
+      <band id="7959">Bishopstone</band>
+      <conductor id="300851">F. J. Elliott</conductor>
+    </result>
+    
+    <result id="322472">
+      <result code="3">3</result>
+      <band id="6834">Dinton</band>
+      <conductor id="317408">T. Davis</conductor>
+    </result>
+    
+  </results>
+</contest-event>

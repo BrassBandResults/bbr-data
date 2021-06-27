@@ -1,0 +1,50 @@
+<contest-event id="22955">
+  <event-date date="1901-8-3">Aug. 3, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coatbridge Contest (Second Class)</name>
+  <contest id="4487">
+    <name>Coatbridge Contest (Second Class)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coatbridge-contest-second-class</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2579">Emerald Isle</test-piece>
+  </test-piece>
+
+  <venue id="3586">Dunbeth Park, Coatbridge, Lanarkshire</venue>
+  <notes>Promoted by Coatbridge, Gartsherrie and St Augustine&#39;s Brass Bands
+
+4 bands competed </notes>
+
+  <created>Aug. 15, 2013, 8:39 p.m.</created>
+  <last-modified>Aug. 15, 2013, 8:40 p.m.</last-modified>
+
+  <results>
+    
+    <result id="169208">
+      <result code="1">1</result>
+      <band id="7803">Clarkston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169209">
+      <result code="2">2</result>
+      <band id="4650">Newton Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="169210">
+      <result code="3">3</result>
+      <band id="1365">Galston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,48 @@
+<contest-event id="29682">
+  <event-date date="1896-12-26">Dec. 26, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Rhyl Contest (Second Section)</name>
+  <contest id="3260">
+    <name>Rhyl Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>rhyl-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1928">Awake Aeolian Lyre</test-piece>
+  </test-piece>
+
+  <venue id="3309">Grand Pavilion, Rhyl, Flintshire, Wales, UK</venue>
+  <notes>3 bands competed. Open to bands which had not won a first prize before.</notes>
+
+  <created>Oct. 16, 2014, 2:52 p.m.</created>
+  <last-modified>Oct. 16, 2014, 2:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="211125">
+      <result code="1">1</result>
+      <band id="8042">Ffynnongroew Excelsior</band>
+      <conductor id="300676">Haydn Dykins</conductor>
+    </result>
+    
+    <result id="211127">
+      <result code="">Unknown Result</result>
+      <band id="6074">Llanfairfechan</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211126">
+      <result code="">Unknown Result</result>
+      <band id="4509">Voel Gaer</band>
+      <conductor id="302632">W. J. Harper</conductor>
+    </result>
+    
+  </results>
+</contest-event>

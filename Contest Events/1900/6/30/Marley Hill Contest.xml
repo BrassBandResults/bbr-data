@@ -1,0 +1,82 @@
+<contest-event id="22744">
+  <event-date date="1900-6-30">June 30, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Marley Hill Contest</name>
+  <contest id="2447">
+    <name>Marley Hill Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>marley-hill-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1694">Wind and Wave</test-piece>
+  </test-piece>
+
+  <venue id="2361">Burnopfield, County Durham</venue>
+  <notes>Promoted by Marley Hill Brass Band
+
+March contest: 1. Felling, 2. Consett
+
+Best euph and cornet: Consett</notes>
+
+  <created>Aug. 13, 2013, 1:56 p.m.</created>
+  <last-modified>June 10, 2018, 9:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="168079">
+      <result code="1">1</result>
+      <band id="6590">Consett Ironworks</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="168080">
+      <result code="2">2</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168081">
+      <result code="3">3</result>
+      <band id="6727">Cornsay</band>
+      <conductor id="301971">Ben Gordon</conductor>
+    </result>
+    
+    <result id="168082">
+      <result code="4">4</result>
+      <band id="7832">Hamsterley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168083">
+      <result code="5">5</result>
+      <band id="309">Felling Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168100">
+      <result code="">Unknown Result</result>
+      <band id="577">Dunston Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168099">
+      <result code="">Unknown Result</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="168101">
+      <result code="W">Withdrawn</result>
+      <band id="1635">South Moor Colliery Silver Prize Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

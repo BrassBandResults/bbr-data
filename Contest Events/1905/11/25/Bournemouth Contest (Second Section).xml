@@ -1,0 +1,65 @@
+<contest-event id="10507">
+  <event-date date="1905-11-25">Nov. 25, 1905<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bournemouth Contest (Second Section)</name>
+  <contest id="2047">
+    <name>Bournemouth Contest (Second Section)</name>
+    <order>20</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="131">Bournemouth Contest</group>
+    <slug>bournemouth-contest-second-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1585">Mikado</test-piece>
+  </test-piece>
+
+  <venue id="261">Winter Gardens, Bournemouth, Dorset, England, UK</venue>
+  <notes>
+
+  1st prize £4.4s. and cup.
+  2nd prize £3.3s.
+  3rd prize £2.2s.
+  4th prize 10s.6d. divided between Poole Town and Poole Volunteers.</notes>
+
+  <created>Feb. 20, 2012, 6:41 p.m.</created>
+  <last-modified>Feb. 20, 2012, 6:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="88315">
+      <result code="1">1</result>
+      <band id="14954">4th Volunteer Battalion Hampshire Regiment</band>
+      <conductor id="297863">F. Bertini</conductor>
+    </result>
+    
+    <result id="88316">
+      <result code="2">2</result>
+      <band id="6926">1st Dorset Artillery Regt</band>
+      <conductor id="309278">F. Small</conductor>
+    </result>
+    
+    <result id="88317">
+      <result code="3">3</result>
+      <band id="6717">Branksome Town</band>
+      <conductor id="301977">T. Gordon</conductor>
+    </result>
+    
+    <result id="88318">
+      <result code="4">4</result>
+      <band id="6719">Poole Town</band>
+      <conductor id="301973">D. Gordon</conductor>
+    </result>
+    
+    <result id="88319">
+      <result code="4">4</result>
+      <band id="6718">Poole Volunteers</band>
+      <conductor id="308963">H. E. Shave</conductor>
+    </result>
+    
+  </results>
+</contest-event>

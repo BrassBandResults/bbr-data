@@ -1,0 +1,56 @@
+<contest-event id="38067">
+  <event-date date="1904-7-9">July 9, 1904<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Coleford Contest</name>
+  <contest id="4378">
+    <name>Coleford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>coleford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3402">Gems of Tschaikowsky [arr. Swift]</test-piece>
+  </test-piece>
+
+  <venue id="6586">Speech House, Coleford, Gloucestershire</venue>
+  <notes>4 bands competed
+
+Prizes: £12, £6, £2</notes>
+
+  <created>May 24, 2017, 9:38 a.m.</created>
+  <last-modified>May 24, 2017, 9:42 a.m.</last-modified>
+
+  <results>
+    
+    <result id="274818">
+      <result code="1">1</result>
+      <band id="1343">Yorkley Onward Band</band>
+      <conductor id="304222">Horace Jones</conductor>
+    </result>
+    
+    <result id="274819">
+      <result code="2">2</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="303929">Thomas James</conductor>
+    </result>
+    
+    <result id="274820">
+      <result code="3">3</result>
+      <band id="534">Cinderford Band</band>
+      <conductor id="304226">J. L. Jones</conductor>
+    </result>
+    
+    <result id="274821">
+      <result code="4">4</result>
+      <band id="549">A. W. Parker (Drybrook) Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

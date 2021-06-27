@@ -1,0 +1,102 @@
+<contest-event id="12575">
+  <event-date date="1895-8-3">Aug. 3, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Denby Dale Contest</name>
+  <contest id="2358">
+    <name>Denby Dale Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>denby-dale-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1724">Denby Dale, West Yorkshire</venue>
+  <notes>Prizes: £11 7s, £3, £2, £1
+March contest: 1. Shelley, 2. Sowerby
+11 bands competed.</notes>
+
+  <created>April 16, 2012, 7:01 p.m.</created>
+  <last-modified>June 22, 2019, 7:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100368">
+      <result code="1">1</result>
+      <band id="52">Skelmanthorpe Band</band>
+      <conductor id="303259">Angus Holden</conductor>
+      <test-piece id="1074">The Forest Queen</test-piece>
+    </result>
+    
+    <result id="100369">
+      <result code="2">2</result>
+      <band id="5885">Huddersfield Fire Brigade</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="6000">St. Cecelia</test-piece>
+    </result>
+    
+    <result id="100370">
+      <result code="3">3</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+      <test-piece id="1074">The Forest Queen</test-piece>
+    </result>
+    
+    <result id="100371">
+      <result code="4">4</result>
+      <band id="2965">Shelley Huddersfield</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1074">The Forest Queen</test-piece>
+    </result>
+    
+    <result id="100378">
+      <result code="">Unknown Result</result>
+      <band id="2466">Clayton West</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100374">
+      <result code="">Unknown Result</result>
+      <band id="3579">Emley Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100376">
+      <result code="">Unknown Result</result>
+      <band id="2683">Flockton United</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100375">
+      <result code="">Unknown Result</result>
+      <band id="5901">Holme Bridge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100373">
+      <result code="">Unknown Result</result>
+      <band id="7943">Liversedge</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100372">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="100377">
+      <result code="">Unknown Result</result>
+      <band id="6917">Woodhouse Perseverance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

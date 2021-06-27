@@ -1,0 +1,62 @@
+<contest-event id="15931">
+  <event-date date="1909-9-11">Sept. 11, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Stanhope Contest</name>
+  <contest id="1452">
+    <name>Stanhope Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>stanhope-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2199">Echoes of the Empire</test-piece>
+  </test-piece>
+
+  <venue id="2646">Stanhope, County Durham</venue>
+  <notes>Prizes  1st £20, 2nd £10, 3rd £5, 4th £3.
+March contest 1st (£1) Cleveland Steel Works, 2nd (10s.) Murton Colliery.
+5 bands competed.</notes>
+
+  <created>Nov. 8, 2012, 8:27 a.m.</created>
+  <last-modified>Nov. 13, 2017, 9:23 a.m.</last-modified>
+
+  <results>
+    
+    <result id="122696">
+      <result code="1">1</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="122697">
+      <result code="2">2</result>
+      <band id="3668">Cleveland Steel Works</band>
+      <conductor id="311827">T. Winter</conductor>
+    </result>
+    
+    <result id="122698">
+      <result code="3">3</result>
+      <band id="327">Murton Colliery Band</band>
+      <conductor id="310795">Edward Vest</conductor>
+    </result>
+    
+    <result id="122699">
+      <result code="4">4</result>
+      <band id="3625">Felling Colliery Silver</band>
+      <conductor id="306921">James Oliver</conductor>
+    </result>
+    
+    <result id="122700">
+      <result code="5">5</result>
+      <band id="336">Cockerton Prize Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,76 @@
+<contest-event id="12593">
+  <event-date date="1895-8-10">Aug. 10, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Failsworth Contest</name>
+  <contest id="2614">
+    <name>Failsworth Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>failsworth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1886">Buttercups &amp; Daisies</test-piece>
+  </test-piece>
+
+  <venue id="3371">Football Ground, Failsworth</venue>
+  <notes>1st annual contest promoted by St John&#39;s Failsworth band.
+29 bands entered, 28 bands competed
+
+Prizes: £6, £4, £3, £2, £1
+</notes>
+
+  <created>April 17, 2012, 10:16 p.m.</created>
+  <last-modified>June 21, 2019, 9:55 a.m.</last-modified>
+
+  <results>
+    
+    <result id="100477">
+      <result code="1">1</result>
+      <band id="7616">Hyde Borough</band>
+      <conductor id="306701">Sam Newton</conductor>
+    </result>
+    
+    <result id="100478">
+      <result code="2">2</result>
+      <band id="7955">Flixton Volunteers</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+    <result id="100479">
+      <result code="3">3</result>
+      <band id="12909">Swinton Town [Lancs.]</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+    <result id="100480">
+      <result code="4">4</result>
+      <band id="3215">Levenshulme</band>
+      <conductor id="303634">Alfred Hulme</conductor>
+    </result>
+    
+    <result id="100481">
+      <result code="5">5</result>
+      <band id="3692">St. Annes on the Sea</band>
+      <conductor id="319278">A. Hargreaves</conductor>
+    </result>
+    
+    <result id="310631">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="310632">
+      <result code="">Unknown Result</result>
+      <band id="3536">Nazebottom Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,65 @@
+<contest-event id="8040">
+  <event-date date="1899-8-21">Aug. 21, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cannock Contest</name>
+  <contest id="1198">
+    <name>Cannock Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="213">Cannock Contest</group>
+    <slug>cannock-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1429">Cannock, Staffordshire</venue>
+  <notes>5 bands competed</notes>
+
+  <created>Nov. 3, 2011, 6:41 p.m.</created>
+  <last-modified>July 28, 2019, 3:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100714">
+      <result code="1">1</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="309324">C. Smith</conductor>
+      <test-piece id="1992">Semiramide [arr. Godfrey]</test-piece>
+    </result>
+    
+    <result id="100715">
+      <result code="2">2</result>
+      <band id="7537">Willenhall Silver</band>
+      <conductor id="308289">James Roberts</conductor>
+      <test-piece id="1570">Maritana [arr. Round]</test-piece>
+    </result>
+    
+    <result id="72642">
+      <result code="3">3</result>
+      <band id="4429">Coseley</band>
+      <conductor id="301261">Squire Firth</conductor>
+      <test-piece id="1901">Verdi&#39;s Works [arr. W. Rimmer]</test-piece>
+    </result>
+    
+    <result id="100716">
+      <result code="">Unknown Result</result>
+      <band id="7967">Cheslyn Hay</band>
+      <conductor id="315786">J. Kingston</conductor>
+      <test-piece id="4043">Enchantment</test-piece>
+    </result>
+    
+    <result id="100717">
+      <result code="">Unknown Result</result>
+      <band id="5285">Cannock</band>
+      <conductor id="308025">C. Reeves</conductor>
+      <test-piece id="1780">Gems of Scotia</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

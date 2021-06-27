@@ -1,0 +1,78 @@
+<contest-event id="13240">
+  <event-date date="1897-6-12">June 12, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bathgate Contest</name>
+  <contest id="2781">
+    <name>Bathgate Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>bathgate-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1256">Maritana [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3446">Balbardie Policies, Bathgate</venue>
+  <notes>Promoted by Bathgate Brass Band
+
+Prizes: £10, £7, £5, £3
+
+March contest: 1. Broxburn R. C., 2. Laurieston 
+
+</notes>
+
+  <created>May 5, 2012, 2:54 p.m.</created>
+  <last-modified>Dec. 15, 2020, 9:22 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105208">
+      <result code="1">1</result>
+      <band id="1227">Broxburn Public Band</band>
+      <conductor id="314025">James Robinson</conductor>
+    </result>
+    
+    <result id="105209">
+      <result code="2">2</result>
+      <band id="638">Lochgelly Band</band>
+      <conductor id="299019">James Carmichael</conductor>
+    </result>
+    
+    <result id="105210">
+      <result code="3">3</result>
+      <band id="1992">Laurieston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105211">
+      <result code="4">4</result>
+      <band id="1226">Broxburn Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="105212">
+      <result code="">Unknown Result</result>
+      <band id="5475">Gorebridge and Arniston</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151090">
+      <result code="W">Withdrawn</result>
+      <band id="1998">Longriggend Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="151091">
+      <result code="W">Withdrawn</result>
+      <band id="2107">Musselburgh &amp; Fisherrow Trades</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

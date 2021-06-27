@@ -1,0 +1,80 @@
+<contest-event id="11083">
+  <event-date date="1906-9-1">Sept. 1, 1906<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tamworth Contest (First Section)</name>
+  <contest id="2164">
+    <name>Tamworth Contest (First Section)</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="256">Tamworth Contest</group>
+    <slug>tamworth-contest-first-section</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1271">Carmelite</test-piece>
+  </test-piece>
+
+  <venue id="3943">Castle Grounds, Tamworth, Staffordshire</venue>
+  <notes>Open Contest
+
+  1st prize £10.
+  2nd prize £6.
+  3rd prize £4.
+  4th prize £2.5s.
+  5th prize £1.5s.
+
+</notes>
+
+  <created>March 12, 2012, 7:52 p.m.</created>
+  <last-modified>Sept. 10, 2013, 12:57 p.m.</last-modified>
+
+  <results>
+    
+    <result id="91710">
+      <result code="1">1</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="298175">Enoch Booth</conductor>
+    </result>
+    
+    <result id="91711">
+      <result code="2">2</result>
+      <band id="6327">Northampton Temperance</band>
+      <conductor id="303280">Jeremiah Holdsworth</conductor>
+    </result>
+    
+    <result id="91712">
+      <result code="3">3</result>
+      <band id="7191">Northampton Imperial</band>
+      <conductor id="310282">H. S. Thomas</conductor>
+    </result>
+    
+    <result id="91713">
+      <result code="4">4</result>
+      <band id="2569">Birmingham City</band>
+      <conductor id="307384">Isaac Perrin</conductor>
+    </result>
+    
+    <result id="91714">
+      <result code="5">5</result>
+      <band id="6656">Moira Colliery</band>
+      <conductor id="309327">C. Smith</conductor>
+    </result>
+    
+    <result id="173181">
+      <result code="">Unknown Result</result>
+      <band id="6612">Darlaston Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="173182">
+      <result code="">Unknown Result</result>
+      <band id="5164">Rugeley Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

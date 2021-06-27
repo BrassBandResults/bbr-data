@@ -1,0 +1,100 @@
+<contest-event id="18245">
+  <event-date date="1892-8-20">Aug. 20, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Luddenden Contest</name>
+  <contest id="1606">
+    <name>Luddenden Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>luddenden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2330">Il Giuramento [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="1566">Luddenden Foot, West Yorkshire</venue>
+  <notes>Open to bands which had not won a prize of £15 in cash during 1891.
+
+Prizes: £9 and 11 guinea cornet, £7 and 6 guinea trombone, £5, £3
+
+Quickstep: 1. Irwell Springs, 2. Heptonstall</notes>
+
+  <created>Feb. 14, 2013, 3:59 p.m.</created>
+  <last-modified>Feb. 14, 2013, 4:05 p.m.</last-modified>
+
+  <results>
+    
+    <result id="137541">
+      <result code="1">1</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137539">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137540">
+      <result code="3">3</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137538">
+      <result code="4">4</result>
+      <band id="2521">Heptonstall Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137537">
+      <result code="">Unknown Result</result>
+      <band id="4356">Denholme</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137543">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137535">
+      <result code="">Unknown Result</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137545">
+      <result code="">Unknown Result</result>
+      <band id="154">Linthwaite Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137536">
+      <result code="">Unknown Result</result>
+      <band id="10452">Pellon Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137544">
+      <result code="">Unknown Result</result>
+      <band id="10453">Shipley Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="137542">
+      <result code="W">Withdrawn</result>
+      <band id="4404">Brighouse Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

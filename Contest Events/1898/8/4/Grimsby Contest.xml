@@ -1,0 +1,75 @@
+<contest-event id="15312">
+  <event-date date="1898-8-4">Aug. 4, 1898<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Grimsby Contest</name>
+  <contest id="1511">
+    <name>Grimsby Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>grimsby</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="916">Zampa [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="2726">People&#39;s Park, Grimsby</venue>
+  <notes>Prizes: £16, £8, £4, £2, £1
+Euphonium prize: Hull Waterloo
+Tenor horn: Grimsby County
+7 bands competed</notes>
+
+  <created>Oct. 15, 2012, 12:28 p.m.</created>
+  <last-modified>July 19, 2019, 9:55 p.m.</last-modified>
+
+  <results>
+    
+    <result id="118661">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="308065">Fenton Renshaw</conductor>
+    </result>
+    
+    <result id="118662">
+      <result code="2">2</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="118663">
+      <result code="3">3</result>
+      <band id="5866">Grimsby Borough Band</band>
+      <conductor id="311386">George White</conductor>
+    </result>
+    
+    <result id="118664">
+      <result code="4">4</result>
+      <band id="5194">South Notts Silver</band>
+      <conductor id="302480">George Hames</conductor>
+    </result>
+    
+    <result id="118665">
+      <result code="5">5</result>
+      <band id="3518">Hull Waterloo</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="118667">
+      <result code="">Unknown Result</result>
+      <band id="7909">Grimsby County</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="118666">
+      <result code="">Unknown Result</result>
+      <band id="7583">Scunthorpe Rifles</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,61 @@
+<contest-event id="12852">
+  <event-date date="1896-3-2">March 2, 1896<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Broughton Contest</name>
+  <contest id="2541">
+    <name>Broughton (Flintshire) Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>broughton-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1894">Gems of Albion</test-piece>
+  </test-piece>
+
+  <venue id="1896">Broughton, Flintshire, Wales, UK</venue>
+  <notes>March contest (Revenge): 1st/2nd divided between Oak Alyn and Ellesmere Port
+5 bands competed.</notes>
+
+  <created>April 27, 2012, 5:23 p.m.</created>
+  <last-modified>June 26, 2019, 7:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="102112">
+      <result code="1">1</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="298342">John James Brady</conductor>
+    </result>
+    
+    <result id="102114">
+      <result code="2">2</result>
+      <band id="456">Royal Buckley Town Band</band>
+      <conductor id="301860">E. Gittins</conductor>
+    </result>
+    
+    <result id="102113">
+      <result code="2">2</result>
+      <band id="7807">Oak Alyn</band>
+      <conductor id="310747">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="102115">
+      <result code="">Unknown Result</result>
+      <band id="4137">Ellesmere Port Public</band>
+      <conductor id="301672">James Garner</conductor>
+    </result>
+    
+    <result id="102116">
+      <result code="">Unknown Result</result>
+      <band id="4137">Ellesmere Port Public</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

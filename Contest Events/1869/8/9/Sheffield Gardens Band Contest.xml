@@ -1,0 +1,60 @@
+<contest-event id="13817">
+  <event-date date="1869-8-9">Aug. 9, 1869<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sheffield Gardens Band Contest</name>
+  <contest id="1156">
+    <name>Sheffield Gardens Band Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>sheffield-gardens-band-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="662">Botanical Gardens, Sheffield</venue>
+  <notes>Prizes: £20, £12, £8, £4
+
+9 bands entered, 4 competed</notes>
+
+  <created>June 18, 2012, 9:28 p.m.</created>
+  <last-modified>Aug. 26, 2017, 5:46 p.m.</last-modified>
+
+  <results>
+    
+    <result id="110310">
+      <result code="1">1</result>
+      <band id="2516">Dewsbury Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1359">Martha [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110311">
+      <result code="2">2</result>
+      <band id="338">Matlock Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1257">Lucrezia Borgia [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110312">
+      <result code="3">3</result>
+      <band id="5028">Sheffield Artillery Band</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1931">Macbeth [unknown composer, unknown arranger]</test-piece>
+    </result>
+    
+    <result id="110313">
+      <result code="4">4</result>
+      <band id="2965">Shelley Huddersfield</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="2816">Robin Hood [MacFarren, unknown arranger]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,58 @@
+<contest-event id="8177">
+  <event-date date="1901-5-28">May 28, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Chepstow Contest</name>
+  <contest id="1399">
+    <name>Chepstow Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>chepstow-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2580">Gems from Sullivan&#39;s Operas No. 2</test-piece>
+  </test-piece>
+
+  <venue id="1313">Chepstow, Monmouthshire</venue>
+  <notes>Prizes: £13, £7 7s, £3 3s.
+Best cornet and euphonium - Princes End.
+Best tombone - Coseley.
+4 bands competed
+</notes>
+
+  <created>Nov. 8, 2011, 1:40 p.m.</created>
+  <last-modified>April 12, 2020, 9:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="73540">
+      <result code="1">1</result>
+      <band id="4429">Coseley</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="317388">
+      <result code="2">2</result>
+      <band id="3558">Prince&#39;s End Temperance</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="270827">
+      <result code="3">3</result>
+      <band id="6571">Bristol Victoria</band>
+      <conductor id="311561">J. E. Wilkinson</conductor>
+    </result>
+    
+    <result id="270825">
+      <result code="4">4</result>
+      <band id="546">Pillowell Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,52 @@
+<contest-event id="40483">
+  <event-date date="1913-9-20">Sept. 20, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Manchester and District Association</name>
+  <contest id="3318">
+    <name>Manchester and District Association</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="441">Manchester and District Association</group>
+    <slug>manchester-and-district-association</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3658">Caxton Hall, Blackfriars, Salford, Greater Manchester</venue>
+  <notes>Open to bands that had not won a prize previously.
+3 bands competed.</notes>
+
+  <created>Oct. 1, 2018, 3:17 p.m.</created>
+  <last-modified>Nov. 21, 2020, 4:14 p.m.</last-modified>
+
+  <results>
+    
+    <result id="294524">
+      <result code="1">1</result>
+      <band id="5319">Wesley Hall Trinity</band>
+      <conductor id="299559">W. C. Colman</conductor>
+      <test-piece id="5413">Bohemian Girl</test-piece>
+    </result>
+    
+    <result id="294523">
+      <result code="2">2</result>
+      <band id="3213">Hulme Public</band>
+      <conductor id="306566">S. Myers</conductor>
+      <test-piece id="960">Maria di Rohan</test-piece>
+    </result>
+    
+    <result id="294522">
+      <result code="3">3</result>
+      <band id="9868">North Manchester Subscription</band>
+      <conductor id="311028">J. E. Ward</conductor>
+      <test-piece id="1080">Rossini [arr. Round]</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

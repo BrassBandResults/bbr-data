@@ -1,0 +1,66 @@
+<contest-event id="40440">
+  <event-date date="1913-5-14">May 14, 1913<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Treorchy Contest</name>
+  <contest id="2180">
+    <name>Treorchy Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>treorchy-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3166">The Troubadour</test-piece>
+  </test-piece>
+
+  <venue id="2601">Ambulance Hall, Treorchy, Glamorgan</venue>
+  <notes>6 bands competed.</notes>
+
+  <created>Sept. 30, 2018, 9:48 a.m.</created>
+  <last-modified>Sept. 30, 2018, 9:54 a.m.</last-modified>
+
+  <results>
+    
+    <result id="294251">
+      <result code="1">1</result>
+      <band id="9593">Ynysybwl</band>
+      <conductor id="306296">T. G. Moore</conductor>
+    </result>
+    
+    <result id="294250">
+      <result code="2">2</result>
+      <band id="65">Cwmaman Institute Silver (Tower Colliery) Band</band>
+      <conductor id="303517">Robert Samuel Howells</conductor>
+    </result>
+    
+    <result id="294252">
+      <result code="3">3</result>
+      <band id="452">Lewis Merthyr Band</band>
+      <conductor id="316075">Gus Foxall</conductor>
+    </result>
+    
+    <result id="294248">
+      <result code="">Unknown Result</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="305204">J. Locker</conductor>
+    </result>
+    
+    <result id="294249">
+      <result code="">Unknown Result</result>
+      <band id="17372">Treorchy Institute</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="294253">
+      <result code="">Unknown Result</result>
+      <band id="9786">Treorchy Wesleyan</band>
+      <conductor id="301006">Matt Evans</conductor>
+    </result>
+    
+  </results>
+</contest-event>

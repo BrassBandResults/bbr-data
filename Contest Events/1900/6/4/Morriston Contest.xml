@@ -1,0 +1,43 @@
+<contest-event id="39908">
+  <event-date date="1900-6-4">June 4, 1900<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Morriston Contest</name>
+  <contest id="6086">
+    <name>Morriston Contest</name>
+    <order>0</order>
+    <contest-type id="4">March Contest</contest-type>
+    <group id=""></group>
+    <slug>morriston-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="2309">Luisa Miller [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4468">Morriston, Glamorgan</venue>
+  <notes>March contest - 1st Morgans.
+2 bands competed.</notes>
+
+  <created>June 13, 2018, 7:46 p.m.</created>
+  <last-modified>June 13, 2018, 7:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="289620">
+      <result code="1">1</result>
+      <band id="3556">Morgan&#39;s Cwmtawe Ystalyfera</band>
+      <conductor id="300981">Evan John Evans</conductor>
+    </result>
+    
+    <result id="289621">
+      <result code="2">2</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+  </results>
+</contest-event>

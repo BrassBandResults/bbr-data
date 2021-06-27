@@ -1,0 +1,74 @@
+<contest-event id="11877">
+  <event-date date="1892-6-20">June 20, 1892<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest</name>
+  <contest id="1334">
+    <name>Workington Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1574">Mozart [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="2982">Hall Park, Workington</venue>
+  <notes>Open contest
+Prizes - 1st £21, 2nd £10, 3rd £5.
+7 bands competed</notes>
+
+  <created>April 8, 2012, 10:18 a.m.</created>
+  <last-modified>June 2, 2019, 8:11 p.m.</last-modified>
+
+  <results>
+    
+    <result id="95935">
+      <result code="1">1</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+    <result id="291927">
+      <result code="2">2</result>
+      <band id="3610">Holborn Hill Royal</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="291928">
+      <result code="3">3</result>
+      <band id="1661">Barrow Steelworks Band</band>
+      <conductor id="311903">Nimrod Wood</conductor>
+    </result>
+    
+    <result id="309054">
+      <result code="4">4</result>
+      <band id="5673">Haverigg</band>
+      <conductor id="302859">William Heap</conductor>
+    </result>
+    
+    <result id="309057">
+      <result code="5">5</result>
+      <band id="16497">Stark Mines</band>
+      <conductor id="297803">W. Bennett</conductor>
+    </result>
+    
+    <result id="309056">
+      <result code="6">6</result>
+      <band id="3677">Derwent Iron and Steel Works</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="309055">
+      <result code="7">7</result>
+      <band id="7600">St John&#39;s (Workington)</band>
+      <conductor id="301907">John Goddard</conductor>
+    </result>
+    
+  </results>
+</contest-event>

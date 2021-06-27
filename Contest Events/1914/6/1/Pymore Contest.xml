@@ -1,0 +1,81 @@
+<contest-event id="28014">
+  <event-date date="1914-6-1">June 1, 1914<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Pymore Contest</name>
+  <contest id="5334">
+    <name>Pymore Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>pymore-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="4793">Pymore, Cambridgeshire</venue>
+  <notes>Prizes: £10, £6, £3, £2
+March: 1. Manea, 2. Rushden, 3. Finedon
+8 bands competed.
+</notes>
+
+  <created>May 29, 2014, 9:29 p.m.</created>
+  <last-modified>Oct. 3, 2018, 5:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="200716">
+      <result code="1">1</result>
+      <band id="8934">Rushden Town Silver Prize Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="200712">
+      <result code="2">2</result>
+      <band id="5192">Irthlingborough Town</band>
+      <conductor id="307686">Thomas Preston</conductor>
+    </result>
+    
+    <result id="200715">
+      <result code="3">3</result>
+      <band id="2475">Manea Silver Band</band>
+      <conductor id="306841">Walter Nuttall</conductor>
+    </result>
+    
+    <result id="200718">
+      <result code="4">4</result>
+      <band id="1629">Finedon Old Prize Band</band>
+      <conductor id="297359">Charles Harry Baker</conductor>
+    </result>
+    
+    <result id="200714">
+      <result code="5">5</result>
+      <band id="315">City of Cambridge Brass Band</band>
+      <conductor id="302456">Wilfred W. Halsey</conductor>
+    </result>
+    
+    <result id="200713">
+      <result code="">Unknown Result</result>
+      <band id="5615">Soham Excelsior Prize Band</band>
+      <conductor id="299593">J. Connor</conductor>
+    </result>
+    
+    <result id="200717">
+      <result code="">Unknown Result</result>
+      <band id="5926">March Town</band>
+      <conductor id="304312">Joseph Greaves Jubb</conductor>
+    </result>
+    
+    <result id="200719">
+      <result code="">Unknown Result</result>
+      <band id="9523">Cherryhinton</band>
+      <conductor id="309693">C. Steel</conductor>
+    </result>
+    
+  </results>
+</contest-event>

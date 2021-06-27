@@ -1,0 +1,48 @@
+<contest-event id="14929">
+  <event-date date="1912-6-13">June 13, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Towyn Contest</name>
+  <contest id="2557">
+    <name>Towyn Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>towyn-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2116">For King and Country</test-piece>
+  </test-piece>
+
+  <venue id="1912">Towyn</venue>
+  <notes>March contest 1st Dolgelly, 2nd Towyn, 3rd Aberllefenni.</notes>
+
+  <created>Sept. 29, 2012, 10:59 a.m.</created>
+  <last-modified>Nov. 13, 2020, 11:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="116663">
+      <result code="1">1</result>
+      <band id="3435">Towyn Silver Band</band>
+      <conductor id="304268">R. O. Jones</conductor>
+    </result>
+    
+    <result id="116664">
+      <result code="2">2</result>
+      <band id="7279">Dolgelly</band>
+      <conductor id="311634">John Williams</conductor>
+    </result>
+    
+    <result id="116665">
+      <result code="3">3</result>
+      <band id="7278">Aberllefenni</band>
+      <conductor id="304167">B. H. Jones</conductor>
+    </result>
+    
+  </results>
+</contest-event>

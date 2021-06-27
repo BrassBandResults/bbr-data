@@ -1,0 +1,76 @@
+<contest-event id="12516">
+  <event-date date="1899-7-31">July 31, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Workington Contest (Local Section)</name>
+  <contest id="2592">
+    <name>Workington Contest (Local Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>workington-contest-local-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1855">Sunny Spain</test-piece>
+  </test-piece>
+
+  <venue id="850">Workington, Cumbria, England, UK</venue>
+  <notes>1st prize £8.
+  2nd prize £5.
+  3rd prize £3.
+  4th prize £2.
+6 bands competed.</notes>
+
+  <created>April 15, 2012, 5:05 p.m.</created>
+  <last-modified>July 28, 2019, 3:19 p.m.</last-modified>
+
+  <results>
+    
+    <result id="100033">
+      <result code="1">1</result>
+      <band id="5588">Frizington Town</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="100034">
+      <result code="2">2</result>
+      <band id="7622">Frizington St Paul&#39;s</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="100035">
+      <result code="3">3</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="300713">George Eastwood</conductor>
+    </result>
+    
+    <result id="100036">
+      <result code="4">4</result>
+      <band id="3569">Moor Row Old</band>
+      <conductor id="306494">George Mudge</conductor>
+    </result>
+    
+    <result id="100037">
+      <result code="">Unknown Result</result>
+      <band id="8913">Seaton [Cumbria]</band>
+      <conductor id="315785">T. Dixon</conductor>
+    </result>
+    
+    <result id="100038">
+      <result code="">Unknown Result</result>
+      <band id="663">Flimby Saxhorn</band>
+      <conductor id="311636">J. Williams</conductor>
+    </result>
+    
+    <result id="267285">
+      <result code="W">Withdrawn</result>
+      <band id="424">Barrow Shipyard Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

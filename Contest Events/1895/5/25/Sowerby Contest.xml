@@ -1,0 +1,63 @@
+<contest-event id="12460">
+  <event-date date="1895-5-25">May 25, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Sowerby Contest</name>
+  <contest id="1658">
+    <name>Sowerby Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>sowerby-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1359">Martha [unknown arranger]</test-piece>
+  </test-piece>
+
+  <venue id="3313">Football Field, Beech Road, Sowerby Bridge</venue>
+  <notes>Prizes: £8, £5, £3
+March contest: 1. Sowerby, 2. Norland
+Promoted by the Friendly Subscription Band
+5 bands competed</notes>
+
+  <created>April 14, 2012, 9:02 p.m.</created>
+  <last-modified>June 19, 2019, 9:24 a.m.</last-modified>
+
+  <results>
+    
+    <result id="99586">
+      <result code="1">1</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="301263">Walter Firth</conductor>
+    </result>
+    
+    <result id="99587">
+      <result code="2">2</result>
+      <band id="2573">Norland</band>
+      <conductor id="297418">Geoffrey Thompson Bancroft</conductor>
+    </result>
+    
+    <result id="99588">
+      <result code="3">3</result>
+      <band id="6881">Rishworth and Ryburn</band>
+      <conductor id="309958">W. Sutcliffe</conductor>
+    </result>
+    
+    <result id="99589">
+      <result code="">Unknown Result</result>
+      <band id="3640">Copley Mills</band>
+      <conductor id="310145">J. Taylor</conductor>
+    </result>
+    
+    <result id="146645">
+      <result code="">Unknown Result</result>
+      <band id="156">Friendly Band (Sowerby Bridge)</band>
+      <conductor id="302723">George Hartley</conductor>
+    </result>
+    
+  </results>
+</contest-event>

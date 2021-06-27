@@ -1,0 +1,75 @@
+<contest-event id="21943">
+  <event-date date="1903-8-4">Aug. 4, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Selly Oak Contest</name>
+  <contest id="1982">
+    <name>Selly Oak Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>selly-oak-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2459">Crown of Victory</test-piece>
+  </test-piece>
+
+  <venue id="1414">Selly Oak, Birmingham</venue>
+  <notes>  Prizes  -  1st £7, 2nd £5, 3rd £2.10s, 4th £1.
+  March contest - 1st(£1) Bartley Green, 2nd(10s6d) divided between Dudley Port and King&#39;s Heath Lamplighters.
+  Promoted by Selly Oak and District Horticultural Society.
+  7 bands competed.</notes>
+
+  <created>June 17, 2013, 10:27 a.m.</created>
+  <last-modified>June 17, 2013, 10:41 a.m.</last-modified>
+
+  <results>
+    
+    <result id="162844">
+      <result code="1">1</result>
+      <band id="11009">Dudley Port Excelsior</band>
+      <conductor id="311440">H. Whitehouse</conductor>
+    </result>
+    
+    <result id="162845">
+      <result code="2">2</result>
+      <band id="6850">Bartley Green</band>
+      <conductor id="300535">T. Downs</conductor>
+    </result>
+    
+    <result id="162846">
+      <result code="3">3</result>
+      <band id="5919">Northfield Institute</band>
+      <conductor id="309337">Christopher Smith</conductor>
+    </result>
+    
+    <result id="162847">
+      <result code="4">4</result>
+      <band id="5165">Walsall Borough</band>
+      <conductor id="302296">J. Grundy</conductor>
+    </result>
+    
+    <result id="162848">
+      <result code="5">5</result>
+      <band id="6999">King&#39;s Norton</band>
+      <conductor id="311922">A. Woodbine</conductor>
+    </result>
+    
+    <result id="162849">
+      <result code="">Unknown Result</result>
+      <band id="516">Newhall Band</band>
+      <conductor id="310885">Fred Wakeford</conductor>
+    </result>
+    
+    <result id="162850">
+      <result code="">Unknown Result</result>
+      <band id="8680">King&#39;s Heath Olde</band>
+      <conductor id="306669">H. H. Newall</conductor>
+    </result>
+    
+  </results>
+</contest-event>

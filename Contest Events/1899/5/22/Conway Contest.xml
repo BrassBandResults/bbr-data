@@ -1,0 +1,55 @@
+<contest-event id="12371">
+  <event-date date="1899-5-22">May 22, 1899<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Conway Contest</name>
+  <contest id="2545">
+    <name>Conway Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>conway-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1738">Songs of the Sea</test-piece>
+  </test-piece>
+
+  <venue id="1897">Conway, North Wales</venue>
+  <notes>1st prize £15.
+4 bands competed.</notes>
+
+  <created>April 13, 2012, 4:14 p.m.</created>
+  <last-modified>July 27, 2019, 8:15 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98935">
+      <result code="1">1</result>
+      <band id="968">Dyffryn Nantlle Band</band>
+      <conductor id="300886">W. H. Ellwood</conductor>
+    </result>
+    
+    <result id="98936">
+      <result code="">Unknown Result</result>
+      <band id="4779">Llanddulas</band>
+      <conductor id="310748">Thomas Valentine</conductor>
+    </result>
+    
+    <result id="98937">
+      <result code="">Unknown Result</result>
+      <band id="2740">Penmaenmawr Silver</band>
+      <conductor id="299804">J. S. Coverley</conductor>
+    </result>
+    
+    <result id="98938">
+      <result code="">Unknown Result</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+    </result>
+    
+  </results>
+</contest-event>

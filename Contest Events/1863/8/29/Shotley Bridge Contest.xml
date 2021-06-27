@@ -1,0 +1,53 @@
+<contest-event id="38210">
+  <event-date date="1863-8-29">Aug. 29, 1863<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shotley Bridge Contest</name>
+  <contest id="1516">
+    <name>Shotley Bridge Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>shotley-bridge-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="6642">The Haugh, Shotley Park, Shotley Bridge, County Durham</venue>
+  <notes>5 bands entered, 4 competed
+
+Prizes: £11, £6, £3</notes>
+
+  <created>June 10, 2017, 3:41 p.m.</created>
+  <last-modified>June 10, 2017, 3:45 p.m.</last-modified>
+
+  <results>
+    
+    <result id="275721">
+      <result code="1">1</result>
+      <band id="588">Stanhope Silver</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1312">La Forza del Destino [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="275722">
+      <result code="2">2</result>
+      <band id="5052">South Hetton</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="1255">La Sonnambula [unknown arranger]</test-piece>
+    </result>
+    
+    <result id="275723">
+      <result code="3">3</result>
+      <band id="15577">Prudhoe</band>
+      <conductor id="310730">Unknown</conductor>
+      <test-piece id="538">I Lombardi</test-piece>
+    </result>
+    
+  </results>
+</contest-event>

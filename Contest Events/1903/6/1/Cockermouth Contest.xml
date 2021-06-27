@@ -1,0 +1,56 @@
+<contest-event id="35753">
+  <event-date date="1903-6-1">June 1, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cockermouth Contest</name>
+  <contest id="2369">
+    <name>Cockermouth Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cockermouth-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="1665">Gems of British Song [arr. Round]</test-piece>
+  </test-piece>
+
+  <venue id="4695">Sandair Cricket Ground, Cockermouth, Cumbria, England, UK</venue>
+  <notes>March contest - 1st Workington Artillery, 2nd Great Clifton.
+Adjudicators remarks - Band no 1 - I do not intend to publish, but shall be glad to furnish a copy of same, together with a little friendly advice, if they will apply for same.
+5 bands competed</notes>
+
+  <created>July 23, 2016, 6:28 p.m.</created>
+  <last-modified>July 27, 2018, 6:01 a.m.</last-modified>
+
+  <results>
+    
+    <result id="259564">
+      <result code="1">1</result>
+      <band id="2593">Great Clifton Silver</band>
+      <conductor id="301277">J. J. Fisher</conductor>
+    </result>
+    
+    <result id="259565">
+      <result code="2">2</result>
+      <band id="1510">Workington</band>
+      <conductor id="305310">George Lowden</conductor>
+    </result>
+    
+    <result id="259566">
+      <result code="3">3</result>
+      <band id="10964">Silloth Town</band>
+      <conductor id="306035">I. Melville</conductor>
+    </result>
+    
+    <result id="259567">
+      <result code="3">3</result>
+      <band id="14077">Cockermouth Borough</band>
+      <conductor id="315243">James Millington</conductor>
+    </result>
+    
+  </results>
+</contest-event>

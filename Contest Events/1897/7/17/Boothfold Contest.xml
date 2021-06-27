@@ -1,0 +1,69 @@
+<contest-event id="13314">
+  <event-date date="1897-7-17">July 17, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Boothfold Contest</name>
+  <contest id="2352">
+    <name>Boothfold Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>boothfold-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="6004">Macbeth</test-piece>
+  </test-piece>
+
+  <venue id="1959">Boothfold, Lancashire, England, UK</venue>
+  <notes>Prizes: £13, £8, £4, £2, £1
+March contest: 1. Whitewell, 2. Goodshaw, 3. Haslingden.
+Best euphonium - Haslingden
+6 bands competed</notes>
+
+  <created>May 9, 2012, 11:08 p.m.</created>
+  <last-modified>July 8, 2019, 9:54 p.m.</last-modified>
+
+  <results>
+    
+    <result id="105647">
+      <result code="1">1</result>
+      <band id="1437">Irwell Springs</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="105648">
+      <result code="2">2</result>
+      <band id="2538">Water Band Rossendale</band>
+      <conductor id="308227">William Rimmer</conductor>
+    </result>
+    
+    <result id="105649">
+      <result code="3">3</result>
+      <band id="3525">Haslingden Borough Band</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="105650">
+      <result code="4">4</result>
+      <band id="6354">Barnsley Borough</band>
+      <conductor id="310193">William Taylor</conductor>
+    </result>
+    
+    <result id="105651">
+      <result code="5">5</result>
+      <band id="3603">Whitewell Vale</band>
+      <conductor id="300643">Fred Durham</conductor>
+    </result>
+    
+    <result id="105652">
+      <result code="6">6</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="310580">Harry Trickett</conductor>
+    </result>
+    
+  </results>
+</contest-event>

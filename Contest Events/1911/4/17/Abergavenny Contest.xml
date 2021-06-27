@@ -1,0 +1,60 @@
+<contest-event id="39665">
+  <event-date date="1911-4-17">April 17, 1911<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Abergavenny Contest</name>
+  <contest id="1801">
+    <name>Abergavenny Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="323">Abergavenny Contest</group>
+    <slug>abergavenny-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="5574">L&#39;Africaine</test-piece>
+  </test-piece>
+
+  <venue id="1272">Abergavenny, Monmouthshire, Wales, UK</venue>
+  <notes>5 bands competed.</notes>
+
+  <created>May 22, 2018, 12:11 p.m.</created>
+  <last-modified>May 22, 2018, 12:17 p.m.</last-modified>
+
+  <results>
+    
+    <result id="287567">
+      <result code="1">1</result>
+      <band id="3">Fodens Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="287569">
+      <result code="2">2</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="287571">
+      <result code="3">3</result>
+      <band id="4524">Mountain Ash Volunteers</band>
+      <conductor id="317968">W. Greenwood</conductor>
+    </result>
+    
+    <result id="287566">
+      <result code="">Unknown Result</result>
+      <band id="1574">Ferndale</band>
+      <conductor id="307866">Samuel Radcliffe</conductor>
+    </result>
+    
+    <result id="287568">
+      <result code="">Unknown Result</result>
+      <band id="6593">Plymouth Workmens</band>
+      <conductor id="309431">R. C. Smith</conductor>
+    </result>
+    
+  </results>
+</contest-event>

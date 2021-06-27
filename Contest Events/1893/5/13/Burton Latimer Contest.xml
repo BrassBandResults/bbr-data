@@ -1,0 +1,68 @@
+<contest-event id="11742">
+  <event-date date="1893-5-13">May 13, 1893<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burton Latimer Contest</name>
+  <contest id="2336">
+    <name>Burton Latimer Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>burton-latimer-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1506">Joan of Arc [Round]</test-piece>
+  </test-piece>
+
+  <venue id="2249">Burton Latimer, Northamptonshire, England, UK</venue>
+  <notes>Promoted by Burton Latimer Britannia Band.
+Reported in Northampton Herald, 20th May 1893
+6 bands competed</notes>
+
+  <created>April 6, 2012, 5:49 p.m.</created>
+  <last-modified>June 6, 2019, 9:48 a.m.</last-modified>
+
+  <results>
+    
+    <result id="95166">
+      <result code="1">1</result>
+      <band id="1438">Kettering Rifles</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="95167">
+      <result code="2">2</result>
+      <band id="4451">Earls Barton Band</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="95168">
+      <result code="3">3</result>
+      <band id="495">Rushden Windmill Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="95169">
+      <result code="4">4</result>
+      <band id="8524">Rushden National School</band>
+      <conductor id="312432">George Fred Birkenshaw</conductor>
+    </result>
+    
+    <result id="98241">
+      <result code="">Unknown Result</result>
+      <band id="4031">Rothwell Albion Silver</band>
+      <conductor id="303099">Thomas Hill</conductor>
+    </result>
+    
+    <result id="98240">
+      <result code="">Unknown Result</result>
+      <band id="7535">Rothwell Town [Northamptonshire]</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+  </results>
+</contest-event>

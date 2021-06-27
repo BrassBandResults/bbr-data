@@ -1,0 +1,54 @@
+<contest-event id="17935">
+  <event-date date="1891-1-1">Jan. 1, 1891<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgelly Contest</name>
+  <contest id="1779">
+    <name>Dolgelly/Dolgellau Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1074">The Forest Queen</test-piece>
+  </test-piece>
+
+  <venue id="2905">Public Rooms, Dolgelly</venue>
+  <notes>Prize: £15</notes>
+
+  <created>Feb. 5, 2013, 5:41 p.m.</created>
+  <last-modified>Feb. 5, 2013, 5:47 p.m.</last-modified>
+
+  <results>
+    
+    <result id="135483">
+      <result code="1">1</result>
+      <band id="7681">Llan Festiniog Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135486">
+      <result code="">Unknown Result</result>
+      <band id="10393">Aberystwyth Excelsior</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135484">
+      <result code="">Unknown Result</result>
+      <band id="451">Newtown Silver Band (Wales)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="135485">
+      <result code="">Unknown Result</result>
+      <band id="7885">Portmadoc</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

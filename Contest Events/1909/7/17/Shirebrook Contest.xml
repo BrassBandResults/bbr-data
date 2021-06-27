@@ -1,0 +1,80 @@
+<contest-event id="15843">
+  <event-date date="1909-7-17">July 17, 1909<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Shirebrook Contest</name>
+  <contest id="1943">
+    <name>Shirebrook Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="255">Shirebrook Contest</group>
+    <slug>shirebrook-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1901">Verdi&#39;s Works [arr. W. Rimmer]</test-piece>
+  </test-piece>
+
+  <venue id="1380">Shirebrook, Derbyshire</venue>
+  <notes>Prizes  1st £12 and cup, 2nd £7, 3rd £3.10s., 4th £1.
+March contest  1st (£1.5s.) Lincoln Malleable, 2nd (15s.) Grimesthorpe.
+8 bands competed.</notes>
+
+  <created>Nov. 5, 2012, 1:21 p.m.</created>
+  <last-modified>Oct. 14, 2020, 10:13 p.m.</last-modified>
+
+  <results>
+    
+    <result id="122217">
+      <result code="1">1</result>
+      <band id="873">City of Lincoln Band</band>
+      <conductor id="318919">Ellerby Cox Snr</conductor>
+    </result>
+    
+    <result id="122218">
+      <result code="2">2</result>
+      <band id="7434">Kirkby-in-Ashfield Temperance</band>
+      <conductor id="310187">Sam Taylor</conductor>
+    </result>
+    
+    <result id="122219">
+      <result code="3">3</result>
+      <band id="4023">Mansfield Colliery Welfare</band>
+      <conductor id="299993">John Cupit</conductor>
+    </result>
+    
+    <result id="122220">
+      <result code="4">4</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="311390">George White</conductor>
+    </result>
+    
+    <result id="122221">
+      <result code="">Unknown Result</result>
+      <band id="3605">Hasland</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122224">
+      <result code="">Unknown Result</result>
+      <band id="7198">Spital Hill</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122223">
+      <result code="">Unknown Result</result>
+      <band id="4844">Houghton Main Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="122222">
+      <result code="">Unknown Result</result>
+      <band id="3586">Grimesthorpe</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

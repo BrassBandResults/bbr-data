@@ -1,0 +1,75 @@
+<contest-event id="33241">
+  <event-date date="1910-8-20">Aug. 20, 1910<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Burnley Contest</name>
+  <contest id="1264">
+    <name>Burnley Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>burnley-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="2204">Weber&#39;s Works</test-piece>
+  </test-piece>
+
+  <venue id="2546">Bank Hall Grounds, Burnley, Lancashire, England, UK</venue>
+  <notes>Prizes - 1st £20, 2nd £12, 3rd £8, 4th £5, 5th £3, 6th £2.
+Best cornet - Goodshaw.
+Best euphonium - Perfection Soap Works.
+7 bands competed.</notes>
+
+  <created>Oct. 30, 2015, 10:44 a.m.</created>
+  <last-modified>June 3, 2018, 6:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="239741">
+      <result code="1">1</result>
+      <band id="1654">Perfection Soap Works</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="239742">
+      <result code="2">2</result>
+      <band id="126">Hebden Bridge Band</band>
+      <conductor id="302169">J. A. Greenwood</conductor>
+    </result>
+    
+    <result id="239743">
+      <result code="3">3</result>
+      <band id="211">BMP (Europe) Goodshaw Band</band>
+      <conductor id="302452">William Halliwell</conductor>
+    </result>
+    
+    <result id="239744">
+      <result code="4">4</result>
+      <band id="1586">Irwell Bank</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="239745">
+      <result code="5">5</result>
+      <band id="219">Nelson Brass Band</band>
+      <conductor id="301261">Squire Firth</conductor>
+    </result>
+    
+    <result id="239746">
+      <result code="6">6</result>
+      <band id="894">Earby Band</band>
+      <conductor id="301077">Peter Fairhurst</conductor>
+    </result>
+    
+    <result id="289012">
+      <result code="7">7</result>
+      <band id="213">Eccles Borough Band</band>
+      <conductor id="303069">J. W. Higham</conductor>
+    </result>
+    
+  </results>
+</contest-event>

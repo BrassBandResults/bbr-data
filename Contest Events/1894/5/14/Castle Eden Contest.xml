@@ -1,0 +1,68 @@
+<contest-event id="11997">
+  <event-date date="1894-5-14">May 14, 1894<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Castle Eden Contest</name>
+  <contest id="2443">
+    <name>Castle Eden Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>castle-eden-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1278">Elixir of Love</test-piece>
+  </test-piece>
+
+  <venue id="3230">Head&#39;s Hope Dene, Castle Eden</venue>
+  <notes>March contest: 1. Hartlepool Recreation, 2. Hebburn
+Prizes: £10, £3, £1, 10s.
+6 bands competed</notes>
+
+  <created>April 8, 2012, 7:09 p.m.</created>
+  <last-modified>June 12, 2019, 11:18 a.m.</last-modified>
+
+  <results>
+    
+    <result id="96462">
+      <result code="1">1</result>
+      <band id="1575">Hebburn Colliery</band>
+      <conductor id="302926">Thomas Henderson</conductor>
+    </result>
+    
+    <result id="96463">
+      <result code="2">2</result>
+      <band id="7608">Hartlepool Recreation</band>
+      <conductor id="298871">J. Byers</conductor>
+    </result>
+    
+    <result id="96464">
+      <result code="3">3</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="298871">J. Byers</conductor>
+    </result>
+    
+    <result id="143515">
+      <result code="">Unknown Result</result>
+      <band id="8129">Shiney Row and District</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143514">
+      <result code="">Unknown Result</result>
+      <band id="7837">Thornley Colliery</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="143516">
+      <result code="">Unknown Result</result>
+      <band id="593">Westoe Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,67 @@
+<contest-event id="9291">
+  <event-date date="1887-10-15">Oct. 15, 1887<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Newcastle Contest</name>
+  <contest id="1046">
+    <name>Newcastle Contest</name>
+    <order>0</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="160">Newcastle upon Tyne Contest</group>
+    <slug>newcastle-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1162">Exhibition Park, Newcastle</venue>
+  <notes>Contest associated with the Newcastle Jubilee Exhibition.
+
+Prizes: 12 guineas + 12 guinea cornet, 10 guineas + 11 guinea cornet, 8 guineas + 11 guinea baritone, 5 guineas + 7 guinea trombone, 4 guineas
+
+Contest was confined to brass bands belonging to the counties of Northumberland and Durham. Twenty bands competed, the pieces played being mostly from the works. of Meyerbeer, Round, Verdi, Balfe, Weber, Rossini, and Gounod. 
+
+[Note – another report on this contest splits the first/second prizes between Annfield Plain Band and Tanfield Lea Band]</notes>
+
+  <created>Dec. 31, 2011, 11:10 p.m.</created>
+  <last-modified>Nov. 12, 2017, 5:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80316">
+      <result code="1">1</result>
+      <band id="3598">South Derwent</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="80317">
+      <result code="1">1</result>
+      <band id="6196">Tanfield Lea</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="80318">
+      <result code="3">3</result>
+      <band id="4180">Whitworth &amp; Spennymoor Silver Prize Band</band>
+      <conductor id="307879">George Raine</conductor>
+    </result>
+    
+    <result id="80319">
+      <result code="4">4</result>
+      <band id="1445">St. Hilda Colliery</band>
+      <conductor id="317311">John Dennison</conductor>
+      <test-piece id="1557">Reminiscences of Verdi</test-piece>
+    </result>
+    
+    <result id="80320">
+      <result code="5">5</result>
+      <band id="6279">West Pelton Volunteers</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

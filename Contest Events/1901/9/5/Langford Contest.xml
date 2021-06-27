@@ -1,0 +1,54 @@
+<contest-event id="29707">
+  <event-date date="1901-9-5">Sept. 5, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Langford Contest</name>
+  <contest id="1030">
+    <name>Langford Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>langford-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="2580">Gems from Sullivan&#39;s Operas No. 2</test-piece>
+  </test-piece>
+
+  <venue id="3603">Langford, Bedfordshire, England, UK</venue>
+  <notes>4 bands competed</notes>
+
+  <created>Oct. 17, 2014, 7:07 p.m.</created>
+  <last-modified>Jan. 5, 2015, 8:59 p.m.</last-modified>
+
+  <results>
+    
+    <result id="211239">
+      <result code="1">1</result>
+      <band id="7910">Arlesey Volunteer</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211240">
+      <result code="2">2</result>
+      <band id="12363">Stotfold</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211238">
+      <result code="3">3</result>
+      <band id="6810">Langford</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="211241">
+      <result code="4">4</result>
+      <band id="12365">Potton</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

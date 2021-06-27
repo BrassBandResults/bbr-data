@@ -1,0 +1,55 @@
+<contest-event id="26804">
+  <event-date date="1908-5-30">May 30, 1908<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Brotton Contest (Second Section)</name>
+  <contest id="1820">
+    <name>Brotton Contest (Second Section)</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>brotton-contest-second-section</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1802">Songs of Wallace</test-piece>
+  </test-piece>
+
+  <venue id="1015">Brotton, Cleveland</venue>
+  <notes>Cleveland BBA contest.
+4 bands competed</notes>
+
+  <created>April 1, 2014, 7:57 p.m.</created>
+  <last-modified>Sept. 21, 2018, 10:29 p.m.</last-modified>
+
+  <results>
+    
+    <result id="193957">
+      <result code="1">1</result>
+      <band id="6629">Brotton Temperance</band>
+      <conductor id="318346">J. Champion</conductor>
+    </result>
+    
+    <result id="193958">
+      <result code="2">2</result>
+      <band id="6008">Brotton Old</band>
+      <conductor id="303621">John Hugill</conductor>
+    </result>
+    
+    <result id="193959">
+      <result code="3">3</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="300255">William Day</conductor>
+    </result>
+    
+    <result id="193960">
+      <result code="4">4</result>
+      <band id="937">Lingdale Silver Band</band>
+      <conductor id="303862">J. W. Jackson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

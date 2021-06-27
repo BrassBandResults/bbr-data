@@ -1,0 +1,43 @@
+<contest-event id="43489">
+  <event-date date="1901-8-17">Aug. 17, 1901<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Glossop Contest</name>
+  <contest id="1448">
+    <name>Glossop Contest</name>
+    <order>0</order>
+    <contest-type id="13">Other</contest-type>
+    <group id=""></group>
+    <slug>glossop-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1746">Songs of Scotland</test-piece>
+  </test-piece>
+
+  <venue id="7305">Norfolk Square, Glossop, Derbyshire</venue>
+  <notes>A debate between the mayors of Glossop and Hyde on who had the best band resulted in a showdown to decide the winner.
+Only the two bands competed.</notes>
+
+  <created>April 28, 2020, 11:02 a.m.</created>
+  <last-modified>April 28, 2020, 11:05 a.m.</last-modified>
+
+  <results>
+    
+    <result id="318028">
+      <result code="1">1</result>
+      <band id="7886">Newton Moor</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="318029">
+      <result code="2">2</result>
+      <band id="122">Glossop Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

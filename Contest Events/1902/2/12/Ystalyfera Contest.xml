@@ -1,0 +1,49 @@
+<contest-event id="35747">
+  <event-date date="1902-2-12">Feb. 12, 1902<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Ystalyfera Contest</name>
+  <contest id="1826">
+    <name>Ystalyfera Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>ystalyfera-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1801">Songs of Other Days</test-piece>
+  </test-piece>
+
+  <venue id="1284">Ystalyfera, Neath Port Talbot, Wales, UK</venue>
+  <notes>March contest - 1st Trebanos, 2nd divided between Ty Croes and Ystardgynlais.
+</notes>
+
+  <created>July 22, 2016, 10:07 a.m.</created>
+  <last-modified>March 31, 2020, 3:23 p.m.</last-modified>
+
+  <results>
+    
+    <result id="259502">
+      <result code="1">1</result>
+      <band id="6639">Trebanos Public</band>
+      <conductor id="302540">Thomas Hanney</conductor>
+    </result>
+    
+    <result id="259503">
+      <result code="2">2</result>
+      <band id="6736">Tycroes Silver</band>
+      <conductor id="311596">David D. Williams</conductor>
+    </result>
+    
+    <result id="259504">
+      <result code="3">3</result>
+      <band id="465">Ystradgynlais Public Band</band>
+      <conductor id="305585">R. J. Marke</conductor>
+    </result>
+    
+  </results>
+</contest-event>

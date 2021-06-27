@@ -1,0 +1,98 @@
+<contest-event id="9299">
+  <event-date date="1888-6-2">June 2, 1888<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Barnoldswick Contest</name>
+  <contest id="1648">
+    <name>Barnoldswick Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="335">Barnoldswick Contest</group>
+    <slug>barnoldswick-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="1154">Liberal Club, Barnoldswick</venue>
+  <notes>5 bands competed
+Prizes: £25, £14, £8, £5
+Quickstep: 1. Leeds, 2. Besses
+</notes>
+
+  <created>Jan. 1, 2012, 11:50 a.m.</created>
+  <last-modified>Nov. 8, 2017, 9:18 p.m.</last-modified>
+
+  <results>
+    
+    <result id="80357">
+      <result code="1">1</result>
+      <band id="119">Besses o&#39; th&#39; Barn</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2374">Faust [Berlioz arr. Owen]</test-piece>
+    </result>
+    
+    <result id="80358">
+      <result code="2">2</result>
+      <band id="3638">Leeds Forge</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="80359">
+      <result code="3">3</result>
+      <band id="3635">Wyke Old</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="80360">
+      <result code="4">4</result>
+      <band id="1576">Kingston Mills Band</band>
+      <conductor id="301877">John Gladney Jnr</conductor>
+      <test-piece id="1579">Beethoven&#39;s Works [arr. Owen]</test-piece>
+    </result>
+    
+    <result id="133303">
+      <result code="5">5</result>
+      <band id="1440">Wyke</band>
+      <conductor id="310006">Edwin Swift</conductor>
+      <test-piece id="2256">Beethoven&#39;s Works [arr. Swift]</test-piece>
+    </result>
+    
+    <result id="133304">
+      <result code="W">Withdrawn</result>
+      <band id="2">Black Dyke Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133306">
+      <result code="W">Withdrawn</result>
+      <band id="2520">Heywood Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133305">
+      <result code="W">Withdrawn</result>
+      <band id="440">Honley Silver Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133307">
+      <result code="W">Withdrawn</result>
+      <band id="1450">Oldham Rifles Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="133308">
+      <result code="W">Withdrawn</result>
+      <band id="257">Todmorden Old Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

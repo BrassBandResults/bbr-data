@@ -1,0 +1,82 @@
+<contest-event id="14872">
+  <event-date date="1912-5-25">May 25, 1912<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Bishop Auckland Contest</name>
+  <contest id="2144">
+    <name>Bishop Auckland Contest</name>
+    <order>10</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id="354">Bishop Auckland Contest</group>
+    <slug>bishop-auckland-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1680">Apollo</test-piece>
+  </test-piece>
+
+  <venue id="1359">Auckland Park, Bishop Auckland</venue>
+  <notes>
+
+  March contest 1st West Auckland,  2nd Auckland Park.
+March contest - 1st Auckland Park, 2nd Pelton Colliery.
+8 bands competed.</notes>
+
+  <created>Sept. 28, 2012, 2:52 p.m.</created>
+  <last-modified>Sept. 27, 2018, 5:49 p.m.</last-modified>
+
+  <results>
+    
+    <result id="116503">
+      <result code="1">1</result>
+      <band id="1637">Skinningrove Miners Prize Silver Band</band>
+      <conductor id="302802">George Hawkins</conductor>
+    </result>
+    
+    <result id="116504">
+      <result code="2">2</result>
+      <band id="4728">North Skelton Prize Silver Band</band>
+      <conductor id="318440">Edwin R. Pritchard</conductor>
+    </result>
+    
+    <result id="116505">
+      <result code="3">3</result>
+      <band id="6690">Auckland Park</band>
+      <conductor id="303282">William Holdsworth</conductor>
+    </result>
+    
+    <result id="293953">
+      <result code="4">4</result>
+      <band id="5369">Leasingthorne Colliery</band>
+      <conductor id="318375">F. Newby</conductor>
+    </result>
+    
+    <result id="293952">
+      <result code="4">4</result>
+      <band id="6696">Pelton Institute</band>
+      <conductor id="299691">R. H. Cooper</conductor>
+    </result>
+    
+    <result id="293954">
+      <result code="">Unknown Result</result>
+      <band id="8328">Rough Lea</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293956">
+      <result code="">Unknown Result</result>
+      <band id="5103">St Helens (Bishop Auckland)</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="293955">
+      <result code="">Unknown Result</result>
+      <band id="5278">West Auckland and St.Helens Silver</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

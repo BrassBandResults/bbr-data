@@ -1,0 +1,86 @@
+<contest-event id="12344">
+  <event-date date="1895-3-4">March 4, 1895<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Troedyrhiw Contest</name>
+  <contest id="2540">
+    <name>Troedyrhiw Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>troedyrhiw-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1670">Gems of Cambria</test-piece>
+  </test-piece>
+
+  <venue id="1904">Troedyrhiw, Glamorgan</venue>
+  <notes>1st prize: £6 and gold medal
+
+March contest: 1. Vochriw</notes>
+
+  <created>April 12, 2012, 7:51 p.m.</created>
+  <last-modified>April 13, 2012, 9:27 p.m.</last-modified>
+
+  <results>
+    
+    <result id="98767">
+      <result code="1">1</result>
+      <band id="7520">Pontlottyn</band>
+      <conductor id="297557">J. Barrow</conductor>
+    </result>
+    
+    <result id="98771">
+      <result code="">Unknown Result</result>
+      <band id="7627">Abercanaid</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98768">
+      <result code="">Unknown Result</result>
+      <band id="7570">Bargoed</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98769">
+      <result code="">Unknown Result</result>
+      <band id="7842">Blaenrhondda</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98773">
+      <result code="">Unknown Result</result>
+      <band id="7519">Fochriw</band>
+      <conductor id="300251">Robert Dawson</conductor>
+    </result>
+    
+    <result id="98772">
+      <result code="">Unknown Result</result>
+      <band id="4786">Merthyr Vale Town</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98775">
+      <result code="">Unknown Result</result>
+      <band id="4791">New Tredegar</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98774">
+      <result code="">Unknown Result</result>
+      <band id="12696">Tylorstown</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="98770">
+      <result code="">Unknown Result</result>
+      <band id="287">Wrexham Brass</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

@@ -1,0 +1,111 @@
+<contest-event id="21950">
+  <event-date date="1903-8-15">Aug. 15, 1903<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Cleethorpes Contest</name>
+  <contest id="2001">
+    <name>Cleethorpes Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>cleethorpes-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  <contest-type-override id="9">Own Choice Test Piece Contest</contest-type-override>
+  <test-piece>
+    
+  </test-piece>
+
+  <venue id="3898">Pier Gardens, Cleethorpes, Lincolnshire, England, UK</venue>
+  <notes>  3rd annual contest promoted by Grimsby Borough Band.
+
+Prizes amounted to £23 10s
+
+Test pieces - choice of: &quot;Il Seraglio&quot;, &quot;Gems of Welsh Melodies&quot; or &quot;Scottish Melodies&quot;
+</notes>
+
+  <created>June 19, 2013, 8:33 a.m.</created>
+  <last-modified>Jan. 8, 2020, 11:04 p.m.</last-modified>
+
+  <results>
+    
+    <result id="162894">
+      <result code="1">1</result>
+      <band id="1584">Dannemora Steelworks</band>
+      <conductor id="308164">Robert Richford</conductor>
+      <test-piece id="1002">Il Seraglio [arr. Godfrey Jnr]</test-piece>
+    </result>
+    
+    <result id="162895">
+      <result code="2">2</result>
+      <band id="3267">Stocksbridge Old Prize</band>
+      <conductor id="299940">F. Crossley</conductor>
+      <test-piece id="2597">Scottish Memories</test-piece>
+    </result>
+    
+    <result id="162896">
+      <result code="3">3</result>
+      <band id="9885">Kilnhurst Alliance</band>
+      <conductor id="310695">J. Tyas</conductor>
+      <test-piece id="1002">Il Seraglio [arr. Godfrey Jnr]</test-piece>
+    </result>
+    
+    <result id="162897">
+      <result code="4">4</result>
+      <band id="3700">Hucknall Excelsior</band>
+      <conductor id="307002">Alexander Owen</conductor>
+      <test-piece id="2597">Scottish Memories</test-piece>
+    </result>
+    
+    <result id="171011">
+      <result code="">Unknown Result</result>
+      <band id="6581">Canklow</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171004">
+      <result code="">Unknown Result</result>
+      <band id="2743">Gainsborough Britannia Works Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171008">
+      <result code="">Unknown Result</result>
+      <band id="5211">Parkgate Temperance</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171006">
+      <result code="">Unknown Result</result>
+      <band id="6661">Scunthorpe Total Abstinence</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171009">
+      <result code="">Unknown Result</result>
+      <band id="3613">Sowerby Bridge Subscription</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171010">
+      <result code="W">Withdrawn</result>
+      <band id="2139">Barton Cycle Works</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171005">
+      <result code="W">Withdrawn</result>
+      <band id="8174">Greasbrough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="171007">
+      <result code="W">Withdrawn</result>
+      <band id="4706">Peterborough</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>

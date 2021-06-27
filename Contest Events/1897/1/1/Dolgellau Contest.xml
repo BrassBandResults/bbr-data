@@ -1,0 +1,50 @@
+<contest-event id="13145">
+  <event-date date="1897-1-1">Jan. 1, 1897<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Dolgellau Contest</name>
+  <contest id="1779">
+    <name>Dolgelly/Dolgellau Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>dolgelly-contest</slug>
+    
+    <notes>None</notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="1930">Ye Kingdoms and Nations</test-piece>
+  </test-piece>
+
+  <venue id="1253">Dolgellau, Gwynedd, Wales, UK</venue>
+  <notes>March contest: 1. Royal Oakley
+
+3 bands competed</notes>
+
+  <created>May 3, 2012, 9:16 p.m.</created>
+  <last-modified>Jan. 10, 2020, 11:49 a.m.</last-modified>
+
+  <results>
+    
+    <result id="104393">
+      <result code="1">1</result>
+      <band id="808">Royal Oakeley Band</band>
+      <conductor id="307002">Alexander Owen</conductor>
+    </result>
+    
+    <result id="283981">
+      <result code="">Unknown Result</result>
+      <band id="7278">Aberllefenni</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="283980">
+      <result code="">Unknown Result</result>
+      <band id="6134">Corris</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
