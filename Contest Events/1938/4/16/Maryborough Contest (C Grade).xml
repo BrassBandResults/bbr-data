@@ -1,0 +1,72 @@
+<contest-event id="44610">
+  <event-date date="1938-4-16">April 16, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Maryborough Contest (C Grade)</name>
+  <contest id="1438">
+    <name>Maryborough Contest (C Grade)</name>
+    <order>2</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="173">Maryborough Contest</group>
+    <slug>maryborough-contest-c-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="12">Test Piece Contest</contest-type-override>
+  <test-piece>
+    <test-piece id="931">Der Wildschütz [arr. Godfrey Jr.]</test-piece>
+  </test-piece>
+
+  <venue id="7069">Maryborough Show Ground, Maryborough, Queensland, Australia</venue>
+  <notes>Queensland State Championships</notes>
+
+  <created>July 3, 2021, 10:53 p.m.</created>
+  <last-modified>July 3, 2021, 11:02 p.m.</last-modified>
+
+  <results>
+    
+    <result id="326385">
+      <result code="1">1</result>
+      <band id="5769">Maryborough Naval Band [Queensland]</band>
+      <conductor id="310954">Harold Walmsley</conductor>
+    </result>
+    
+    <result id="326386">
+      <result code="2">2</result>
+      <band id="19679">Gympie Citizens</band>
+      <conductor id="318228">Bill Ryder Jun</conductor>
+    </result>
+    
+    <result id="326387">
+      <result code="3">3</result>
+      <band id="5770">Gympie City Band</band>
+      <conductor id="302995">Norm Hestridge</conductor>
+    </result>
+    
+    <result id="326388">
+      <result code="4">4</result>
+      <band id="13738">Ayr Citizens</band>
+      <conductor id="318214">A. W. Wellings</conductor>
+    </result>
+    
+    <result id="326389">
+      <result code="5">5</result>
+      <band id="13737">Cairns Railway</band>
+      <conductor id="318735">Jack Denovan</conductor>
+    </result>
+    
+    <result id="326390">
+      <result code="6">6</result>
+      <band id="11228">Ipswich Model</band>
+      <conductor id="302625">Horace Harper</conductor>
+    </result>
+    
+    <result id="326391">
+      <result code="7">7</result>
+      <band id="9352">Longreach Town Band</band>
+      <conductor id="309165">George Simpson</conductor>
+    </result>
+    
+  </results>
+</contest-event>

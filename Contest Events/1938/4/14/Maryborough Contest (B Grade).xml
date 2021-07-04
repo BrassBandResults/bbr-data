@@ -1,0 +1,52 @@
+<contest-event id="44609">
+  <event-date date="1938-4-14">April 14, 1938<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Maryborough Contest (B Grade)</name>
+  <contest id="1435">
+    <name>Maryborough Contest (B Grade)</name>
+    <order>1</order>
+    <contest-type id="9">Own Choice Test Piece Contest</contest-type>
+    <group id="173">Maryborough Contest</group>
+    <slug>maryborough-contest-b-grade</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  <contest-type-override id="11">Set Test and Own Choice</contest-type-override>
+  <test-piece>
+    <test-piece id="6629">No.1   Princess Nada  (Wright)  -  No.2   Tshaikowsky  (W. Rimmer)</test-piece>
+  </test-piece>
+
+  <venue id="7069">Maryborough Show Ground, Maryborough, Queensland, Australia</venue>
+  <notes>Queensland State Championships
+Brisbane Municipal previously known as Windsor Municipal
+2.Test Selections
+No.1 points listed under Test
+No.2 points listed under Own Choice</notes>
+
+  <created>July 3, 2021, 9:47 p.m.</created>
+  <last-modified>July 3, 2021, 10:39 p.m.</last-modified>
+
+  <results>
+    
+    <result id="326382">
+      <result code="1">1</result>
+      <band id="1319">Bundaberg Municipal Band</band>
+      <conductor id="304416">James Kelly</conductor>
+    </result>
+    
+    <result id="326383">
+      <result code="2">2</result>
+      <band id="17752">Brisbane City  (15/26 Battalion)</band>
+      <conductor id="307374">Harold Perkins</conductor>
+    </result>
+    
+    <result id="326384">
+      <result code="3">3</result>
+      <band id="6431">Maryborough Federal [Queensland]</band>
+      <conductor id="318202">Sam Whittaker</conductor>
+    </result>
+    
+  </results>
+</contest-event>
