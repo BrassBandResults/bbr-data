@@ -1,0 +1,48 @@
+<contest-event id="44622">
+  <event-date date="1929-8-14">Aug. 14, 1929<event-date>
+  <event-date-resolution>D</event-date-resolution>
+  <name>Tisbury Contest</name>
+  <contest id="1959">
+    <name>Tisbury Contest</name>
+    <order>0</order>
+    <contest-type id="12">Test Piece Contest</contest-type>
+    <group id=""></group>
+    <slug>tisbury-contest</slug>
+    
+    <notes></notes>
+    
+    
+  </contest>
+  
+  <test-piece>
+    <test-piece id="3759">Souvenir de Opera</test-piece>
+  </test-piece>
+
+  <venue id="1392">Tisbury, Wiltshire</venue>
+  <notes></notes>
+
+  <created>July 12, 2021, 11:41 a.m.</created>
+  <last-modified>July 12, 2021, 11:43 a.m.</last-modified>
+
+  <results>
+    
+    <result id="326437">
+      <result code="1">1</result>
+      <band id="6808">Fovant</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="326438">
+      <result code="2">2</result>
+      <band id="6805">Berwick St John</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+    <result id="326439">
+      <result code="3">3</result>
+      <band id="552">Downton Band</band>
+      <conductor id="310730">Unknown</conductor>
+    </result>
+    
+  </results>
+</contest-event>
